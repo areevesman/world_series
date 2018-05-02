@@ -60,10 +60,14 @@ for (i in 1:length(all_urls)){
   all_data_frames[[i]] <- read.csv(text = all_urls[i], 
                                    stringsAsFactors = FALSE) %>%
     as_tibble() %>%
+    mutate(Attendance = ifelse(is.na(Attendance), 
+                                     mean(Attendance, na.rm = TRUE),
+                                     Attendance)) %>%
     mutate(wins_so_far = cumsum(!grepl(x=W.L,pattern='L')),
            runs_so_far = cumsum(R),
            RA_so_far = cumsum(RA),
-           year = year)
+           year = year,
+           total_attendance = cumsum(Attendance))
   
 }
 names(all_data_frames) <- c('d17','a17',
@@ -87,7 +91,8 @@ combined <- tibble(team = combined_init$Tm,
                    wins_so_far = combined_init$wins_so_far,
                    runs_so_far = combined_init$runs_so_far,
                    RA_so_far = combined_init$RA_so_far,
-                   year = combined_init$year) %>%
+                   year = combined_init$year,
+                   total_attendance = combined_init$total_attendance) %>%
   mutate(games_ahead = gsub(x = games_ahead,
                             pattern = 'Tied',
                             replacement = '0')) %>%
@@ -107,12 +112,14 @@ labels_df <- data.frame(abrv = c('game_num',
                               'wins_so_far',
                               'runs_so_far',
                               'RA_so_far',
-                              'games_ahead'),
+                              'games_ahead',
+                              'total_attendance'),
                      spelled_out = c("Games Played", 
                                      "Number of Wins", 
                                      "Number of Runs Scored",
                                      "Number of Runs Allowed", 
-                                     "Number of Games Ahead"),
+                                     "Number of Games Ahead",
+                                     "Total Number of Attendees"),
                      stringsAsFactors = FALSE)
 
 
@@ -142,7 +149,8 @@ ui <- fluidPage(theme = shinytheme("superhero"),
                           choices = list("Wins per Games Played" = 'wins_so_far', 
                                          "Runs per Game" = 'runs_so_far',
                                          "Runs Allowed Per Game" = 'RA_so_far',
-                                         "Games Ahead in Division" = 'games_ahead'),
+                                         "Games Ahead in Division" = 'games_ahead',
+                                         'Total Attendance throughout Season' = 'total_attendance'),
                           selected = 'wins_so_far'),
        
        sliderInput("slider", label = h3("Range of Regular Season Games"), min = 0, 
