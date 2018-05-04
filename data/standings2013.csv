@@ -1,4 +1,4 @@
-team,league,games_played,wins,win_loss_pct,r_per_game,ra_per_game,avg_run_diff,sos,srs,pythWL,luck,inter,home,road,exInn,one_run,vRHP,vLHP,over_500,under500
+team,league,games_played,wins,losses,win_loss_pct,r_per_game,ra_per_game,avg_run_diff,sos,srs,pythWL,luck,inter,home,road,exInn,one_run,vRHP,vLHP,over_500,under_500
 BOS,AL,162,97,65,.599,5.3,4.0,1.2,0.1,1.3,100-62,-3,14-6,53-28,44-37,10-6,21-21,65-43,32-22,53-43,44-22
 STL,NL,162,97,65,.599,4.8,3.7,1.2,-0.1,1.0,101-61,-4,10-10,54-27,43-38,6-6,20-16,78-42,19-23,39-36,58-29
 ATL,NL,162,96,66,.593,4.2,3.4,0.9,-0.3,0.6,98-64,-2,11-9,56-25,40-41,12-5,27-20,71-50,25-16,39-24,57-42

@@ -30,6 +30,7 @@ pitching <- read.csv(text = pitching_url,
   arrange(Tm)
 
 
+
 plot(x = batting$SLG*batting$RBI, y = standings$W)
 
 

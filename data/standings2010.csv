@@ -1,4 +1,4 @@
-team,league,games_played,wins,win_loss_pct,r_per_game,ra_per_game,avg_run_diff,sos,srs,pythWL,luck,inter,home,road,exInn,one_run,vRHP,vLHP,over_500,under500
+team,league,games_played,wins,losses,win_loss_pct,r_per_game,ra_per_game,avg_run_diff,sos,srs,pythWL,luck,inter,home,road,exInn,one_run,vRHP,vLHP,over_500,under_500
 PHI,NL,162,97,65,.599,4.8,4.0,0.8,0.0,0.8,95-67,2,10-8,54-30,43-35,11-6,29-17,69-45,28-20,40-28,57-37
 TBR,AL,162,96,66,.593,5.0,4.0,0.9,0.1,1.1,96-66,0,7-11,49-32,47-34,10-5,29-27,60-46,36-20,57-40,39-26
 NYY,AL,162,95,67,.586,5.3,4.3,1.0,0.1,1.1,97-65,-2,11-7,52-29,43-38,7-7,20-19,64-40,31-27,51-44,44-23

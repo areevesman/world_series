@@ -1,4 +1,4 @@
-team,league,games_played,wins,win_loss_pct,r_per_game,ra_per_game,avg_run_diff,sos,srs,pythWL,luck,inter,home,road,exInn,one_run,vRHP,vLHP,over_500,under500
+team,league,games_played,wins,losses,win_loss_pct,r_per_game,ra_per_game,avg_run_diff,sos,srs,pythWL,luck,inter,home,road,exInn,one_run,vRHP,vLHP,over_500,under_500
 WSN,NL,162,98,64,.605,4.5,3.7,0.8,-0.2,0.7,96-66,2,10-8,50-31,48-33,13-7,27-21,69-45,29-19,48-40,50-24
 CIN,NL,162,97,65,.599,4.1,3.6,0.5,-0.3,0.2,91-71,6,7-8,50-31,47-34,7-7,31-21,65-47,32-18,40-36,57-29
 NYY,AL,162,95,67,.586,5.0,4.1,0.8,0.2,1.1,95-67,0,13-5,51-30,44-37,6-3,22-25,58-43,37-24,47-44,48-23

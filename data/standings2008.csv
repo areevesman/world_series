@@ -1,4 +1,4 @@
-team,league,games_played,wins,win_loss_pct,r_per_game,ra_per_game,avg_run_diff,sos,srs,pythWL,luck,inter,home,road,exInn,one_run,vRHP,vLHP,over_500,under500
+team,league,games_played,wins,losses,win_loss_pct,r_per_game,ra_per_game,avg_run_diff,sos,srs,pythWL,luck,inter,home,road,exInn,one_run,vRHP,vLHP,over_500,under_500
 LAA,AL,162,100,62,.617,4.7,4.3,0.4,0.3,0.7,88-74,12,10-8,50-31,50-31,3-5,31-21,67-46,33-16,46-30,54-32
 CHC,NL,161,97,64,.603,5.3,4.2,1.1,-0.4,0.8,98-63,-1,6-9,55-26,42-38,10-6,24-22,66-48,31-16,51-42,46-22
 TBR,AL,162,97,65,.599,4.8,4.1,0.6,0.5,1.1,92-70,5,12-6,57-24,40-41,10-6,29-18,72-41,25-24,55-46,42-19

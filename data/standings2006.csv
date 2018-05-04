@@ -1,4 +1,4 @@
-team,league,games_played,wins,win_loss_pct,r_per_game,ra_per_game,avg_run_diff,sos,srs,pythWL,luck,inter,home,road,exInn,one_run,vRHP,vLHP,over_500,under500
+team,league,games_played,wins,losses,win_loss_pct,r_per_game,ra_per_game,avg_run_diff,sos,srs,pythWL,luck,inter,home,road,exInn,one_run,vRHP,vLHP,over_500,under_500
 NYY,AL,162,97,65,.599,5.7,4.7,1.0,0.2,1.2,95-67,2,10-8,50-31,47-34,7-3,24-22,66-48,31-17,45-39,52-26
 NYM,NL,162,97,65,.599,5.1,4.5,0.6,-0.3,0.3,91-71,6,6-9,50-31,47-34,9-5,31-16,72-43,25-22,33-24,64-41
 MIN,AL,162,96,66,.593,4.9,4.2,0.7,0.3,1.1,93-69,3,16-2,54-27,42-39,10-4,20-11,62-40,34-26,41-38,55-28
