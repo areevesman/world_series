@@ -1,0 +1,157 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 12*boxscore*CIN*None*STL*W*1*0*None*2-0*1* Tied*Toney*Ames*None*1:37*D*None*++*None
+Friday, Apr 13*boxscore*CIN*None*STL*L*2*3*None*2-1*2* 1.0*Steele*Mitchell*None*2:20*D*None*-*None
+Saturday, Apr 14*boxscore*CIN*None*STL*L*1*2*None*2-2*4* 1.0*Watson*Schneider*None*1:51*D*None*--*None
+Sunday, Apr 15*boxscore*CIN*None*PIT*W*5*2*None*3-2*3* 0.5*Toney*Mamaux*None*1:21*D*None*+*None
+Monday, Apr 16*boxscore*CIN*None*PIT*L*4*8*None*3-3*4* 1.5*Cooper*Mitchell*None*1:45*D*None*-*None
+Tuesday, Apr 17*boxscore*CIN*None*PIT*W*3*2*None*4-3*3* 1.5*Schneider*Miller*None*1:39*D*None*+*None
+Wednesday, Apr 18*boxscore*CIN*None*PIT*W*7*5*None*5-3*2* 0.5*Eller*Mamaux*Mitchell*1:51*D*None*++*None
+Thursday, Apr 19*boxscore*CIN*@*STL*L*1*4*None*5-4*4* 1.5*Doak*Toney*None*1:54*D*15,000*-*None
+Friday, Apr 20*boxscore*CIN*@*STL*L*6*7*None*5-5*5* 1.5*Watson*Schneider*Ames*1:50*D*6,000*--*None
+Saturday, Apr 21*boxscore*CIN*@*STL*L*2*3*None*5-6*5* 2.5*Meadows*Mitchell*None*1:34*D*7,000*---*None
+Sunday, Apr 22*boxscore*CIN*None*CHC*W*7*4*None*6-6*5* 2.5*Schneider*Douglas*None*1:48*D*None*+*None
+Monday, Apr 23*boxscore*CIN*None*CHC*W*10*4*None*7-6*3* 1.5*Toney*Carter*None*2:08*D*None*++*None
+Tuesday, Apr 24*boxscore*CIN*None*CHC*L*4*8*None*7-7*4* 2.5*Aldridge*Mitchell*None*1:53*D*None*-*None
+Wednesday, Apr 25*boxscore*CIN*None*CHC*L*2*4*None*7-8*5* 3.5*Vaughn*Schneider*None*2:09*D*None*--*None
+Thursday, Apr 26*boxscore*CIN*None*CHC*W*6*4*None*8-8*4* 3.0*Ring*Douglas*None*1:46*D*None*+*None
+Friday, Apr 27*boxscore*CIN*@*PIT*W*5*3*None*9-8*3* 2.0*Toney*Miller*None*1:37*D*None*++*None
+Saturday, Apr 28*boxscore*CIN*@*PIT*L*0*2*None*9-9*5* 2.0*Grimes*Sanders*None*1:45*D*None*-*None
+Sunday, Apr 29*boxscore*CIN*None*PIT*L*0*3*None*9-10*5* 2.5*Carlson*Schneider*None*1:50*D*None*--*None
+Wednesday, May 2*boxscore*CIN*@*CHC*W*1*0*10*10-10*5* 2.0*Toney*Vaughn*None*1:50*D*3,500*+*None
+Thursday, May 3*boxscore*CIN*@*CHC*L*3*10*None*10-11*5* 2.5*Prendergast*Ring*None*2:08*D*3,100*-*None
+Friday, May 4*boxscore*CIN*@*CHC*L*3*11*None*10-12*5* 3.0*Demaree*Schneider*None*2:04*D*550*--*None
+Saturday, May 5*boxscore*CIN*@*CHC*W*7*4*None*11-12*5* 2.5*Schneider*Hendrix*Knetzer*1:45*D*4,000*+*None
+Sunday, May 6*boxscore*CIN*None*STL*L*0*4*None*11-13*5* 3.5*Watson*Toney*None*1:30*D*None*-*None
+Thursday, May 10*boxscore*CIN*@*NYG*L*2*5*None*11-14*6* 5.0*Perritt*Toney*None*None*D*None*--*None
+Friday, May 11*boxscore*CIN*@*NYG*L*2*9*None*11-15*6* 6.0*Schupp*Schneider*None*None*D*None*---*None
+Saturday, May 12*boxscore*CIN*@*NYG*L*3*6*None*11-16*6* 7.0*Benton*Mitchell*None*None*D*None*----*None
+Monday, May 14*boxscore*CIN*@*BRO*W*3*2*None*12-16*6* 7.0*Toney*Cadore*None*1:36*D*3,500*+*None
+Tuesday, May 15*boxscore*CIN*@*BRO*L*2*6*None*12-17*6* 8.0*Marquard*Schneider*None*1:35*D*2,000*-*None
+Thursday, May 17*boxscore*CIN*@*BRO*L*10*13*None*12-18*6* 9.5*Coombs*Eller*None*2:20*D*None*--*None
+Friday, May 18*boxscore*CIN*@*BSN*W*4*1*None*13-18*5* 8.5*Ring*Rudolph*None*None*D*None*+*None
+Saturday, May 19*boxscore*CIN*@*BSN*L*1*5*None*13-19*7* 8.5*Barnes*Toney*None*None*D*None*-*None
+Monday, May 21*boxscore*CIN*@*BSN*W*2*1*10*14-19*5* 7.5*Schneider*Tyler*None*None*D*None*+*None
+Wednesday, May 23*boxscore*CIN*@*PHI*L*1*5*None*14-20*6* 8.0*Alexander*Toney*None*None*D*None*-*None
+Thursday, May 24*boxscore*CIN*@*PHI*W*19*9*None*15-20*6* 7.0*Ring*Mayer*None*None*D*None*+*None
+Friday, May 25*boxscore*CIN*@*PHI*L*2*5*None*15-21*6* 8.0*Rixey*Schneider*None*None*D*None*-*None
+Saturday, May 26*boxscore*CIN*@*PHI*L*4*7*None*15-22*6* 9.0*Oeschger*Mitchell*None*None*D*None*--*None
+Tuesday, May 29*boxscore*CIN*None*STL*L*4*7*None*15-23*7* 9.5*Watson*Ring*None*1:46*D*None*---*None
+Wednesday, May 30*boxscore*CIN*None*STL*W*8*1*None*16-23*7* 8.5*Mitchell*Ames*None*2:02*D*None*+*None
+Wednesday, May 30*boxscore*CIN*None*STL*L*2*4*None*16-24*7* 8.5*Doak*Schneider*None*1:59*D*None*-*None
+Thursday, May 31*boxscore*CIN*None*STL*W*4*2*None*17-24*7* 8.0*Regan*Steele*None*1:54*D*None*+*1917-05-07 (Cold)
+Saturday, Jun 2*boxscore*CIN*None*BSN*L*3*4*None*17-25*7* 9.5*Nehf*Ring*None*1:44*D*None*-*None
+Sunday, Jun 3*boxscore*CIN*None*BSN*W*6*5*10*18-25*7* 8.5*Toney*Rudolph*None*2:06*D*None*+*None
+Monday, Jun 4*boxscore*CIN*None*BSN*L*2*5*None*18-26*7* 9.5*Barnes*Regan*None*1:34*D*None*-*None
+Tuesday, Jun 5*boxscore*CIN*None*NYG*W*6*5*None*19-26*7* 9.0*Mitchell*Smith*None*2:21*D*None*+*None
+Wednesday, Jun 6*boxscore*CIN*None*NYG*W*6*3*None*20-26*5* 8.0*Toney*Benton*None*1:53*D*None*++*None
+Thursday, Jun 7*boxscore*CIN*None*NYG*L*1*10*None*20-27*6* 8.5*Sallee*Regan*None*2:01*D*None*-*None
+Friday, Jun 8*boxscore*CIN*None*NYG*W*2*1*None*21-27*5* 8.5*Mitchell*Anderson*None*1:34*D*None*+*None
+Saturday, Jun 9*boxscore*CIN*None*BRO*W*2*1*None*22-27*5* 8.0*Schneider*Cadore*Eller*1:15*D*None*++*None
+Sunday, Jun 10*boxscore*CIN*None*BRO*L*3*4*None*22-28*5* 9.0*Smith*Toney*None*1:42*D*10,000*-*None
+Monday, Jun 11*boxscore*CIN*None*BRO*W*3*2*None*23-28*5* 8.0*Eller*Cheney*None*1:24*D*None*+*None
+Tuesday, Jun 12*boxscore*CIN*None*BRO*L*0*2*None*23-29*5* 9.0*Marquard*Mitchell*Cadore*1:38*D*None*-*None
+Wednesday, Jun 13*boxscore*CIN*None*PHI*L*2*3*None*23-30*6* 10.0*Alexander*Regan*None*1:37*D*None*--*None
+Thursday, Jun 14*boxscore*CIN*None*PHI*W*6*5*None*24-30*5* 9.5*Toney*Mayer*None*1:50*D*None*+*None
+Friday, Jun 15*boxscore*CIN*None*PHI*L*8*12*None*24-31*5* 10.0*Lavender*Eller*None*2:02*D*None*-*None
+Saturday, Jun 16*boxscore*CIN*None*PHI*W*2*1*11*25-31*5* 10.0*Mitchell*Rixey*None*2:20*D*None*+*None
+Sunday, Jun 17*boxscore*CIN*None*PHI*W*5*4*12*26-31*5* 9.5*Regan*Alexander*None*2:20*D*None*++*None
+Monday, Jun 18*boxscore*CIN*None*CHC*L*2*4*None*26-32*6* 10.0*Demaree*Toney*None*1:48*D*None*-*None
+Tuesday, Jun 19*boxscore*CIN*None*CHC*L*1*2*None*26-33*5* 10.5*Vaughn*Eller*None*2:44*D*None*--*None
+Tuesday, Jun 19*boxscore*CIN*None*CHC*W*6*2*6*27-33*5* 10.5*Eller*Aldridge*None*1:18*D*None*+*1917-05-27 (Rain)
+Wednesday, Jun 20*boxscore*CIN*None*CHC*W*5*4*None*28-33*5* 10.0*Mitchell*Seaton*None*2:00*D*None*++*None
+Thursday, Jun 21*boxscore*CIN*@*STL*W*7*1*None*29-33*5* 10.0*Toney*Watson*None*1:38*D*1,800*+++*None
+Friday, Jun 22*boxscore*CIN*@*STL*W*5*2*None*30-33*5* 9.0*Schneider*Ames*None*1:46*D*2,000*++++*None
+Saturday, Jun 23*boxscore*CIN*@*STL*L*1*5*None*30-34*5* 9.0*Meadows*Regan*None*1:34*D*3,500*-*None
+Sunday, Jun 24*boxscore*CIN*@*STL*L*2*4*None*30-35*5* 9.0*Doak*Mitchell*None*1:35*D*None*--*None
+Sunday, Jun 24*boxscore*CIN*@*STL*W*15*4*None*31-35*5* 9.0*Toney*Watson*None*1:53*D*15,000*+*1917-06-25 (Schedule change)
+Tuesday, Jun 26*boxscore*CIN*@*PIT*W*6*5*None*32-35*5* 8.5*Schneider*Cooper*None*1:54*D*None*++*1917-07-05 (Schedule change)
+Wednesday, Jun 27*boxscore*CIN*@*PIT*W*6*5*None*33-35*5* 8.0*Regan*Jacobs*Ring*1:45*D*None*+++*None
+Thursday, Jun 28*boxscore*CIN*@*PIT*L*2*6*None*33-36*5* 9.0*Steele*Toney*None*1:37*D*None*-*None
+Friday, Jun 29*boxscore*CIN*@*PIT*W*1*0*None*34-36*5* 8.5*Mitchell*Mamaux*None*1:28*D*None*+*None
+Saturday, Jun 30*boxscore*CIN*@*PIT*L*4*5*None*34-37*5* 9.5*Cooper*Ring*None*1:28*D*None*-*None
+Sunday, Jul 1*boxscore*CIN*None*PIT*W*4*1*None*35-37*5* 8.5*Toney*Jacobs*None*1:24*D*None*+*None
+Sunday, Jul 1*boxscore*CIN*None*PIT*W*5*1*None*36-37*5* 8.5*Toney*Steele*None*1:24*D*None*++*1917-04-30 (Rain)
+Monday, Jul 2*boxscore*CIN*@*CHC*W*8*5*None*37-37*5* 8.5*Regan*Prendergast*None*2:00*D*3,000*+++*None
+Tuesday, Jul 3*boxscore*CIN*@*CHC*W*3*1*None*38-37*5* 8.0*Schneider*Demaree*None*1:36*D*2,500*++++*None
+Wednesday, Jul 4*boxscore*CIN*@*CHC*W*2*0*None*39-37*4* 8.0*Toney*Aldridge*None*1:30*D*5,500*+++++*None
+Wednesday, Jul 4*boxscore*CIN*@*CHC*W*13*10*None*40-37*4* 8.0*Mitchell*Vaughn*Ring*2:30*D*15,000*++++++*None
+Friday, Jul 6*boxscore*CIN*@*BSN*L*2*4*None*40-38*5* 8.5*Allen*Regan*None*None*D*None*-*None
+Saturday, Jul 7*boxscore*CIN*@*BSN*W*2*1*None*41-38*4* 9.5*Schneider*Barnes*None*None*D*None*+*None
+Saturday, Jul 7*boxscore*CIN*@*BSN*L*0*3*None*41-39*4* 9.5*Rudolph*Mitchell*None*None*D*None*-*1917-05-22 (Rain)
+Monday, Jul 9*boxscore*CIN*@*BSN*W*4*0*None*42-39*4* 9.5*Eller*Nehf*None*None*D*None*+*None
+Tuesday, Jul 10*boxscore*CIN*@*BSN*W*10*5*None*43-39*4* 9.0*Toney*Rudolph*None*None*D*None*++*None
+Thursday, Jul 12*boxscore*CIN*@*NYG*W*2*1*None*44-39*4* 7.0*Regan*Schupp*None*None*D*None*+++*None
+Thursday, Jul 12*boxscore*CIN*@*NYG*W*5*1*None*45-39*4* 7.0*Schneider*Perritt*None*None*D*None*++++*1917-07-11 (Rain)
+Friday, Jul 13*boxscore*CIN*@*NYG*L*3*4*None*45-40*4* 8.0*Benton*Mitchell*Tesreau*None*D*None*-*None
+Saturday, Jul 14*boxscore*CIN*@*NYG*L*0*8*None*45-41*4* 8.0*Sallee*Eller*None*None*D*None*--*None
+Saturday, Jul 14*boxscore*CIN*@*NYG*W*7*4*None*46-41*4* 8.0*Toney*Anderson*None*None*D*None*+*1917-08-20 (Schedule change)
+Monday, Jul 16*boxscore*CIN*@*PHI*L*0*1*None*46-42*4* 9.0*Alexander*Regan*None*None*D*None*-*None
+Tuesday, Jul 17*boxscore*CIN*@*PHI*W*3*1*None*47-42*4* 9.0*Schneider*Rixey*None*None*D*None*+*None
+Wednesday, Jul 18*boxscore*CIN*@*PHI*L*1*3*None*47-43*4* 10.0*Mayer*Toney*None*None*D*None*-*None
+Friday, Jul 20*boxscore*CIN*@*BRO*W*4*2*None*48-43*3* 10.0*Regan*Marquard*None*1:35*D*None*+*None
+Saturday, Jul 21*boxscore*CIN*@*BRO*W*6*2*None*49-43*2* 9.5*Schneider*Cadore*None*1:53*D*None*++*None
+Saturday, Jul 21*boxscore*CIN*@*BRO*W*9*1*None*50-43*2* 9.5*Mitchell*Pfeffer*None*1:47*D*None*+++*1917-05-16 (Wet grounds)
+Monday, Jul 23*boxscore*CIN*@*BRO*W*5*2*None*51-43*2* 8.5*Toney*Smith*None*1:30*D*None*++++*None
+Tuesday, Jul 24*boxscore*CIN*@*BRO*W*6*5*10*52-43*2* 8.5*Eller*Coombs*None*1:50*D*None*+++++*None
+Thursday, Jul 26*boxscore*CIN*None*PHI*W*5*2*None*53-43*2* 7.5*Schneider*Rixey*None*1:52*D*None*++++++*None
+Friday, Jul 27*boxscore*CIN*None*PHI*W*6*4*None*54-43*2* 7.5*Toney*Mayer*None*1:41*D*None*+++++++*None
+Saturday, Jul 28*boxscore*CIN*None*PHI*L*3*6*10*54-44*3* 7.5*Alexander*Mitchell*None*1:56*D*None*-*None
+Sunday, Jul 29*boxscore*CIN*None*PHI*L*0*1*None*54-45*3* 8.5*Oeschger*Schneider*None*1:55*D*None*--*None
+Monday, Jul 30*boxscore*CIN*None*BRO*L*3*7*None*54-46*3* 8.5*Marquard*Ring*None*1:41*D*None*---*None
+Tuesday, Jul 31*boxscore*CIN*None*BRO*L*2*4*None*54-47*3* 10.0*Cadore*Toney*Smith*1:45*D*None*----*None
+Wednesday, Aug 1*boxscore*CIN*None*BRO*L*2*6*None*54-48*4* 11.0*Pfeffer*Regan*None*1:58*D*None*-----*None
+Thursday, Aug 2*boxscore*CIN*None*BRO*L*2*6*None*54-49*4* 12.0*Cheney*Schneider*None*1:55*D*None*------*None
+Friday, Aug 3*boxscore*CIN*None*NYG*L*2*10*None*54-50*4* 13.0*Sallee*Toney*None*1:46*D*None*-------*None
+Saturday, Aug 4*boxscore*CIN*None*NYG*W*4*1*None*55-50*4* 12.0*Regan*Schupp*None*1:43*D*None*+*None
+Sunday, Aug 5*boxscore*CIN*None*NYG*L*2*7*None*55-51*4* 13.0*Tesreau*Mitchell*None*2:00*D*None*-*None
+Tuesday, Aug 7*boxscore*CIN*None*NYG*L*2*4*None*55-52*4* 14.0*Demaree*Schneider*Benton*1:59*D*None*--*1917-08-06 (Rain)
+Wednesday, Aug 8*boxscore*CIN*None*BSN*L*0*2*None*55-53*4* 14.5*Barnes*Regan*None*1:28*D*None*---*None
+Wednesday, Aug 8*boxscore*CIN*None*BSN*W*3*0*None*56-53*4* 14.5*Toney*Nehf*None*1:33*D*None*+*1917-06-01 (Rain)
+Friday, Aug 10*boxscore*CIN*None*BSN*W*7*0*None*57-53*4* 15.0*Mitchell*Rudolph*None*1:45*D*None*++*None
+Saturday, Aug 11*boxscore*CIN*None*BSN*L*4*5*None*57-54*4* 15.0*Tyler*Ring*None*1:47*D*None*-*None
+Sunday, Aug 12*boxscore*CIN*@*STL*W*7*0*None*58-54*3* 14.0*Toney*Watson*None*1:40*D*None*+*None
+Sunday, Aug 12*boxscore*CIN*@*STL*W*7*6*None*59-54*3* 14.0*Regan*Doak*None*1:44*D*13,000*++*1917-08-14 (Schedule change)
+Monday, Aug 13*boxscore*CIN*@*STL*L*5*6*12*59-55*4* 14.5*Ames*Mitchell*None*2:38*D*2,000*-*None
+Wednesday, Aug 15*boxscore*CIN*@*PIT*L*2*3*None*59-56*4* 15.0*Miller*Schneider*None*1:45*D*None*--*1917-09-05 (Schedule change)
+Thursday, Aug 16*boxscore*CIN*@*BRO*W*3*2*None*60-56*3* 15.0*Toney*Cadore*None*1:30*D*None*+*None
+Saturday, Aug 18*boxscore*CIN*@*BRO*W*5*2*None*61-56*4* 14.5*Schneider*Cheney*None*1:35*D*None*++*None
+Saturday, Aug 18*boxscore*CIN*@*BRO*L*2*9*None*61-57*4* 14.5*Smith*Regan*None*1:40*D*None*-*1917-08-17 (Schedule change)
+Sunday, Aug 19*boxscore*CIN*@*NYG*W*5*0*None*62-57*3* 13.5*Toney*Demaree*None*None*D*None*+*1917-05-09 (Rain)
+Tuesday, Aug 21*boxscore*CIN*@*NYG*W*7*5*None*63-57*4* 12.5*Eller*Sallee*None*None*D*None*++*None
+Wednesday, Aug 22*boxscore*CIN*@*NYG*L*0*3*None*63-58*4* 13.5*Benton*Schneider*None*None*D*None*-*None
+Friday, Aug 24*boxscore*CIN*@*PHI*L*5*6*None*63-59*4* 14.5*Rixey*Ring*None*None*D*None*--*None
+Friday, Aug 24*boxscore*CIN*@*PHI*L*6*7*None*63-60*4* 14.5*Rixey*Eller*Bender*None*D*None*---*1917-07-19 (Rain)
+Saturday, Aug 25*boxscore*CIN*@*PHI*L*3*4*10*63-61*4* 16.5*Mayer*Toney*None*None*D*None*----*None
+Saturday, Aug 25*boxscore*CIN*@*PHI*L*1*3*None*63-62*4* 16.5*Bender*Schneider*None*None*D*None*-----*1917-08-23 (Rain)
+Monday, Aug 27*boxscore*CIN*@*BSN*W*4*2*None*64-62*4* 15.5*Regan*Tyler*None*None*D*None*+*None
+Tuesday, Aug 28*boxscore*CIN*@*BSN*W*9*1*None*65-62*4* 15.5*Schneider*Barnes*None*None*D*None*++*None
+Wednesday, Aug 29*boxscore*CIN*@*BSN*W*5*4*10*66-62*4* 15.5*Eller*Nehf*None*None*D*None*+++*None
+Friday, Aug 31*boxscore*CIN*None*CHC*T*8*8*11*66-62*4* 15.0*None*None*None*2:57*D*None*+++*None
+Saturday, Sep 1*boxscore*CIN*None*CHC*W*2*1*None*67-62*4* 14.5*Toney*Vaughn*None*1:34*D*None*++++*None
+Saturday, Sep 1*boxscore*CIN*None*CHC*W*3*1*None*68-62*4* 14.5*Eller*Hendrix*None*1:45*D*None*+++++*None
+Sunday, Sep 2*boxscore*CIN*None*PIT*L*7*8*None*68-63*4* 15.0*Steele*Mitchell*None*2:20*D*None*-*None
+Monday, Sep 3*boxscore*CIN*@*PIT*L*0*8*None*68-64*4* 16.0*Miller*Engel*None*1:30*D*None*--*None
+Monday, Sep 3*boxscore*CIN*@*PIT*L*3*5*None*68-65*4* 16.0*Steele*Schneider*None*1:31*D*None*---*None
+Tuesday, Sep 4*boxscore*CIN*@*PIT*L*4*5*10*68-66*4* 16.0*Cooper*Toney*None*1:43*D*None*----*None
+Sunday, Sep 9*boxscore*CIN*None*STL*L*3*6*None*68-67*4* 18.0*Watson*Schneider*None*1:45*D*None*-----*None
+Sunday, Sep 9*boxscore*CIN*None*STL*L*0*2*None*68-68*4* 18.0*Meadows*Toney*None*1:44*D*None*------*1917-09-08 (Wet grounds)
+Tuesday, Sep 11*boxscore*CIN*@*CHC*L*5*6*None*68-69*5* 19.0*Aldridge*Ruether*Carter*1:54*D*None*-------*None
+Tuesday, Sep 11*boxscore*CIN*@*CHC*L*1*5*None*68-70*5* 19.0*Vaughn*Toney*None*1:48*D*5,000*--------*1917-09-10 (Cold)
+Wednesday, Sep 12*boxscore*CIN*@*CHC*W*6*4*None*69-70*5* 19.5*Schneider*Douglas*None*1:45*D*1,000*+*None
+Saturday, Sep 15*boxscore*CIN*None*PIT*W*7*6*None*70-70*5* 20.0*Eller*Grimes*None*2:03*D*None*++*None
+Sunday, Sep 16*boxscore*CIN*None*PIT*W*4*2*None*71-70*4* 19.0*Schneider*Steele*None*1:52*D*None*+++*None
+Sunday, Sep 16*boxscore*CIN*None*PIT*W*3*2*None*72-70*4* 19.0*Regan*Carlson*None*1:36*D*None*++++*1917-09-14 (Schedule change)
+Monday, Sep 17*boxscore*CIN*None*PHI*L*1*4*None*72-71*4* 20.0*Alexander*Mitchell*None*1:31*D*None*-*None
+Tuesday, Sep 18*boxscore*CIN*None*PHI*W*1*0*None*73-71*4* 20.0*Toney*Rixey*None*1:06*D*None*+*None
+Saturday, Sep 22*boxscore*CIN*None*BRO*W*4*2*None*74-71*4* 19.5*Schneider*Marquard*None*1:37*D*None*++*None
+Sunday, Sep 23*boxscore*CIN*None*BRO*L*2*5*None*74-72*4* 19.5*Pfeffer*Toney*None*1:25*D*None*-*None
+Sunday, Sep 23*boxscore*CIN*None*BRO*W*8*0*None*75-72*4* 19.5*Regan*Cheney*None*1:27*D*None*+*1917-09-20 (Rain)
+Monday, Sep 24*boxscore*CIN*None*BSN*T*2*2*12*75-72*4* 20.0*None*None*None*2:34*D*None*+*None
+Tuesday, Sep 25*boxscore*CIN*None*BSN*L*0*13*None*75-73*4* 20.0*Tyler*Ruether*None*1:20*D*None*-*None
+Tuesday, Sep 25*boxscore*CIN*None*BSN*T*3*3*11*75-73*4* 20.0*None*None*None*1:45*D*None*-*1917-08-09 (Rain)
+Wednesday, Sep 26*boxscore*CIN*None*BSN*L*0*1*None*75-74*4* 20.5*Barnes*Schneider*None*1:33*D*None*--*None
+Wednesday, Sep 26*boxscore*CIN*None*BSN*L*0*3*None*75-75*4* 20.5*Nehf*Schneider*None*1:48*D*None*---*None
+Thursday, Sep 27*boxscore*CIN*None*BSN*W*6*4*None*76-75*4* 20.0*Eller*Hughes*None*1:26*D*None*+*None
+Saturday, Sep 29*boxscore*CIN*None*NYG*L*2*4*None*76-76*4* 21.0*Benton*Regan*None*1:42*D*None*-*None
+Sunday, Sep 30*boxscore*CIN*None*NYG*W*9*5*None*77-76*4* 19.0*Schneider*Sallee*Toney*1:57*D*None*+*None
+Sunday, Sep 30*boxscore*CIN*None*NYG*W*4*0*None*78-76*4* 19.0*Ruether*Demaree*None*1:21*D*None*++*1917-09-27 (Schedule change)

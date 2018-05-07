@@ -1,0 +1,155 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 22*boxscore*DET*@*CLE*W*4*0*None*1-1*4* 0.5*Trucks*Harder*None*1:55*D*2,500*+*None
+Saturday, Apr 24*boxscore*DET*@*CLE*L*2*3*None*1-2*6* 1.5*Kennedy*White*None*1:35*D*4,000*-*None
+Sunday, Apr 25*boxscore*DET*@*CLE*L*1*4*None*1-3*5* 2.0*Bagby*Trout*None*1:28*D*None*--*None
+Sunday, Apr 25*boxscore*DET*@*CLE*W*4*1*None*2-3*5* 2.0*Overmire*Naymick*None*2:30*D*10,283*+*None
+Wednesday, Apr 28*boxscore*DET*None*SLB*W*4*2*None*3-3*4* 1.5*Bridges*Sundra*Gorsica*2:02*D*17,943*++*None
+Thursday, Apr 29*boxscore*DET*None*SLB*W*3*2*None*4-3*4* 1.5*Trucks*Hollingsworth*None*1:29*D*3,031*+++*None
+Saturday, May 1*boxscore*DET*None*CLE*W*3*2*15*5-3*2* 1.0*Trout*Heving*None*1:48*D*3,425*++++*None
+Sunday, May 2*boxscore*DET*None*CLE*L*2*5*None*5-4*4* 1.5*Harder*Gorsica*Naymick*2:07*D*22,040*-*None
+Tuesday, May 4*boxscore*DET*@*SLB*W*4*3*None*6-4*3* 1.5*Trucks*Hollingsworth*Trout*1:46*D*647*+*None
+Wednesday, May 5*boxscore*DET*@*SLB*W*5*1*None*7-4*3* 1.5*Overmire*Potter*None*1:48*D*1,473*++*None
+Thursday, May 6*boxscore*DET*@*SLB*L*0*1*None*7-5*3* 3.0*Galehouse*Newhouser*None*2:00*D*618*-*None
+Friday, May 7*boxscore*DET*@*CHW*L*0*1*10*7-6*3* 4.0*Humphries*White*None*1:51*D*513*--*None
+Sunday, May 9*boxscore*DET*@*CHW*L*1*3*None*7-7*3* 3.5*Maltzberger*Trucks*None*1:51*D*None*---*None
+Sunday, May 9*boxscore*DET*@*CHW*W*4*1*11*8-7*3* 3.5*Trout*Smith*None*2:02*D*10,201*+*None
+Wednesday, May 12*boxscore*DET*None*PHA*W*3*2*15*9-7*3* 2.5*Trucks*Wolff*None*2:35*D*2,945*++*None
+Thursday, May 13*boxscore*DET*None*PHA*L*1*2*13*9-8*3* 3.0*Flores*Gorsica*None*2:58*D*1,313*-*None
+Friday, May 14*boxscore*DET*None*PHA*L*6*7*12*9-9*4* 3.0*Harris*Bridges*None*2:40*D*2,089*--*None
+Saturday, May 15*boxscore*DET*None*WSH*W*8*1*None*10-9*3* 2.5*Trout*Mertz*None*1:44*D*1,662*+*None
+Sunday, May 16*boxscore*DET*None*WSH*L*1*7*None*10-10*5* 3.5*Wynn*Trucks*None*2:13*D*None*-*None
+Sunday, May 16*boxscore*DET*None*WSH*L*6*10*None*10-11*5* 3.5*Candini*White*None*1:55*D*33,390*--*None
+Friday, May 21*boxscore*DET*None*BOS*W*2*1*13*11-11*4* 3.0*Newhouser*Hughson*None*2:14*D*1,103*+*None
+Saturday, May 22*boxscore*DET*None*BOS*W*4*0*None*12-11*3* 2.0*Trout*Newsome*None*1:33*D*4,876*++*None
+Sunday, May 23*boxscore*DET*None*BOS*W*4*3*None*13-11*4* 2.0*Bridges*Dobson*Gorsica*1:47*D*None*+++*None
+Sunday, May 23*boxscore*DET*None*BOS*L*2*3*10*13-12*4* 2.0*Judd*White*None*2:07*D*28,899*-*None
+Thursday, May 27*boxscore*DET*@*NYY*W*3*2*None*14-12*3* 1.0*Newhouser*Donald*None*1:55*D*7,336*+*None
+Friday, May 28*boxscore*DET*@*NYY*L*1*2*None*14-13*4* 1.5*Borowy*Trout*None*1:44*D*4,323*-*None
+Saturday, May 29*boxscore*DET*@*BOS*W*6*4*None*15-13*4* 1.5*Bridges*Terry*Gorsica*1:52*D*3,359*+*None
+Sunday, May 30*boxscore*DET*@*BOS*L*0*3*None*15-14*5* 3.0*Newsome*Trucks*None*1:32*D*None*-*None
+Sunday, May 30*boxscore*DET*@*BOS*L*1*5*None*15-15*5* 3.0*Lucier*Overmire*None*1:39*D*17,640*--*None
+Monday, May 31*boxscore*DET*@*PHA*W*7*0*None*16-15*5* 3.0*Newhouser*Arntzen*None*None*None*None*+*None
+Monday, May 31*boxscore*DET*@*PHA*L*3*4*None*16-16*5* 3.0*Wolff*White*None*None*None*None*-*None
+Tuesday, Jun 1*boxscore*DET*@*PHA*W*5*3*None*17-16*3* 2.5*Trout*Flores*White*None*None*None*+*None
+Wednesday, Jun 2*boxscore*DET*@*PHA*W*7*2*None*18-16*3* 1.5*Overmire*Harris*None*2:10*D*1,500*++*None
+Thursday, Jun 3*boxscore*DET*@*WSH*W*8*2*None*19-16*3* 1.5*Trucks*Mertz*Trout*2:05*D*14,000*+++*None
+Friday, Jun 4*boxscore*DET*@*WSH*W*2*1*None*20-16*2* 1.5*Gorsica*Leonard*Henshaw*1:57*D*14,000*++++*None
+Saturday, Jun 5*boxscore*DET*@*WSH*L*3*6*None*20-17*3* 1.5*Wynn*Newhouser*Haefner*2:18*D*3,550*-*None
+Sunday, Jun 6*boxscore*DET*@*WSH*L*1*5*None*20-18*3* 3.5*Pyle*Trout*Carrasquel*2:02*D*None*--*None
+Sunday, Jun 6*boxscore*DET*@*WSH*L*4*8*None*20-19*3* 3.5*Candini*Overmire*Mertz*2:07*D*20,000*---*None
+Wednesday, Jun 9*boxscore*DET*None*CHW*L*1*3*None*20-20*4* 4.0*Humphries*Newhouser*Maltzberger*2:05*D*14,793*----*None
+Thursday, Jun 10*boxscore*DET*None*CHW*L*5*11*None*20-21*5* 5.0*Grove*Trout*None*None*D*None*-----*None
+Saturday, Jun 12*boxscore*DET*None*CHW*W*5*3*None*21-21*3* 5.5*White*Lee*None*1:41*D*3,569*+*None
+Sunday, Jun 13*boxscore*DET*None*CHW*W*6*4*None*22-21*3* 3.5*Bridges*Dietrich*None*2:10*D*None*++*None
+Sunday, Jun 13*boxscore*DET*None*CHW*W*3*2*None*23-21*3* 3.5*Trucks*Smith*Newhouser*1:44*D*28,197*+++*None
+Thursday, Jun 17*boxscore*DET*@*CLE*L*2*3*None*23-22*4* 5.5*Naymick*Newhouser*None*1:54*D*None*-*None
+Thursday, Jun 17*boxscore*DET*@*CLE*L*5*6*12*23-23*4* 5.5*Naymick*Trucks*None*2:45*D*8,891*--*1943-06-15 (Inclement weather)
+Friday, Jun 18*boxscore*DET*None*SLB*L*4*7*None*23-24*4* 5.5*Niggeling*White*Caster*2:10*D*7,484*---*None
+Saturday, Jun 19*boxscore*DET*None*SLB*W*4*3*12*24-24*3* 5.5*Newhouser*Caster*None*3:15*D*2,757*+*None
+Sunday, Jun 20*boxscore*DET*None*SLB*L*3*6*None*24-25*5* 6.5*Galehouse*Trout*None*2:13*D*None*-*None
+Sunday, Jun 20*boxscore*DET*None*SLB*L*4*5*None*24-26*5* 6.5*Potter*Overmire*Muncrief*2:07*D*27,595*--*None
+Wednesday, Jun 23*boxscore*DET*None*CLE*W*3*1*None*25-26*5* 6.0*Newhouser*Salveson*None*1:45*D*None*+*None
+Wednesday, Jun 23*boxscore*DET*None*CLE*L*6*9*11*25-27*5* 6.0*Milnar*Oana*None*1:44*D*5,210*-*1943-04-30 (Inclement weather)
+Thursday, Jun 24*boxscore*DET*None*CLE*W*7*4*None*26-27*4* 5.5*Trucks*Bagby*None*1:55*D*6,617*+*None
+Friday, Jun 25*boxscore*DET*@*SLB*L*3*6*None*26-28*5* 6.0*Galehouse*Trout*None*2:07*D*4,612*-*None
+Saturday, Jun 26*boxscore*DET*@*SLB*L*3*6*None*26-29*5* 6.0*Potter*Henshaw*Caster*1:54*D*1,239*--*None
+Sunday, Jun 27*boxscore*DET*@*SLB*L*3*6*None*26-30*5* 6.0*Muncrief*Newhouser*Hollingsworth*2:02*D*None*---*None
+Sunday, Jun 27*boxscore*DET*@*SLB*W*9*5*None*27-30*5* 6.0*Trout*Sundra*None*1:52*D*7,463*+*None
+Wednesday, Jun 30*boxscore*DET*None*BOS*T*3*3*12*27-30*6* 6.5*None*None*None*2:27*D*13,739*+*None
+Thursday, Jul 1*boxscore*DET*None*BOS*W*3*2*None*28-30*6* 5.5*Trout*Judd*None*1:56*D*2,829*++*None
+Friday, Jul 2*boxscore*DET*None*BOS*W*8*2*None*29-30*4* 4.5*Bridges*Terry*None*1:44*D*1,585*+++*None
+Saturday, Jul 3*boxscore*DET*None*NYY*W-wo*6*5*11*30-30*3* 2.5*Newhouser*Murphy*None*2:30*D*None*++++*None
+Saturday, Jul 3*boxscore*DET*None*NYY*&V*10*9*None*31-30*3* 2.5*Oana*Murphy*None*2:35*D*8,722*+++++*1943-05-18 (Inclement weather)
+Sunday, Jul 4*boxscore*DET*None*NYY*L*0*1*None*31-31*3* 2.5*Bonham*Trucks*None*1:41*D*None*-*None
+Sunday, Jul 4*boxscore*DET*None*NYY*W*6*0*None*32-31*3* 2.5*Overmire*Borowy*None*1:43*D*22,249*+*None
+Monday, Jul 5*boxscore*DET*None*WSH*W*10*3*None*33-31*3* 3.5*Trout*Leonard*None*1:49*D*10,514*++*None
+Monday, Jul 5*boxscore*DET*None*WSH*L*4*6*None*33-32*3* 3.5*Wynn*White*None*1:56*D*20,019*-*None
+Tuesday, Jul 6*boxscore*DET*None*WSH*W*4*3*16*34-32*3* 3.5*Gorsica*Scarborough*None*3:27*D*1,332*+*None
+Wednesday, Jul 7*boxscore*DET*None*WSH*W*9*1*None*35-32*2* 3.5*Newhouser*Carrasquel*None*None*D*720*++*None
+Thursday, Jul 8*boxscore*DET*None*PHA*W*3*1*None*36-32*2* 2.5*Trout*Wolff*None*1:31*D*7,963*+++*None
+Friday, Jul 9*boxscore*DET*None*PHA*W*4*0*None*37-32*2* 2.0*White*Christopher*None*1:48*D*7,434*++++*None
+Saturday, Jul 10*boxscore*DET*None*PHA*L*1*6*None*37-33*2* 3.5*Harris*Trucks*None*1:52*D*4,207*-*None
+Sunday, Jul 11*boxscore*DET*None*PHA*L*3*4*None*37-34*2* 4.5*Black*Newhouser*None*1:56*D*None*--*None
+Sunday, Jul 11*boxscore*DET*None*PHA*W*9*0*None*38-34*2* 4.5*Bridges*Flores*None*1:36*D*31,540*+*None
+Thursday, Jul 15*boxscore*DET*@*CHW*L*4*7*None*38-35*3* 5.0*Grove*Trout*None*2:06*D*24,349*-*None
+Saturday, Jul 17*boxscore*DET*@*CHW*L*2*5*None*38-36*3* 6.0*Dietrich*Newhouser*None*1:51*D*None*--*None
+Saturday, Jul 17*boxscore*DET*@*CHW*W*3*0*None*39-36*3* 6.0*Bridges*Ross*None*1:52*D*5,741*+*1943-05-08 (Inclement weather)
+Sunday, Jul 18*boxscore*DET*@*CHW*W*12*4*None*40-36*3* 7.0*White*Lee*Gorsica*2:20*D*None*++*None
+Sunday, Jul 18*boxscore*DET*@*CHW*L*1*4*None*40-37*3* 7.0*Humphries*Trout*None*1:49*D*24,443*-*None
+Wednesday, Jul 21*boxscore*DET*@*WSH*L*5*6*None*40-38*3* 7.0*Haefner*Newhouser*None*2:01*D*12,107*--*None
+Thursday, Jul 22*boxscore*DET*@*WSH*W*7*5*None*41-38*3* 6.5*Oana*Leonard*Trout*2:10*D*None*+*None
+Thursday, Jul 22*boxscore*DET*@*WSH*W*1*0*None*42-38*3* 6.5*Overmire*Wynn*None*2:00*D*22,068*++*None
+Friday, Jul 23*boxscore*DET*@*WSH*W*12*6*10*43-38*2* 6.5*Bridges*Scarborough*Trout*2:37*D*7,389*+++*None
+Saturday, Jul 24*boxscore*DET*@*PHA*L*4*8*None*43-39*2* 7.0*Besse*Oana*Fagan*2:05*D*3,253*-*None
+Sunday, Jul 25*boxscore*DET*@*PHA*W*5*0*None*44-39*2* 7.0*Trout*Wolff*None*1:54*D*None*+*None
+Sunday, Jul 25*boxscore*DET*@*PHA*L*1*3*None*44-40*2* 7.0*Harris*Gorsica*None*1:35*D*14,144*-*None
+Monday, Jul 26*boxscore*DET*@*PHA*L*1*2*None*44-41*2* 8.0*Flores*Overmire*None*1:39*D*5,192*--*None
+Wednesday, Jul 28*boxscore*DET*@*BOS*L*1*4*None*44-42*2* 9.0*Judd*Trucks*None*1:41*D*None*---*None
+Wednesday, Jul 28*boxscore*DET*@*BOS*L*4*6*None*44-43*2* 9.0*Newsome*Gorsica*Brown*1:59*D*18,032*----*None
+Friday, Jul 30*boxscore*DET*@*BOS*L*2*4*None*44-44*2* 10.0*Terry*Trout*None*1:55*D*None*-----*None
+Friday, Jul 30*boxscore*DET*@*BOS*W*5*2*None*45-44*2* 10.0*Oana*Woods*None*1:59*D*3,348*+*1943-07-29 (Inclement weather)
+Saturday, Jul 31*boxscore*DET*@*NYY*W*7*6*None*46-44*3* 9.0*Trucks*Wensloff*Trout*2:14*D*9,862*++*None
+Sunday, Aug 1*boxscore*DET*@*NYY*L*4*5*None*46-45*4* 11.0*Borowy*Bridges*Murphy*2:10*D*None*-*None
+Sunday, Aug 1*boxscore*DET*@*NYY*L*1*2*None*46-46*4* 11.0*Chandler*White*None*1:35*D*43,989*--*None
+Tuesday, Aug 3*boxscore*DET*@*NYY*W*4*0*None*47-46*4* 11.0*Trucks*Bonham*Henshaw*1:51*D*None*+*None
+Tuesday, Aug 3*boxscore*DET*@*NYY*L*4*12*None*47-47*4* 11.0*Zuber*Newhouser*None*2:06*D*15,337*-*1943-05-26 (Inclement weather)
+Friday, Aug 6*boxscore*DET*None*CHW*W*6*0*None*48-47*4* 10.0*Trout*Grove*None*1:44*D*4,093*+*None
+Saturday, Aug 7*boxscore*DET*None*CHW*L*4*7*None*48-48*4* 11.0*Dietrich*Newhouser*Maltzberger*2:09*D*4,942*-*None
+Sunday, Aug 8*boxscore*DET*None*CHW*W*8*2*None*49-48*3* 11.0*Trucks*Lee*None*1:56*D*None*+*None
+Sunday, Aug 8*boxscore*DET*None*CHW*W*3*0*None*50-48*3* 11.0*Bridges*Ross*None*1:35*D*33,698*++*None
+Wednesday, Aug 11*boxscore*DET*None*WSH*W*3*2*None*51-48*3* 9.5*Trout*Leonard*None*1:41*D*13,876*+++*None
+Thursday, Aug 12*boxscore*DET*None*WSH*W*10*3*None*52-48*2* 9.5*White*Wynn*Orrell*2:11*D*3,703*++++*None
+Friday, Aug 13*boxscore*DET*None*WSH*L*3*11*None*52-49*4* 10.5*Candini*Overmire*None*2:11*D*3,703*-*None
+Saturday, Aug 14*boxscore*DET*None*WSH*L*4*7*None*52-50*5* 11.5*Wynn*Newhouser*None*2:22*D*5,325*--*None
+Sunday, Aug 15*boxscore*DET*None*PHA*W*5*4*11*53-50*4* 10.5*Trout*Harris*None*2:19*D*None*+*None
+Sunday, Aug 15*boxscore*DET*None*PHA*W*3*2*None*54-50*4* 10.5*Bridges*Wolff*None*1:45*D*28,356*++*None
+Tuesday, Aug 17*boxscore*DET*None*PHA*W*4*3*None*55-50*3* 11.0*Trout*Flores*Gorsica*1:40*D*2,049*+++*None
+Wednesday, Aug 18*boxscore*DET*None*BOS*W*1*0*None*56-50*4* 9.5*White*Terry*None*1:47*D*3,361*++++*None
+Thursday, Aug 19*boxscore*DET*None*BOS*L*3*4*None*56-51*3* 10.0*Newsome*Newhouser*Hughson*1:55*D*None*-*None
+Thursday, Aug 19*boxscore*DET*None*BOS*W*10*0*None*57-51*3* 10.0*Trucks*Woods*None*1:48*D*8,063*+*None
+Friday, Aug 20*boxscore*DET*None*BOS*W*1*0*None*58-51*3* 10.0*Overmire*Dobson*None*1:39*D*2,200*++*None
+Saturday, Aug 21*boxscore*DET*None*BOS*L*6*7*12*58-52*3* 11.0*Woods*Henshaw*None*2:04*D*4,581*-*None
+Sunday, Aug 22*boxscore*DET*None*NYY*W*12*0*None*59-52*2* 9.0*Trout*Wensloff*None*2:02*D*None*+*None
+Sunday, Aug 22*boxscore*DET*None*NYY*W*8*3*None*60-52*2* 9.0*Bridges*Russo*None*2:16*D*58,404*++*None
+Monday, Aug 23*boxscore*DET*None*NYY*L*1*4*None*60-53*3* 10.0*Zuber*Newhouser*None*2:05*D*8,685*-*1943-05-17 (Inclement weather)
+Tuesday, Aug 24*boxscore*DET*None*NYY*L*1*2*None*60-54*3* 10.0*Chandler*White*None*2:07*D*None*--*None
+Tuesday, Aug 24*boxscore*DET*None*NYY*W*3*1*None*61-54*3* 10.0*Trucks*Bonham*None*1:55*D*19,170*+*1943-05-19 (Inclement weather)
+Wednesday, Aug 25*boxscore*DET*None*NYY*L*5*7*None*61-55*5* 12.0*Donald*Gorsica*None*2:13*D*None*-*None
+Wednesday, Aug 25*boxscore*DET*None*NYY*L*1*5*None*61-56*5* 12.0*Wensloff*Trout*None*1:58*D*15,849*--*1943-05-20 (Inclement weather)
+Friday, Aug 27*boxscore*DET*@*SLB*L*1*3*None*61-57*5* 12.5*Galehouse*Newhouser*None*1:55*D*3,850*---*None
+Saturday, Aug 28*boxscore*DET*@*SLB*L*5*10*None*61-58*5* 12.5*Sundra*White*None*None*D*None*----*None
+Sunday, Aug 29*boxscore*DET*@*SLB*W*15*5*None*62-58*4* 12.5*Trucks*Muncrief*None*1:59*D*None*+*None
+Sunday, Aug 29*boxscore*DET*@*SLB*W*4*2*None*63-58*4* 12.5*Bridges*Potter*None*None*D*None*++*None
+Thursday, Sep 2*boxscore*DET*None*SLB*W*5*4*None*64-58*4* 12.0*Trout*Sundra*None*1:55*D*None*+++*None
+Thursday, Sep 2*boxscore*DET*None*SLB*W*8*5*None*65-58*4* 12.0*Newhouser*Galehouse*Overmire*2:06*D*5,620*++++*1943-04-27 (Inclement weather)
+Friday, Sep 3*boxscore*DET*None*SLB*W*8*5*None*66-58*4* 12.0*White*Hollingsworth*None*1:52*D*2,179*+++++*None
+Saturday, Sep 4*boxscore*DET*None*SLB*L*5*12*6*66-59*4* 13.0*Muncrief*Trucks*Caster*1:36*D*3,250*-*None
+Sunday, Sep 5*boxscore*DET*None*SLB*L*2*3*None*66-60*4* 12.5*Potter*Bridges*None*1:53*D*13,042*--*None
+Tuesday, Sep 7*boxscore*DET*None*CHW*W*5*0*None*67-60*4* 11.5*Trout*Smith*None*1:50*D*None*+*1943-09-06 (Inclement weather)
+Tuesday, Sep 7*boxscore*DET*None*CHW*W*6*5*None*68-60*4* 11.5*Gorsica*Grove*Trucks*2:26*D*5,962*++*1943-09-06 (Inclement weather)
+Thursday, Sep 9*boxscore*DET*None*CLE*L*3*8*None*68-61*4* 12.0*Smith*Trucks*None*2:02*D*None*-*None
+Thursday, Sep 9*boxscore*DET*None*CLE*W*10*3*None*69-61*4* 12.0*White*Reynolds*None*1:52*D*4,507*+*1943-05-02 (Inclement weather)
+Friday, Sep 10*boxscore*DET*None*CLE*L*2*4*None*69-62*4* 13.5*Harder*Newhouser*Heving*2:16*D*None*-*None
+Friday, Sep 10*boxscore*DET*None*CLE*L*0*1*None*69-63*4* 13.5*Bagby*Gentry*None*1:32*D*4,345*--*1943-06-22 (Military ban on assembly)
+Saturday, Sep 11*boxscore*DET*None*CLE*L*2*7*None*69-64*4* 14.5*Kennedy*Trout*None*2:13*D*3,944*---*None
+Sunday, Sep 12*boxscore*DET*None*CLE*L*1*2*None*69-65*4* 16.0*Reynolds*Bridges*None*2:13*D*16,527*----*None
+Tuesday, Sep 14*boxscore*DET*@*CHW*L*1*7*None*69-66*4* 16.5*Dietrich*White*None*1:48*D*None*-----*None
+Tuesday, Sep 14*boxscore*DET*@*CHW*W*7*5*None*70-66*4* 16.5*Trucks*Humphries*Trout*2:05*D*963*+*1943-09-13 (Inclement weather)
+Wednesday, Sep 15*boxscore*DET*@*CHW*W*8*2*None*71-66*4* 16.5*Gentry*Smith*None*2:11*D*3,233*++*None
+Friday, Sep 17*boxscore*DET*@*CLE*W*2*1*None*72-66*4* 16.0*Gorsica*Reynolds*Trucks*2:31*D*8,204*+++*None
+Saturday, Sep 18*boxscore*DET*@*CLE*L*2*4*None*72-67*4* 16.5*Kennedy*Newhouser*Heving*1:57*D*2,000*-*None
+Sunday, Sep 19*boxscore*DET*@*CLE*L*0*1*None*72-68*4* 16.5*Bagby*White*None*1:25*D*None*--*None
+Sunday, Sep 19*boxscore*DET*@*CLE*L*2*6*None*72-69*4* 16.5*Smith*Bridges*Reynolds*2:02*D*13,717*---*1943-06-16 (Inclement weather)
+Wednesday, Sep 22*boxscore*DET*@*NYY*L*2*4*None*72-70*4* 17.5*Borowy*Trucks*None*1:47*D*2,794*----*None
+Thursday, Sep 23*boxscore*DET*@*NYY*L*0*1*None*72-71*5* 18.5*Russo*Gentry*None*1:42*D*4,521*-----*None
+Friday, Sep 24*boxscore*DET*@*NYY*W*2*1*None*73-71*5* 17.5*Trout*Wensloff*None*1:20*D*4,362*+*None
+Saturday, Sep 25*boxscore*DET*@*NYY*L*1*2*14*73-72*5* 18.5*Chandler*Overmire*None*2:20*D*7,434*-*None
+Sunday, Sep 26*boxscore*DET*@*BOS*L*2*3*10*73-73*5* 20.5*Lucier*Trout*None*2:03*D*None*--*None
+Sunday, Sep 26*boxscore*DET*@*BOS*L*2*6*None*73-74*5* 20.5*Terry*Bridges*None*1:47*D*6,455*---*None
+Monday, Sep 27*boxscore*DET*@*BOS*W*6*3*None*74-74*5* 20.5*Trucks*Newsome*None*1:35*D*714*+*None
+Tuesday, Sep 28*boxscore*DET*@*BOS*L*1*6*None*74-75*5* 20.5*Woods*Newhouser*None*1:53*D*1,000*-*None
+Wednesday, Sep 29*boxscore*DET*@*PHA*L*2*8*None*74-76*5* 20.5*Flores*Gentry*None*1:52*D*None*--*None
+Wednesday, Sep 29*boxscore*DET*@*PHA*W*9*1*None*75-76*5* 20.5*Trout*Black*None*1:40*D*1,758*+*None
+Thursday, Sep 30*boxscore*DET*@*PHA*W*6*0*None*76-76*5* 19.5*Overmire*Harris*White*1:18*D*1,000*++*None
+Saturday, Oct 2*boxscore*DET*@*WSH*W*12*5*None*77-76*5* 20.0*Trucks*Newsom*None*1:50*D*5,000*+++*None
+Sunday, Oct 3*boxscore*DET*@*WSH*W*4*1*None*78-76*5* 20.0*Trout*Haefner*None*1:18*D*5,000*++++*None

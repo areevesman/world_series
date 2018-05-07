@@ -1,0 +1,157 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Sunday, Apr 16*None*CIN*None*CHC*L*4*8*None*0-2*9* 2.5*None*None*None*None*None*None*--*1899-08-03 (Schedule change)
+Monday, Apr 17*None*CIN*None*PIT*W*8*7*None*1-2*8* 2.0*None*None*None*None*None*None*+*None
+Tuesday, Apr 18*None*CIN*None*PIT*W*7*5*None*2-2*6* 1.5*None*None*None*None*None*None*++*None
+Wednesday, Apr 19*None*CIN*None*PIT*T*3*3*None*2-2*5* 1.5*None*None*None*None*None*None*++*None
+Thursday, Apr 20*None*CIN*None*CHC*L*2*13*None*2-3*6* 2.5*None*None*None*None*None*None*-*None
+Friday, Apr 21*None*CIN*None*CHC*L*3*6*None*2-4*8* 3.5*None*None*None*None*None*None*--*None
+Saturday, Apr 22*None*CIN*None*CHC*W*4*1*None*3-4*7* 3.0*None*None*None*None*None*None*+*None
+Sunday, Apr 23*None*CIN*None*CHC*W*8*6*None*4-4*6* 2.5*None*None*None*None*None*None*++*None
+Wednesday, Apr 26*None*CIN*None*CLV*W*10*5*None*5-4*6* 2.5*None*None*None*None*None*None*+++*None
+Thursday, Apr 27*None*CIN*@*CHC*L*3*4*None*5-5*6* 3.0*None*None*None*None*None*None*-*None
+Saturday, Apr 29*None*CIN*@*CHC*W*4*0*None*6-5*4* 3.5*None*None*None*None*None*None*+*None
+Sunday, Apr 30*None*CIN*None*CLV*W*9*0*None*7-5*4* 2.5*None*None*None*None*None*None*++*1899-04-24 (Rain)
+Wednesday, May 3*None*CIN*None*STL*L*1*9*None*7-6*6* 3.5*None*None*None*None*None*None*-*None
+Friday, May 5*None*CIN*None*STL*W*5*2*None*8-6*5* 3.0*None*None*None*None*None*None*+*1899-05-04 (Rain)
+Saturday, May 6*None*CIN*None*STL*W*11*0*None*9-6*5* 2.0*None*None*None*None*None*None*++*None
+Sunday, May 7*None*CIN*None*STL*L*3*4*None*9-7*5* 2.5*None*None*None*None*None*None*-*None
+Tuesday, May 9*None*CIN*@*PIT*W*5*2*None*10-7*5* 2.5*None*None*None*None*None*None*+*None
+Wednesday, May 10*None*CIN*@*PIT*W*11*5*None*11-7*5* 2.5*None*None*None*None*None*None*++*None
+Thursday, May 11*None*CIN*@*PIT*W*1*0*None*12-7*4* 2.5*None*None*None*None*None*None*+++*None
+Friday, May 12*None*CIN*@*PIT*W*5*1*None*13-7*4* 2.5*None*None*None*None*None*None*++++*None
+Saturday, May 13*None*CIN*None*STL*W*7*3*None*14-7*5* 1.5*None*None*None*None*None*None*+++++*None
+Sunday, May 14*None*CIN*@*STL*L*5*6*None*14-8*5* 2.5*None*None*None*None*None*None*-*None
+Monday, May 15*None*CIN*@*CLV*W*3*2*None*15-8*5* 2.5*None*None*None*None*None*None*+*None
+Friday, May 19*None*CIN*None*BRO*L*5*7*None*15-9*5* 3.5*None*None*None*None*None*None*-*None
+Saturday, May 20*None*CIN*None*BRO*W*8*4*None*16-9*4* 3.0*None*None*None*None*None*None*+*None
+Sunday, May 21*None*CIN*None*BRO*L*2*6*None*16-10*4* 3.5*None*None*None*None*None*None*-*None
+Monday, May 22*None*CIN*None*NYG*W*5*4*None*17-10*4* 3.0*None*None*None*None*None*None*+*None
+Tuesday, May 23*None*CIN*None*NYG*L*5*7*None*17-11*4* 4.0*None*None*None*None*None*None*-*None
+Wednesday, May 24*None*CIN*None*NYG*W*7*6*None*18-11*4* 3.0*None*None*None*None*None*None*+*None
+Thursday, May 25*None*CIN*None*BSN*L*1*3*None*18-12*6* 4.0*None*None*None*None*None*None*-*None
+Friday, May 26*None*CIN*None*BSN*L*0*6*None*18-13*6* 4.5*None*None*None*None*None*None*--*None
+Saturday, May 27*None*CIN*None*BSN*L*2*8*None*18-14*6* 4.5*None*None*None*None*None*None*---*None
+Sunday, May 28*None*CIN*None*BLN*L*9*15*None*18-15*6* 5.5*None*None*None*None*None*None*----*None
+Tuesday, May 30*None*CIN*@*NYG*W*9*3*None*19-15*6* 6.0*None*None*None*None*None*None*+*None
+Tuesday, May 30*None*CIN*@*NYG**T*5*7*None*19-15*6* 6.0*None*None*None*None*None*None*+*None
+Wednesday, May 31*None*CIN*@*NYG*W*5*4*None*20-15*5* 6.0*None*None*None*None*None*None*++*None
+Thursday, Jun 1*None*CIN*@*NYG*W*7*3*None*21-15*5* 6.0*None*None*None*None*None*None*+++*None
+Friday, Jun 2*None*CIN*@*BSN*L*4*6*None*21-16*7* 7.0*None*None*None*None*None*None*-*None
+Saturday, Jun 3*None*CIN*@*BSN*L*2*8*None*21-17*7* 8.0*None*None*None*None*None*None*--*None
+Monday, Jun 5*None*CIN*@*BSN*L*5*10*None*21-18*7* 9.0*None*None*None*None*None*None*---*None
+Tuesday, Jun 6*None*CIN*@*BRO*L*4*6*None*21-19*7* 10.0*None*None*None*None*None*None*----*None
+Wednesday, Jun 7*None*CIN*@*BRO*L*5*6*None*21-20*7* 11.0*None*None*None*None*None*None*-----*None
+Thursday, Jun 8*None*CIN*@*BRO*L*0*5*None*21-21*7* 12.0*None*None*None*None*None*None*------*None
+Friday, Jun 9*None*CIN*@*BRO*L*3*6*None*21-22*7* 13.0*None*None*None*None*None*None*-------*None
+Sunday, Jun 11*None*CIN*None*LOU*W*8*2*None*22-22*7* 12.0*None*None*None*None*None*None*+*1899-06-12 (Rain; Made up as part of 3-team DH)
+Sunday, Jun 11*None*CIN*None*CLV*W*10*1*None*23-22*7* 12.0*None*None*None*None*None*None*++*None
+Wednesday, Jun 14*None*CIN*@*CHC*W*2*1*None*24-22*7* 11.5*None*None*None*None*None*None*+++*None
+Thursday, Jun 15*None*CIN*@*CHC*L*4*6*None*24-23*7* 12.5*None*None*None*None*None*None*-*None
+Saturday, Jun 17*None*CIN*@*CHC*L*1*12*None*24-24*7* 13.5*None*None*None*None*None*None*--*None
+Sunday, Jun 18*None*CIN*None*BRO*L*11*13*None*24-25*7* 14.5*None*None*None*None*None*None*---*None
+Monday, Jun 19*None*CIN*None*PHI*L*0*9*None*24-26*7* 15.5*None*None*None*None*None*None*----*None
+Tuesday, Jun 20*None*CIN*None*PHI*W*3*2*None*25-26*7* 15.5*None*None*None*None*None*None*+*None
+Wednesday, Jun 21*None*CIN*None*PHI*L*6*7*None*25-27*7* 16.5*None*None*None*None*None*None*-*None
+Thursday, Jun 22*None*CIN*None*PHI*L*5*9*None*25-28*7* 17.5*None*None*None*None*None*None*--*None
+Friday, Jun 23*None*CIN*None*BLN*W*8*3*None*26-28*7* 16.5*None*None*None*None*None*None*+*None
+Sunday, Jun 25*None*CIN*None*BLN*W*6*1*None*27-28*7* 15.5*None*None*None*None*None*None*++*None
+Sunday, Jun 25*None*CIN*None*BLN*W*4*3*None*28-28*7* 15.5*None*None*None*None*None*None*+++*1899-06-24 (Rain)
+Wednesday, Jun 28*None*CIN*None*WHS*W*6*5*None*29-28*7* 14.0*None*None*None*None*None*None*++++*None
+Saturday, Jul 1*None*CIN*None*WHS*W*2*1*None*30-28*7* 12.0*None*None*None*None*None*None*+++++*None
+Sunday, Jul 2*None*CIN*None*WHS*W*4*3*None*31-28*7* 11.0*None*None*None*None*None*None*++++++*None
+Sunday, Jul 2*None*CIN*None*WHS*W*6*1*None*32-28*7* 11.0*None*None*None*None*None*None*+++++++*1899-06-29 (Rain)
+Tuesday, Jul 4*None*CIN*None*LOU*W*6*5*None*33-28*7* 9.0*None*None*None*None*None*None*++++++++*None
+Tuesday, Jul 4*None*CIN*None*LOU*W*9*6*None*34-28*7* 9.0*None*None*None*None*None*None*+++++++++*None
+Wednesday, Jul 5*None*CIN*@*LOU*L*7*11*None*34-29*7* 9.0*None*None*None*None*None*None*-*None
+Thursday, Jul 6*None*CIN*@*LOU*L*2*3*None*34-30*7* 10.0*None*None*None*None*None*None*--*None
+Friday, Jul 7*None*CIN*@*LOU*L*3*6*None*34-31*7* 11.0*None*None*None*None*None*None*---*None
+Saturday, Jul 8*None*CIN*@*LOU*L*4*5*None*34-32*7* 12.0*None*None*None*None*None*None*----*None
+Sunday, Jul 9*None*CIN*@*CHC*L*1*7*None*34-33*7* 12.5*None*None*None*None*None*None*-----*1899-04-28 (Schedule change)
+Monday, Jul 10*None*CIN*@*PIT*W*4*3*None*35-33*7* 11.5*None*None*None*None*None*None*+*1899-09-29 (Schedule change)
+Tuesday, Jul 11*None*CIN*@*WHS*W*10*6*None*36-33*7* 11.5*None*None*None*None*None*None*++*None
+Wednesday, Jul 12*None*CIN*@*WHS*L*5*10*None*36-34*7* 12.5*None*None*None*None*None*None*-*None
+Friday, Jul 14*None*CIN*@*PHI*L*6*9*None*36-35*7* 13.0*None*None*None*None*None*None*--*None
+Saturday, Jul 15*None*CIN*@*PHI*L*2*4*None*36-36*7* 14.0*None*None*None*None*None*None*---*None
+Monday, Jul 17*None*CIN*@*PHI*L*2*3*None*36-37*7* 15.0*None*None*None*None*None*None*----*None
+Tuesday, Jul 18*None*CIN*@*BLN*W*7*5*None*37-37*7* 14.0*None*None*None*None*None*None*+*None
+Wednesday, Jul 19*None*CIN*@*BLN*W*5*0*None*38-37*7* 14.0*None*None*None*None*None*None*++*None
+Thursday, Jul 20*None*CIN*@*BLN*W*5*4*None*39-37*7* 14.0*None*None*None*None*None*None*+++*None
+Saturday, Jul 22*None*CIN*None*BSN*L*4*5*None*39-38*7* 14.0*None*None*None*None*None*None*-*None
+Sunday, Jul 23*None*CIN*None*WHS*L*5*8*None*39-39*7* 14.5*None*None*None*None*None*None*--*None
+Sunday, Jul 23*None*CIN*None*WHS*W*7*0*None*40-39*7* 14.5*None*None*None*None*None*None*+*1899-08-24 (Schedule change)
+Monday, Jul 24*None*CIN*None*BSN*L*3*8*None*40-40*7* 15.0*None*None*None*None*None*None*-*None
+Wednesday, Jul 26*None*CIN*None*BSN*L*5*9*None*40-41*7* 15.5*None*None*None*None*None*None*--*None
+Wednesday, Jul 26*None*CIN*None*BSN*W*2*1*None*41-41*7* 15.5*None*None*None*None*None*None*+*1899-07-25 (Rain)
+Thursday, Jul 27*None*CIN*None*NYG*W*9*2*None*42-41*7* 15.5*None*None*None*None*None*None*++*None
+Saturday, Jul 29*None*CIN*None*NYG*W*9*8*None*43-41*7* 15.0*None*None*None*None*None*None*+++*None
+Sunday, Jul 30*None*CIN*None*NYG*W*5*4*None*44-41*7* 15.0*None*None*None*None*None*None*++++*None
+Monday, Jul 31*None*CIN*None*BRO*W*4*3*None*45-41*7* 14.0*None*None*None*None*None*None*+++++*None
+Tuesday, Aug 1*None*CIN*None*BRO*W*10*4*None*46-41*7* 13.0*None*None*None*None*None*None*++++++*None
+Wednesday, Aug 2*None*CIN*None*BRO*W*8*3*None*47-41*7* 12.0*None*None*None*None*None*None*+++++++*None
+Saturday, Aug 5*None*CIN*None*LOU*W*6*1*None*48-41*7* 12.0*None*None*None*None*None*None*++++++++*None
+Sunday, Aug 6*None*CIN*None*LOU*W*9*6*None*49-41*6* 11.0*None*None*None*None*None*None*+++++++++*1899-06-12 (Schedule change; Made up as part of 3-team DH)
+Sunday, Aug 6*None*CIN*None*STL*W*4*2*None*50-41*6* 11.0*None*None*None*None*None*None*++++++++++*None
+Tuesday, Aug 8*None*CIN*@*BRO*W*8*6*None*51-41*5* 9.5*None*None*None*None*None*None*+++++++++++*None
+Wednesday, Aug 9*None*CIN*@*BRO*W*14*13*None*52-41*5* 8.5*None*None*None*None*None*None*++++++++++++*None
+Saturday, Aug 12*None*CIN*@*BSN*W*7*2*None*53-41*5* 8.0*None*None*None*None*None*None*+++++++++++++*None
+Saturday, Aug 12*None*CIN*@*BSN*W*7*2*None*54-41*5* 8.0*None*None*None*None*None*None*++++++++++++++*1899-08-11 (Rain)
+Monday, Aug 14*None*CIN*@*BSN*L*3*8*None*54-42*5* 9.0*None*None*None*None*None*None*-*None
+Tuesday, Aug 15*None*CIN*@*BSN*W*1*0*None*55-42*5* 9.0*None*None*None*None*None*None*+*None
+Wednesday, Aug 16*None*CIN*@*NYG*L*2*7*None*55-43*5* 10.0*None*None*None*None*None*None*-*None
+Thursday, Aug 17*None*CIN*@*NYG*L*4*13*None*55-44*5* 11.5*None*None*None*None*None*None*--*None
+Thursday, Aug 17*None*CIN*@*NYG*L*4*5*None*55-45*5* 11.5*None*None*None*None*None*None*---*None
+Friday, Aug 18*None*CIN*@*NYG*L*4*5*None*55-46*5* 12.5*None*None*None*None*None*None*----*None
+Sunday, Aug 20*None*CIN*None*STL*L*1*10*None*55-47*6* 12.5*None*None*None*None*None*None*-----*None
+Monday, Aug 21*None*CIN*None*PIT*W*7*1*None*56-47*6* 12.5*None*None*None*None*None*None*+*None
+Tuesday, Aug 22*None*CIN*None*PIT*W*2*1*None*57-47*6* 12.5*None*None*None*None*None*None*++*None
+Tuesday, Aug 22*None*CIN*None*PIT*T*4*4*None*57-47*6* 12.5*None*None*None*None*None*None*++*None
+Wednesday, Aug 23*None*CIN*None*PIT*L*2*5*None*57-48*6* 12.5*None*None*None*None*None*None*-*None
+Wednesday, Aug 23*None*CIN*None*PIT*W*5*3*None*58-48*6* 12.5*None*None*None*None*None*None*+*None
+Saturday, Aug 26*None*CIN*None*WHS*W*11*4*None*59-48*6* 13.0*None*None*None*None*None*None*++*None
+Sunday, Aug 27*None*CIN*None*NYG*W*8*4*None*60-48*6* 13.0*None*None*None*None*None*None*+++*None
+Monday, Aug 28*None*CIN*None*BLN*W*12*4*None*61-48*5* 13.0*None*None*None*None*None*None*++++*None
+Tuesday, Aug 29*None*CIN*None*BLN*L*4*5*None*61-49*5* 14.0*None*None*None*None*None*None*-*None
+Wednesday, Aug 30*None*CIN*None*BLN*W*4*0*None*62-49*5* 13.0*None*None*None*None*None*None*+*None
+Thursday, Aug 31*None*CIN*None*PHI*L*2*9*None*62-50*5* 14.0*None*None*None*None*None*None*-*None
+Friday, Sep 1*None*CIN*None*PHI*W*10*5*None*63-50*5* 14.5*None*None*None*None*None*None*+*None
+Saturday, Sep 2*None*CIN*None*PHI*L*7*13*None*63-51*6* 15.0*None*None*None*None*None*None*-*None
+Sunday, Sep 3*None*CIN*None*LOU*L*6*7*None*63-52*6* 15.0*None*None*None*None*None*None*--*1899-06-13 (Unknown reason; Made up as part of 3-team DH)
+Sunday, Sep 3*None*CIN*None*CLV*W*3*1*None*64-52*6* 15.0*None*None*None*None*None*None*+*None
+Monday, Sep 4*None*CIN*None*CLV*W*6*3*None*65-52*6* 15.0*None*None*None*None*None*None*++*None
+Monday, Sep 4*None*CIN*None*CLV*W*8*1*None*66-52*6* 15.0*None*None*None*None*None*None*+++*1899-04-25 (Rain)
+Tuesday, Sep 5*None*CIN*None*CLV*W*19*3*None*67-52*5* 14.5*None*None*None*None*None*None*++++*1899-05-17 (Rain; Site change)
+Tuesday, Sep 5*None*CIN*None*CLV*W*9*7*None*68-52*5* 14.5*None*None*None*None*None*None*+++++*1899-05-16 (Rain; Site change)
+Thursday, Sep 7*None*CIN*@*STL*W*4*2*None*69-52*5* 14.0*None*None*None*None*None*None*++++++*None
+Friday, Sep 8*None*CIN*@*STL*L*3*12*None*69-53*5* 15.0*None*None*None*None*None*None*-*None
+Saturday, Sep 9*None*CIN*@*STL*L*6*11*None*69-54*6* 16.0*None*None*None*None*None*None*--*None
+Sunday, Sep 10*None*CIN*None*CLV*W*10*2*None*70-54*5* 15.0*None*None*None*None*None*None*+*1899-10-12 (Schedule change; Site change; Made up as part of 3-team DH)
+Sunday, Sep 10*None*CIN*None*LOU*W*8*7*None*71-54*5* 15.0*None*None*None*None*None*None*++*1899-08-05 (Unknown reason; Made up as part of 3-team DH)
+Monday, Sep 11*None*CIN*@*WHS*T*3*3*None*71-54*5* 15.0*None*None*None*None*None*None*++*None
+Tuesday, Sep 12*None*CIN*@*WHS*L*3*7*None*71-55*5* 16.5*None*None*None*None*None*None*-*None
+Tuesday, Sep 12*None*CIN*@*WHS*L*4*5*None*71-56*5* 16.5*None*None*None*None*None*None*--*1899-07-13 (Rain)
+Wednesday, Sep 13*None*CIN*@*WHS*W*14*4*None*72-56*5* 17.0*None*None*None*None*None*None*+*None
+Wednesday, Sep 13*None*CIN*@*WHS*L*3*6*None*72-57*5* 17.0*None*None*None*None*None*None*-*None
+Thursday, Sep 14*None*CIN*@*WHS*L*2*7*None*72-58*6* 18.5*None*None*None*None*None*None*--*None
+Friday, Sep 15*None*CIN*@*BLN*W*7*2*None*73-58*5* 17.5*None*None*None*None*None*None*+*None
+Saturday, Sep 16*None*CIN*@*BLN*L*5*6*None*73-59*6* 18.5*None*None*None*None*None*None*-*None
+Monday, Sep 18*None*CIN*@*BLN*L*2*3*None*73-60*6* 19.0*None*None*None*None*None*None*--*None
+Wednesday, Sep 20*None*CIN*@*PHI*L*3*4*None*73-61*6* 18.5*None*None*None*None*None*None*---*None
+Thursday, Sep 21*None*CIN*@*PHI*W*5*4*None*74-61*6* 18.0*None*None*None*None*None*None*+*None
+Friday, Sep 22*None*CIN*@*PHI*W*6*2*None*75-61*6* 18.5*None*None*None*None*None*None*++*None
+Friday, Sep 22*None*CIN*@*PHI*L*5*8*None*75-62*6* 18.5*None*None*None*None*None*None*-*None
+Sunday, Sep 24*None*CIN*None*CHC*L*5*21*None*75-63*6* 19.0*None*None*None*None*None*None*--*None
+Sunday, Sep 24*None*CIN*None*CHC*W*11*1*None*76-63*6* 19.0*None*None*None*None*None*None*+*1899-08-04 (Schedule change)
+Thursday, Sep 28*None*CIN*@*PIT*L*5*7*None*76-64*6* 20.0*None*None*None*None*None*None*-*None
+Saturday, Sep 30*None*CIN*@*PIT*T*3*3*None*76-64*6* 19.0*None*None*None*None*None*None*-*None
+Sunday, Oct 1*None*CIN*@*CHC*W*7*3*None*77-64*6* 18.5*None*None*None*None*None*None*+*1899-04-30 (Schedule change)
+Thursday, Oct 5*None*CIN*None*LOU*L*0*4*None*77-65*6* 19.5*None*None*None*None*None*None*-*1899-10-05 (Site change)
+Friday, Oct 6*None*CIN*None*LOU*W*8*1*None*78-65*6* 19.0*None*None*None*None*None*None*+*1899-10-06 (Site change)
+Saturday, Oct 7*None*CIN*None*LOU*W*4*2*None*79-65*6* 19.0*None*None*None*None*None*None*++*1899-10-07 (Site change)
+Sunday, Oct 8*None*CIN*@*STL*L*7*8*None*79-66*6* 19.5*None*None*None*None*None*None*-*None
+Sunday, Oct 8*None*CIN*@*STL*T*1*1*None*79-66*6* 19.5*None*None*None*None*None*None*-*1899-10-10 (Rain)
+Monday, Oct 9*None*CIN*@*STL*L*4*6*None*79-67*6* 20.0*None*None*None*None*None*None*--*None
+Monday, Oct 9*None*CIN*@*STL*T*6*6*None*79-67*6* 20.0*None*None*None*None*None*None*--*1899-10-11 (Rain)
+Thursday, Oct 12*None*CIN*None*CLV*W*6*2*None*80-67*6* 20.0*None*None*None*None*None*None*+*1899-10-13 (Site change)
+Saturday, Oct 14*None*CIN*None*CLV*W*12*4*None*81-67*6* 20.0*None*None*None*None*None*None*++*1899-10-14 (Site change)
+Sunday, Oct 15*None*CIN*None*CLV*W*16*1*None*82-67*6* 19.0*None*None*None*None*None*None*+++*None
+Sunday, Oct 15*None*CIN*None*CLV*W*19*3*None*83-67*6* 19.0*None*None*None*None*None*None*++++*1899-10-14 (Site change)

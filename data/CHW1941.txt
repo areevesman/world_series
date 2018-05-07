@@ -1,0 +1,156 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 16*boxscore*CHW*@*CLE*L*0*6*None*1-1*4* 1.0*Milnar*Smith*None*1:54*D*3,500*-*None
+Thursday, Apr 17*boxscore*CHW*@*CLE*L*0*2*None*1-2*6* 1.5*Smith*Lee*None*1:37*D*4,000*--*None
+Friday, Apr 18*boxscore*CHW*None*SLB*W*6*3*None*2-2*2* 1.5*Lyons*Kennedy*None*1:44*D*6,406*+*None
+Tuesday, Apr 22*boxscore*CHW*@*DET*W*6*3*None*3-2*2* 1.0*Dietrich*Newsom*None*None*D*None*++*None
+Wednesday, Apr 23*boxscore*CHW*@*DET*L*5*13*None*3-3*4* 1.0*Newhouser*Hallett*None*2:14*D*3,288*-*None
+Thursday, Apr 24*boxscore*CHW*None*CLE*W*2*1*None*4-3*2* 1.0*Lee*Smith*None*1:31*D*1,784*+*None
+Friday, Apr 25*boxscore*CHW*None*CLE*L*3*5*None*4-4*4* 2.0*Heving*Lyons*Feller*1:59*D*2,924*-*None
+Saturday, Apr 26*boxscore*CHW*@*SLB*W*2*1*None*5-4*4* 2.0*Smith*Caster*None*2:01*D*3,393*+*None
+Sunday, Apr 27*boxscore*CHW*@*SLB*W*7*6*None*6-4*4* 1.0*Dietrich*Auker*None*2:06*D*7,865*++*None
+Monday, Apr 28*boxscore*CHW*@*SLB*W*2*1*None*7-4*3* 1.0*Hallett*Kennedy*None*2:09*D*938*+++*None
+Tuesday, Apr 29*boxscore*CHW*None*WSH*W*3*2*None*8-4*2* 1.0*Lee*Masterson*None*1:45*D*3,994*++++*None
+Wednesday, Apr 30*boxscore*CHW*None*WSH*W*5*1*None*9-4*2* 1.0*Smith*Chase*None*2:01*D*2,605*+++++*None
+Thursday, May 1*boxscore*CHW*None*WSH*L*0*7*None*9-5*3* 2.0*Leonard*Dietrich*None*1:50*D*2,159*-*None
+Friday, May 2*boxscore*CHW*None*NYY*W*8*1*None*10-5*2* 2.0*Lyons*Ruffing*None*2:01*D*16,009*+*None
+Saturday, May 3*boxscore*CHW*None*NYY*L*5*6*13*10-6*3* 3.0*Murphy*Appleton*None*2:52*D*11,761*-*None
+Sunday, May 4*boxscore*CHW*None*PHA*L*11*17*None*10-7*3* 4.0*Beckmann*Hallett*Ferrick*2:28*D*13,091*--*None
+Monday, May 5*boxscore*CHW*None*PHA*L*4*5*11*10-8*3* 5.0*McCrabb*Appleton*None*2:05*D*1,664*---*None
+Wednesday, May 7*boxscore*CHW*None*BOS*L*3*4*11*10-9*5* 4.5*Wagner*Rigney*None*2:05*D*2,463*----*None
+Saturday, May 10*boxscore*CHW*None*DET*W*4*3*None*11-9*3* 3.5*Lee*Trout*None*1:50*D*3,323*+*None
+Sunday, May 11*boxscore*CHW*None*DET*W*2*1*None*12-9*2* 3.0*Lyons*Bridges*None*2:17*D*9,698*++*None
+Tuesday, May 13*boxscore*CHW*@*BOS*W*3*2*None*13-9*2* 3.0*Rigney*Wagner*None*1:47*D*3,000*+++*None
+Wednesday, May 14*boxscore*CHW*@*BOS*L*7*10*None*13-10*3* 4.0*Newsome*Appleton*Judd*2:18*D*3,200*-*None
+Thursday, May 15*boxscore*CHW*@*NYY*W*13*1*None*14-10*2* 4.0*Smith*Bonham*None*2:10*D*9,040*+*None
+Friday, May 16*boxscore*CHW*@*NYY*L-wo*5*6*None*14-11*2* 5.0*Murphy*Lee*None*1:52*D*5,616*-*None
+Saturday, May 17*boxscore*CHW*@*NYY*W*3*2*None*15-11*2* 5.0*Rigney*Chandler*None*2:18*D*10,272*+*None
+Sunday, May 18*boxscore*CHW*@*WSH*W*10*5*None*16-11*2* 4.0*Ross*Sundra*Lee*2:31*D*16,000*++*None
+Monday, May 19*boxscore*CHW*@*WSH*W*8*2*None*17-11*2* 3.0*Smith*Kennedy*None*2:00*D*3,000*+++*None
+Tuesday, May 20*boxscore*CHW*@*WSH*W*5*2*None*18-11*2* 2.0*Lee*Leonard*None*1:45*D*6,000*++++*None
+Wednesday, May 21*boxscore*CHW*@*PHA*L*6*7*None*18-12*2* 3.0*Harris*Hallett*None*2:10*D*7,000*-*None
+Thursday, May 22*boxscore*CHW*@*PHA*W*4*1*None*19-12*2* 3.0*Rigney*Beckmann*None*1:46*D*13,127*+*None
+Friday, May 23*boxscore*CHW*@*DET*W*7*1*None*20-12*2* 3.5*Lyons*Bridges*None*1:58*D*None*++*None
+Friday, May 23*boxscore*CHW*@*DET*L*0*9*None*20-13*2* 3.5*Trout*Dietrich*None*1:45*D*8,232*-*1941-04-21 (Rain)
+Saturday, May 24*boxscore*CHW*@*DET*L*0*1*None*20-14*2* 4.5*Gorsica*Smith*None*1:50*D*8,933*--*None
+Sunday, May 25*boxscore*CHW*@*DET*W*7*3*None*21-14*2* 4.5*Lee*Newhouser*None*2:18*D*20,520*+*None
+Tuesday, May 27*boxscore*CHW*None*SLB*L*2*5*None*21-15*2* 4.0*Muncrief*Rigney*None*2:10*D*3,337*-*None
+Wednesday, May 28*boxscore*CHW*None*SLB*L*4*8*None*21-16*2* 4.0*Auker*Smith*Harris*2:22*D*2,005*--*None
+Thursday, May 29*boxscore*CHW*None*SLB*W*4*0*None*22-16*2* 4.0*Dietrich*Caster*None*1:14*D*1,293*+*None
+Friday, May 30*boxscore*CHW*None*CLE*W*7*1*None*23-16*2* 2.0*Lyons*Smith*None*1:51*D*None*++*None
+Friday, May 30*boxscore*CHW*None*CLE*W*5*2*None*24-16*2* 2.0*Lee*Bagby*None*1:43*D*37,565*+++*None
+Saturday, May 31*boxscore*CHW*None*SLB*W*4*3*None*25-16*2* 1.5*Hallett*Harris*None*2:30*D*5,247*++++*1941-04-19 (Rain)
+Sunday, Jun 1*boxscore*CHW*None*WSH*L*2*3*None*25-17*2* 0.5*Hudson*Rigney*None*1:45*D*None*-*None
+Sunday, Jun 1*boxscore*CHW*None*WSH*W*4*3*11*26-17*2* 0.5*Smith*Chase*None*2:28*D*21,654*+*None
+Monday, Jun 2*boxscore*CHW*None*WSH*L*3*8*None*26-18*2* 1.5*Sundra*Dietrich*None*1:52*D*1,651*-*None
+Wednesday, Jun 4*boxscore*CHW*None*PHA*W*6*1*None*27-18*2* 1.0*Lee*McCrabb*None*1:36*N*32,659*+*None
+Thursday, Jun 5*boxscore*CHW*None*PHA*L*3*9*None*27-19*2* 1.0*Knott*Smith*None*1:50*D*2,436*-*None
+Friday, Jun 6*boxscore*CHW*None*BOS*L*3*6*None*27-20*2* 2.0*Dobson*Rigney*Ryba*2:12*D*3,578*--*None
+Saturday, Jun 7*boxscore*CHW*None*BOS*W*5*4*None*28-20*2* 2.0*Smith*Wilson*None*2:08*D*3,685*+*None
+Sunday, Jun 8*boxscore*CHW*None*BOS*L*3*5*10*28-21*2* 4.0*Grove*Lyons*None*2:27*D*None*-*None
+Sunday, Jun 8*boxscore*CHW*None*BOS*L*0*3*None*28-22*2* 4.0*Newsome*Lee*None*1:44*D*36,859*--*1941-05-08 (Rain)
+Tuesday, Jun 10*boxscore*CHW*None*NYY*L*3*8*None*28-23*4* 5.0*Peek*Rigney*None*1:57*D*2,832*---*None
+Thursday, Jun 12*boxscore*CHW*None*NYY*L*2*3*10*28-24*4* 6.0*Murphy*Lee*None*2:35*N*37,102*----*None
+Saturday, Jun 14*boxscore*CHW*@*BOS*W*5*2*None*29-24*3* 5.0*Smith*Harris*None*2:33*D*6,000*+*None
+Sunday, Jun 15*boxscore*CHW*@*BOS*L*6*8*None*29-25*5* 5.5*Ryba*Lyons*None*2:08*D*34,500*-*None
+Sunday, Jun 15*boxscore*CHW*@*BOS*L*4*6*None*29-26*5* 5.5*Newsome*Ross*None*1:54*D*34,500*--*None
+Tuesday, Jun 17*boxscore*CHW*@*NYY*W*8*7*None*30-26*4* 5.0*Hallett*Murphy*Smith*2:05*D*10,442*+*None
+Wednesday, Jun 18*boxscore*CHW*@*NYY*W*3*2*None*31-26*4* 5.0*Lee*Chandler*None*2:07*D*11,918*++*None
+Thursday, Jun 19*boxscore*CHW*@*NYY*L*2*7*None*31-27*4* 6.0*Breuer*Smith*None*1:45*D*9,609*-*None
+Saturday, Jun 21*boxscore*CHW*@*PHA*L*5*11*None*31-28*4* 5.5*Knott*Hallett*None*1:52*D*5,367*--*None
+Sunday, Jun 22*boxscore*CHW*@*PHA*W*14*0*None*32-28*4* 6.0*Lyons*Babich*None*None*None*None*+*None
+Sunday, Jun 22*boxscore*CHW*@*PHA*L*0*3*None*32-29*4* 6.0*Marchildon*Smith*None*None*None*None*-*1941-06-20 (Schedule change)
+Tuesday, Jun 24*boxscore*CHW*@*WSH*L*3*6*None*32-30*5* 6.0*Leonard*Lee*None*1:47*D*1,000*--*None
+Wednesday, Jun 25*boxscore*CHW*@*WSH*W*2*0*13*33-30*4* 5.0*Rigney*Hudson*None*2:15*D*2,000*+*None
+Thursday, Jun 26*boxscore*CHW*@*WSH*L*2*3*16*33-31*4* 6.0*Carrasquel*Smith*None*3:15*D*5,000*-*None
+Friday, Jun 27*boxscore*CHW*@*CLE*L*1*3*None*33-32*4* 7.0*Milnar*Dietrich*None*2:15*N*12,039*--*None
+Saturday, Jun 28*boxscore*CHW*@*CLE*W*6*4*None*34-32*4* 6.0*Lee*Smith*None*2:40*D*13,000*+*None
+Sunday, Jun 29*boxscore*CHW*@*CLE*W*9*3*None*35-32*4* 6.5*Lyons*Bagby*None*1:55*D*12,903*++*None
+Monday, Jun 30*boxscore*CHW*None*DET*W*7*6*None*36-32*4* 6.0*Rigney*Rowe*None*2:02*D*2,739*+++*None
+Tuesday, Jul 1*boxscore*CHW*None*DET*L*1*5*None*36-33*4* 7.5*Trout*Smith*None*2:13*D*3,323*-*None
+Wednesday, Jul 2*boxscore*CHW*None*DET*L*0*1*None*36-34*4* 8.5*Newsom*Dietrich*None*2:01*N*22,555*--*None
+Friday, Jul 4*boxscore*CHW*@*DET*W*3*2*None*37-34*4* 8.5*Lee*Bridges*None*1:53*D*None*+*None
+Friday, Jul 4*boxscore*CHW*@*DET*L*6*10*None*37-35*4* 8.5*Newhouser*Rigney*Benton*2:22*D*40,068*-*None
+Saturday, Jul 5*boxscore*CHW*None*CLE*L*3*5*None*37-36*4* 9.5*Heving*Smith*Brown*2:07*D*10,246*--*None
+Sunday, Jul 6*boxscore*CHW*None*CLE*W*9*4*None*38-36*4* 10.0*Lyons*Milnar*None*2:15*D*15,627*+*None
+Thursday, Jul 10*boxscore*CHW*None*WSH*W*5*1*None*39-36*4* 10.0*Rigney*Chase*None*2:02*N*None*++*None
+Friday, Jul 11*boxscore*CHW*None*WSH*W*3*1*None*40-36*4* 10.0*Smith*Hudson*None*1:39*D*2,470*+++*None
+Saturday, Jul 12*boxscore*CHW*None*WSH*L*3*5*None*40-37*4* 11.0*Leonard*Ross*None*2:12*D*2,310*-*None
+Sunday, Jul 13*boxscore*CHW*None*NYY*L*1*8*None*40-38*4* 13.0*Chandler*Lyons*None*1:54*D*None*--*None
+Sunday, Jul 13*boxscore*CHW*None*NYY*L*0*1*11*40-39*4* 13.0*Ruffing*Lee*None*1:59*D*50,387*---*1941-06-11 (Rain)
+Monday, Jul 14*boxscore*CHW*None*NYY*W*7*1*None*41-39*4* 12.0*Rigney*Breuer*None*1:52*D*8,025*+*None
+Tuesday, Jul 15*boxscore*CHW*None*NYY*L*4*5*None*41-40*4* 13.0*Branch*Smith*None*1:57*D*8,680*-*None
+Wednesday, Jul 16*boxscore*CHW*None*BOS*L*1*2*None*41-41*4* 14.0*Hughson*Ross*None*None*D*None*--*None
+Thursday, Jul 17*boxscore*CHW*None*BOS*L*4*7*None*41-42*5* 15.0*Newsome*Lee*None*2:00*D*27,437*---*None
+Friday, Jul 18*boxscore*CHW*None*BOS*W*4*3*10*42-42*4* 14.0*Rigney*Grove*None*1:49*D*2,624*+*None
+Saturday, Jul 19*boxscore*CHW*None*PHA*W*4*2*None*43-42*4* 15.0*Smith*Marchildon*None*1:51*D*None*++*None
+Saturday, Jul 19*boxscore*CHW*None*PHA*L*1*3*None*43-43*4* 15.0*Harris*Humphries*None*1:59*D*4,871*-*1941-05-06 (Rain)
+Sunday, Jul 20*boxscore*CHW*None*PHA*W*2*1*None*44-43*4* 15.5*Lyons*Beckmann*None*1:33*D*None*+*None
+Sunday, Jul 20*boxscore*CHW*None*PHA*L*1*4*13*44-44*4* 15.5*Ferrick*Ross*McCrabb*2:26*D*10,690*-*None
+Tuesday, Jul 22*boxscore*CHW*@*BOS*L*2*6*None*44-45*4* 16.5*Newsome*Rigney*None*1:42*N*4,100*--*None
+Wednesday, Jul 23*boxscore*CHW*@*BOS*W*10*4*None*45-45*4* 16.5*Lee*Hughson*None*2:27*D*5,200*+*None
+Thursday, Jul 24*boxscore*CHW*@*BOS*L*1*11*None*45-46*4* 17.5*Harris*Dietrich*None*2:20*D*2,600*-*None
+Friday, Jul 25*boxscore*CHW*@*NYY*L*0*8*None*45-47*4* 18.5*Chandler*Smith*None*1:50*D*8,109*--*None
+Saturday, Jul 26*boxscore*CHW*@*NYY*L*3*11*None*45-48*4* 19.5*Breuer*Rigney*None*2:15*D*12,567*---*None
+Sunday, Jul 27*boxscore*CHW*@*NYY*L*5*9*None*45-49*4* 19.5*Ruffing*Lyons*None*2:05*D*None*----*None
+Sunday, Jul 27*boxscore*CHW*@*NYY*W*7*3*None*46-49*4* 19.5*Lee*Bonham*None*2:05*D*52,304*+*1941-09-18 (Schedule change)
+Tuesday, Jul 29*boxscore*CHW*@*PHA*W*1*0*None*47-49*4* 18.5*Smith*Marchildon*None*1:42*D*4,000*++*None
+Wednesday, Jul 30*boxscore*CHW*@*PHA*L-wo*3*5*11*47-50*4* 19.0*Hadley*Hallett*None*2:08*D*11,564*-*None
+Thursday, Jul 31*boxscore*CHW*@*PHA*L*2*9*None*47-51*5* 20.5*Knott*Rigney*None*1:46*D*13,262*--*None
+Friday, Aug 1*boxscore*CHW*@*WSH*L*2*8*None*47-52*5* 21.5*Leonard*Lee*None*1:40*D*3,500*---*None
+Saturday, Aug 2*boxscore*CHW*@*WSH*W*3*1*None*48-52*5* 21.5*Smith*Hudson*None*1:46*D*2,500*+*None
+Sunday, Aug 3*boxscore*CHW*@*WSH*W*9*0*None*49-52*4* 20.0*Lyons*Sundra*None*1:59*D*8,000*++*None
+Wednesday, Aug 6*boxscore*CHW*@*SLB*L*6*9*None*49-53*4* 20.0*Auker*Rigney*Caster*2:12*D*None*-*None
+Wednesday, Aug 6*boxscore*CHW*@*SLB*W*5*2*None*50-53*4* 20.0*Lee*Muncrief*None*1:52*D*1,858*+*1941-08-05 (Rain)
+Thursday, Aug 7*boxscore*CHW*@*SLB*W*11*1*None*51-53*4* 19.0*Ross*Galehouse*None*2:09*N*5,615*++*None
+Friday, Aug 8*boxscore*CHW*@*SLB*W*16*2*None*52-53*4* 18.0*Dietrich*Harris*Humphries*None*D*None*+++*None
+Saturday, Aug 9*boxscore*CHW*@*CLE*W*7*5*10*53-53*4* 18.0*Hallett*Feller*None*2:50*D*4,000*++++*None
+Sunday, Aug 10*boxscore*CHW*@*CLE*W*5*2*None*54-53*4* 18.0*Lyons*Smith*None*1:50*D*None*+++++*None
+Sunday, Aug 10*boxscore*CHW*@*CLE*W*2*1*None*55-53*4* 18.0*Lee*Bagby*None*1:34*D*21,313*++++++*1941-09-02 (Schedule change)
+Monday, Aug 11*boxscore*CHW*None*SLB*W*14*9*None*56-53*4* 17.5*Hallett*Trotter*Appleton*2:35*D*None*+++++++*None
+Monday, Aug 11*boxscore*CHW*None*SLB*L*3*10*None*56-54*4* 17.5*Caster*Ross*None*1:53*D*4,479*-*1941-04-20 (Cold)
+Tuesday, Aug 12*boxscore*CHW*None*SLB*T*6*6*14*56-54*4* 18.0*None*None*None*3:30*D*1,794*-*None
+Wednesday, Aug 13*boxscore*CHW*None*DET*L*1*4*None*56-55*4* 18.5*Newsom*Smith*None*2:00*D*3,571*--*None
+Thursday, Aug 14*boxscore*CHW*None*DET*W*3*1*None*57-55*4* 18.5*Lee*Bridges*None*1:58*D*None*+*None
+Thursday, Aug 14*boxscore*CHW*None*DET*W*3*0*None*58-55*4* 18.5*Humphries*Newhouser*None*1:37*D*6,434*++*1941-05-09 (Cold)
+Friday, Aug 15*boxscore*CHW*None*CLE*W*5*2*None*59-55*4* 18.0*Ross*Smith*None*2:02*D*34,879*+++*None
+Saturday, Aug 16*boxscore*CHW*None*CLE*W*1*0*None*60-55*4* 17.0*Rigney*Bagby*None*1:29*D*4,085*++++*None
+Sunday, Aug 17*boxscore*CHW*None*CLE*W*8*2*None*61-55*2* 17.0*Lyons*Feller*None*1:58*D*None*+++++*None
+Sunday, Aug 17*boxscore*CHW*None*CLE*W-wo*4*3*10*62-55*2* 17.0*Smith*Milnar*None*2:11*D*36,090*++++++*1941-09-23 (Schedule change)
+Tuesday, Aug 19*boxscore*CHW*None*PHA*W*4*0*None*63-55*2* 16.0*Lee*McCrabb*None*1:37*D*None*+++++++*None
+Tuesday, Aug 19*boxscore*CHW*None*PHA*W*1*0*None*64-55*2* 16.0*Humphries*Babich*None*1:44*D*7,947*++++++++*1941-06-03 (Rain)
+Wednesday, Aug 20*boxscore*CHW*None*PHA*W*9*0*None*65-55*2* 15.0*Rigney*Harris*None*1:44*D*2,685*+++++++++*None
+Thursday, Aug 21*boxscore*CHW*None*BOS*L*5*8*None*65-56*2* 15.0*Newsome*Smith*Ryba*2:10*D*4,491*-*None
+Friday, Aug 22*boxscore*CHW*None*BOS*L*1*2*None*65-57*2* 15.0*Dobson*Ross*None*2:10*D*5,072*--*None
+Saturday, Aug 23*boxscore*CHW*None*BOS*W*3*0*None*66-57*2* 15.0*Humphries*Wilson*None*None*D*None*+*None
+Sunday, Aug 24*boxscore*CHW*None*NYY*L*1*5*None*66-58*2* 17.0*Ruffing*Lyons*None*1:59*D*None*-*None
+Sunday, Aug 24*boxscore*CHW*None*NYY*L*5*8*None*66-59*2* 17.0*Chandler*Lee*Murphy*2:08*D*44,296*--*1941-08-26 (Schedule change)
+Monday, Aug 25*boxscore*CHW*None*NYY*W*9*1*None*67-59*2* 16.0*Smith*Russo*None*2:16*N*6,616*+*None
+Wednesday, Aug 27*boxscore*CHW*None*WSH*L*3*11*None*67-60*2* 17.0*Chase*Rigney*None*1:58*D*3,615*-*None
+Thursday, Aug 28*boxscore*CHW*None*WSH*W*4*0*None*68-60*2* 17.0*Lee*Sundra*None*1:37*D*4,004*+*None
+Friday, Aug 29*boxscore*CHW*@*SLB*L*2*5*None*68-61*2* 17.5*Auker*Ross*None*1:40*D*649*-*None
+Saturday, Aug 30*boxscore*CHW*@*SLB*L*1*10*None*68-62*2* 18.5*Caster*Humphries*None*2:08*D*1,053*--*None
+Sunday, Aug 31*boxscore*CHW*@*SLB*L*8*12*None*68-63*3* 20.0*Muncrief*Lyons*None*2:08*D*None*---*None
+Sunday, Aug 31*boxscore*CHW*@*SLB*L*4*5*None*68-64*3* 20.0*Trotter*Dietrich*None*2:07*D*6,639*----*None
+Monday, Sep 1*boxscore*CHW*@*CLE*W*7*5*None*69-64*3* 19.0*Lee*Bagby*None*1:57*D*None*+*None
+Monday, Sep 1*boxscore*CHW*@*CLE*W*4*3*12*70-64*3* 19.0*Rigney*Milnar*None*2:30*D*11,368*++*None
+Friday, Sep 5*boxscore*CHW*None*SLB*L*1*3*None*70-65*2* 20.5*Auker*Ross*None*1:45*N*22,691*-*None
+Saturday, Sep 6*boxscore*CHW*None*SLB*L*0*3*None*70-66*3* 20.0*Muncrief*Lee*None*1:58*D*None*--*None
+Saturday, Sep 6*boxscore*CHW*None*SLB*W*7*1*None*71-66*3* 20.0*Rigney*Caster*None*1:39*D*4,677*+*None
+Sunday, Sep 7*boxscore*CHW*None*SLB*L*1*3*None*71-67*3* 21.0*Galehouse*Lyons*None*1:48*D*4,759*-*None
+Tuesday, Sep 9*boxscore*CHW*@*WSH*L*2*7*None*71-68*3* 22.0*Anderson*Smith*None*2:05*N*17,000*--*None
+Wednesday, Sep 10*boxscore*CHW*@*WSH*W*12*4*None*72-68*3* 21.5*Lee*Hudson*None*1:50*D*1,500*+*None
+Thursday, Sep 11*boxscore*CHW*@*PHA*L*1*2*None*72-69*3* 21.5*Besse*Rigney*None*1:29*D*3,000*-*None
+Friday, Sep 12*boxscore*CHW*@*PHA*W*2*0*None*73-69*3* 21.5*Humphries*Marchildon*None*1:42*D*1,000*+*None
+Saturday, Sep 13*boxscore*CHW*@*PHA*L*1*3*None*73-70*3* 21.5*Fowler*Smith*None*1:36*D*2,000*-*None
+Sunday, Sep 14*boxscore*CHW*@*BOS*L*2*9*None*73-71*3* 22.5*Newsome*Lyons*None*1:44*D*None*--*None
+Sunday, Sep 14*boxscore*CHW*@*BOS*L*1*5*None*73-72*3* 22.5*Wagner*Lee*None*1:45*D*36,224*---*1941-09-16 (Schedule change)
+Monday, Sep 15*boxscore*CHW*@*BOS*L*1*6*None*73-73*3* 23.5*Harris*Rigney*None*1:44*D*3,897*----*None
+Wednesday, Sep 17*boxscore*CHW*@*NYY*L*3*5*None*73-74*3* 24.5*Chandler*Smith*None*1:47*D*3,604*-----*None
+Saturday, Sep 20*boxscore*CHW*None*DET*W*4*3*None*74-74*3* 24.5*Lee*Newsom*None*2:08*D*2,785*+*None
+Sunday, Sep 21*boxscore*CHW*None*DET*L*3*6*None*74-75*3* 24.5*Bridges*Lyons*None*1:58*D*None*-*None
+Sunday, Sep 21*boxscore*CHW*None*DET*T*1*1*14*74-75*3* 24.5*None*None*None*2:27*D*12,536*-*None
+Monday, Sep 22*boxscore*CHW*None*DET*L*0*11*None*74-76*3* 25.0*Benton*Dietrich*Thomas*1:42*D*1,651*--*None
+Wednesday, Sep 24*boxscore*CHW*None*CLE*W*2*1*None*75-76*3* 24.5*Lee*Bagby*None*1:30*D*1,913*+*None
+Friday, Sep 26*boxscore*CHW*@*DET*L*3*4*None*75-77*3* 26.0*Benton*Smith*Gorsica*1:46*D*3,121*-*None
+Saturday, Sep 27*boxscore*CHW*@*DET*W*10*6*None*76-77*3* 25.0*Rigney*Rowe*None*2:12*D*8,909*+*None
+Sunday, Sep 28*boxscore*CHW*@*DET*W*3*0*None*77-77*3* 24.0*Lee*Bridges*None*2:01*D*12,208*++*None

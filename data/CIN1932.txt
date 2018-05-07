@@ -1,0 +1,155 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 13*boxscore*CIN*None*CHC*L*2*3*None*1-1*4* 1.0*Malone*Carroll*None*None*D*None*-*None
+Thursday, Apr 14*boxscore*CIN*None*CHC*W*5*3*None*2-1*1* Tied*Lucas*Smith*None*None*D*None*+*None
+Friday, Apr 15*boxscore*CIN*None*CHC*L*2*8*None*2-2*2* 1.0*Warneke*Hilcher*None*None*D*None*-*None
+Saturday, Apr 16*boxscore*CIN*None*PIT*W*5*0*None*3-2*1* Tied*Johnson*Harris*None*1:52*D*None*+*None
+Sunday, Apr 17*boxscore*CIN*None*PIT*L*3*4*None*3-3*3* 1.0*Spencer*Benton*Swift*1:53*D*None*-*None
+Monday, Apr 18*boxscore*CIN*None*PIT*W*5*0*None*4-3*2* 0.5*Kolp*French*None*1:13*D*None*+*None
+Wednesday, Apr 20*boxscore*CIN*@*CHC*W*7*2*None*5-3*1* Tied*Lucas*Malone*None*None*D*None*++*None
+Thursday, Apr 21*boxscore*CIN*@*CHC*L*2*3*None*5-4*3* 1.0*Smith*Johnson*None*None*D*None*-*None
+Friday, Apr 22*boxscore*CIN*@*CHC*L*4*5*None*5-5*3* 2.0*Bush*Benton*Root*None*D*None*--*None
+Saturday, Apr 23*boxscore*CIN*@*CHC*L*1*2*12*5-6*5* 3.0*Warneke*Hilcher*None*None*D*None*---*None
+Sunday, Apr 24*boxscore*CIN*None*STL*L*3*8*None*5-7*6* 4.0*Rhem*Rixey*None*1:57*D*None*----*None
+Monday, Apr 25*boxscore*CIN*None*STL*L*2*4*None*5-8*7* 4.0*Hallahan*Lucas*None*None*D*None*-----*None
+Wednesday, Apr 27*boxscore*CIN*None*STL*W*6*4*None*6-8*6* 4.0*Johnson*Johnson*None*None*D*None*+*None
+Thursday, Apr 28*boxscore*CIN*@*PIT*W*7*6*None*7-8*3* 4.0*Ogden*French*None*2:16*D*None*++*None
+Friday, Apr 29*boxscore*CIN*@*PIT*W*6*4*None*8-8*3* 3.5*Rixey*Brame*None*1:58*D*None*+++*None
+Sunday, May 1*boxscore*CIN*None*PIT*W*7*5*None*9-8*3* 3.0*Lucas*French*None*2:06*D*21,000*++++*None
+Monday, May 2*boxscore*CIN*@*STL*L*1*2*None*9-9*4* 3.0*Johnson*Johnson*None*None*D*None*-*None
+Tuesday, May 3*boxscore*CIN*@*STL*L*0*9*None*9-10*4* 4.0*Dean*Carroll*None*None*D*None*--*None
+Wednesday, May 4*boxscore*CIN*@*STL*L*0*7*None*9-11*5* 5.0*Rhem*Ogden*None*None*D*None*---*None
+Thursday, May 5*boxscore*CIN*None*BSN*W*9*6*None*10-11*4* 4.0*Kolp*Brandt*Johnson*2:16*D*None*+*None
+Friday, May 6*boxscore*CIN*None*BSN*W*14*1*None*11-11*4* 4.0*Lucas*Cantwell*None*2:00*D*None*++*None
+Saturday, May 7*boxscore*CIN*None*BSN*W*9*8*12*12-11*4* 4.0*Wysong*Zachary*None*3:18*D*None*+++*None
+Sunday, May 8*boxscore*CIN*None*BSN*W*6*5*None*13-11*3* 4.0*Johnson*Seibold*None*2:00*D*None*++++*None
+Monday, May 9*boxscore*CIN*None*PHI*W*4*3*None*14-11*3* 3.5*Carroll*Holley*None*1:52*D*None*+++++*None
+Tuesday, May 10*boxscore*CIN*None*PHI*L*0*4*None*14-12*3* 4.5*Benge*Kolp*None*1:35*D*None*-*None
+Wednesday, May 11*boxscore*CIN*None*PHI*W*4*1*None*15-12*3* 4.0*Lucas*Collins*None*None*D*None*+*None
+Thursday, May 12*boxscore*CIN*None*BRO*L*2*5*None*15-13*3* 4.0*Phelps*Johnson*None*None*D*1,500*-*None
+Friday, May 13*boxscore*CIN*None*BRO*L*3*5*None*15-14*3* 5.0*Vance*Benton*None*None*D*None*--*None
+Saturday, May 14*boxscore*CIN*None*BRO*W*5*3*None*16-14*3* 4.0*Carroll*Thurston*None*None*D*3,500*+*None
+Sunday, May 15*boxscore*CIN*None*NYG*L*1*9*None*16-15*3* 4.0*Hubbell*Frey*None*1:43*D*25,000*-*None
+Monday, May 16*boxscore*CIN*None*NYG*W*6*2*None*17-15*3* 4.0*Lucas*Fitzsimmons*None*None*D*None*+*None
+Tuesday, May 17*boxscore*CIN*None*NYG*W*2*1*10*18-15*3* 4.0*Frey*Walker*None*None*D*None*++*None
+Wednesday, May 18*boxscore*CIN*None*NYG*L*3*9*None*18-16*3* 5.0*Schumacher*Johnson*Mitchell*None*D*None*-*None
+Thursday, May 19*boxscore*CIN*None*CHC*L*3*4*12*18-17*3* 6.0*Grimes*Carroll*None*None*D*None*--*None
+Friday, May 20*boxscore*CIN*None*CHC*W*3*2*11*19-17*3* 5.0*Johnson*Warneke*None*None*D*None*+*None
+Saturday, May 21*boxscore*CIN*None*CHC*W*6*5*None*20-17*3* 4.0*Lucas*Bush*None*2:21*D*None*++*None
+Sunday, May 22*boxscore*CIN*None*CHC*W*4*3*None*21-17*3* 3.0*Kolp*Root*None*1:37*D*None*+++*None
+Tuesday, May 24*boxscore*CIN*None*PIT*L*3*5*12*21-18*3* 3.0*Spencer*Frey*None*2:33*D*None*-*None
+Wednesday, May 25*boxscore*CIN*None*PIT*L*4*9*None*21-19*3* 4.0*Kremer*Carroll*Swift*1:47*D*None*--*None
+Thursday, May 26*boxscore*CIN*None*PIT*L*2*3*None*21-20*3* 4.5*Harris*Lucas*Swift*1:47*D*11,633*---*None
+Friday, May 27*boxscore*CIN*@*CHC*L*4*6*None*21-21*3* 5.5*Warneke*Kolp*None*None*D*None*----*None
+Saturday, May 28*boxscore*CIN*@*CHC*W*9*3*None*22-21*3* 4.5*Frey*Root*None*None*D*None*+*None
+Sunday, May 29*boxscore*CIN*None*STL*L*0*5*None*22-22*3* 4.5*Hallahan*Johnson*None*2:09*D*None*-*None
+Sunday, May 29*boxscore*CIN*None*STL*W*3*2*11*23-22*3* 4.5*Carroll*Dean*None*2:19*D*30,000*+*1932-04-26 (Wet grounds)
+Monday, May 30*boxscore*CIN*@*PIT*W*4*2*None*24-22*3* 4.5*Rixey*Harris*None*2:00*D*None*++*None
+Monday, May 30*boxscore*CIN*@*PIT*L*2*5*None*24-23*3* 4.5*Swift*Benton*None*1:24*D*None*-*None
+Tuesday, May 31*boxscore*CIN*@*PIT*L*1*4*None*24-24*3* 5.5*French*Lucas*None*1:37*D*None*--*None
+Saturday, Jun 4*boxscore*CIN*@*STL*L*3*7*None*24-25*4* 5.0*Hallahan*Johnson*None*None*D*None*---*None
+Sunday, Jun 5*boxscore*CIN*@*STL*L*2*3*None*24-26*5* 6.0*Derringer*Lucas*None*1:52*D*None*----*None
+Sunday, Jun 5*boxscore*CIN*@*STL*L*2*3*None*24-27*5* 6.0*Dean*Carroll*None*1:58*D*21,000*-----*1932-06-02 (Schedule change)
+Tuesday, Jun 7*boxscore*CIN*@*NYG*L*3*4*None*24-28*6* 6.5*Walker*Kolp*None*None*D*None*------*None
+Wednesday, Jun 8*boxscore*CIN*@*NYG*L*2*9*None*24-29*7* 7.0*Fitzsimmons*Rixey*None*None*D*None*-------*None
+Thursday, Jun 9*boxscore*CIN*@*NYG*L*2*3*None*24-30*7* 7.0*Mooney*Carroll*None*None*D*None*--------*None
+Friday, Jun 10*boxscore*CIN*@*NYG*L*3*4*None*24-31*8* 7.5*Hubbell*Lucas*None*None*D*None*---------*None
+Saturday, Jun 11*boxscore*CIN*@*PHI*L*3*6*None*24-32*8* 7.5*Elliott*Frey*None*1:41*D*None*----------*None
+Saturday, Jun 11*boxscore*CIN*@*PHI*W*4*3*None*25-32*8* 7.5*Benton*Collins*Carroll*2:08*D*None*+*None
+Sunday, Jun 12*boxscore*CIN*None*PHI*L*1*6*None*25-33*8* 8.5*Rhem*Kolp*None*1:40*D*None*-*1932-08-30 (Schedule change)
+Tuesday, Jun 14*boxscore*CIN*@*PHI*L*5*6*None*25-34*8* 8.5*Rhem*Carroll*None*2:03*D*None*--*None
+Tuesday, Jun 14*boxscore*CIN*@*PHI*W*5*2*None*26-34*8* 8.5*Ogden*Elliott*None*1:42*D*None*+*1932-06-13 (Rain)
+Wednesday, Jun 15*boxscore*CIN*@*BRO*W*5*1*None*27-34*8* 7.5*Lucas*Clark*None*None*D*15,000*++*None
+Thursday, Jun 16*boxscore*CIN*@*BRO*W*8*6*None*28-34*8* 7.5*Kolp*Mungo*None*None*D*None*+++*None
+Saturday, Jun 18*boxscore*CIN*@*BRO*L*2*3*None*28-35*8* 8.5*Thurston*Frey*None*1:51*D*None*-*None
+Saturday, Jun 18*boxscore*CIN*@*BRO*L*1*3*None*28-36*8* 8.5*Vance*Carroll*None*None*D*None*--*1932-06-17 (Rain)
+Sunday, Jun 19*boxscore*CIN*@*BSN*W*5*0*None*29-36*8* 8.0*Johnson*Cantwell*None*1:40*D*None*+*None
+Monday, Jun 20*boxscore*CIN*@*BSN*L*2*3*11*29-37*8* 8.0*Zachary*Lucas*None*2:00*D*None*-*None
+Tuesday, Jun 21*boxscore*CIN*@*BSN*W*9*3*None*30-37*8* 8.0*Kolp*Brandt*None*1:28*D*None*+*None
+Wednesday, Jun 22*boxscore*CIN*@*BSN*W*14*8*None*31-37*8* 7.0*Carroll*Brown*Johnson*2:12*D*None*++*None
+Friday, Jun 24*boxscore*CIN*@*PIT*L*3*4*None*31-38*8* 7.0*Meine*Rixey*None*1:47*D*None*-*None
+Saturday, Jun 25*boxscore*CIN*@*PIT*L*4*5*11*31-39*8* 7.5*Swift*Lucas*None*2:12*D*None*--*None
+Saturday, Jun 25*boxscore*CIN*@*PIT*L*5*8*None*31-40*8* 7.5*Kremer*Kolp*Meine*2:08*D*None*---*1932-04-30 (Rain)
+Sunday, Jun 26*boxscore*CIN*None*PIT*L*0*5*None*31-41*8* 8.5*French*Johnson*None*1:42*D*None*----*None
+Sunday, Jun 26*boxscore*CIN*None*PIT*L*5*9*None*31-42*8* 8.5*Swift*Carroll*None*1:49*D*None*-----*1932-06-27 (Schedule change)
+Tuesday, Jun 28*boxscore*CIN*None*STL*L*2*6*None*31-43*8* 9.0*Hallahan*Rixey*None*None*D*None*------*None
+Wednesday, Jun 29*boxscore*CIN*None*STL*L*9*10*None*31-44*8* 9.5*Stout*Kolp*Hallahan*None*D*None*-------*None
+Thursday, Jun 30*boxscore*CIN*@*CHC*L*0*7*None*31-45*8* 10.5*Bush*Lucas*None*None*D*None*--------*None
+Friday, Jul 1*boxscore*CIN*@*CHC*L*4*8*None*31-46*8* 11.0*Warneke*Frey*None*1:53*D*17,000*---------*None
+Saturday, Jul 2*boxscore*CIN*@*CHC*W*6*3*None*32-46*8* 10.0*Carroll*Root*None*1:48*D*None*+*None
+Sunday, Jul 3*boxscore*CIN*None*STL*W*4*2*None*33-46*8* 9.5*Johnson*Carleton*None*1:58*D*None*++*None
+Monday, Jul 4*boxscore*CIN*@*STL*W*7*3*None*34-46*8* 10.0*Benton*Derringer*None*2:16*D*None*+++*None
+Monday, Jul 4*boxscore*CIN*@*STL*T*3*3*13*34-46*8* 10.0*None*None*None*2:47*D*None*+++*None
+Tuesday, Jul 5*boxscore*CIN*@*STL*W*12*4*None*35-46*8* 10.0*Lucas*Lindsey*None*None*D*None*++++*None
+Wednesday, Jul 6*boxscore*CIN*None*BRO*W*6*4*None*36-46*8* 11.0*Carroll*Thurston*None*None*D*None*+++++*None
+Wednesday, Jul 6*boxscore*CIN*None*BRO*L*2*3*None*36-47*8* 11.0*Heimach*Kolp*None*1:33*D*None*-*None
+Friday, Jul 8*boxscore*CIN*None*BRO*L*5*15*None*36-48*8* 11.5*Clark*Johnson*None*None*D*6,500*--*None
+Saturday, Jul 9*boxscore*CIN*None*NYG*W*3*1*None*37-48*8* 10.5*Benton*Walker*None*None*D*None*+*None
+Sunday, Jul 10*boxscore*CIN*None*NYG*W*6*4*None*38-48*8* 10.0*Lucas*Fitzsimmons*None*1:49*D*None*++*None
+Sunday, Jul 10*boxscore*CIN*None*NYG*W*4*2*None*39-48*8* 10.0*Carroll*Luque*None*1:55*D*None*+++*1932-07-11 (Schedule change)
+Tuesday, Jul 12*boxscore*CIN*None*NYG*L*3*4*None*39-49*8* 11.5*Hubbell*Ogden*None*None*D*None*-*None
+Wednesday, Jul 13*boxscore*CIN*None*PHI*L*2*3*None*39-50*8* 11.0*Hansen*Benton*Benge*1:58*D*None*--*None
+Thursday, Jul 14*boxscore*CIN*None*PHI*L*6*11*None*39-51*8* 12.0*Collins*Carroll*None*2:02*D*None*---*None
+Friday, Jul 15*boxscore*CIN*None*PHI*L*3*4*12*39-52*8* 13.0*Elliott*Benton*Berly*2:49*D*None*----*None
+Saturday, Jul 16*boxscore*CIN*None*PHI*W*4*1*None*40-52*8* 13.5*Johnson*Benge*None*1:56*D*None*+*None
+Sunday, Jul 17*boxscore*CIN*None*BSN*L*3*5*None*40-53*8* 14.5*Brown*Carroll*Cantwell*2:08*D*None*-*None
+Sunday, Jul 17*boxscore*CIN*None*BSN*L*1*3*None*40-54*8* 14.5*Zachary*Kolp*None*1:51*D*None*--*1932-07-20 (Schedule change)
+Tuesday, Jul 19*boxscore*CIN*None*BSN*L*0*2*None*40-55*8* 14.5*Brandt*Lucas*None*2:01*D*None*---*None
+Saturday, Jul 23*boxscore*CIN*None*STL*W*3*2*11*41-55*8* 15.0*Carroll*Lindsey*None*None*D*None*+*None
+Sunday, Jul 24*boxscore*CIN*None*STL*L*3*7*None*41-56*8* 16.0*Derringer*Lucas*None*2:04*D*None*-*None
+Sunday, Jul 24*boxscore*CIN*None*STL*L*0*1*13*41-57*8* 16.0*Johnson*Johnson*Lindsey*2:43*D*None*--*1932-07-22 (Schedule change)
+Tuesday, Jul 26*boxscore*CIN*@*PHI*L*5*10*None*41-58*8* 16.5*Elliott*Carroll*None*2:05*D*None*---*None
+Wednesday, Jul 27*boxscore*CIN*@*PHI*W*4*3*None*42-58*8* 17.0*Benton*Hansen*None*1:38*D*None*+*None
+Thursday, Jul 28*boxscore*CIN*@*PHI*W*7*4*None*43-58*8* 17.5*Johnson*Rhem*None*1:45*D*None*++*None
+Friday, Jul 29*boxscore*CIN*@*PHI*L*2*5*None*43-59*8* 18.5*Holley*Frey*None*1:45*D*None*-*None
+Saturday, Jul 30*boxscore*CIN*@*NYG*W*3*1*None*44-59*8* 17.0*Carroll*Hubbell*None*None*D*None*+*None
+Sunday, Jul 31*boxscore*CIN*@*NYG*L*3*4*10*44-60*8* 18.0*Walker*Lucas*None*2:07*D*10,000*-*None
+Sunday, Jul 31*boxscore*CIN*@*NYG*L*4*6*None*44-61*8* 18.0*Mooney*Benton*Bell*1:49*D*10,000*--*1932-08-01 (Schedule change)
+Tuesday, Aug 2*boxscore*CIN*@*NYG*L*2*3*None*44-62*8* 17.5*Hoyt*Frey*Gibson*None*D*None*---*None
+Thursday, Aug 4*boxscore*CIN*@*BSN*L*2*3*None*44-63*8* 17.0*Betts*Johnson*None*1:20*D*None*----*None
+Friday, Aug 5*boxscore*CIN*@*BSN*W*3*2*None*45-63*8* 16.5*Lucas*Zachary*None*1:40*D*None*+*None
+Saturday, Aug 6*boxscore*CIN*@*BSN*L*3*4*None*45-64*8* 16.0*Frankhouse*Benton*None*1:32*D*10,000*-*None
+Saturday, Aug 6*boxscore*CIN*@*BSN*W*3*0*None*46-64*8* 16.0*Kolp*Pruett*None*1:27*D*None*+*1932-08-03 (Rain)
+Sunday, Aug 7*boxscore*CIN*@*BRO*L*1*6*None*46-65*8* 15.0*Mungo*Carroll*None*1:58*D*None*-*None
+Sunday, Aug 7*boxscore*CIN*@*BRO*W*9*5*None*47-65*8* 15.0*Johnson*Thurston*None*2:09*D*17,000*+*1932-08-08 (Schedule change)
+Tuesday, Aug 9*boxscore*CIN*@*BRO*W*9*8*10*48-65*8* 14.0*Carroll*Quinn*None*2:38*D*4,000*++*None
+Wednesday, Aug 10*boxscore*CIN*@*BRO*L*1*6*None*48-66*8* 15.0*Mungo*Lucas*None*1:43*D*None*-*None
+Wednesday, Aug 10*boxscore*CIN*@*BRO*L*9*10*13*48-67*8* 15.0*Vance*Johnson*None*3:10*D*25,000*--*1932-08-11 (Schedule change)
+Saturday, Aug 13*boxscore*CIN*@*PIT*W*3*0*None*49-67*8* 15.0*Rixey*Swift*None*1:33*D*None*+*None
+Sunday, Aug 14*boxscore*CIN*None*BSN*W*3*1*None*50-67*8* 13.0*Lucas*Zachary*None*2:00*D*None*++*None
+Sunday, Aug 14*boxscore*CIN*None*BSN*W*9*3*None*51-67*8* 13.0*Johnson*Betts*None*1:39*D*None*+++*1932-08-25 (Schedule change)
+Tuesday, Aug 16*boxscore*CIN*None*NYG*L*1*2*None*51-68*8* 14.0*Fitzsimmons*Carroll*None*None*D*None*-*None
+Wednesday, Aug 17*boxscore*CIN*None*NYG*L*0*8*None*51-69*8* 15.0*Mooney*Benton*None*None*D*None*--*None
+Thursday, Aug 18*boxscore*CIN*None*NYG*L*3*7*None*51-70*8* 16.0*Hoyt*Kolp*Luque*None*D*None*---*None
+Friday, Aug 19*boxscore*CIN*None*BRO*L*0*6*None*51-71*8* 16.0*Mungo*Johnson*None*1:38*D*1,000*----*None
+Saturday, Aug 20*boxscore*CIN*None*BRO*L*0*6*None*51-72*8* 17.5*Clark*Lucas*None*None*D*None*-----*None
+Saturday, Aug 20*boxscore*CIN*None*BRO*L*1*6*7*51-73*8* 17.5*Thurston*Carroll*None*1:28*D*None*------*1932-07-07 (Wet grounds)
+Sunday, Aug 21*boxscore*CIN*None*PIT*W*2*0*None*52-73*8* 17.5*Rixey*Swift*None*1:27*D*None*+*None
+Wednesday, Aug 24*boxscore*CIN*None*BSN*L*2*5*None*52-74*8* 19.0*Seibold*Johnson*None*1:45*D*None*-*None
+Wednesday, Aug 24*boxscore*CIN*None*BSN*W*3*1*None*53-74*8* 19.0*Benton*Betts*None*1:20*D*None*+*1932-08-26 (Schedule change)
+Saturday, Aug 27*boxscore*CIN*None*PHI*W*2*1*None*54-74*8* 20.5*Lucas*Rhem*None*1:28*D*None*++*None
+Sunday, Aug 28*boxscore*CIN*None*PHI*L*1*2*None*54-75*8* 21.0*Hansen*Carroll*Benge*1:55*D*None*-*None
+Sunday, Aug 28*boxscore*CIN*None*PHI*W*3*2*None*55-75*8* 21.0*Rixey*Holley*None*1:42*D*None*+*1932-08-29 (Schedule change)
+Wednesday, Aug 31*boxscore*CIN*None*BRO*L*1*7*None*55-76*8* 23.0*Clark*Frey*Shaute*1:46*D*None*-*None
+Wednesday, Aug 31*boxscore*CIN*None*BRO*L*10*11*None*55-77*8* 23.0*Shaute*Carroll*Vance*2:48*D*10,000*--*1932-09-01 (Schedule change)
+Friday, Sep 2*boxscore*CIN*@*PIT*L*1*2*None*55-78*8* 24.0*French*Lucas*None*1:33*D*None*---*None
+Saturday, Sep 3*boxscore*CIN*@*PIT*L*1*7*None*55-79*8* 24.5*Swift*Rixey*None*1:42*D*None*----*None
+Sunday, Sep 4*boxscore*CIN*None*PIT*L*2*5*None*55-80*8* 25.5*Chagnon*Benton*Harris*1:39*D*None*-----*None
+Monday, Sep 5*boxscore*CIN*None*CHC*L*2*9*None*55-81*8* 25.5*Grimes*Carroll*Root*1:59*D*None*------*None
+Monday, Sep 5*boxscore*CIN*None*CHC*W*6*5*None*56-81*8* 25.5*Johnson*May*None*1:48*D*7,500*+*None
+Wednesday, Sep 7*boxscore*CIN*@*NYG*L*5*7*None*56-82*8* 25.0*Luque*Lucas*None*None*D*None*-*None
+Friday, Sep 9*boxscore*CIN*@*NYG*W*10*4*None*57-82*8* 25.5*Frey*Mooney*Benton*None*D*None*+*None
+Friday, Sep 9*boxscore*CIN*@*NYG*L*1*11*None*57-83*8* 25.5*Walker*Carroll*None*None*D*None*-*1932-09-08 (Cold)
+Saturday, Sep 10*boxscore*CIN*@*BSN*W*5*2*None*58-83*8* 25.5*Johnson*Seibold*None*1:40*D*None*+*None
+Sunday, Sep 11*boxscore*CIN*@*BSN*L*3*13*None*58-84*8* 27.0*Zachary*Benton*None*1:32*D*None*-*None
+Sunday, Sep 11*boxscore*CIN*@*BSN*L*1*10*None*58-85*8* 27.0*Cantwell*Kolp*None*1:38*D*None*--*1932-09-12 (Schedule change)
+Tuesday, Sep 13*boxscore*CIN*@*PHI*L*1*7*None*58-86*8* 27.0*Benge*Lucas*None*1:23*D*None*---*None
+Wednesday, Sep 14*boxscore*CIN*@*PHI*L*1*4*None*58-87*8* 27.0*Hansen*Johnson*None*None*D*None*----*None
+Thursday, Sep 15*boxscore*CIN*@*PHI*L*4*7*None*58-88*8* 28.0*Liska*Benton*None*1:41*D*None*-----*None
+Saturday, Sep 17*boxscore*CIN*@*BRO*L*3*5*None*58-89*8* 28.5*Clark*Frey*None*None*D*None*------*None
+Saturday, Sep 17*boxscore*CIN*@*BRO*W*7*6*None*59-89*8* 28.5*Johnson*Quinn*Kolp*2:07*D*12,000*+*1932-09-16 (Rain)
+Sunday, Sep 18*boxscore*CIN*None*CHC*L*3*4*15*59-90*8* 29.5*Root*Lucas*None*3:10*D*None*-*None
+Tuesday, Sep 20*boxscore*CIN*@*STL*L*1*3*None*59-91*8* 30.0*Carleton*Frey*None*None*D*None*--*1932-06-03 (Rain)
+Wednesday, Sep 21*boxscore*CIN*@*STL*L*0*2*None*59-92*8* 30.0*Dean*Benton*None*None*D*None*---*None
+Thursday, Sep 22*boxscore*CIN*@*STL*L*5*8*None*59-93*8* 30.0*Winford*Hilcher*None*None*D*None*----*None
+Saturday, Sep 24*boxscore*CIN*@*CHC*L*6*8*None*59-94*8* 31.0*May*Johnson*None*None*D*None*-----*None
+Sunday, Sep 25*boxscore*CIN*@*CHC*W*5*3*None*60-94*8* 30.0*Frey*Malone*None*1:37*D*12,000*+*None

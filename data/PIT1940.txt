@@ -1,0 +1,156 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Monday, Apr 22*boxscore*PIT*None*CHC*W*9*5*None*2-0*2* 0.5*Bowman*Passeau*Butcher*2:46*D*10,461*++*None
+Tuesday, Apr 23*boxscore*PIT*None*CHC*W*3*2*None*3-0*1* Tied*Brown*French*None*2:20*D*4,138*+++*None
+Wednesday, Apr 24*boxscore*PIT*None*CHC*L*4*9*None*3-1*3* 1.0*Lee*Butcher*None*2:10*D*3,809*-*None
+Thursday, Apr 25*boxscore*PIT*None*STL*L*9*10*None*3-2*3* 2.0*Shoun*Klinger*Russell*3:12*D*3,394*--*None
+Friday, Apr 26*boxscore*PIT*None*STL*W*10*4*None*4-2*2* 2.0*Brown*Bowman*None*2:37*D*3,912*+*None
+Saturday, Apr 27*boxscore*PIT*@*CIN*L*0*3*None*4-3*3* 3.0*Walters*Bowman*None*1:56*D*5,950*-*None
+Sunday, Apr 28*boxscore*PIT*@*CIN*L*2*8*None*4-4*3* 4.0*Thompson*MacFayden*None*2:12*D*19,337*--*None
+Monday, Apr 29*boxscore*PIT*@*CIN*L*2*3*None*4-5*4* 4.5*Derringer*Butcher*None*1:31*D*1,549*---*None
+Tuesday, Apr 30*boxscore*PIT*None*PHI*L*2*6*None*4-6*5* 5.5*Mulcahy*Klinger*None*1:55*D*2,015*----*None
+Sunday, May 5*boxscore*PIT*None*BSN*L*1*5*None*4-7*6* 6.0*Strincevich*Brown*Coffman*2:03*D*10,992*-----*None
+Monday, May 6*boxscore*PIT*None*BSN*L*7*10*12*4-8*6* 7.0*Swift*Swigart*Sullivan*3:24*D*2,142*------*None
+Tuesday, May 7*boxscore*PIT*None*BSN*L*9*11*None*4-9*8* 7.0*Earley*Lanning*Swift*3:01*D*2,098*-------*None
+Wednesday, May 8*boxscore*PIT*None*NYG*L*6*10*None*4-10*8* 7.5*Melton*Klinger*Schumacher*2:33*D*3,564*--------*None
+Thursday, May 9*boxscore*PIT*None*NYG*L*6*17*None*4-11*8* 8.5*Hubbell*Butcher*None*2:45*D*3,492*---------*None
+Friday, May 10*boxscore*PIT*@*CHC*W*8*3*None*5-11*8* 7.5*Brown*Lee*None*2:09*D*3,448*+*None
+Saturday, May 11*boxscore*PIT*@*CHC*L*5*7*None*5-12*8* 8.0*Page*Bowman*None*2:23*D*7,211*-*None
+Sunday, May 12*boxscore*PIT*@*CHC*L*5*7*None*5-13*8* 9.5*Olsen*Lanahan*Passeau*2:15*D*17,955*--*None
+Tuesday, May 14*boxscore*PIT*@*NYG*W*7*2*None*6-13*8* 9.0*Klinger*Melton*None*2:10*D*4,373*+*None
+Wednesday, May 15*boxscore*PIT*@*NYG*L*2*5*None*6-14*8* 9.5*Hubbell*Brown*None*2:05*D*4,324*-*None
+Saturday, May 18*boxscore*PIT*@*BSN*L*5*15*None*6-15*8* 10.0*Piechota*Butcher*None*2:19*D*4,264*--*None
+Sunday, May 19*boxscore*PIT*@*PHI*L*5*6*None*6-16*8* 11.0*Johnson*Sewell*None*2:30*D*8,981*---*None
+Monday, May 20*boxscore*PIT*@*PHI*L*7*8*None*6-17*8* 11.0*Hoerst*Lanahan*None*2:28*D*1,000*----*None
+Wednesday, May 22*boxscore*PIT*@*BRO*L*1*3*None*6-18*8* 11.0*Fitzsimmons*Klinger*None*1:38*D*3,149*-----*None
+Saturday, May 25*boxscore*PIT*None*CHC*W*12*7*None*7-18*8* 10.5*Bowman*French*None*2:31*D*2,806*+*None
+Sunday, May 26*boxscore*PIT*None*CHC*W*3*2*None*8-18*8* 10.5*Klinger*Lee*None*1:53*D*8,771*++*None
+Monday, May 27*boxscore*PIT*None*CIN*L*1*2*None*8-19*8* 12.5*Beggs*Brown*None*2:00*D*None*-*None
+Monday, May 27*boxscore*PIT*None*CIN*L*3*7*None*8-20*8* 12.5*Turner*Bauers*None*1:53*D*6,258*--*1940-04-19 (Rain)
+Tuesday, May 28*boxscore*PIT*None*CIN*W*5*2*None*9-20*8* 12.0*Butcher*Thompson*None*1:49*D*1,359*+*None
+Wednesday, May 29*boxscore*PIT*None*CIN*L*0*4*None*9-21*8* 12.5*Walters*Bowman*None*1:40*D*2,259*-*None
+Sunday, Jun 2*boxscore*PIT*None*NYG*W*2*1*None*10-21*8* 14.0*Klinger*Schumacher*MacFayden*2:18*D*None*+*None
+Sunday, Jun 2*boxscore*PIT*None*NYG*L*3*7*8*10-22*8* 14.0*Melton*Brown*Gumbert*2:07*D*18,634*-*1940-06-01 (Rain)
+Monday, Jun 3*boxscore*PIT*None*NYG*L*3*4*None*10-23*8* 15.0*Lohrman*Butcher*None*None*D*1,987*--*None
+Tuesday, Jun 4*boxscore*PIT*None*BSN*W*14*2*None*11-23*8* 14.0*Bowman*Callahan*None*2:29*N*20,310*+*None
+Thursday, Jun 6*boxscore*PIT*None*BSN*W*7*6*None*12-23*7* 14.0*Sewell*Sullivan*None*2:04*D*1,165*++*None
+Friday, Jun 7*boxscore*PIT*None*PHI*W*10*4*None*13-23*7* 13.0*Lanning*Johnson*None*1:57*D*1,174*+++*None
+Saturday, Jun 8*boxscore*PIT*None*PHI*W*6*5*None*14-23*5* 13.0*Heintzelman*Johnson*Brown*2:31*D*3,055*++++*None
+Sunday, Jun 9*boxscore*PIT*None*PHI*L*1*6*None*14-24*5* 13.0*Mulcahy*Klinger*None*2:08*D*14,450*-*None
+Sunday, Jun 9*boxscore*PIT*None*PHI*W*11*5*8*15-24*5* 13.0*Brown*Pearson*None*2:13*D*14,450*+*1940-05-01 (Rain)
+Monday, Jun 10*boxscore*PIT*None*BRO*L*7*8*None*15-25*5* 13.5*Fitzsimmons*Lanahan*None*2:32*D*2,659*-*None
+Wednesday, Jun 12*boxscore*PIT*None*BRO*L*4*5*None*15-26*6* 14.0*Wyatt*Brown*None*2:39*N*20,179*--*None
+Friday, Jun 14*boxscore*PIT*@*NYG*L*6*8*None*15-27*6* 15.0*Lohrman*Klinger*Brown*2:22*D*5,955*---*None
+Saturday, Jun 15*boxscore*PIT*@*NYG*L*1*12*None*15-28*7* 16.0*Schumacher*Bowman*None*2:22*D*5,941*----*None
+Sunday, Jun 16*boxscore*PIT*@*NYG*W*5*0*None*16-28*6* 14.0*Butcher*Hubbell*None*2:14*D*34,282*+*None
+Sunday, Jun 16*boxscore*PIT*@*NYG*W*5*3*None*17-28*6* 14.0*Sewell*Gumbert*Heintzelman*2:16*D*34,282*++*None
+Monday, Jun 17*boxscore*PIT*@*BSN*L*3*5*None*17-29*7* 15.5*Posedel*Lanning*None*None*None*None*-*None
+Monday, Jun 17*boxscore*PIT*@*BSN*L*1*5*None*17-30*7* 15.5*Piechota*Brown*None*2:14*N*5,224*--*None
+Wednesday, Jun 19*boxscore*PIT*@*BSN*W*5*1*None*18-30*6* 14.5*Bowman*Errickson*None*2:05*D*1,771*+*None
+Thursday, Jun 20*boxscore*PIT*@*BSN*W*8*7*None*19-30*6* 13.5*Butcher*Fette*Brown*2:24*D*1,445*++*None
+Friday, Jun 21*boxscore*PIT*@*BRO*L*8*10*None*19-31*6* 14.5*Fitzsimmons*Klinger*Tamulis*2:14*D*6,106*-*None
+Saturday, Jun 22*boxscore*PIT*@*BRO*W*7*2*None*20-31*6* 13.5*Sewell*Carleton*None*2:15*D*10,850*+*None
+Sunday, Jun 23*boxscore*PIT*@*BRO*W*8*5*None*21-31*5* 14.0*MacFayden*Wyatt*Brown*2:25*D*None*++*None
+Sunday, Jun 23*boxscore*PIT*@*BRO*T*4*4*13*21-31*5* 14.0*None*None*None*3:01*D*24,239*++*None
+Tuesday, Jun 25*boxscore*PIT*@*PHI*W*9*7*None*22-31*5* 13.5*Lanning*Higbe*Klinger*2:13*D*1,000*+++*None
+Wednesday, Jun 26*boxscore*PIT*@*PHI*L*2*4*None*22-32*5* 13.5*Blanton*Bowman*None*1:46*D*12,565*-*None
+Wednesday, Jun 26*boxscore*PIT*@*PHI*W*11*6*None*23-32*5* 13.5*Sewell*Beck*Brown*2:13*D*12,565*+*1940-05-21 (Rain)
+Friday, Jun 28*boxscore*PIT*None*STL*L*2*8*None*23-33*5* 13.5*McGee*Heintzelman*None*2:13*N*20,490*-*None
+Sunday, Jun 30*boxscore*PIT*None*STL*L*0*1*None*23-34*5* 15.0*Cooper*Klinger*None*1:50*D*None*--*1940-05-30 (Rain)
+Sunday, Jun 30*boxscore*PIT*None*STL*W*2*0*None*24-34*5* 15.0*Butcher*Shoun*None*1:36*D*25,096*+*None
+Monday, Jul 1*boxscore*PIT*@*CHC*W*4*3*10*25-34*5* 14.0*Brown*Olsen*None*2:37*D*4,335*++*None
+Tuesday, Jul 2*boxscore*PIT*@*CHC*L*0*10*None*25-35*6* 14.5*Lee*Bowman*None*1:47*D*5,120*-*None
+Wednesday, Jul 3*boxscore*PIT*@*CHC*L*5*7*None*25-36*6* 15.5*Passeau*Bauers*None*2:22*D*5,678*--*None
+Thursday, Jul 4*boxscore*PIT*@*CIN*L*1*9*None*25-37*6* 17.5*Walters*Klinger*None*1:47*D*None*---*None
+Thursday, Jul 4*boxscore*PIT*@*CIN*L*1*3*None*25-38*6* 17.5*Thompson*Butcher*None*1:54*D*19,399*----*None
+Friday, Jul 5*boxscore*PIT*@*CIN*L-wo*4*5*None*25-39*6* 18.5*Beggs*MacFayden*None*2:10*D*5,682*-----*None
+Saturday, Jul 6*boxscore*PIT*@*STL*W*15*8*None*26-39*6* 18.0*Klinger*Russell*Lanning*2:43*D*None*+*None
+Saturday, Jul 6*boxscore*PIT*@*STL*W*4*3*10*27-39*6* 18.0*Brown*Warneke*None*2:02*D*3,537*++*1940-04-17 (Rain)
+Sunday, Jul 7*boxscore*PIT*@*STL*W*7*6*None*28-39*5* 16.5*Sewell*Shoun*Lanahan*2:17*D*None*+++*None
+Sunday, Jul 7*boxscore*PIT*@*STL*W*4*1*None*29-39*5* 16.5*Heintzelman*Cooper*None*1:38*D*7,303*++++*1940-04-18 (Cold)
+Friday, Jul 12*boxscore*PIT*None*PHI*L*3*6*None*29-40*5* 17.5*Mulcahy*Bowman*None*1:55*N*9,042*-*None
+Saturday, Jul 13*boxscore*PIT*None*PHI*W*9*8*None*30-40*5* 17.0*MacFayden*Johnson*Bowman*2:26*D*2,375*+*None
+Sunday, Jul 14*boxscore*PIT*None*BRO*W*6*2*None*31-40*5* 18.0*Sewell*Hamlin*None*2:15*D*33,336*++*None
+Sunday, Jul 14*boxscore*PIT*None*BRO*L*0*2*None*31-41*5* 18.0*Fitzsimmons*Heintzelman*None*1:48*D*33,336*-*1940-05-03 (Rain)
+Monday, Jul 15*boxscore*PIT*None*BRO*L*1*10*None*31-42*6* 18.5*Wyatt*Butcher*None*2:14*D*None*--*None
+Monday, Jul 15*boxscore*PIT*None*BRO*W*4*3*None*32-42*6* 18.5*Klinger*Pressnell*None*2:27*D*12,215*+*1940-05-04 (Cold)
+Tuesday, Jul 16*boxscore*PIT*None*BRO*W*5*3*None*33-42*6* 18.0*Lanning*Pressnell*None*1:18*D*2,271*++*None
+Thursday, Jul 18*boxscore*PIT*None*NYG*L*1*6*None*33-43*6* 19.0*Hubbell*Heintzelman*None*2:23*N*25,188*-*None
+Friday, Jul 19*boxscore*PIT*None*NYG*L*2*5*None*33-44*6* 19.0*Schumacher*Sewell*Gumbert*2:12*D*2,481*--*None
+Saturday, Jul 20*boxscore*PIT*None*BSN*W*17*6*None*34-44*6* 19.0*Brown*Errickson*None*2:35*D*2,661*+*None
+Sunday, Jul 21*boxscore*PIT*None*BSN*W*5*3*None*35-44*6* 19.0*Lanahan*Salvo*Brown*2:04*D*None*++*None
+Sunday, Jul 21*boxscore*PIT*None*BSN*W*16*2*8*36-44*6* 19.0*Bowman*Posedel*None*2:14*D*11,071*+++*1940-06-05 (Schedule change)
+Tuesday, Jul 23*boxscore*PIT*@*NYG*L*1*9*None*36-45*6* 20.5*Hubbell*Klinger*None*1:57*N*12,428*-*None
+Thursday, Jul 25*boxscore*PIT*@*NYG*W*2*1*None*37-45*6* 20.5*Sewell*Schumacher*None*2:15*D*3,265*+*None
+Friday, Jul 26*boxscore*PIT*@*BSN*W*9*0*None*38-45*6* 20.5*Heintzelman*Posedel*None*2:04*D*1,093*++*None
+Saturday, Jul 27*boxscore*PIT*@*BSN*W*10*4*None*39-45*6* 19.5*MacFayden*Sullivan*None*2:30*D*1,509*+++*None
+Sunday, Jul 28*boxscore*PIT*@*BSN*W*5*2*None*40-45*5* 18.5*Lanahan*Errickson*None*1:58*D*None*++++*None
+Sunday, Jul 28*boxscore*PIT*@*BSN*W*7*3*None*41-45*5* 18.5*Butcher*Javery*None*1:47*D*5,471*+++++*1940-05-17 (Rain)
+Monday, Jul 29*boxscore*PIT*@*BRO*L-wo*6*7*None*41-46*6* 18.5*Pressnell*Brown*None*2:36*D*3,537*-*1940-05-23 (Wet grounds)
+Tuesday, Jul 30*boxscore*PIT*@*BRO*W*8*2*None*42-46*6* 18.5*Sewell*Head*None*2:21*N*19,910*+*None
+Thursday, Aug 1*boxscore*PIT*@*BRO*L*3*8*None*42-47*6* 19.0*Wyatt*Heintzelman*None*2:20*D*None*-*None
+Thursday, Aug 1*boxscore*PIT*@*BRO*L*7*8*None*42-48*6* 19.0*Casey*Lanahan*None*2:30*D*19,393*--*None
+Friday, Aug 2*boxscore*PIT*@*PHI*W*5*2*10*43-48*6* 17.5*Bowman*Johnson*Klinger*2:40*N*7,521*+*None
+Saturday, Aug 3*boxscore*PIT*@*PHI*W*8*0*None*44-48*6* 17.0*Brown*Higbe*None*1:38*D*1,000*++*1940-06-24 (Rain)
+Sunday, Aug 4*boxscore*PIT*@*PHI*W*6*1*None*45-48*6* 16.0*Sewell*Mulcahy*None*1:43*D*None*+++*None
+Sunday, Aug 4*boxscore*PIT*@*PHI*W*6*4*None*46-48*6* 16.0*Lanning*Frye*Heintzelman*2:11*D*7,182*++++*None
+Tuesday, Aug 6*boxscore*PIT*None*STL*W*3*1*None*47-48*5* 15.5*Heintzelman*Cooper*None*1:53*D*8,582*+++++*None
+Wednesday, Aug 7*boxscore*PIT*None*STL*W*10*9*None*48-48*5* 14.0*Klinger*Shoun*Lanning*2:38*D*13,000*++++++*None
+Wednesday, Aug 7*boxscore*PIT*None*STL*W*12*6*None*49-48*5* 14.0*Butcher*Lanier*Bowman*2:15*D*5,640*+++++++*1940-05-30 (Rain)
+Friday, Aug 9*boxscore*PIT*None*CHC*W*6*2*None*50-48*4* 14.5*Sewell*Raffensberger*None*2:00*N*29,978*++++++++*None
+Saturday, Aug 10*boxscore*PIT*None*CHC*L*0*1*None*50-49*5* 15.5*Olsen*Klinger*None*1:44*D*4,474*-*None
+Sunday, Aug 11*boxscore*PIT*None*CHC*W*7*3*None*51-49*4* 13.5*Lanning*Raffensberger*None*2:15*D*None*+*None
+Sunday, Aug 11*boxscore*PIT*None*CHC*W*5*1*None*52-49*4* 13.5*Lanahan*Passeau*None*1:40*D*28,968*++*1940-05-24 (Rain)
+Monday, Aug 12*boxscore*PIT*None*CIN*W*4*2*None*53-49*4* 12.5*Butcher*Walters*None*1:47*N*42,254*+++*None
+Tuesday, Aug 13*boxscore*PIT*None*CIN*L*3*4*10*53-50*4* 13.5*Beggs*Heintzelman*None*2:38*D*6,810*-*None
+Wednesday, Aug 14*boxscore*PIT*@*STL*L*6*7*11*53-51*4* 14.0*Shoun*Brown*None*3:12*N*11,077*--*None
+Friday, Aug 16*boxscore*PIT*@*STL*W*6*5*None*54-51*4* 14.5*Lanning*McGee*None*None*D*2,500*+*None
+Friday, Aug 16*boxscore*PIT*@*STL*L*5*9*None*54-52*4* 14.5*Warneke*Butcher*None*2:05*D*4,218*-*1940-08-15 (Schedule change)
+Saturday, Aug 17*boxscore*PIT*@*CHC*L*5*6*13*54-53*4* 15.0*Passeau*MacFayden*None*3:18*D*6,003*--*None
+Sunday, Aug 18*boxscore*PIT*@*CHC*L*1*9*None*54-54*5* 14.5*French*Sewell*None*1:59*D*7,597*---*None
+Monday, Aug 19*boxscore*PIT*None*BSN*L*0*3*None*54-55*6* 14.5*Errickson*Bowman*None*2:00*D*1,803*----*None
+Tuesday, Aug 20*boxscore*PIT*None*BSN*W*6*3*None*55-55*6* 14.5*Lanahan*Salvo*None*2:13*D*1,050*+*None
+Wednesday, Aug 21*boxscore*PIT*None*BSN*W*3*2*None*56-55*5* 13.5*Heintzelman*Coffman*None*1:50*D*2,281*++*None
+Thursday, Aug 22*boxscore*PIT*None*NYG*L*4*5*12*56-56*5* 14.0*Dean*MacFayden*None*3:05*D*None*-*None
+Thursday, Aug 22*boxscore*PIT*None*NYG*W*4*0*None*57-56*5* 14.0*Sewell*Melton*None*1:40*D*12,523*+*1940-07-17 (Rain)
+Friday, Aug 23*boxscore*PIT*None*NYG*W*13*10*None*58-56*5* 13.0*Heintzelman*Hubbell*None*2:26*D*2,562*++*None
+Saturday, Aug 24*boxscore*PIT*None*NYG*L*6*7*None*58-57*5* 14.0*Hubbell*Heintzelman*None*2:22*D*7,630*-*None
+Sunday, Aug 25*boxscore*PIT*None*BRO*W*4*3*None*59-57*5* 15.0*Lanahan*Wyatt*None*1:52*D*22,257*+*None
+Sunday, Aug 25*boxscore*PIT*None*BRO*L*1*8*None*59-58*5* 15.0*Fitzsimmons*Klinger*None*2:28*D*22,257*-*1940-06-11 (Wet grounds)
+Wednesday, Aug 28*boxscore*PIT*None*PHI*W*5*0*None*60-58*5* 14.0*Sewell*Mulcahy*None*1:45*D*4,100*+*None
+Wednesday, Aug 28*boxscore*PIT*None*PHI*W*5*2*None*61-58*5* 14.0*Bowman*Higbe*None*1:54*D*4,100*++*1940-05-02 (Wet grounds)
+Thursday, Aug 29*boxscore*PIT*None*PHI*W*4*0*None*62-58*5* 14.0*Brown*Pearson*MacFayden*1:53*D*2,239*+++*None
+Sunday, Sep 1*boxscore*PIT*None*STL*W*10*0*None*63-58*4* 14.5*Heintzelman*Shoun*None*1:53*D*None*++++*None
+Sunday, Sep 1*boxscore*PIT*None*STL*T*5*5*11*63-58*4* 14.5*None*None*None*2:34*D*20,945*++++*1940-06-29 (Rain)
+Monday, Sep 2*boxscore*PIT*None*CHC*W*5*2*None*64-58*4* 14.5*Sewell*Root*None*1:53*D*None*+++++*None
+Monday, Sep 2*boxscore*PIT*None*CHC*L*1*7*None*64-59*4* 14.5*Olsen*Bowman*None*2:10*D*26,120*-*None
+Wednesday, Sep 4*boxscore*PIT*@*CIN*L-wo*2*3*12*64-60*4* 16.0*Beggs*Lanahan*None*2:48*D*30,543*--*None
+Thursday, Sep 5*boxscore*PIT*@*CIN*L*3*6*None*64-61*4* 17.0*Vander Meer*Lanning*None*2:12*D*7,661*---*None
+Saturday, Sep 7*boxscore*PIT*@*STL*W*14*9*None*65-61*4* 17.0*MacFayden*Doyle*Brown*2:38*D*2,065*+*None
+Sunday, Sep 8*boxscore*PIT*@*STL*W*16*14*None*66-61*3* 15.5*Lanahan*McGee*Heintzelman*3:17*D*None*++*None
+Sunday, Sep 8*boxscore*PIT*@*STL*W*5*4*5*67-61*3* 15.5*Klinger*Warneke*Butcher*1:19*D*10,718*+++*1940-09-06 (Schedule change)
+Tuesday, Sep 10*boxscore*PIT*@*PHI*W*11*3*None*68-61*3* 14.5*Bowman*Mulcahy*None*1:58*D*None*++++*None
+Tuesday, Sep 10*boxscore*PIT*@*PHI*W*11*1*None*69-61*3* 14.5*Sewell*Frye*None*2:00*D*1,000*+++++*1940-07-11 (Rain; Site change)
+Wednesday, Sep 11*boxscore*PIT*@*PHI*W*9*3*None*70-61*3* 15.0*Brown*Pearson*None*1:55*D*2,500*++++++*None
+Thursday, Sep 12*boxscore*PIT*@*BRO*L*0*7*None*70-62*3* 16.5*Casey*Heintzelman*None*1:40*D*None*-*None
+Thursday, Sep 12*boxscore*PIT*@*BRO*L*4*7*None*70-63*3* 16.5*Casey*Lanahan*None*2:15*D*10,570*--*1940-08-26 (Rain; Site change)
+Friday, Sep 13*boxscore*PIT*@*BRO*L*2*8*None*70-64*3* 17.5*Head*Klinger*None*1:57*D*2,769*---*None
+Saturday, Sep 14*boxscore*PIT*@*BRO*L*0*5*None*70-65*4* 19.0*Fitzsimmons*Lanahan*None*1:57*D*None*----*None
+Saturday, Sep 14*boxscore*PIT*@*BRO*L*2*4*None*70-66*4* 19.0*Carleton*Lanning*None*2:03*D*16,278*-----*1940-08-27 (Rain; Site change)
+Sunday, Sep 15*boxscore*PIT*@*NYG*W*10*3*None*71-66*4* 18.5*Sewell*Melton*None*2:25*D*None*+*None
+Sunday, Sep 15*boxscore*PIT*@*NYG*W*4*3*None*72-66*4* 18.5*Bowman*Gumbert*None*2:06*D*9,240*++*1940-05-16 (Rain)
+Monday, Sep 16*boxscore*PIT*@*NYG*W*7*6*None*73-66*4* 18.5*Butcher*Lohrman*Klinger*2:09*D*1,262*+++*None
+Tuesday, Sep 17*boxscore*PIT*@*BSN*L*5*10*None*73-67*4* 19.5*Errickson*Lanahan*Strincevich*2:20*D*1,077*-*1940-09-19 (Schedule change)
+Wednesday, Sep 18*boxscore*PIT*@*BSN*L*1*4*None*73-68*4* 20.5*Tobin*Bowman*None*1:54*D*2,013*--*None
+Thursday, Sep 19*boxscore*PIT*None*STL*L*1*2*None*73-69*4* 22.0*McGee*Sewell*None*2:05*D*None*---*None
+Thursday, Sep 19*boxscore*PIT*None*STL*L*2*8*None*73-70*4* 22.0*Hutchinson*Heintzelman*None*1:58*D*5,048*----*1940-08-31 (Rain)
+Saturday, Sep 21*boxscore*PIT*None*CIN*L*1*8*None*73-71*4* 22.0*Walters*Butcher*None*1:50*D*None*-----*None
+Saturday, Sep 21*boxscore*PIT*None*CIN*W*8*7*10*74-71*4* 22.0*MacFayden*Riddle*None*2:33*D*6,395*+*1940-04-20 (Rain)
+Sunday, Sep 22*boxscore*PIT*None*CIN*L*1*2*None*74-72*4* 22.0*Turner*Swigart*None*2:01*D*None*-*None
+Sunday, Sep 22*boxscore*PIT*None*CIN*W*8*1*None*75-72*4* 22.0*Lanning*Vander Meer*None*1:59*D*14,865*+*1940-04-21 (Rain)
+Monday, Sep 23*boxscore*PIT*None*CIN*W*12*9*None*76-72*4* 21.0*Heintzelman*Beggs*Brown*2:19*D*2,098*++*None
+Wednesday, Sep 25*boxscore*PIT*@*CHC*L*1*2*11*76-73*4* 22.0*Lee*Sewell*None*2:21*D*None*-*None
+Wednesday, Sep 25*boxscore*PIT*@*CHC*L*4*6*None*76-74*4* 22.0*Olsen*Brown*Raffensberger*2:10*D*7,828*--*1940-09-24 (Rain)
+Thursday, Sep 26*boxscore*PIT*@*CHC*W*7*6*None*77-74*4* 21.5*Lanning*Bryant*Sewell*2:17*D*1,789*+*None
+Friday, Sep 27*boxscore*PIT*@*CIN*W*4*3*10*78-74*4* 20.5*Sewell*Moore*None*2:14*D*3,173*++*None
+Saturday, Sep 28*boxscore*PIT*@*CIN*L*5*6*None*78-75*4* 21.5*Turner*Dietz*Moore*1:51*D*6,603*-*None
+Sunday, Sep 29*boxscore*PIT*@*CIN*L*3*11*None*78-76*4* 22.5*Walters*Rambert*Vander Meer*2:07*D*13,860*--*None

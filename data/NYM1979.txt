@@ -1,0 +1,163 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Saturday, Apr 7*boxscore*NYM*@*CHC*W*9*4*None*2-0*1* Tied*Zachry*Holtzman*Lockwood*3:07*D*9,805*++*None
+Tuesday, Apr 10*boxscore*NYM*None*MON*L*2*3*14*2-1*3* 1.0*Palmer*Murray*Bahnsen*3:31*D*10,406*-*None
+Wednesday, Apr 11*boxscore*NYM*None*MON*L*2*3*11*2-2*3* 1.5*Sosa*Lockwood*Bahnsen*3:10*D*5,980*--*None
+Thursday, Apr 12*boxscore*NYM*None*PHI*W*3*2*None*3-2*3* 1.0*Zachry*Lerch*None*2:08*D*8,719*+*None
+Sunday, Apr 15*boxscore*NYM*None*PHI*L*2*3*None*3-3*4* 2.0*Ruthven*Swan*McGraw*2:35*D*None*-*None
+Sunday, Apr 15*boxscore*NYM*None*PHI*L*3*6*None*3-4*4* 2.0*Espinosa*Allen*Reed*2:33*D*18,401*--*None
+Tuesday, Apr 17*boxscore*NYM*@*MON*L-wo*4*5*12*3-5*4* 3.5*Fryman*Lockwood*None*3:16*D*7,912*---*None
+Wednesday, Apr 18*boxscore*NYM*@*MON*L-wo*5*6*None*3-6*4* 4.5*Palmer*Murray*None*2:56*D*10,059*----*None
+Friday, Apr 20*boxscore*NYM*@*PHI*L*0*8*None*3-7*5* 4.5*Ruthven*Swan*None*2:20*N*33,253*-----*None
+Saturday, Apr 21*boxscore*NYM*@*PHI*L*0*3*None*3-8*5* 5.0*Espinosa*Allen*McGraw*2:14*N*31,851*------*None
+Sunday, Apr 22*boxscore*NYM*@*PHI*W*4*2*None*4-8*5* 4.0*Orosco*Carlton*Lockwood*2:36*D*35,020*+*None
+Tuesday, Apr 24*boxscore*NYM*None*SFG*&H*10*3*None*5-8*5* 4.5*Scott*Blue*None*2:39*N*10,170*++*None
+Wednesday, Apr 25*boxscore*NYM*None*SFG*W*2*0*None*6-8*5* 4.5*Swan*Griffin*None*2:00*N*5,665*+++*None
+Saturday, Apr 28*boxscore*NYM*None*LAD*L*1*3*None*6-9*5* 5.0*Hooton*Falcone*None*2:10*D*11,426*-*None
+Sunday, Apr 29*boxscore*NYM*None*LAD*L*3*8*None*6-10*5* 5.5*Sutton*Allen*None*2:44*D*None*--*None
+Sunday, Apr 29*boxscore*NYM*None*LAD*W*6*3*None*7-10*5* 5.5*Murray*Sutcliffe*Lockwood*2:32*D*19,982*+*1979-04-27 (Rain)
+Monday, Apr 30*boxscore*NYM*None*SDP*&V*4*3*None*8-10*5* 5.5*Swan*Shirley*Lockwood*2:47*N*6,154*++*None
+Tuesday, May 1*boxscore*NYM*None*SDP*L*5*10*None*8-11*5* 6.5*Perry*Murray*Fingers*3:09*N*5,614*-*None
+Thursday, May 3*boxscore*NYM*@*SFG*L*5*7*None*8-12*5* 6.5*Halicki*Falcone*Lavelle*2:28*D*5,123*--*None
+Friday, May 4*boxscore*NYM*@*SFG*L*3*4*None*8-13*5* 7.5*Blue*Lockwood*None*2:19*N*19,275*---*None
+Saturday, May 5*boxscore*NYM*@*SFG*L*4*6*None*8-14*6* 7.5*Lavelle*Orosco*None*2:38*D*6,960*----*None
+Sunday, May 6*boxscore*NYM*@*SFG*W*5*4*None*9-14*5* 7.5*Murray*Moffitt*Lockwood*2:37*D*19,818*+*None
+Monday, May 7*boxscore*NYM*@*LAD*L*2*5*None*9-15*6* 8.5*Hooton*Falcone*Welch*2:34*N*27,230*-*None
+Tuesday, May 8*boxscore*NYM*@*LAD*L*2*3*None*9-16*6* 9.5*Sutcliffe*Murray*Welch*2:09*N*27,092*--*None
+Wednesday, May 9*boxscore*NYM*@*LAD*L*2*7*None*9-17*6* 10.5*Sutton*Allen*None*2:37*N*23,313*---*None
+Thursday, May 10*boxscore*NYM*@*LAD*L*1*14*None*9-18*6* 11.5*Messersmith*Swan*None*2:35*N*26,399*----*None
+Friday, May 11*boxscore*NYM*@*SDP*W*4*0*None*10-18*6* 10.5*Kobel*Mura*None*2:22*N*43,142*+*None
+Saturday, May 12*boxscore*NYM*@*SDP*L*1*2*None*10-19*6* 10.5*Owchinko*Allen*None*2:23*N*18,409*-*None
+Sunday, May 13*boxscore*NYM*@*SDP*L-wo*4*5*10*10-20*6* 11.5*Shirley*Lockwood*None*2:53*D*12,245*--*None
+Tuesday, May 15*boxscore*NYM*@*PIT*W*3*0*None*11-20*6* 10.5*Swan*Robinson*Lockwood*2:39*N*6,097*+*None
+Wednesday, May 16*boxscore*NYM*@*PIT*L-wo*3*4*13*11-21*6* 11.5*Romo*Lockwood*None*3:19*N*7,621*-*None
+Thursday, May 17*boxscore*NYM*@*PIT*L*5*6*None*11-22*6* 12.5*Tekulve*Orosco*None*2:29*N*6,295*--*None
+Saturday, May 19*boxscore*NYM*None*STL*L*4*9*12*11-23*6* 12.0*Knowles*Bernard*None*3:15*D*6,782*---*None
+Sunday, May 20*boxscore*NYM*None*STL*W-wo*8*7*11*12-23*6* 11.0*Allen*Knowles*None*2:57*D*8,180*+*None
+Tuesday, May 22*boxscore*NYM*None*CHC*W*4*2*None*13-23*6* 11.5*Kobel*Lamp*Murray*2:14*N*6,550*++*None
+Thursday, May 24*boxscore*NYM*None*CHC*L*7*9*None*13-24*6* 11.0*Holtzman*Falcone*Sutter*2:57*N*None*-*None
+Thursday, May 24*boxscore*NYM*None*CHC*W*4*2*None*14-24*6* 11.0*Zachry*Krukow*Lockwood*2:29*N*4,320*+*1979-05-23 (Rain)
+Friday, May 25*boxscore*NYM*None*PIT*T*3*3*11*14-24*6* 10.5*None*None*None*2:51*N*6,611*+*None
+Saturday, May 26*boxscore*NYM*None*PIT*W*10*8*None*15-24*6* 10.0*Lockwood*Tekulve*None*3:26*D*20,272*++*None
+Sunday, May 27*boxscore*NYM*None*PIT*L*1*2*None*15-25*6* 10.5*Jackson*Murray*None*2:26*D*25,545*-*None
+Monday, May 28*boxscore*NYM*None*PIT*L*1*6*None*15-26*6* 11.0*Candelaria*Falcone*Jackson*2:28*D*10,619*--*None
+Tuesday, May 29*boxscore*NYM*@*STL*W*6*2*None*16-26*6* 11.0*Zachry*Vuckovich*Lockwood*2:25*N*14,149*+*None
+Wednesday, May 30*boxscore*NYM*@*STL*L*3*7*None*16-27*6* 12.0*Martinez*Swan*Knowles*2:33*N*11,111*-*None
+Thursday, May 31*boxscore*NYM*@*STL*L*6*9*None*16-28*6* 13.0*Sykes*Scott*Knowles*2:41*D*15,110*--*None
+Friday, Jun 1*boxscore*NYM*@*ATL*W*5*4*11*17-28*6* 12.0*Lockwood*Devine*Glynn*3:34*N*5,748*+*None
+Saturday, Jun 2*boxscore*NYM*@*ATL*L*6*7*None*17-29*6* 12.0*Niekro*Glynn*Garber*3:00*N*25,240*-*None
+Sunday, Jun 3*boxscore*NYM*@*ATL*W*9*4*None*18-29*6* 11.0*Zachry*Mahler*Lockwood*2:46*N*3,526*+*None
+Monday, Jun 4*boxscore*NYM*@*CIN*W*6*2*None*19-29*6* 11.0*Swan*Seaver*None*2:29*N*21,063*++*None
+Tuesday, Jun 5*boxscore*NYM*@*CIN*L*1*6*None*19-30*6* 11.0*Norman*Kobel*None*2:25*N*22,209*-*None
+Wednesday, Jun 6*boxscore*NYM*@*CIN*W*5*3*None*20-30*6* 11.0*Murray*Sarmiento*Glynn*2:42*D*28,970*+*None
+Friday, Jun 8*boxscore*NYM*None*HOU*L*0*5*None*20-31*6* 11.0*Niekro*Zachry*None*2:24*N*12,196*-*None
+Saturday, Jun 9*boxscore*NYM*None*HOU*W*4*0*None*21-31*6* 10.0*Swan*Andujar*None*1:57*D*10,499*+*None
+Sunday, Jun 10*boxscore*NYM*None*HOU*L*3*5*None*21-32*6* 10.0*Throop*Kobel*Sambito*3:08*D*15,879*-*None
+Monday, Jun 11*boxscore*NYM*None*CIN*W*3*2*None*22-32*6* 10.0*Twitchell*Norman*None*2:37*N*4,917*+*None
+Tuesday, Jun 12*boxscore*NYM*None*CIN*W*12*6*None*23-32*6* 9.5*Murray*Sarmiento*None*2:46*N*9,805*++*None
+Wednesday, Jun 13*boxscore*NYM*None*CIN*L*1*4*None*23-33*6* 10.5*LaCoss*Hausman*Hume*2:13*N*12,468*-*None
+Friday, Jun 15*boxscore*NYM*None*ATL*W*2*1*None*24-33*6* 10.0*Swan*McLaughlin*None*2:12*N*9,808*+*None
+Saturday, Jun 16*boxscore*NYM*None*ATL*W*2*0*None*25-33*6* 10.0*Kobel*Mahler*None*1:57*N*28,313*++*None
+Sunday, Jun 17*boxscore*NYM*None*ATL*W-wo*2*1*None*26-33*6* 10.0*Reardon*Garber*None*2:18*D*12,133*+++*None
+Monday, Jun 18*boxscore*NYM*@*HOU*L-wo*2*3*18*26-34*6* 10.0*Roberge*Hausman*None*5:00*N*14,076*-*None
+Tuesday, Jun 19*boxscore*NYM*@*HOU*L*1*3*None*26-35*6* 11.0*Andujar*Hassler*None*2:28*N*14,036*--*None
+Wednesday, Jun 20*boxscore*NYM*@*HOU*L*4*5*None*26-36*6* 12.0*Sambito*Swan*None*2:36*N*15,946*---*None
+Friday, Jun 22*boxscore*NYM*@*STL*L*2*4*None*26-37*6* 13.0*Martinez*Kobel*None*2:12*N*18,852*----*None
+Sunday, Jun 24*boxscore*NYM*@*STL*W*6*2*None*27-37*6* 12.5*Hassler*Forsch*Murray*2:33*D*48,693*+*None
+Monday, Jun 25*boxscore*NYM*None*PIT*L*1*8*None*27-38*6* 13.0*Candelaria*Swan*None*2:32*N*None*-*None
+Monday, Jun 25*boxscore*NYM*None*PIT*W*4*0*None*28-38*6* 13.0*Falcone*Rooker*None*2:25*N*14,666*+*None
+Tuesday, Jun 26*boxscore*NYM*None*PIT*L*1*2*None*28-39*6* 14.0*Blyleven*Hausman*Jackson*2:22*N*11,903*-*None
+Wednesday, Jun 27*boxscore*NYM*@*PIT*W*12*9*None*29-39*6* 13.0*Twitchell*Jackson*None*3:24*N*13,168*+*None
+Thursday, Jun 28*boxscore*NYM*@*PIT*W*3*2*None*30-39*6* 12.5*Allen*Bibby*Glynn*3:24*N*10,137*++*None
+Saturday, Jun 30*boxscore*NYM*@*CHC*W*9*8*11*31-39*6* 12.0*Twitchell*Tidrow*Glynn*3:31*D*28,394*+++*None
+Sunday, Jul 1*boxscore*NYM*@*CHC*L-wo*4*5*None*31-40*6* 13.0*Tidrow*Twitchell*None*2:48*D*None*-*None
+Sunday, Jul 1*boxscore*NYM*@*CHC*L*2*8*None*31-41*6* 13.0*McGlothen*Falcone*None*2:10*D*36,609*--*1979-04-08 (Inclement weather)
+Monday, Jul 2*boxscore*NYM*@*PHI*L*2*6*None*31-42*6* 14.0*Espinosa*Ellis*None*2:10*N*29,142*---*None
+Tuesday, Jul 3*boxscore*NYM*@*PHI*L*2*4*None*31-43*6* 14.0*Brusstar*Twitchell*McGraw*2:31*N*56,285*----*None
+Wednesday, Jul 4*boxscore*NYM*@*PHI*L*0*1*None*31-44*6* 15.0*Carlton*Hassler*None*1:51*N*40,215*-----*None
+Thursday, Jul 5*boxscore*NYM*@*PHI*W*3*2*None*32-44*6* 14.0*Swan*Noles*None*2:10*N*28,720*+*None
+Friday, Jul 6*boxscore*NYM*None*SDP*L*5*6*12*32-45*6* 15.0*Lee*Hausman*None*2:49*N*10,021*-*None
+Saturday, Jul 7*boxscore*NYM*None*SDP*L*3*11*None*32-46*6* 16.0*D'Acquisto*Ellis*Rasmussen*2:53*D*14,048*--*None
+Sunday, Jul 8*boxscore*NYM*None*SDP*L*3*5*None*32-47*6* 15.5*Perry*Kobel*None*2:31*D*None*---*None
+Sunday, Jul 8*boxscore*NYM*None*SDP*W*4*1*None*33-47*6* 15.5*Hassler*Shirley*Hausman*2:24*D*17,320*+*None
+Tuesday, Jul 10*boxscore*NYM*None*LAD*L*4*7*None*33-48*6* 16.0*Hough*Swan*Patterson*2:54*N*12,218*-*None
+Wednesday, Jul 11*boxscore*NYM*None*LAD*W-wo*4*3*10*34-48*6* 15.0*Allen*Lewallyn*None*2:44*D*11,401*+*None
+Thursday, Jul 12*boxscore*NYM*None*LAD*W*12*5*None*35-48*6* 14.0*Ellis*Hooton*None*2:39*N*13,218*++*None
+Friday, Jul 13*boxscore*NYM*None*SFG*W*7*6*None*36-48*6* 13.0*Kobel*Knepper*Murray*2:46*N*None*+++*None
+Friday, Jul 13*boxscore*NYM*None*SFG*W*5*2*None*37-48*6* 13.0*Hassler*Halicki*Murray*2:12*N*16,110*++++*1979-04-26 (Rain)
+Saturday, Jul 14*boxscore*NYM*None*SFG*W*3*2*None*38-48*6* 12.0*Hausman*Blue*None*2:05*D*28,254*+++++*None
+Sunday, Jul 15*boxscore*NYM*None*SFG*L*0*4*None*38-49*6* 13.0*Whitson*Swan*Borbon*2:40*D*14,319*-*None
+Thursday, Jul 19*boxscore*NYM*@*SDP*L*1*3*None*38-50*6* 13.0*Jones*Kobel*None*2:20*N*20,382*--*None
+Friday, Jul 20*boxscore*NYM*@*SDP*L-wo*1*2*None*38-51*6* 13.0*Perry*Swan*None*2:08*N*16,381*---*None
+Saturday, Jul 21*boxscore*NYM*@*SDP*W*2*1*None*39-51*6* 13.0*Allen*Shirley*Hassler*2:37*N*25,327*+*None
+Sunday, Jul 22*boxscore*NYM*@*LAD*L-wo*3*4*None*39-52*6* 13.5*LaGrow*Glynn*None*2:47*D*34,198*-*None
+Monday, Jul 23*boxscore*NYM*@*LAD*L*1*3*None*39-53*6* 14.5*Reuss*Falcone*None*2:23*N*25,351*--*None
+Tuesday, Jul 24*boxscore*NYM*@*SFG*W*6*5*12*40-53*6* 13.5*Twitchell*Borbon*Hausman*3:55*N*24,821*+*None
+Wednesday, Jul 25*boxscore*NYM*@*SFG*W*3*0*None*41-53*6* 13.5*Swan*Knepper*None*2:10*D*11,497*++*None
+Thursday, Jul 26*boxscore*NYM*None*CHC*L*2*9*None*41-54*6* 14.0*Krukow*Hausman*None*2:51*N*4,315*-*1979-09-17 (Schedule change)
+Friday, Jul 27*boxscore*NYM*None*CHC*L*2*4*None*41-55*6* 13.5*Tidrow*Ellis*Sutter*2:25*N*13,144*--*None
+Saturday, Jul 28*boxscore*NYM*None*CHC*W*6*4*None*42-55*6* 13.0*Falcone*Holtzman*Allen*2:43*D*11,359*+*None
+Sunday, Jul 29*boxscore*NYM*None*CHC*W*4*0*7*43-55*6* 12.5*Kobel*Lamp*Glynn*2:03*D*27,605*++*None
+Monday, Jul 30*boxscore*NYM*@*PIT*L*5*8*None*43-56*6* 13.0*Jackson*Bernard*Tekulve*2:44*N*11,837*-*None
+Tuesday, Jul 31*boxscore*NYM*@*PIT*W*2*1*None*44-56*6* 13.0*Twitchell*Blyleven*Glynn*2:48*N*10,739*+*None
+Wednesday, Aug 1*boxscore*NYM*None*PHI*L*6*9*None*44-57*6* 14.0*Noles*Ellis*Eastwick*2:33*D*12,295*-*None
+Thursday, Aug 2*boxscore*NYM*None*PHI*L*4*7*None*44-58*6* 14.5*Reed*Hassler*None*2:20*N*None*--*None
+Thursday, Aug 2*boxscore*NYM*None*PHI*W*2*1*None*45-58*6* 14.5*Falcone*Saucier*Allen*2:37*N*15,319*+*1979-04-14 (Rain)
+Friday, Aug 3*boxscore*NYM*@*MON*L*6*10*None*45-59*6* 15.5*Bahnsen*Murray*None*2:50*N*28,734*-*None
+Saturday, Aug 4*boxscore*NYM*@*MON*W*3*2*None*46-59*6* 14.5*Swan*Lee*Allen*2:22*D*32,108*+*None
+Sunday, Aug 5*boxscore*NYM*@*MON*W*4*2*None*47-59*6* 15.0*Ellis*Grimsley*Glynn*2:39*D*None*++*None
+Sunday, Aug 5*boxscore*NYM*@*MON*L*3*7*None*47-60*6* 15.0*May*Twitchell*None*2:58*D*46,613*-*None
+Tuesday, Aug 7*boxscore*NYM*None*STL*L*2*9*None*47-61*6* 15.5*Fulgham*Kobel*None*2:12*N*None*--*None
+Tuesday, Aug 7*boxscore*NYM*None*STL*L*1*2*None*47-62*6* 15.5*Thomas*Falcone*McEnaney*2:17*N*10,651*---*1979-05-18 (Rain)
+Wednesday, Aug 8*boxscore*NYM*None*STL*L*4*8*None*47-63*6* 16.5*Vuckovich*Hassler*None*2:15*D*10,024*----*None
+Thursday, Aug 9*boxscore*NYM*None*STL*L*0*4*None*47-64*6* 16.5*Denny*Ellis*None*2:08*N*8,327*-----*None
+Friday, Aug 10*boxscore*NYM*None*MON*W*7*1*None*48-64*6* 16.5*Swan*Grimsley*None*2:07*N*None*+*None
+Friday, Aug 10*boxscore*NYM*None*MON*L*5*6*None*48-65*6* 16.5*Palmer*Bernard*Sosa*2:56*N*9,161*-*1979-04-09 (Rain)
+Saturday, Aug 11*boxscore*NYM*None*MON*L*2*5*None*48-66*6* 17.5*Schatzeder*Falcone*None*2:21*D*9,764*--*None
+Tuesday, Aug 14*boxscore*NYM*@*ATL*W*18*5*None*49-66*6* 18.0*Hassler*Brizzolara*None*3:10*N*5,770*+*None
+Wednesday, Aug 15*boxscore*NYM*@*ATL*W*6*3*None*50-66*6* 18.0*Swan*Mahler*Allen*2:46*N*5,120*++*None
+Thursday, Aug 16*boxscore*NYM*@*ATL*W*6*3*None*51-66*6* 18.0*Falcone*Niekro*Allen*2:37*N*7,397*+++*None
+Friday, Aug 17*boxscore*NYM*@*CIN*L*3*4*None*51-67*6* 18.0*Hume*Murray*None*2:15*N*32,854*-*None
+Saturday, Aug 18*boxscore*NYM*@*CIN*L-wo*3*4*None*51-68*6* 18.0*LaCoss*Allen*None*2:22*N*37,694*--*None
+Sunday, Aug 19*boxscore*NYM*@*CIN*L*5*6*None*51-69*6* 19.0*Bair*Murray*Hume*2:29*D*34,765*---*None
+Monday, Aug 20*boxscore*NYM*None*HOU*L*1*8*None*51-70*6* 20.0*Niekro*Swan*None*2:55*N*10,922*----*None
+Tuesday, Aug 21*boxscore*NYM*None*HOU*&X*5*0*None*52-70*6* 19.0*Falcone*LaCorte*None*2:12*N*9,337*+*None
+Wednesday, Aug 22*boxscore*NYM*None*HOU*L*1*3*None*52-71*6* 20.0*Richard*Kobel*None*2:13*D*10,477*-*None
+Friday, Aug 24*boxscore*NYM*None*CIN*L*0*1*None*52-72*6* 20.0*Bonham*Allen*Hume*2:11*N*12,057*--*None
+Saturday, Aug 25*boxscore*NYM*None*CIN*L*4*8*None*52-73*6* 21.0*Bair*Reardon*None*2:43*D*16,635*---*None
+Sunday, Aug 26*boxscore*NYM*None*CIN*L*0*8*None*52-74*6* 22.0*Seaver*Falcone*None*2:27*D*20,619*----*None
+Monday, Aug 27*boxscore*NYM*None*ATL*L*1*5*None*52-75*6* 22.0*Solomon*Kobel*None*2:25*N*5,474*-----*None
+Tuesday, Aug 28*boxscore*NYM*None*ATL*L*4*6*None*52-76*6* 23.0*Niekro*Ellis*McLaughlin*2:29*N*6,586*------*None
+Wednesday, Aug 29*boxscore*NYM*None*ATL*L*4*5*None*52-77*6* 24.0*Matula*Burris*McLaughlin*2:22*D*6,602*-------*None
+Friday, Aug 31*boxscore*NYM*@*HOU*L*0*2*None*52-78*6* 25.0*Forsch*Swan*Sambito*1:54*N*19,883*--------*None
+Saturday, Sep 1*boxscore*NYM*@*HOU*L*1*3*None*52-79*6* 26.5*Richard*Falcone*None*2:10*N*23,573*---------*None
+Sunday, Sep 2*boxscore*NYM*@*HOU*W*5*4*None*53-79*6* 26.5*Kobel*Niemann*Allen*2:43*D*14,215*+*None
+Monday, Sep 3*boxscore*NYM*@*MON*L*2*7*None*53-80*6* 27.5*Lee*Burris*Bahnsen*2:23*D*None*-*None
+Monday, Sep 3*boxscore*NYM*@*MON*L-wo*5*6*10*53-81*6* 27.5*Atkinson*Allen*None*3:20*D*48,366*--*None
+Tuesday, Sep 4*boxscore*NYM*@*MON*L*1*5*None*53-82*6* 28.0*May*Ellis*Atkinson*2:26*D*14,064*---*None
+Thursday, Sep 6*boxscore*NYM*@*PHI*W*5*3*None*54-82*6* 28.0*Glynn*Espinosa*Hassler*2:35*N*None*+*None
+Thursday, Sep 6*boxscore*NYM*@*PHI*L*1*2*None*54-83*6* 28.0*Lerch*Falcone*Eastwick*2:13*N*21,091*-*1979-09-05 (Rain)
+Friday, Sep 7*boxscore*NYM*None*PIT*L*4*6*14*54-84*6* 29.0*Jackson*Allen*None*3:45*N*8,290*--*None
+Saturday, Sep 8*boxscore*NYM*None*PIT*W-wo*3*2*15*55-84*6* 28.0*Ellis*Rooker*None*4:18*D*8,095*+*None
+Sunday, Sep 9*boxscore*NYM*None*PIT*L*5*6*None*55-85*6* 29.0*Tekulve*Glynn*None*3:07*D*9,093*-*None
+Tuesday, Sep 11*boxscore*NYM*None*PHI*L*2*5*None*55-86*6* 30.0*Espinosa*Falcone*Eastwick*2:08*N*4,713*--*None
+Wednesday, Sep 12*boxscore*NYM*None*PHI*L*0*4*None*55-87*6* 31.0*Lerch*Swan*None*2:12*N*4,158*---*None
+Thursday, Sep 13*boxscore*NYM*None*PHI*L*1*2*None*55-88*6* 31.5*Carlton*Berenguer*McGraw*2:34*N*3,890*----*None
+Saturday, Sep 15*boxscore*NYM*@*PIT*L*4*5*None*55-89*6* 32.5*Roberts*Glynn*Tekulve*2:50*D*18,060*-----*None
+Sunday, Sep 16*boxscore*NYM*@*PIT*W*3*0*None*56-89*6* 31.5*Falcone*Candelaria*Allen*2:19*D*25,364*+*None
+Tuesday, Sep 18*boxscore*NYM*None*CHC*L*0*2*None*56-90*6* 33.5*Reuschel*Pacella*Sutter*2:04*N*None*-*None
+Tuesday, Sep 18*boxscore*NYM*None*CHC*L*1*2*11*56-91*6* 33.5*Tidrow*Allen*Sutter*3:08*N*4,233*--*1979-07-29 (Rain)
+Wednesday, Sep 19*boxscore*NYM*None*MON*L*1*3*None*56-92*6* 34.5*Grimsley*Swan*Fryman*2:20*N*None*---*1979-08-12 (Rain)
+Wednesday, Sep 19*boxscore*NYM*None*MON*L*1*4*None*56-93*6* 34.5*May*Hausman*None*2:12*N*4,973*----*None
+Thursday, Sep 20*boxscore*NYM*None*MON*L*3*6*None*56-94*6* 35.5*Murray*Reardon*None*2:45*N*None*-----*None
+Thursday, Sep 20*boxscore*NYM*None*MON*L*0*2*None*56-95*6* 35.5*Sanderson*Scott*None*2:22*N*4,229*------*1979-08-12 (Rain)
+Saturday, Sep 22*boxscore*NYM*None*STL*L*3*6*None*56-96*6* 36.5*Denny*Pacella*Thomas*2:16*D*None*-------*None
+Saturday, Sep 22*boxscore*NYM*None*STL*L*2*3*None*56-97*6* 36.5*Forsch*Falcone*None*2:22*N*8,492*--------*1979-09-21 (Rain)
+Sunday, Sep 23*boxscore*NYM*None*STL*L*4*7*10*56-98*6* 37.5*Littell*Hassler*None*3:01*D*27,033*---------*None
+Monday, Sep 24*boxscore*NYM*@*CHC*W*3*1*None*57-98*6* 37.0*Swan*Lamp*None*2:04*D*3,278*+*None
+Tuesday, Sep 25*boxscore*NYM*@*CHC*L*3*11*None*57-99*6* 37.0*McGlothen*Scott*None*2:26*D*None*-*None
+Tuesday, Sep 25*boxscore*NYM*@*CHC*W*4*3*10*58-99*6* 37.0*Allen*Tidrow*Hassler*2:53*D*5,559*+*1979-06-29 (Rain)
+Wednesday, Sep 26*boxscore*NYM*@*CHC*W*8*3*None*59-99*6* 37.0*Hausman*Moore*None*2:46*D*5,827*++*None
+Friday, Sep 28*boxscore*NYM*@*STL*W*6*2*None*60-99*6* 36.0*Berenguer*Bruno*Reardon*2:24*N*None*+++*None
+Friday, Sep 28*boxscore*NYM*@*STL*W*7*6*11*61-99*6* 36.0*Allen*Frazier*Hassler*3:36*N*9,245*++++*1979-06-23 (Rain)
+Saturday, Sep 29*boxscore*NYM*@*STL*W*8*7*None*62-99*6* 35.0*Swan*Sykes*Allen*2:14*D*9,001*+++++*None
+Sunday, Sep 30*boxscore*NYM*@*STL*W*4*2*None*63-99*6* 35.0*Jackson*Littell*Reardon*2:32*D*13,618*++++++*None

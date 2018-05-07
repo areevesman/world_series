@@ -1,0 +1,162 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Saturday, Apr 2*boxscore*DET*@*NYY*L*6*10*None*0-2*3* 2.0*Burnett*Penny*Rivera*3:30*D*41,462*--*None
+Sunday, Apr 3*boxscore*DET*@*NYY*W*10*7*None*1-2*3* 1.5*Scherzer*Hughes*Valverde*3:20*D*40,574*+*None
+Monday, Apr 4*boxscore*DET*@*BAL*L*1*5*None*1-3*4* 2.0*Arrieta*Porcello*None*2:37*D*46,593*-*None
+Wednesday, Apr 6*boxscore*DET*@*BAL*W*7*3*None*2-3*4* 1.5*Verlander*Bergesen*None*2:51*N*12,451*+*None
+Thursday, Apr 7*boxscore*DET*@*BAL*L*5*9*None*2-4*4* 2.0*Johnson*Thomas*None*3:25*N*11,648*-*None
+Friday, Apr 8*boxscore*DET*None*KCR*W*5*2*None*3-4*4* 2.0*Scherzer*Davies*Valverde*3:00*D*44,799*+*None
+Saturday, Apr 9*boxscore*DET*None*KCR*L*1*3*None*3-5*4* 3.0*Chen*Coke*Soria*2:29*D*33,810*-*None
+Sunday, Apr 10*boxscore*DET*None*KCR*L*5*9*None*3-6*4* 4.0*Hochevar*Porcello*Soria*3:02*D*28,984*--*None
+Monday, Apr 11*boxscore*DET*None*TEX*L*0*2*None*3-7*5* 5.0*Ogando*Verlander*Feliz*2:19*D*18,724*---*None
+Tuesday, Apr 12*boxscore*DET*None*TEX*W-wo*5*4*None*4-7*5* 4.0*Valverde*O'Day*None*3:20*D*20,609*+*None
+Wednesday, Apr 13*boxscore*DET*None*TEX*W-wo*3*2*None*5-7*4* 3.0*Valverde*Oliver*None*3:12*D*20,526*++*None
+Thursday, Apr 14*boxscore*DET*@*OAK*W*3*0*None*6-7*4* 2.5*Coke*Ross*Valverde*2:48*N*11,129*+++*None
+Friday, Apr 15*boxscore*DET*@*OAK*W*8*4*10*7-7*4* 2.5*Villarreal*Fuentes*None*3:28*N*21,853*++++*None
+Saturday, Apr 16*boxscore*DET*@*OAK*L*2*6*None*7-8*4* 3.5*Braden*Verlander*None*3:02*N*16,265*-*None
+Sunday, Apr 17*boxscore*DET*@*OAK*L*1*5*None*7-9*4* 4.5*Cahill*Penny*None*2:39*D*16,460*--*None
+Monday, Apr 18*boxscore*DET*@*SEA*W*8*3*None*8-9*3* 4.5*Scherzer*Lueke*None*3:34*N*12,774*+*None
+Tuesday, Apr 19*boxscore*DET*@*SEA*L*3*13*None*8-10*3* 4.5*Fister*Coke*None*3:23*N*12,411*-*None
+Wednesday, Apr 20*boxscore*DET*@*SEA*W*3*2*None*9-10*3* 4.5*Porcello*Bedard*Valverde*2:32*D*13,339*+*None
+Friday, Apr 22*boxscore*DET*None*CHW*W*9*3*None*10-10*3* 3.5*Verlander*Buehrle*None*2:30*N*23,537*++*None
+Saturday, Apr 23*boxscore*DET*None*CHW*W*9*0*None*11-10*3* 2.5*Penny*Jackson*None*3:01*D*35,227*+++*None
+Sunday, Apr 24*boxscore*DET*None*CHW*W*3*0*None*12-10*2* 1.5*Scherzer*Danks*Valverde*2:19*D*17,784*++++*None
+Tuesday, Apr 26*boxscore*DET*None*SEA*L*3*7*None*12-11*2* 2.5*Hernandez*Coke*None*2:42*N*18,027*-*None
+Wednesday, Apr 27*boxscore*DET*None*SEA*L*1*10*None*12-12*2* 3.5*Bedard*Verlander*None*3:01*N*18,153*--*None
+Thursday, Apr 28*boxscore*DET*None*SEA*L*2*7*None*12-13*2* 4.5*Pineda*Penny*None*3:09*D*21,176*---*None
+Friday, Apr 29*boxscore*DET*@*CLE*L-wo*5*9*None*12-14*3* 5.5*Perez*Benoit*None*3:11*N*15,568*----*None
+Saturday, Apr 30*boxscore*DET*@*CLE*L-wo*2*3*13*12-15*3* 6.5*Sipp*Villarreal*None*3:57*N*26,433*-----*None
+Sunday, May 1*boxscore*DET*@*CLE*L*4*5*None*12-16*3* 7.5*Durbin*Benoit*Perez*3:04*D*14,164*------*None
+Monday, May 2*boxscore*DET*None*NYY*L*3*5*None*12-17*3* 8.0*Chamberlain*Valverde*Rivera*3:13*N*22,852*-------*None
+Tuesday, May 3*boxscore*DET*None*NYY*W*4*2*None*13-17*3* 8.0*Penny*Sabathia*Valverde*2:54*N*23,551*+*None
+Wednesday, May 4*boxscore*DET*None*NYY*W*4*0*None*14-17*3* 7.0*Scherzer*Garcia*None*2:41*N*22,569*++*None
+Thursday, May 5*boxscore*DET*None*NYY*W*6*3*None*15-17*3* 7.0*Porcello*Burnett*None*2:58*D*30,572*+++*None
+Friday, May 6*boxscore*DET*@*TOR*L*4*7*None*15-18*3* 7.0*Litsch*Coke*Francisco*2:52*N*19,711*-*None
+Saturday, May 7*boxscore*DET*@*TOR*W*9*0*None*16-18*3* 7.0*Verlander*Romero*None*2:35*D*23,453*+*None
+Sunday, May 8*boxscore*DET*@*TOR*W*5*2*None*17-18*3* 6.0*Penny*Reyes*Valverde*2:35*D*17,392*++*None
+Monday, May 9*boxscore*DET*@*TOR*W*10*5*None*18-18*3* 5.5*Scherzer*Morrow*None*3:26*N*11,785*+++*None
+Tuesday, May 10*boxscore*DET*@*MIN*W*10*2*None*19-18*2* 5.5*Porcello*Liriano*None*3:14*N*38,949*++++*None
+Wednesday, May 11*boxscore*DET*@*MIN*W*9*7*None*20-18*2* 4.5*Benoit*Capps*Valverde*3:52*D*38,938*+++++*None
+Friday, May 13*boxscore*DET*None*KCR*W*3*1*None*21-18*2* 4.0*Verlander*Hochevar*Valverde*2:23*N*33,641*++++++*None
+Saturday, May 14*boxscore*DET*None*KCR*W*3*0*None*22-18*2* 3.5*Penny*Francis*Valverde*2:22*D*37,647*+++++++*None
+Monday, May 16*boxscore*DET*None*TOR*L*2*4*None*22-19*2* 4.5*Drabek*Benoit*Francisco*2:53*N*20,444*-*None
+Wednesday, May 18*boxscore*DET*@*BOS*L*0*1*None*22-20*2* 5.0*Bard*Schlereth*Papelbon*3:02*N*37,311*--*None
+Thursday, May 19*boxscore*DET*@*BOS*L-wo*3*4*None*22-21*2* 5.0*Papelbon*Alburquerque*None*3:08*N*37,660*---*None
+Friday, May 20*boxscore*DET*@*PIT*L*1*10*None*22-22*2* 6.0*Karstens*Penny*None*2:59*N*24,396*----*None
+Saturday, May 21*boxscore*DET*@*PIT*L*2*6*None*22-23*2* 7.0*Correia*Scherzer*Hanrahan*3:08*N*37,958*-----*None
+Sunday, May 22*boxscore*DET*@*PIT*W*2*0*None*23-23*2* 7.0*Porcello*Maholm*Valverde*2:37*D*25,124*+*None
+Monday, May 23*boxscore*DET*None*TBR*W*6*3*None*24-23*2* 7.0*Furbush*Hellickson*None*3:21*N*21,550*++*None
+Tuesday, May 24*boxscore*DET*None*TBR*W*7*6*None*25-23*2* 6.0*Alburquerque*Ramos*Benoit*3:13*N*24,133*+++*None
+Thursday, May 26*boxscore*DET*None*BOS*L*1*14*8*25-24*2* 6.0*Aceves*Scherzer*None*2:58*D*24,213*-*None
+Friday, May 27*boxscore*DET*None*BOS*L*3*6*None*25-25*2* 6.0*Wakefield*Porcello*None*2:41*N*34,046*--*None
+Sunday, May 29*boxscore*DET*None*BOS*L*3*4*None*25-26*2* 6.0*Albers*Valverde*Papelbon*3:16*D*36,285*---*None
+Sunday, May 29*boxscore*DET*None*BOS*W*3*0*None*26-26*2* 6.0*Verlander*Beckett*Valverde*2:51*N*39,873*+*2011-05-28 (Rain)
+Monday, May 30*boxscore*DET*None*MIN*W*6*5*None*27-26*2* 5.0*Alburquerque*Burnett*Valverde*3:09*D*30,198*++*None
+Tuesday, May 31*boxscore*DET*None*MIN*W*8*7*None*28-26*2* 5.0*Alburquerque*Dumatrait*Benoit*3:16*N*22,649*+++*None
+Wednesday, Jun 1*boxscore*DET*None*MIN*W*4*2*None*29-26*2* 5.0*Porcello*Baker*Valverde*2:46*N*24,363*++++*None
+Friday, Jun 3*boxscore*DET*@*CHW*L*4*6*None*29-27*2* 4.5*Buehrle*Oliver*Santos*3:04*N*23,095*-*None
+Saturday, Jun 4*boxscore*DET*@*CHW*W*4*2*None*30-27*2* 3.5*Verlander*Crain*Valverde*3:17*N*31,037*+*None
+Sunday, Jun 5*boxscore*DET*@*CHW*W*7*3*None*31-27*2* 2.5*Penny*Peavy*None*3:25*D*25,149*++*None
+Monday, Jun 6*boxscore*DET*@*TEX*W*13*7*None*32-27*2* 1.5*Scherzer*Lewis*None*3:34*N*33,921*+++*None
+Tuesday, Jun 7*boxscore*DET*@*TEX*W*8*1*None*33-27*2* 1.5*Porcello*Harrison*None*3:13*N*35,165*++++*None
+Wednesday, Jun 8*boxscore*DET*@*TEX*L*3*7*None*33-28*2* 1.5*Ogando*Coke*None*2:54*N*40,388*-*None
+Thursday, Jun 9*boxscore*DET*None*SEA*W*4*1*None*34-28*2* 1.0*Verlander*Fister*Valverde*2:17*N*22,090*+*None
+Friday, Jun 10*boxscore*DET*None*SEA*L*2*3*None*34-29*2* 1.0*Ray*Penny*League*2:53*N*30,511*-*None
+Saturday, Jun 11*boxscore*DET*None*SEA*W*8*1*None*35-29*1* Tied*Scherzer*Pineda*None*2:23*N*38,398*+*None
+Sunday, Jun 12*boxscore*DET*None*SEA*L*3*7*None*35-30*1* Tied*Hernandez*Porcello*None*2:53*D*31,572*-*None
+Monday, Jun 13*boxscore*DET*None*TBR*W-wo*2*1*10*36-30*1* Tied*Purcey*Farnsworth*None*3:37*N*30,938*+*2011-05-25 (Rain)
+Tuesday, Jun 14*boxscore*DET*None*CLE*W*4*0*None*37-30*1*up 1.0*Verlander*Masterson*None*2:24*N*28,128*++*None
+Wednesday, Jun 15*boxscore*DET*None*CLE*L*4*6*None*37-31*1* Tied*Hernandez*Furbush*Perez*3:34*N*26,711*-*None
+Thursday, Jun 16*boxscore*DET*None*CLE*W*6*2*None*38-31*1*up 1.0*Scherzer*Talbot*None*3:00*D*37,437*+*None
+Friday, Jun 17*boxscore*DET*@*COL*L*6*13*None*38-32*1* Tied*Hammel*Porcello*None*2:41*N*41,594*-*None
+Saturday, Jun 18*boxscore*DET*@*COL*L*4*5*None*38-33*2* 1.0*Jimenez*Coke*Street*3:09*N*48,555*--*None
+Sunday, Jun 19*boxscore*DET*@*COL*W*9*1*None*39-33*2* 1.0*Verlander*Cook*None*2:41*D*49,015*+*None
+Monday, Jun 20*boxscore*DET*@*LAD*L*0*4*None*39-34*2* 1.0*Kershaw*Penny*None*2:44*N*29,355*-*None
+Tuesday, Jun 21*boxscore*DET*@*LAD*L*1*6*None*39-35*2* 1.0*Billingsley*Scherzer*None*3:06*N*37,769*--*None
+Wednesday, Jun 22*boxscore*DET*@*LAD*W*7*5*None*40-35*2* 1.0*Alburquerque*Lilly*Valverde*3:41*D*30,332*+*None
+Friday, Jun 24*boxscore*DET*None*ARI*L*6*7*None*40-36*2* 1.0*Vasquez*Purcey*Putz*3:06*N*37,335*-*None
+Saturday, Jun 25*boxscore*DET*None*ARI*W*6*0*None*41-36*1* Tied*Verlander*Collmenter*None*2:35*N*43,163*+*None
+Sunday, Jun 26*boxscore*DET*None*ARI*W*8*3*None*42-36*1*up 1.0*Alburquerque*Heilman*None*3:06*D*41,036*++*None
+Monday, Jun 27*boxscore*DET*None*TOR*W*4*2*None*43-36*1*up 1.0*Benoit*Rzepczynski*Valverde*3:01*N*25,181*+++*2011-05-17 (Rain)
+Tuesday, Jun 28*boxscore*DET*None*NYM*L*3*14*None*43-37*1*up 1.0*Dickey*Porcello*None*3:03*N*28,480*-*None
+Wednesday, Jun 29*boxscore*DET*None*NYM*L*9*16*None*43-38*1* Tied*Capuano*Coke*None*3:49*N*26,338*--*None
+Thursday, Jun 30*boxscore*DET*None*NYM*W*5*2*None*44-38*1*up 0.5*Verlander*Pelfrey*Valverde*3:15*D*31,861*+*None
+Friday, Jul 1*boxscore*DET*None*SFG*L*3*4*None*44-39*2* 0.5*Wilson*Valverde*Affeldt*3:35*N*35,583*-*None
+Saturday, Jul 2*boxscore*DET*None*SFG*L*3*15*None*44-40*2* 1.5*Zito*Scherzer*Mota*2:55*N*38,983*--*None
+Sunday, Jul 3*boxscore*DET*None*SFG*W*6*3*None*45-40*2* 0.5*Porcello*Affeldt*Valverde*3:08*D*31,904*+*None
+Monday, Jul 4*boxscore*DET*@*LAA*L*1*5*None*45-41*2* 1.5*Pineiro*Furbush*None*2:41*N*43,012*-*None
+Tuesday, Jul 5*boxscore*DET*@*LAA*L*0*1*None*45-42*2* 1.5*Haren*Verlander*None*2:32*N*39,006*--*None
+Wednesday, Jul 6*boxscore*DET*@*LAA*W*5*4*None*46-42*2* 1.5*Penny*Takahashi*Valverde*3:11*D*31,549*+*None
+Thursday, Jul 7*boxscore*DET*@*KCR*W*3*1*None*47-42*2* 1.5*Scherzer*Duffy*Valverde*2:53*N*16,355*++*None
+Friday, Jul 8*boxscore*DET*@*KCR*W*6*4*None*48-42*2* 0.5*Porcello*Davies*Valverde*3:15*N*34,563*+++*None
+Saturday, Jul 9*boxscore*DET*@*KCR*L*6*13*None*48-43*2* 0.5*Holland*Furbush*Teaford*3:24*N*25,941*-*None
+Sunday, Jul 10*boxscore*DET*@*KCR*W*2*1*None*49-43*1*up 0.5*Verlander*Francis*Valverde*2:49*D*18,373*+*None
+Friday, Jul 15*boxscore*DET*None*CHW*L*2*8*None*49-44*2* 1.0*Floyd*Verlander*None*3:06*N*43,593*-*None
+Saturday, Jul 16*boxscore*DET*None*CHW*L*0*5*None*49-45*2* 1.0*Jackson*Scherzer*None*2:46*D*40,984*--*None
+Sunday, Jul 17*boxscore*DET*None*CHW*W*4*3*None*50-45*1* Tied*Penny*Humber*Valverde*2:40*D*37,049*+*None
+Tuesday, Jul 19*boxscore*DET*None*OAK*W*8*3*None*51-45*1* Tied*Porcello*Moscoso*None*3:10*N*31,980*++*None
+Wednesday, Jul 20*boxscore*DET*None*OAK*L*5*7*None*51-46*1* Tied*Devine*Purcey*Bailey*3:16*N*31,975*-*None
+Thursday, Jul 21*boxscore*DET*@*MIN*W*6*2*None*52-46*1*up 0.5*Verlander*Pavano*None*2:55*N*40,149*+*None
+Friday, Jul 22*boxscore*DET*@*MIN*W*8*2*None*53-46*1*up 1.5*Scherzer*Duensing*None*3:15*N*40,691*++*None
+Saturday, Jul 23*boxscore*DET*@*MIN*L*1*4*None*53-47*1*up 1.0*Baker*Penny*Nathan*2:58*D*40,764*-*None
+Sunday, Jul 24*boxscore*DET*@*MIN*W*5*2*None*54-47*1*up 2.0*Porcello*Liriano*Valverde*3:17*D*40,789*+*None
+Monday, Jul 25*boxscore*DET*@*CHW*L*3*6*None*54-48*1*up 1.0*Buehrle*Below*None*3:00*N*37,110*-*None
+Tuesday, Jul 26*boxscore*DET*@*CHW*W*5*4*None*55-48*1*up 2.0*Verlander*Ohman*Valverde*3:04*N*28,093*+*None
+Wednesday, Jul 27*boxscore*DET*@*CHW*L*1*2*None*55-49*1*up 2.0*Danks*Scherzer*Santos*2:50*D*26,978*-*None
+Thursday, Jul 28*boxscore*DET*None*LAA*L*7*12*None*55-50*1*up 1.5*Cassevah*Penny*None*3:31*D*33,489*--*None
+Friday, Jul 29*boxscore*DET*None*LAA*W*12*2*None*56-50*1*up 2.5*Porcello*Chatwood*None*2:44*N*40,551*+*None
+Saturday, Jul 30*boxscore*DET*None*LAA*L*1*5*None*56-51*1*up 1.5*Haren*Turner*None*2:54*D*40,753*-*None
+Sunday, Jul 31*boxscore*DET*None*LAA*W*3*2*None*57-51*1*up 2.5*Verlander*Weaver*Valverde*2:36*D*36,878*+*None
+Tuesday, Aug 2*boxscore*DET*None*TEX*W*6*5*None*58-51*1*up 3.0*Benoit*Adams*Valverde*3:32*N*29,067*++*None
+Wednesday, Aug 3*boxscore*DET*None*TEX*W*5*4*None*59-51*1*up 4.0*Fister*Harrison*Valverde*2:44*N*33,596*+++*None
+Thursday, Aug 4*boxscore*DET*None*TEX*L*2*5*None*59-52*1*up 3.0*Ogando*Penny*Feliz*2:55*D*40,497*-*None
+Friday, Aug 5*boxscore*DET*@*KCR*W*4*3*10*60-52*1*up 4.0*Schlereth*Crow*Valverde*3:00*N*28,565*+*None
+Saturday, Aug 6*boxscore*DET*@*KCR*W*4*3*None*61-52*1*up 4.0*Verlander*Duffy*Valverde*2:58*N*25,818*++*None
+Sunday, Aug 7*boxscore*DET*@*KCR*L*3*4*None*61-53*1*up 4.0*Chen*Scherzer*Soria*2:32*D*20,132*-*None
+Tuesday, Aug 9*boxscore*DET*@*CLE*L-wo*2*3*14*61-54*1*up 3.0*Herrmann*Pauley*None*4:43*N*25,317*--*None
+Wednesday, Aug 10*boxscore*DET*@*CLE*L*3*10*None*61-55*1*up 2.0*Jimenez*Porcello*None*2:38*N*23,258*---*None
+Thursday, Aug 11*boxscore*DET*@*CLE*W*4*3*None*62-55*1*up 3.0*Verlander*Hernandez*Valverde*2:47*N*30,988*+*None
+Friday, Aug 12*boxscore*DET*@*BAL*W*5*4*None*63-55*1*up 3.0*Penny*Patton*Valverde*3:13*N*21,465*++*None
+Saturday, Aug 13*boxscore*DET*@*BAL*W*6*5*None*64-55*1*up 3.0*Scherzer*Guthrie*Valverde*2:48*N*24,114*+++*None
+Sunday, Aug 14*boxscore*DET*@*BAL*L*5*8*None*64-56*1*up 2.5*Reyes*Fister*Johnson*2:38*D*18,348*-*None
+Monday, Aug 15*boxscore*DET*None*MIN*L*6*9*None*64-57*1*up 2.0*Liriano*Porcello*Nathan*2:49*N*36,211*--*None
+Tuesday, Aug 16*boxscore*DET*None*MIN*W*7*1*None*65-57*1*up 3.0*Verlander*Blackburn*None*2:52*N*40,589*+*None
+Wednesday, Aug 17*boxscore*DET*None*MIN*L*5*6*None*65-58*1*up 2.0*Capps*Valverde*Nathan*3:30*N*34,835*-*None
+Friday, Aug 19*boxscore*DET*None*CLE*W*4*1*None*66-58*1*up 2.5*Scherzer*Tomlin*Valverde*2:41*N*44,222*+*None
+Saturday, Aug 20*boxscore*DET*None*CLE*W*10*1*None*67-58*1*up 3.5*Fister*Huff*None*2:42*N*44,629*++*None
+Sunday, Aug 21*boxscore*DET*None*CLE*W*8*7*None*68-58*1*up 4.5*Coke*Jimenez*Valverde*3:45*D*43,388*+++*None
+Monday, Aug 22*boxscore*DET*@*TBR*W*5*2*None*69-58*1*up 5.5*Verlander*Niemann*None*3:05*N*13,048*++++*None
+Tuesday, Aug 23*boxscore*DET*@*TBR*W*2*1*None*70-58*1*up 6.0*Penny*Price*Coke*3:17*N*11,475*+++++*None
+Wednesday, Aug 24*boxscore*DET*@*TBR*L-wo*2*3*10*70-59*1*up 6.0*Peralta*Below*None*3:22*N*13,910*-*None
+Thursday, Aug 25*boxscore*DET*@*TBR*W*2*0*None*71-59*1*up 6.5*Fister*Hellickson*Valverde*2:42*D*14,069*+*None
+Friday, Aug 26*boxscore*DET*@*MIN*W*8*1*None*72-59*1*up 6.5*Porcello*Diamond*None*2:55*N*38,918*++*None
+Saturday, Aug 27*boxscore*DET*@*MIN*W*6*4*None*73-59*1*up 6.5*Verlander*Pavano*Valverde*2:51*D*40,179*+++*None
+Sunday, Aug 28*boxscore*DET*@*MIN*L*4*11*None*73-60*1*up 6.0*Duensing*Penny*None*2:49*D*39,130*-*None
+Monday, Aug 29*boxscore*DET*None*KCR*L*5*9*None*73-61*1*up 5.0*Hochevar*Scherzer*Wood*2:56*N*32,423*--*None
+Tuesday, Aug 30*boxscore*DET*None*KCR*W-wo*2*1*10*74-61*1*up 5.0*Benoit*Crow*None*2:53*N*34,866*+*None
+Wednesday, Aug 31*boxscore*DET*None*KCR*W*5*4*None*75-61*1*up 5.5*Schlereth*Wood*Valverde*2:27*D*33,572*++*None
+Thursday, Sep 1*boxscore*DET*None*KCR*L*8*11*None*75-62*1*up 5.5*Crow*Coke*Soria*3:17*D*39,084*-*2011-05-15 (Rain)
+Friday, Sep 2*boxscore*DET*None*CHW*W*8*1*None*76-62*1*up 5.5*Verlander*Danks*None*2:39*N*42,352*+*None
+Saturday, Sep 3*boxscore*DET*None*CHW*W-wo*9*8*None*77-62*1*up 6.5*Marte*Santos*None*3:10*D*40,635*++*None
+Sunday, Sep 4*boxscore*DET*None*CHW*W*18*2*None*78-62*1*up 6.5*Scherzer*Buehrle*None*3:21*N*42,671*+++*None
+Monday, Sep 5*boxscore*DET*@*CLE*W*4*2*None*79-62*1*up 7.5*Fister*Jimenez*Valverde*2:34*D*39,824*++++*None
+Tuesday, Sep 6*boxscore*DET*@*CLE*W*10*1*None*80-62*1*up 8.0*Porcello*Hernandez*None*2:46*N*27,544*+++++*None
+Wednesday, Sep 7*boxscore*DET*@*CLE*W*8*6*None*81-62*1*up 9.0*Verlander*Masterson*Valverde*3:09*D*16,783*++++++*None
+Friday, Sep 9*boxscore*DET*None*MIN*W*8*4*None*82-62*1*up 9.5*Penny*Slowey*None*2:46*N*35,996*+++++++*None
+Saturday, Sep 10*boxscore*DET*None*MIN*W-wo*3*2*None*83-62*1*up 9.5*Alburquerque*Perkins*None*2:53*D*38,567*++++++++*None
+Sunday, Sep 11*boxscore*DET*None*MIN*W*2*1*None*84-62*1*up10.5*Fister*Diamond*Valverde*2:19*D*36,972*+++++++++*None
+Monday, Sep 12*boxscore*DET*@*CHW*W*14*4*None*85-62*1*up11.5*Porcello*Danks*None*3:04*N*22,750*++++++++++*None
+Tuesday, Sep 13*boxscore*DET*@*CHW*W*5*0*None*86-62*1*up12.5*Verlander*Floyd*None*3:23*N*25,015*+++++++++++*None
+Wednesday, Sep 14*boxscore*DET*@*CHW*W*6*5*10*87-62*1*up13.5*Coke*Santos*Valverde*3:05*D*19,010*++++++++++++*None
+Thursday, Sep 15*boxscore*DET*@*OAK*L*1*6*None*87-63*1*up13.5*McCarthy*Scherzer*None*2:36*N*10,925*-*None
+Friday, Sep 16*boxscore*DET*@*OAK*W*3*1*None*88-63*1*up13.5*Fister*Cahill*Valverde*2:25*N*31,022*+*None
+Saturday, Sep 17*boxscore*DET*@*OAK*L*3*5*None*88-64*1*up12.5*Gonzalez*Porcello*None*2:46*D*19,451*-*None
+Sunday, Sep 18*boxscore*DET*@*OAK*W*3*0*None*89-64*1*up12.5*Verlander*Moscoso*Valverde*2:56*D*18,405*+*None
+Tuesday, Sep 20*boxscore*DET*@*KCR*L*2*10*None*89-65*1*up12.5*Mendoza*Penny*None*2:41*N*26,953*-*None
+Wednesday, Sep 21*boxscore*DET*@*KCR*W*6*3*None*90-65*1*up13.5*Fister*Herrera*Valverde*3:00*N*28,776*+*None
+Thursday, Sep 22*boxscore*DET*None*BAL*L*5*6*None*90-66*1*up12.5*Britton*Pauley*Gregg*2:34*N*27,847*-*None
+Friday, Sep 23*boxscore*DET*None*BAL*W-wo*4*3*11*91-66*1*up12.5*Perry*Eyre*None*3:17*N*38,623*+*None
+Saturday, Sep 24*boxscore*DET*None*BAL*L*5*6*None*91-67*1*up11.0*Strop*Schlereth*Gregg*2:46*N*44,846*-*None
+Sunday, Sep 25*boxscore*DET*None*BAL*W*10*6*None*92-67*1*up12.0*Penny*Matusz*None*3:02*D*41,051*+*None
+Monday, Sep 26*boxscore*DET*None*CLE*W*14*0*None*93-67*1*up13.0*Fister*Jimenez*None*2:40*N*29,886*++*None
+Tuesday, Sep 27*boxscore*DET*None*CLE*W*9*6*None*94-67*1*up14.0*Scherzer*Gomez*Valverde*3:24*N*31,132*+++*None
+Wednesday, Sep 28*boxscore*DET*None*CLE*W*5*4*None*95-67*1*up15.0*Perry*Pestano*Valverde*2:52*N*31,645*++++*None

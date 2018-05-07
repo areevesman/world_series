@@ -1,0 +1,153 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Tuesday, Apr 15*boxscore*STL*@*CIN*W*6*3*None*2-0*1*up 0.5*Sallee*Packard*None*2:07*D*None*++*None
+Wednesday, Apr 16*boxscore*STL*@*CIN*L*0*5*7*2-1*1* Tied*Johnson*Perritt*None*1:45*D*None*-*None
+Thursday, Apr 17*boxscore*STL*None*CHC*L*1*7*None*2-2*4* 0.5*Cheney*Griner*None*1:45*D*None*--*None
+Friday, Apr 18*boxscore*STL*None*CHC*W*8*2*None*3-2*1* Tied*Sallee*Lavender*None*1:45*D*None*+*None
+Saturday, Apr 19*boxscore*STL*None*CHC*L*1*6*None*3-3*5* 1.0*Richie*Hunt*None*2:00*D*None*-*None
+Sunday, Apr 20*boxscore*STL*None*PIT*L*4*5*None*3-4*5* 2.0*Robinson*Harmon*None*2:00*D*None*--*None
+Monday, Apr 21*boxscore*STL*None*PIT*L*5*8*None*3-5*5* 3.0*Adams*Griner*None*1:45*D*None*---*None
+Tuesday, Apr 22*boxscore*STL*None*PIT*L*0*1*None*3-6*6* 4.0*Camnitz*Perritt*None*1:35*D*None*----*None
+Wednesday, Apr 23*boxscore*STL*None*PIT*W*3*1*None*4-6*6* 3.0*Steele*Hendrix*None*1:35*D*None*+*None
+Thursday, Apr 24*boxscore*STL*None*CIN*L*3*10*None*4-7*6* 4.0*Suggs*Sallee*None*2:00*D*None*-*None
+Saturday, Apr 26*boxscore*STL*None*CIN*W*6*5*10*5-7*6* 3.0*Perritt*Johnson*None*2:15*D*None*+*None
+Sunday, Apr 27*boxscore*STL*None*CIN*W*2*1*None*6-7*6* 3.0*Griner*Johnson*None*2:15*D*None*++*None
+Monday, Apr 28*boxscore*STL*None*CIN*W*7*5*None*7-7*6* 3.0*Sallee*Powell*None*2:10*D*None*+++*None
+Wednesday, Apr 30*boxscore*STL*@*PIT*W*6*1*None*8-7*3* 3.5*Steele*Robinson*None*1:45*D*None*++++*None
+Thursday, May 1*boxscore*STL*@*PIT*W*9*7*None*9-7*3* 2.5*Perritt*Camnitz*Sallee*1:58*D*None*+++++*None
+Friday, May 2*boxscore*STL*@*PIT*L*4*5*None*9-8*4* 3.5*Hendrix*Griner*None*1:50*D*None*-*None
+Saturday, May 3*boxscore*STL*@*PIT*W*6*3*None*10-8*3* 2.5*Harmon*O'Toole*None*2:10*D*None*+*None
+Sunday, May 4*boxscore*STL*@*CHC*W*10*8*13*11-8*3* 1.5*Konetchy*Humphries*None*2:45*D*None*++*None
+Tuesday, May 6*boxscore*STL*@*PHI*W*3*1*None*12-8*2* 0.5*Steele*Brennan*Harmon*1:40*D*None*+++*None
+Wednesday, May 7*boxscore*STL*@*PHI*L*3*4*10*12-9*3* 1.5*Seaton*Griner*None*2:05*D*None*-*None
+Thursday, May 8*boxscore*STL*@*PHI*W*5*4*None*13-9*2* 0.5*Perritt*Chalmers*None*1:52*D*None*+*None
+Friday, May 9*boxscore*STL*@*PHI*L*1*3*None*13-10*4* 1.0*Alexander*Steele*None*1:19*D*None*-*None
+Saturday, May 10*boxscore*STL*@*BSN*T*1*1*12*13-10*4* 1.5*None*None*None*2:40*D*None*-*None
+Monday, May 12*boxscore*STL*@*BSN*L*4*6*None*13-11*4* 2.5*Rudolph*Sallee*None*2:06*D*None*--*None
+Tuesday, May 13*boxscore*STL*@*BSN*W*4*3*None*14-11*3* 2.5*Griner*Perdue*None*1:58*D*None*+*None
+Wednesday, May 14*boxscore*STL*@*BSN*L*0*7*None*14-12*3* 2.5*Tyler*Harmon*None*1:55*D*None*-*None
+Thursday, May 15*boxscore*STL*@*BRO*L*6*8*None*14-13*3* 3.5*Ragan*Steele*Rucker*1:40*D*None*--*None
+Friday, May 16*boxscore*STL*@*BRO*L*5*6*None*14-14*4* 4.5*Curtis*Sallee*None*1:53*D*None*---*None
+Monday, May 19*boxscore*STL*@*BRO*L*1*2*11*14-15*4* 5.5*Yingling*Griner*None*2:00*D*None*----*None
+Tuesday, May 20*boxscore*STL*@*NYG*W*8*0*None*15-15*4* 5.5*Harmon*Mathewson*None*1:40*D*None*+*None
+Wednesday, May 21*boxscore*STL*@*NYG*W*4*3*None*16-15*3* 5.5*Sallee*Tesreau*None*1:55*D*None*++*None
+Saturday, May 24*boxscore*STL*@*CIN*W*12*4*None*17-15*3* 5.5*Griner*Johnson*Willis*2:10*D*None*+++*None
+Saturday, May 24*boxscore*STL*@*CIN*W*4*3*11*18-15*3* 5.5*Sallee*Brown*None*2:22*D*None*++++*1913-04-13 (Rain)
+Sunday, May 25*boxscore*STL*@*CHC*L*2*9*None*18-16*3* 6.0*Pierce*Steele*None*1:50*D*None*-*None
+Tuesday, May 27*boxscore*STL*@*CHC*L*1*2*None*18-17*4* 7.0*Overall*Sallee*None*1:25*D*None*--*None
+Wednesday, May 28*boxscore*STL*@*CHC*L*7*8*17*18-18*4* 7.5*Cheney*Harmon*None*3:45*D*None*---*1913-04-10 (Rain)
+Thursday, May 29*boxscore*STL*None*CIN*L*10*13*None*18-19*5* 7.5*Johnson*Geyer*Brown*3:00*D*None*----*None
+Friday, May 30*boxscore*STL*None*CIN*L*3*5*13*18-20*5* 6.5*Packard*Harmon*None*2:45*D*None*-----*None
+Friday, May 30*boxscore*STL*None*CIN*W*6*4*None*19-20*5* 6.5*Steele*Benton*Burk*2:10*D*None*+*None
+Saturday, May 31*boxscore*STL*None*CIN*L*2*6*None*19-21*6* 7.0*Johnson*Griner*None*1:55*D*None*-*None
+Saturday, May 31*boxscore*STL*None*CIN*L*0*8*None*19-22*6* 7.0*Suggs*Perritt*None*1:50*D*None*--*1913-04-25 (Rain)
+Sunday, Jun 1*boxscore*STL*None*CHC*L*2*4*None*19-23*6* 7.5*Pierce*Harmon*None*2:00*D*None*---*None
+Tuesday, Jun 3*boxscore*STL*None*NYG*L*3*5*None*19-24*6* 8.5*Tesreau*Sallee*Crandall*1:45*D*None*----*None
+Wednesday, Jun 4*boxscore*STL*None*NYG*W*6*4*None*20-24*6* 8.5*Griner*Mathewson*None*1:45*D*None*+*None
+Saturday, Jun 7*boxscore*STL*None*NYG*L*8*9*None*20-25*6* 9.5*Mathewson*Burk*None*2:15*D*None*-*None
+Sunday, Jun 8*boxscore*STL*None*BSN*L*3*5*None*20-26*6* 10.5*Rudolph*Griner*None*2:05*D*None*--*None
+Monday, Jun 9*boxscore*STL*None*BSN*W*12*6*None*21-26*6* 10.5*Sallee*Perdue*None*2:15*D*None*+*None
+Tuesday, Jun 10*boxscore*STL*None*BSN*W*8*7*11*22-26*6* 10.5*Harmon*Dickson*None*3:00*D*None*++*None
+Wednesday, Jun 11*boxscore*STL*None*BSN*L*3*5*None*22-27*6* 10.5*Tyler*Griner*None*2:00*D*None*-*None
+Thursday, Jun 12*boxscore*STL*None*PHI*L*5*7*None*22-28*6* 11.5*Alexander*Steele*None*2:00*D*None*--*None
+Friday, Jun 13*boxscore*STL*None*PHI*L*2*5*None*22-29*7* 12.5*Brennan*Harmon*None*1:45*D*None*---*None
+Saturday, Jun 14*boxscore*STL*None*PHI*L*0*7*None*22-30*7* 13.5*Seaton*Geyer*Moore*1:55*D*None*----*None
+Sunday, Jun 15*boxscore*STL*None*PHI*W*4*3*None*23-30*7* 12.5*Griner*Brennan*None*1:50*D*None*+*None
+Monday, Jun 16*boxscore*STL*None*BRO*L*5*10*None*23-31*7* 12.5*Rucker*Sallee*None*1:45*D*None*-*None
+Tuesday, Jun 17*boxscore*STL*None*BRO*L*3*8*None*23-32*7* 12.5*Yingling*Perritt*None*1:40*D*None*--*None
+Wednesday, Jun 18*boxscore*STL*None*BRO*L*1*8*None*23-33*7* 12.5*Ragan*Griner*None*1:35*D*None*---*None
+Thursday, Jun 19*boxscore*STL*None*BRO*L*5*11*None*23-34*7* 13.5*Wagner*Marbet*Curtis*1:50*D*None*----*None
+Friday, Jun 20*boxscore*STL*None*CHC*W*4*2*None*24-34*7* 13.0*Sallee*Cheney*None*1:55*D*None*+*None
+Sunday, Jun 22*boxscore*STL*None*CHC*L*0*6*5*24-35*7* 14.5*Pierce*Perritt*None*1:25*D*None*-*None
+Tuesday, Jun 24*boxscore*STL*None*CHC*W*1*0*None*25-35*7* 15.0*Griner*Lavender*None*1:55*D*None*+*1913-06-21 (Rain)
+Wednesday, Jun 25*boxscore*STL*None*PIT*L*1*9*10*25-36*7* 16.0*O'Toole*Geyer*None*2:15*D*None*-*None
+Thursday, Jun 26*boxscore*STL*None*PIT*W*5*4*None*26-36*6* 14.5*Sallee*Hendrix*None*2:05*D*None*+*None
+Friday, Jun 27*boxscore*STL*None*PIT*L*3*4*12*26-37*6* 14.5*Robinson*Harmon*None*2:30*D*None*-*None
+Saturday, Jun 28*boxscore*STL*None*PIT*L*5*12*None*26-38*6* 14.5*Robinson*Griner*None*2:10*D*None*--*None
+Sunday, Jun 29*boxscore*STL*None*PIT*W*4*3*None*27-38*6* 14.0*Harmon*Hendrix*None*1:55*D*None*+*None
+Monday, Jun 30*boxscore*STL*@*CIN*W*7*4*None*28-38*6* 13.5*Sallee*Packard*None*2:03*D*None*++*None
+Tuesday, Jul 1*boxscore*STL*@*CIN*L*4*11*None*28-39*7* 14.5*Benton*Griner*None*1:50*D*None*-*None
+Wednesday, Jul 2*boxscore*STL*@*CIN*W*6*4*None*29-39*6* 14.5*Perritt*Harter*Sallee*1:45*D*None*+*None
+Thursday, Jul 3*boxscore*STL*@*PIT*L*0*4*None*29-40*7* 15.5*Hendrix*Harmon*None*1:53*D*None*-*None
+Friday, Jul 4*boxscore*STL*@*PIT*T*3*3*11*29-40*6* 16.0*None*None*None*3:10*D*None*-*None
+Friday, Jul 4*boxscore*STL*@*PIT*W*12*8*None*30-40*6* 16.0*Griner*Cooper*Geyer*2:45*D*None*+*None
+Sunday, Jul 6*boxscore*STL*@*CHC*L*0*6*None*30-41*6* 16.5*Pierce*Harmon*None*2:06*D*None*-*None
+Sunday, Jul 6*boxscore*STL*@*CHC*W*5*1*3*31-41*6* 16.5*Sallee*Overall*None*1:00*D*None*+*1913-04-11 (Rain)
+Tuesday, Jul 8*boxscore*STL*@*BSN*L*2*6*None*31-42*6* 18.0*Tyler*Griner*None*2:05*D*None*-*None
+Wednesday, Jul 9*boxscore*STL*@*BSN*L*3*6*None*31-43*7* 19.5*Hess*Sallee*None*1:57*D*None*--*None
+Wednesday, Jul 9*boxscore*STL*@*BSN*L*6*10*8*31-44*7* 19.5*Rudolph*Perritt*None*2:03*D*None*---*None
+Thursday, Jul 10*boxscore*STL*@*BSN*L*1*3*None*31-45*7* 19.5*Perdue*Harmon*None*1:45*D*None*----*None
+Friday, Jul 11*boxscore*STL*@*BSN*W*6*4*None*32-45*7* 19.5*Sallee*Tyler*None*2:01*D*None*+*None
+Saturday, Jul 12*boxscore*STL*@*PHI*L*1*12*None*32-46*7* 20.5*Brennan*Griner*None*1:45*D*None*-*None
+Monday, Jul 14*boxscore*STL*@*PHI*L*1*2*None*32-47*7* 21.5*Rixey*Harmon*None*1:50*D*None*--*None
+Tuesday, Jul 15*boxscore*STL*@*PHI*L*2*3*10*32-48*7* 22.5*Brennan*Sallee*None*2:00*D*None*---*None
+Wednesday, Jul 16*boxscore*STL*@*PHI*L*3*4*None*32-49*7* 23.5*Mayer*Griner*Rixey*1:40*D*None*----*None
+Thursday, Jul 17*boxscore*STL*@*NYG*W*4*2*None*33-49*7* 23.5*Harmon*Fromme*None*1:55*D*None*+*None
+Thursday, Jul 17*boxscore*STL*@*NYG*L*2*3*None*33-50*7* 23.5*Marquard*Sallee*None*1:50*D*None*-*1913-05-22 (Rain)
+Friday, Jul 18*boxscore*STL*@*NYG*W*4*3*None*34-50*7* 23.5*Geyer*Tesreau*Sallee*1:47*D*None*+*None
+Friday, Jul 18*boxscore*STL*@*NYG*L*0*5*None*34-51*7* 23.5*Mathewson*Perritt*None*1:35*D*None*-*1913-05-23 (Wet grounds)
+Saturday, Jul 19*boxscore*STL*@*NYG*L*3*6*None*34-52*7* 24.5*Marquard*Griner*None*2:10*D*None*--*None
+Monday, Jul 21*boxscore*STL*@*NYG*L*4*8*None*34-53*7* 25.5*Crandall*Burk*None*2:00*D*None*---*None
+Tuesday, Jul 22*boxscore*STL*@*BRO*W*3*1*None*35-53*7* 26.0*Sallee*Curtis*None*1:45*D*None*+*None
+Wednesday, Jul 23*boxscore*STL*@*BRO*L*2*7*None*35-54*7* 27.0*Yingling*Harmon*None*1:35*D*None*-*None
+Saturday, Jul 26*boxscore*STL*None*NYG*W*7*0*None*36-54*7* 26.0*Sallee*Crandall*None*1:40*D*None*+*None
+Sunday, Jul 27*boxscore*STL*None*NYG*L*1*2*7*36-55*7* 27.0*Marquard*Griner*None*1:25*D*None*-*None
+Monday, Jul 28*boxscore*STL*None*NYG*L*0*4*None*36-56*7* 28.0*Mathewson*Harmon*None*1:45*D*None*--*None
+Tuesday, Jul 29*boxscore*STL*None*NYG*L*0*1*None*36-57*7* 30.0*Demaree*Doak*None*1:45*D*None*---*None
+Tuesday, Jul 29*boxscore*STL*None*NYG*L*1*3*None*36-58*7* 30.0*Fromme*Sallee*None*2:00*D*None*----*1913-06-05 (Rain)
+Wednesday, Jul 30*boxscore*STL*None*BSN*W*9*1*None*37-58*7* 29.0*Harmon*James*None*1:55*D*None*+*None
+Thursday, Jul 31*boxscore*STL*None*BSN*L*5*6*None*37-59*7* 29.0*Perdue*Geyer*Tyler*1:50*D*None*-*None
+Friday, Aug 1*boxscore*STL*None*BSN*L*0*8*None*37-60*7* 30.0*Hess*Doak*None*2:15*D*None*--*None
+Saturday, Aug 2*boxscore*STL*None*BSN*W*4*2*None*38-60*7* 30.0*Harmon*Tyler*None*1:58*D*None*+*None
+Sunday, Aug 3*boxscore*STL*None*PHI*L*3*5*None*38-61*7* 30.5*Brennan*Sallee*None*1:45*D*None*-*None
+Monday, Aug 4*boxscore*STL*None*PHI*L*3*6*None*38-62*8* 31.5*Mayer*Doak*None*1:50*D*None*--*None
+Tuesday, Aug 5*boxscore*STL*None*PHI*L*0*1*None*38-63*8* 31.5*Alexander*Sallee*None*1:25*D*None*---*None
+Wednesday, Aug 6*boxscore*STL*None*PHI*L*1*7*None*38-64*8* 31.5*Rixey*Harmon*None*1:42*D*None*----*None
+Thursday, Aug 7*boxscore*STL*None*BRO*W*3*2*None*39-64*8* 31.5*Griner*Allen*None*1:55*D*None*+*None
+Friday, Aug 8*boxscore*STL*None*BRO*W*2*0*None*40-64*8* 30.5*Doak*Walker*None*1:35*D*None*++*None
+Saturday, Aug 9*boxscore*STL*None*BRO*W*5*1*None*41-64*8* 30.5*Sallee*Rucker*None*1:45*D*None*+++*None
+Sunday, Aug 10*boxscore*STL*None*BRO*L*0*3*None*41-65*8* 31.5*Reulbach*Harmon*None*1:40*D*None*-*None
+Thursday, Aug 14*boxscore*STL*@*NYG*L*4*11*None*41-66*7* 34.0*Marquard*Griner*Fromme*2:22*D*None*--*None
+Thursday, Aug 14*boxscore*STL*@*NYG*L*3*7*8*41-67*7* 34.0*Tesreau*Harmon*None*2:07*D*None*---*1913-08-13 (Rain)
+Friday, Aug 15*boxscore*STL*@*NYG*L*1*6*None*41-68*7* 35.0*Fromme*Perritt*None*1:25*D*None*----*None
+Saturday, Aug 16*boxscore*STL*@*BRO*W*1*0*None*42-68*7* 34.5*Sallee*Yingling*None*1:32*D*None*+*None
+Saturday, Aug 16*boxscore*STL*@*BRO*L*5*14*None*42-69*7* 34.5*Curtis*Griner*None*1:55*D*None*-*1913-05-17 (Rain)
+Monday, Aug 18*boxscore*STL*@*BRO*L*1*7*None*42-70*7* 36.5*Allen*Doak*None*2:01*D*None*--*None
+Monday, Aug 18*boxscore*STL*@*BRO*L*2*6*None*42-71*7* 36.5*Rucker*Harmon*None*1:45*D*None*---*1913-07-24 (Rain)
+Tuesday, Aug 19*boxscore*STL*@*BRO*W*5*2*None*43-71*8* 35.5*Perritt*Reulbach*Sallee*1:40*D*None*+*None
+Wednesday, Aug 20*boxscore*STL*@*BRO*L*0*8*None*43-72*8* 35.5*Yingling*Sallee*None*1:35*D*None*-*None
+Thursday, Aug 21*boxscore*STL*@*BSN*L*6*7*None*43-73*8* 36.5*Perdue*Harmon*None*2:09*D*None*--*None
+Friday, Aug 22*boxscore*STL*@*BSN*L*1*9*None*43-74*8* 37.5*Rudolph*Doak*None*1:47*D*None*---*None
+Saturday, Aug 23*boxscore*STL*@*BSN*L*4*8*None*43-75*8* 38.5*Tyler*Perritt*None*1:41*D*None*----*None
+Monday, Aug 25*boxscore*STL*@*PHI*L*0*3*None*43-76*8* 39.5*Rixey*Doak*None*1:40*D*None*-----*None
+Tuesday, Aug 26*boxscore*STL*@*PHI*L*5*6*None*43-77*8* 40.5*Seaton*Harmon*None*1:50*D*None*------*None
+Wednesday, Aug 27*boxscore*STL*@*PHI*W*15*4*None*44-77*8* 39.5*Griner*Brennan*Harmon*2:10*D*None*+*None
+Friday, Aug 29*boxscore*STL*@*CIN*W*3*2*None*45-77*8* 38.0*Sallee*Packard*None*1:40*D*None*++*None
+Saturday, Aug 30*boxscore*STL*@*CIN*L*4*7*None*45-78*8* 38.0*Ames*Doak*None*2:07*D*None*-*None
+Sunday, Aug 31*boxscore*STL*@*CIN*L*5*10*None*45-79*8* 39.0*Johnson*Harmon*None*2:10*D*None*--*None
+Sunday, Aug 31*boxscore*STL*@*CIN*L*2*8*None*45-80*8* 39.0*Suggs*Griner*None*1:38*D*None*---*1913-04-14 (Wet grounds)
+Monday, Sep 1*boxscore*STL*None*CHC*L*1*2*None*45-81*8* 40.5*Cheney*Sallee*None*1:55*D*None*----*None
+Monday, Sep 1*boxscore*STL*None*CHC*T*2*2*8*45-81*8* 40.5*None*None*None*2:00*D*None*----*None
+Tuesday, Sep 2*boxscore*STL*None*CHC*L*3*5*None*45-82*8* 41.0*Moore*Perritt*Lavender*1:50*D*None*-----*None
+Tuesday, Sep 2*boxscore*STL*None*CHC*L*1*6*None*45-83*8* 41.0*Vaughn*Griner*None*2:00*D*None*------*1913-06-23 (Rain)
+Wednesday, Sep 3*boxscore*STL*None*CHC*L*2*7*None*45-84*8* 41.0*Watson*Trekell*None*1:45*D*None*-------*None
+Thursday, Sep 4*boxscore*STL*@*PIT*W*4*2*None*46-84*8* 41.0*Sallee*Robinson*None*1:37*D*None*+*None
+Thursday, Sep 4*boxscore*STL*@*PIT*L*4*5*10*46-85*8* 41.0*Hendrix*Geyer*None*1:57*D*None*-*1913-07-05 (Rain)
+Friday, Sep 5*boxscore*STL*@*PIT*L*3*8*None*46-86*8* 42.5*Cooper*Harmon*None*1:45*D*None*--*None
+Friday, Sep 5*boxscore*STL*@*PIT*L*3*11*7*46-87*8* 42.5*O'Toole*Perritt*None*1:40*D*None*---*None
+Saturday, Sep 6*boxscore*STL*@*PIT*L*2*4*None*46-88*8* 42.5*Luhrsen*Doak*None*2:04*D*None*----*None
+Sunday, Sep 7*boxscore*STL*@*CHC*L*1*4*None*46-89*8* 43.5*Smith*Sallee*Cheney*1:30*D*None*-----*None
+Sunday, Sep 7*boxscore*STL*@*CHC*L*1*7*None*46-90*8* 43.5*Pierce*Griner*None*1:45*D*None*------*1913-05-26 (Rain)
+Monday, Sep 8*boxscore*STL*@*CHC*L*3*5*None*46-91*8* 44.5*Vaughn*Perritt*None*1:30*D*None*-------*None
+Tuesday, Sep 9*boxscore*STL*@*CHC*L*0*4*None*46-92*8* 45.0*Stack*Niehaus*None*1:38*D*None*--------*None
+Wednesday, Sep 10*boxscore*STL*None*PHI*W*2*1*10*47-92*8* 45.0*Doak*Rixey*None*2:10*D*None*+*None
+Thursday, Sep 11*boxscore*STL*None*PHI*L*2*8*None*47-93*8* 46.0*Seaton*Hopper*None*1:30*D*None*-*None
+Saturday, Sep 13*boxscore*STL*None*PHI*L*0*2*10*47-94*8* 46.5*Alexander*Perritt*None*1:25*D*None*--*None
+Sunday, Sep 14*boxscore*STL*None*BRO*W*7*6*None*48-94*8* 45.5*Sallee*Yingling*None*2:05*D*None*+*None
+Friday, Sep 19*boxscore*STL*None*NYG*W*1*0*10*49-94*8* 46.0*Sallee*Mathewson*None*1:50*D*None*++*None
+Friday, Sep 19*boxscore*STL*None*NYG*L*0*2*None*49-95*8* 46.0*Marquard*Hopper*None*1:30*D*None*-*1913-09-17 (Wet grounds)
+Sunday, Sep 21*boxscore*STL*None*BSN*L*0*2*None*49-96*8* 47.0*Quinn*Perritt*None*2:00*D*None*--*None
+Sunday, Sep 21*boxscore*STL*None*BSN*L*1*8*8*49-97*8* 47.0*Tyler*Niehaus*None*1:55*D*None*---*1913-09-20 (Wet grounds)
+Monday, Sep 22*boxscore*STL*None*BSN*L*1*5*None*49-98*8* 47.5*Hess*Griner*None*1:45*D*None*----*None
+Saturday, Sep 27*boxscore*STL*None*PIT*L*3*4*None*49-99*8* 49.0*O'Toole*Hopper*None*1:45*D*None*-----*None
+Saturday, Oct 4*boxscore*STL*None*CIN*W*11*2*None*50-99*8* 49.5*Perritt*Packard*None*2:10*D*None*+*None
+Sunday, Oct 5*boxscore*STL*None*CIN*W*4*1*None*51-99*8* 49.0*Harmon*Rowan*Doak*1:40*D*None*++*None

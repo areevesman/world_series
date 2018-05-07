@@ -1,0 +1,157 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 13*boxscore*PIT*@*STL*W*4*0*None*1-1*2* 0.5*Adams*Meadows*None*1:46*D*None*+*None
+Friday, Apr 14*boxscore*PIT*@*STL*L*3*5*None*1-2*6* 1.0*Jasper*Harmon*Griner*2:10*D*None*-*None
+Saturday, Apr 15*boxscore*PIT*@*STL*W*6*1*None*2-2*4* 1.0*Mamaux*Hall*None*1:57*D*None*+*None
+Sunday, Apr 16*boxscore*PIT*@*CIN*L*1*6*None*2-3*5* 2.0*Toney*Miller*None*None*D*None*-*None
+Monday, Apr 17*boxscore*PIT*@*CIN*W*10*1*None*3-3*4* 1.0*Kantlehner*Dale*None*1:58*D*None*+*None
+Tuesday, Apr 18*boxscore*PIT*@*CIN*L*3*4*10*3-4*5* 2.0*Schneider*Adams*None*2:08*D*None*-*None
+Thursday, Apr 20*boxscore*PIT*None*STL*L*0*5*None*3-5*6* 3.0*Meadows*Mamaux*Sallee*2:24*D*None*--*None
+Friday, Apr 21*boxscore*PIT*None*STL*W*8*0*None*4-5*5* 3.0*Harmon*Steele*None*1:46*D*None*+*None
+Sunday, Apr 23*boxscore*PIT*@*CHC*L*0*3*None*4-6*7* 3.5*McConnell*Kantlehner*None*1:35*D*16,000*-*None
+Wednesday, Apr 26*boxscore*PIT*@*CHC*L*3*6*None*4-7*7* 3.5*Lavender*Adams*Prendergast*1:45*D*None*--*None
+Friday, Apr 28*boxscore*PIT*None*CIN*W*5*1*None*5-7*7* 3.0*Harmon*Schneider*None*1:36*D*None*+*None
+Saturday, Apr 29*boxscore*PIT*None*CIN*W*2*1*None*6-7*6* 2.5*Mamaux*Toney*Miller*1:44*D*None*++*None
+Sunday, Apr 30*boxscore*PIT*@*CIN*L*7*8*None*6-8*7* 3.0*Schneider*Harmon*None*2:40*D*None*-*None
+Monday, May 1*boxscore*PIT*@*CIN*L*0*3*None*6-9*7* 3.0*Mitchell*Adams*None*1:40*D*None*--*None
+Thursday, May 4*boxscore*PIT*None*CHC*W*4*2*None*7-9*7* 3.0*Cooper*Lavender*None*None*D*4,000*+*None
+Friday, May 5*boxscore*PIT*None*CHC*L*3*5*13*7-10*7* 3.5*Seaton*Kantlehner*None*None*D*None*-*None
+Saturday, May 6*boxscore*PIT*None*CHC*L*1*2*None*7-11*7* 4.5*Vaughn*Adams*None*None*D*8,000*--*None
+Sunday, May 7*boxscore*PIT*@*CHC*W*1*0*None*8-11*7* 4.0*Kantlehner*Lavender*None*None*D*19,000*+*None
+Monday, May 8*boxscore*PIT*@*CHC*L*1*2*None*8-12*7* 4.5*McConnell*Cooper*None*1:39*D*None*-*None
+Monday, May 8*boxscore*PIT*@*CHC*W*6*4*None*9-12*7* 4.5*Mamaux*Packard*None*1:50*D*None*+*1916-04-24 (Wet grounds)
+Tuesday, May 9*boxscore*PIT*None*NYG*L*5*13*None*9-13*7* 5.0*Tesreau*Harmon*Mathewson*None*D*None*-*None
+Wednesday, May 10*boxscore*PIT*None*NYG*L*1*7*None*9-14*7* 6.0*Anderson*Adams*None*1:41*D*2,000*--*None
+Thursday, May 11*boxscore*PIT*None*NYG*L*2*3*None*9-15*7* 6.0*Perritt*Kantlehner*Stroud*1:40*D*2,000*---*None
+Friday, May 12*boxscore*PIT*None*NYG*L*2*3*10*9-16*7* 6.5*Schauer*Mamaux*None*None*D*2,000*----*None
+Saturday, May 13*boxscore*PIT*None*BSN*W*5*3*None*10-16*7* 5.5*Adams*Reulbach*Kantlehner*1:49*D*None*+*None
+Monday, May 15*boxscore*PIT*None*BSN*W*8*7*None*11-16*7* 6.0*Harmon*Rudolph*Mamaux*2:12*D*None*++*None
+Thursday, May 18*boxscore*PIT*None*PHI*L*0*3*None*11-17*8* 5.0*Alexander*Kantlehner*None*1:22*D*None*-*None
+Friday, May 19*boxscore*PIT*None*PHI*W*4*2*None*12-17*8* 5.0*Mamaux*McQuillan*None*1:43*D*None*+*None
+Saturday, May 20*boxscore*PIT*None*PHI*L*1*5*None*12-18*8* 6.0*Demaree*Adams*None*None*D*None*-*None
+Tuesday, May 23*boxscore*PIT*None*BRO*L*0*6*None*12-19*8* 7.0*Pfeffer*Kantlehner*None*1:46*D*None*--*None
+Wednesday, May 24*boxscore*PIT*None*BRO*L*2*3*10*12-20*8* 8.0*Cheney*Harmon*None*2:11*D*None*---*None
+Thursday, May 25*boxscore*PIT*None*BRO*W*5*0*None*13-20*8* 7.0*Miller*Dell*None*None*D*None*+*None
+Friday, May 26*boxscore*PIT*@*STL*W*6*5*11*14-20*8* 6.5*Mamaux*Sallee*None*2:45*D*2,000*++*None
+Sunday, May 28*boxscore*PIT*@*STL*W*4*0*None*15-20*6* 6.0*Cooper*Doak*None*2:38*D*None*+++*None
+Sunday, May 28*boxscore*PIT*@*STL*W*4*1*5*16-20*6* 6.0*Mamaux*Meadows*None*1:58*D*None*++++*1916-05-27 (Rain)
+Monday, May 29*boxscore*PIT*None*CIN*L*1*6*None*16-21*7* 7.0*Mitchell*Jacobs*None*None*D*None*-*1916-04-27 (Wet grounds)
+Tuesday, May 30*boxscore*PIT*None*CIN*W*9*8*None*17-21*6* 6.5*Cooper*Schulz*None*None*D*None*+*None
+Wednesday, May 31*boxscore*PIT*None*CIN*L*2*5*16*17-22*7* 7.5*Toney*Miller*None*3:01*D*None*-*None
+Thursday, Jun 1*boxscore*PIT*None*CIN*W*8*4*None*18-22*6* 6.0*Harmon*Schneider*None*1:46*D*None*+*None
+Friday, Jun 2*boxscore*PIT*@*BRO*W*5*2*None*19-22*6* 5.0*Mamaux*Appleton*None*1:32*D*None*++*None
+Monday, Jun 5*boxscore*PIT*@*BRO*L*2*3*None*19-23*7* 6.0*Dell*Miller*None*1:56*D*2,500*-*None
+Tuesday, Jun 6*boxscore*PIT*@*NYG*W*3*2*None*20-23*5* 6.0*Mamaux*Benton*None*1:30*D*9,000*+*None
+Monday, Jun 12*boxscore*PIT*@*PHI*L*1*2*None*20-24*7* 6.5*Alexander*Mamaux*None*1:24*D*None*-*None
+Tuesday, Jun 13*boxscore*PIT*@*PHI*L*3*5*None*20-25*7* 7.5*Bender*Adams*None*1:45*D*4,000*--*None
+Wednesday, Jun 14*boxscore*PIT*@*PHI*L*2*3*12*20-26*7* 8.5*Rixey*Jacobs*None*2:37*D*None*---*None
+Thursday, Jun 15*boxscore*PIT*@*BSN*W*2*1*None*21-26*6* 8.5*Mamaux*Reulbach*None*None*D*None*+*None
+Friday, Jun 16*boxscore*PIT*@*BSN*L*0*2*None*21-27*7* 9.0*Hughes*Kantlehner*None*1:30*D*None*-*None
+Tuesday, Jun 20*boxscore*PIT*None*STL*L*6*10*12*21-28*7* 8.5*Jasper*Miller*Williams*3:17*D*None*--*None
+Thursday, Jun 22*boxscore*PIT*None*STL*W*8*4*None*22-28*7* 9.0*Jacobs*Williams*None*2:02*D*None*+*None
+Friday, Jun 23*boxscore*PIT*None*STL*L*7*8*None*22-29*7* 9.0*Jasper*Harmon*Ames*2:33*D*None*-*None
+Saturday, Jun 24*boxscore*PIT*None*STL*W*4*3*None*23-29*7* 9.0*Mamaux*Steele*None*None*D*None*+*None
+Saturday, Jun 24*boxscore*PIT*None*STL*W*5*2*None*24-29*7* 9.0*Miller*Hall*None*None*D*None*++*1916-04-22 (Rain)
+Sunday, Jun 25*boxscore*PIT*@*CHC*W*8*3*12*25-29*5* 8.5*Cooper*Vaughn*None*None*D*None*+++*None
+Tuesday, Jun 27*boxscore*PIT*@*CHC*L*0*1*None*25-30*7* 9.0*Prendergast*Cooper*None*None*D*None*-*None
+Tuesday, Jun 27*boxscore*PIT*@*CHC*L*4*10*None*25-31*7* 9.0*Seaton*Adams*Prendergast*1:40*D*None*--*1916-04-25 (Rain)
+Wednesday, Jun 28*boxscore*PIT*@*CHC*W*3*2*None*26-31*5* 8.5*Mamaux*Lavender*None*None*D*None*+*None
+Wednesday, Jun 28*boxscore*PIT*@*CHC*W*3*2*18*27-31*5* 8.5*Cooper*McConnell*None*3:20*D*None*++*1916-06-26 (Rain)
+Friday, Jun 30*boxscore*PIT*@*CIN*W*3*2*None*28-31*5* 8.0*Harmon*Schneider*None*1:50*D*None*+++*None
+Saturday, Jul 1*boxscore*PIT*@*CIN*W*2*1*None*29-31*5* 6.5*Mamaux*Knetzer*None*1:23*D*None*++++*None
+Sunday, Jul 2*boxscore*PIT*@*CIN*L*2*3*None*29-32*5* 6.5*Toney*Miller*None*1:27*D*None*-*None
+Sunday, Jul 2*boxscore*PIT*@*CIN*W*6*1*5*30-32*5* 6.5*Kantlehner*Dale*None*None*D*6,000*+*1916-05-02 (Rain)
+Monday, Jul 3*boxscore*PIT*None*CHC*L*2*3*None*30-33*6* 7.5*Seaton*Cooper*Packard*2:07*D*None*-*1916-05-03 (Wet grounds)
+Tuesday, Jul 4*boxscore*PIT*None*CHC*L*0*5*None*30-34*5* 8.5*Vaughn*Kantlehner*None*1:45*D*None*--*None
+Tuesday, Jul 4*boxscore*PIT*None*CHC*W*1*0*None*31-34*5* 8.5*Mamaux*Prendergast*None*1:41*D*None*+*None
+Wednesday, Jul 5*boxscore*PIT*None*CHC*L*3*4*None*31-35*6* 9.0*Hendrix*Miller*Lavender*None*D*None*-*None
+Thursday, Jul 6*boxscore*PIT*None*NYG*L*6*12*None*31-36*6* 9.5*Perritt*Cooper*None*2:05*D*None*--*None
+Friday, Jul 7*boxscore*PIT*None*NYG*W*5*2*None*32-36*6* 9.5*Jacobs*Anderson*None*1:55*D*None*+*None
+Saturday, Jul 8*boxscore*PIT*None*NYG*L*4*6*None*32-37*6* 10.5*Benton*Mamaux*None*1:59*D*None*-*None
+Monday, Jul 10*boxscore*PIT*None*NYG*W*7*1*None*33-37*6* 9.5*Miller*Schauer*None*1:39*D*None*+*None
+Tuesday, Jul 11*boxscore*PIT*None*BSN*W*3*2*None*34-37*5* 9.5*Jacobs*Barnes*None*None*D*None*++*None
+Wednesday, Jul 12*boxscore*PIT*None*BSN*L*5*6*None*34-38*5* 10.0*Barnes*Mamaux*Hughes*None*D*None*-*None
+Friday, Jul 14*boxscore*PIT*None*BSN*L*0*3*None*34-39*6* 10.0*Ragan*Harmon*None*1:40*D*2,500*--*None
+Saturday, Jul 15*boxscore*PIT*None*PHI*L*0*4*None*34-40*6* 9.5*Alexander*Jacobs*None*1:18*D*None*---*None
+Saturday, Jul 15*boxscore*PIT*None*PHI*W*7*5*None*35-40*6* 9.5*Mamaux*Chalmers*Kantlehner*2:10*D*None*+*1916-05-17 (Cold)
+Wednesday, Jul 19*boxscore*PIT*None*BRO*W*1*0*None*36-40*5* 8.5*Kantlehner*Pfeffer*None*None*D*None*++*None
+Wednesday, Jul 19*boxscore*PIT*None*BRO*W*2*1*14*37-40*5* 8.5*Miller*Smith*None*3:01*D*None*+++*1916-05-22 (Wet grounds)
+Saturday, Jul 22*boxscore*PIT*None*BRO*L*1*7*None*37-41*6* 10.5*Pfeffer*Kantlehner*None*1:52*D*None*-*None
+Saturday, Jul 22*boxscore*PIT*None*BRO*L*2*3*15*37-42*6* 10.5*Marquard*Miller*None*2:59*D*None*--*1916-07-20 (Wet grounds)
+Monday, Jul 24*boxscore*PIT*None*PHI*W*9*1*None*38-42*6* 10.0*Mamaux*Demaree*None*1:52*D*None*+*None
+Wednesday, Jul 26*boxscore*PIT*@*PHI*L*1*7*None*38-43*5* 10.0*Alexander*Adams*None*None*D*None*-*None
+Wednesday, Jul 26*boxscore*PIT*@*PHI*W*5*2*None*39-43*5* 10.0*Miller*Rixey*None*None*D*12,000*+*1916-06-10 (Rain)
+Thursday, Jul 27*boxscore*PIT*@*PHI*L*4*5*None*39-44*6* 11.0*Chalmers*Harmon*None*None*D*3,500*-*None
+Friday, Jul 28*boxscore*PIT*@*PHI*L*2*5*None*39-45*6* 12.0*Bender*Jacobs*None*1:52*D*4,500*--*None
+Saturday, Jul 29*boxscore*PIT*@*NYG*L*3*4*11*39-46*6* 13.0*Perritt*Mamaux*None*None*D*None*---*None
+Saturday, Jul 29*boxscore*PIT*@*NYG*L*0*5*None*39-47*6* 13.0*Anderson*Kantlehner*None*1:45*D*25,000*----*1916-06-07 (Rain)
+Monday, Jul 31*boxscore*PIT*@*NYG*L*0*7*None*39-48*6* 15.0*Sallee*Miller*None*1:47*D*None*-----*None
+Monday, Jul 31*boxscore*PIT*@*NYG*L*0*7*None*39-49*6* 15.0*Tesreau*Jacobs*None*1:44*D*None*------*1916-06-08 (Rain)
+Tuesday, Aug 1*boxscore*PIT*@*NYG*W*4*3*10*40-49*6* 15.0*Cooper*Schupp*None*2:10*D*5,000*+*None
+Wednesday, Aug 2*boxscore*PIT*@*NYG*L*2*6*None*40-50*6* 16.0*Benton*Mamaux*None*None*D*None*-*None
+Thursday, Aug 3*boxscore*PIT*@*BRO*L*2*7*None*40-51*6* 17.0*Cheney*Miller*None*1:45*D*2,500*--*None
+Friday, Aug 4*boxscore*PIT*@*BRO*L*0*2*None*40-52*6* 18.0*Smith*Harmon*None*1:30*D*None*---*None
+Saturday, Aug 5*boxscore*PIT*@*BRO*L*0*4*None*40-53*6* 18.0*Marquard*Cooper*None*1:35*D*None*----*None
+Saturday, Aug 5*boxscore*PIT*@*BRO*W*7*1*None*41-53*6* 18.0*Mamaux*Pfeffer*None*2:00*D*None*+*1916-06-03 (Wet grounds)
+Friday, Aug 11*boxscore*PIT*@*BSN*W*2*1*None*42-53*6* 19.5*Miller*Barnes*None*2:00*D*None*++*1916-06-17 (Rain)
+Friday, Aug 11*boxscore*PIT*@*BSN*L*1*4*None*42-54*6* 19.5*Tyler*Mamaux*None*1:30*D*10,000*-*None
+Saturday, Aug 12*boxscore*PIT*None*CHC*W*3*0*None*43-54*5* 18.0*Cooper*Lavender*None*1:40*D*None*+*None
+Sunday, Aug 13*boxscore*PIT*@*STL*L*8*9*11*43-55*5* 18.0*Ames*Kantlehner*None*2:50*D*None*-*None
+Sunday, Aug 13*boxscore*PIT*@*STL*W*9*5*5*44-55*5* 18.0*Mamaux*Watson*None*None*D*None*+*1916-08-16 (Schedule change)
+Tuesday, Aug 15*boxscore*PIT*@*STL*W*1*0*None*45-55*5* 17.0*Harmon*Meadows*None*None*D*None*++*None
+Tuesday, Aug 15*boxscore*PIT*@*STL*W*2*1*None*46-55*5* 17.0*Cooper*Ames*None*1:59*D*None*+++*1916-08-14 (Wet grounds)
+Thursday, Aug 17*boxscore*PIT*None*BRO*L*1*5*None*46-56*5* 18.0*Pfeffer*Mamaux*None*None*D*None*-*None
+Friday, Aug 18*boxscore*PIT*None*BRO*L*0*6*None*46-57*5* 19.0*Cheney*Harmon*None*1:52*D*None*--*None
+Saturday, Aug 19*boxscore*PIT*None*BRO*W*2*1*10*47-57*5* 19.0*Cooper*Smith*None*2:00*D*None*+*None
+Saturday, Aug 19*boxscore*PIT*None*BRO*L*0*1*None*47-58*5* 19.0*Marquard*Kantlehner*None*None*D*None*-*1916-07-21 (Rain)
+Monday, Aug 21*boxscore*PIT*None*PHI*W*6*3*None*48-58*5* 18.0*Jacobs*Alexander*None*1:53*D*None*+*None
+Monday, Aug 21*boxscore*PIT*None*PHI*W*2*1*None*49-58*5* 18.0*Evans*Demaree*None*1:50*D*None*++*1916-07-17 (Wet grounds)
+Tuesday, Aug 22*boxscore*PIT*None*PHI*L*2*6*None*49-59*5* 18.5*Mayer*Harmon*McQuillan*2:07*D*None*-*None
+Tuesday, Aug 22*boxscore*PIT*None*PHI*W*9*7*None*50-59*5* 18.5*Cooper*Bender*None*1:56*D*None*+*1916-07-18 (Wet grounds)
+Wednesday, Aug 23*boxscore*PIT*None*PHI*W*2*1*16*51-59*5* 17.5*Evans*Rixey*None*2:51*D*1,000*++*None
+Thursday, Aug 24*boxscore*PIT*None*NYG*W*10*1*None*52-59*5* 16.5*Jacobs*Tesreau*None*2:06*D*None*+++*None
+Friday, Aug 25*boxscore*PIT*None*NYG*L*2*6*11*52-60*5* 17.5*Tesreau*Harmon*None*2:17*D*3,000*-*None
+Saturday, Aug 26*boxscore*PIT*None*NYG*T*1*1*14*52-60*5* 17.0*None*None*None*2:44*D*None*-*None
+Monday, Aug 28*boxscore*PIT*None*BSN*W*5*1*None*53-60*5* 17.0*Mamaux*Rudolph*None*2:09*D*None*+*None
+Monday, Aug 28*boxscore*PIT*None*BSN*L*2*8*7*53-61*5* 17.0*Allen*Kantlehner*None*1:52*D*5,000*-*1916-05-16 (Rain)
+Tuesday, Aug 29*boxscore*PIT*None*BSN*L*1*6*None*53-62*5* 18.5*Tyler*Jacobs*None*None*D*None*--*None
+Tuesday, Aug 29*boxscore*PIT*None*BSN*L*5*9*None*53-63*5* 18.5*Hughes*Kantlehner*None*None*D*7,000*---*1916-07-13 (Rain)
+Wednesday, Aug 30*boxscore*PIT*None*BSN*L*0*1*None*53-64*5* 19.0*Rudolph*Cooper*None*1:45*D*None*----*None
+Wednesday, Aug 30*boxscore*PIT*None*BSN*W*7*6*None*54-64*5* 19.0*Jacobs*Allen*Cooper*2:07*D*5,000*+*None
+Thursday, Aug 31*boxscore*PIT*None*BSN*W*3*2*8*55-64*5* 18.5*Mamaux*Nehf*None*None*D*2,000*++*None
+Friday, Sep 1*boxscore*PIT*None*CIN*L*3*6*None*55-65*5* 18.0*Toney*Jacobs*None*1:57*D*None*-*None
+Saturday, Sep 2*boxscore*PIT*None*CIN*W*4*3*None*56-65*5* 17.5*Harmon*Knetzer*None*None*D*None*+*1916-05-30 (Rain)
+Saturday, Sep 2*boxscore*PIT*None*CIN*L*2*7*None*56-66*5* 17.5*Moseley*Evans*Schulz*None*D*10,000*-*None
+Sunday, Sep 3*boxscore*PIT*@*CIN*L*6*7*None*56-67*5* 18.0*Mitchell*Mamaux*None*1:46*D*None*--*None
+Monday, Sep 4*boxscore*PIT*None*STL*W*7*0*None*57-67*5* 16.0*Miller*Meadows*None*1:39*D*5,000*+*None
+Monday, Sep 4*boxscore*PIT*None*STL*W*2*0*None*58-67*5* 16.0*Cooper*Watson*None*1:41*D*12,000*++*None
+Wednesday, Sep 6*boxscore*PIT*None*STL*W*3*2*None*59-67*5* 15.5*Kantlehner*Steele*None*1:45*D*None*+++*1916-09-05 (Rain)
+Wednesday, Sep 6*boxscore*PIT*None*STL*W*6*3*None*60-67*5* 15.5*Harmon*Ames*None*None*D*3,500*++++*1916-06-21 (Rain)
+Thursday, Sep 7*boxscore*PIT*None*CHC*W*5*4*None*61-67*5* 16.0*Mamaux*Packard*Cooper*None*D*None*+++++*None
+Saturday, Sep 9*boxscore*PIT*None*CHC*L*0*3*None*61-68*5* 17.0*Vaughn*Kantlehner*None*1:51*D*None*-*None
+Saturday, Sep 9*boxscore*PIT*None*CHC*L*0*2*None*61-69*5* 17.0*Lavender*Cooper*None*None*D*12,000*--*1916-09-08 (Rain)
+Sunday, Sep 10*boxscore*PIT*@*CHC*W*8*7*None*62-69*5* 16.5*Grimes*Prendergast*Mamaux*2:00*D*None*+*None
+Tuesday, Sep 12*boxscore*PIT*@*BRO*L*0*6*None*62-70*5* 16.0*Pfeffer*Evans*None*1:52*D*None*-*None
+Tuesday, Sep 12*boxscore*PIT*@*BRO*W*2*1*None*63-70*5* 16.0*Mamaux*Coombs*None*1:52*D*10,000*+*1916-08-07 (Rain)
+Wednesday, Sep 13*boxscore*PIT*@*BRO*W*6*3*None*64-70*5* 15.0*Cooper*Smith*None*1:44*D*None*++*None
+Thursday, Sep 14*boxscore*PIT*@*BRO*L*2*3*None*64-71*5* 16.0*Cheney*Grimes*None*1:56*D*None*-*None
+Friday, Sep 15*boxscore*PIT*@*BRO*L*1*8*5*64-72*5* 17.0*Marquard*Jacobs*None*0:50*D*None*--*None
+Saturday, Sep 16*boxscore*PIT*@*NYG*L*2*8*None*64-73*5* 18.5*Benton*Mamaux*None*1:40*D*None*---*None
+Saturday, Sep 16*boxscore*PIT*@*NYG*L*3*4*None*64-74*5* 18.5*Tesreau*Cooper*None*1:40*D*None*----*1916-06-09 (Wet grounds)
+Monday, Sep 18*boxscore*PIT*@*NYG*L*0*2*None*64-75*5* 19.0*Schupp*Miller*None*1:35*D*None*-----*None
+Monday, Sep 18*boxscore*PIT*@*NYG*T*1*1*8*64-75*5* 19.0*None*None*None*1:24*D*None*-----*None
+Tuesday, Sep 19*boxscore*PIT*@*NYG*L*2*9*None*64-76*5* 20.5*Benton*Jacobs*None*1:51*D*None*------*None
+Tuesday, Sep 19*boxscore*PIT*@*NYG*L*1*5*None*64-77*5* 20.5*Tesreau*Evans*None*1:45*D*None*-------*None
+Wednesday, Sep 20*boxscore*PIT*@*PHI*L*0*7*None*64-78*5* 22.0*Demaree*Cooper*None*1:42*D*None*--------*None
+Wednesday, Sep 20*boxscore*PIT*@*PHI*L*2*3*None*64-79*5* 22.0*Demaree*Mamaux*None*1:50*D*None*---------*1916-07-25 (Rain)
+Thursday, Sep 21*boxscore*PIT*@*PHI*W*8*3*None*65-79*5* 22.0*Grimes*Rixey*None*2:05*D*None*+*None
+Friday, Sep 22*boxscore*PIT*@*PHI*L*4*7*None*65-80*5* 23.0*Mayer*Evans*None*1:55*D*None*-*None
+Saturday, Sep 23*boxscore*PIT*@*BSN*L*2*4*None*65-81*5* 23.5*Rudolph*Mamaux*None*None*D*None*--*None
+Saturday, Sep 23*boxscore*PIT*@*BSN*T*1*1*13*65-81*5* 23.5*None*None*None*None*D*None*--*1916-06-17 (Rain)
+Monday, Sep 25*boxscore*PIT*@*BSN*L*0*5*None*65-82*5* 24.5*Tyler*Grimes*None*None*D*None*---*None
+Monday, Sep 25*boxscore*PIT*@*BSN*L*2*3*None*65-83*5* 24.5*Reulbach*Mamaux*None*None*D*None*----*1916-08-08 (Rain)
+Tuesday, Sep 26*boxscore*PIT*@*BSN*L*0*3*None*65-84*5* 26.0*Nehf*Evans*None*1:30*D*None*-----*None
+Tuesday, Sep 26*boxscore*PIT*@*BSN*L*1*2*None*65-85*5* 26.0*Allen*Jacobs*None*1:42*D*None*------*1916-08-09 (Rain)
+Wednesday, Sep 27*boxscore*PIT*@*BSN*L*0*1*None*65-86*5* 27.0*Tyler*Cooper*None*None*D*None*-------*1916-08-10 (Rain)
+Saturday, Sep 30*boxscore*PIT*None*CIN*L*4*5*None*65-87*6* 27.5*Mitchell*Mamaux*None*2:04*D*None*--------*None
+Saturday, Sep 30*boxscore*PIT*None*CIN*L*3*5*None*65-88*6* 27.5*Knetzer*Grimes*None*None*D*None*---------*1916-09-29 (Rain)
+Sunday, Oct 1*boxscore*PIT*@*CIN*L*0*4*None*65-89*6* 28.0*Toney*Cooper*None*1:29*D*None*----------*None

@@ -1,0 +1,154 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 16*boxscore*PIT*@*CIN*L*1*3*None*1-1*3* 0.5*Donohue*Brame*None*None*D*4,412*-*None
+Thursday, Apr 17*boxscore*PIT*@*CIN*W*7*1*None*2-1*1* Tied*French*Rixey*None*None*D*None*+*None
+Friday, Apr 18*boxscore*PIT*@*CIN*W*5*3*None*3-1*1*up 0.5*Petty*May*Swetonic*1:51*D*None*++*None
+Saturday, Apr 19*boxscore*PIT*@*STL*W*5*4*10*4-1*1*up 0.5*Kremer*Sherdel*None*None*D*None*+++*None
+Monday, Apr 21*boxscore*PIT*@*STL*W*6*4*None*5-1*1* Tied*Brame*Hill*None*None*D*None*++++*None
+Friday, Apr 25*boxscore*PIT*None*STL*W*6*1*None*6-1*1*up 0.5*Kremer*Sherdel*None*1:33*D*None*+++++*None
+Saturday, Apr 26*boxscore*PIT*None*STL*W*9*7*None*7-1*1* Tied*Brame*Hallahan*None*2:16*D*None*++++++*None
+Sunday, Apr 27*boxscore*PIT*@*CHC*W*9*5*None*8-1*1* Tied*French*Bush*Swetonic*2:25*D*None*+++++++*None
+Monday, Apr 28*boxscore*PIT*@*CHC*L*4*7*None*8-2*1* Tied*Root*Spencer*None*1:39*D*None*-*None
+Tuesday, Apr 29*boxscore*PIT*@*CHC*W*13*9*None*9-2*1*up 1.0*Erickson*Blake*Swetonic*2:16*D*None*+*None
+Wednesday, Apr 30*boxscore*PIT*@*CHC*L*2*5*None*9-3*1*up 1.0*Malone*Jones*None*1:41*D*None*-*None
+Thursday, May 1*boxscore*PIT*None*BSN*L*3*4*None*9-4*1*up 0.5*Seibold*French*None*1:45*D*None*--*None
+Friday, May 2*boxscore*PIT*None*BSN*W*3*2*None*10-4*1*up 1.5*Kremer*Cantwell*Petty*1:39*D*None*+*None
+Saturday, May 3*boxscore*PIT*None*BSN*L*7*12*None*10-5*1*up 0.5*Cunningham*Swetonic*None*2:06*D*None*-*None
+Monday, May 5*boxscore*PIT*None*NYG*L*1*9*None*10-6*1* Tied*Walker*French*None*1:43*D*5,000*--*None
+Tuesday, May 6*boxscore*PIT*None*NYG*L*9*11*None*10-7*3* 1.0*Hubbell*Kremer*Heving*1:55*D*None*---*None
+Wednesday, May 7*boxscore*PIT*None*NYG*W*16*8*None*11-7*2* 0.5*Swetonic*Parmelee*None*2:21*D*None*+*None
+Thursday, May 8*boxscore*PIT*None*NYG*L*10*13*10*11-8*3* 1.5*Walker*French*None*2:24*D*None*-*None
+Friday, May 9*boxscore*PIT*None*BRO*L*4*7*None*11-9*3* 2.5*Clark*Petty*Dudley*1:59*D*None*--*None
+Saturday, May 10*boxscore*PIT*None*BRO*L*0*7*None*11-10*3* 2.5*Elliott*Kremer*None*1:47*D*11,000*---*None
+Sunday, May 11*boxscore*PIT*@*BRO*L*2*10*None*11-11*4* 3.0*Vance*French*None*2:00*D*26,000*----*1930-07-14 (Schedule change)
+Monday, May 12*boxscore*PIT*None*BRO*W*6*2*None*12-11*3* 3.0*Brame*Dudley*None*2:18*D*2,000*+*None
+Tuesday, May 13*boxscore*PIT*None*PHI*L*8*14*None*12-12*6* 3.0*Benge*Petty*None*2:06*D*None*-*None
+Saturday, May 17*boxscore*PIT*None*CIN*W*7*5*None*13-12*5* 1.0*Kremer*Donohue*Swetonic*1:57*D*None*+*None
+Sunday, May 18*boxscore*PIT*@*CIN*W*2*1*None*14-12*5* 1.0*Brame*Frey*None*1:39*D*None*++*None
+Tuesday, May 20*boxscore*PIT*@*CIN*W*5*0*None*15-12*3* 1.0*French*Lucas*None*1:44*D*None*+++*None
+Wednesday, May 21*boxscore*PIT*None*CHC*W*10*3*None*16-12*3* 1.0*Kremer*Teachout*Meine*1:43*D*None*++++*None
+Thursday, May 22*boxscore*PIT*None*CHC*L*5*12*None*16-13*3* 1.5*Osborn*Petty*Moss*2:16*D*None*-*None
+Friday, May 23*boxscore*PIT*None*CHC*W*7*6*None*17-13*3* 1.0*Meine*Carlson*Spencer*2:14*D*None*+*None
+Saturday, May 24*boxscore*PIT*None*CHC*L*3*5*None*17-14*3* 2.5*Malone*French*None*None*D*None*-*None
+Sunday, May 25*boxscore*PIT*@*CIN*W*6*5*10*18-14*3* 3.0*Spencer*Kolp*None*1:59*D*None*+*None
+Sunday, May 25*boxscore*PIT*@*CIN*L*3*4*None*18-15*3* 3.0*Lucas*Chagnon*None*1:49*D*None*-*1930-05-19 (Rain)
+Monday, May 26*boxscore*PIT*None*STL*L*4*10*None*18-16*3* 4.0*Sherdel*Petty*Lindsey*2:03*D*None*--*None
+Tuesday, May 27*boxscore*PIT*None*STL*W*8*5*None*19-16*3* 3.0*French*Grabowski*None*1:56*D*None*+*None
+Friday, May 30*boxscore*PIT*None*CIN*L*1*9*None*19-17*3* 4.0*Lucas*Chagnon*None*1:47*D*None*-*None
+Friday, May 30*boxscore*PIT*None*CIN*W*7*6*None*20-17*3* 4.0*Kremer*Benton*Spencer*1:47*D*None*+*None
+Saturday, May 31*boxscore*PIT*None*CIN*L*4*10*None*20-18*4* 4.0*Rixey*French*Kolp*2:09*D*None*-*None
+Sunday, Jun 1*boxscore*PIT*@*CHC*L*4*16*None*20-19*4* 5.0*Bush*Meine*None*2:11*D*None*--*None
+Tuesday, Jun 3*boxscore*PIT*@*BRO*L*5*6*None*20-20*4* 6.0*Clark*Spencer*None*1:46*D*18,000*---*None
+Wednesday, Jun 4*boxscore*PIT*@*BRO*W*12*6*None*21-20*4* 5.0*French*Dudley*None*1:58*D*None*+*None
+Thursday, Jun 5*boxscore*PIT*@*BRO*L*5*6*None*21-21*4* 6.0*Elliott*Petty*Luque*2:28*D*None*-*None
+Friday, Jun 6*boxscore*PIT*@*BSN*W*4*3*None*22-21*3* 5.0*Meine*Cantwell*None*2:00*D*None*+*None
+Saturday, Jun 7*boxscore*PIT*@*BSN*L*4*6*None*22-22*4* 6.0*Zachary*Kremer*None*1:33*D*None*-*None
+Sunday, Jun 8*boxscore*PIT*@*BSN*L*6*10*None*22-23*4* 7.0*Seibold*French*None*1:49*D*None*--*None
+Wednesday, Jun 11*boxscore*PIT*@*NYG*L*2*9*None*22-24*5* 8.0*Hubbell*Meine*None*2:00*D*None*---*None
+Thursday, Jun 12*boxscore*PIT*@*NYG*W*10*7*None*23-24*5* 8.0*Kremer*Fitzsimmons*None*1:50*D*None*+*None
+Friday, Jun 13*boxscore*PIT*@*NYG*L*2*7*None*23-25*5* 8.0*Walker*French*None*1:44*D*None*-*None
+Saturday, Jun 14*boxscore*PIT*@*PHI*W*19*12*None*24-25*4* 8.5*Spencer*Smythe*None*2:27*D*None*+*None
+Saturday, Jun 14*boxscore*PIT*@*PHI*L*4*5*None*24-26*4* 8.5*Collins*Petty*None*1:59*D*None*-*None
+Monday, Jun 16*boxscore*PIT*@*PHI*L*14*18*None*24-27*5* 9.0*Collard*Kremer*Collins*None*D*None*--*None
+Tuesday, Jun 17*boxscore*PIT*@*PHI*L*4*5*10*24-28*6* 9.5*Nichols*French*None*1:53*D*None*---*None
+Wednesday, Jun 18*boxscore*PIT*None*NYG*L*3*4*None*24-29*6* 10.0*Walker*Meine*Pruett*2:15*D*None*----*None
+Friday, Jun 20*boxscore*PIT*None*NYG*W*8*4*None*25-29*6* 8.5*Kremer*Fitzsimmons*None*1:45*D*None*+*None
+Saturday, Jun 21*boxscore*PIT*None*NYG*L*5*6*10*25-30*5* 10.0*Donohue*Spencer*None*2:35*D*None*-*None
+Sunday, Jun 22*boxscore*PIT*@*BRO*L*6*9*None*25-31*6* 11.0*Luque*French*None*1:50*D*None*--*1930-09-19 (Schedule change)
+Monday, Jun 23*boxscore*PIT*None*BRO*L*6*19*None*25-32*6* 12.0*Elliott*Meine*None*2:07*D*None*---*None
+Wednesday, Jun 25*boxscore*PIT*None*BRO*W*5*1*None*26-32*6* 11.0*Kremer*Dudley*None*1:40*D*None*+*None
+Thursday, Jun 26*boxscore*PIT*None*PHI*W*1*0*None*27-32*5* 10.5*French*Collins*None*1:26*D*None*++*None
+Thursday, Jun 26*boxscore*PIT*None*PHI*W*11*5*None*28-32*5* 10.5*Brame*Collard*None*2:09*D*4,000*+++*1930-05-14 (Rain)
+Friday, Jun 27*boxscore*PIT*None*PHI*W*6*4*None*29-32*5* 9.5*Meine*Willoughby*None*1:41*D*None*++++*None
+Saturday, Jun 28*boxscore*PIT*None*PHI*W*6*3*None*30-32*5* 9.0*Spencer*Nichols*None*1:46*D*12,000*+++++*None
+Saturday, Jun 28*boxscore*PIT*None*PHI*L*4*6*None*30-33*5* 9.0*Benge*Chagnon*None*1:58*D*12,000*-*1930-05-15 (Rain)
+Monday, Jun 30*boxscore*PIT*None*BSN*L*5*6*None*30-34*6* 10.5*Cantwell*Kremer*Seibold*2:00*D*2,000*--*None
+Tuesday, Jul 1*boxscore*PIT*None*BSN*W*8*3*None*31-34*5* 9.5*French*Brandt*None*1:46*D*None*+*None
+Wednesday, Jul 2*boxscore*PIT*None*BSN*L*4*6*None*31-35*6* 9.5*Seibold*Brame*None*1:46*D*None*-*None
+Thursday, Jul 3*boxscore*PIT*None*BSN*L*0*8*None*31-36*6* 10.0*Smith*Spencer*None*1:45*D*None*--*None
+Friday, Jul 4*boxscore*PIT*None*CHC*L*1*10*None*31-37*6* 10.0*Teachout*Meine*None*1:51*D*12,000*---*None
+Friday, Jul 4*boxscore*PIT*None*CHC*W*5*1*None*32-37*6* 10.0*Kremer*Root*None*1:24*D*14,000*+*None
+Saturday, Jul 5*boxscore*PIT*None*CHC*L*3*12*None*32-38*6* 11.0*Osborn*French*None*None*D*None*-*None
+Sunday, Jul 6*boxscore*PIT*@*STL*L*1*2*None*32-39*6* 11.0*Haines*Spencer*None*1:39*D*None*--*None
+Sunday, Jul 6*boxscore*PIT*@*STL*L*4*12*None*32-40*6* 11.0*Grimes*Brame*None*2:10*D*None*---*1930-04-20 (Rain)
+Monday, Jul 7*boxscore*PIT*@*STL*W*9*5*None*33-40*6* 11.0*French*Haid*None*2:20*D*None*+*None
+Tuesday, Jul 8*boxscore*PIT*@*STL*W*10*5*None*34-40*6* 10.0*Kremer*Rhem*None*2:07*D*None*++*None
+Wednesday, Jul 9*boxscore*PIT*@*STL*L*6*7*None*34-41*6* 11.5*Haid*Meine*None*None*D*None*-*None
+Friday, Jul 11*boxscore*PIT*None*STL*W*6*2*None*35-41*6* 11.0*Brame*Hallahan*None*1:58*D*None*+*None
+Saturday, Jul 12*boxscore*PIT*None*STL*W*3*2*None*36-41*6* 11.0*Kremer*Haines*None*1:40*D*None*++*None
+Sunday, Jul 13*boxscore*PIT*@*BRO*W*1*0*None*37-41*6* 10.0*French*Elliott*None*1:41*D*18,000*+++*None
+Monday, Jul 14*boxscore*PIT*@*BRO*L*8*12*None*37-42*6* 11.0*Vance*Spencer*None*1:50*D*None*-*None
+Tuesday, Jul 15*boxscore*PIT*@*BRO*L*0*5*None*37-43*6* 12.0*Clark*Brame*None*1:30*D*None*--*None
+Wednesday, Jul 16*boxscore*PIT*@*BSN*L*3*4*None*37-44*6* 12.0*Zachary*Kremer*None*1:48*D*None*---*None
+Wednesday, Jul 16*boxscore*PIT*@*BSN*W*9*5*None*38-44*6* 12.0*Meine*Sherdel*None*2:05*D*None*+*1930-06-09 (Rain)
+Thursday, Jul 17*boxscore*PIT*@*BSN*W*6*2*None*39-44*6* 11.0*French*Cantwell*None*1:52*D*None*++*None
+Friday, Jul 18*boxscore*PIT*@*BSN*W*12*4*None*40-44*5* 10.0*Spencer*Seibold*None*2:18*D*None*+++*None
+Saturday, Jul 19*boxscore*PIT*@*BSN*W*9*4*None*41-44*5* 9.0*Brame*Smith*None*1:50*D*None*++++*None
+Monday, Jul 21*boxscore*PIT*@*PHI*L*2*7*None*41-45*5* 9.5*Sweetland*Kremer*None*1:23*D*None*-*None
+Tuesday, Jul 22*boxscore*PIT*@*PHI*L*5*11*None*41-46*5* 10.0*Collins*French*None*1:59*D*None*--*None
+Wednesday, Jul 23*boxscore*PIT*@*PHI*W*2*1*None*42-46*5* 9.5*Meine*Hansen*None*1:40*D*None*+*None
+Wednesday, Jul 23*boxscore*PIT*@*PHI*W*16*15*13*43-46*5* 9.5*French*Sweetland*None*3:41*D*None*++*None
+Thursday, Jul 24*boxscore*PIT*@*NYG*L*0*1*7*43-47*5* 10.0*Hubbell*Kremer*None*1:20*D*None*-*None
+Friday, Jul 25*boxscore*PIT*@*NYG*L*1*3*None*43-48*6* 11.0*Mitchell*French*None*1:35*D*None*--*None
+Saturday, Jul 26*boxscore*PIT*@*NYG*L*4*10*None*43-49*6* 12.0*Fitzsimmons*Brame*None*None*D*None*---*None
+Sunday, Jul 27*boxscore*PIT*@*NYG*W*10*8*None*44-49*5* 12.0*Meine*Walker*Swetonic*None*D*None*+*None
+Sunday, Jul 27*boxscore*PIT*@*NYG*W*8*4*None*45-49*5* 12.0*Spencer*Donohue*None*1:37*D*None*++*1930-06-10 (Rain)
+Tuesday, Jul 29*boxscore*PIT*None*STL*W*6*5*None*46-49*5* 11.5*Kremer*Grabowski*None*1:37*D*None*+++*None
+Wednesday, Jul 30*boxscore*PIT*None*STL*W*6*5*None*47-49*5* 12.0*Brame*Haines*None*1:42*D*3,000*++++*None
+Thursday, Jul 31*boxscore*PIT*None*STL*W*4*3*None*48-49*4* 11.0*French*Lindsey*None*1:48*D*None*+++++*1930-05-28 (Wet grounds)
+Friday, Aug 1*boxscore*PIT*@*CHC*L*7*10*None*48-50*5* 12.0*Osborn*Spencer*None*2:02*D*30,000*-*None
+Saturday, Aug 2*boxscore*PIT*@*CHC*W*14*8*None*49-50*5* 11.0*Kremer*Bush*None*None*D*None*+*None
+Sunday, Aug 3*boxscore*PIT*@*CHC*W*12*8*None*50-50*5* 11.0*Brame*Root*None*2:12*D*None*++*None
+Wednesday, Aug 6*boxscore*PIT*None*BRO*L*4*7*None*50-51*5* 12.0*Thurston*French*Heimach*1:57*D*None*-*None
+Thursday, Aug 7*boxscore*PIT*None*BRO*L*4*6*None*50-52*5* 13.0*Vance*Spencer*Clark*2:07*D*None*--*None
+Friday, Aug 8*boxscore*PIT*None*NYG*L*1*9*None*50-53*5* 14.5*Walker*Meine*None*1:53*D*None*---*None
+Friday, Aug 8*boxscore*PIT*None*NYG*L*2*7*None*50-54*5* 14.5*Hubbell*Brame*None*1:52*D*11,000*----*1930-06-19 (Wet grounds)
+Saturday, Aug 9*boxscore*PIT*None*NYG*L*6*10*None*50-55*5* 14.5*Pruett*Kremer*None*None*D*7,000*-----*None
+Monday, Aug 11*boxscore*PIT*None*NYG*W*8*5*None*51-55*5* 12.5*French*Chaplin*None*1:46*D*None*+*None
+Tuesday, Aug 12*boxscore*PIT*None*PHI*W*8*7*14*52-55*5* 12.0*Swetonic*Elliott*None*3:12*D*None*++*None
+Tuesday, Aug 12*boxscore*PIT*None*PHI*W*8*3*None*53-55*5* 12.0*Spencer*Sweetland*None*1:52*D*5,000*+++*1930-05-16 (Rain)
+Wednesday, Aug 13*boxscore*PIT*None*PHI*W*8*4*None*54-55*5* 11.0*Kremer*Collard*None*1:33*D*None*++++*None
+Friday, Aug 15*boxscore*PIT*None*PHI*L*5*7*None*54-56*5* 12.0*Collins*Meine*None*2:02*D*None*-*None
+Friday, Aug 15*boxscore*PIT*None*PHI*W*3*2*10*55-56*5* 12.0*Swetonic*Sweetland*None*2:05*D*None*+*1930-08-14 (Wet grounds)
+Saturday, Aug 16*boxscore*PIT*None*BRO*L*5*7*None*55-57*5* 12.5*Moss*Wood*Clark*2:13*D*None*-*None
+Saturday, Aug 16*boxscore*PIT*None*BRO*W*6*2*None*56-57*5* 12.5*Kremer*Thurston*None*None*D*None*+*1930-06-24 (Wet grounds)
+Sunday, Aug 17*boxscore*PIT*@*BRO*L*0*5*None*56-58*5* 13.5*Vance*French*None*None*D*18,000*-*1930-09-22 (Schedule change)
+Monday, Aug 18*boxscore*PIT*None*BRO*W*4*3*None*57-58*5* 13.5*Brame*Clark*None*1:33*D*None*+*None
+Tuesday, Aug 19*boxscore*PIT*None*BRO*W*8*0*None*58-58*5* 12.5*Swetonic*Phelps*None*1:31*D*None*++*None
+Wednesday, Aug 20*boxscore*PIT*None*BSN*W*5*0*None*59-58*5* 11.5*Kremer*Seibold*None*1:23*D*None*+++*None
+Friday, Aug 22*boxscore*PIT*None*BSN*W*10*3*None*60-58*5* 11.0*French*Zachary*None*1:36*D*None*++++*None
+Saturday, Aug 23*boxscore*PIT*None*BSN*W*5*0*None*61-58*5* 10.5*Wood*Smith*None*1:30*D*None*+++++*None
+Saturday, Aug 23*boxscore*PIT*None*BSN*W*2*1*None*62-58*5* 10.5*Brame*Cantwell*None*1:30*D*None*++++++*1930-08-21 (Wet grounds)
+Sunday, Aug 24*boxscore*PIT*@*CIN*W*9*6*None*63-58*5* 11.0*Kremer*Frey*None*1:39*D*None*+++++++*None
+Sunday, Aug 24*boxscore*PIT*@*CIN*L*0*2*None*63-59*5* 11.0*Kolp*Swetonic*None*1:25*D*9,000*-*1930-08-25 (Schedule change)
+Tuesday, Aug 26*boxscore*PIT*@*CHC*L*5*7*None*63-60*5* 12.0*Blake*French*None*1:40*D*25,000*--*None
+Wednesday, Aug 27*boxscore*PIT*@*CHC*W*10*8*None*64-60*5* 11.0*Brame*Root*None*2:08*D*None*+*None
+Thursday, Aug 28*boxscore*PIT*None*CIN*W*16*12*None*65-60*5* 9.5*Kremer*Lucas*Spencer*2:02*D*None*++*None
+Thursday, Aug 28*boxscore*PIT*None*CIN*W*11*2*None*66-60*5* 9.5*Swetonic*Frey*None*1:49*D*None*+++*1930-04-23 (Snow)
+Saturday, Aug 30*boxscore*PIT*None*CIN*W*5*0*None*67-60*5* 9.5*Wood*Kolp*None*1:29*D*None*++++*None
+Saturday, Aug 30*boxscore*PIT*None*CIN*W*3*2*None*68-60*5* 9.5*French*Benton*None*1:42*D*None*+++++*1930-04-24 (Cold)
+Sunday, Aug 31*boxscore*PIT*@*CIN*L*1*4*None*68-61*5* 9.5*Rixey*Brame*None*1:33*D*None*-*None
+Monday, Sep 1*boxscore*PIT*None*STL*L*6*11*None*68-62*5* 9.5*Rhem*Swetonic*None*2:00*D*8,000*--*None
+Monday, Sep 1*boxscore*PIT*None*STL*L*1*5*None*68-63*5* 9.5*Grimes*Kremer*None*1:36*D*12,000*---*None
+Wednesday, Sep 3*boxscore*PIT*None*CHC*W*9*6*None*69-63*5* 9.0*Spencer*Blake*Swetonic*1:50*D*5,000*+*None
+Thursday, Sep 4*boxscore*PIT*None*CHC*L*7*10*10*69-64*5* 10.0*Petty*Swetonic*Malone*2:16*D*None*-*None
+Friday, Sep 5*boxscore*PIT*None*CHC*W*8*7*None*70-64*5* 9.0*Brame*Osborn*None*None*D*None*+*None
+Saturday, Sep 6*boxscore*PIT*None*CHC*L*14*19*None*70-65*5* 10.0*Bush*Swetonic*Petty*None*D*None*-*None
+Sunday, Sep 7*boxscore*PIT*@*CHC*W*9*7*None*71-65*5* 9.0*Brame*Bush*None*2:16*D*35,000*+*None
+Wednesday, Sep 10*boxscore*PIT*@*BSN*L*0*5*None*71-66*5* 8.5*Zachary*Kremer*None*1:13*D*None*-*None
+Thursday, Sep 11*boxscore*PIT*@*BSN*W*5*2*None*72-66*5* 7.5*Brame*Sherdel*None*1:30*D*None*+*None
+Friday, Sep 12*boxscore*PIT*@*BSN*L*4*5*10*72-67*5* 8.5*Frankhouse*French*None*1:47*D*None*-*None
+Sunday, Sep 14*boxscore*PIT*@*NYG*W*8*6*10*73-67*5* 8.0*Spencer*Heving*None*2:16*D*None*+*None
+Sunday, Sep 14*boxscore*PIT*@*NYG*W*7*3*7*74-67*5* 8.0*Wood*Walker*French*1:35*D*30,000*++*1930-09-13 (Rain)
+Monday, Sep 15*boxscore*PIT*@*NYG*L*1*6*None*74-68*5* 9.0*Fitzsimmons*Swetonic*None*1:30*D*3,000*-*None
+Tuesday, Sep 16*boxscore*PIT*@*PHI*L*14*15*10*74-69*5* 9.0*Collins*Wood*None*2:35*D*None*--*None
+Wednesday, Sep 17*boxscore*PIT*@*PHI*W*12*5*None*75-69*5* 9.0*Brame*Collard*None*2:00*D*None*+*None
+Thursday, Sep 18*boxscore*PIT*@*PHI*W*6*5*None*76-69*5* 9.0*Kremer*Milligan*None*1:52*D*None*++*None
+Saturday, Sep 20*boxscore*PIT*@*BRO*W*6*2*None*77-69*5* 9.0*French*Elliott*Spencer*None*D*None*+++*None
+Sunday, Sep 21*boxscore*PIT*@*BRO*W*7*6*None*78-69*5* 8.5*Brame*Clark*None*2:10*D*None*++++*None
+Tuesday, Sep 23*boxscore*PIT*None*CIN*L*0*8*None*78-70*5* 10.5*May*Spencer*None*1:41*D*None*-*None
+Tuesday, Sep 23*boxscore*PIT*None*CIN*L*2*5*None*78-71*5* 10.5*Ash*Wood*None*1:35*D*None*--*1930-08-29 (Rain)
+Wednesday, Sep 24*boxscore*PIT*None*CIN*W*5*1*6*79-71*5* 10.0*French*Carroll*None*1:33*D*None*+*None
+Thursday, Sep 25*boxscore*PIT*@*STL*L*0*9*None*79-72*5* 11.0*Grimes*Kremer*None*1:38*D*20,000*-*None
+Friday, Sep 26*boxscore*PIT*@*STL*L*5*10*None*79-73*5* 12.0*Haines*Brame*None*1:55*D*10,000*--*None
+Saturday, Sep 27*boxscore*PIT*@*STL*W*11*8*None*80-73*5* 11.0*Wood*Kaufmann*None*1:49*D*None*+*None
+Sunday, Sep 28*boxscore*PIT*@*STL*L*1*3*None*80-74*5* 12.0*Dean*French*None*1:21*D*None*-*None

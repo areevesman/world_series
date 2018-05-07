@@ -1,0 +1,156 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 15*boxscore*PIT*@*CIN*L*1*2*None*1-1*3* 1.0*Benton*Harmon*None*1:30*D*3,000*-*None
+Friday, Apr 16*boxscore*PIT*@*CIN*L*2*4*None*1-2*5* 1.5*Douglas*Vance*Dale*1:45*D*None*--*None
+Saturday, Apr 17*boxscore*PIT*@*CIN*W*3*2*None*2-2*2* 1.5*Mamaux*Brown*None*1:58*D*None*+*None
+Sunday, Apr 18*boxscore*PIT*@*CHC*L*1*2*10*2-3*5* 2.0*Vaughn*Cooper*None*2:13*D*None*-*None
+Monday, Apr 19*boxscore*PIT*@*CHC*L*7*8*None*2-4*6* 3.0*Pierce*Harmon*None*2:28*D*None*--*None
+Tuesday, Apr 20*boxscore*PIT*@*CHC*W*8*6*None*3-4*5* 3.0*Mamaux*Cheney*McQuillan*2:08*D*2,000*+*None
+Thursday, Apr 22*boxscore*PIT*None*CIN*W*8*2*None*4-4*3* 3.5*Adams*Douglas*None*1:52*D*None*++*None
+Friday, Apr 23*boxscore*PIT*None*CIN*L*1*2*None*4-5*4* 4.5*Dale*Cooper*Benton*2:14*D*2,500*-*None
+Saturday, Apr 24*boxscore*PIT*None*CIN*T*1*1*8*4-5*5* 4.0*None*None*None*1:55*D*10,000*-*None
+Sunday, Apr 25*boxscore*PIT*@*STL*L*1*8*None*4-6*5* 4.5*Doak*Kantlehner*None*1:53*D*12,000*--*None
+Monday, Apr 26*boxscore*PIT*@*STL*L*0*3*None*4-7*6* 5.5*Perdue*Adams*None*1:40*D*None*---*None
+Tuesday, Apr 27*boxscore*PIT*@*STL*L*0*3*None*4-8*6* 6.5*Griner*Mamaux*None*1:40*D*None*----*None
+Wednesday, Apr 28*boxscore*PIT*@*STL*W*7*6*8*5-8*6* 6.5*Harmon*Sallee*Cooper*1:56*D*None*+*None
+Friday, Apr 30*boxscore*PIT*None*CHC*L*1*4*None*5-9*7* 6.0*Zabel*Cooper*None*1:45*D*None*-*None
+Saturday, May 1*boxscore*PIT*None*CHC*L*1*3*None*5-10*7* 7.0*Standridge*Adams*None*2:02*D*2,000*--*None
+Sunday, May 2*boxscore*PIT*@*CHC*L*1*7*8*5-11*7* 7.5*Vaughn*McQuillan*None*1:25*D*None*---*None
+Monday, May 3*boxscore*PIT*@*CHC*L*1*5*5*5-12*8* 7.5*Pierce*Cooper*Humphries*1:00*D*None*----*None
+Tuesday, May 4*boxscore*PIT*None*STL*W*4*3*8*6-12*7* 7.0*Harmon*Perdue*None*2:15*D*None*+*None
+Thursday, May 6*boxscore*PIT*None*STL*W*9*3*None*7-12*7* 6.5*Adams*Meadows*None*2:35*D*None*++*None
+Friday, May 7*boxscore*PIT*None*STL*W*6*4*None*8-12*6* 6.0*McQuillan*Doak*None*2:22*D*None*+++*None
+Saturday, May 8*boxscore*PIT*None*STL*W*3*2*None*9-12*5* 5.0*Mamaux*Robinson*None*2:45*D*None*++++*None
+Sunday, May 9*boxscore*PIT*@*CIN*W*8*3*None*10-12*5* 4.5*Harmon*Douglas*None*2:26*D*None*+++++*None
+Monday, May 10*boxscore*PIT*None*CHC*W*10*7*None*11-12*5* 3.5*Conzelman*Zabel*Adams*2:13*D*None*++++++*None
+Tuesday, May 11*boxscore*PIT*@*PHI*L*2*4*None*11-13*5* 4.5*Alexander*McQuillan*None*1:49*D*None*-*None
+Thursday, May 13*boxscore*PIT*@*PHI*W*3*1*None*12-13*4* 3.5*Harmon*Demaree*None*1:53*D*None*+*None
+Friday, May 14*boxscore*PIT*@*PHI*L*3*5*None*12-14*4* 4.5*Rixey*Adams*Mayer*1:57*D*None*-*None
+Saturday, May 15*boxscore*PIT*@*BSN*W*10*6*None*13-14*4* 4.5*Cooper*Rudolph*McQuillan*2:08*D*None*+*1915-05-15 (Delayed opening of Braves Field; Played at BOS; BSN home team)
+Tuesday, May 18*boxscore*PIT*@*BSN*L*2*3*None*13-15*5* 5.0*James*Harmon*None*1:44*D*None*-*1915-05-18 (Delayed opening of Braves Field; Played at BOS; BSN home team)
+Wednesday, May 19*boxscore*PIT*@*BSN*W*7*0*None*14-15*5* 4.0*Mamaux*Ragan*None*1:38*D*None*+*1915-05-19 (Delayed opening of Braves Field; Played at BOS; BSN home team)
+Thursday, May 20*boxscore*PIT*@*NYG*W*6*2*None*15-15*4* 3.0*Adams*Perritt*None*1:48*D*None*++*None
+Tuesday, May 25*boxscore*PIT*@*BRO*L*1*5*None*15-16*4* 4.0*Pfeffer*McQuillan*None*1:57*D*None*-*None
+Thursday, May 27*boxscore*PIT*@*BRO*L*0*2*None*15-17*5* 5.0*Dell*Cooper*None*1:53*D*None*--*None
+Friday, May 28*boxscore*PIT*@*BRO*W*3*1*None*16-17*5* 3.5*Mamaux*Coombs*None*1:52*D*None*+*None
+Saturday, May 29*boxscore*PIT*None*STL*T*0*0*5*16-17*6* 4.5*None*None*None*1:05*D*None*+*None
+Saturday, May 29*boxscore*PIT*None*STL*L*3*5*None*16-18*6* 4.5*Meadows*McQuillan*None*2:05*D*None*-*1915-05-05 (Cold)
+Sunday, May 30*boxscore*PIT*@*CIN*L*0*4*None*16-19*6* 5.5*Schneider*Harmon*None*1:33*D*None*--*None
+Monday, May 31*boxscore*PIT*None*CHC*W*1*0*None*17-19*4* 3.5*Cooper*Lavender*None*1:36*D*None*+*None
+Monday, May 31*boxscore*PIT*None*CHC*W*1*0*None*18-19*4* 3.5*Mamaux*Cheney*None*1:31*D*15,000*++*None
+Tuesday, Jun 1*boxscore*PIT*None*CHC*L*0*2*None*18-20*6* 4.5*Zabel*Adams*None*1:35*D*None*-*None
+Friday, Jun 4*boxscore*PIT*None*BRO*L*2*8*None*18-21*6* 5.0*Pfeffer*Cooper*None*1:44*D*None*--*None
+Saturday, Jun 5*boxscore*PIT*None*BRO*W*11*0*None*19-21*6* 4.0*Mamaux*Dell*None*1:45*D*5,000*+*None
+Monday, Jun 7*boxscore*PIT*None*BRO*W*6*1*None*20-21*5* 4.0*Adams*Coombs*None*1:31*D*None*++*None
+Tuesday, Jun 8*boxscore*PIT*None*BRO*L*3*4*None*20-22*5* 4.0*Smith*McQuillan*Pfeffer*1:45*D*1,800*-*None
+Wednesday, Jun 9*boxscore*PIT*None*BSN*W*7*3*None*21-22*5* 3.5*Mamaux*Tyler*None*2:10*D*None*+*None
+Thursday, Jun 10*boxscore*PIT*None*BSN*W*2*1*None*22-22*4* 3.0*Harmon*Hughes*None*1:43*D*None*++*None
+Saturday, Jun 12*boxscore*PIT*None*BSN*L*2*8*None*22-23*6* 3.5*Ragan*Adams*None*1:47*D*None*-*None
+Monday, Jun 14*boxscore*PIT*None*PHI*L*1*4*11*22-24*6* 4.5*Alexander*Mamaux*None*2:06*D*3,500*--*None
+Wednesday, Jun 16*boxscore*PIT*None*PHI*W*2*1*None*23-24*5* 3.5*Harmon*Chalmers*None*1:25*D*None*+*None
+Thursday, Jun 17*boxscore*PIT*None*NYG*L*1*3*None*23-25*5* 4.5*Marquard*McQuillan*None*1:52*D*None*-*None
+Friday, Jun 18*boxscore*PIT*None*NYG*W*7*5*None*24-25*4* 4.0*Mamaux*Perritt*Adams*2:03*D*None*+*None
+Saturday, Jun 19*boxscore*PIT*None*NYG*W*4*0*None*25-25*4* 4.0*Harmon*Tesreau*None*1:46*D*None*++*None
+Monday, Jun 21*boxscore*PIT*None*PHI*W*4*3*13*26-25*4* 4.0*Mamaux*Rixey*None*2:05*D*None*+++*None
+Tuesday, Jun 22*boxscore*PIT*@*CIN*W*3*1*None*27-25*4* 3.5*McQuillan*Schneider*None*1:40*D*None*++++*None
+Wednesday, Jun 23*boxscore*PIT*@*CIN*W*6*2*None*28-25*4* 3.5*Harmon*Benton*None*2:10*D*None*+++++*None
+Thursday, Jun 24*boxscore*PIT*None*CIN*L*3*5*None*28-26*4* 4.5*Toney*Mamaux*None*2:07*D*None*-*None
+Saturday, Jun 26*boxscore*PIT*None*CIN*W*6*3*None*29-26*4* 4.0*McQuillan*Dale*None*2:11*D*6,000*+*None
+Tuesday, Jun 29*boxscore*PIT*@*STL*W*8*5*None*30-26*4* 3.5*Adams*Meadows*None*2:45*D*None*++*None
+Tuesday, Jun 29*boxscore*PIT*@*STL*L*4*6*None*30-27*4* 3.5*Robinson*Cooper*Griner*1:45*D*10,000*-*1915-06-27 (Rain)
+Wednesday, Jun 30*boxscore*PIT*@*STL*L*0*2*None*30-28*4* 3.5*Doak*Adams*None*1:50*D*None*--*None
+Wednesday, Jun 30*boxscore*PIT*@*STL*W*4*2*10*31-28*4* 3.5*McQuillan*Sallee*None*2:23*D*8,000*+*1915-06-28 (Rain)
+Thursday, Jul 1*boxscore*PIT*@*CHC*W*4*0*None*32-28*3* 2.5*Mamaux*Vaughn*None*1:33*D*1,500*++*None
+Friday, Jul 2*boxscore*PIT*@*CHC*L*1*2*None*32-29*4* 3.5*Pierce*Harmon*None*2:00*D*2,000*-*None
+Saturday, Jul 3*boxscore*PIT*@*CHC*L*5*6*None*32-30*4* 3.5*Humphries*Cooper*Lavender*1:50*D*None*--*None
+Saturday, Jul 3*boxscore*PIT*@*CHC*W*4*2*None*33-30*4* 3.5*Adams*Zabel*None*2:07*D*12,000*+*1915-04-21 (Rain)
+Sunday, Jul 4*boxscore*PIT*@*CHC*L*5*8*None*33-31*3* 4.5*Cheney*McQuillan*Lavender*2:00*D*None*-*None
+Monday, Jul 5*boxscore*PIT*None*STL*L*1*3*None*33-32*3* 3.5*Doak*Mamaux*None*1:50*D*None*--*None
+Monday, Jul 5*boxscore*PIT*None*STL*W*5*0*None*34-32*3* 3.5*Harmon*Meadows*None*1:43*D*None*+*None
+Tuesday, Jul 6*boxscore*PIT*None*STL*L*1*2*None*34-33*4* 4.5*Griner*Kantlehner*None*1:50*D*1,200*-*None
+Wednesday, Jul 7*boxscore*PIT*None*CHC*L*4*7*None*34-34*4* 5.5*Lavender*Adams*None*1:59*D*None*--*None
+Thursday, Jul 8*boxscore*PIT*@*PHI*W*2*0*None*35-34*4* 5.0*Mamaux*Rixey*None*1:40*D*None*+*None
+Friday, Jul 9*boxscore*PIT*@*PHI*L*1*2*None*35-35*4* 5.0*Alexander*Harmon*None*1:18*D*None*-*None
+Saturday, Jul 10*boxscore*PIT*@*PHI*L*3*6*None*35-36*5* 4.5*Demaree*Adams*None*1:42*D*12,000*--*None
+Monday, Jul 12*boxscore*PIT*@*PHI*W*2*1*None*36-36*5* 3.0*McQuillan*Mayer*Cooper*1:55*D*None*+*None
+Monday, Jul 12*boxscore*PIT*@*PHI*W*4*2*None*37-36*5* 3.0*Mamaux*Chalmers*None*1:57*D*13,000*++*1915-05-12 (Rain)
+Tuesday, Jul 13*boxscore*PIT*@*BSN*W*3*1*None*38-36*5* 2.5*Kantlehner*Ragan*None*1:44*D*None*+++*1915-07-13 (Delayed opening of Braves Field; Played at BOS; BSN home team)
+Tuesday, Jul 13*boxscore*PIT*@*BSN*L*6*7*None*38-37*5* 2.5*Davis*Harmon*Hughes*2:02*D*None*-*1915-05-17 (Wet grounds; Delayed opening of Braves Field; Played at BOS; BSN home team)
+Thursday, Jul 15*boxscore*PIT*@*BSN*L*2*3*None*38-38*5* 4.0*Rudolph*Cooper*None*1:35*D*None*--*1915-07-15 (Delayed opening of Braves Field; Played at BOS; BSN home team)
+Friday, Jul 16*boxscore*PIT*@*BSN*L*5*6*15*38-39*5* 4.5*Hughes*Adams*None*2:53*D*None*---*1915-07-16 (Delayed opening of Braves Field; Played at BOS; BSN home team)
+Saturday, Jul 17*boxscore*PIT*@*BRO*W*5*3*None*39-39*4* 4.0*McQuillan*Smith*Kantlehner*1:42*D*None*+*None
+Saturday, Jul 17*boxscore*PIT*@*BRO*L*3*7*7*39-40*4* 4.0*Coombs*Conzelman*None*1:17*D*22,000*-*1915-05-26 (Wet grounds)
+Monday, Jul 19*boxscore*PIT*@*BRO*L*0*3*None*39-41*5* 5.0*Rucker*Kantlehner*None*1:33*D*None*--*None
+Tuesday, Jul 20*boxscore*PIT*@*BRO*W*6*2*None*40-41*4* 5.0*Harmon*Douglas*None*1:47*D*None*+*None
+Friday, Jul 23*boxscore*PIT*@*NYG*W*6*1*None*41-41*4* 4.0*Adams*Mathewson*None*1:48*D*None*++*None
+Friday, Jul 23*boxscore*PIT*@*NYG*W*4*3*None*42-41*4* 4.0*Mamaux*Tesreau*Cooper*2:00*D*15,000*+++*1915-05-21 (Rain)
+Saturday, Jul 24*boxscore*PIT*@*NYG*L*4*8*None*42-42*4* 6.0*Marquard*Harmon*None*1:58*D*None*-*None
+Saturday, Jul 24*boxscore*PIT*@*NYG*L*2*4*None*42-43*4* 6.0*Perritt*Cooper*None*1:45*D*None*--*1915-05-22 (Rain)
+Monday, Jul 26*boxscore*PIT*@*NYG*W*2*1*None*43-43*4* 7.0*Adams*Mathewson*None*1:30*D*None*+*None
+Monday, Jul 26*boxscore*PIT*@*NYG*L*0*3*None*43-44*4* 7.0*Tesreau*McQuillan*None*1:40*D*10,000*-*1915-05-24 (Rain)
+Tuesday, Jul 27*boxscore*PIT*None*NYG*W*8*1*None*44-44*3* 6.0*Mamaux*Marquard*None*1:56*D*4,000*+*None
+Thursday, Jul 29*boxscore*PIT*None*BRO*W*8*2*None*45-44*4* 5.5*Kantlehner*Pfeffer*None*1:46*D*2,500*++*None
+Friday, Jul 30*boxscore*PIT*None*BRO*L*2*3*None*45-45*4* 6.0*Rucker*Harmon*None*1:31*D*None*-*None
+Saturday, Jul 31*boxscore*PIT*None*BRO*W*5*0*None*46-45*3* 5.0*Mamaux*Appleton*None*1:30*D*None*+*None
+Saturday, Jul 31*boxscore*PIT*None*BRO*W*5*4*10*47-45*3* 5.0*McQuillan*Pfeffer*None*2:09*D*12,000*++*1915-07-28 (Rain)
+Tuesday, Aug 3*boxscore*PIT*None*BSN*L*4*5*None*47-46*5* 5.0*Ragan*Kantlehner*Hughes*2:13*D*None*-*None
+Tuesday, Aug 3*boxscore*PIT*None*BSN*L*2*7*None*47-47*5* 5.0*Tyler*Harmon*None*1:57*D*None*--*1915-06-11 (Wet grounds)
+Wednesday, Aug 4*boxscore*PIT*None*BSN*L*1*5*None*47-48*6* 5.5*Hughes*Mamaux*None*2:05*D*None*---*None
+Thursday, Aug 5*boxscore*PIT*None*PHI*W*1*0*None*48-48*6* 4.5*Adams*Alexander*None*1:35*D*None*+*None
+Friday, Aug 6*boxscore*PIT*None*PHI*L*4*5*None*48-49*6* 5.5*Demaree*McQuillan*Mayer*1:53*D*None*-*None
+Saturday, Aug 7*boxscore*PIT*None*PHI*W*9*0*None*49-49*5* 3.5*Mamaux*Mayer*None*1:37*D*None*+*None
+Saturday, Aug 7*boxscore*PIT*None*PHI*W*6*0*None*50-49*5* 3.5*Harmon*Rixey*None*1:39*D*None*++*1915-06-15 (Rain)
+Tuesday, Aug 10*boxscore*PIT*None*NYG*W*8*2*None*51-49*3* 3.0*Adams*Marquard*None*1:22*D*None*+++*None
+Thursday, Aug 12*boxscore*PIT*None*NYG*W*4*0*None*52-49*3* 2.5*Mamaux*Tesreau*None*1:20*D*None*++++*None
+Friday, Aug 13*boxscore*PIT*None*CIN*L*3*4*None*52-50*4* 3.5*McKenry*Harmon*None*1:38*D*None*-*None
+Saturday, Aug 14*boxscore*PIT*None*CIN*L*4*5*11*52-51*4* 5.0*Lear*Kantlehner*None*2:20*D*None*--*None
+Saturday, Aug 14*boxscore*PIT*None*CIN*L*0*6*None*52-52*4* 5.0*Toney*McQuillan*None*1:36*D*None*---*1915-06-25 (Rain)
+Sunday, Aug 15*boxscore*PIT*@*CIN*L*2*6*None*52-53*5* 6.0*Dale*Cooper*None*1:53*D*None*----*None
+Sunday, Aug 15*boxscore*PIT*@*CIN*L*2*6*None*52-54*5* 6.0*McKenry*Harmon*None*1:22*D*None*-----*1915-08-16 (Schedule change)
+Monday, Aug 16*boxscore*PIT*None*CIN*W*5*4*None*53-54*4* 6.0*Kantlehner*Lear*None*1:47*D*None*+*None
+Tuesday, Aug 17*boxscore*PIT*None*CHC*L*4*6*None*53-55*5* 6.0*Zabel*Cooper*None*1:30*D*None*-*None
+Wednesday, Aug 18*boxscore*PIT*@*PHI*W*8*4*None*54-55*5* 5.0*Adams*Mayer*None*2:00*D*None*+*None
+Thursday, Aug 19*boxscore*PIT*@*PHI*W*8*3*None*55-55*4* 4.0*Harmon*Demaree*None*1:45*D*None*++*None
+Friday, Aug 20*boxscore*PIT*@*PHI*L*3*4*11*55-56*5* 5.0*Alexander*Cooper*None*1:52*D*None*-*None
+Saturday, Aug 21*boxscore*PIT*@*BSN*L*1*3*None*55-57*5* 7.0*Rudolph*Kantlehner*None*1:45*D*None*--*None
+Saturday, Aug 21*boxscore*PIT*@*BSN*L*0*2*None*55-58*5* 7.0*Nehf*Mamaux*None*2:08*D*20,000*---*1915-07-14 (Rain)
+Monday, Aug 23*boxscore*PIT*@*BSN*L*2*3*None*55-59*5* 7.5*Hughes*Adams*None*2:00*D*None*----*None
+Tuesday, Aug 24*boxscore*PIT*@*BSN*L*0*10*None*55-60*6* 7.5*Ragan*Cooper*None*1:45*D*None*-----*None
+Wednesday, Aug 25*boxscore*PIT*@*NYG*L*3*5*None*55-61*6* 8.5*Perritt*Harmon*None*1:34*D*None*------*None
+Wednesday, Aug 25*boxscore*PIT*@*NYG*W*9*7*None*56-61*6* 8.5*Mamaux*Benton*Kantlehner*2:02*D*None*+*1915-07-22 (Rain)
+Thursday, Aug 26*boxscore*PIT*@*NYG*W*2*1*None*57-61*5* 8.5*Kantlehner*Stroud*None*1:37*D*None*++*None
+Friday, Aug 27*boxscore*PIT*@*NYG*L*1*2*None*57-62*6* 9.5*Mathewson*Adams*None*1:16*D*None*-*None
+Saturday, Aug 28*boxscore*PIT*@*BRO*L*1*2*None*57-63*7* 10.5*Rucker*Harmon*None*1:56*D*None*--*None
+Saturday, Aug 28*boxscore*PIT*@*BRO*L*0*3*None*57-64*7* 10.5*Pfeffer*Kantlehner*None*1:56*D*13,000*---*1915-07-21 (Rain)
+Tuesday, Aug 31*boxscore*PIT*@*BRO*W*5*3*None*58-64*7* 11.0*Kelly*Coombs*Cooper*2:05*D*None*+*None
+Tuesday, Aug 31*boxscore*PIT*@*BRO*L*2*3*None*58-65*7* 11.0*Marquard*Kantlehner*None*1:50*D*None*-*1915-08-30 (Rain)
+Wednesday, Sep 1*boxscore*PIT*None*STL*L*0*4*None*58-66*7* 10.5*Sallee*Adams*None*1:45*D*None*--*None
+Wednesday, Sep 1*boxscore*PIT*None*STL*W*7*0*None*59-66*7* 10.5*Harmon*Perdue*None*1:45*D*None*+*None
+Thursday, Sep 2*boxscore*PIT*None*STL*L*2*7*None*59-67*7* 12.0*Doak*Kelly*None*1:46*D*None*-*None
+Friday, Sep 3*boxscore*PIT*None*CHC*W*4*1*None*60-67*7* 11.0*Mamaux*Humphries*None*1:33*D*None*+*None
+Saturday, Sep 4*boxscore*PIT*None*CHC*L*2*5*None*60-68*6* 11.5*Vaughn*Kantlehner*None*1:40*D*None*-*None
+Saturday, Sep 4*boxscore*PIT*None*CHC*W*2*1*12*61-68*6* 11.5*Adams*Lavender*None*1:53*D*7,000*+*1915-06-02 (Rain)
+Sunday, Sep 5*boxscore*PIT*@*CHC*W*13*2*None*62-68*6* 11.0*Cooper*Adams*None*1:45*D*None*++*None
+Monday, Sep 6*boxscore*PIT*None*CIN*L*0*3*None*62-69*7* 10.0*Schneider*Mamaux*None*1:34*D*None*-*None
+Monday, Sep 6*boxscore*PIT*None*CIN*W*5*2*None*63-69*7* 10.0*Harmon*McKenry*None*1:25*D*8,000*+*None
+Tuesday, Sep 7*boxscore*PIT*None*CIN*L*3*6*None*63-70*7* 10.0*Toney*Adams*None*1:50*D*None*-*None
+Friday, Sep 10*boxscore*PIT*None*BSN*W*8*1*None*64-70*6* 12.0*Adams*Nehf*None*1:44*D*None*+*None
+Friday, Sep 10*boxscore*PIT*None*BSN*L*2*3*10*64-71*6* 12.0*Rudolph*Kantlehner*None*1:52*D*4,500*-*1915-08-02 (Rain)
+Saturday, Sep 11*boxscore*PIT*None*PHI*L*2*3*None*64-72*7* 13.0*Mayer*Harmon*None*1:52*D*None*--*None
+Monday, Sep 13*boxscore*PIT*None*PHI*L*2*4*13*64-73*7* 14.0*Alexander*Cooper*None*2:29*D*None*---*None
+Tuesday, Sep 14*boxscore*PIT*None*PHI*L*3*4*None*64-74*7* 15.0*Chalmers*Adams*None*1:51*D*None*----*None
+Wednesday, Sep 15*boxscore*PIT*None*PHI*W*1*0*None*65-74*7* 14.0*Kantlehner*Mayer*None*1:28*D*None*+*None
+Thursday, Sep 16*boxscore*PIT*None*NYG*L*4*8*None*65-75*7* 15.0*Tesreau*Harmon*None*2:03*D*None*-*None
+Friday, Sep 17*boxscore*PIT*None*NYG*W*9*6*None*66-75*7* 13.5*Cooper*Benton*None*1:43*D*None*+*None
+Friday, Sep 17*boxscore*PIT*None*NYG*W*5*0*None*67-75*7* 13.5*Hill*Perritt*None*1:37*D*None*++*1915-08-09 (Rain)
+Saturday, Sep 18*boxscore*PIT*None*NYG*W*8*2*None*68-75*7* 14.0*Mamaux*Mathewson*None*1:46*D*None*+++*None
+Saturday, Sep 18*boxscore*PIT*None*NYG*L*2*7*None*68-76*7* 14.0*Tesreau*Kantlehner*None*1:25*D*None*-*1915-08-11 (Rain)
+Monday, Sep 20*boxscore*PIT*None*BRO*W*1*0*None*69-76*6* 13.5*Harmon*Pfeffer*None*1:29*D*None*+*None
+Wednesday, Sep 22*boxscore*PIT*None*BRO*L*2*4*None*69-77*4* 14.5*Rucker*Cooper*None*1:25*D*None*-*None
+Wednesday, Sep 22*boxscore*PIT*None*BRO*W*2*1*None*70-77*4* 14.5*Hill*Cheney*None*1:47*D*None*+*1915-09-21 (Cold)
+Thursday, Sep 23*boxscore*PIT*None*BSN*W*8*4*None*71-77*4* 15.0*Cooper*Rudolph*None*2:03*D*None*++*None
+Friday, Sep 24*boxscore*PIT*None*BSN*L*0*2*None*71-78*4* 15.5*Nehf*Kantlehner*None*1:52*D*None*-*None
+Saturday, Sep 25*boxscore*PIT*None*BSN*L*2*5*None*71-79*4* 16.5*Hughes*Harmon*None*1:52*D*None*--*None
+Thursday, Sep 30*boxscore*PIT*@*STL*W*6*5*10*72-79*4* 16.5*Harmon*Perdue*None*2:08*D*None*+*None
+Friday, Oct 1*boxscore*PIT*@*STL*L*3*6*None*72-80*4* 17.5*Doak*Hill*Sallee*1:53*D*None*-*None
+Saturday, Oct 2*boxscore*PIT*@*STL*L*1*3*None*72-81*6* 18.0*Ames*Mamaux*None*1:38*D*None*--*None
+Sunday, Oct 3*boxscore*PIT*@*CIN*W*5*3*None*73-81*5* 17.5*Adams*Schneider*None*1:38*D*None*+*None

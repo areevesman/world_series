@@ -1,0 +1,152 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Friday, Apr 21*boxscore*BOS*None*PHA*W*9*2*None*1-1*4* 1.0*Bagby*Parmelee*None*1:51*D*15,000*+*None
+Saturday, Apr 22*boxscore*BOS*None*PHA*W*5*2*None*2-1*2* 0.5*Rich*Ross*None*2:00*D*10,300*++*None
+Sunday, Apr 23*boxscore*BOS*None*PHA*L*8*12*None*2-2*4* 1.0*Smith*Heving*Parmelee*2:55*D*12,000*-*None
+Monday, Apr 24*boxscore*BOS*None*WSH*L*9*10*10*2-3*4* 2.0*Haynes*Bagby*None*2:53*D*2,000*--*None
+Tuesday, Apr 25*boxscore*BOS*None*WSH*W*6*5*11*3-3*4* 2.0*Heving*Krakauskas*None*2:53*D*4,000*+*None
+Saturday, Apr 29*boxscore*BOS*@*PHA*W*3*2*None*4-3*2* 1.0*Wilson*Parmelee*Ostermueller*2:20*D*3,000*++*None
+Sunday, Apr 30*boxscore*BOS*@*PHA*W*3*1*None*5-3*1* Tied*Bagby*Caster*None*1:49*D*8,000*+++*None
+Wednesday, May 3*boxscore*BOS*@*CLE*W*5*1*None*6-3*2* 0.5*Auker*Hudlin*None*1:59*D*5,000*++++*None
+Thursday, May 4*boxscore*BOS*@*DET*W*7*6*None*7-3*2* 0.5*Heving*Lawson*None*2:25*D*5,550*+++++*None
+Friday, May 5*boxscore*BOS*@*DET*W*4*1*None*8-3*1*up 0.5*Rich*Rowe*None*1:45*D*8,592*++++++*None
+Saturday, May 6*boxscore*BOS*@*DET*W*5*4*None*9-3*1*up 0.5*Grove*Gill*None*1:55*D*14,802*+++++++*None
+Sunday, May 7*boxscore*BOS*@*SLB*L*3*6*None*9-4*2* 0.5*Newsom*Auker*None*2:12*D*8,205*-*None
+Tuesday, May 9*boxscore*BOS*@*SLB*W*10*8*10*10-4*1* Tied*Heving*Cole*Wilson*2:51*D*1,589*+*None
+Thursday, May 11*boxscore*BOS*@*CHW*L*2*3*None*10-5*2* 1.5*Lyons*Rich*None*1:53*D*4,000*-*None
+Sunday, May 14*boxscore*BOS*@*WSH*W*5*4*12*11-5*2* 1.5*Grove*Carrasquel*Heving*2:56*D*17,000*+*None
+Monday, May 15*boxscore*BOS*@*WSH*W*9*2*None*12-5*2* 1.5*Ostermueller*Chase*None*1:56*D*3,000*++*None
+Tuesday, May 16*boxscore*BOS*None*CHW*W*18*4*None*13-5*2* 1.5*Rich*Rigney*None*2:07*D*5,800*+++*None
+Wednesday, May 17*boxscore*BOS*None*CHW*L*3*6*10*13-6*2* 2.5*Dietrich*Wilson*Brown*2:05*D*5,200*-*None
+Thursday, May 18*boxscore*BOS*None*CHW*W*5*3*None*14-6*2* 2.5*Auker*Whitehead*Heving*1:55*D*3,500*+*None
+Friday, May 19*boxscore*BOS*None*SLB*W*15*7*None*15-6*2* 2.5*Bagby*Gill*None*2:10*D*4,800*++*None
+Saturday, May 20*boxscore*BOS*None*SLB*L*5*9*None*15-7*2* 3.5*Kramer*Galehouse*None*2:29*D*9,800*-*None
+Sunday, May 21*boxscore*BOS*None*DET*W*8*3*None*16-7*2* 3.5*Grove*Bridges*None*2:10*D*24,000*+*None
+Tuesday, May 23*boxscore*BOS*None*DET*L*2*7*None*16-8*2* 4.5*Newsom*Rich*None*2:10*D*2,500*-*None
+Wednesday, May 24*boxscore*BOS*None*CLE*L*2*6*None*16-9*2* 4.5*Hudlin*Wilson*None*1:51*D*4,000*--*None
+Thursday, May 25*boxscore*BOS*None*CLE*L*0*11*None*16-10*2* 5.5*Feller*Auker*None*2:05*None*5,600*---*None
+Friday, May 26*boxscore*BOS*None*WSH*W*4*2*None*17-10*2* 5.5*Rich*Leonard*Heving*1:46*D*2,600*+*None
+Saturday, May 27*boxscore*BOS*None*WSH*W*11*4*None*18-10*2* 5.5*Grove*DeShong*None*2:00*D*14,000*++*None
+Saturday, May 27*boxscore*BOS*None*WSH*W*7*6*None*19-10*2* 5.5*Wilson*Appleton*None*1:53*D*12,000*+++*1939-04-26 (Rain)
+Sunday, May 28*boxscore*BOS*None*WSH*W*12*7*None*20-10*2* 5.5*Galehouse*Haynes*None*1:59*D*12,000*++++*None
+Monday, May 29*boxscore*BOS*None*NYY*L*1*6*None*20-11*2* 6.5*Hadley*Bagby*Murphy*2:10*D*17,000*-*None
+Tuesday, May 30*boxscore*BOS*None*NYY*W*8*4*None*21-11*2* 6.5*Weaver*Ruffing*None*2:00*D*None*+*None
+Tuesday, May 30*boxscore*BOS*None*NYY*L*9*17*None*21-12*2* 6.5*Pearson*Wilson*Murphy*2:22*D*35,000*-*None
+Thursday, Jun 1*boxscore*BOS*@*DET*W*14*5*None*22-12*2* 6.5*Auker*Newsom*None*2:34*D*6,871*+*None
+Friday, Jun 2*boxscore*BOS*@*DET*L*5*8*None*22-13*2* 7.5*Benton*Galehouse*Bridges*2:19*D*3,914*-*None
+Sunday, Jun 4*boxscore*BOS*@*CLE*L*2*10*None*22-14*2* 8.5*Feller*Bagby*None*2:25*D*None*--*None
+Sunday, Jun 4*boxscore*BOS*@*CLE*W*7*1*None*23-14*2* 8.5*Grove*Hudlin*None*2:09*D*22,936*+*1939-07-14 (Schedule change)
+Monday, Jun 5*boxscore*BOS*@*CLE*L*5*7*None*23-15*2* 8.5*Allen*Ostermueller*None*2:04*D*1,300*-*None
+Tuesday, Jun 6*boxscore*BOS*@*CLE*L*7*8*None*23-16*2* 8.5*Zuber*Heving*None*2:05*D*2,000*--*None
+Thursday, Jun 8*boxscore*BOS*@*SLB*W*8*7*None*24-16*2* 9.0*Dickman*Whitehead*None*2:16*D*1,000*+*None
+Friday, Jun 9*boxscore*BOS*@*SLB*W*4*3*None*25-16*2* 8.0*Ostermueller*Kennedy*None*1:55*D*876*++*None
+Friday, Jun 9*boxscore*BOS*@*SLB*W*18*7*None*26-16*2* 8.0*Wilson*Kramer*Weaver*2:35*D*876*+++*1939-05-08 (Rain)
+Sunday, Jun 11*boxscore*BOS*@*CHW*L*5*7*None*26-17*2* 9.0*Lyons*Grove*None*1:43*D*None*-*None
+Sunday, Jun 11*boxscore*BOS*@*CHW*W*4*3*None*27-17*2* 9.0*Auker*Dietrich*None*1:53*D*10,000*+*1939-06-12 (Schedule change)
+Wednesday, Jun 14*boxscore*BOS*None*DET*L*8*9*None*27-18*2* 9.5*Thomas*Dickman*None*2:18*D*7,600*-*None
+Wednesday, Jun 14*boxscore*BOS*None*DET*L*2*6*None*27-19*2* 9.5*Trout*Galehouse*Newsom*2:00*D*7,000*--*1939-05-22 (Rain)
+Thursday, Jun 15*boxscore*BOS*None*DET*L*3*6*None*27-20*2* 10.5*Bridges*Wilson*None*2:16*D*3,300*---*None
+Friday, Jun 16*boxscore*BOS*None*DET*L*7*8*None*27-21*2* 11.5*Benton*Auker*Walkup*2:10*D*2,700*----*None
+Sunday, Jun 18*boxscore*BOS*None*CLE*W*5*4*None*28-21*2* 10.5*Ostermueller*Feller*None*2:34*D*None*+*1939-06-17 (Wet grounds)
+Sunday, Jun 18*boxscore*BOS*None*CLE*W*5*3*8*29-21*2* 10.5*Grove*Hudlin*None*1:45*D*32,000*++*None
+Tuesday, Jun 20*boxscore*BOS*None*SLB*W*8*1*None*30-21*2* 11.0*Auker*Kimberlin*None*1:40*D*1,500*+++*None
+Wednesday, Jun 21*boxscore*BOS*None*SLB*L*0*6*None*30-22*2* 12.0*Kramer*Heving*None*1:51*D*3,400*-*None
+Thursday, Jun 22*boxscore*BOS*None*SLB*W*7*3*None*31-22*2* 12.0*Wilson*Whitehead*None*1:54*D*2,200*+*None
+Saturday, Jun 24*boxscore*BOS*None*CHW*L*6*14*None*31-23*2* 13.0*Marcum*Bagby*None*2:22*D*5,500*-*None
+Monday, Jun 26*boxscore*BOS*@*WSH*W*3*0*None*32-23*2* 12.0*Grove*Haynes*None*1:42*D*3,500*+*None
+Tuesday, Jun 27*boxscore*BOS*@*WSH*W*8*0*None*33-23*2* 11.5*Auker*Kelley*None*2:30*D*1,500*++*None
+Thursday, Jun 29*boxscore*BOS*None*PHA*L*6*8*None*33-24*2* 13.0*Potter*Wilson*Pippen*2:01*D*2,000*-*None
+Saturday, Jul 1*boxscore*BOS*None*NYY*W*5*3*None*34-24*2* 12.5*Ostermueller*Russo*None*1:58*D*11,000*+*None
+Sunday, Jul 2*boxscore*BOS*None*NYY*W*7*3*None*35-24*2* 12.5*Grove*Gomez*None*1:53*D*None*++*None
+Sunday, Jul 2*boxscore*BOS*None*NYY*L*3*9*None*35-25*2* 12.5*Hadley*Auker*None*2:00*D*35,000*-*1939-04-27 (Cold)
+Tuesday, Jul 4*boxscore*BOS*@*PHA*W*17*7*None*36-25*2* 11.5*Heving*Pippen*None*2:31*D*None*+*None
+Tuesday, Jul 4*boxscore*BOS*@*PHA*W*18*12*None*37-25*2* 11.5*Galehouse*Dean*None*2:30*D*22,030*++*None
+Wednesday, Jul 5*boxscore*BOS*@*PHA*W*6*4*None*38-25*2* 11.5*Auker*Potter*Ostermueller*1:59*D*8,000*+++*None
+Friday, Jul 7*boxscore*BOS*@*NYY*W*4*3*None*39-25*2* 10.5*Dickman*Ruffing*None*2:09*D*6,588*++++*None
+Saturday, Jul 8*boxscore*BOS*@*NYY*W*3*1*None*40-25*2* 8.5*Ostermueller*Hildebrand*None*2:00*D*27,539*+++++*None
+Saturday, Jul 8*boxscore*BOS*@*NYY*W*3*2*None*41-25*2* 8.5*Galehouse*Russo*None*1:53*D*27,539*++++++*1939-04-18 (Rain)
+Sunday, Jul 9*boxscore*BOS*@*NYY*W*4*3*None*42-25*2* 6.5*Dickman*Pearson*None*2:11*D*None*+++++++*None
+Sunday, Jul 9*boxscore*BOS*@*NYY*W*5*3*None*43-25*2* 6.5*Wilson*Hadley*Heving*2:55*D*47,652*++++++++*1939-04-19 (Rain)
+Thursday, Jul 13*boxscore*BOS*@*CLE*W*6*5*10*44-25*2* 5.5*Heving*Harder*Rich*1:53*D*35,000*+++++++++*None
+Saturday, Jul 15*boxscore*BOS*@*CLE*W*9*5*None*45-25*2* 6.0*Dickman*Broaca*None*1:55*D*12,000*++++++++++*None
+Sunday, Jul 16*boxscore*BOS*@*DET*W*9*2*None*46-25*2* 6.0*Grove*Benton*None*1:58*D*None*+++++++++++*None
+Sunday, Jul 16*boxscore*BOS*@*DET*W*3*0*None*47-25*2* 6.0*Galehouse*Trout*None*1:39*D*48,152*++++++++++++*1939-06-03 (Rain)
+Monday, Jul 17*boxscore*BOS*@*DET*L*6*13*None*47-26*2* 7.0*Newsom*Rich*None*2:21*D*5,860*-*None
+Tuesday, Jul 18*boxscore*BOS*@*CHW*W*13*10*None*48-26*2* 8.0*Heving*Dobernic*None*2:33*D*None*+*None
+Tuesday, Jul 18*boxscore*BOS*@*CHW*L*5*8*None*48-27*2* 8.0*Brown*Dickman*None*2:33*D*7,000*-*1939-05-10 (Cold)
+Wednesday, Jul 19*boxscore*BOS*@*CHW*L*1*4*None*48-28*2* 9.0*Knott*Wade*None*2:16*D*13,000*--*None
+Wednesday, Jul 19*boxscore*BOS*@*CHW*L*0*8*None*48-29*2* 9.0*Rigney*Ostermueller*None*2:23*D*13,000*---*1939-06-10 (Rain)
+Thursday, Jul 20*boxscore*BOS*@*CHW*L*0*4*None*48-30*2* 10.0*Lee*Galehouse*None*1:46*D*5,000*----*None
+Friday, Jul 21*boxscore*BOS*@*SLB*W*6*5*11*49-30*2* 9.0*Ostermueller*Gill*None*2:25*D*714*+*None
+Saturday, Jul 22*boxscore*BOS*@*SLB*W*6*3*None*50-30*2* 8.5*Wilson*Kramer*None*2:02*D*3,016*++*None
+Sunday, Jul 23*boxscore*BOS*@*SLB*W*13*5*None*51-30*2* 7.5*Heving*Kennedy*None*2:13*D*None*+++*None
+Sunday, Jul 23*boxscore*BOS*@*SLB*W*11*3*None*52-30*2* 7.5*Dickman*Kramer*None*2:12*D*4,106*++++*1939-06-07 (Rain)
+Tuesday, Jul 25*boxscore*BOS*None*CHW*W*3*2*None*53-30*2* 7.0*Grove*Knott*None*1:57*D*20,000*+++++*None
+Tuesday, Jul 25*boxscore*BOS*None*CHW*W*6*5*10*54-30*2* 7.0*Dickman*Brown*None*2:16*D*20,000*++++++*1939-06-23 (Wet grounds)
+Wednesday, Jul 26*boxscore*BOS*None*CHW*L*1*8*None*54-31*2* 7.5*Dietrich*Wilson*Brown*2:17*D*21,000*-*None
+Wednesday, Jul 26*boxscore*BOS*None*CHW*W*6*5*None*55-31*2* 7.5*Heving*Lee*None*2:02*D*21,000*+*1939-06-25 (Rain)
+Thursday, Jul 27*boxscore*BOS*None*CHW*L*7*12*None*55-32*2* 8.0*Brown*Galehouse*None*2:20*D*4,000*-*None
+Friday, Jul 28*boxscore*BOS*None*SLB*L*6*11*None*55-33*2* 9.0*Trotter*Auker*None*2:00*D*3,000*--*None
+Saturday, Jul 29*boxscore*BOS*None*SLB*L*3*4*None*55-34*2* 9.5*Kramer*Wade*Mills*2:42*D*4,600*---*None
+Sunday, Jul 30*boxscore*BOS*None*SLB*W*6*4*None*56-34*2* 9.0*Galehouse*Harris*Dickman*2:05*D*9,000*+*None
+Tuesday, Aug 1*boxscore*BOS*None*CLE*W*7*5*None*57-34*2* 8.0*Grove*Feller*None*2:10*D*11,000*++*None
+Wednesday, Aug 2*boxscore*BOS*None*CLE*L*2*8*None*57-35*2* 7.5*Harder*Wilson*None*2:15*D*22,000*-*None
+Wednesday, Aug 2*boxscore*BOS*None*CLE*W*5*4*None*58-35*2* 7.5*Heving*Hudlin*None*1:58*D*22,000*+*1939-06-17 (Wet grounds)
+Thursday, Aug 3*boxscore*BOS*None*CLE*W*17*6*None*59-35*2* 7.5*Wade*Allen*Dickman*2:25*D*5,000*++*None
+Saturday, Aug 5*boxscore*BOS*None*DET*L*4*16*None*59-36*2* 9.0*Bridges*Auker*None*2:25*N*11,000*-*None
+Sunday, Aug 6*boxscore*BOS*None*DET*L*1*10*None*59-37*2* 8.0*Hutchinson*Galehouse*None*2:03*D*None*--*None
+Sunday, Aug 6*boxscore*BOS*None*DET*W*8*3*None*60-37*2* 8.0*Wilson*Trout*None*1:47*D*35,000*+*1939-08-04 (Schedule change)
+Tuesday, Aug 8*boxscore*BOS*None*PHA*W*9*2*None*61-37*2* 7.0*Grove*Joyce*None*1:55*D*3,300*++*None
+Wednesday, Aug 9*boxscore*BOS*None*PHA*W*5*3*None*62-37*2* 6.5*Galehouse*Ross*None*2:03*D*8,500*+++*None
+Wednesday, Aug 9*boxscore*BOS*None*PHA*W*6*5*None*63-37*2* 6.5*Ostermueller*Potter*None*2:02*D*8,500*++++*1939-06-30 (Rain)
+Thursday, Aug 10*boxscore*BOS*None*PHA*W*7*5*None*64-37*2* 5.5*Wilson*Nelson*Dickman*1:52*D*4,000*+++++*None
+Saturday, Aug 12*boxscore*BOS*None*WSH*W*9*5*None*65-37*2* 6.0*Dickman*Krakauskas*None*2:15*D*9,500*++++++*None
+Sunday, Aug 13*boxscore*BOS*None*WSH*W*9*1*None*66-37*2* 6.0*Ostermueller*Haynes*None*2:15*D*None*+++++++*None
+Sunday, Aug 13*boxscore*BOS*None*WSH*L*3*6*8*66-38*2* 6.0*Carrasquel*Galehouse*None*2:10*D*30,000*-*1939-08-11 (Schedule change)
+Tuesday, Aug 15*boxscore*BOS*@*PHA*L*0*3*None*66-39*2* 7.0*Nelson*Wilson*None*1:50*N*22,188*--*None
+Thursday, Aug 17*boxscore*BOS*@*PHA*W*7*1*None*67-39*2* 7.5*Grove*Reninger*None*1:58*D*12,000*+*None
+Friday, Aug 18*boxscore*BOS*@*WSH*W*6*2*None*68-39*2* 7.5*Ostermueller*Carrasquel*None*1:55*D*10,000*++*None
+Saturday, Aug 19*boxscore*BOS*@*WSH*W*8*6*None*69-39*2* 7.5*Heving*Appleton*Dickman*2:09*D*None*+++*None
+Saturday, Aug 19*boxscore*BOS*@*WSH*L*1*2*None*69-40*2* 7.5*Chase*Wade*None*1:40*D*7,000*-*1939-05-13 (Rain)
+Sunday, Aug 20*boxscore*BOS*@*WSH*L*0*2*None*69-41*2* 7.5*Leonard*Wilson*None*1:44*D*None*--*None
+Sunday, Aug 20*boxscore*BOS*@*WSH*W*10*5*None*70-41*2* 7.5*Wagner*Krakauskas*Heving*1:55*D*25,000*+*1939-06-28 (Rain)
+Tuesday, Aug 22*boxscore*BOS*@*SLB*W*10*3*None*71-41*2* 7.5*Galehouse*Trotter*None*2:02*D*997*++*None
+Wednesday, Aug 23*boxscore*BOS*@*SLB*W*9*1*None*72-41*2* 8.0*Ostermueller*Kramer*None*2:09*D*790*+++*None
+Thursday, Aug 24*boxscore*BOS*@*CHW*L*1*3*None*72-42*2* 9.0*Rigney*Auker*None*1:46*N*20,000*-*None
+Friday, Aug 25*boxscore*BOS*@*CHW*L*2*9*None*72-43*2* 10.5*Knott*Dickman*Brown*2:13*D*18,000*--*None
+Saturday, Aug 26*boxscore*BOS*@*CHW*L*4*5*None*72-44*2* 11.5*Dietrich*Wilson*Brown*2:15*D*7,000*---*None
+Sunday, Aug 27*boxscore*BOS*@*CLE*L*0*1*None*72-45*2* 13.0*Feller*Galehouse*None*2:15*D*None*----*None
+Sunday, Aug 27*boxscore*BOS*@*CLE*L*3*5*None*72-46*2* 13.0*Hudlin*Ostermueller*None*2:05*D*23,540*-----*1939-05-02 (Cold)
+Monday, Aug 28*boxscore*BOS*@*CLE*W*6*5*None*73-46*2* 13.0*Auker*Harder*Wilson*2:15*D*2,000*+*None
+Tuesday, Aug 29*boxscore*BOS*@*CLE*W*7*4*None*74-46*2* 12.0*LeFebvre*Eisenstat*Heving*2:10*D*1,500*++*None
+Wednesday, Aug 30*boxscore*BOS*@*DET*L*6*7*None*74-47*2* 12.0*Coffman*Wilson*Newsom*2:05*D*6,316*-*None
+Thursday, Aug 31*boxscore*BOS*@*DET*L*4*11*None*74-48*2* 12.5*Trout*Grove*Benton*2:16*D*6,247*--*None
+Friday, Sep 1*boxscore*BOS*@*DET*L*10*14*None*74-49*2* 13.5*Rowe*Auker*McKain*2:20*D*5,741*---*None
+Saturday, Sep 2*boxscore*BOS*None*NYY*W*12*7*None*75-49*2* 12.5*Ostermueller*Ruffing*Heving*2:00*D*12,500*+*None
+Sunday, Sep 3*boxscore*BOS*None*NYY*W*12*11*None*76-49*2* 11.5*Auker*Murphy*Heving*2:28*D*None*++*None
+Sunday, Sep 3*boxscore*BOS*None*NYY*T*5*5*7*76-49*2* 11.5*None*None*None*2:06*D*27,000*++*1939-04-28 (Cold)
+Monday, Sep 4*boxscore*BOS*None*WSH*L*6*7*None*76-50*2* 13.5*Haynes*Wade*Carrasquel*2:00*D*None*-*None
+Monday, Sep 4*boxscore*BOS*None*WSH*L*4*6*None*76-51*2* 13.5*Appleton*LeFebvre*None*2:00*D*None*--*None
+Wednesday, Sep 6*boxscore*BOS*@*NYY*L*1*2*None*76-52*2* 14.5*Gomez*Grove*None*1:58*D*11,715*---*None
+Thursday, Sep 7*boxscore*BOS*@*NYY*L*2*5*None*76-53*2* 15.5*Pearson*Ostermueller*Hildebrand*1:52*D*9,379*----*None
+Friday, Sep 8*boxscore*BOS*@*NYY*L*1*4*7*76-54*2* 16.5*Ruffing*Galehouse*None*1:20*D*8,457*-----*None
+Saturday, Sep 9*boxscore*BOS*@*PHA*L*1*2*None*76-55*2* 17.5*Ross*Auker*None*None*None*None*------*None
+Sunday, Sep 10*boxscore*BOS*@*PHA*W*10*7*None*77-55*2* 17.5*Wagner*Beckmann*Dickman*2:01*None*None*+*None
+Sunday, Sep 10*boxscore*BOS*@*PHA*W*5*1*None*78-55*2* 17.5*Heving*Nelson*None*1:30*None*23,285*++*1939-08-16 (Schedule change)
+Monday, Sep 11*boxscore*BOS*@*PHA*W*11*9*None*79-55*2* 17.0*Bagby*Page*None*2:29*D*500*+++*None
+Tuesday, Sep 12*boxscore*BOS*None*DET*W*2*1*None*80-55*2* 16.0*Galehouse*Bridges*None*1:49*D*1,800*++++*None
+Wednesday, Sep 13*boxscore*BOS*None*DET*W*1*0*None*81-55*2* 15.0*Grove*Hutchinson*None*1:36*D*2,400*+++++*None
+Thursday, Sep 14*boxscore*BOS*None*CLE*L*7*8*None*81-56*2* 15.0*Allen*Auker*Eisenstat*2:05*D*2,400*-*None
+Friday, Sep 15*boxscore*BOS*None*CLE*L*1*7*None*81-57*2* 16.0*Hudlin*Ostermueller*None*2:05*D*2,300*--*None
+Saturday, Sep 16*boxscore*BOS*None*CLE*L*1*2*None*81-58*2* 17.0*Harder*Wagner*None*1:42*D*3,400*---*None
+Sunday, Sep 17*boxscore*BOS*None*CHW*L*1*6*None*81-59*2* 16.0*Lee*Galehouse*None*1:48*D*None*----*None
+Sunday, Sep 17*boxscore*BOS*None*CHW*W*11*7*None*82-59*2* 16.0*Bagby*Marcum*None*2:31*D*12,000*+*1939-09-18 (Schedule change)
+Tuesday, Sep 19*boxscore*BOS*None*SLB*W*6*2*None*83-59*2* 16.5*Wilson*Trotter*None*1:52*D*1,100*++*None
+Wednesday, Sep 20*boxscore*BOS*None*SLB*L*8*11*16*83-60*2* 17.5*Harris*Ostermueller*None*3:36*D*1,100*-*None
+Thursday, Sep 21*boxscore*BOS*None*SLB*W*6*2*None*84-60*2* 17.5*Galehouse*Kramer*None*2:03*D*598*+*None
+Friday, Sep 22*boxscore*BOS*None*PHA*W*7*5*None*85-60*2* 17.0*Wagner*McCrabb*Dickman*1:55*D*1,000*++*None
+Saturday, Sep 23*boxscore*BOS*None*PHA*W*10*8*None*86-60*2* 17.0*Wilson*Page*Ostermueller*2:13*D*2,100*+++*None
+Sunday, Sep 24*boxscore*BOS*None*PHA*W*9*4*None*87-60*2* 17.0*Dickman*Nelson*Ostermueller*2:05*D*4,600*++++*None
+Thursday, Sep 28*boxscore*BOS*@*WSH*W*4*2*None*88-60*2* 17.0*Grove*Carrasquel*None*1:40*D*5,000*+++++*None
+Thursday, Sep 28*boxscore*BOS*@*WSH*L*1*6*None*88-61*2* 17.0*Leonard*Ostermueller*None*1:30*D*5,000*-*1939-09-29 (Schedule change)
+Saturday, Sep 30*boxscore*BOS*@*NYY*L*4*5*None*88-62*2* 17.0*Murphy*Bagby*None*1:55*D*None*--*None
+Saturday, Sep 30*boxscore*BOS*@*NYY*W*4*2*7*89-62*2* 17.0*Wilson*Sundra*None*1:15*D*7,501*+*1939-10-01 (Rain)

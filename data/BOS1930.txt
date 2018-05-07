@@ -1,0 +1,154 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Tuesday, Apr 15*boxscore*BOS*None*WSH*L*1*6*None*1-1*3* 0.5*Brown*Ruffing*None*None*D*None*-*None
+Wednesday, Apr 16*boxscore*BOS*None*WSH*L*4*5*None*1-2*6* 1.0*Hadley*Gaston*None*None*D*None*--*None
+Saturday, Apr 19*boxscore*BOS*None*NYY*W*4*3*15*2-2*3* 0.5*Morris*Johnson*None*None*D*None*+*None
+Saturday, Apr 19*boxscore*BOS*None*NYY*W*7*2*None*3-2*3* 0.5*Russell*Pennock*None*None*D*None*++*None
+Sunday, Apr 20*boxscore*BOS*None*PHA*L*3*5*None*3-3*4* 1.5*Quinn*MacFayden*None*None*D*None*-*None
+Tuesday, Apr 22*boxscore*BOS*@*WSH*L*3*4*12*3-4*5* 2.0*Marberry*Ruffing*None*2:20*D*None*--*None
+Friday, Apr 25*boxscore*BOS*@*NYY*L*2*3*10*3-5*6* 3.0*Johnson*Gaston*None*None*D*15,000*---*None
+Saturday, Apr 26*boxscore*BOS*@*NYY*L*3*8*None*3-6*6* 4.0*Pipgras*Lisenbee*None*1:50*D*None*----*None
+Sunday, Apr 27*boxscore*BOS*@*NYY*W*8*7*None*4-6*6* 4.0*Russell*Hoyt*None*None*D*None*+*None
+Monday, Apr 28*boxscore*BOS*None*PHA*L*4*5*None*4-7*6* 5.0*Walberg*Morris*Grove*2:00*D*6,000*-*None
+Tuesday, Apr 29*boxscore*BOS*None*PHA*L*5*9*None*4-8*6* 6.0*Earnshaw*Ruffing*Rommel*None*D*None*--*None
+Wednesday, Apr 30*boxscore*BOS*None*PHA*W*7*3*None*5-8*6* 5.0*Gaston*Quinn*None*None*D*None*+*None
+Friday, May 2*boxscore*BOS*None*CLE*L*3*8*None*5-9*6* 6.0*Ferrell*Lisenbee*Holloway*1:48*D*None*-*None
+Saturday, May 3*boxscore*BOS*None*CLE*L*5*6*None*5-10*6* 6.0*Harder*Russell*Gliatto*2:10*D*None*--*None
+Sunday, May 4*boxscore*BOS*None*CLE*L*7*8*10*5-11*7* 6.5*Harder*Morris*None*2:24*D*None*---*None
+Monday, May 5*boxscore*BOS*None*CLE*W*18*3*None*6-11*7* 5.5*Gaston*Hudlin*None*2:03*D*None*+*None
+Tuesday, May 6*boxscore*BOS*None*CHW*L*3*4*None*6-12*7* 6.5*Lyons*Morris*None*None*D*None*-*None
+Wednesday, May 7*boxscore*BOS*None*CHW*W*6*4*None*7-12*7* 5.5*Lisenbee*McKain*None*None*D*None*+*None
+Thursday, May 8*boxscore*BOS*None*CHW*W*3*1*None*8-12*7* 5.5*Russell*Thomas*None*None*D*None*++*None
+Friday, May 9*boxscore*BOS*None*SLB*W*5*2*None*9-12*5* 5.5*MacFayden*Crowder*None*None*D*None*+++*None
+Saturday, May 10*boxscore*BOS*None*SLB*W*2*0*None*10-12*4* 5.5*Gaston*Gray*None*None*D*None*++++*None
+Sunday, May 11*boxscore*BOS*None*SLB*W*2*1*None*11-12*4* 4.5*Morris*Stewart*None*None*D*None*+++++*None
+Monday, May 12*boxscore*BOS*None*SLB*L*2*3*10*11-13*5* 5.5*Collins*Lisenbee*None*None*D*None*-*None
+Tuesday, May 13*boxscore*BOS*None*DET*L*1*4*None*11-14*5* 6.5*Herring*Russell*None*None*D*None*--*None
+Friday, May 16*boxscore*BOS*None*NYY*W*5*4*None*12-14*5* 6.0*Durham*Sherid*None*None*D*None*+*1930-04-18 (Rain)
+Saturday, May 17*boxscore*BOS*None*NYY*L*2*3*None*12-15*6* 7.0*Johnson*Gaston*None*2:08*D*None*-*None
+Sunday, May 18*boxscore*BOS*None*NYY*L*0*11*None*12-16*6* 7.0*Pipgras*Morris*None*1:54*D*None*--*None
+Tuesday, May 20*boxscore*BOS*None*NYY*L*4*7*10*12-17*5* 7.5*Pennock*Durham*None*None*D*None*---*None
+Wednesday, May 21*boxscore*BOS*@*WSH*L*2*10*None*12-18*7* 9.5*Jones*Russell*None*1:48*D*None*----*None
+Wednesday, May 21*boxscore*BOS*@*WSH*L*1*6*None*12-19*7* 9.5*Liska*MacFayden*None*1:43*D*12,000*-----*1930-04-23 (Cold)
+Thursday, May 22*boxscore*BOS*@*WSH*L*2*3*None*12-20*8* 11.5*Hadley*Gaston*None*1:35*D*10,000*------*None
+Thursday, May 22*boxscore*BOS*@*WSH*L*1*13*None*12-21*8* 11.5*Burke*Morris*None*1:58*D*None*-------*1930-04-24 (Cold)
+Sunday, May 25*boxscore*BOS*@*WSH*L*0*5*None*12-22*8* 12.5*Marberry*Durham*None*1:38*D*None*--------*None
+Monday, May 26*boxscore*BOS*@*PHA*L*5*8*None*12-23*8* 13.5*Grove*Russell*None*1:54*D*None*---------*None
+Tuesday, May 27*boxscore*BOS*@*PHA*L*5*7*None*12-24*8* 14.5*Earnshaw*MacFayden*Quinn*2:01*D*None*----------*None
+Thursday, May 29*boxscore*BOS*@*PHA*L*1*2*None*12-25*8* 14.5*Mahaffey*Gaston*None*1:16*D*None*-----------*None
+Friday, May 30*boxscore*BOS*@*NYY*L*5*6*None*12-26*8* 14.5*Pennock*Lisenbee*None*2:12*D*None*------------*None
+Friday, May 30*boxscore*BOS*@*NYY*L*3*7*None*12-27*8* 14.5*Ruffing*Durham*None*2:05*D*None*-------------*None
+Saturday, May 31*boxscore*BOS*@*NYY*L*2*5*None*12-28*8* 14.5*Wells*Russell*None*None*D*None*--------------*None
+Sunday, Jun 1*boxscore*BOS*@*NYY*W*7*4*None*13-28*8* 14.5*MacFayden*Johnson*Gaston*2:00*D*None*+*None
+Tuesday, Jun 3*boxscore*BOS*@*CLE*L*3*8*None*13-29*8* 15.5*Ferrell*Russell*None*1:43*D*None*-*None
+Wednesday, Jun 4*boxscore*BOS*@*CLE*W*5*4*10*14-29*8* 15.5*Morris*Hudlin*None*None*D*None*+*None
+Thursday, Jun 5*boxscore*BOS*@*CLE*L*7*17*None*14-30*8* 15.5*Brown*Gaston*None*1:54*D*None*-*None
+Friday, Jun 6*boxscore*BOS*@*CLE*L*4*9*None*14-31*8* 16.5*Appleton*MacFayden*None*1:57*D*None*--*None
+Saturday, Jun 7*boxscore*BOS*@*DET*L*0*6*None*14-32*8* 16.5*Uhle*Russell*None*1:27*D*None*---*None
+Sunday, Jun 8*boxscore*BOS*@*DET*L*0*1*6*14-33*8* 17.5*Hoyt*Morris*None*1:00*D*26,505*----*None
+Monday, Jun 9*boxscore*BOS*@*DET*W*7*6*None*15-33*8* 17.5*Gaston*Wyatt*None*2:11*D*None*+*None
+Tuesday, Jun 10*boxscore*BOS*@*DET*W*12*6*None*16-33*8* 16.5*MacFayden*Herring*None*2:20*D*None*++*None
+Thursday, Jun 12*boxscore*BOS*@*SLB*L*5*6*None*16-34*8* 16.0*Stewart*Russell*None*1:10*D*None*-*None
+Friday, Jun 13*boxscore*BOS*@*SLB*L*0*1*11*16-35*8* 16.0*Collins*Gaston*None*1:19*D*None*--*None
+Saturday, Jun 14*boxscore*BOS*@*CHW*W*8*4*None*17-35*8* 15.0*MacFayden*Faber*None*None*D*None*+*None
+Monday, Jun 16*boxscore*BOS*@*CHW*W*6*3*None*18-35*8* 14.5*Russell*Lyons*None*None*D*None*++*None
+Tuesday, Jun 17*boxscore*BOS*@*CHW*W*8*5*None*19-35*8* 14.0*Gaston*Walsh*None*None*D*None*+++*None
+Thursday, Jun 19*boxscore*BOS*None*SLB*W*4*1*None*20-35*8* 14.5*MacFayden*Collins*None*None*D*None*++++*None
+Friday, Jun 20*boxscore*BOS*None*SLB*L*3*4*None*20-36*8* 15.5*Gray*Lisenbee*None*None*D*None*-*None
+Saturday, Jun 21*boxscore*BOS*None*SLB*W*3*2*None*21-36*8* 15.5*Russell*Stewart*None*None*D*None*+*None
+Sunday, Jun 22*boxscore*BOS*None*DET*L*3*5*None*21-37*8* 16.0*Whitehill*Gaston*None*None*D*None*-*None
+Sunday, Jun 22*boxscore*BOS*None*DET*L*2*4*6*21-38*8* 16.0*Hoyt*Durham*None*None*D*None*--*1930-05-14 (Cold)
+Monday, Jun 23*boxscore*BOS*None*DET*W*2*0*None*22-38*8* 16.5*MacFayden*Sullivan*None*None*D*None*+*None
+Tuesday, Jun 24*boxscore*BOS*None*DET*W*5*4*None*23-38*8* 16.5*Lisenbee*Uhle*None*None*D*None*++*None
+Tuesday, Jun 24*boxscore*BOS*None*DET*L*7*8*10*23-39*8* 16.5*Herring*Mulroney*None*None*D*5,000*-*1930-05-15 (Rain)
+Wednesday, Jun 25*boxscore*BOS*None*DET*L*3*4*None*23-40*8* 17.0*Hogsett*Russell*None*None*D*None*--*None
+Thursday, Jun 26*boxscore*BOS*None*CHW*W*9*7*None*24-40*8* 17.0*Gaston*McKain*None*None*D*None*+*None
+Saturday, Jun 28*boxscore*BOS*None*CHW*W*4*2*None*25-40*7* 17.0*MacFayden*Henry*None*1:35*D*None*++*None
+Sunday, Jun 29*boxscore*BOS*None*CHW*W*10*6*None*26-40*7* 17.5*Lisenbee*Faber*None*None*D*None*+++*None
+Sunday, Jun 29*boxscore*BOS*None*CHW*L*1*2*None*26-41*7* 17.5*Lyons*Russell*None*None*D*None*-*1930-06-27 (Rain)
+Monday, Jun 30*boxscore*BOS*None*CLE*L*3*8*None*26-42*7* 18.5*Bean*Durham*None*1:55*D*None*--*None
+Tuesday, Jul 1*boxscore*BOS*None*CLE*W*3*1*None*27-42*7* 18.5*Gaston*Harder*None*1:36*D*None*+*None
+Wednesday, Jul 2*boxscore*BOS*None*CLE*W*5*4*None*28-42*6* 18.0*Morris*Ferrell*None*1:46*D*None*++*None
+Friday, Jul 4*boxscore*BOS*None*PHA*W*7*6*None*29-42*6* 18.5*Durham*Walberg*None*2:05*D*30,000*+++*None
+Friday, Jul 4*boxscore*BOS*None*PHA*L*2*4*None*29-43*6* 18.5*Rommel*Lisenbee*None*None*D*30,000*-*None
+Saturday, Jul 5*boxscore*BOS*None*PHA*L*2*7*None*29-44*6* 19.5*Mahaffey*Gaston*None*None*D*None*--*None
+Sunday, Jul 6*boxscore*BOS*None*PHA*L*3*4*None*29-45*6* 20.5*Earnshaw*MacFayden*None*2:08*D*None*---*None
+Monday, Jul 7*boxscore*BOS*None*WSH*L*1*8*None*29-46*8* 21.0*Crowder*Morris*None*None*D*None*----*None
+Tuesday, Jul 8*boxscore*BOS*None*WSH*L*5*6*None*29-47*8* 21.5*Marberry*Lisenbee*None*None*D*None*-----*None
+Wednesday, Jul 9*boxscore*BOS*None*WSH*L*2*5*None*29-48*8* 21.5*Jones*Russell*None*None*D*None*------*None
+Wednesday, Jul 9*boxscore*BOS*None*WSH*W*5*1*None*30-48*8* 21.5*Gaston*Brown*None*None*D*None*+*1930-04-17 (Cold)
+Thursday, Jul 10*boxscore*BOS*None*WSH*L*2*7*None*30-49*8* 22.5*Hadley*MacFayden*None*None*D*None*-*None
+Saturday, Jul 12*boxscore*BOS*@*CLE*L*3*12*None*30-50*8* 23.0*Hudlin*Lisenbee*None*1:55*D*None*--*None
+Sunday, Jul 13*boxscore*BOS*@*CLE*L*3*11*7*30-51*8* 24.0*Harder*Russell*None*2:00*D*None*---*None
+Monday, Jul 14*boxscore*BOS*@*CLE*L*2*3*None*30-52*8* 25.0*Ferrell*Gaston*None*1:39*D*None*----*None
+Tuesday, Jul 15*boxscore*BOS*@*CLE*W*13*4*None*31-52*7* 25.0*MacFayden*Brown*None*2:05*D*None*+*None
+Wednesday, Jul 16*boxscore*BOS*@*DET*L*2*3*None*31-53*7* 26.0*Whitehill*Russell*Uhle*2:02*D*None*-*None
+Thursday, Jul 17*boxscore*BOS*@*DET*W*12*2*None*32-53*7* 26.0*Lisenbee*Hogsett*None*1:58*D*None*+*None
+Friday, Jul 18*boxscore*BOS*@*DET*L*6*7*None*32-54*7* 27.0*Sorrell*Gaston*Hogsett*2:05*D*None*-*None
+Saturday, Jul 19*boxscore*BOS*@*DET*L*2*10*None*32-55*7* 27.0*Uhle*MacFayden*None*1:49*D*None*--*None
+Sunday, Jul 20*boxscore*BOS*@*CHW*L*4*16*None*32-56*8* 28.5*Lyons*Russell*None*1:53*D*None*---*None
+Sunday, Jul 20*boxscore*BOS*@*CHW*L*4*5*None*32-57*8* 28.5*McKain*Gaston*None*1:56*D*None*----*1930-06-15 (Rain)
+Monday, Jul 21*boxscore*BOS*@*CHW*W*3*1*None*33-57*8* 27.5*Lisenbee*Thomas*None*None*D*None*+*None
+Tuesday, Jul 22*boxscore*BOS*@*CHW*W*4*3*None*34-57*8* 26.5*Gaston*Henry*Durham*None*D*5,000*++*None
+Wednesday, Jul 23*boxscore*BOS*@*CHW*L*3*5*None*34-58*8* 27.5*McKain*MacFayden*None*None*D*None*-*None
+Thursday, Jul 24*boxscore*BOS*@*SLB*W*8*5*None*35-58*8* 27.5*Russell*Stiles*None*None*D*None*+*None
+Friday, Jul 25*boxscore*BOS*@*SLB*L*3*6*None*35-59*8* 28.5*Blaeholder*Lisenbee*None*None*D*None*-*None
+Saturday, Jul 26*boxscore*BOS*@*SLB*L*3*6*None*35-60*8* 29.5*Stewart*Gaston*None*None*D*None*--*None
+Sunday, Jul 27*boxscore*BOS*@*SLB*L*9*10*None*35-61*8* 30.0*Stiles*Durham*Blaeholder*2:14*D*None*---*None
+Sunday, Jul 27*boxscore*BOS*@*SLB*L*6*9*None*35-62*8* 30.0*Kimsey*Smith*None*1:43*D*None*----*1930-06-11 (Rain)
+Wednesday, Jul 30*boxscore*BOS*None*NYY*L*2*8*10*35-63*8* 31.5*Pennock*Gaston*None*1:39*D*None*-----*None
+Wednesday, Jul 30*boxscore*BOS*None*NYY*L*1*10*None*35-64*8* 31.5*Pipgras*Russell*None*None*D*None*------*1930-05-19 (Cold)
+Thursday, Jul 31*boxscore*BOS*None*NYY*L*13*14*None*35-65*8* 32.5*Wells*Morris*Sherid*None*D*None*-------*None
+Friday, Aug 1*boxscore*BOS*None*NYY*L*1*4*None*35-66*8* 33.0*Ruffing*Lisenbee*None*None*D*None*--------*None
+Saturday, Aug 2*boxscore*BOS*@*PHA*L*2*9*None*35-67*8* 35.0*Shores*Morris*None*1:15*D*None*---------*None
+Saturday, Aug 2*boxscore*BOS*@*PHA*L*7*8*None*35-68*8* 35.0*Grove*Durham*None*2:18*D*None*----------*1930-05-28 (Rain)
+Sunday, Aug 3*boxscore*BOS*@*WSH*L*2*11*None*35-69*8* 34.5*Crowder*Gaston*None*1:40*D*None*-----------*None
+Sunday, Aug 3*boxscore*BOS*@*WSH*W*7*1*None*36-69*8* 34.5*Russell*Liska*None*2:05*D*None*+*1930-05-24 (Rain)
+Monday, Aug 4*boxscore*BOS*@*PHA*L*4*13*None*36-70*8* 35.5*Grove*Lisenbee*None*1:50*D*None*-*None
+Tuesday, Aug 5*boxscore*BOS*@*PHA*W*4*3*None*37-70*8* 34.5*Durham*Mahaffey*MacFayden*2:06*D*None*+*None
+Wednesday, Aug 6*boxscore*BOS*@*NYY*L*2*4*None*37-71*8* 34.5*Sherid*Gaston*None*1:54*D*None*-*None
+Thursday, Aug 7*boxscore*BOS*@*NYY*L*1*5*None*37-72*8* 35.5*Wells*MacFayden*None*1:45*D*None*--*None
+Friday, Aug 8*boxscore*BOS*None*DET*W*8*6*None*38-72*8* 36.0*Russell*Hoyt*Gaston*None*D*None*+*None
+Saturday, Aug 9*boxscore*BOS*None*DET*L*0*3*None*38-73*8* 37.5*Sorrell*Lisenbee*None*None*D*None*-*None
+Sunday, Aug 10*boxscore*BOS*None*DET*L*2*4*None*38-74*8* 38.0*Whitehill*Durham*None*None*D*None*--*None
+Monday, Aug 11*boxscore*BOS*None*DET*W*5*1*None*39-74*8* 37.0*MacFayden*Uhle*None*None*D*None*+*None
+Tuesday, Aug 12*boxscore*BOS*None*SLB*W*5*4*None*40-74*8* 37.5*Lisenbee*Kimsey*None*None*D*None*++*None
+Wednesday, Aug 13*boxscore*BOS*None*SLB*L*2*7*None*40-75*8* 38.5*Stewart*Russell*None*None*D*None*-*None
+Thursday, Aug 14*boxscore*BOS*None*SLB*W*3*0*None*41-75*8* 37.5*Durham*Blaeholder*None*None*D*None*+*None
+Sunday, Aug 17*boxscore*BOS*None*CLE*L*3*9*None*41-76*8* 39.0*Hudlin*Lisenbee*None*2:07*D*None*-*None
+Sunday, Aug 17*boxscore*BOS*None*CLE*L*0*2*7*41-77*8* 39.0*Brown*MacFayden*None*None*D*None*--*1930-08-16 (Rain)
+Tuesday, Aug 19*boxscore*BOS*None*CLE*L*2*7*None*41-78*8* 40.0*Ferrell*Gaston*None*2:00*D*None*---*None
+Tuesday, Aug 19*boxscore*BOS*None*CLE*L*3*7*None*41-79*8* 40.0*Lawson*Russell*None*2:00*D*None*----*1930-08-18 (Rain)
+Thursday, Aug 21*boxscore*BOS*None*CHW*W*4*2*None*42-79*8* 40.5*Lisenbee*Thomas*None*None*D*None*+*None
+Friday, Aug 22*boxscore*BOS*None*CHW*L*4*6*None*42-80*8* 40.5*Lyons*MacFayden*None*None*D*None*-*None
+Sunday, Aug 24*boxscore*BOS*None*CHW*W*2*0*None*43-80*8* 40.5*Gaston*Faber*None*None*D*None*+*None
+Sunday, Aug 24*boxscore*BOS*None*CHW*L*4*5*11*43-81*8* 40.5*Caraway*Durham*None*None*D*None*-*1930-08-23 (Rain)
+Thursday, Aug 28*boxscore*BOS*None*PHA*W*2*1*None*44-81*8* 39.5*Lisenbee*Earnshaw*None*None*D*None*+*None
+Saturday, Aug 30*boxscore*BOS*None*PHA*L*0*11*None*44-82*8* 40.5*Grove*Gaston*None*None*D*None*-*None
+Sunday, Aug 31*boxscore*BOS*None*PHA*L*1*2*None*44-83*8* 41.5*Shores*MacFayden*None*None*D*None*--*None
+Monday, Sep 1*boxscore*BOS*@*WSH*L*1*2*None*44-84*8* 42.5*Crowder*Lisenbee*None*1:35*D*None*---*None
+Monday, Sep 1*boxscore*BOS*@*WSH*L*3*6*None*44-85*8* 42.5*Brown*Durham*None*1:40*D*None*----*None
+Wednesday, Sep 3*boxscore*BOS*@*PHA*L*4*11*None*44-86*8* 43.5*Grove*Gaston*Quinn*1:46*D*None*-----*None
+Thursday, Sep 4*boxscore*BOS*@*PHA*L*7*8*15*44-87*8* 44.5*Grove*Durham*None*3:14*D*None*------*None
+Friday, Sep 5*boxscore*BOS*@*PHA*L*1*5*None*44-88*8* 45.5*Earnshaw*Russell*None*1:24*D*None*-------*None
+Saturday, Sep 6*boxscore*BOS*@*PHA*L*1*3*10*44-89*8* 46.5*Grove*Lisenbee*None*1:44*D*12,000*--------*None
+Sunday, Sep 7*boxscore*BOS*@*NYY*W*5*3*None*45-89*8* 46.0*Gaston*Pennock*MacFayden*1:35*D*None*+*None
+Sunday, Sep 7*boxscore*BOS*@*NYY*L*2*5*None*45-90*8* 46.0*Sherid*Durham*Pipgras*1:54*D*None*-*1930-09-23 (Schedule change)
+Tuesday, Sep 9*boxscore*BOS*@*CHW*L*1*10*None*45-91*8* 47.0*Caraway*Russell*None*None*D*2,000*--*None
+Wednesday, Sep 10*boxscore*BOS*@*CHW*W*6*2*None*46-91*8* 46.0*MacFayden*Faber*None*None*D*2,000*+*None
+Thursday, Sep 11*boxscore*BOS*@*CHW*L*3*4*12*46-92*8* 46.5*Lyons*Smith*None*None*D*None*-*None
+Friday, Sep 12*boxscore*BOS*@*SLB*L*4*5*10*46-93*8* 47.0*Kimsey*Bushey*None*1:53*D*None*--*None
+Saturday, Sep 13*boxscore*BOS*@*SLB*L*4*5*None*46-94*8* 48.5*Stiles*Russell*None*1:40*D*None*---*None
+Saturday, Sep 13*boxscore*BOS*@*SLB*L*2*5*None*46-95*8* 48.5*Collins*Durham*None*1:40*D*None*----*1930-08-15 (Rain; Site change)
+Monday, Sep 15*boxscore*BOS*@*SLB*L*1*3*None*46-96*8* 49.0*Stewart*Lisenbee*None*None*D*None*-----*None
+Monday, Sep 15*boxscore*BOS*@*SLB*W*2*1*11*47-96*8* 49.0*MacFayden*Coffman*None*1:39*D*None*+*1930-09-14 (Rain)
+Tuesday, Sep 16*boxscore*BOS*@*DET*L*5*7*None*47-97*8* 50.5*Hoyt*Gaston*None*1:37*D*None*-*None
+Wednesday, Sep 17*boxscore*BOS*@*DET*L*7*9*None*47-98*8* 50.5*Whitehill*Durham*Uhle*1:59*D*None*--*None
+Thursday, Sep 18*boxscore*BOS*@*DET*W*4*3*None*48-98*8* 50.5*Lisenbee*Bridges*None*1:49*D*None*+*None
+Friday, Sep 19*boxscore*BOS*@*CLE*L*5*7*None*48-99*8* 51.0*Harder*MacFayden*Bean*1:45*D*None*-*None
+Saturday, Sep 20*boxscore*BOS*@*CLE*W*10*3*None*49-99*8* 50.0*Gaston*Lawson*None*1:41*D*None*+*None
+Sunday, Sep 21*boxscore*BOS*@*CLE*W*9*4*10*50-99*8* 49.5*Russell*Ferrell*None*None*D*None*++*None
+Wednesday, Sep 24*boxscore*BOS*None*WSH*W*6*3*None*51-99*8* 49.0*Lisenbee*Crowder*None*None*D*None*+++*None
+Thursday, Sep 25*boxscore*BOS*None*WSH*L*2*3*None*51-100*8* 50.0*Liska*MacFayden*None*None*D*None*-*None
+Friday, Sep 26*boxscore*BOS*None*WSH*W*7*1*None*52-100*8* 50.0*Gaston*Hadley*None*1:29*D*None*+*None
+Saturday, Sep 27*boxscore*BOS*None*WSH*L*3*8*None*52-101*8* 50.0*Fischer*Durham*None*None*D*None*-*None
+Sunday, Sep 28*boxscore*BOS*None*NYY*L*3*9*None*52-102*8* 50.0*Ruth*Lisenbee*None*1:40*D*None*--*None

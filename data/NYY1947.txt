@@ -1,0 +1,155 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 17*boxscore*NYY*None*PHA*W*2*1*None*1-1*3* 1.0*Bevens*Fowler*None*1:43*D*8,350*+*None
+Friday, Apr 18*boxscore*NYY*@*WSH*W*7*0*None*2-1*3* 1.0*Reynolds*Newsom*None*2:20*D*28,579*++*None
+Saturday, Apr 19*boxscore*NYY*@*WSH*L*2*4*None*2-2*3* 2.0*Hudson*Page*None*1:51*D*15,482*-*None
+Sunday, Apr 20*boxscore*NYY*@*PHA*W*6*2*None*3-2*2* 0.5*Chandler*Flores*None*2:07*D*None*+*None
+Sunday, Apr 20*boxscore*NYY*@*PHA*W*3*2*10*4-2*2* 0.5*Johnson*Marchildon*None*2:20*D*33,446*++*None
+Tuesday, Apr 22*boxscore*NYY*None*BOS*W*5*4*None*5-2*1* Tied*Bevens*Johnson*None*2:00*D*25,053*+++*None
+Wednesday, Apr 23*boxscore*NYY*None*BOS*W*3*0*None*6-2*1*up 1.0*Reynolds*Ferriss*None*1:49*D*30,729*++++*None
+Thursday, Apr 24*boxscore*NYY*None*BOS*L*0*1*None*6-3*1*up 0.5*Hughson*Shea*None*1:58*D*26,694*-*None
+Saturday, Apr 26*boxscore*NYY*None*WSH*W*3*1*None*7-3*1*up 0.5*Johnson*Haefner*None*2:05*D*30,017*+*None
+Sunday, Apr 27*boxscore*NYY*None*WSH*L*0*1*None*7-4*1*up 0.5*Hudson*Chandler*None*2:20*D*58,339*-*None
+Wednesday, Apr 30*boxscore*NYY*@*SLB*L*5*15*None*7-5*1* Tied*Galehouse*Reynolds*Sanford*2:12*D*4,141*--*None
+Friday, May 2*boxscore*NYY*@*CHW*W*5*2*None*8-5*1*up 1.0*Shea*Smith*None*2:05*D*2,914*+*None
+Saturday, May 3*boxscore*NYY*@*CHW*L*1*2*None*8-6*4* 1.0*Lee*Bevens*None*1:40*D*None*-*None
+Saturday, May 3*boxscore*NYY*@*CHW*L*3*10*None*8-7*4* 1.0*Lopat*Johnson*Maltzberger*2:16*D*18,402*--*1947-05-01 (Rain)
+Sunday, May 4*boxscore*NYY*@*DET*T*2*2*6*8-7*3* 2.0*None*None*None*1:26*D*37,387*--*None
+Tuesday, May 6*boxscore*NYY*@*DET*L*2*3*None*8-8*5* 2.0*White*Reynolds*None*2:14*D*12,652*---*None
+Saturday, May 10*boxscore*NYY*@*BOS*W*9*6*None*9-8*3* 1.0*Shea*Dobson*None*2:38*D*34,083*+*None
+Sunday, May 11*boxscore*NYY*@*BOS*L*7*8*None*9-9*6* 2.5*Dorish*Bevens*Johnson*2:42*D*32,211*-*None
+Monday, May 12*boxscore*NYY*@*BOS*L*3*4*None*9-10*6* 3.0*Johnson*Chandler*Klinger*2:17*D*24,726*--*None
+Tuesday, May 13*boxscore*NYY*None*SLB*W*9*1*None*10-10*4* 3.0*Reynolds*Zoldak*None*2:30*D*17,902*+*None
+Thursday, May 15*boxscore*NYY*None*CHW*L*2*8*None*10-11*5* 4.5*Haynes*Bevens*None*2:38*N*44,325*-*None
+Saturday, May 17*boxscore*NYY*None*CHW*W-wo*4*3*None*11-11*3* 3.5*Shea*Maltzberger*None*2:12*D*None*+*None
+Saturday, May 17*boxscore*NYY*None*CHW*W*4*3*None*12-11*3* 3.5*Chandler*Lopat*None*1:58*D*54,280*++*None
+Sunday, May 18*boxscore*NYY*None*CLE*L*3*5*None*12-12*4* 4.0*Feller*Reynolds*Gromek*2:58*D*28,702*-*None
+Monday, May 19*boxscore*NYY*None*CLE*L*4*5*None*12-13*5* 4.5*Stephens*Johnson*Gromek*2:29*D*18,390*--*None
+Tuesday, May 20*boxscore*NYY*None*CLE*L*2*4*None*12-14*5* 4.5*Black*Bevens*Klieman*2:10*D*11,022*---*None
+Wednesday, May 21*boxscore*NYY*None*DET*W*5*0*None*13-14*5* 3.5*Shea*Newhouser*None*1:49*N*49,844*+*None
+Friday, May 23*boxscore*NYY*None*BOS*W*9*0*None*14-14*4* 3.5*Reynolds*Dorish*None*2:00*D*25,496*++*None
+Saturday, May 24*boxscore*NYY*None*BOS*W*5*0*None*15-14*4* 3.5*Chandler*Ferriss*None*2:13*D*42,219*+++*None
+Sunday, May 25*boxscore*NYY*None*BOS*W*17*2*None*16-14*2* 3.0*Bevens*Hughson*None*2:22*D*41,496*++++*None
+Monday, May 26*boxscore*NYY*None*BOS*W*9*3*None*17-14*2* 3.0*Page*Dobson*None*2:42*N*74,747*+++++*None
+Tuesday, May 27*boxscore*NYY*@*WSH*L*4*5*None*17-15*2* 4.0*Masterson*Reynolds*Ferrick*2:25*N*24,527*-*None
+Wednesday, May 28*boxscore*NYY*@*WSH*W*9*5*None*18-15*2* 3.5*Johnson*Newsom*None*2:48*N*21,518*+*None
+Thursday, May 29*boxscore*NYY*@*WSH*W*5*2*None*19-15*2* 2.5*Shea*Wynn*Page*2:11*D*4,955*++*None
+Friday, May 30*boxscore*NYY*@*PHA*L*0*1*None*19-16*3* 3.5*Fowler*Chandler*None*1:33*D*None*-*None
+Friday, May 30*boxscore*NYY*@*PHA*L*0*4*None*19-17*3* 3.5*Coleman*Bevens*None*2:01*D*30,261*--*None
+Saturday, May 31*boxscore*NYY*@*CLE*W*8*4*None*20-17*2* 3.5*Drews*Feller*Page*2:22*D*28,288*+*None
+Sunday, Jun 1*boxscore*NYY*@*CLE*W*11*9*None*21-17*2* 3.0*Lyons*Lemon*Page*2:40*D*47,132*++*None
+Tuesday, Jun 3*boxscore*NYY*@*DET*W*3*0*None*22-17*2* 2.0*Shea*Newhouser*None*1:54*D*17,114*+++*None
+Wednesday, Jun 4*boxscore*NYY*@*DET*L*2*6*None*22-18*2* 2.0*Trout*Bevens*Hutchinson*2:00*D*None*-*None
+Wednesday, Jun 4*boxscore*NYY*@*DET*W*17*8*None*23-18*2* 2.0*Page*Benton*None*2:38*D*35,948*+*1947-05-05 (Rain)
+Thursday, Jun 5*boxscore*NYY*@*DET*W*7*0*None*24-18*2* 1.0*Chandler*Overmire*None*1:57*D*11,332*++*None
+Friday, Jun 6*boxscore*NYY*@*SLB*L*3*4*None*24-19*2* 1.5*Sanford*Page*Zoldak*2:15*N*13,118*-*None
+Saturday, Jun 7*boxscore*NYY*@*SLB*W*3*1*None*25-19*2* 1.0*Shea*Potter*None*1:55*D*4,934*+*None
+Sunday, Jun 8*boxscore*NYY*@*SLB*L*2*9*None*25-20*2* 1.5*Kramer*Drews*None*3:30*D*None*-*None
+Sunday, Jun 8*boxscore*NYY*@*SLB*W*5*4*None*26-20*2* 1.5*Page*Fannin*None*2:00*D*29,629*+*None
+Monday, Jun 9*boxscore*NYY*@*CHW*L-wo*8*9*10*26-21*2* 1.5*Haynes*Page*None*2:12*D*7,277*-*None
+Tuesday, Jun 10*boxscore*NYY*@*CHW*W*5*3*None*27-21*2* 0.5*Chandler*Lopat*None*1:46*N*38,887*+*None
+Wednesday, Jun 11*boxscore*NYY*@*CHW*L-wo*2*3*11*27-22*2* 1.0*Haynes*Shea*None*2:23*D*8,026*-*None
+Friday, Jun 13*boxscore*NYY*None*SLB*L*3*4*10*27-23*2* 1.5*Sanford*Bevens*None*2:25*N*33,124*--*None
+Saturday, Jun 14*boxscore*NYY*None*SLB*W*12*4*None*28-23*2* 1.0*Reynolds*Potter*None*2:22*D*17,094*+*None
+Sunday, Jun 15*boxscore*NYY*None*SLB*W*10*4*None*29-23*1*up 1.0*Chandler*Kramer*None*2:27*D*None*++*None
+Sunday, Jun 15*boxscore*NYY*None*SLB*W*2*1*None*30-23*1*up 1.0*Gumpert*Muncrief*None*1:57*D*55,691*+++*1947-05-14 (Rain)
+Monday, Jun 16*boxscore*NYY*None*CHW*W-wo*4*3*None*31-23*1*up 1.5*Page*Caldwell*None*2:04*N*52,633*++++*None
+Thursday, Jun 19*boxscore*NYY*None*CHW*L*4*6*None*31-24*1* Tied*Maltzberger*Bevens*None*2:39*D*19,375*-*None
+Friday, Jun 20*boxscore*NYY*None*DET*W*5*3*None*32-24*1*up 1.0*Shea*Newhouser*None*1:59*D*23,615*+*None
+Saturday, Jun 21*boxscore*NYY*None*DET*W*5*4*None*33-24*1*up 1.5*Chandler*Trout*None*2:13*D*None*++*None
+Saturday, Jun 21*boxscore*NYY*None*DET*W*7*4*None*34-24*1*up 1.5*Reynolds*Overmire*None*2:22*D*58,327*+++*1947-05-22 (Rain)
+Sunday, Jun 22*boxscore*NYY*None*DET*W*6*5*None*35-24*1*up 2.0*Drews*Benton*Page*1:58*D*53,765*++++*None
+Monday, Jun 23*boxscore*NYY*None*CLE*W*8*5*None*36-24*1*up 2.0*Page*Lemon*None*2:27*D*17,543*+++++*None
+Wednesday, Jun 25*boxscore*NYY*None*CLE*W*3*0*None*37-24*1*up 2.5*Shea*Stephens*None*1:48*N*60,090*++++++*None
+Thursday, Jun 26*boxscore*NYY*@*PHA*L*2*4*None*37-25*1*up 2.5*Coleman*Reynolds*None*2:03*D*11,873*-*None
+Friday, Jun 27*boxscore*NYY*@*PHA*W*7*1*None*38-25*1*up 3.5*Chandler*Scheib*None*2:05*N*38,329*+*None
+Saturday, Jun 28*boxscore*NYY*@*PHA*W*5*2*None*39-25*1*up 3.5*Gumpert*Flores*None*1:47*D*12,908*++*None
+Sunday, Jun 29*boxscore*NYY*@*WSH*L*1*5*None*39-26*1*up 4.5*Wynn*Drews*None*2:04*D*None*-*None
+Sunday, Jun 29*boxscore*NYY*@*WSH*W*3*1*None*40-26*1*up 4.5*Johnson*Masterson*Reynolds*2:24*D*27,883*+*1947-04-14 (Rain)
+Monday, Jun 30*boxscore*NYY*@*BOS*W*3*1*None*41-26*1*up 5.5*Shea*Dobson*None*2:15*N*34,705*++*None
+Wednesday, Jul 2*boxscore*NYY*None*WSH*W*8*1*None*42-26*1*up 6.5*Reynolds*Haefner*None*2:14*N*53,520*+++*None
+Friday, Jul 4*boxscore*NYY*None*WSH*W*7*3*None*43-26*1*up 7.5*Chandler*Wynn*None*2:04*D*None*++++*None
+Friday, Jul 4*boxscore*NYY*None*WSH*W*4*2*None*44-26*1*up 7.5*Page*Masterson*None*2:26*D*45,717*+++++*None
+Saturday, Jul 5*boxscore*NYY*None*PHA*W*5*1*None*45-26*1*up 8.0*Shea*Coleman*None*1:29*D*30,173*++++++*None
+Sunday, Jul 6*boxscore*NYY*None*PHA*W*8*2*None*46-26*1*up 8.0*Gumpert*Scheib*Page*2:16*D*None*+++++++*None
+Sunday, Jul 6*boxscore*NYY*None*PHA*W*9*2*None*47-26*1*up 8.0*Reynolds*Marchildon*None*2:19*D*51,957*++++++++*1947-04-16 (Cold)
+Thursday, Jul 10*boxscore*NYY*@*SLB*W*4*3*None*48-26*1*up 8.5*Page*Potter*None*2:09*N*11,030*+++++++++*None
+Friday, Jul 11*boxscore*NYY*@*SLB*W*3*1*None*49-26*1*up 9.0*Reynolds*Kinder*None*2:10*N*2,815*++++++++++*None
+Saturday, Jul 12*boxscore*NYY*@*SLB*W*12*2*None*50-26*1*up 9.5*Wensloff*Muncrief*None*2:08*D*4,949*+++++++++++*None
+Saturday, Jul 12*boxscore*NYY*@*SLB*W*8*5*None*51-26*1*up 9.5*Drews*Kramer*Page*2:30*D*4,949*++++++++++++*1947-04-29 (Rain)
+Sunday, Jul 13*boxscore*NYY*@*CHW*W*10*3*None*52-26*1*up10.5*Newsom*Haynes*None*2:09*D*None*+++++++++++++*None
+Sunday, Jul 13*boxscore*NYY*@*CHW*W*6*4*None*53-26*1*up10.5*Raschi*Harrist*Reynolds*2:11*D*43,102*++++++++++++++*None
+Tuesday, Jul 15*boxscore*NYY*@*CLE*W*9*4*None*54-26*1*up11.0*Reynolds*Stephens*None*2:19*N*None*+++++++++++++++*None
+Tuesday, Jul 15*boxscore*NYY*@*CLE*W*2*1*None*55-26*1*up11.0*Bevens*Feller*None*1:52*N*62,355*++++++++++++++++*1947-05-07 (Cold)
+Wednesday, Jul 16*boxscore*NYY*@*CLE*W*8*2*None*56-26*1*up11.5*Wensloff*Gettel*Page*2:17*N*26,988*+++++++++++++++++*None
+Thursday, Jul 17*boxscore*NYY*@*CLE*W*3*1*None*57-26*1*up11.5*Newsom*Embree*None*1:53*D*None*++++++++++++++++++*None
+Thursday, Jul 17*boxscore*NYY*@*CLE*W*7*2*None*58-26*1*up11.5*Raschi*Gromek*None*1:52*D*14,739*+++++++++++++++++++*1947-05-08 (Cold)
+Friday, Jul 18*boxscore*NYY*@*DET*L*0*8*None*58-27*1*up10.5*Hutchinson*Gumpert*None*1:43*D*28,718*-*None
+Saturday, Jul 19*boxscore*NYY*@*DET*W*2*1*None*59-27*1*up11.5*Reynolds*Trout*None*1:42*D*31,772*+*None
+Sunday, Jul 20*boxscore*NYY*@*DET*L*1*4*None*59-28*1*up 9.5*Newhouser*Bevens*None*1:40*D*None*-*None
+Sunday, Jul 20*boxscore*NYY*@*DET*L*11*12*11*59-29*1*up 9.5*Houtteman*Reynolds*None*2:47*D*58,369*--*None
+Tuesday, Jul 22*boxscore*NYY*None*SLB*W*6*0*None*60-29*1*up10.5*Newsom*Sanford*None*1:52*N*51,061*+*None
+Wednesday, Jul 23*boxscore*NYY*None*SLB*L*2*8*None*60-30*1*up10.5*Kinder*Shea*None*2:32*D*34,207*-*None
+Thursday, Jul 24*boxscore*NYY*None*SLB*W*14*5*None*61-30*1*up11.5*Raschi*Muncrief*None*2:14*D*17,756*+*None
+Friday, Jul 25*boxscore*NYY*None*CHW*W*12*4*None*62-30*1*up11.5*Reynolds*Gillespie*None*2:08*D*16,204*++*None
+Saturday, Jul 26*boxscore*NYY*None*CHW*L*1*2*None*62-31*1*up10.5*Lopat*Bevens*None*1:54*D*22,495*-*None
+Sunday, Jul 27*boxscore*NYY*None*CHW*W*7*4*None*63-31*1*up 9.5*Newsom*Ruffing*Page*2:30*D*None*+*None
+Sunday, Jul 27*boxscore*NYY*None*CHW*L*4*5*None*63-32*1*up 9.5*Papish*Page*None*2:32*D*51,921*-*1947-06-18 (Rain)
+Monday, Jul 28*boxscore*NYY*None*DET*W*5*1*None*64-32*1*up10.0*Raschi*Newhouser*None*1:59*N*64,887*+*None
+Wednesday, Jul 30*boxscore*NYY*None*DET*W*8*5*None*65-32*1*up11.5*Page*Trout*None*2:29*D*28,466*++*None
+Friday, Aug 1*boxscore*NYY*None*CLE*L*3*4*None*65-33*1*up12.0*Embree*Page*Stephens*2:23*D*19,980*-*None
+Saturday, Aug 2*boxscore*NYY*None*CLE*W-wo*3*2*14*66-33*1*up12.5*Drews*Gromek*None*3:50*D*None*+*None
+Saturday, Aug 2*boxscore*NYY*None*CLE*W*3*0*8*67-33*1*up12.5*Raschi*Gettel*None*1:34*D*62,537*++*1947-06-24 (Rain)
+Sunday, Aug 3*boxscore*NYY*None*CLE*W-wo*5*4*None*68-33*1*up13.5*Reynolds*Stephens*None*2:13*D*33,982*+++*None
+Monday, Aug 4*boxscore*NYY*None*PHA*L*5*9*None*68-34*1*up13.0*Scheib*Johnson*None*2:23*N*45,612*-*None
+Tuesday, Aug 5*boxscore*NYY*@*PHA*W*8*5*None*69-34*1*up14.0*Reynolds*Savage*Drews*2:30*N*29,442*+*None
+Wednesday, Aug 6*boxscore*NYY*@*PHA*L*3*5*None*69-35*1*up13.0*McCahan*Newsom*None*1:43*D*28,856*-*None
+Friday, Aug 8*boxscore*NYY*@*BOS*L*6*9*None*69-36*1*up12.5*Harris*Page*None*2:23*N*34,711*--*None
+Saturday, Aug 9*boxscore*NYY*@*BOS*L*4*6*None*69-37*1*up11.5*Ferriss*Shea*Johnson*2:12*D*23,723*---*None
+Sunday, Aug 10*boxscore*NYY*@*BOS*W*2*1*None*70-37*1*up12.5*Drews*Dobson*Page*2:31*D*31,329*+*None
+Monday, Aug 11*boxscore*NYY*None*PHA*L*2*3*None*70-38*1*up11.5*McCahan*Newsom*None*1:58*N*42,216*-*None
+Wednesday, Aug 13*boxscore*NYY*None*PHA*W*8*2*None*71-38*1*up11.0*Raschi*Scheib*None*1:59*D*16,454*+*None
+Thursday, Aug 14*boxscore*NYY*None*PHA*W*8*5*None*72-38*1*up11.5*Reynolds*Marchildon*Shea*2:08*D*13,130*++*None
+Friday, Aug 15*boxscore*NYY*None*BOS*W*10*6*None*73-38*1*up12.5*Page*Harris*None*2:32*N*67,803*+++*None
+Saturday, Aug 16*boxscore*NYY*None*BOS*W-wo*1*0*None*74-38*1*up13.5*Newsom*Johnson*None*1:54*D*34,675*++++*None
+Sunday, Aug 17*boxscore*NYY*None*BOS*L*0*3*11*74-39*1*up12.5*Galehouse*Raschi*None*2:14*D*45,840*-*None
+Tuesday, Aug 19*boxscore*NYY*@*DET*L*1*2*None*74-40*1*up11.5*Overmire*Reynolds*None*1:55*D*19,984*--*None
+Wednesday, Aug 20*boxscore*NYY*@*DET*W*14*13*11*75-40*1*up12.0*Drews*White*None*3:18*D*23,508*+*None
+Thursday, Aug 21*boxscore*NYY*@*CLE*W*9*3*None*76-40*1*up13.0*Bevens*Black*None*2:11*N*31,800*++*None
+Friday, Aug 22*boxscore*NYY*@*CLE*L*3*4*None*76-41*1*up12.0*Lemon*Raschi*Klieman*2:11*N*None*-*1947-06-02 (Rain)
+Friday, Aug 22*boxscore*NYY*@*CLE*L*1*6*None*76-42*1*up12.0*Feller*Drews*None*2:20*N*52,105*--*1947-06-01 (Darkness)
+Saturday, Aug 23*boxscore*NYY*@*CLE*W*13*6*None*77-42*1*up12.5*Reynolds*Embree*Page*2:26*D*17,242*+*None
+Sunday, Aug 24*boxscore*NYY*@*CHW*L*2*3*None*77-43*1*up12.5*Haynes*Newsom*Caldwell*1:54*D*None*-*None
+Sunday, Aug 24*boxscore*NYY*@*CHW*W*16*6*7*78-43*1*up12.5*Page*Ruffing*None*1:55*D*37,866*+*None
+Monday, Aug 25*boxscore*NYY*@*CHW*L*3*4*None*78-44*1*up12.5*Papish*Bevens*Gebrian*2:01*N*20,505*-*1947-07-14 (Rain)
+Tuesday, Aug 26*boxscore*NYY*@*SLB*L-wo*3*4*None*78-45*1*up12.0*Potter*Bevens*None*2:23*N*6,535*--*None
+Wednesday, Aug 27*boxscore*NYY*@*SLB*W*7*6*10*79-45*1*up12.5*Page*Potter*None*2:35*D*2,276*+*None
+Friday, Aug 29*boxscore*NYY*None*WSH*W-wo*4*3*10*80-45*1*up12.0*Page*Wynn*None*2:30*N*44,249*++*None
+Saturday, Aug 30*boxscore*NYY*None*WSH*W-wo*6*5*None*81-45*1*up12.0*Page*Ferrick*None*2:26*D*15,078*+++*None
+Sunday, Aug 31*boxscore*NYY*None*WSH*W*6*5*None*82-45*1*up12.5*Gumpert*Masterson*Page*1:56*D*None*++++*None
+Sunday, Aug 31*boxscore*NYY*None*WSH*W*5*1*None*83-45*1*up12.5*Wensloff*Hudson*None*1:46*D*44,541*+++++*1947-04-25 (Rain)
+Monday, Sep 1*boxscore*NYY*@*BOS*L*3*6*None*83-46*1*up10.5*Galehouse*Drews*None*2:36*D*None*-*None
+Monday, Sep 1*boxscore*NYY*@*BOS*L*1*4*None*83-47*1*up10.5*Johnson*Bevens*None*1:45*D*35,294*--*None
+Wednesday, Sep 3*boxscore*NYY*@*BOS*W*11*2*None*84-47*1*up12.5*Newsom*Hughson*None*2:20*D*None*+*None
+Wednesday, Sep 3*boxscore*NYY*@*BOS*W*9*6*None*85-47*1*up12.5*Shea*Smith*Page*2:41*D*32,723*++*1947-09-02 (Rain)
+Thursday, Sep 4*boxscore*NYY*@*WSH*L*4*5*None*85-48*1*up12.0*Masterson*Page*None*2:11*N*15,760*-*None
+Friday, Sep 5*boxscore*NYY*@*WSH*L*2*3*None*85-49*1*up12.0*Haefner*Wensloff*None*1:55*N*11,101*--*None
+Saturday, Sep 6*boxscore*NYY*@*WSH*L*6*9*None*85-50*1*up11.0*Wynn*Drews*Candini*2:20*D*8,500*---*None
+Sunday, Sep 7*boxscore*NYY*@*WSH*W*7*1*None*86-50*1*up12.5*Reynolds*Scarborough*Page*1:51*D*15,122*+*None
+Monday, Sep 8*boxscore*NYY*None*CLE*L*3*4*None*86-51*1*up12.0*Lemon*Newsom*Feller*2:21*N*53,101*-*None
+Wednesday, Sep 10*boxscore*NYY*None*CLE*W*7*4*None*87-51*1*up12.5*Page*Stephens*None*2:10*D*24,100*+*None
+Thursday, Sep 11*boxscore*NYY*None*DET*L*2*7*None*87-52*1*up12.5*Newhouser*Shea*None*2:02*D*25,000*-*None
+Thursday, Sep 11*boxscore*NYY*None*DET*W*11*5*None*88-52*1*up12.5*Bevens*Overmire*None*2:18*D*22,501*+*1947-07-31 (Rain)
+Friday, Sep 12*boxscore*NYY*None*DET*L*2*7*None*88-53*1*up12.0*Houtteman*Reynolds*None*2:37*N*8,501*-*None
+Saturday, Sep 13*boxscore*NYY*None*DET*W*5*2*None*89-53*1*up12.5*Newsom*Trucks*Page*2:04*D*24,407*+*None
+Sunday, Sep 14*boxscore*NYY*None*SLB*W*6*4*None*90-53*1*up12.5*Raschi*Kinder*Page*2:10*D*23,090*++*None
+Tuesday, Sep 16*boxscore*NYY*None*SLB*W*8*3*None*91-53*1*up12.5*Starr*Sanford*None*2:02*D*None*+++*None
+Tuesday, Sep 16*boxscore*NYY*None*SLB*L*2*8*None*91-54*1*up12.5*Zoldak*Drews*None*1:49*D*18,926*-*1947-09-15 (Rain)
+Wednesday, Sep 17*boxscore*NYY*None*CHW*W*5*0*None*92-54*1*up13.5*Reynolds*Lee*None*2:03*D*5,804*+*None
+Thursday, Sep 18*boxscore*NYY*None*CHW*W*3*1*None*93-54*1*up13.5*Shea*Lopat*None*1:32*D*5,058*++*None
+Saturday, Sep 20*boxscore*NYY*@*PHA*L*2*3*None*93-55*1*up13.0*Fowler*Newsom*None*1:36*D*5,134*-*None
+Sunday, Sep 21*boxscore*NYY*@*PHA*W*6*0*None*94-55*1*up14.0*Bevens*Coleman*None*1:55*D*18,333*+*None
+Tuesday, Sep 23*boxscore*NYY*None*WSH*W*2*0*None*95-55*1*up14.5*Reynolds*Masterson*Page*2:02*D*None*++*None
+Tuesday, Sep 23*boxscore*NYY*None*WSH*W*3*1*None*96-55*1*up14.5*Shea*Haefner*Page*1:32*D*5,475*+++*1947-09-22 (Rain)
+Friday, Sep 26*boxscore*NYY*None*BOS*L*2*3*None*96-56*1*up13.0*Galehouse*Chandler*None*1:55*D*5,011*-*1947-09-25 (Rain)
+Saturday, Sep 27*boxscore*NYY*None*PHA*L*1*2*10*96-57*1*up12.0*Marchildon*Page*None*2:37*D*8,284*--*None
+Sunday, Sep 28*boxscore*NYY*None*PHA*W*5*3*None*97-57*1*up12.0*Wight*Brissie*None*1:49*D*23,085*+*None

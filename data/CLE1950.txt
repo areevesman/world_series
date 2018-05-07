@@ -1,0 +1,155 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 20*boxscore*CLE*None*DET*L*4*5*None*0-2*7* 2.0*Gray*Wynn*None*2:23*D*4,964*--*1950-04-19 (Rain)
+Saturday, Apr 22*boxscore*CLE*@*SLB*W*6*2*None*1-2*6* 2.5*Feller*Overmire*None*2:18*D*10,166*+*None
+Sunday, Apr 23*boxscore*CLE*@*SLB*W*9*6*None*2-2*2* 1.0*Lemon*Raney*None*2:35*D*None*++*None
+Sunday, Apr 23*boxscore*CLE*@*SLB*W*7*5*7*3-2*2* 1.0*Gromek*Garver*Flores*2:06*D*18,146*+++*None
+Friday, Apr 28*boxscore*CLE*@*DET*W*6*1*None*4-2*2* 1.0*Feller*Gray*None*2:14*D*15,155*++++*None
+Saturday, Apr 29*boxscore*CLE*None*SLB*L*1*5*None*4-3*3* 1.5*Ostrowski*Lemon*None*2:03*D*7,919*-*None
+Tuesday, May 2*boxscore*CLE*@*BOS*L*1*6*None*4-4*5* 1.5*McDermott*Garcia*None*2:28*D*11,591*--*None
+Wednesday, May 3*boxscore*CLE*@*BOS*L*2*7*None*4-5*5* 2.0*Kinder*Feller*None*2:23*D*14,582*---*None
+Thursday, May 4*boxscore*CLE*@*BOS*W*5*4*None*5-5*5* 2.0*Lemon*Parnell*None*2:12*D*13,138*+*None
+Saturday, May 6*boxscore*CLE*@*NYY*W*5*4*None*6-5*4* 3.0*Wynn*Reynolds*Lemon*2:56*D*None*++*None
+Saturday, May 6*boxscore*CLE*@*NYY*L*4*7*8*6-6*4* 3.0*Sanford*Zoldak*Page*2:18*D*34,730*-*1950-05-05 (Rain)
+Sunday, May 7*boxscore*CLE*@*WSH*L*5*10*None*6-7*5* 3.5*Harris*Flores*None*2:42*D*23,138*--*None
+Monday, May 8*boxscore*CLE*@*WSH*L*2*4*None*6-8*5* 4.0*Hudson*Feller*None*2:20*N*19,985*---*None
+Tuesday, May 9*boxscore*CLE*@*PHA*L*8*9*None*6-9*5* 5.0*Wyse*Gromek*Scheib*2:22*N*11,908*----*None
+Wednesday, May 10*boxscore*CLE*@*PHA*W*6*4*None*7-9*5* 4.5*Lemon*Hooper*Flores*2:40*N*5,616*+*None
+Thursday, May 11*boxscore*CLE*@*PHA*W*4*3*10*8-9*5* 4.0*Flores*Kellner*None*2:46*D*3,035*++*None
+Friday, May 12*boxscore*CLE*None*CHW*W*5*1*None*9-9*5* 3.5*Wynn*Wight*Pieretti*2:47*N*26,932*+++*None
+Saturday, May 13*boxscore*CLE*None*CHW*W*6*2*None*10-9*5* 3.5*Flores*Cain*None*2:20*D*8,547*++++*None
+Sunday, May 14*boxscore*CLE*None*CHW*L*2*3*None*10-10*5* 3.0*Haefner*Lemon*None*2:35*D*None*-*None
+Sunday, May 14*boxscore*CLE*None*CHW*W*3*1*None*11-10*5* 3.0*Garcia*Pierce*None*2:18*D*27,968*+*None
+Tuesday, May 16*boxscore*CLE*None*PHA*W*15*4*None*12-10*5* 3.0*Wynn*Scheib*None*2:57*N*12,396*++*None
+Wednesday, May 17*boxscore*CLE*None*PHA*L*5*7*None*12-11*5* 3.5*Shantz*Flores*Scheib*2:41*N*12,471*-*None
+Thursday, May 18*boxscore*CLE*None*PHA*W-wo*4*3*None*13-11*5* 3.0*Benton*Brissie*None*2:07*D*5,251*+*None
+Friday, May 19*boxscore*CLE*None*BOS*W*4*1*None*14-11*5* 3.0*Zoldak*Parnell*None*1:51*N*34,892*++*None
+Saturday, May 20*boxscore*CLE*None*BOS*W*8*5*None*15-11*4* 3.0*Lemon*Stobbs*None*2:25*D*21,528*+++*None
+Sunday, May 21*boxscore*CLE*None*NYY*L*5*14*None*15-12*5* 5.0*Lopat*Wynn*None*2:44*D*None*-*None
+Sunday, May 21*boxscore*CLE*None*NYY*L*4*12*None*15-13*5* 5.0*Reynolds*Feller*None*2:56*D*79,570*--*None
+Monday, May 22*boxscore*CLE*None*NYY*L*2*7*None*15-14*5* 6.0*Raschi*Garcia*None*2:33*N*23,035*---*None
+Wednesday, May 24*boxscore*CLE*None*WSH*W*5*4*None*16-14*5* 5.5*Bearden*Haynes*None*2:40*N*13,082*+*None
+Thursday, May 25*boxscore*CLE*None*WSH*W*3*0*None*17-14*4* 5.5*Lemon*Weik*None*2:28*D*5,691*++*None
+Friday, May 26*boxscore*CLE*@*CHW*W*2*1*None*18-14*4* 5.5*Feller*Cain*None*2:33*N*9,879*+++*None
+Saturday, May 27*boxscore*CLE*@*CHW*L*1*6*None*18-15*4* 5.5*Pierce*Garcia*None*2:30*D*2,325*-*1950-04-24 (Wet grounds)
+Sunday, May 28*boxscore*CLE*@*CHW*L*0*2*None*18-16*4* 5.5*Wight*Wynn*None*2:15*D*None*--*None
+Sunday, May 28*boxscore*CLE*@*CHW*W*7*0*None*19-16*4* 5.5*Gromek*Haefner*None*2:18*D*23,559*+*None
+Tuesday, May 30*boxscore*CLE*@*DET*W*4*0*None*20-16*4* 6.5*Lemon*Houtteman*None*2:05*D*None*++*None
+Tuesday, May 30*boxscore*CLE*@*DET*L*2*5*None*20-17*4* 6.5*Newhouser*Bearden*None*1:51*D*55,537*-*None
+Friday, Jun 2*boxscore*CLE*@*BOS*L*5*11*None*20-18*4* 7.0*Dobson*Feller*None*2:26*N*35,473*--*None
+Saturday, Jun 3*boxscore*CLE*@*BOS*L*9*11*None*20-19*4* 8.5*Papai*Garcia*None*2:35*D*23,612*---*None
+Sunday, Jun 4*boxscore*CLE*@*NYY*L*0*7*None*20-20*4* 9.5*Lopat*Lemon*None*2:21*D*44,781*----*None
+Monday, Jun 5*boxscore*CLE*@*NYY*W*3*2*None*21-20*4* 8.5*Feller*Reynolds*None*2:47*N*57,629*+*None
+Tuesday, Jun 6*boxscore*CLE*@*NYY*W*16*2*None*22-20*4* 7.5*Garcia*Porterfield*None*2:36*D*17,867*++*None
+Wednesday, Jun 7*boxscore*CLE*@*WSH*L*4*5*None*22-21*4* 8.5*Hudson*Wynn*None*2:26*N*17,526*-*None
+Thursday, Jun 8*boxscore*CLE*@*WSH*L-wo*6*7*None*22-22*4* 9.5*Harris*Bearden*None*2:25*N*16,589*--*None
+Friday, Jun 9*boxscore*CLE*@*WSH*W*8*7*None*23-22*4* 8.5*Feller*Marrero*Zoldak*2:45*D*5,482*+*None
+Saturday, Jun 10*boxscore*CLE*@*PHA*W*7*3*None*24-22*4* 7.5*Garcia*Brissie*None*2:33*D*3,811*++*None
+Sunday, Jun 11*boxscore*CLE*@*PHA*W*6*3*10*25-22*4* 8.5*Lemon*Shantz*Benton*2:49*D*None*+++*None
+Sunday, Jun 11*boxscore*CLE*@*PHA*L*6*9*None*25-23*4* 8.5*Kellner*Gromek*Hooper*2:07*D*14,241*-*None
+Tuesday, Jun 13*boxscore*CLE*None*BOS*L*1*8*None*25-24*4* 9.0*Stobbs*Feller*None*2:25*N*25,496*--*None
+Wednesday, Jun 14*boxscore*CLE*None*BOS*W*7*3*None*26-24*4* 8.0*Garcia*Kinder*None*1:58*N*28,368*+*None
+Thursday, Jun 15*boxscore*CLE*None*BOS*W*3*1*None*27-24*4* 8.0*Lemon*Masterson*None*2:01*D*12,684*++*None
+Friday, Jun 16*boxscore*CLE*None*PHA*W*3*2*None*28-24*4* 8.0*Wynn*Kellner*None*2:20*N*26,102*+++*None
+Saturday, Jun 17*boxscore*CLE*None*PHA*W-wo*8*7*None*29-24*3* 8.0*Weik*Scheib*None*3:28*D*9,232*++++*None
+Sunday, Jun 18*boxscore*CLE*None*PHA*W*7*0*None*30-24*3* 7.5*Feller*Fowler*None*2:03*D*None*+++++*None
+Sunday, Jun 18*boxscore*CLE*None*PHA*W*21*2*None*31-24*3* 7.5*Garcia*Brissie*None*2:18*D*35,521*++++++*None
+Tuesday, Jun 20*boxscore*CLE*None*NYY*L*2*8*None*31-25*3* 7.5*Lopat*Lemon*None*2:40*N*57,733*-*None
+Wednesday, Jun 21*boxscore*CLE*None*NYY*W*5*1*None*32-25*3* 6.5*Wynn*Raschi*None*2:20*D*16,737*+*None
+Thursday, Jun 22*boxscore*CLE*None*NYY*W*6*2*None*33-25*3* 5.5*Feller*Ostrowski*None*2:01*D*18,407*++*None
+Friday, Jun 23*boxscore*CLE*None*WSH*W*13*4*None*34-25*3* 5.5*Lemon*Ross*None*2:48*N*26,627*+++*None
+Saturday, Jun 24*boxscore*CLE*None*WSH*W*6*5*None*35-25*3* 5.5*Gromek*Harris*None*2:46*D*12,219*++++*None
+Sunday, Jun 25*boxscore*CLE*None*WSH*W*7*6*None*36-25*3* 5.5*Wynn*Marrero*Flores*2:25*D*None*+++++*None
+Sunday, Jun 25*boxscore*CLE*None*WSH*L*3*5*None*36-26*3* 5.5*Consuegra*Weik*Harris*2:40*D*33,667*-*None
+Tuesday, Jun 27*boxscore*CLE*@*SLB*L*3*4*None*36-27*3* 7.0*Widmar*Feller*None*2:04*N*4,050*--*None
+Wednesday, Jun 28*boxscore*CLE*@*SLB*W*18*2*None*37-27*3* 7.0*Lemon*Dorish*None*2:37*N*2,491*+*None
+Thursday, Jun 29*boxscore*CLE*@*SLB*W*4*1*None*38-27*3* 6.0*Gromek*Pillette*None*2:02*N*2,273*++*None
+Friday, Jun 30*boxscore*CLE*None*DET*W*11*3*None*39-27*3* 5.0*Garcia*Newhouser*None*2:10*N*50,882*+++*None
+Saturday, Jul 1*boxscore*CLE*None*DET*W*7*4*None*40-27*2* 4.0*Wynn*White*Benton*2:39*D*28,056*++++*None
+Sunday, Jul 2*boxscore*CLE*None*DET*L*5*8*None*40-28*3* 4.0*Newhouser*Weik*None*2:52*D*None*-*None
+Sunday, Jul 2*boxscore*CLE*None*DET*W*5*3*None*41-28*3* 4.0*Feller*Gray*Benton*2:24*D*78,187*+*None
+Monday, Jul 3*boxscore*CLE*None*SLB*L*2*4*None*41-29*3* 5.0*Starr*Gromek*Marshall*2:19*D*11,656*-*None
+Tuesday, Jul 4*boxscore*CLE*None*SLB*W-wo*8*7*None*42-29*3* 5.0*Gromek*Dorish*None*2:48*D*None*+*None
+Tuesday, Jul 4*boxscore*CLE*None*SLB*L*3*8*None*42-30*3* 5.0*Johnson*Garcia*Widmar*2:28*D*25,799*-*None
+Wednesday, Jul 5*boxscore*CLE*None*CHW*W*8*3*None*43-30*3* 5.0*Lemon*Pierce*None*2:21*N*23,006*+*None
+Thursday, Jul 6*boxscore*CLE*None*CHW*W*5*2*None*44-30*3* 4.5*Wynn*Scarborough*None*2:40*D*13,405*++*None
+Friday, Jul 7*boxscore*CLE*@*DET*L*2*5*None*44-31*3* 5.5*Gray*Feller*None*2:06*N*55,145*-*None
+Saturday, Jul 8*boxscore*CLE*@*DET*L*4*5*None*44-32*3* 6.5*Newhouser*Gromek*Trout*2:20*D*33,239*--*None
+Sunday, Jul 9*boxscore*CLE*@*DET*W*6*2*None*45-32*3* 4.5*Lemon*Houtteman*None*2:35*D*None*+*None
+Sunday, Jul 9*boxscore*CLE*@*DET*W*5*2*None*46-32*3* 4.5*Wynn*Rogovin*None*2:24*D*54,299*++*1950-04-27 (Rain)
+Friday, Jul 14*boxscore*CLE*@*NYY*W*5*1*None*47-32*3* 5.0*Lemon*Byrne*None*2:51*N*42,105*+++*None
+Saturday, Jul 15*boxscore*CLE*@*NYY*L-wo*3*4*10*47-33*3* 5.5*Lopat*Wynn*None*3:15*D*26,124*-*None
+Sunday, Jul 16*boxscore*CLE*@*BOS*L*10*13*None*47-34*3* 5.5*Nixon*Bearden*Kinder*2:58*D*None*--*None
+Sunday, Jul 16*boxscore*CLE*@*BOS*W*8*4*None*48-34*3* 5.5*Gromek*Masterson*Lemon*2:14*D*33,009*+*None
+Monday, Jul 17*boxscore*CLE*@*BOS*W*11*6*None*49-34*3* 6.5*Benton*Dobson*None*2:34*D*12,438*++*None
+Monday, Jul 17*boxscore*CLE*@*BOS*L*5*7*None*49-35*3* 6.5*Dobson*Pieretti*None*2:45*N*24,966*-*1950-06-01 (Rain)
+Tuesday, Jul 18*boxscore*CLE*@*PHA*W*10*2*None*50-35*3* 5.5*Lemon*Shantz*Benton*2:25*N*4,699*+*None
+Wednesday, Jul 19*boxscore*CLE*@*PHA*W*4*0*None*51-35*3* 5.5*Feller*Fowler*None*1:51*N*4,580*++*None
+Thursday, Jul 20*boxscore*CLE*@*PHA*W*3*2*11*52-35*3* 4.5*Zoldak*Kellner*None*2:30*N*2,948*+++*None
+Friday, Jul 21*boxscore*CLE*@*WSH*L*2*3*None*52-36*3* 4.5*Marrero*Garcia*None*2:30*N*18,735*-*None
+Saturday, Jul 22*boxscore*CLE*@*WSH*W*8*3*10*53-36*3* 3.5*Zoldak*Singleton*None*2:46*N*24,228*+*None
+Sunday, Jul 23*boxscore*CLE*@*WSH*W*6*2*None*54-36*3* 3.5*Lemon*Kuzava*None*2:15*D*19,339*++*None
+Tuesday, Jul 25*boxscore*CLE*None*PHA*W*7*6*None*55-36*3* 2.5*Feller*Kellner*Lemon*2:31*N*22,880*+++*None
+Wednesday, Jul 26*boxscore*CLE*None*PHA*W*6*2*None*56-36*3* 1.5*Zoldak*Fowler*None*1:57*N*19,025*++++*None
+Thursday, Jul 27*boxscore*CLE*None*PHA*L*2*7*None*56-37*3* 2.5*Brissie*Gromek*None*2:26*D*13,224*-*None
+Friday, Jul 28*boxscore*CLE*None*BOS*W*13*1*None*57-37*3* 1.5*Wynn*McDermott*None*2:29*D*50,349*+*None
+Saturday, Jul 29*boxscore*CLE*None*BOS*W*4*1*None*58-37*3* 1.5*Lemon*Stobbs*None*2:16*D*29,904*++*None
+Sunday, Jul 30*boxscore*CLE*None*BOS*W-wo*6*5*10*59-37*3* 2.0*Benton*Kinder*None*2:46*D*None*+++*None
+Sunday, Jul 30*boxscore*CLE*None*BOS*L*3*6*None*59-38*3* 2.0*Nixon*Zoldak*Parnell*2:26*D*71,513*-*None
+Tuesday, Aug 1*boxscore*CLE*None*WSH*W*8*2*None*60-38*3* 2.0*Wynn*Hudson*None*2:42*N*16,864*+*None
+Wednesday, Aug 2*boxscore*CLE*None*WSH*W*11*0*None*61-38*2* 2.0*Lemon*Marrero*None*2:02*N*20,224*++*None
+Friday, Aug 4*boxscore*CLE*None*NYY*L*0*1*None*61-39*3* 2.5*Raschi*Feller*None*2:39*N*66,743*-*None
+Saturday, Aug 5*boxscore*CLE*None*NYY*W*4*2*None*62-39*2* 2.5*Wynn*Reynolds*None*2:22*D*40,987*+*None
+Sunday, Aug 6*boxscore*CLE*None*NYY*L*0*9*None*62-40*3* 3.5*Byrne*Lemon*None*2:42*D*66,726*-*None
+Wednesday, Aug 9*boxscore*CLE*@*SLB*W*4*3*None*63-40*3* 3.5*Benton*Widmar*Flores*2:34*N*None*+*None
+Wednesday, Aug 9*boxscore*CLE*@*SLB*L*8*10*None*63-41*3* 3.5*Fannin*Benton*None*2:55*N*7,986*-*1950-08-08 (Rain)
+Thursday, Aug 10*boxscore*CLE*@*SLB*W*5*4*None*64-41*2* 3.5*Lemon*Overmire*None*2:23*N*4,412*+*None
+Friday, Aug 11*boxscore*CLE*@*CHW*W*3*2*None*65-41*2* 3.0*Garcia*Pierce*None*2:21*D*6,554*++*None
+Saturday, Aug 12*boxscore*CLE*@*CHW*L*4*11*None*65-42*3* 3.5*Aloma*Gromek*None*2:36*D*7,259*-*1950-04-25 (Wet grounds)
+Sunday, Aug 13*boxscore*CLE*@*CHW*W*5*2*None*66-42*2* 3.5*Feller*Wight*Zoldak*2:06*D*None*+*None
+Sunday, Aug 13*boxscore*CLE*@*CHW*L*5*7*None*66-43*2* 3.5*Scarborough*Weik*Holcombe*2:41*D*37,940*-*None
+Monday, Aug 14*boxscore*CLE*None*DET*W-wo*3*2*10*67-43*2* 2.5*Wynn*Newhouser*None*2:29*N*60,120*+*None
+Tuesday, Aug 15*boxscore*CLE*None*DET*L*1*4*None*67-44*2* 3.5*Houtteman*Lemon*Stuart*2:12*D*40,299*-*None
+Wednesday, Aug 16*boxscore*CLE*None*SLB*W*2*0*None*68-44*2* 3.0*Flores*Widmar*None*2:19*N*None*+*1950-04-30 (Rain)
+Wednesday, Aug 16*boxscore*CLE*None*SLB*W-wo*2*1*None*69-44*2* 3.0*Garcia*Johnson*None*2:19*N*27,016*++*None
+Thursday, Aug 17*boxscore*CLE*None*SLB*W-wo*5*4*12*70-44*2* 3.0*Gromek*Fannin*None*3:30*N*15,301*+++*None
+Saturday, Aug 19*boxscore*CLE*None*CHW*W*1*0*None*71-44*2* 3.0*Wynn*Holcombe*None*2:05*D*13,745*++++*None
+Sunday, Aug 20*boxscore*CLE*None*CHW*L*1*2*None*71-45*3* 4.0*Wight*Lemon*None*2:15*D*None*-*None
+Sunday, Aug 20*boxscore*CLE*None*CHW*L*5*6*None*71-46*3* 4.0*Pierce*Garcia*None*2:39*D*48,885*--*None
+Tuesday, Aug 22*boxscore*CLE*@*WSH*W*5*1*None*72-46*3* 3.5*Feller*Bearden*None*2:42*N*14,873*+*None
+Thursday, Aug 24*boxscore*CLE*@*WSH*W*3*1*None*73-46*2* 2.5*Wynn*Hudson*None*2:10*N*None*++*None
+Thursday, Aug 24*boxscore*CLE*@*WSH*W*5*3*None*74-46*2* 2.5*Lemon*Consuegra*Zoldak*2:28*N*20,628*+++*1950-08-23 (Rain)
+Friday, Aug 25*boxscore*CLE*@*PHA*W*6*2*None*75-46*2* 1.5*Garcia*Kellner*None*2:30*N*5,204*++++*None
+Saturday, Aug 26*boxscore*CLE*@*PHA*W*5*4*None*76-46*2* 1.5*Lemon*Coleman*None*2:33*D*3,181*+++++*None
+Sunday, Aug 27*boxscore*CLE*@*BOS*L*9*11*None*76-47*3* 2.0*Stobbs*Benton*Dobson*3:01*D*31,747*-*None
+Monday, Aug 28*boxscore*CLE*@*BOS*L*14*15*None*76-48*3* 2.0*Nixon*Feller*Kinder*3:26*D*28,328*--*None
+Tuesday, Aug 29*boxscore*CLE*@*NYY*L-wo*5*6*10*76-49*3* 2.0*Raschi*Wynn*None*2:45*D*None*---*None
+Wednesday, Aug 30*boxscore*CLE*@*NYY*L*3*4*None*76-50*4* 4.0*Ferrick*Feller*None*2:48*D*None*----*None
+Wednesday, Aug 30*boxscore*CLE*@*NYY*L*0*3*None*76-51*4* 4.0*Lopat*Garcia*None*2:09*D*30,516*-----*1950-07-13 (Rain)
+Thursday, Aug 31*boxscore*CLE*@*NYY*L*5*7*None*76-52*4* 5.0*Byrne*Lemon*Ferrick*2:46*D*21,020*------*None
+Saturday, Sep 2*boxscore*CLE*@*SLB*W*4*2*None*77-52*4* 5.5*Wynn*Overmire*None*2:09*N*2,491*+*None
+Sunday, Sep 3*boxscore*CLE*@*SLB*W*8*1*None*78-52*4* 5.0*Feller*Johnson*None*2:31*D*5,163*++*None
+Monday, Sep 4*boxscore*CLE*@*CHW*L*1*7*None*78-53*4* 5.0*Cain*Lemon*Aloma*2:40*D*None*-*None
+Monday, Sep 4*boxscore*CLE*@*CHW*W*1*0*None*79-53*4* 5.0*Garcia*Gumpert*Zoldak*2:10*D*33,489*+*None
+Tuesday, Sep 5*boxscore*CLE*@*CHW*W*3*2*10*80-53*4* 4.5*Gromek*Pierce*None*2:29*D*2,577*++*1950-04-26 (Cold)
+Wednesday, Sep 6*boxscore*CLE*@*DET*L*3*5*None*80-54*4* 4.5*Newhouser*Wynn*None*2:04*N*52,555*-*None
+Thursday, Sep 7*boxscore*CLE*@*DET*T*13*13*10*80-54*4* 4.0*None*None*None*3:25*D*26,617*-*None
+Friday, Sep 8*boxscore*CLE*None*SLB*L*4*5*None*80-55*4* 5.5*Pillette*Garcia*None*2:25*N*None*--*None
+Friday, Sep 8*boxscore*CLE*None*SLB*L*0*6*None*80-56*4* 5.5*Johnson*Lemon*None*2:29*N*18,736*---*1950-04-30 (Rain)
+Saturday, Sep 9*boxscore*CLE*None*SLB*L*1*2*10*80-57*4* 6.5*Garver*Gromek*None*2:10*N*15,867*----*None
+Sunday, Sep 10*boxscore*CLE*None*SLB*L*1*2*None*80-58*4* 7.0*Overmire*Feller*None*2:01*D*12,885*-----*None
+Tuesday, Sep 12*boxscore*CLE*None*NYY*W-wo*8*7*None*81-58*4* 7.0*Gromek*Ferrick*None*3:05*N*29,454*+*None
+Wednesday, Sep 13*boxscore*CLE*None*NYY*L*3*10*None*81-59*4* 8.0*Lopat*Lemon*Ford*2:25*D*10,490*-*None
+Friday, Sep 15*boxscore*CLE*None*WSH*W-wo*4*2*None*82-59*4* 8.0*Aber*Harris*None*2:00*N*None*+*None
+Friday, Sep 15*boxscore*CLE*None*WSH*L*1*4*None*82-60*4* 8.0*Hudson*Garcia*None*2:14*N*11,471*-*1950-09-14 (Rain)
+Saturday, Sep 16*boxscore*CLE*None*WSH*W*5*1*None*83-60*4* 7.5*Feller*Consuegra*None*1:51*D*5,705*+*None
+Sunday, Sep 17*boxscore*CLE*None*PHA*L*9*10*11*83-61*4* 8.0*Hooper*Wynn*None*3:15*D*11,810*-*None
+Wednesday, Sep 20*boxscore*CLE*None*BOS*W*6*3*None*84-61*4* 7.0*Lemon*Stobbs*None*2:31*D*None*+*None
+Wednesday, Sep 20*boxscore*CLE*None*BOS*W*7*1*None*85-61*4* 7.0*Wynn*Dobson*None*2:08*D*11,852*++*1950-09-19 (Rain)
+Friday, Sep 22*boxscore*CLE*None*DET*W-wo*4*3*None*86-61*4* 6.5*Feller*Newhouser*None*2:10*N*29,909*+++*None
+Saturday, Sep 23*boxscore*CLE*None*DET*W*10*2*None*87-61*4* 6.5*Garcia*Houtteman*None*2:15*D*17,315*++++*None
+Sunday, Sep 24*boxscore*CLE*None*DET*W-wo*2*1*10*88-61*4* 6.5*Lemon*Gray*None*2:42*D*35,092*+++++*None
+Tuesday, Sep 26*boxscore*CLE*None*CHW*W*2*0*None*89-61*4* 7.0*Wynn*Cain*None*2:08*N*8,870*++++++*None
+Wednesday, Sep 27*boxscore*CLE*None*CHW*W*7*0*None*90-61*4* 6.0*Feller*Scarborough*None*1:59*N*5,429*+++++++*1950-08-18 (Rain)
+Friday, Sep 29*boxscore*CLE*@*DET*W*12*2*None*91-61*4* 6.0*Lemon*Gray*None*2:29*D*9,814*++++++++*None
+Saturday, Sep 30*boxscore*CLE*@*DET*L*1*3*None*91-62*4* 7.0*Newhouser*Garcia*None*2:16*D*24,178*-*None
+Sunday, Oct 1*boxscore*CLE*@*DET*W*7*5*None*92-62*4* 6.0*Gromek*Stuart*None*2:20*D*49,110*+*None

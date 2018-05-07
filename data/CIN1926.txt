@@ -1,0 +1,157 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 14*boxscore*CIN*None*CHC*L*2*9*None*1-1*2* 1.0*Root*Mays*None*1:50*D*5,436*-*None
+Friday, Apr 16*boxscore*CIN*None*CHC*W*2*1*None*2-1*3* 0.5*Lucas*Alexander*None*1:15*D*3,174*+*None
+Saturday, Apr 17*boxscore*CIN*None*PIT*W*4*3*None*3-1*3* 0.5*Donohue*Yde*May*1:47*D*5,436*++*None
+Sunday, Apr 18*boxscore*CIN*None*PIT*L*1*3*None*3-2*4* 1.5*Aldridge*Luque*None*2:02*D*20,133*-*None
+Monday, Apr 19*boxscore*CIN*None*PIT*W*2*1*None*4-2*3* 1.0*Mays*Kremer*None*1:38*D*2,007*+*None
+Tuesday, Apr 20*boxscore*CIN*None*PIT*W*5*2*None*5-2*2* 0.5*Lucas*Morrison*None*1:35*D*4,728*++*None
+Wednesday, Apr 21*boxscore*CIN*@*CHC*L*2*4*None*5-3*2* 1.0*Alexander*Donohue*None*1:37*D*33,000*-*None
+Thursday, Apr 22*boxscore*CIN*@*CHC*T*5*5*11*5-3*3* 1.5*None*None*None*2:30*D*None*-*None
+Friday, Apr 23*boxscore*CIN*@*CHC*L*1*18*None*5-4*3* 2.5*Root*Mays*None*1:59*D*None*--*None
+Sunday, Apr 25*boxscore*CIN*None*STL*W*4*0*None*6-4*2* 1.0*Lucas*Sherdel*None*1:40*D*5,385*+*None
+Monday, Apr 26*boxscore*CIN*None*STL*W*3*2*10*7-4*1* Tied*May*Huntzinger*None*1:47*D*2,115*++*None
+Wednesday, Apr 28*boxscore*CIN*None*STL*L*3*5*None*7-5*2* 1.5*Keen*May*None*2:12*D*1,247*-*None
+Thursday, Apr 29*boxscore*CIN*@*PIT*W*16*9*None*8-5*2* 0.5*Luque*Sheehan*None*2:20*D*None*+*None
+Friday, Apr 30*boxscore*CIN*@*PIT*L*4*13*None*8-6*3* 1.0*Meadows*Mays*None*1:57*D*None*-*None
+Saturday, May 1*boxscore*CIN*@*PIT*L*2*3*None*8-7*4* 1.0*Morrison*Lucas*Kremer*1:25*D*None*--*None
+Sunday, May 2*boxscore*CIN*None*PIT*W*4*3*None*9-7*3* 1.0*Donohue*Aldridge*None*2:00*D*17,632*+*None
+Monday, May 3*boxscore*CIN*@*STL*W*9*6*None*10-7*2* 1.0*Rixey*Keen*Mays*2:04*D*None*++*None
+Tuesday, May 4*boxscore*CIN*@*STL*L*2*3*None*10-8*3* 2.0*Bell*Luque*None*1:41*D*None*-*None
+Wednesday, May 5*boxscore*CIN*@*STL*W*6*1*None*11-8*2* 1.5*Lucas*Johnson*None*1:56*D*None*+*None
+Thursday, May 6*boxscore*CIN*None*PHI*W*14*4*None*12-8*2* 0.5*Donohue*Mitchell*None*2:09*D*4,298*++*None
+Friday, May 7*boxscore*CIN*None*PHI*W*6*5*None*13-8*2* 0.5*May*Knight*None*1:53*D*3,875*+++*None
+Saturday, May 8*boxscore*CIN*None*PHI*W*2*0*None*14-8*2* 0.5*Rixey*Carlson*None*1:23*D*6,018*++++*None
+Sunday, May 9*boxscore*CIN*None*PHI*L*1*4*None*14-9*2* 1.5*Dean*Lucas*None*1:42*D*20,790*-*None
+Tuesday, May 11*boxscore*CIN*None*BSN*W*7*4*None*15-9*2* 1.0*Luque*Benton*None*1:46*D*3,214*+*None
+Wednesday, May 12*boxscore*CIN*None*BSN*W*9*1*None*16-9*2* 1.0*Donohue*Smith*None*1:40*D*2,964*++*None
+Thursday, May 13*boxscore*CIN*None*BSN*W*4*1*None*17-9*2* 0.5*Mays*Hearn*None*1:47*D*2,741*+++*None
+Friday, May 14*boxscore*CIN*None*NYG*W*6*4*None*18-9*1* Tied*May*Davies*None*1:44*D*5,809*++++*None
+Saturday, May 15*boxscore*CIN*None*NYG*W*11*6*None*19-9*1*up 1.0*Donohue*Wisner*None*2:11*D*10,504*+++++*None
+Sunday, May 16*boxscore*CIN*None*NYG*W*3*2*None*20-9*1*up 1.5*Luque*Scott*May*1:50*D*30,059*++++++*None
+Monday, May 17*boxscore*CIN*None*NYG*L*4*7*None*20-10*1*up 1.5*Ring*Mays*Davies*2:01*D*8,078*-*None
+Wednesday, May 19*boxscore*CIN*None*BRO*W*5*1*None*21-10*1*up 2.5*Donohue*Petty*None*1:44*D*3,706*+*None
+Thursday, May 20*boxscore*CIN*None*BRO*W*7*2*None*22-10*1*up 2.5*Rixey*McGraw*None*1:56*D*7,586*++*None
+Friday, May 21*boxscore*CIN*None*BRO*W*8*5*None*23-10*1*up 2.5*Lucas*Ehrhardt*None*1:54*D*7,187*+++*None
+Saturday, May 22*boxscore*CIN*None*BRO*W*11*3*None*24-10*1*up 3.5*Mays*Vance*None*1:52*D*10,220*++++*None
+Sunday, May 23*boxscore*CIN*None*PIT*L*2*7*None*24-11*1*up 2.5*Yde*Donohue*None*1:52*D*22,188*-*None
+Monday, May 24*boxscore*CIN*@*STL*L*6*11*None*24-12*1*up 1.5*Haines*Mays*Bell*2:22*D*None*--*None
+Tuesday, May 25*boxscore*CIN*@*STL*L*7*9*None*24-13*1*up 1.5*Keen*Luque*None*2:09*D*None*---*None
+Wednesday, May 26*boxscore*CIN*@*STL*L*5*8*None*24-14*1*up 1.0*Dyer*May*None*2:00*D*None*----*None
+Thursday, May 27*boxscore*CIN*None*STL*W*4*3*None*25-14*1*up 1.5*Donohue*Sherdel*None*1:45*D*None*+*None
+Thursday, May 27*boxscore*CIN*None*STL*W*2*1*None*26-14*1*up 1.5*Mays*Johnson*None*2:05*D*7,886*++*1926-04-27 (Rain)
+Friday, May 28*boxscore*CIN*None*STL*W*12*4*None*27-14*1*up 2.5*Rixey*Hallahan*None*2:41*D*3,820*+++*None
+Saturday, May 29*boxscore*CIN*None*STL*W*3*1*None*28-14*1*up 3.5*May*Keen*None*1:48*D*6,660*++++*None
+Sunday, May 30*boxscore*CIN*None*PIT*L*3*4*None*28-15*1*up 3.5*Meadows*Luque*None*2:01*D*15,656*-*None
+Monday, May 31*boxscore*CIN*@*PIT*W*7*2*None*29-15*1*up 3.5*Mays*Songer*None*1:51*D*23,029*+*None
+Monday, May 31*boxscore*CIN*@*PIT*L*5*9*None*29-16*1*up 3.5*Morrison*Lucas*None*2:04*D*31,460*-*None
+Thursday, Jun 3*boxscore*CIN*@*BSN*L*5*12*None*29-17*1*up 3.0*Genewich*Donohue*None*1:49*D*None*--*None
+Friday, Jun 4*boxscore*CIN*@*BSN*L*5*8*None*29-18*1*up 2.0*Graham*Rixey*None*2:07*D*None*---*None
+Saturday, Jun 5*boxscore*CIN*@*BSN*L*1*5*None*29-19*1*up 1.5*Benton*Luque*None*1:50*D*None*----*None
+Tuesday, Jun 8*boxscore*CIN*@*BSN*L*7*8*11*29-20*1*up 1.0*Hearn*May*None*2:33*D*None*-----*None
+Wednesday, Jun 9*boxscore*CIN*@*BRO*L*3*4*10*29-21*1* Tied*McGraw*Donohue*None*2:20*D*None*------*None
+Thursday, Jun 10*boxscore*CIN*@*BRO*W*4*3*None*30-21*1*up 1.0*Luque*Barnes*None*1:53*D*None*+*None
+Friday, Jun 11*boxscore*CIN*@*BRO*W*8*6*11*31-21*1*up 2.0*Donohue*Ehrhardt*None*2:53*D*None*++*None
+Sunday, Jun 13*boxscore*CIN*@*NYG*L*3*10*None*31-22*1*up 1.0*Greenfield*May*None*2:00*D*35,000*-*None
+Monday, Jun 14*boxscore*CIN*@*NYG*L*3*4*None*31-23*1*up 1.0*Davies*Donohue*None*2:23*D*None*--*None
+Tuesday, Jun 15*boxscore*CIN*@*NYG*L*2*3*None*31-24*1*up 0.5*Greenfield*Mays*None*1:36*D*8,000*---*None
+Friday, Jun 18*boxscore*CIN*@*PHI*W*13*5*None*32-24*1*up 0.5*Rixey*Dean*None*2:41*D*None*+*None
+Saturday, Jun 19*boxscore*CIN*@*PHI*W*8*2*None*33-24*1*up 1.0*Donohue*Knight*None*1:38*D*None*++*None
+Saturday, Jun 19*boxscore*CIN*@*PHI*W*14*8*None*34-24*1*up 1.0*May*Willoughby*None*2:12*D*None*+++*1926-06-17 (Cold)
+Sunday, Jun 20*boxscore*CIN*None*CHC*W*5*1*None*35-24*1*up 0.5*Mays*Blake*None*1:35*D*None*++++*None
+Sunday, Jun 20*boxscore*CIN*None*CHC*L*3*4*None*35-25*1*up 0.5*Kaufmann*Nehf*Root*2:03*D*25,702*-*1926-04-15 (Cold)
+Monday, Jun 21*boxscore*CIN*None*CHC*W*6*5*16*36-25*1*up 0.5*Donohue*Piercy*None*3:12*D*2,661*+*None
+Tuesday, Jun 22*boxscore*CIN*None*CHC*W*3*2*None*37-25*1*up 0.5*May*Osborn*None*1:55*D*3,154*++*None
+Wednesday, Jun 23*boxscore*CIN*None*CHC*L*3*5*10*37-26*1*up 0.5*Root*Luque*None*2:10*D*3,841*-*None
+Friday, Jun 25*boxscore*CIN*@*PIT*W*9*8*None*38-26*1*up 1.5*Lucas*Oldham*None*2:15*D*None*+*None
+Saturday, Jun 26*boxscore*CIN*@*PIT*W*9*1*None*39-26*1*up 2.0*Mays*Meadows*None*1:51*D*None*++*None
+Sunday, Jun 27*boxscore*CIN*None*PIT*W*16*0*None*40-26*1*up 2.5*Donohue*Songer*None*1:59*D*24,371*+++*None
+Monday, Jun 28*boxscore*CIN*None*PIT*W*6*1*None*41-26*1*up 3.5*Rixey*Aldridge*None*2:01*D*6,429*++++*None
+Tuesday, Jun 29*boxscore*CIN*None*PIT*W*6*3*None*42-26*1*up 4.0*Mays*Kremer*None*1:39*D*6,587*+++++*None
+Wednesday, Jun 30*boxscore*CIN*@*CHC*W*3*2*None*43-26*1*up 3.5*Luque*Milstead*None*1:39*D*None*++++++*None
+Wednesday, Jun 30*boxscore*CIN*@*CHC*L*4*9*None*43-27*1*up 3.5*Piercy*May*None*1:54*D*None*-*1926-04-24 (Rain)
+Thursday, Jul 1*boxscore*CIN*@*CHC*L*1*2*11*43-28*1*up 3.5*Root*Donohue*None*1:54*D*None*--*None
+Friday, Jul 2*boxscore*CIN*@*CHC*W*6*1*None*44-28*1*up 4.5*Rixey*Blake*None*1:35*D*None*+*None
+Saturday, Jul 3*boxscore*CIN*@*CHC*L*2*6*None*44-29*1*up 3.5*Osborn*Mays*Jones*1:43*D*None*-*None
+Saturday, Jul 3*boxscore*CIN*@*CHC*L*0*3*None*44-30*1*up 3.5*Jones*Luque*None*1:47*D*None*--*None
+Sunday, Jul 4*boxscore*CIN*@*STL*W*7*2*None*45-30*1*up 4.5*May*Sherdel*None*2:04*D*18,000*+*None
+Monday, Jul 5*boxscore*CIN*@*STL*W*4*0*None*46-30*1*up 4.5*Donohue*Rhem*None*1:35*D*None*++*None
+Monday, Jul 5*boxscore*CIN*@*STL*L*5*7*None*46-31*1*up 4.5*Haines*Lucas*None*2:02*D*None*-*None
+Tuesday, Jul 6*boxscore*CIN*@*STL*W*5*2*11*47-31*1*up 5.0*Mays*Alexander*None*1:42*D*None*+*None
+Wednesday, Jul 7*boxscore*CIN*@*STL*L*2*11*None*47-32*1*up 4.0*Reinhart*Luque*None*2:02*D*None*-*None
+Friday, Jul 9*boxscore*CIN*None*NYG*L*4*7*None*47-33*1*up 3.0*Fitzsimmons*Donohue*Scott*1:55*D*None*--*None
+Friday, Jul 9*boxscore*CIN*None*NYG*L*1*4*None*47-34*1*up 3.0*McQuillan*Rixey*None*1:32*D*16,990*---*1926-05-18 (Rain)
+Saturday, Jul 10*boxscore*CIN*None*NYG*L*4*8*None*47-35*1*up 2.0*Greenfield*Mays*None*2:05*D*5,766*----*None
+Sunday, Jul 11*boxscore*CIN*None*NYG*L*0*5*None*47-36*1*up 1.5*Barnes*Luque*None*1:40*D*18,500*-----*None
+Monday, Jul 12*boxscore*CIN*None*PHI*W*7*5*None*48-36*1*up 1.5*Rixey*Ulrich*May*1:57*D*3,183*+*None
+Tuesday, Jul 13*boxscore*CIN*None*PHI*W*10*7*None*49-36*1*up 2.0*Donohue*Bentley*Lucas*2:00*D*1,283*++*None
+Wednesday, Jul 14*boxscore*CIN*None*PHI*W*5*1*None*50-36*1*up 3.5*Mays*Carlson*None*1:45*D*3,438*+++*None
+Thursday, Jul 15*boxscore*CIN*None*PHI*L*6*8*None*50-37*1*up 2.5*Willoughby*Luque*Ulrich*2:12*D*3,556*-*None
+Saturday, Jul 17*boxscore*CIN*None*BRO*L*4*5*None*50-38*1*up 2.0*Barnes*Rixey*McWeeny*1:49*D*6,953*--*None
+Sunday, Jul 18*boxscore*CIN*None*BRO*L*1*2*None*50-39*1*up 1.5*McGraw*Donohue*None*1:41*D*12,926*---*None
+Monday, Jul 19*boxscore*CIN*None*BRO*W*5*2*None*51-39*1*up 1.5*Mays*McWeeny*None*1:43*D*3,471*+*None
+Tuesday, Jul 20*boxscore*CIN*None*BRO*W*5*4*None*52-39*1*up 1.5*Donohue*Ehrhardt*None*2:18*D*3,264*++*None
+Wednesday, Jul 21*boxscore*CIN*None*BSN*W*6*4*None*53-39*1*up 2.0*May*Hearn*None*1:52*D*7,919*+++*None
+Thursday, Jul 22*boxscore*CIN*None*BSN*W*13*3*None*54-39*1*up 2.0*Donohue*Goldsmith*None*1:35*D*3,298*++++*None
+Friday, Jul 23*boxscore*CIN*None*BSN*L*2*6*None*54-40*1*up 1.5*Wertz*Mays*None*1:55*D*2,549*-*1926-05-10 (Rain)
+Saturday, Jul 24*boxscore*CIN*None*BSN*L*1*2*None*54-41*1* Tied*Benton*Luque*None*1:48*D*4,214*--*None
+Sunday, Jul 25*boxscore*CIN*None*BSN*L*4*8*None*54-42*1* Tied*Goldsmith*May*None*2:05*D*9,536*---*None
+Tuesday, Jul 27*boxscore*CIN*@*BRO*L*3*6*None*54-43*2* 1.0*McGraw*Donohue*None*1:50*D*None*----*None
+Tuesday, Jul 27*boxscore*CIN*@*BRO*W*2*0*None*55-43*2* 1.0*Mays*Barnes*None*1:33*D*None*+*1926-06-12 (Rain)
+Wednesday, Jul 28*boxscore*CIN*@*BRO*W*4*3*None*56-43*2* 1.0*Luque*McWeeny*None*2:00*D*None*++*None
+Saturday, Jul 31*boxscore*CIN*@*BSN*L*1*2*None*56-44*2* 2.0*Benton*Rixey*None*1:51*D*None*-*None
+Saturday, Jul 31*boxscore*CIN*@*BSN*L*2*8*None*56-45*2* 2.0*Goldsmith*Donohue*None*1:40*D*None*--*1926-06-07 (Rain)
+Tuesday, Aug 3*boxscore*CIN*@*BSN*W*1*0*None*57-45*2* 1.0*Mays*Wertz*None*1:38*D*None*+*None
+Tuesday, Aug 3*boxscore*CIN*@*BSN*W*3*2*None*58-45*2* 1.0*Luque*Genewich*None*2:07*D*None*++*1926-07-30 (Rain)
+Thursday, Aug 5*boxscore*CIN*@*NYG*L*4*7*None*58-46*2* 2.0*Scott*May*None*2:00*D*None*-*None
+Friday, Aug 6*boxscore*CIN*@*NYG*L*3*6*None*58-47*2* 3.0*Ring*Rixey*None*1:50*D*None*--*None
+Saturday, Aug 7*boxscore*CIN*@*NYG*W*11*0*None*59-47*2* 2.0*Mays*Barnes*None*2:04*D*None*+*None
+Saturday, Aug 7*boxscore*CIN*@*NYG*L*1*3*None*59-48*2* 2.0*Fitzsimmons*Luque*None*1:44*D*21,267*-*1926-06-16 (Cold)
+Sunday, Aug 8*boxscore*CIN*@*NYG*L*0*6*None*59-49*3* 2.5*McQuillan*May*None*1:39*D*18,501*--*None
+Monday, Aug 9*boxscore*CIN*@*PHI*L*4*7*None*59-50*2* 3.0*Carlson*Donohue*None*1:40*D*None*---*None
+Monday, Aug 9*boxscore*CIN*@*PHI*W*10*5*None*60-50*2* 3.0*Rixey*Pierce*None*2:03*D*5,502*+*None
+Tuesday, Aug 10*boxscore*CIN*@*PHI*L*8*10*None*60-51*3* 4.0*Knight*Luque*None*2:05*D*1,826*-*None
+Wednesday, Aug 11*boxscore*CIN*@*PHI*W*21*3*None*61-51*3* 3.0*Mays*Mitchell*None*2:00*D*2,111*+*None
+Thursday, Aug 12*boxscore*CIN*@*PHI*W*9*2*None*62-51*3* 2.5*May*Dean*None*1:52*D*1,574*++*None
+Sunday, Aug 15*boxscore*CIN*None*PHI*W*4*2*None*63-51*2* 2.0*Rixey*Mitchell*Donohue*1:52*D*10,823*+++*None
+Tuesday, Aug 17*boxscore*CIN*None*PHI*W*8*2*None*64-51*3* 1.5*Mays*Dean*None*1:40*D*2,170*++++*None
+Wednesday, Aug 18*boxscore*CIN*None*PHI*W*3*0*None*65-51*3* 1.0*May*Pierce*None*1:27*D*2,339*+++++*None
+Friday, Aug 20*boxscore*CIN*None*BSN*W*5*2*None*66-51*3* 1.0*Luque*Benton*None*1:40*D*4,773*++++++*None
+Saturday, Aug 21*boxscore*CIN*None*BSN*T*2*2*13*66-51*3* 1.5*None*None*None*3:35*D*7,468*++++++*None
+Sunday, Aug 22*boxscore*CIN*None*BSN*W*4*3*10*67-51*3* 1.0*Lucas*Hearn*None*2:00*D*None*+++++++*None
+Sunday, Aug 22*boxscore*CIN*None*BSN*W*7*6*12*68-51*3* 1.0*Luque*Mogridge*None*2:55*D*23,475*++++++++*None
+Monday, Aug 23*boxscore*CIN*None*NYG*W*7*6*10*69-51*2* 0.5*May*Davies*None*2:17*D*6,456*+++++++++*None
+Tuesday, Aug 24*boxscore*CIN*None*NYG*W*4*3*None*70-51*1* Tied*Luque*Scott*None*1:36*D*5,842*++++++++++*None
+Wednesday, Aug 25*boxscore*CIN*None*NYG*L*1*2*None*70-52*2* 1.0*McQuillan*Mays*None*1:32*D*10,050*-*None
+Thursday, Aug 26*boxscore*CIN*None*BRO*W*3*1*None*71-52*1* Tied*May*Vance*None*1:53*D*4,684*+*None
+Friday, Aug 27*boxscore*CIN*None*BRO*W*4*0*None*72-52*1* Tied*Rixey*McWeeny*None*1:35*D*5,517*++*None
+Saturday, Aug 28*boxscore*CIN*None*BRO*W*7*0*None*73-52*1* Tied*Luque*Barnes*None*1:48*D*11,158*+++*None
+Sunday, Aug 29*boxscore*CIN*@*CHC*L*1*5*None*73-53*2* 0.5*Root*Mays*None*1:32*D*35,000*-*None
+Monday, Aug 30*boxscore*CIN*@*CHC*W*3*2*None*74-53*1* Tied*Donohue*Blake*None*1:52*D*None*+*None
+Tuesday, Aug 31*boxscore*CIN*@*CHC*L*0*1*None*74-54*2* 0.5*Jones*May*None*1:39*D*None*-*None
+Friday, Sep 3*boxscore*CIN*None*STL*W*4*2*None*75-54*2* 1.0*Mays*Haines*None*1:48*D*13,481*+*None
+Saturday, Sep 4*boxscore*CIN*None*STL*W*5*0*None*76-54*1* Tied*Donohue*Sherdel*None*1:55*D*18,253*++*None
+Sunday, Sep 5*boxscore*CIN*None*STL*L*3*7*None*76-55*2* 1.0*Alexander*Luque*None*1:45*D*32,713*-*None
+Monday, Sep 6*boxscore*CIN*None*CHC*L*0*2*None*76-56*2* 1.0*Root*Meeker*None*1:53*D*12,297*--*None
+Monday, Sep 6*boxscore*CIN*None*CHC*W*7*4*None*77-56*2* 1.0*Rixey*Blake*None*1:44*D*17,998*+*None
+Tuesday, Sep 7*boxscore*CIN*None*CHC*L*5*8*None*77-57*2* 2.0*Bush*Mays*None*1:41*D*8,695*-*None
+Wednesday, Sep 8*boxscore*CIN*@*PIT*L*1*6*None*77-58*2* 3.0*Meadows*Donohue*None*1:37*D*None*--*1926-08-14 (Rain)
+Wednesday, Sep 8*boxscore*CIN*@*PIT*L*0*11*None*77-59*2* 3.0*Hill*Luque*None*2:07*D*None*---*1926-06-01 (Rain)
+Friday, Sep 10*boxscore*CIN*@*PIT*L*2*5*None*77-60*2* 2.5*Kremer*Rixey*None*1:55*D*None*----*None
+Friday, Sep 10*boxscore*CIN*@*PIT*W*5*2*None*78-60*2* 2.5*Lucas*Morrison*None*1:46*D*None*+*1926-09-02 (Rain; Site change)
+Saturday, Sep 11*boxscore*CIN*@*PIT*W*10*6*None*79-60*2* 2.0*Mays*Hill*None*1:48*D*None*++*None
+Sunday, Sep 12*boxscore*CIN*@*BRO*W*5*0*None*80-60*2* 1.0*Donohue*Vance*None*1:52*D*28,000*+++*None
+Sunday, Sep 12*boxscore*CIN*@*BRO*W*4*3*None*81-60*2* 1.0*Luque*McWeeny*Donohue*2:15*D*28,000*++++*1926-07-29 (Rain)
+Monday, Sep 13*boxscore*CIN*@*BRO*W*4*0*None*82-60*1* Tied*Rixey*Grimes*None*1:42*D*None*+++++*None
+Tuesday, Sep 14*boxscore*CIN*@*BRO*W*5*1*None*83-60*1*up 0.5*Mays*McGraw*None*1:50*D*None*++++++*None
+Wednesday, Sep 15*boxscore*CIN*@*BRO*W*7*2*None*84-60*1*up 0.5*Rixey*Petty*None*1:55*D*1,500*+++++++*None
+Thursday, Sep 16*boxscore*CIN*@*NYG*W*3*0*None*85-60*1* Tied*Donohue*Barnes*None*1:28*D*None*++++++++*None
+Friday, Sep 17*boxscore*CIN*@*NYG*L*4*5*10*85-61*2* 1.0*Ring*Rixey*None*2:02*D*None*-*None
+Saturday, Sep 18*boxscore*CIN*@*NYG*L*4*5*None*85-62*2* 1.5*Greenfield*Donohue*Barnes*1:32*D*None*--*None
+Monday, Sep 20*boxscore*CIN*@*BSN*L*3*4*None*85-63*2* 2.0*Mogridge*Rixey*Genewich*1:55*D*None*---*None
+Monday, Sep 20*boxscore*CIN*@*BSN*L*0*3*None*85-64*2* 2.0*Smith*Luque*None*1:33*D*None*----*1926-08-02 (Rain)
+Tuesday, Sep 21*boxscore*CIN*@*BSN*L*0*4*None*85-65*2* 2.0*Genewich*Donohue*None*1:43*D*None*-----*None
+Thursday, Sep 23*boxscore*CIN*@*PHI*T*6*6*15*85-65*2* 2.5*None*None*None*2:55*D*None*-----*None
+Friday, Sep 24*boxscore*CIN*@*PHI*L*2*9*None*85-66*2* 3.0*Willoughby*Lucas*None*1:42*D*None*------*None
+Friday, Sep 24*boxscore*CIN*@*PHI*W*8*4*None*86-66*2* 3.0*Luque*Knight*Lucas*1:52*D*None*+*None
+Saturday, Sep 25*boxscore*CIN*@*PHI*L*1*5*None*86-67*2* 3.0*Ulrich*Meeker*None*1:32*D*None*-*None
+Sunday, Sep 26*boxscore*CIN*None*STL*W*2*1*None*87-67*2* 2.0*Donohue*Hallahan*None*1:36*D*14,462*+*None

@@ -1,0 +1,162 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 6*boxscore*CHW*None*CLE*W-wo*4*3*None*2-0*1*up 0.5*Marte*Wickman*None*2:55*D*10,520*++*None
+Thursday, Apr 7*boxscore*CHW*None*CLE*L*5*11*11*2-1*1* Tied*Rhodes*Vizcaino*None*3:56*D*10,800*-*None
+Friday, Apr 8*boxscore*CHW*@*MIN*W*5*1*None*3-1*1*up 1.0*Hernandez*Lohse*None*2:46*N*48,764*+*None
+Saturday, Apr 9*boxscore*CHW*@*MIN*W*8*5*None*4-1*1*up 1.0*Garland*Radke*Takatsu*2:37*N*41,533*++*None
+Sunday, Apr 10*boxscore*CHW*@*MIN*L*2*5*None*4-2*1*up 1.0*Santana*Buehrle*Nathan*2:29*N*28,089*-*None
+Monday, Apr 11*boxscore*CHW*@*CLE*W*2*1*None*5-2*1*up 1.5*Garcia*Millwood*Takatsu*2:39*D*42,461*+*None
+Wednesday, Apr 13*boxscore*CHW*@*CLE*W*5*4*10*6-2*1*up 1.0*Vizcaino*Howry*Hermanson*2:54*N*14,410*++*None
+Thursday, Apr 14*boxscore*CHW*@*CLE*L*6*8*None*6-3*1* Tied*Betancourt*Hernandez*Wickman*3:25*N*12,470*-*None
+Friday, Apr 15*boxscore*CHW*None*SEA*W*6*4*None*7-3*1* Tied*Garland*Pineiro*Hermanson*2:39*N*16,749*+*None
+Saturday, Apr 16*boxscore*CHW*None*SEA*W*2*1*None*8-3*1* Tied*Buehrle*Franklin*None*1:39*D*25,931*++*None
+Sunday, Apr 17*boxscore*CHW*None*SEA*L*4*5*None*8-4*1* Tied*Meche*Garcia*Guardado*2:52*D*23,324*-*None
+Monday, Apr 18*boxscore*CHW*None*MIN*W*5*4*None*9-4*1*up 1.0*Vizcaino*Lohse*Takatsu*2:47*N*27,018*+*None
+Tuesday, Apr 19*boxscore*CHW*None*MIN*W*3*1*None*10-4*1*up 2.0*Hernandez*Radke*Marte*2:40*N*18,310*++*None
+Wednesday, Apr 20*boxscore*CHW*@*DET*W*9*1*None*11-4*1*up 2.0*Garland*Ledezma*None*2:19*N*16,887*+++*None
+Thursday, Apr 21*boxscore*CHW*@*DET*W*4*3*None*12-4*1*up 2.0*Buehrle*Bonderman*Takatsu*2:21*D*19,334*++++*None
+Friday, Apr 22*boxscore*CHW*@*KCR*W*8*2*None*13-4*1*up 3.0*Garcia*Hernandez*None*2:36*N*15,832*+++++*None
+Saturday, Apr 23*boxscore*CHW*@*KCR*W*3*2*10*14-4*1*up 3.5*Marte*MacDougal*None*3:24*N*19,641*++++++*None
+Sunday, Apr 24*boxscore*CHW*@*KCR*W*4*3*None*15-4*1*up 4.0*Cotts*Camp*Takatsu*2:57*D*15,331*+++++++*None
+Monday, Apr 25*boxscore*CHW*@*OAK*W*6*0*None*16-4*1*up 5.0*Garland*Zito*None*2:20*N*10,206*++++++++*None
+Tuesday, Apr 26*boxscore*CHW*@*OAK*L*7*9*None*16-5*1*up 4.0*Duchscherer*Marte*Dotel*3:06*N*20,412*-*None
+Wednesday, Apr 27*boxscore*CHW*@*OAK*L-wo*1*2*None*16-6*1*up 3.0*Duchscherer*Marte*None*2:42*D*14,172*--*None
+Friday, Apr 29*boxscore*CHW*None*DET*L*2*3*11*16-7*1*up 1.5*Walker*Takatsu*German*4:10*N*18,313*---*None
+Saturday, Apr 30*boxscore*CHW*None*DET*W*4*3*None*17-7*1*up 1.5*Hernandez*Johnson*Hermanson*2:50*N*30,189*+*None
+Sunday, May 1*boxscore*CHW*None*DET*W*8*0*None*18-7*1*up 2.5*Garland*Ledezma*None*2:23*D*20,862*++*None
+Tuesday, May 3*boxscore*CHW*None*KCR*W*5*4*None*19-7*1*up 3.5*Buehrle*Sisco*Takatsu*2:13*N*12,362*+++*None
+Wednesday, May 4*boxscore*CHW*None*KCR*W*4*2*None*20-7*1*up 4.5*Garcia*Hernandez*Hermanson*2:39*N*12,712*++++*None
+Thursday, May 5*boxscore*CHW*None*KCR*W*2*1*None*21-7*1*up 4.5*Contreras*Greinke*Takatsu*2:10*D*15,389*+++++*None
+Friday, May 6*boxscore*CHW*@*TOR*W*5*3*None*22-7*1*up 4.5*Hernandez*Frasor*Hermanson*3:03*N*21,769*++++++*None
+Saturday, May 7*boxscore*CHW*@*TOR*W*10*7*None*23-7*1*up 4.5*Garland*Lilly*None*2:51*D*23,078*+++++++*None
+Sunday, May 8*boxscore*CHW*@*TOR*W*5*4*None*24-7*1*up 4.5*Buehrle*Chacin*Marte*2:38*D*20,946*++++++++*None
+Monday, May 9*boxscore*CHW*@*TBD*L*2*4*None*24-8*1*up 4.5*Carter*Garcia*Baez*2:45*N*8,774*-*None
+Tuesday, May 10*boxscore*CHW*@*TBD*L-wo*6*7*None*24-9*1*up 3.5*Colome*Takatsu*None*3:17*N*9,389*--*None
+Wednesday, May 11*boxscore*CHW*@*TBD*W*5*2*None*25-9*1*up 4.5*Hernandez*Brazelton*Hermanson*2:51*D*9,414*+*None
+Thursday, May 12*boxscore*CHW*None*BAL*W*3*2*None*26-9*1*up 5.0*Garland*Chen*Hermanson*2:21*N*29,031*++*None
+Friday, May 13*boxscore*CHW*None*BAL*W*5*3*None*27-9*1*up 6.0*Buehrle*Williams*Hermanson*2:29*N*28,188*+++*None
+Saturday, May 14*boxscore*CHW*None*BAL*L*6*9*None*27-10*1*up 6.0*Cabrera*Garcia*Ryan*3:14*N*37,311*-*None
+Sunday, May 15*boxscore*CHW*None*BAL*L*2*6*None*27-11*1*up 5.0*Bedard*Contreras*None*3:00*D*34,030*--*None
+Monday, May 16*boxscore*CHW*None*TEX*L*6*7*None*27-12*1*up 4.5*Regilio*Marte*Cordero*3:01*N*26,889*---*None
+Tuesday, May 17*boxscore*CHW*None*TEX*W*5*2*None*28-12*1*up 5.5*Garland*Astacio*Hermanson*2:22*N*18,333*+*None
+Wednesday, May 18*boxscore*CHW*None*TEX*W*7*0*None*29-12*1*up 5.5*Buehrle*Drese*None*2:24*D*16,255*++*None
+Friday, May 20*boxscore*CHW*@*CHC*W*5*1*None*30-12*1*up 5.0*Garcia*Maddux*None*2:28*D*38,988*+++*None
+Saturday, May 21*boxscore*CHW*@*CHC*W*5*3*None*31-12*1*up 6.0*Contreras*Wuertz*Hermanson*3:09*D*39,461*++++*None
+Sunday, May 22*boxscore*CHW*@*CHC*L*3*4*None*31-13*1*up 5.0*Prior*Vizcaino*None*2:16*D*39,334*-*None
+Monday, May 23*boxscore*CHW*@*LAA*L*0*4*None*31-14*1*up 5.0*Santana*Garland*None*2:18*N*40,991*--*None
+Tuesday, May 24*boxscore*CHW*@*LAA*W*2*1*11*32-14*1*up 5.0*Marte*Yan*None*2:50*N*35,182*+*None
+Wednesday, May 25*boxscore*CHW*@*LAA*W*4*2*None*33-14*1*up 6.0*Garcia*Washburn*Hermanson*2:30*N*42,716*++*None
+Thursday, May 26*boxscore*CHW*@*LAA*L*2*3*None*33-15*1*up 5.0*Lackey*Contreras*Shields*2:29*N*39,128*-*None
+Friday, May 27*boxscore*CHW*@*TEX*L*2*6*None*33-16*1*up 4.0*Young*McCarthy*Cordero*2:30*N*31,149*--*None
+Sunday, May 29*boxscore*CHW*@*TEX*L*4*12*None*33-17*1*up 3.5*Park*Garland*None*2:53*D*36,265*---*None
+Monday, May 30*boxscore*CHW*None*LAA*W-wo*5*4*None*34-17*1*up 4.0*Politte*Shields*None*2:49*D*38,685*+*None
+Tuesday, May 31*boxscore*CHW*None*LAA*W-wo*5*4*None*35-17*1*up 5.0*Politte*Donnelly*None*2:40*N*19,864*++*None
+Wednesday, Jun 1*boxscore*CHW*None*LAA*L*7*10*None*35-18*1*up 4.0*Byrd*Walker*None*3:15*N*19,393*-*None
+Friday, Jun 3*boxscore*CHW*None*CLE*W*6*4*None*36-18*1*up 3.5*Hernandez*Westbrook*Hermanson*2:27*N*23,132*+*None
+Saturday, Jun 4*boxscore*CHW*None*CLE*W*6*5*None*37-18*1*up 4.5*Garland*Davis*Hermanson*2:53*D*26,365*++*None
+Sunday, Jun 5*boxscore*CHW*None*CLE*L*4*6*12*37-19*1*up 3.5*Riske*Hermanson*None*4:11*D*26,146*-*None
+Monday, Jun 6*boxscore*CHW*@*COL*W*9*3*None*38-19*1*up 4.0*Garcia*Kennedy*None*2:31*N*25,030*+*None
+Tuesday, Jun 7*boxscore*CHW*@*COL*W*2*1*None*39-19*1*up 4.0*Contreras*Kim*Hermanson*2:37*N*21,576*++*None
+Wednesday, Jun 8*boxscore*CHW*@*COL*W*15*5*None*40-19*1*up 4.0*Hernandez*Francis*None*3:26*N*23,268*+++*None
+Friday, Jun 10*boxscore*CHW*@*SDP*W*4*2*None*41-19*1*up 5.5*Garland*Williams*Hermanson*2:19*N*38,126*++++*None
+Saturday, Jun 11*boxscore*CHW*@*SDP*L-wo*1*2*None*41-20*1*up 4.5*Linebrink*Hermanson*None*2:23*N*41,020*-*None
+Sunday, Jun 12*boxscore*CHW*@*SDP*W*8*5*10*42-20*1*up 5.5*Politte*Hoffman*None*3:22*D*38,306*+*None
+Monday, Jun 13*boxscore*CHW*None*ARI*L*1*8*None*42-21*1*up 5.0*Estes*Contreras*None*2:33*N*32,952*-*None
+Tuesday, Jun 14*boxscore*CHW*None*ARI*L*4*10*None*42-22*1*up 4.0*Vazquez*Hernandez*None*2:49*N*24,831*--*None
+Wednesday, Jun 15*boxscore*CHW*None*ARI*W*12*6*None*43-22*1*up 5.0*Garland*Ortiz*None*2:43*N*24,499*+*None
+Friday, Jun 17*boxscore*CHW*None*LAD*W*6*0*None*44-22*1*up 5.5*Buehrle*Houlton*None*2:24*N*28,870*++*None
+Saturday, Jun 18*boxscore*CHW*None*LAD*W-wo*5*3*None*45-22*1*up 6.5*Politte*Brazoban*None*2:34*N*36,067*+++*None
+Sunday, Jun 19*boxscore*CHW*None*LAD*W*4*3*None*46-22*1*up 7.5*Politte*Sanchez*Hermanson*2:48*N*27,350*++++*None
+Monday, Jun 20*boxscore*CHW*None*KCR*W*11*8*None*47-22*1*up 8.0*Cotts*Jensen*Hermanson*3:16*N*34,345*+++++*None
+Tuesday, Jun 21*boxscore*CHW*None*KCR*W*5*1*None*48-22*1*up 9.0*Garland*Greinke*None*2:23*N*28,206*++++++*None
+Wednesday, Jun 22*boxscore*CHW*None*KCR*W*5*1*None*49-22*1*up10.0*Buehrle*Howell*None*2:04*D*24,544*+++++++*None
+Friday, Jun 24*boxscore*CHW*None*CHC*W*12*2*None*50-22*1*up10.5*Garcia*Mitre*None*2:42*D*39,610*++++++++*None
+Saturday, Jun 25*boxscore*CHW*None*CHC*L*2*6*None*50-23*1*up10.5*Maddux*Contreras*None*2:51*D*39,241*-*None
+Sunday, Jun 26*boxscore*CHW*None*CHC*L*0*2*None*50-24*1*up 9.5*Prior*Garland*Dempster*2:14*D*39,143*--*None
+Tuesday, Jun 28*boxscore*CHW*@*DET*W*2*1*None*51-24*1*up 9.0*Buehrle*Robertson*Hermanson*2:29*N*23,602*+*None
+Wednesday, Jun 29*boxscore*CHW*@*DET*W*4*3*13*52-24*1*up10.0*Takatsu*Rodney*None*3:59*N*19,931*++*None
+Thursday, Jun 30*boxscore*CHW*@*DET*W*6*1*None*53-24*1*up10.5*Garcia*Maroth*None*2:08*D*23,447*+++*None
+Friday, Jul 1*boxscore*CHW*@*OAK*L*2*6*None*53-25*1*up 9.5*Harden*Contreras*None*3:08*N*15,293*-*None
+Saturday, Jul 2*boxscore*CHW*@*OAK*W*5*3*None*54-25*1*up 9.5*Garland*Saarloos*Hermanson*2:13*N*45,712*+*None
+Sunday, Jul 3*boxscore*CHW*@*OAK*L*2*7*None*54-26*1*up 8.5*Zito*Buehrle*None*2:20*D*22,596*-*None
+Monday, Jul 4*boxscore*CHW*None*TBD*W*10*8*None*55-26*1*up 8.5*Vizcaino*Nomo*Hermanson*3:11*N*37,351*+*None
+Tuesday, Jul 5*boxscore*CHW*None*TBD*W*6*4*None*56-26*1*up 9.5*Politte*Carter*Hermanson*2:29*N*21,555*++*None
+Wednesday, Jul 6*boxscore*CHW*None*TBD*W*7*2*None*57-26*1*up10.5*Contreras*Fossum*None*2:37*N*24,773*+++*None
+Friday, Jul 8*boxscore*CHW*None*OAK*L*2*4*None*57-27*1*up10.0*Saarloos*Garland*Street*2:55*N*33,623*-*None
+Saturday, Jul 9*boxscore*CHW*None*OAK*L*1*10*None*57-28*1*up10.0*Zito*Buehrle*None*2:39*N*38,318*--*None
+Sunday, Jul 10*boxscore*CHW*None*OAK*L*8*9*11*57-29*1*up 9.0*Street*Vizcaino*None*3:47*D*33,221*---*None
+Thursday, Jul 14*boxscore*CHW*@*CLE*W*1*0*None*58-29*1*up10.0*Contreras*Millwood*Hermanson*2:56*N*21,472*+*None
+Friday, Jul 15*boxscore*CHW*@*CLE*W*7*1*None*59-29*1*up11.0*Garcia*Sabathia*None*3:01*N*29,684*++*None
+Saturday, Jul 16*boxscore*CHW*@*CLE*W*7*5*None*60-29*1*up11.0*Buehrle*Westbrook*Marte*2:46*D*27,114*+++*None
+Sunday, Jul 17*boxscore*CHW*@*CLE*W*4*0*None*61-29*1*up12.0*Garland*Elarton*None*2:42*D*24,548*++++*None
+Monday, Jul 18*boxscore*CHW*None*DET*W*7*5*None*62-29*1*up13.0*Vizcaino*Spurling*Politte*2:52*N*37,556*+++++*None
+Tuesday, Jul 19*boxscore*CHW*None*DET*L*1*7*None*62-30*1*up12.0*Bonderman*Contreras*None*2:35*N*31,008*-*None
+Wednesday, Jul 20*boxscore*CHW*None*DET*L*6*8*None*62-31*1*up11.0*Robertson*Garcia*Dingman*2:56*D*39,146*--*None
+Thursday, Jul 21*boxscore*CHW*None*BOS*L*5*6*None*62-32*1*up10.0*Schilling*Vizcaino*None*3:17*N*36,784*---*None
+Friday, Jul 22*boxscore*CHW*None*BOS*W*8*4*None*63-32*1*up11.0*Garland*Wakefield*None*2:49*N*37,511*+*None
+Saturday, Jul 23*boxscore*CHW*None*BOS*L*0*3*None*63-33*1*up10.5*Miller*Hernandez*Schilling*2:39*N*39,408*-*None
+Sunday, Jul 24*boxscore*CHW*None*BOS*W*6*4*None*64-33*1*up11.5*Contreras*Arroyo*Hermanson*3:16*D*37,168*+*None
+Monday, Jul 25*boxscore*CHW*@*KCR*W*14*6*None*65-33*1*up12.0*Garcia*Greinke*None*3:28*N*15,515*++*None
+Tuesday, Jul 26*boxscore*CHW*@*KCR*L*1*7*None*65-34*1*up12.0*Lima*Buehrle*None*2:24*N*19,175*-*None
+Wednesday, Jul 27*boxscore*CHW*@*KCR*&V*5*6*13*65-35*1*up11.0*Camp*Vizcaino*None*4:25*D*17,378*--*None
+Friday, Jul 29*boxscore*CHW*@*BAL*W*7*2*None*66-35*1*up12.5*Hernandez*Bedard*None*3:25*N*45,267*+*None
+Saturday, Jul 30*boxscore*CHW*@*BAL*W*9*6*None*67-35*1*up13.5*Cotts*Ray*Hermanson*3:15*D*40,100*++*None
+Sunday, Jul 31*boxscore*CHW*@*BAL*W*9*4*None*68-35*1*up14.5*Garcia*Lopez*None*3:27*N*31,982*+++*None
+Monday, Aug 1*boxscore*CHW*@*BAL*W*6*3*None*69-35*1*up15.0*Buehrle*Cabrera*Hermanson*3:09*D*47,823*++++*None
+Tuesday, Aug 2*boxscore*CHW*None*TOR*L*3*7*None*69-36*1*up14.0*Towers*Garland*None*2:28*N*32,162*-*None
+Wednesday, Aug 3*boxscore*CHW*None*TOR*L*3*4*None*69-37*1*up13.0*Bush*Hernandez*Batista*2:52*N*28,116*--*None
+Thursday, Aug 4*boxscore*CHW*None*TOR*W*5*4*None*70-37*1*up14.0*Vizcaino*Speier*Hermanson*3:13*D*32,027*+*None
+Friday, Aug 5*boxscore*CHW*None*SEA*L*2*4*None*70-38*1*up13.0*Pineiro*Garcia*Guardado*2:37*N*39,165*-*None
+Saturday, Aug 6*boxscore*CHW*None*SEA*W*4*2*None*71-38*1*up13.0*Buehrle*Moyer*Hermanson*2:19*N*37,529*+*None
+Sunday, Aug 7*boxscore*CHW*None*SEA*W*3*1*None*72-38*1*up13.0*Garland*Harris*Hermanson*2:29*D*35,706*++*None
+Monday, Aug 8*boxscore*CHW*@*NYY*L*2*3*None*72-39*1*up12.5*Mussina*Hernandez*Rivera*2:58*N*54,871*-*None
+Tuesday, Aug 9*boxscore*CHW*@*NYY*W*2*1*None*73-39*1*up12.5*Contreras*Chacon*Hermanson*3:20*N*53,946*+*None
+Wednesday, Aug 10*boxscore*CHW*@*NYY*W*2*1*10*74-39*1*up12.5*Cotts*Rivera*Hermanson*2:58*D*54,635*++*None
+Friday, Aug 12*boxscore*CHW*@*BOS*L*8*9*None*74-40*1*up12.0*Bradford*Buehrle*None*2:57*N*35,132*-*None
+Saturday, Aug 13*boxscore*CHW*@*BOS*L*4*7*None*74-41*1*up12.0*Wakefield*Garland*None*2:49*N*35,055*--*None
+Monday, Aug 15*boxscore*CHW*None*MIN*L*2*4*None*74-42*1*up12.0*Lohse*Contreras*Nathan*2:51*N*39,160*---*None
+Tuesday, Aug 16*boxscore*CHW*None*MIN*L*4*9*16*74-43*1*up11.0*Romero*Adkins*None*5:09*N*34,533*----*None
+Wednesday, Aug 17*boxscore*CHW*None*MIN*L*1*5*None*74-44*1*up11.0*Santana*Buehrle*None*2:34*N*33,158*-----*None
+Friday, Aug 19*boxscore*CHW*None*NYY*L*1*3*None*74-45*1*up 9.5*Mussina*Garland*Rivera*2:55*N*39,496*------*None
+Saturday, Aug 20*boxscore*CHW*None*NYY*L*0*5*None*74-46*1*up 8.5*Chacon*Hernandez*None*3:07*D*38,938*-------*None
+Sunday, Aug 21*boxscore*CHW*None*NYY*W*6*2*None*75-46*1*up 8.5*Contreras*Johnson*None*2:18*D*39,480*+*None
+Tuesday, Aug 23*boxscore*CHW*@*MIN*L*0*1*None*75-47*1*up 7.0*Santana*Garcia*Nathan*2:08*N*33,572*-*None
+Wednesday, Aug 24*boxscore*CHW*@*MIN*W*6*4*None*76-47*1*up 8.0*Buehrle*Mays*Hermanson*2:33*N*32,687*+*None
+Thursday, Aug 25*boxscore*CHW*@*MIN*W*2*1*10*77-47*1*up 8.0*Hermanson*Crain*Jenks*2:45*D*26,895*++*None
+Friday, Aug 26*boxscore*CHW*@*SEA*W*5*3*12*78-47*1*up 8.0*Vizcaino*Nelson*Hermanson*3:36*N*40,431*+++*None
+Saturday, Aug 27*boxscore*CHW*@*SEA*W*4*3*None*79-47*1*up 9.0*Contreras*Pineiro*Marte*2:53*N*37,326*++++*None
+Sunday, Aug 28*boxscore*CHW*@*SEA*L*2*9*None*79-48*1*up 8.0*Moyer*Garcia*None*2:39*D*36,868*-*None
+Monday, Aug 29*boxscore*CHW*@*TEX*L*5*7*None*79-49*1*up 7.0*Dominguez*Buehrle*Brocail*2:24*N*27,819*--*None
+Tuesday, Aug 30*boxscore*CHW*@*TEX*L*6*8*None*79-50*1*up 7.0*Wilson*Garland*Cordero*2:39*D*None*---*None
+Tuesday, Aug 30*boxscore*CHW*@*TEX*W*8*0*None*80-50*1*up 7.0*McCarthy*Volquez*None*2:43*N*28,183*+*2005-05-28 (Rain)
+Wednesday, Aug 31*boxscore*CHW*@*TEX*L*2*9*None*80-51*1*up 7.0*Loe*Hernandez*None*2:42*D*23,493*-*None
+Thursday, Sep 1*boxscore*CHW*None*DET*W*12*3*None*81-51*1*up 7.5*Contreras*Johnson*None*2:32*N*20,743*+*None
+Friday, Sep 2*boxscore*CHW*None*DET*W*9*1*None*82-51*1*up 7.5*Garcia*Douglass*None*2:30*N*25,502*++*None
+Saturday, Sep 3*boxscore*CHW*None*DET*W*6*2*None*83-51*1*up 8.5*Buehrle*Robertson*None*2:21*N*30,509*+++*None
+Sunday, Sep 4*boxscore*CHW*None*DET*W*2*0*None*84-51*1*up 9.5*Garland*Bonderman*None*2:07*D*30,931*++++*None
+Monday, Sep 5*boxscore*CHW*@*BOS*W*5*3*None*85-51*1*up 9.5*McCarthy*Schilling*None*3:11*D*35,673*+++++*2005-08-14 (Rain)
+Tuesday, Sep 6*boxscore*CHW*None*KCR*W*6*5*None*86-51*1*up 9.5*Hernandez*Lima*Hermanson*2:45*N*14,571*++++++*None
+Wednesday, Sep 7*boxscore*CHW*None*KCR*W*1*0*None*87-51*1*up 9.5*Contreras*Wood*Hermanson*2:37*N*18,513*+++++++*None
+Thursday, Sep 8*boxscore*CHW*None*KCR*L*2*4*None*87-52*1*up 8.5*Howell*Garcia*MacDougal*2:50*N*17,701*-*None
+Friday, Sep 9*boxscore*CHW*None*LAA*L*5*6*12*87-53*1*up 7.5*Donnelly*Hermanson*Rodriguez*3:45*N*28,059*--*None
+Saturday, Sep 10*boxscore*CHW*None*LAA*L*5*10*None*87-54*1*up 6.5*Colon*Garland*None*3:03*D*26,538*---*None
+Sunday, Sep 11*boxscore*CHW*None*LAA*L*1*6*None*87-55*1*up 5.5*Lackey*Hernandez*None*2:36*D*29,321*----*None
+Tuesday, Sep 13*boxscore*CHW*@*KCR*W*6*4*None*88-55*1*up 6.0*Contreras*Wood*Jenks*3:01*N*9,535*+*None
+Wednesday, Sep 14*boxscore*CHW*@*KCR*L-wo*9*10*None*88-56*1*up 5.0*Demaria*Hermanson*None*3:03*N*9,922*-*None
+Thursday, Sep 15*boxscore*CHW*@*KCR*L*5*7*None*88-57*1*up 4.5*Burgos*Buehrle*MacDougal*2:58*D*9,258*--*None
+Friday, Sep 16*boxscore*CHW*@*MIN*W*2*1*10*89-57*1*up 4.5*Jenks*Crain*None*2:49*N*26,951*+*None
+Saturday, Sep 17*boxscore*CHW*@*MIN*L*0*5*None*89-58*1*up 3.5*Santana*Hernandez*Nathan*2:50*D*24,866*-*None
+Sunday, Sep 18*boxscore*CHW*@*MIN*W*2*1*None*90-58*1*up 3.5*Contreras*Rincon*Jenks*2:17*D*23,559*+*None
+Monday, Sep 19*boxscore*CHW*None*CLE*L*5*7*None*90-59*1*up 2.5*Betancourt*Marte*Wickman*3:31*N*35,748*-*None
+Tuesday, Sep 20*boxscore*CHW*None*CLE*W-wo*7*6*10*91-59*1*up 3.5*Hermanson*Riske*None*3:31*N*26,147*+*None
+Wednesday, Sep 21*boxscore*CHW*None*CLE*L*0*8*None*91-60*1*up 2.5*Elarton*Garland*None*2:47*N*36,543*-*None
+Thursday, Sep 22*boxscore*CHW*None*MIN*L*1*4*11*91-61*1*up 1.5*Crain*Jenks*Nathan*3:12*N*25,112*--*None
+Friday, Sep 23*boxscore*CHW*None*MIN*W*3*1*None*92-61*1*up 1.5*Contreras*Lohse*None*2:19*N*28,003*+*None
+Saturday, Sep 24*boxscore*CHW*None*MIN*W*8*1*None*93-61*1*up 1.5*Garcia*Mays*None*2:27*N*37,699*++*None
+Sunday, Sep 25*boxscore*CHW*None*MIN*W*4*1*None*94-61*1*up 2.5*Buehrle*Liriano*None*1:53*D*30,402*+++*None
+Monday, Sep 26*boxscore*CHW*@*DET*L-wo*3*4*None*94-62*1*up 2.0*Rodney*Politte*None*2:43*N*10,840*-*None
+Tuesday, Sep 27*boxscore*CHW*@*DET*L*2*3*None*94-63*1*up 2.0*Robertson*McCarthy*Rodney*2:21*N*13,983*--*None
+Wednesday, Sep 28*boxscore*CHW*@*DET*W*8*2*None*95-63*1*up 3.0*Contreras*Douglass*None*2:46*N*17,221*+*None
+Thursday, Sep 29*boxscore*CHW*@*DET*W*4*2*None*96-63*1*up 3.0*Garcia*Grilli*Jenks*2:22*D*13,494*++*None
+Friday, Sep 30*boxscore*CHW*@*CLE*W*3*2*13*97-63*1*up 4.0*Politte*Cabrera*Jenks*4:17*N*41,072*+++*None
+Saturday, Oct 1*boxscore*CHW*@*CLE*W*4*3*None*98-63*1*up 5.0*Garland*Westbrook*Jenks*2:48*D*41,026*++++*None
+Sunday, Oct 2*boxscore*CHW*@*CLE*W*3*1*None*99-63*1*up 6.0*McCarthy*Elarton*Hernandez*2:56*D*41,034*+++++*None

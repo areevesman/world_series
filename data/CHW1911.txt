@@ -1,0 +1,154 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Friday, Apr 14*boxscore*CHW*@*DET*L*0*6*None*0-2*6* 2.0*Willett*Lange*None*1:40*D*6,100*--*None
+Saturday, Apr 15*boxscore*CHW*@*DET*L*0*2*8*0-3*7* 3.0*Works*Scott*None*1:30*D*None*---*None
+Sunday, Apr 16*boxscore*CHW*@*SLB*W*7*1*None*1-3*7* 3.0*Walsh*Gregory*None*1:50*D*None*+*None
+Monday, Apr 17*boxscore*CHW*@*SLB*W*8*0*None*2-3*4* 2.5*Olmstead*Lake*None*1:55*D*None*++*None
+Wednesday, Apr 19*boxscore*CHW*@*SLB*W*6*3*None*3-3*4* 2.5*Scott*Criss*None*1:55*D*None*+++*None
+Thursday, Apr 20*boxscore*CHW*None*DET*L*3*6*None*3-4*4* 3.5*Lafitte*Walsh*None*1:50*D*None*-*None
+Saturday, Apr 22*boxscore*CHW*None*DET*W*3*2*10*4-4*5* 2.5*White*Willett*None*1:48*D*None*+*None
+Sunday, Apr 23*boxscore*CHW*None*CLE*L*2*5*None*4-5*5* 3.5*Gregg*Olmstead*None*1:55*D*None*-*None
+Monday, Apr 24*boxscore*CHW*None*CLE*L*2*5*None*4-6*6* 4.5*Krapp*Lange*None*2:00*D*None*--*None
+Tuesday, Apr 25*boxscore*CHW*None*CLE*W*5*2*None*5-6*5* 4.5*Young*Falkenberg*None*1:37*D*None*+*None
+Thursday, Apr 27*boxscore*CHW*None*SLB*W*14*4*None*6-6*4* 5.0*Walsh*Powell*Baker*1:55*D*None*++*None
+Saturday, Apr 29*boxscore*CHW*None*SLB*L*0*1*5*6-7*4* 5.5*Hamilton*White*None*0:43*D*None*-*None
+Sunday, Apr 30*boxscore*CHW*None*SLB*W*9*1*None*7-7*3* 5.5*Lange*Criss*Walsh*2:15*D*None*+*None
+Wednesday, May 3*boxscore*CHW*@*CLE*L*7*8*None*7-8*4* 7.5*Gregg*Scott*None*2:16*D*None*-*None
+Thursday, May 4*boxscore*CHW*@*CLE*W*7*1*None*8-8*4* 7.5*Walsh*Krapp*None*2:00*D*None*+*None
+Friday, May 5*boxscore*CHW*@*CLE*W*2*1*None*9-8*3* 7.0*Lange*West*None*1:40*D*None*++*1911-05-02 (Cold)
+Saturday, May 6*boxscore*CHW*@*CLE*T*5*5*8*9-8*2* 7.5*None*None*None*1:47*D*None*++*None
+Sunday, May 7*boxscore*CHW*None*DET*L*4*5*10*9-9*4* 8.5*Lively*White*None*2:18*D*None*-*None
+Monday, May 8*boxscore*CHW*None*DET*L*2*8*None*9-10*5* 9.5*Covington*Lange*None*1:58*D*None*--*1911-04-21 (Wet grounds)
+Wednesday, May 10*boxscore*CHW*None*WSH*W*9*6*None*10-10*4* 9.0*Scott*Sherry*None*2:24*D*None*+*None
+Thursday, May 11*boxscore*CHW*None*WSH*W*20*6*None*11-10*4* 8.0*White*Groom*None*2:10*D*None*++*None
+Friday, May 12*boxscore*CHW*None*WSH*L*5*6*None*11-11*4* 9.0*Gray*Olmstead*None*2:05*D*None*-*None
+Saturday, May 13*boxscore*CHW*None*WSH*L*6*11*None*11-12*4* 9.0*Otey*Scott*None*2:40*D*None*--*None
+Sunday, May 14*boxscore*CHW*None*PHA*W*6*5*None*12-12*4* 9.0*White*Morgan*None*1:50*D*None*+*None
+Monday, May 15*boxscore*CHW*None*PHA*W*6*2*None*13-12*4* 9.0*Olmstead*Coombs*None*1:43*D*None*++*None
+Tuesday, May 16*boxscore*CHW*None*PHA*W*6*1*None*14-12*2* 9.0*Scott*Krause*None*1:40*D*None*+++*None
+Wednesday, May 17*boxscore*CHW*None*PHA*W*7*5*None*15-12*2* 8.5*Lange*Russell*Olmstead*2:15*D*None*++++*None
+Thursday, May 18*boxscore*CHW*None*BOS*W*12*8*None*16-12*2* 8.5*Walsh*Hall*None*2:20*D*None*+++++*None
+Friday, May 19*boxscore*CHW*None*BOS*L*3*4*12*16-13*2* 9.5*Wood*Walsh*None*2:35*D*None*-*None
+Tuesday, May 23*boxscore*CHW*None*NYY*L*3*4*12*16-14*2* 9.0*Ford*Walsh*None*2:45*D*None*--*None
+Wednesday, May 24*boxscore*CHW*None*NYY*L*3*5*None*16-15*4* 10.0*Caldwell*Olmstead*None*1:55*D*None*---*None
+Thursday, May 25*boxscore*CHW*None*NYY*W*3*2*10*17-15*3* 9.0*Walsh*Warhop*None*1:50*D*None*+*None
+Saturday, May 27*boxscore*CHW*None*CLE*L*5*6*10*17-16*3* 10.0*Gregg*Walsh*None*1:55*D*None*-*None
+Sunday, May 28*boxscore*CHW*None*CLE*T*5*5*10*17-16*3* 9.5*None*None*None*2:05*D*None*-*None
+Monday, May 29*boxscore*CHW*None*SLB*W*3*0*None*18-16*4* 8.5*White*Lake*None*1:33*D*None*+*None
+Tuesday, May 30*boxscore*CHW*None*SLB*L*1*4*None*18-17*4* 9.5*Pelty*Scott*None*1:37*D*None*-*None
+Tuesday, May 30*boxscore*CHW*None*SLB*W*2*0*None*19-17*4* 9.5*Young*Mitchell*None*1:17*D*None*+*None
+Thursday, Jun 1*boxscore*CHW*@*BOS*W*10*3*None*20-17*4* 9.5*Walsh*Collins*None*2:00*D*None*++*None
+Friday, Jun 2*boxscore*CHW*@*BOS*W*13*8*None*21-17*3* 8.5*Olmstead*Wood*None*1:55*D*None*+++*None
+Saturday, Jun 3*boxscore*CHW*@*BOS*L*4*6*None*21-18*4* 9.5*Cicotte*White*None*1:45*D*13,000*-*None
+Monday, Jun 5*boxscore*CHW*@*BOS*L*4*5*None*21-19*4* 10.5*Wood*Lange*None*1:52*D*None*--*None
+Thursday, Jun 8*boxscore*CHW*@*NYY*W*7*2*None*22-19*4* 10.0*Walsh*Ford*None*2:05*D*8,000*+*None
+Friday, Jun 9*boxscore*CHW*@*NYY*L*2*9*None*22-20*4* 10.0*Fisher*Baker*Quinn*1:59*D*None*-*None
+Saturday, Jun 10*boxscore*CHW*@*WSH*W*18*7*None*23-20*4* 9.0*Walsh*Sherry*None*2:00*D*None*+*None
+Monday, Jun 12*boxscore*CHW*@*WSH*W*4*0*None*24-20*3* 9.0*White*Walker*None*None*D*None*++*None
+Wednesday, Jun 14*boxscore*CHW*@*PHA*L*1*2*10*24-21*5* 9.0*Bender*Walsh*None*2:10*D*None*-*None
+Friday, Jun 16*boxscore*CHW*@*PHA*L*6*10*None*24-22*5* 9.0*Coombs*Scott*None*1:55*D*None*--*None
+Saturday, Jun 17*boxscore*CHW*@*PHA*W*8*6*None*25-22*4* 8.0*Walsh*Plank*None*2:05*D*None*+*None
+Sunday, Jun 18*boxscore*CHW*@*DET*L*15*16*None*25-23*5* 9.0*Mitchell*Walsh*None*2:20*D*None*-*None
+Monday, Jun 19*boxscore*CHW*@*DET*L*5*8*None*25-24*5* 10.0*Willett*Young*None*1:52*D*None*--*1911-04-12 (Wet grounds)
+Tuesday, Jun 20*boxscore*CHW*@*SLB*W*6*3*None*26-24*4* 9.5*Olmstead*Lake*None*2:05*D*None*+*None
+Tuesday, Jun 20*boxscore*CHW*@*SLB*W*13*6*None*27-24*4* 9.5*Baker*George*None*1:50*D*None*++*1911-04-18 (Wet grounds)
+Wednesday, Jun 21*boxscore*CHW*@*SLB*W*4*2*None*28-24*4* 9.5*Walsh*Pelty*None*1:45*D*None*+++*None
+Thursday, Jun 22*boxscore*CHW*@*SLB*W*2*1*None*29-24*4* 8.5*Lange*Powell*None*1:35*D*None*++++*None
+Sunday, Jun 25*boxscore*CHW*None*DET*W*8*4*None*30-24*4* 8.0*Walsh*Willett*None*2:10*D*15,500*+++++*None
+Monday, Jun 26*boxscore*CHW*None*DET*L*3*6*None*30-25*4* 9.0*Summers*Young*None*1:38*D*10,000*-*None
+Tuesday, Jun 27*boxscore*CHW*None*DET*W*3*0*None*31-25*4* 8.0*Walsh*Donovan*None*1:33*D*None*+*1911-06-24 (Rain)
+Wednesday, Jun 28*boxscore*CHW*@*CLE*L*4*6*None*31-26*4* 9.5*Falkenberg*Olmstead*None*1:26*D*None*-*None
+Wednesday, Jun 28*boxscore*CHW*@*CLE*L*3*6*None*31-27*4* 9.5*Mitchell*Scott*None*1:52*D*None*--*1911-09-05 (Schedule change)
+Thursday, Jun 29*boxscore*CHW*@*CLE*L*7*8*10*31-28*4* 9.5*Gregg*Walsh*None*2:25*D*None*---*None
+Friday, Jun 30*boxscore*CHW*@*CLE*W*8*1*None*32-28*4* 9.0*Walsh*Young*None*1:56*D*None*+*None
+Saturday, Jul 1*boxscore*CHW*@*CLE*L*2*5*None*32-29*4* 10.0*Gregg*Baker*None*1:36*D*None*-*None
+Sunday, Jul 2*boxscore*CHW*None*SLB*W*6*2*None*33-29*4* 10.0*Lange*Pelty*Olmstead*1:44*D*7,000*+*None
+Tuesday, Jul 4*boxscore*CHW*@*DET*W*7*3*None*34-29*3* 10.5*Walsh*Lively*None*2:14*D*7,192*++*None
+Tuesday, Jul 4*boxscore*CHW*@*DET*L*10*11*11*34-30*3* 10.5*Willett*Lange*None*2:50*D*4,924*-*None
+Wednesday, Jul 5*boxscore*CHW*@*DET*L*1*8*None*34-31*4* 11.0*Willett*Young*None*2:15*D*None*--*None
+Thursday, Jul 6*boxscore*CHW*None*SLB*L*1*8*None*34-32*4* 11.5*Nelson*Baker*None*1:55*D*None*---*1911-10-03 (Wet grounds)
+Friday, Jul 7*boxscore*CHW*None*NYY*W*5*3*None*35-32*4* 11.5*Walsh*Caldwell*None*1:53*D*None*+*None
+Saturday, Jul 8*boxscore*CHW*None*NYY*W*5*2*None*36-32*3* 11.0*White*Fisher*None*1:45*D*None*++*None
+Saturday, Jul 8*boxscore*CHW*None*NYY*W*7*0*None*37-32*3* 11.0*Lange*Brockett*None*1:50*D*20,000*+++*1911-05-22 (Rain)
+Sunday, Jul 9*boxscore*CHW*None*NYY*L*2*5*None*37-33*3* 11.0*Ford*Young*None*1:59*D*16,330*-*None
+Monday, Jul 10*boxscore*CHW*None*NYY*L*2*5*11*37-34*5* 12.0*Vaughn*Walsh*None*2:25*D*None*--*None
+Tuesday, Jul 11*boxscore*CHW*None*BOS*W*4*0*None*38-34*5* 12.5*White*Wood*None*1:41*D*None*+*None
+Tuesday, Jul 11*boxscore*CHW*None*BOS*L*4*6*None*38-35*5* 12.5*Pape*Baker*None*1:55*D*None*-*1911-05-20 (Rain)
+Wednesday, Jul 12*boxscore*CHW*None*BOS*W*6*3*None*39-35*4* 12.0*Lange*Karger*None*1:42*D*None*+*None
+Wednesday, Jul 12*boxscore*CHW*None*BOS*W*2*1*None*40-35*4* 12.0*Young*Cicotte*None*1:45*D*6,850*++*1911-05-21 (Rain)
+Thursday, Jul 13*boxscore*CHW*None*BOS*L*1*2*None*40-36*4* 13.0*Collins*Walsh*None*1:45*D*None*-*None
+Friday, Jul 14*boxscore*CHW*None*BOS*L*0*2*None*40-37*5* 14.0*Pape*White*None*1:47*D*None*--*None
+Saturday, Jul 15*boxscore*CHW*None*WSH*W*9*5*None*41-37*3* 14.0*Baker*Hughes*None*2:25*D*15,350*+*None
+Sunday, Jul 16*boxscore*CHW*None*WSH*W*6*5*None*42-37*3* 14.0*Olmstead*Groom*None*1:50*D*16,175*++*None
+Monday, Jul 17*boxscore*CHW*None*WSH*L*0*3*None*42-38*3* 15.0*Johnson*Lange*None*1:34*D*None*-*None
+Tuesday, Jul 18*boxscore*CHW*None*WSH*L*1*7*None*42-39*3* 16.0*Walker*White*None*1:45*D*None*--*None
+Thursday, Jul 20*boxscore*CHW*None*PHA*W*4*3*None*43-39*3* 15.0*Scott*Bender*Young*1:58*D*None*+*None
+Friday, Jul 21*boxscore*CHW*None*PHA*L*2*10*None*43-40*3* 15.0*Plank*Olmstead*None*1:46*D*None*-*None
+Saturday, Jul 22*boxscore*CHW*None*PHA*W*5*4*None*44-40*3* 14.0*Young*Coombs*None*1:43*D*19,500*+*None
+Tuesday, Jul 25*boxscore*CHW*@*BOS*L*1*4*None*44-41*4* 14.5*Collins*Lange*None*1:43*D*None*-*None
+Wednesday, Jul 26*boxscore*CHW*@*BOS*L*1*3*None*44-42*4* 14.5*Pape*Baker*None*1:35*D*None*--*None
+Thursday, Jul 27*boxscore*CHW*@*BOS*L*4*9*None*44-43*5* 15.5*Karger*White*None*1:55*D*None*---*None
+Friday, Jul 28*boxscore*CHW*@*NYY*W*7*5*14*45-43*4* 14.0*Walsh*Caldwell*None*3:04*D*4,000*+*None
+Saturday, Jul 29*boxscore*CHW*@*NYY*W*10*2*None*46-43*3* 12.5*Walsh*Vaughn*None*1:55*D*None*++*None
+Saturday, Jul 29*boxscore*CHW*@*NYY*W*8*7*10*47-43*3* 12.5*Olmstead*Fisher*White*1:50*D*15,000*+++*1911-06-06 (Rain)
+Monday, Jul 31*boxscore*CHW*@*NYY*W*13*0*None*48-43*3* 12.5*White*Warhop*None*1:40*D*None*++++*None
+Tuesday, Aug 1*boxscore*CHW*@*NYY*L*3*4*None*48-44*4* 14.0*Caldwell*Walsh*None*2:05*D*7,000*-*None
+Tuesday, Aug 1*boxscore*CHW*@*NYY*L*2*8*None*48-45*4* 14.0*Ford*Young*None*2:08*D*6,000*--*1911-06-07 (Rain)
+Wednesday, Aug 2*boxscore*CHW*@*WSH*L*1*3*None*48-46*3* 13.0*Becker*Scott*None*1:40*D*8,000*---*None
+Wednesday, Aug 2*boxscore*CHW*@*WSH*W*4*2*None*49-46*3* 13.0*Walsh*Groom*None*None*D*None*+*1911-06-13 (Rain)
+Friday, Aug 4*boxscore*CHW*@*WSH*L*0*1*11*49-47*4* 14.0*Johnson*White*None*1:55*D*8,000*-*None
+Friday, Aug 4*boxscore*CHW*@*WSH*L*2*3*None*49-48*4* 14.0*Cashion*Walsh*None*2:10*D*None*--*1911-08-03 (Rain)
+Saturday, Aug 5*boxscore*CHW*@*WSH*W*8*7*None*50-48*4* 13.0*Hovlik*Becker*Young*2:35*D*None*+*None
+Monday, Aug 7*boxscore*CHW*@*PHA*L*1*2*14*50-49*5* 15.0*Danforth*Scott*None*2:40*D*None*-*None
+Monday, Aug 7*boxscore*CHW*@*PHA*L*2*3*10*50-50*5* 15.0*Morgan*Walsh*None*1:30*D*12,000*--*1911-06-15 (Rain)
+Tuesday, Aug 8*boxscore*CHW*@*PHA*L*1*4*None*50-51*5* 16.0*Danforth*White*None*1:45*D*None*---*None
+Wednesday, Aug 9*boxscore*CHW*@*PHA*L*7*9*None*50-52*6* 17.0*Coombs*Young*Danforth*1:45*D*None*----*None
+Thursday, Aug 10*boxscore*CHW*@*PHA*W*5*4*10*51-52*6* 16.0*Walsh*Martin*None*2:25*D*None*+*None
+Saturday, Aug 12*boxscore*CHW*@*DET*W*8*2*None*52-52*5* 16.0*Scott*Works*Walsh*2:00*D*None*++*None
+Sunday, Aug 13*boxscore*CHW*None*DET*L*1*9*None*52-53*5* 16.5*Mullin*White*None*2:00*D*6,790*-*None
+Monday, Aug 14*boxscore*CHW*None*DET*W*2*0*None*53-53*5* 15.5*Walsh*Willett*None*1:20*D*None*+*None
+Tuesday, Aug 15*boxscore*CHW*None*DET*W*6*1*None*54-53*5* 15.0*Scott*Summers*None*1:40*D*None*++*None
+Wednesday, Aug 16*boxscore*CHW*None*DET*L*1*8*None*54-54*5* 15.5*Donovan*White*None*1:50*D*None*-*None
+Thursday, Aug 17*boxscore*CHW*None*PHA*L*1*3*None*54-55*6* 17.5*Coombs*Walsh*None*1:42*D*None*--*None
+Thursday, Aug 17*boxscore*CHW*None*PHA*L*1*5*None*54-56*6* 17.5*Bender*Baker*None*1:45*D*None*---*1911-07-23 (Rain)
+Friday, Aug 18*boxscore*CHW*None*PHA*W*7*5*None*55-56*6* 16.5*Walsh*Krause*None*2:20*D*None*+*None
+Saturday, Aug 19*boxscore*CHW*None*PHA*L*1*3*13*55-57*6* 17.5*Morgan*White*None*2:05*D*None*-*None
+Sunday, Aug 20*boxscore*CHW*None*WSH*W*11*0*None*56-57*6* 17.5*Walsh*Becker*None*2:00*D*None*+*None
+Monday, Aug 21*boxscore*CHW*None*WSH*L*4*7*None*56-58*6* 18.0*Johnson*Mogridge*None*1:42*D*None*-*None
+Tuesday, Aug 22*boxscore*CHW*None*WSH*W*3*1*None*57-58*6* 17.5*White*Hughes*None*1:55*D*None*+*None
+Thursday, Aug 24*boxscore*CHW*None*NYY*W*5*3*None*58-58*6* 17.0*Walsh*Quinn*None*1:55*D*None*++*None
+Friday, Aug 25*boxscore*CHW*None*NYY*W*6*5*None*59-58*4* 16.5*Young*Fisher*White*2:10*D*5,000*+++*None
+Saturday, Aug 26*boxscore*CHW*None*NYY*L*2*3*None*59-59*5* 18.0*Ford*White*None*1:50*D*None*-*None
+Sunday, Aug 27*boxscore*CHW*None*BOS*W*5*0*None*60-59*5* 17.0*Walsh*Collins*None*1:50*D*18,000*+*None
+Monday, Aug 28*boxscore*CHW*None*BOS*L*1*4*None*60-60*5* 18.0*Pape*Baker*None*2:05*D*None*-*None
+Tuesday, Aug 29*boxscore*CHW*None*BOS*W*3*0*None*61-60*5* 17.0*Scott*Wood*None*1:55*D*None*+*None
+Friday, Sep 1*boxscore*CHW*None*CLE*L*1*2*None*61-61*6* 18.5*Gregg*Walsh*None*1:55*D*None*-*None
+Saturday, Sep 2*boxscore*CHW*None*CLE*L*2*5*None*61-62*6* 18.5*Krapp*White*None*2:02*D*None*--*None
+Sunday, Sep 3*boxscore*CHW*None*CLE*L*2*7*12*61-63*6* 19.5*Blanding*Walsh*None*2:35*D*16,000*---*None
+Sunday, Sep 3*boxscore*CHW*None*CLE*L*1*3*None*61-64*6* 19.5*Kahler*Benz*None*1:30*D*None*----*None
+Monday, Sep 4*boxscore*CHW*@*CLE*L*8*9*None*61-65*6* 20.5*Falkenberg*Mogridge*Krapp*2:00*D*None*-----*None
+Monday, Sep 4*boxscore*CHW*@*CLE*L*2*9*None*61-66*6* 20.5*Gregg*Olmstead*None*1:35*D*None*------*None
+Friday, Sep 8*boxscore*CHW*@*DET*W*9*3*None*62-66*5* 22.5*Walsh*Summers*None*1:47*D*None*+*None
+Saturday, Sep 9*boxscore*CHW*@*DET*L*0*1*None*62-67*6* 22.5*Mullin*Scott*None*1:40*D*None*-*None
+Sunday, Sep 10*boxscore*CHW*None*SLB*W*8*3*None*63-67*6* 22.0*Benz*George*None*1:55*D*None*+*None
+Monday, Sep 11*boxscore*CHW*@*SLB*W*7*6*None*64-67*5* 21.5*Scott*Lake*None*2:15*D*None*++*None
+Monday, Sep 11*boxscore*CHW*@*SLB*W*2*0*7*65-67*5* 21.5*Hovlik*Hawk*None*1:30*D*None*+++*1911-06-23 (Rain)
+Tuesday, Sep 12*boxscore*CHW*@*SLB*W*5*0*None*66-67*5* 21.5*Scott*Pelty*None*1:45*D*None*++++*None
+Wednesday, Sep 13*boxscore*CHW*@*SLB*L*2*6*None*66-68*5* 22.5*Allison*Benz*None*1:35*D*None*-*None
+Monday, Sep 18*boxscore*CHW*@*PHA*L*1*3*None*66-69*5* 23.5*Coombs*Walsh*None*1:40*D*None*--*None
+Monday, Sep 18*boxscore*CHW*@*PHA*T*1*1*12*66-69*5* 23.5*None*None*None*2:15*D*None*--*1911-09-15 (Rain)
+Tuesday, Sep 19*boxscore*CHW*@*WSH*L*3*7*None*66-70*6* 24.5*Groom*White*None*1:45*D*None*---*None
+Wednesday, Sep 20*boxscore*CHW*@*WSH*W*5*3*None*67-70*6* 24.5*Benz*Hughes*Walsh*1:50*D*None*+*None
+Friday, Sep 22*boxscore*CHW*@*WSH*W*5*0*None*68-70*5* 24.5*Scott*Walker*None*1:20*D*None*++*None
+Friday, Sep 22*boxscore*CHW*@*WSH*W*1*0*None*69-70*5* 24.5*Lange*Cashion*Walsh*1:50*D*None*+++*1911-09-21 (Rain)
+Saturday, Sep 23*boxscore*CHW*@*NYY*W*3*2*None*70-70*5* 24.5*Scott*Caldwell*None*2:10*D*None*++++*None
+Monday, Sep 25*boxscore*CHW*@*NYY*L*3*7*None*70-71*5* 25.0*Fisher*Scott*None*1:58*D*None*-*None
+Tuesday, Sep 26*boxscore*CHW*@*NYY*W*5*4*None*71-71*5* 25.0*Scott*Ford*None*2:07*D*2,000*+*None
+Wednesday, Sep 27*boxscore*CHW*@*BOS*W*3*0*None*72-71*5* 24.0*Walsh*Collins*None*1:30*D*None*++*None
+Thursday, Sep 28*boxscore*CHW*@*BOS*L*3*6*None*72-72*5* 25.0*O'Brien*Lange*None*2:00*D*None*-*None
+Saturday, Sep 30*boxscore*CHW*@*BOS*W*9*1*None*73-72*5* 24.0*Scott*Pape*None*2:00*D*None*+*None
+Saturday, Sep 30*boxscore*CHW*@*BOS*W*4*2*8*74-72*5* 24.0*Benz*Hageman*None*1:30*D*None*++*1911-09-29 (Rain)
+Wednesday, Oct 4*boxscore*CHW*None*SLB*W*14*6*None*75-72*4* 23.5*Walsh*Nelson*None*2:00*D*None*+++*None
+Wednesday, Oct 4*boxscore*CHW*None*SLB*L*1*2*8*75-73*4* 23.5*Hamilton*Scott*None*1:30*D*None*-*1911-10-02 (Wet grounds)
+Saturday, Oct 7*boxscore*CHW*None*CLE*L*3*4*None*75-74*5* 24.5*Kahler*Walsh*None*1:55*D*None*--*None
+Saturday, Oct 7*boxscore*CHW*None*CLE*W*4*1*8*76-74*5* 24.5*Scott*Swindell*None*1:16*D*1,750*+*1911-10-06 (Rain)
+Sunday, Oct 8*boxscore*CHW*None*CLE*W*10*4*None*77-74*4* 24.0*White*James*None*1:40*D*4,700*++*None

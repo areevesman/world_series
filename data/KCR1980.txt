@@ -1,0 +1,162 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Friday, Apr 11*boxscore*KCR*None*DET*W*4*0*None*1-1*3* 1.0*Gura*Schatzeder*None*2:13*N*14,605*+*None
+Saturday, Apr 12*boxscore*KCR*None*DET*W*8*6*None*2-1*2* 0.5*Pattin*Underwood*None*2:59*D*16,130*++*None
+Sunday, Apr 13*boxscore*KCR*None*DET*W*3*2*None*3-1*1* Tied*Splittorff*Rozema*Christenson*2:29*D*17,720*+++*None
+Tuesday, Apr 15*boxscore*KCR*@*BAL*L*2*12*None*3-2*4* 1.0*Palmer*Leonard*None*2:32*D*50,199*-*None
+Wednesday, Apr 16*boxscore*KCR*@*BAL*L*1*2*None*3-3*6* 1.5*Flanagan*Gura*None*2:16*N*7,473*--*None
+Thursday, Apr 17*boxscore*KCR*@*BAL*L*2*5*None*3-4*6* 2.0*Stone*Gale*Stoddard*2:40*N*7,166*---*None
+Friday, Apr 18*boxscore*KCR*@*DET*W*9*6*11*4-4*6* 2.0*Quisenberry*Lopez*None*3:34*N*50,687*+*None
+Saturday, Apr 19*boxscore*KCR*@*DET*L*6*8*None*4-5*6* 3.0*Morris*Martin*None*2:17*D*13,583*-*None
+Sunday, Apr 20*boxscore*KCR*@*DET*W*9*6*None*5-5*5* 2.5*Martin*Schatzeder*Quisenberry*2:51*D*18,755*+*None
+Monday, Apr 21*boxscore*KCR*None*TOR*L*1*7*None*5-6*5* 3.5*Stieb*Gale*None*2:29*N*21,117*-*None
+Tuesday, Apr 22*boxscore*KCR*None*TOR*W*7*2*None*6-6*5* 2.5*Splittorff*Mirabella*None*2:08*N*16,993*+*None
+Wednesday, Apr 23*boxscore*KCR*None*TOR*W*7*4*None*7-6*4* 2.5*Christenson*McLaughlin*Quisenberry*2:33*N*18,855*++*None
+Friday, Apr 25*boxscore*KCR*None*BAL*W*7*0*None*8-6*4* 2.0*Gura*Stone*None*2:18*N*20,436*+++*None
+Saturday, Apr 26*boxscore*KCR*None*BAL*L*0*4*None*8-7*4* 3.0*Flanagan*Gale*None*2:34*D*25,925*-*None
+Sunday, Apr 27*boxscore*KCR*None*BAL*W*3*2*None*9-7*3* 2.0*Splittorff*Ford*None*2:02*D*20,496*+*None
+Tuesday, Apr 29*boxscore*KCR*@*TOR*L*1*3*None*9-8*5* 2.0*Clancy*Leonard*None*2:21*N*11,553*-*None
+Wednesday, Apr 30*boxscore*KCR*@*TOR*W*3*0*None*10-8*3* 2.0*Gura*Jefferson*None*1:54*N*14,029*+*None
+Friday, May 2*boxscore*KCR*None*BOS*L*5*6*11*10-9*3* 2.0*Lockwood*Quisenberry*None*3:17*N*25,965*-*None
+Saturday, May 3*boxscore*KCR*None*BOS*L*0*7*None*10-10*4* 3.0*Rainey*Splittorff*None*2:30*N*28,760*--*None
+Sunday, May 4*boxscore*KCR*None*BOS*W*5*3*None*11-10*3* 2.5*Leonard*Stanley*Quisenberry*2:13*D*24,209*+*None
+Tuesday, May 6*boxscore*KCR*@*CHW*L*0*2*None*11-11*4* 3.0*Wortham*Gura*Farmer*2:06*N*7,938*-*None
+Wednesday, May 7*boxscore*KCR*@*CHW*W*12*5*None*12-11*4* 2.0*Christenson*Kravec*None*2:54*N*7,584*+*None
+Thursday, May 8*boxscore*KCR*@*CHW*L*2*8*None*12-12*4* 2.5*Burns*Splittorff*None*3:01*N*7,410*-*None
+Friday, May 9*boxscore*KCR*@*BOS*W*6*5*None*13-12*4* 2.0*Leonard*Stanley*Quisenberry*2:46*N*28,597*+*None
+Saturday, May 10*boxscore*KCR*@*BOS*W*13*8*None*14-12*3* 2.0*Martin*Eckersley*Pattin*3:03*D*30,519*++*None
+Sunday, May 11*boxscore*KCR*@*BOS*L*2*5*None*14-13*4* 3.0*Rainey*Gale*None*2:24*D*24,685*-*None
+Monday, May 12*boxscore*KCR*@*NYY*W*12*3*None*15-13*4* 2.5*Gura*Tiant*Pattin*2:35*N*17,010*+*None
+Tuesday, May 13*boxscore*KCR*@*NYY*W*4*1*None*16-13*3* 1.5*Martin*Griffin*Quisenberry*2:29*N*20,107*++*None
+Wednesday, May 14*boxscore*KCR*@*NYY*L*3*16*None*16-14*4* 1.5*Guidry*Leonard*Figueroa*2:58*N*21,953*-*None
+Friday, May 16*boxscore*KCR*None*CAL*L*1*11*None*16-15*4* 1.5*Kison*Gale*None*3:01*N*22,264*--*None
+Saturday, May 17*boxscore*KCR*None*CAL*W-wo*2*1*10*17-15*3* 1.5*Gura*Clear*None*2:47*N*30,326*+*None
+Sunday, May 18*boxscore*KCR*None*CAL*W*5*3*None*18-15*3* 1.0*Martin*Tanana*Quisenberry*2:24*D*25,382*++*None
+Monday, May 19*boxscore*KCR*None*OAK*W-wo*6*5*11*19-15*2* 1.0*Quisenberry*Hamilton*None*3:37*N*28,889*+++*None
+Tuesday, May 20*boxscore*KCR*None*OAK*W*1*0*None*20-15*2* 1.0*Gale*Norris*Quisenberry*2:13*N*23,698*++++*None
+Wednesday, May 21*boxscore*KCR*None*OAK*&V*2*4*14*20-16*2* 1.0*Lacey*Quisenberry*None*4:14*N*24,030*-*None
+Thursday, May 22*boxscore*KCR*None*OAK*W*16*3*None*21-16*2* 0.5*Martin*Keough*None*2:44*N*23,124*+*None
+Friday, May 23*boxscore*KCR*@*CAL*W*13*9*None*22-16*1*up 0.5*Leonard*Tanana*None*3:09*N*26,270*++*None
+Saturday, May 24*boxscore*KCR*@*CAL*W*6*5*10*23-16*1*up 1.5*Quisenberry*Clear*None*3:32*N*34,938*+++*None
+Sunday, May 25*boxscore*KCR*@*CAL*W*7*3*None*24-16*1*up 2.5*Gura*LaRoche*None*2:32*D*30,325*++++*None
+Monday, May 26*boxscore*KCR*@*OAK*L*1*4*None*24-17*1*up 1.5*Keough*Martin*None*2:33*D*21,882*-*None
+Tuesday, May 27*boxscore*KCR*@*OAK*W*4*2*None*25-17*1*up 1.5*Leonard*Kingman*None*3:03*N*4,488*+*None
+Wednesday, May 28*boxscore*KCR*@*OAK*L*3*6*None*25-18*1*up 1.5*Langford*Gale*None*2:33*D*4,094*-*None
+Friday, May 30*boxscore*KCR*None*CHW*W*9*2*None*26-18*1*up 2.5*Gura*Wortham*None*2:29*N*26,550*+*None
+Saturday, May 31*boxscore*KCR*None*CHW*W*6*4*None*27-18*1*up 2.5*Martin*Trout*Quisenberry*3:02*N*29,050*++*None
+Sunday, Jun 1*boxscore*KCR*None*CHW*L*1*6*None*27-19*1*up 2.5*Burns*Leonard*None*3:03*D*33,428*-*None
+Monday, Jun 2*boxscore*KCR*None*NYY*L*3*5*None*27-20*1*up 2.5*Guidry*Splittorff*None*2:42*N*39,261*--*None
+Tuesday, Jun 3*boxscore*KCR*None*NYY*W-wo*6*5*10*28-20*1*up 2.5*Quisenberry*Davis*None*3:17*N*26,734*+*None
+Wednesday, Jun 4*boxscore*KCR*None*NYY*W*9*3*None*29-20*1*up 3.0*Martin*Tiant*None*2:29*N*27,234*++*None
+Thursday, Jun 5*boxscore*KCR*@*TEX*W*8*0*None*30-20*1*up 3.5*Leonard*Kern*None*2:32*N*16,512*+++*None
+Friday, Jun 6*boxscore*KCR*@*TEX*W*4*2*None*31-20*1*up 3.5*Splittorff*Matlack*Quisenberry*2:37*N*26,367*++++*None
+Saturday, Jun 7*boxscore*KCR*@*TEX*W*7*2*None*32-20*1*up 4.0*Gale*Perry*None*2:58*N*24,530*+++++*None
+Sunday, Jun 8*boxscore*KCR*@*TEX*W*5*4*None*33-20*1*up 5.0*Christenson*Babcock*Quisenberry*3:08*N*16,179*++++++*None
+Tuesday, Jun 10*boxscore*KCR*@*CLE*W*8*4*None*34-20*1*up 6.0*Pattin*Barker*None*3:25*N*6,061*+++++++*None
+Wednesday, Jun 11*boxscore*KCR*@*CLE*W*5*0*None*35-20*1*up 5.5*Leonard*Waits*None*2:17*N*None*++++++++*None
+Wednesday, Jun 11*boxscore*KCR*@*CLE*L*5*8*None*35-21*1*up 5.5*Spillner*Gale*None*2:48*N*13,712*-*1980-06-09 (Rain)
+Friday, Jun 13*boxscore*KCR*@*MIL*W*4*3*None*36-21*1*up 6.5*Gura*Keeton*Quisenberry*2:32*N*30,740*+*None
+Saturday, Jun 14*boxscore*KCR*@*MIL*L*2*5*None*36-22*1*up 6.5*Travers*Martin*Castro*2:51*D*50,605*-*None
+Sunday, Jun 15*boxscore*KCR*@*MIL*W*7*2*None*37-22*1*up 7.0*Leonard*Haas*None*2:49*D*28,389*+*None
+Monday, Jun 16*boxscore*KCR*None*TEX*L*3*6*None*37-23*1*up 7.0*Babcock*Quisenberry*Lyle*2:25*N*39,457*-*None
+Tuesday, Jun 17*boxscore*KCR*None*TEX*W-wo*3*2*None*38-23*1*up 7.0*Gale*Perry*None*2:45*N*25,324*+*None
+Wednesday, Jun 18*boxscore*KCR*None*CLE*W*10*2*None*39-23*1*up 8.5*Gura*Denny*None*2:55*N*23,736*++*None
+Thursday, Jun 19*boxscore*KCR*None*CLE*L*4*5*None*39-24*1*up 8.0*Barker*Martin*Stanton*3:07*N*21,158*-*None
+Friday, Jun 20*boxscore*KCR*None*MIL*L*5*10*None*39-25*1*up 8.0*Haas*Leonard*Castro*3:02*N*38,179*--*None
+Saturday, Jun 21*boxscore*KCR*None*MIL*L*1*5*None*39-26*1*up 8.0*Sorensen*Splittorff*None*2:07*N*40,344*---*None
+Sunday, Jun 22*boxscore*KCR*None*MIL*W*7*4*None*40-26*1*up 9.5*Gale*Caldwell*None*2:33*D*39,592*+*None
+Monday, Jun 23*boxscore*KCR*@*MIN*L*1*4*None*40-27*1*up 9.0*Koosman*Gura*None*2:23*N*7,525*-*None
+Tuesday, Jun 24*boxscore*KCR*@*MIN*L-wo*1*2*None*40-28*1*up 8.5*Jackson*Quisenberry*None*2:31*N*None*--*None
+Tuesday, Jun 24*boxscore*KCR*@*MIN*W*4*2*None*41-28*1*up 8.5*Martin*Erickson*Quisenberry*2:37*N*11,556*+*None
+Wednesday, Jun 25*boxscore*KCR*@*MIN*W*4*1*None*42-28*1*up 8.5*Splittorff*Zahn*Quisenberry*2:04*N*9,150*++*None
+Friday, Jun 27*boxscore*KCR*@*SEA*W*2*1*None*43-28*1*up 9.0*Gale*Honeycutt*Quisenberry*2:28*N*12,099*+++*None
+Saturday, Jun 28*boxscore*KCR*@*SEA*W*4*2*None*44-28*1*up 9.0*Gura*Roberts*None*2:11*N*22,154*++++*None
+Sunday, Jun 29*boxscore*KCR*@*SEA*L*2*7*None*44-29*1*up 8.0*Abbott*Leonard*None*2:00*D*10,015*-*None
+Monday, Jun 30*boxscore*KCR*None*MIN*L*3*12*None*44-30*1*up 8.0*Jackson*Martin*None*2:41*N*33,540*--*None
+Tuesday, Jul 1*boxscore*KCR*None*MIN*L*1*2*None*44-31*1*up 8.0*Corbett*Splittorff*None*2:20*N*20,224*---*None
+Wednesday, Jul 2*boxscore*KCR*None*MIN*W-wo*4*3*10*45-31*1*up 8.0*Quisenberry*Koosman*None*2:49*N*26,225*+*None
+Thursday, Jul 3*boxscore*KCR*None*SEA*L*2*13*None*45-32*1*up 8.0*Beattie*Gura*Rawley*2:43*N*21,777*-*None
+Friday, Jul 4*boxscore*KCR*None*SEA*W*5*3*None*46-32*1*up 8.5*Quisenberry*Roberts*None*2:23*N*27,891*+*None
+Saturday, Jul 5*boxscore*KCR*None*SEA*W*5*4*None*47-32*1*up 9.5*Twitty*Parrott*Quisenberry*2:37*N*30,617*++*None
+Sunday, Jul 6*boxscore*KCR*None*SEA*L*3*5*None*47-33*1*up 8.5*Bannister*Splittorff*Rawley*2:35*D*28,458*-*None
+Thursday, Jul 10*boxscore*KCR*None*DET*W*3*2*None*48-33*1*up 9.5*Splittorff*Wilcox*Quisenberry*2:11*N*23,684*+*None
+Friday, Jul 11*boxscore*KCR*None*DET*W*7*3*None*49-33*1*up 9.5*Leonard*Morris*None*2:18*N*31,017*++*None
+Saturday, Jul 12*boxscore*KCR*@*BAL*L*1*3*None*49-34*1*up 9.5*Stone*Martin*Stoddard*2:46*N*41,514*-*None
+Sunday, Jul 13*boxscore*KCR*@*BAL*W*5*1*None*50-34*1*up10.5*Gura*Flanagan*None*2:46*D*21,311*+*None
+Monday, Jul 14*boxscore*KCR*@*BAL*W*8*4*None*51-34*1*up10.5*Splittorff*McGregor*Quisenberry*2:59*N*23,504*++*None
+Tuesday, Jul 15*boxscore*KCR*@*BOS*W*8*4*None*52-34*1*up11.5*Gale*Renko*None*2:43*N*26,865*+++*None
+Wednesday, Jul 16*boxscore*KCR*@*BOS*W*5*1*None*53-34*1*up11.5*Leonard*Eckersley*Quisenberry*3:12*N*27,213*++++*None
+Thursday, Jul 17*boxscore*KCR*@*BOS*L*4*12*None*53-35*1*up10.5*Tudor*Martin*None*2:41*N*25,619*-*None
+Friday, Jul 18*boxscore*KCR*@*NYY*W*13*1*None*54-35*1*up11.5*Gura*May*None*2:50*N*44,170*+*None
+Saturday, Jul 19*boxscore*KCR*@*NYY*L*7*13*None*54-36*1*up10.5*Bird*Splittorff*Davis*3:01*N*53,583*-*None
+Sunday, Jul 20*boxscore*KCR*@*NYY*W*14*3*None*55-36*1*up10.5*Gale*Guidry*Quisenberry*2:52*D*50,328*+*None
+Monday, Jul 21*boxscore*KCR*None*CHW*W*2*1*None*56-36*1*up10.5*Leonard*Burns*Quisenberry*2:34*N*37,054*++*None
+Tuesday, Jul 22*boxscore*KCR*None*CHW*L*1*6*None*56-37*1*up 9.5*Trout*Busby*None*2:47*N*28,891*-*None
+Wednesday, Jul 23*boxscore*KCR*None*CHW*W*9*2*None*57-37*1*up10.5*Gura*Baumgarten*None*2:45*N*25,105*+*None
+Thursday, Jul 24*boxscore*KCR*None*CHW*W*12*4*None*58-37*1*up11.0*Splittorff*Wortham*None*2:11*N*29,052*++*None
+Friday, Jul 25*boxscore*KCR*None*NYY*W*6*1*None*59-37*1*up11.0*Gale*Tiant*None*2:31*N*40,039*+++*None
+Saturday, Jul 26*boxscore*KCR*None*NYY*L*4*5*None*59-38*1*up11.0*Gossage*Leonard*None*2:41*N*41,860*-*None
+Sunday, Jul 27*boxscore*KCR*None*NYY*W*8*0*None*60-38*1*up11.5*Gura*John*None*2:28*D*40,057*+*None
+Tuesday, Jul 29*boxscore*KCR*None*BOS*W-wo*9*8*None*61-38*1*up12.5*Quisenberry*Burgmeier*None*3:08*N*35,042*++*None
+Wednesday, Jul 30*boxscore*KCR*None*BOS*L*1*7*None*61-39*1*up11.5*Stanley*Busby*None*2:51*N*31,468*-*None
+Thursday, Jul 31*boxscore*KCR*None*BOS*W*13*3*None*62-39*1*up12.0*Leonard*Eckersley*None*2:28*N*33,500*+*None
+Friday, Aug 1*boxscore*KCR*@*CHW*W*4*3*None*63-39*1*up12.0*Gura*Burns*Quisenberry*2:30*N*23,316*++*None
+Saturday, Aug 2*boxscore*KCR*@*CHW*W*8*2*None*64-39*1*up12.5*Gale*Trout*Pattin*2:39*N*14,905*+++*None
+Sunday, Aug 3*boxscore*KCR*@*CHW*L*3*5*None*64-40*1*up12.0*Dotson*Splittorff*None*2:32*D*14,329*-*None
+Monday, Aug 4*boxscore*KCR*@*DET*W*6*5*None*65-40*1*up12.0*Quisenberry*Schatzeder*None*2:59*N*37,016*+*None
+Tuesday, Aug 5*boxscore*KCR*@*DET*W*6*3*None*66-40*1*up12.0*Leonard*Wilcox*Quisenberry*2:44*N*27,469*++*None
+Wednesday, Aug 6*boxscore*KCR*@*DET*W*5*4*None*67-40*1*up12.0*Gura*Morris*Quisenberry*2:56*N*29,115*+++*None
+Friday, Aug 8*boxscore*KCR*@*TOR*W*9*0*None*68-40*1*up13.5*Gale*Clancy*None*2:15*N*None*++++*None
+Friday, Aug 8*boxscore*KCR*@*TOR*W*7*4*None*69-40*1*up13.5*Pattin*Garvin*None*2:57*N*22,146*+++++*1980-04-28 (Rain)
+Saturday, Aug 9*boxscore*KCR*@*TOR*L-wo*3*4*14*69-41*1*up12.5*Willis*Eastwick*None*3:38*N*21,300*-*None
+Sunday, Aug 10*boxscore*KCR*@*TOR*W*8*5*None*70-41*1*up13.0*Leonard*Jefferson*Pattin*2:50*D*23,473*+*None
+Monday, Aug 11*boxscore*KCR*None*BAL*L*1*2*None*70-42*1*up12.5*Martinez*Gura*None*2:33*N*41,334*-*None
+Tuesday, Aug 12*boxscore*KCR*None*BAL*W-wo*4*3*None*71-42*1*up13.5*Quisenberry*McGregor*None*2:26*N*34,913*+*None
+Wednesday, Aug 13*boxscore*KCR*None*BAL*W*6*1*None*72-42*1*up13.5*Gale*Palmer*None*2:13*N*35,600*++*None
+Friday, Aug 15*boxscore*KCR*None*TOR*W*4*3*None*73-42*1*up13.0*Leonard*Jefferson*Quisenberry*2:24*N*34,861*+++*None
+Saturday, Aug 16*boxscore*KCR*None*TOR*W*11*5*None*74-42*1*up13.0*Gura*Kucek*None*2:45*N*39,631*++++*None
+Sunday, Aug 17*boxscore*KCR*None*TOR*W*8*3*None*75-42*1*up14.0*Splittorff*Clancy*Quisenberry*3:08*N*30,693*+++++*None
+Monday, Aug 18*boxscore*KCR*@*TEX*W*6*3*None*76-42*1*up14.5*Gale*Figueroa*Quisenberry*2:48*N*17,609*++++++*None
+Tuesday, Aug 19*boxscore*KCR*@*TEX*W*4*3*None*77-42*1*up15.5*Twitty*Darwin*Quisenberry*2:36*N*17,800*+++++++*None
+Wednesday, Aug 20*boxscore*KCR*@*TEX*W*5*3*12*78-42*1*up15.5*Quisenberry*Johnson*Martin*3:21*N*16,996*++++++++*None
+Thursday, Aug 21*boxscore*KCR*None*CLE*L*3*4*None*78-43*1*up15.5*Waits*Busby*Cruz*2:39*N*32,139*-*None
+Friday, Aug 22*boxscore*KCR*None*CLE*L*1*4*None*78-44*1*up15.5*Barker*Splittorff*Monge*2:45*N*34,526*--*None
+Saturday, Aug 23*boxscore*KCR*None*CLE*W*3*2*None*79-44*1*up16.5*Gale*Garland*Quisenberry*2:21*N*40,192*+*None
+Sunday, Aug 24*boxscore*KCR*None*CLE*W*7*5*None*80-44*1*up17.5*Leonard*Grimsley*Quisenberry*2:43*N*30,593*++*None
+Monday, Aug 25*boxscore*KCR*@*MIL*W*9*3*None*81-44*1*up17.5*Gura*Haas*Quisenberry*2:57*N*15,912*+++*None
+Tuesday, Aug 26*boxscore*KCR*@*MIL*W*7*6*None*82-44*1*up17.5*Busby*Caldwell*Quisenberry*2:48*N*16,824*++++*None
+Wednesday, Aug 27*boxscore*KCR*@*MIL*W*5*4*None*83-44*1*up18.0*Splittorff*Mitchell*Martin*2:19*N*18,815*+++++*None
+Thursday, Aug 28*boxscore*KCR*None*TEX*L*6*10*None*83-45*1*up18.0*Rajsich*Twitty*None*2:34*N*25,944*-*None
+Friday, Aug 29*boxscore*KCR*None*TEX*W*7*3*None*84-45*1*up19.0*Leonard*Figueroa*None*2:29*N*32,781*+*None
+Saturday, Aug 30*boxscore*KCR*None*TEX*L*5*7*11*84-46*1*up19.0*Johnson*Quisenberry*None*3:17*D*34,557*-*None
+Sunday, Aug 31*boxscore*KCR*None*TEX*W-wo*4*3*None*85-46*1*up20.0*Quisenberry*Lyle*None*2:41*D*37,390*+*None
+Monday, Sep 1*boxscore*KCR*None*MIL*L*1*6*None*85-47*1*up19.5*McClure*Gale*None*2:49*N*28,597*-*None
+Wednesday, Sep 3*boxscore*KCR*None*MIL*L*1*3*10*85-48*1*up19.0*Sorensen*Leonard*None*2:46*N*23,037*--*None
+Thursday, Sep 4*boxscore*KCR*None*MIL*L*5*9*None*85-49*1*up18.5*Castro*Quisenberry*None*2:43*N*21,898*---*None
+Friday, Sep 5*boxscore*KCR*@*CLE*W*2*1*None*86-49*1*up18.5*Splittorff*Waits*None*1:51*N*21,808*+*None
+Saturday, Sep 6*boxscore*KCR*@*CLE*L*3*8*None*86-50*1*up18.5*Barker*Martin*None*3:03*N*27,352*-*None
+Sunday, Sep 7*boxscore*KCR*@*CLE*W*6*4*None*87-50*1*up18.5*Leonard*Garland*Quisenberry*2:32*D*8,990*+*None
+Monday, Sep 8*boxscore*KCR*@*CAL*L*4*7*None*87-51*1*up17.5*Aase*Gura*Hassler*2:53*N*23,050*-*None
+Tuesday, Sep 9*boxscore*KCR*@*CAL*L*3*4*None*87-52*1*up17.5*Tanana*Splittorff*Clear*2:16*N*24,131*--*None
+Wednesday, Sep 10*boxscore*KCR*@*CAL*L*3*8*None*87-53*1*up17.5*Aase*Martin*Hassler*2:45*N*24,762*---*None
+Thursday, Sep 11*boxscore*KCR*@*CAL*W*7*2*None*88-53*1*up18.0*Leonard*Ferris*None*2:38*N*22,844*+*None
+Friday, Sep 12*boxscore*KCR*@*OAK*L*5*9*None*88-54*1*up17.0*Langford*Chamberlain*None*3:05*N*17,440*-*None
+Saturday, Sep 13*boxscore*KCR*@*OAK*L*2*6*None*88-55*1*up16.0*McCatty*Gura*None*2:37*D*11,253*--*None
+Sunday, Sep 14*boxscore*KCR*@*OAK*W*4*3*None*89-55*1*up17.0*Splittorff*Kingman*Quisenberry*2:20*D*10,756*+*None
+Wednesday, Sep 17*boxscore*KCR*None*CAL*W*5*0*None*90-55*1*up16.5*Leonard*Botting*None*2:17*N*None*++*None
+Wednesday, Sep 17*boxscore*KCR*None*CAL*L*4*7*None*90-56*1*up16.5*LaRoche*Gura*Hassler*3:13*N*25,908*-*1980-09-16 (Rain)
+Thursday, Sep 18*boxscore*KCR*None*CAL*W*5*2*None*91-56*1*up17.5*Martin*Martinez*None*2:43*N*19,559*+*None
+Friday, Sep 19*boxscore*KCR*None*OAK*W*13*3*None*92-56*1*up18.5*Splittorff*Kingman*None*2:30*N*29,493*++*None
+Saturday, Sep 20*boxscore*KCR*None*OAK*L*0*9*None*92-57*1*up17.5*Keough*Jones*None*2:43*N*37,523*-*None
+Sunday, Sep 21*boxscore*KCR*None*OAK*L*3*9*None*92-58*1*up16.5*Norris*Leonard*None*2:47*D*41,329*--*None
+Monday, Sep 22*boxscore*KCR*@*SEA*L-wo*4*5*11*92-59*1*up16.0*McLaughlin*Quisenberry*None*3:16*N*8,643*---*None
+Tuesday, Sep 23*boxscore*KCR*@*SEA*L*3*7*None*92-60*1*up15.0*Beattie*Martin*None*2:32*N*10,879*----*None
+Wednesday, Sep 24*boxscore*KCR*@*SEA*L*2*4*None*92-61*1*up14.0*Honeycutt*Splittorff*Parrott*2:12*N*11,180*-----*None
+Friday, Sep 26*boxscore*KCR*@*MIN*L*0*3*None*92-62*1*up14.5*Zahn*Leonard*None*2:30*N*9,837*------*None
+Saturday, Sep 27*boxscore*KCR*@*MIN*L*3*8*None*92-63*1*up13.5*Koosman*Gura*None*2:21*D*6,848*-------*None
+Sunday, Sep 28*boxscore*KCR*@*MIN*L*7*8*None*92-64*1*up12.5*Redfern*Gale*Corbett*2:42*D*6,938*--------*None
+Tuesday, Sep 30*boxscore*KCR*None*SEA*W-wo*7*5*14*93-64*1*up12.5*Quisenberry*Parrott*None*3:59*N*17,272*+*None
+Wednesday, Oct 1*boxscore*KCR*None*SEA*W*4*1*None*94-64*1*up12.5*Pattin*Dressler*Brett*2:18*N*15,604*++*None
+Thursday, Oct 2*boxscore*KCR*None*SEA*W*6*2*None*95-64*1*up13.5*Martin*Bannister*None*2:23*N*15,241*+++*None
+Friday, Oct 3*boxscore*KCR*None*MIN*L*3*5*None*95-65*1*up13.0*Koosman*Gura*Corbett*2:29*N*20,714*-*None
+Saturday, Oct 4*boxscore*KCR*None*MIN*W*17*1*None*96-65*1*up13.0*Leonard*Erickson*None*2:42*N*23,751*+*None
+Sunday, Oct 5*boxscore*KCR*None*MIN*W*4*0*None*97-65*1*up14.0*Splittorff*Jackson*Gale*2:05*D*25,603*++*None

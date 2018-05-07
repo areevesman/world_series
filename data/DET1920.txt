@@ -1,0 +1,155 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Saturday, Apr 17*boxscore*DET*@*CHW*L*0*4*None*0-2*7* 2.0*Cicotte*Ehmke*None*None*D*None*--*None
+Sunday, Apr 18*boxscore*DET*@*CLE*L*4*11*None*0-3*8* 2.5*Coveleski*Ayers*None*1:50*D*None*---*None
+Monday, Apr 19*boxscore*DET*@*CLE*L*6*7*None*0-4*8* 4.0*Bagby*Dauss*None*2:03*D*None*----*None
+Tuesday, Apr 20*boxscore*DET*@*CLE*L*10*11*None*0-5*8* 5.0*Caldwell*Alten*Uhle*3:04*D*None*-----*None
+Thursday, Apr 22*boxscore*DET*None*CHW*L*2*8*None*0-6*8* 5.0*Faber*Leonard*None*None*D*None*------*None
+Saturday, Apr 24*boxscore*DET*None*CHW*L*1*7*None*0-7*8* 6.5*Cicotte*Dauss*None*None*D*None*-------*None
+Sunday, Apr 25*boxscore*DET*None*CHW*L*1*2*10*0-8*8* 7.0*Williams*Ehmke*None*2:10*D*None*--------*None
+Monday, Apr 26*boxscore*DET*@*SLB*L*1*4*None*0-9*8* 7.5*Vangilder*Oldham*None*1:20*D*None*---------*None
+Wednesday, Apr 28*boxscore*DET*@*SLB*L*0*6*None*0-10*8* 8.0*Shocker*Leonard*None*1:45*D*None*----------*None
+Thursday, Apr 29*boxscore*DET*@*SLB*L*0*2*None*0-11*8* 9.0*Sothoron*Dauss*None*None*D*None*-----------*None
+Saturday, May 1*boxscore*DET*None*CLE*L*3*9*None*0-12*8* 9.5*Coveleski*Ehmke*None*1:53*D*None*------------*None
+Sunday, May 2*boxscore*DET*None*CLE*L*2*5*None*0-13*8* 10.0*Bagby*Oldham*None*2:01*D*None*-------------*None
+Monday, May 3*boxscore*DET*None*CLE*W*5*1*None*1-13*8* 10.0*Leonard*Morton*None*2:00*D*None*+*None
+Tuesday, May 4*boxscore*DET*None*CLE*W*2*1*None*2-13*8* 9.0*Dauss*Myers*None*1:42*D*None*++*1920-04-30 (Rain)
+Wednesday, May 5*boxscore*DET*None*SLB*L*4*12*None*2-14*8* 9.5*Sanders*Ehmke*Burwell*2:13*D*None*-*None
+Thursday, May 6*boxscore*DET*None*SLB*W*6*4*None*3-14*8* 9.5*Oldham*Vangilder*None*None*D*None*+*None
+Friday, May 7*boxscore*DET*None*SLB*L*4*10*None*3-15*8* 9.5*Sothoron*Leonard*None*None*D*8,500*-*None
+Saturday, May 8*boxscore*DET*None*SLB*W*5*4*None*4-15*8* 9.0*Dauss*Leverette*None*None*D*None*+*None
+Sunday, May 9*boxscore*DET*None*SLB*L*4*7*None*4-16*8* 10.0*Weilman*Ehmke*None*2:20*D*None*-*None
+Tuesday, May 11*boxscore*DET*@*WSH*W*5*3*None*5-16*8* 10.0*Oldham*Schacht*Glaiser*2:15*D*None*+*None
+Friday, May 14*boxscore*DET*@*WSH*L*8*9*None*5-17*8* 11.0*Johnson*Dauss*None*2:35*D*None*-*None
+Saturday, May 15*boxscore*DET*@*PHA*L*1*4*None*5-18*8* 11.0*Naylor*Leonard*None*None*D*None*--*None
+Monday, May 17*boxscore*DET*@*PHA*W*9*7*None*6-18*8* 11.0*Dauss*Kinney*None*1:43*D*None*+*None
+Tuesday, May 18*boxscore*DET*@*PHA*W*8*2*None*7-18*8* 10.0*Ehmke*Perry*None*1:54*D*None*++*None
+Wednesday, May 19*boxscore*DET*@*PHA*L*4*7*None*7-19*8* 11.0*Naylor*Oldham*None*1:43*D*None*-*None
+Thursday, May 20*boxscore*DET*@*BOS*L*0*6*None*7-20*8* 12.0*Pennock*Leonard*None*1:40*D*None*--*None
+Friday, May 21*boxscore*DET*@*BOS*L*3*8*None*7-21*8* 13.0*Russell*Dauss*None*2:08*D*None*---*None
+Monday, May 24*boxscore*DET*@*NYY*W*3*1*None*8-21*8* 12.5*Ehmke*Mays*None*None*D*8,000*+*None
+Tuesday, May 25*boxscore*DET*@*NYY*L*3*4*None*8-22*8* 13.0*Quinn*Leonard*None*None*D*10,000*-*None
+Wednesday, May 26*boxscore*DET*@*NYY*L*1*4*None*8-23*8* 13.5*Mogridge*Dauss*None*None*D*None*--*None
+Friday, May 28*boxscore*DET*@*SLB*W*3*1*None*9-23*8* 13.0*Oldham*Weilman*None*1:55*D*None*+*None
+Saturday, May 29*boxscore*DET*@*SLB*W*5*3*None*10-23*8* 12.5*Ehmke*Davis*None*2:00*D*None*++*None
+Sunday, May 30*boxscore*DET*@*SLB*W*6*2*None*11-23*7* 12.5*Leonard*Sothoron*None*1:47*D*None*+++*None
+Monday, May 31*boxscore*DET*@*CLE*L*5*9*None*11-24*8* 14.5*Niehaus*Dauss*None*2:03*D*None*-*None
+Monday, May 31*boxscore*DET*@*CLE*L*3*7*None*11-25*8* 14.5*Bagby*Ayers*None*1:50*D*None*--*None
+Tuesday, Jun 1*boxscore*DET*@*CLE*W*11*10*None*12-25*8* 13.5*Oldham*Uhle*Ehmke*3:30*D*None*+*None
+Wednesday, Jun 2*boxscore*DET*@*CLE*L*5*8*None*12-26*8* 14.5*Caldwell*Boland*None*2:15*D*None*-*None
+Thursday, Jun 3*boxscore*DET*@*CLE*W*6*3*None*13-26*8* 13.5*Leonard*Boehling*None*2:10*D*None*+*1920-04-21 (Rain)
+Friday, Jun 4*boxscore*DET*@*CHW*W*6*3*None*14-26*7* 12.5*Dauss*Faber*None*1:47*D*None*++*None
+Saturday, Jun 5*boxscore*DET*@*CHW*L*1*4*None*14-27*8* 12.5*Williams*Ehmke*None*None*D*None*-*None
+Sunday, Jun 6*boxscore*DET*@*CHW*L*6*7*11*14-28*8* 13.0*Kerr*Okrie*None*2:20*D*None*--*None
+Monday, Jun 7*boxscore*DET*@*CHW*L*3*10*None*14-29*8* 13.5*Faber*Leonard*None*1:48*D*None*---*1920-04-15 (Wet grounds)
+Tuesday, Jun 8*boxscore*DET*None*NYY*L*6*13*None*14-30*8* 14.5*Shawkey*Boland*None*None*D*None*----*None
+Wednesday, Jun 9*boxscore*DET*None*NYY*L*3*11*None*14-31*8* 15.5*Thormahlen*Ehmke*None*2:10*D*9,000*-----*None
+Thursday, Jun 10*boxscore*DET*None*NYY*L*5*7*8*14-32*8* 16.5*Mays*Okrie*None*None*D*None*------*None
+Friday, Jun 11*boxscore*DET*None*NYY*L*0*5*None*14-33*8* 17.5*Collins*Leonard*None*None*D*3,000*-------*None
+Saturday, Jun 12*boxscore*DET*None*PHA*W*4*3*None*15-33*7* 17.5*Dauss*Naylor*None*1:45*D*None*+*None
+Sunday, Jun 13*boxscore*DET*None*PHA*W*4*3*10*16-33*7* 16.5*Ehmke*Perry*None*1:46*D*None*++*None
+Monday, Jun 14*boxscore*DET*None*PHA*W*5*0*None*17-33*7* 16.5*Ayers*Harriss*None*1:34*D*None*+++*None
+Tuesday, Jun 15*boxscore*DET*None*PHA*W*3*2*None*18-33*7* 16.5*Leonard*Naylor*None*1:27*D*None*++++*None
+Thursday, Jun 17*boxscore*DET*None*BOS*L*1*2*None*18-34*7* 17.0*Bush*Dauss*None*1:55*D*None*-*None
+Friday, Jun 18*boxscore*DET*None*BOS*W*1*0*None*19-34*7* 17.0*Ayers*Jones*None*1:30*D*None*+*None
+Saturday, Jun 19*boxscore*DET*None*BOS*L*3*4*None*19-35*7* 17.0*Russell*Ehmke*None*1:54*D*None*-*None
+Sunday, Jun 20*boxscore*DET*None*WSH*L*4*9*5*19-36*7* 17.0*Shaw*Oldham*None*1:21*D*None*--*None
+Tuesday, Jun 22*boxscore*DET*None*WSH*L*1*6*None*19-37*7* 18.5*Zachary*Dauss*None*1:47*D*None*---*None
+Wednesday, Jun 23*boxscore*DET*None*WSH*L*2*5*None*19-38*7* 19.5*Erickson*Ayers*Johnson*1:55*D*None*----*None
+Thursday, Jun 24*boxscore*DET*@*SLB*W*5*0*None*20-38*7* 19.0*Oldham*Sothoron*None*1:35*D*None*+*1920-04-27 (Rain)
+Friday, Jun 25*boxscore*DET*@*SLB*L*6*10*None*20-39*7* 19.0*Shocker*Ehmke*None*2:02*D*None*-*None
+Saturday, Jun 26*boxscore*DET*@*SLB*W*5*2*None*21-39*7* 18.0*Dauss*Davis*None*1:25*D*None*+*None
+Sunday, Jun 27*boxscore*DET*@*SLB*L*1*3*None*21-40*7* 19.0*Vangilder*Oldham*None*1:20*D*None*-*None
+Monday, Jun 28*boxscore*DET*None*CHW*L*5*13*None*21-41*7* 20.0*Cicotte*Ayers*None*1:59*D*None*--*None
+Tuesday, Jun 29*boxscore*DET*None*CHW*L*7*8*None*21-42*7* 21.5*Williams*Ayers*Kerr*2:06*D*None*---*None
+Wednesday, Jun 30*boxscore*DET*None*CHW*L*0*14*None*21-43*7* 21.5*Faber*Leonard*None*None*D*None*----*None
+Friday, Jul 2*boxscore*DET*None*CLE*L*3*10*None*21-44*7* 23.0*Coveleski*Dauss*None*1:30*D*None*-----*None
+Saturday, Jul 3*boxscore*DET*None*CLE*L*3*6*None*21-45*7* 24.5*Bagby*Oldham*None*1:39*D*None*------*None
+Sunday, Jul 4*boxscore*DET*None*CLE*L*3*11*None*21-46*7* 24.5*Coveleski*Leonard*None*2:04*D*None*-------*None
+Monday, Jul 5*boxscore*DET*None*SLB*L*4*5*None*21-47*7* 23.5*Sothoron*Ehmke*Shocker*1:48*D*None*--------*None
+Monday, Jul 5*boxscore*DET*None*SLB*W*7*3*None*22-47*7* 23.5*Dauss*Vangilder*None*1:28*D*None*+*None
+Thursday, Jul 8*boxscore*DET*@*NYY*W*4*3*None*23-47*7* 23.5*Okrie*Collins*Ehmke*None*D*18,000*++*None
+Friday, Jul 9*boxscore*DET*@*NYY*L*3*9*None*23-48*7* 24.5*Quinn*Oldham*None*None*D*18,000*-*None
+Saturday, Jul 10*boxscore*DET*@*NYY*L*6*7*10*23-49*7* 25.0*Mays*Leonard*None*None*D*30,000*--*None
+Sunday, Jul 11*boxscore*DET*@*NYY*L*5*6*None*23-50*7* 26.0*Mays*Ehmke*None*1:50*D*35,000*---*None
+Tuesday, Jul 13*boxscore*DET*@*BOS*W*10*4*None*24-50*7* 26.0*Leonard*Pennock*None*1:55*D*None*+*None
+Wednesday, Jul 14*boxscore*DET*@*BOS*L*5*6*None*24-51*7* 27.5*Pennock*Ehmke*None*2:00*D*None*-*None
+Wednesday, Jul 14*boxscore*DET*@*BOS*L*0*4*None*24-52*7* 27.5*Pennock*Oldham*None*1:30*D*None*--*1920-05-22 (Rain)
+Friday, Jul 16*boxscore*DET*@*BOS*W*6*5*10*25-52*7* 27.0*Dauss*Jones*None*1:56*D*None*+*None
+Saturday, Jul 17*boxscore*DET*@*WSH*W*10*1*None*26-52*7* 27.0*Ayers*Shaw*None*2:13*D*None*++*None
+Saturday, Jul 17*boxscore*DET*@*WSH*W*4*2*None*27-52*7* 27.0*Ehmke*Zachary*None*1:50*D*None*+++*1920-05-12 (Rain)
+Sunday, Jul 18*boxscore*DET*@*WSH*L*3*10*None*27-53*7* 27.5*Schacht*Leonard*None*1:54*D*None*-*None
+Tuesday, Jul 20*boxscore*DET*@*WSH*W*7*6*15*28-53*7* 27.0*Dauss*Erickson*None*2:48*D*None*+*None
+Tuesday, Jul 20*boxscore*DET*@*WSH*W*2*1*None*29-53*7* 27.0*Ehmke*Shaw*None*1:36*D*None*++*1920-05-13 (Wet grounds)
+Thursday, Jul 22*boxscore*DET*@*PHA*L*1*3*None*29-54*7* 26.5*Harriss*Ayers*None*1:41*D*None*-*None
+Friday, Jul 23*boxscore*DET*@*PHA*L*1*4*None*29-55*7* 27.5*Rommel*Leonard*None*1:19*D*None*--*None
+Saturday, Jul 24*boxscore*DET*@*PHA*W*5*0*None*30-55*7* 26.5*Ehmke*Perry*None*1:29*D*None*+*None
+Sunday, Jul 25*boxscore*DET*None*SLB*W*21*8*None*31-55*7* 26.5*Oldham*Shocker*None*1:55*D*None*++*None
+Monday, Jul 26*boxscore*DET*None*CHW*L*4*6*10*31-56*7* 27.0*Kerr*Ayers*None*1:47*D*None*-*None
+Tuesday, Jul 27*boxscore*DET*None*CHW*L*1*3*None*31-57*7* 27.5*Faber*Leonard*None*1:51*D*None*--*1920-04-23 (Rain)
+Wednesday, Jul 28*boxscore*DET*None*WSH*W*6*4*None*32-57*7* 27.5*Ehmke*Schacht*None*1:48*D*None*+*None
+Thursday, Jul 29*boxscore*DET*None*WSH*L*1*2*11*32-58*7* 28.0*Shaw*Oldham*None*1:57*D*None*-*None
+Thursday, Jul 29*boxscore*DET*None*WSH*W*13*3*None*33-58*7* 28.0*Dauss*Courtney*None*1:54*D*None*+*1920-06-21 (Rain)
+Friday, Jul 30*boxscore*DET*None*WSH*W*8*4*None*34-58*7* 28.0*Ayers*Zachary*Ehmke*1:38*D*None*++*None
+Saturday, Jul 31*boxscore*DET*None*WSH*W*3*2*None*35-58*7* 28.0*Leonard*Erickson*None*1:40*D*None*+++*None
+Sunday, Aug 1*boxscore*DET*None*BOS*L*2*4*None*35-59*7* 28.0*Hoyt*Ehmke*None*1:30*D*None*-*None
+Monday, Aug 2*boxscore*DET*None*BOS*W*5*2*None*36-59*7* 27.5*Oldham*Bush*None*1:45*D*None*+*None
+Monday, Aug 2*boxscore*DET*None*BOS*W*2*1*None*37-59*7* 27.5*Dauss*Harper*None*1:40*D*None*++*1920-06-16 (Rain)
+Tuesday, Aug 3*boxscore*DET*None*BOS*L*1*3*None*37-60*7* 28.5*Pennock*Ayers*None*1:49*D*None*-*None
+Wednesday, Aug 4*boxscore*DET*None*BOS*L*1*5*None*37-61*7* 28.5*Bush*Leonard*None*1:55*D*None*--*None
+Thursday, Aug 5*boxscore*DET*None*NYY*W*7*1*None*38-61*7* 28.0*Ehmke*Shawkey*None*None*D*4,000*+*None
+Friday, Aug 6*boxscore*DET*None*NYY*L*7*11*None*38-62*7* 28.0*Quinn*Dauss*Mogridge*None*D*12,500*-*None
+Saturday, Aug 7*boxscore*DET*None*NYY*L*3*7*None*38-63*7* 29.0*Mays*Ayers*None*1:48*D*20,000*--*None
+Sunday, Aug 8*boxscore*DET*None*NYY*W*1*0*None*39-63*7* 29.0*Ehmke*Collins*None*None*D*28,000*+*None
+Monday, Aug 9*boxscore*DET*None*PHA*W*5*2*None*40-63*7* 28.0*Ayers*Naylor*None*1:48*D*None*++*None
+Wednesday, Aug 11*boxscore*DET*None*PHA*L*4*13*None*40-64*7* 28.0*Rommel*Dauss*None*1:43*D*None*-*None
+Thursday, Aug 12*boxscore*DET*None*PHA*L*1*3*None*40-65*7* 28.0*Harriss*Ayers*None*1:27*D*None*--*1920-08-10 (Rain)
+Saturday, Aug 14*boxscore*DET*None*CHW*L*2*5*None*40-66*7* 27.5*Kerr*Oldham*None*None*D*None*---*None
+Saturday, Aug 14*boxscore*DET*None*CHW*W*6*1*None*41-66*7* 27.5*Ehmke*Faber*None*1:30*D*None*+*1920-08-13 (Rain)
+Sunday, Aug 15*boxscore*DET*None*CHW*L*3*10*None*41-67*7* 28.0*Cicotte*Leonard*None*1:30*D*None*-*None
+Monday, Aug 16*boxscore*DET*@*BOS*L*4*6*None*41-68*7* 29.0*Pennock*Dauss*Hoyt*1:56*D*None*--*None
+Tuesday, Aug 17*boxscore*DET*@*BOS*L*3*4*None*41-69*7* 29.0*Jones*Oldham*None*1:53*D*None*---*None
+Tuesday, Aug 17*boxscore*DET*@*BOS*W*3*1*None*42-69*7* 29.0*Ehmke*Harper*None*2:00*D*None*+*1920-07-15 (Rain)
+Wednesday, Aug 18*boxscore*DET*@*BOS*L*5*6*11*42-70*7* 29.0*Myers*Ayers*None*1:55*D*None*-*None
+Thursday, Aug 19*boxscore*DET*@*BOS*W*4*0*None*43-70*7* 29.0*Leonard*Bush*None*1:32*D*None*+*None
+Saturday, Aug 21*boxscore*DET*@*NYY*W*10*3*None*44-70*7* 29.0*Dauss*Collins*None*None*D*35,000*++*None
+Sunday, Aug 22*boxscore*DET*@*NYY*W*11*9*None*45-70*7* 29.0*Ehmke*Quinn*Ayers*None*D*37,000*+++*None
+Monday, Aug 23*boxscore*DET*@*NYY*L*0*10*None*45-71*7* 29.5*Mays*Leonard*None*None*D*20,000*-*None
+Tuesday, Aug 24*boxscore*DET*@*NYY*W*5*3*None*46-71*7* 28.5*Ayers*Shawkey*None*None*D*16,000*+*None
+Thursday, Aug 26*boxscore*DET*@*WSH*L*2*3*13*46-72*7* 29.0*Erickson*Dauss*None*2:32*D*None*-*None
+Thursday, Aug 26*boxscore*DET*@*WSH*W*5*4*None*47-72*7* 29.0*Oldham*Zachary*Ehmke*1:57*D*None*+*1920-07-19 (Rain)
+Friday, Aug 27*boxscore*DET*@*WSH*L*1*3*None*47-73*7* 29.0*Acosta*Ehmke*None*1:34*D*None*-*None
+Monday, Aug 30*boxscore*DET*@*PHA*W*9*5*None*48-73*7* 27.5*Leonard*Rommel*Oldham*1:48*D*None*+*None
+Tuesday, Aug 31*boxscore*DET*@*PHA*T*8*8*15*48-73*7* 27.0*None*None*None*3:04*D*None*+*None
+Wednesday, Sep 1*boxscore*DET*@*PHA*L*1*2*None*48-74*7* 28.0*Keefe*Ehmke*None*1:42*D*None*-*None
+Wednesday, Sep 1*boxscore*DET*@*PHA*L*4*11*None*48-75*7* 28.0*Rommel*Dauss*None*1:55*D*None*--*None
+Thursday, Sep 2*boxscore*DET*@*PHA*L*0*2*None*48-76*7* 28.5*Harriss*Oldham*None*1:29*D*None*---*None
+Friday, Sep 3*boxscore*DET*@*CLE*W*1*0*None*49-76*7* 27.5*Leonard*Coveleski*None*1:30*D*None*+*None
+Saturday, Sep 4*boxscore*DET*@*CLE*L*3*12*None*49-77*7* 28.5*Caldwell*Ayers*None*1:56*D*None*-*None
+Sunday, Sep 5*boxscore*DET*@*CLE*L*3*4*None*49-78*7* 29.5*Bagby*Dauss*None*1:11*D*None*--*None
+Monday, Sep 6*boxscore*DET*@*CHW*L*2*6*None*49-79*7* 31.5*Faber*Ehmke*None*1:46*D*None*---*None
+Monday, Sep 6*boxscore*DET*@*CHW*L*4*5*10*49-80*7* 31.5*Hodge*Baumgartner*None*1:46*D*None*----*None
+Tuesday, Sep 7*boxscore*DET*@*CHW*W*5*0*None*50-80*7* 31.0*Leonard*Kerr*None*1:27*D*None*+*None
+Wednesday, Sep 8*boxscore*DET*None*PHA*L*4*5*None*50-81*7* 31.5*Naylor*Dauss*None*1:55*D*None*-*None
+Friday, Sep 10*boxscore*DET*None*PHA*W*4*0*None*51-81*7* 30.5*Ayers*Rommel*None*1:25*D*None*+*None
+Friday, Sep 10*boxscore*DET*None*PHA*W*5*2*None*52-81*7* 30.5*Morrisette*Keefe*None*1:27*D*None*++*1920-09-09 (Rain)
+Saturday, Sep 11*boxscore*DET*None*PHA*W*5*2*None*53-81*7* 30.0*Wilson*Harriss*None*1:31*D*None*+++*None
+Sunday, Sep 12*boxscore*DET*None*NYY*L*6*13*None*53-82*7* 31.0*Collins*Dauss*None*2:28*D*30,000*-*None
+Monday, Sep 13*boxscore*DET*None*NYY*L*2*4*None*53-83*7* 32.0*Mays*Ehmke*None*None*D*7,500*--*None
+Tuesday, Sep 14*boxscore*DET*None*NYY*L*3*13*None*53-84*7* 33.0*Shawkey*Dauss*None*2:27*D*10,000*---*None
+Thursday, Sep 16*boxscore*DET*None*BOS*W*7*6*10*54-84*7* 32.0*Conkwright*Pennock*None*2:26*D*None*+*None
+Friday, Sep 17*boxscore*DET*None*BOS*W*14*13*12*55-84*7* 32.0*Conkwright*Karr*None*3:27*D*None*++*None
+Saturday, Sep 18*boxscore*DET*None*BOS*L*4*7*None*55-85*7* 33.0*Myers*Wilson*None*1:34*D*None*-*None
+Sunday, Sep 19*boxscore*DET*None*WSH*W*9*7*None*56-85*7* 32.5*Ehmke*Bono*None*2:11*D*None*+*None
+Sunday, Sep 19*boxscore*DET*None*WSH*W*3*2*None*57-85*7* 32.5*Dauss*Shaw*None*1:28*D*None*++*1920-08-28 (Rain; Site change)
+Monday, Sep 20*boxscore*DET*None*WSH*L*3*9*None*57-86*7* 33.5*Zachary*Ayers*None*1:53*D*None*-*None
+Tuesday, Sep 21*boxscore*DET*None*WSH*W*12*11*None*58-86*7* 33.5*Bogart*Bono*None*2:15*D*None*+*None
+Thursday, Sep 23*boxscore*DET*None*SLB*L*4*8*None*58-87*7* 34.0*Davis*Morrisette*None*1:35*D*None*-*None
+Thursday, Sep 23*boxscore*DET*None*SLB*L*0*3*None*58-88*7* 34.0*Bayne*Bogart*None*1:50*D*None*--*1920-07-06 (Rain)
+Friday, Sep 24*boxscore*DET*None*SLB*W*16*8*None*59-88*7* 34.0*Crumpler*Boehler*None*1:56*D*None*+*None
+Saturday, Sep 25*boxscore*DET*@*SLB*L*5*7*None*59-89*7* 34.0*Richmond*Conkwright*None*1:50*D*None*-*None
+Sunday, Sep 26*boxscore*DET*@*CHW*L*1*8*None*59-90*7* 35.0*Cicotte*Ehmke*None*1:45*D*25,000*--*None
+Monday, Sep 27*boxscore*DET*@*CHW*L*0*2*None*59-91*7* 36.0*Kerr*Dauss*None*1:06*D*None*---*1920-04-16 (Wet grounds)
+Friday, Oct 1*boxscore*DET*None*CLE*W*5*4*10*60-91*7* 37.0*Ehmke*Bagby*None*1:40*D*None*+*None
+Friday, Oct 1*boxscore*DET*None*CLE*L*3*10*8*60-92*7* 37.0*Caldwell*Ayers*None*1:40*D*None*-*1920-09-30 (Cold)
+Saturday, Oct 2*boxscore*DET*None*CLE*L*1*10*None*60-93*7* 38.0*Bagby*Oldham*None*1:28*D*5,000*--*None
+Sunday, Oct 3*boxscore*DET*None*CLE*W*6*5*None*61-93*7* 37.0*Bogart*Clark*None*1:28*D*None*+*None

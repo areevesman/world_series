@@ -1,0 +1,155 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 19*boxscore*CIN*None*CHC*W*2*1*None*1-1*3* 1.0*Riddle*Hanyzewski*None*1:36*D*1,766*+*None
+Thursday, Apr 20*boxscore*CIN*None*CHC*W*2*1*None*2-1*3* 1.0*de la Cruz*Fleming*None*1:26*D*897*++*None
+Friday, Apr 21*boxscore*CIN*@*PIT*W*4*2*None*3-1*3* 1.0*Beggs*Sewell*None*1:48*D*10,877*+++*None
+Tuesday, Apr 25*boxscore*CIN*None*STL*W*10*3*None*4-1*3* 0.5*Riddle*Cooper*None*1:56*D*1,693*++++*None
+Wednesday, Apr 26*boxscore*CIN*None*STL*W-wo*1*0*13*5-1*1* Tied*Walters*Jurisich*None*2:26*D*1,296*+++++*None
+Thursday, Apr 27*boxscore*CIN*None*STL*L*2*3*None*5-2*3* 0.5*Wilks*Shoun*None*2:01*D*1,357*-*None
+Friday, Apr 28*boxscore*CIN*None*PIT*W*2*0*None*6-2*2* 0.5*Heusser*Butcher*None*1:34*D*1,080*+*None
+Saturday, Apr 29*boxscore*CIN*None*PIT*L*3*7*None*6-3*3* 1.0*Sewell*Ferguson*None*2:04*D*2,695*-*None
+Sunday, Apr 30*boxscore*CIN*None*PIT*L*1*7*None*6-4*3* 2.0*Strincevich*Riddle*None*1:45*D*None*--*None
+Sunday, Apr 30*boxscore*CIN*None*PIT*W*4*1*None*7-4*3* 2.0*Walters*Rescigno*None*1:34*D*16,060*+*None
+Wednesday, May 3*boxscore*CIN*@*CHC*W*10*4*None*8-4*2* 1.5*de la Cruz*Derringer*None*1:56*D*2,721*++*None
+Saturday, May 6*boxscore*CIN*@*STL*W*2*0*None*9-4*1* Tied*Walters*Munger*None*1:29*D*814*+++*None
+Sunday, May 7*boxscore*CIN*@*STL*L*1*5*None*9-5*3* 2.0*Lanier*Riddle*None*1:51*D*None*-*None
+Sunday, May 7*boxscore*CIN*@*STL*L*0*1*None*9-6*3* 2.0*Jurisich*de la Cruz*None*1:34*D*9,585*--*None
+Wednesday, May 10*boxscore*CIN*None*NYG*W-wo*3*2*None*10-6*3* 2.0*Walters*Voiselle*None*None*N*15,311*+*None
+Thursday, May 11*boxscore*CIN*None*NYG*W*4*3*None*11-6*2* 1.0*Shoun*Fischer*Ferguson*None*None*1,221*++*None
+Friday, May 12*boxscore*CIN*None*NYG*L*3*5*None*11-7*3* 2.0*Feldman*Heusser*Adams*None*None*1,329*-*None
+Saturday, May 13*boxscore*CIN*None*NYG*L*4*7*None*11-8*3* 3.0*Adams*Ferguson*Polli*None*None*2,189*--*None
+Sunday, May 14*boxscore*CIN*None*BSN*W*4*0*None*12-8*3* 4.0*Walters*Javery*None*1:23*D*None*+*None
+Sunday, May 14*boxscore*CIN*None*BSN*L*0*6*None*12-9*3* 4.0*Hutchinson*de la Cruz*None*1:46*D*10,523*-*None
+Monday, May 15*boxscore*CIN*None*BSN*W*1*0*None*13-9*2* 4.0*Shoun*Tobin*None*1:19*D*1,014*+*None
+Tuesday, May 16*boxscore*CIN*None*BSN*L*0*1*None*13-10*3* 4.0*Andrews*Heusser*Javery*1:44*D*1,739*-*None
+Wednesday, May 17*boxscore*CIN*None*PHI*W*6*5*8*14-10*2* 3.0*Malloy*Donahue*None*1:52*D*1,212*+*None
+Thursday, May 18*boxscore*CIN*None*PHI*L*0*2*None*14-11*3* 4.0*Raffensberger*Walters*None*1:46*N*10,253*-*None
+Friday, May 19*boxscore*CIN*None*PHI*W*7*5*None*15-11*2* 3.0*Shoun*Barrett*None*1:53*D*1,450*+*None
+Saturday, May 20*boxscore*CIN*None*BRO*L*1*6*None*15-12*3* 4.0*Gregg*Katz*None*1:20*D*2,416*-*None
+Sunday, May 21*boxscore*CIN*None*BRO*W*5*3*None*16-12*2* 3.0*Heusser*McLish*None*1:48*D*None*+*None
+Sunday, May 21*boxscore*CIN*None*BRO*W-wo*6*5*10*17-12*2* 3.0*Walters*Webber*None*2:15*D*17,319*++*None
+Friday, May 26*boxscore*CIN*@*NYG*W*4*3*10*18-12*2* 3.0*Walters*Adams*None*None*None*8,366*+++*None
+Saturday, May 27*boxscore*CIN*@*BRO*W*2*0*None*19-12*2* 3.0*Heusser*Davis*None*1:55*D*11,642*++++*None
+Sunday, May 28*boxscore*CIN*@*BRO*L*7*8*None*19-13*2* 4.0*Chipman*Malloy*Gregg*2:25*D*None*-*None
+Sunday, May 28*boxscore*CIN*@*BRO*L*2*3*None*19-14*2* 4.0*Melton*de la Cruz*None*1:46*D*29,556*--*None
+Monday, May 29*boxscore*CIN*@*BRO*W*13*4*None*20-14*2* 3.0*Walters*Wyatt*None*2:16*N*25,112*+*None
+Tuesday, May 30*boxscore*CIN*@*PHI*W*4*3*None*21-14*2* 2.0*Carter*Lee*Heusser*None*None*None*++*None
+Tuesday, May 30*boxscore*CIN*@*PHI*W*7*4*None*22-14*2* 2.0*Shoun*Gerheauser*None*None*None*None*+++*None
+Wednesday, May 31*boxscore*CIN*@*PHI*L*4*5*None*22-15*2* 2.0*Schanz*Ferguson*None*1:51*D*2,983*-*None
+Thursday, Jun 1*boxscore*CIN*@*PHI*L*7*8*None*22-16*2* 3.0*Barrett*de la Cruz*Lee*1:57*D*4,306*--*None
+Friday, Jun 2*boxscore*CIN*@*BSN*L*0*4*None*22-17*2* 4.0*Tobin*Heusser*None*1:23*D*1,499*---*None
+Saturday, Jun 3*boxscore*CIN*@*BSN*L*4*5*None*22-18*2* 5.0*Hutchinson*Walters*Javery*1:38*D*2,676*----*None
+Sunday, Jun 4*boxscore*CIN*@*BSN*W*1*0*None*23-18*2* 4.0*Carter*Andrews*None*1:44*D*None*+*None
+Sunday, Jun 4*boxscore*CIN*@*BSN*W*7*3*None*24-18*2* 4.0*Shoun*Barrett*None*1:42*D*21,531*++*None
+Wednesday, Jun 7*boxscore*CIN*@*PIT*L*2*4*None*24-19*3* 4.5*Sewell*de la Cruz*Rescigno*2:03*N*17,161*-*None
+Thursday, Jun 8*boxscore*CIN*None*STL*W*2*1*None*25-19*2* 3.5*Walters*Lanier*None*None*N*None*+*None
+Saturday, Jun 10*boxscore*CIN*None*STL*L*0*18*None*25-20*3* 4.5*Cooper*Lohrman*None*2:23*D*3,510*-*None
+Sunday, Jun 11*boxscore*CIN*None*STL*L*1*3*None*25-21*3* 6.5*Munger*Carter*None*1:36*D*None*--*None
+Sunday, Jun 11*boxscore*CIN*None*STL*L*1*4*None*25-22*3* 6.5*Gumbert*Shoun*None*1:38*D*24,337*---*None
+Tuesday, Jun 13*boxscore*CIN*None*PIT*L*2*3*5*25-23*3* 7.5*Starr*Heusser*None*1:02*D*2,460*----*None
+Wednesday, Jun 14*boxscore*CIN*None*PIT*W*3*2*11*26-23*3* 7.5*Walters*Rescigno*None*2:30*N*6,455*+*None
+Thursday, Jun 15*boxscore*CIN*None*PIT*L*0*1*None*26-24*3* 8.0*Butcher*de la Cruz*None*1:29*D*1,101*-*None
+Friday, Jun 16*boxscore*CIN*@*CHC*W*10*5*None*27-24*3* 7.5*Shoun*Vandenberg*Heusser*2:11*D*5,227*+*None
+Saturday, Jun 17*boxscore*CIN*@*CHC*L*1*2*10*27-25*3* 8.5*Passeau*Carter*None*2:00*D*5,175*-*None
+Sunday, Jun 18*boxscore*CIN*@*CHC*W*5*2*None*28-25*4* 8.0*Gumbert*Wyse*None*2:10*D*None*+*None
+Sunday, Jun 18*boxscore*CIN*@*CHC*T*6*6*13*28-25*4* 8.0*None*None*None*2:52*D*40,222*+*None
+Tuesday, Jun 20*boxscore*CIN*@*PIT*W*3*0*None*29-25*2* 8.0*Walters*Butcher*None*1:49*N*7,369*++*None
+Wednesday, Jun 21*boxscore*CIN*@*PIT*L-wo*1*2*None*29-26*4* 9.5*Starr*Heusser*None*1:47*D*2,414*-*None
+Thursday, Jun 22*boxscore*CIN*@*PIT*L*4*9*None*29-27*4* 10.5*Sewell*de la Cruz*None*2:22*D*None*--*1944-04-23 (Rain)
+Thursday, Jun 22*boxscore*CIN*@*PIT*L*4*7*None*29-28*4* 10.5*Strincevich*Gumbert*None*1:49*D*5,394*---*None
+Friday, Jun 23*boxscore*CIN*None*CHC*L*1*3*None*29-29*4* 11.0*Wyse*Shoun*None*1:54*N*7,700*----*None
+Saturday, Jun 24*boxscore*CIN*None*CHC*W*1*0*None*30-29*4* 11.0*Konstanty*Erickson*None*1:30*D*1,312*+*None
+Sunday, Jun 25*boxscore*CIN*None*CHC*W*4*3*None*31-29*5* 11.5*Walters*Fleming*Carter*1:45*D*None*++*None
+Sunday, Jun 25*boxscore*CIN*None*CHC*L*0*5*None*31-30*5* 11.5*Passeau*Gumbert*None*1:44*D*8,808*-*None
+Wednesday, Jun 28*boxscore*CIN*None*BSN*W*4*3*10*32-30*3* 10.0*Konstanty*Javery*None*2:12*N*None*+*None
+Wednesday, Jun 28*boxscore*CIN*None*BSN*W*3*2*None*33-30*3* 10.0*Carter*Andrews*None*1:59*N*10,761*++*None
+Friday, Jun 30*boxscore*CIN*None*BSN*W*3*2*None*34-30*3* 9.5*Walters*Barrett*None*1:33*N*4,587*+++*None
+Saturday, Jul 1*boxscore*CIN*None*NYG*W*5*0*None*35-30*3* 9.5*Heusser*Seward*None*None*None*2,003*++++*None
+Sunday, Jul 2*boxscore*CIN*None*NYG*W*4*1*None*36-30*3* 10.5*Konstanty*Voiselle*None*None*None*None*+++++*None
+Sunday, Jul 2*boxscore*CIN*None*NYG*L*0*7*None*36-31*3* 10.5*Allen*Shoun*None*None*None*13,234*-*None
+Tuesday, Jul 4*boxscore*CIN*None*BRO*W*6*2*None*37-31*2* 10.5*Carter*Gregg*None*1:52*D*None*+*None
+Tuesday, Jul 4*boxscore*CIN*None*BRO*W-wo*2*1*10*38-31*2* 10.5*Gumbert*Branca*None*2:08*D*11,663*++*None
+Wednesday, Jul 5*boxscore*CIN*None*BRO*W*4*1*None*39-31*2* 10.5*Heusser*Head*None*1:22*D*1,418*+++*None
+Thursday, Jul 6*boxscore*CIN*None*BRO*W*10*4*None*40-31*2* 9.5*Walters*Branca*None*1:35*N*12,606*++++*None
+Friday, Jul 7*boxscore*CIN*None*PHI*L*2*3*None*40-32*2* 9.5*Schanz*Shoun*None*1:39*D*877*-*None
+Saturday, Jul 8*boxscore*CIN*None*PHI*L*2*3*None*40-33*3* 10.5*Lee*Konstanty*Karl*1:35*D*1,626*--*None
+Sunday, Jul 9*boxscore*CIN*None*PHI*W*9*5*None*41-33*3* 10.5*Carter*Barrett*Walters*2:08*D*None*+*None
+Sunday, Jul 9*boxscore*CIN*None*PHI*W*7*5*None*42-33*3* 10.5*Heusser*Raffensberger*None*1:40*D*10,111*++*None
+Thursday, Jul 13*boxscore*CIN*@*STL*L*2*3*11*42-34*3* 11.5*Jurisich*Konstanty*None*1:52*N*14,786*-*None
+Friday, Jul 14*boxscore*CIN*@*STL*W*3*0*None*43-34*3* 10.5*Walters*Cooper*None*2:00*N*11,307*+*1944-05-05 (Cold)
+Saturday, Jul 15*boxscore*CIN*@*STL*L*1*12*None*43-35*3* 11.5*Wilks*Gumbert*None*2:01*N*8,942*-*None
+Sunday, Jul 16*boxscore*CIN*@*STL*L*2*4*None*43-36*3* 11.5*Donnelly*Carter*None*1:52*D*None*--*None
+Sunday, Jul 16*boxscore*CIN*@*STL*W*3*2*None*44-36*3* 11.5*Heusser*Brecheen*Shoun*1:37*D*13,845*+*None
+Wednesday, Jul 19*boxscore*CIN*@*BRO*L*5*10*None*44-37*3* 12.5*Webber*Carter*Davis*2:35*N*14,573*-*None
+Thursday, Jul 20*boxscore*CIN*@*BRO*W*6*0*None*45-37*2* 13.0*Gumbert*McLish*None*1:47*D*13,439*+*None
+Friday, Jul 21*boxscore*CIN*@*BRO*W*3*2*None*46-37*2* 13.0*Heusser*Davis*None*1:37*D*8,155*++*None
+Saturday, Jul 22*boxscore*CIN*@*PHI*W*4*3*None*47-37*2* 12.0*de la Cruz*Karl*None*2:09*N*8,498*+++*None
+Sunday, Jul 23*boxscore*CIN*@*PHI*L*6*7*None*47-38*3* 13.0*Schanz*Gumbert*None*None*None*None*-*None
+Sunday, Jul 23*boxscore*CIN*@*PHI*W*2*1*None*48-38*3* 13.0*Shoun*Raffensberger*None*None*None*None*+*None
+Tuesday, Jul 25*boxscore*CIN*@*BSN*W*6*2*None*49-38*3* 13.5*Carter*Cardoni*None*1:48*D*1,283*++*None
+Wednesday, Jul 26*boxscore*CIN*@*BSN*L*2*9*None*49-39*3* 14.0*Barrett*Walters*None*1:31*D*None*-*None
+Wednesday, Jul 26*boxscore*CIN*@*BSN*W*8*5*None*50-39*3* 14.0*Gumbert*Hutchinson*None*2:02*D*3,881*+*1944-07-28 (Schedule change)
+Thursday, Jul 27*boxscore*CIN*@*BSN*W*4*2*None*51-39*3* 14.5*Konstanty*Hutchinson*None*1:37*N*785*++*None
+Saturday, Jul 29*boxscore*CIN*@*NYG*L*4*5*None*51-40*3* 15.5*Allen*Heusser*Adams*None*None*None*-*None
+Saturday, Jul 29*boxscore*CIN*@*NYG*W*5*3*11*52-40*3* 15.5*Shoun*Adams*None*None*None*8,920*+*1944-05-24 (Rain)
+Sunday, Jul 30*boxscore*CIN*@*NYG*L*0*8*None*52-41*2* 15.5*Fischer*Walters*None*1:39*D*None*-*None
+Sunday, Jul 30*boxscore*CIN*@*NYG*W*9*3*None*53-41*2* 15.5*Gumbert*Feldman*None*2:14*D*22,678*+*None
+Monday, Jul 31*boxscore*CIN*@*NYG*L*7*9*None*53-42*3* 15.5*Hansen*Konstanty*None*2:20*N*15,213*-*None
+Tuesday, Aug 1*boxscore*CIN*@*NYG*W*5*4*None*54-42*3* 15.5*Heusser*Feldman*None*2:24*D*3,523*+*None
+Friday, Aug 4*boxscore*CIN*None*STL*W*5*3*None*55-42*2* 15.5*Walters*Jurisich*None*2:06*N*25,133*++*None
+Sunday, Aug 6*boxscore*CIN*None*STL*L*4*5*14*55-43*2* 16.5*Lanier*Gumbert*None*3:00*D*14,279*-*None
+Wednesday, Aug 9*boxscore*CIN*None*BSN*L*6*9*None*55-44*2* 17.5*Javery*Carter*Tobin*1:48*D*1,860*--*None
+Thursday, Aug 10*boxscore*CIN*None*BSN*L*0*2*None*55-45*3* 18.5*Barrett*Walters*None*1:15*N*7,783*---*None
+Friday, Aug 11*boxscore*CIN*None*BSN*W*12*6*None*56-45*3* 18.5*Heusser*Andrews*de la Cruz*1:57*D*1,176*+*None
+Saturday, Aug 12*boxscore*CIN*None*BSN*W-wo*5*4*10*57-45*3* 17.5*Carter*Barrett*None*1:59*D*1,658*++*None
+Sunday, Aug 13*boxscore*CIN*None*NYG*W*4*3*None*58-45*3* 17.5*Shoun*Fischer*None*1:54*D*None*+++*None
+Sunday, Aug 13*boxscore*CIN*None*NYG*W*9*2*None*59-45*3* 17.5*Konstanty*Allen*None*1:58*D*13,713*++++*None
+Monday, Aug 14*boxscore*CIN*None*NYG*W*6*3*None*60-45*3* 17.5*Walters*Brewer*None*1:42*D*1,248*+++++*None
+Tuesday, Aug 15*boxscore*CIN*None*NYG*W*6*3*None*61-45*3* 17.5*de la Cruz*Feldman*None*1:53*N*6,804*++++++*None
+Wednesday, Aug 16*boxscore*CIN*None*BRO*L*1*3*None*61-46*3* 18.5*Davis*Heusser*None*1:41*D*1,680*-*None
+Friday, Aug 18*boxscore*CIN*None*BRO*W*1*0*None*62-46*3* 18.5*Gumbert*Herring*None*1:45*N*None*+*None
+Friday, Aug 18*boxscore*CIN*None*BRO*W-wo*7*6*None*63-46*3* 18.5*de la Cruz*Herring*None*2:00*N*10,073*++*1944-08-17 (Wet grounds)
+Saturday, Aug 19*boxscore*CIN*None*BRO*L*2*3*None*63-47*3* 19.5*Melton*Shoun*Davis*2:09*D*6,256*-*None
+Sunday, Aug 20*boxscore*CIN*None*PHI*W*2*1*12*64-47*3* 19.5*Walters*Kennedy*None*1:59*D*None*+*None
+Sunday, Aug 20*boxscore*CIN*None*PHI*L*1*4*None*64-48*3* 19.5*Schanz*Carter*None*1:52*D*10,595*-*None
+Tuesday, Aug 22*boxscore*CIN*None*PHI*L*3*4*None*64-49*3* 20.5*Lee*Shoun*None*1:42*N*None*--*None
+Tuesday, Aug 22*boxscore*CIN*None*PHI*W*5*1*None*65-49*3* 20.5*de la Cruz*Barrett*None*1:30*N*9,262*+*None
+Friday, Aug 25*boxscore*CIN*@*CHC*W*2*0*None*66-49*3* 21.5*Heusser*Wyse*None*1:34*D*7,121*++*None
+Saturday, Aug 26*boxscore*CIN*@*CHC*W*10*7*None*67-49*3* 21.0*Walters*Erickson*None*2:06*D*5,020*+++*None
+Monday, Aug 28*boxscore*CIN*@*STL*L*2*3*None*67-50*3* 21.5*Cooper*Gumbert*None*1:37*N*4,710*-*None
+Tuesday, Aug 29*boxscore*CIN*@*STL*L*0*3*None*67-51*3* 22.5*Wilks*de la Cruz*None*1:30*N*6,803*--*None
+Friday, Sep 1*boxscore*CIN*None*CHC*L*2*3*None*67-52*3* 22.5*Erickson*Walters*None*2:03*N*7,238*---*None
+Saturday, Sep 2*boxscore*CIN*None*CHC*W*6*1*None*68-52*3* 21.5*Shoun*Derringer*None*1:32*D*1,824*+*None
+Sunday, Sep 3*boxscore*CIN*None*CHC*L*1*5*None*68-53*3* 21.5*Wyse*Carter*None*1:43*D*None*-*None
+Sunday, Sep 3*boxscore*CIN*None*CHC*L*2*6*None*68-54*3* 21.5*Passeau*Heusser*None*1:45*D*11,617*--*None
+Monday, Sep 4*boxscore*CIN*None*STL*L*0*3*None*68-55*3* 22.5*Wilks*Gumbert*None*1:39*D*14,367*---*None
+Tuesday, Sep 5*boxscore*CIN*None*STL*L*0*4*None*68-56*3* 22.5*Cooper*de la Cruz*None*1:24*N*None*----*1944-09-04 (Rain)
+Tuesday, Sep 5*boxscore*CIN*None*STL*W*4*0*None*69-56*3* 22.5*Walters*Lanier*None*1:51*N*5,144*+*1944-08-30 (Rain; Site change)
+Thursday, Sep 7*boxscore*CIN*None*PIT*W*2*1*None*70-56*3* 22.5*Heusser*Ostermueller*None*1:50*N*4,702*++*None
+Saturday, Sep 9*boxscore*CIN*None*PIT*W*3*2*None*71-56*3* 21.5*Shoun*Sewell*None*1:27*D*1,818*+++*None
+Sunday, Sep 10*boxscore*CIN*None*PIT*L*5*7*None*71-57*3* 21.5*Strincevich*Walters*None*1:52*D*None*-*None
+Sunday, Sep 10*boxscore*CIN*None*PIT*W*2*0*None*72-57*3* 21.5*Carter*Butcher*None*1:32*D*17,343*+*None
+Monday, Sep 11*boxscore*CIN*@*CHC*W*6*5*10*73-57*3* 21.0*Shoun*Wyse*None*2:13*D*2,328*++*1944-05-04 (Cold)
+Wednesday, Sep 13*boxscore*CIN*@*CHC*W*4*1*None*74-57*3* 19.0*Gumbert*Lynn*None*1:45*D*None*+++*None
+Wednesday, Sep 13*boxscore*CIN*@*CHC*L*2*3*None*74-58*3* 19.0*Passeau*Shoun*None*1:35*D*2,881*-*1944-08-27 (Wet grounds)
+Thursday, Sep 14*boxscore*CIN*@*CHC*W*3*2*13*75-58*3* 19.0*Heusser*Wyse*None*2:42*D*None*+*None
+Thursday, Sep 14*boxscore*CIN*@*CHC*L*2*4*None*75-59*3* 19.0*Derringer*Konstanty*None*1:30*D*3,418*-*1944-09-12 (Wet grounds)
+Friday, Sep 15*boxscore*CIN*@*PIT*W*5*3*10*76-59*3* 18.5*Walters*Rescigno*None*2:05*N*12,198*+*None
+Saturday, Sep 16*boxscore*CIN*@*PIT*W*2*1*None*77-59*3* 17.0*de la Cruz*Butcher*None*1:31*D*None*++*None
+Saturday, Sep 16*boxscore*CIN*@*PIT*W*3*1*None*78-59*3* 17.0*Carter*Starr*None*1:34*D*3,670*+++*1944-04-23 (Rain)
+Sunday, Sep 17*boxscore*CIN*@*PIT*L*1*7*None*78-60*3* 16.0*Sewell*Shoun*None*1:47*D*None*-*None
+Sunday, Sep 17*boxscore*CIN*@*PIT*W*2*1*10*79-60*3* 16.0*Gumbert*Ostermueller*None*2:04*D*19,823*+*1944-06-06 (D-Day)
+Wednesday, Sep 20*boxscore*CIN*@*PHI*L*2*3*None*79-61*3* 16.0*Schanz*Heusser*None*None*None*None*-*None
+Wednesday, Sep 20*boxscore*CIN*@*PHI*W*6*4*None*80-61*3* 16.0*Walters*Raffensberger*None*None*None*None*+*1944-07-24 (Rain)
+Thursday, Sep 21*boxscore*CIN*@*PHI*W*5*3*12*81-61*3* 16.0*Gumbert*Kennedy*None*None*None*None*++*None
+Thursday, Sep 21*boxscore*CIN*@*PHI*W*8*4*None*82-61*3* 16.0*de la Cruz*Barrett*Carter*None*None*None*+++*1944-09-19 (Rain)
+Saturday, Sep 23*boxscore*CIN*@*BSN*L*0*4*None*82-62*3* 16.5*Javery*Shoun*None*1:46*D*895*-*None
+Sunday, Sep 24*boxscore*CIN*@*BSN*W*2*1*None*83-62*3* 16.5*Gumbert*Tobin*None*1:39*D*None*+*None
+Sunday, Sep 24*boxscore*CIN*@*BSN*W*1*0*None*84-62*3* 16.5*Carter*Hutchings*None*1:18*D*5,202*++*None
+Monday, Sep 25*boxscore*CIN*@*NYG*L*2*3*None*84-63*3* 17.5*Adams*Heusser*None*1:21*D*982*-*None
+Tuesday, Sep 26*boxscore*CIN*@*NYG*W*8*5*None*85-63*3* 17.0*Konstanty*Allen*Shoun*1:55*D*None*+*None
+Tuesday, Sep 26*boxscore*CIN*@*NYG*W*6*4*None*86-63*3* 17.0*de la Cruz*Miller*Carter*1:45*D*2,734*++*1944-05-25 (Rain)
+Wednesday, Sep 27*boxscore*CIN*@*NYG*W*8*1*None*87-63*3* 16.0*Walters*Voiselle*None*1:40*D*2,462*+++*None
+Thursday, Sep 28*boxscore*CIN*@*BRO*W*10*6*None*88-63*3* 16.0*Shoun*Wells*None*1:58*D*7,018*++++*None
+Friday, Sep 29*boxscore*CIN*@*BRO*W*10*2*None*89-63*3* 15.0*Carter*Melton*None*2:08*D*912*+++++*None
+Saturday, Sep 30*boxscore*CIN*@*BRO*L*1*5*None*89-64*3* 15.5*Chapman*Heusser*None*1:55*D*1,369*-*None
+Sunday, Oct 1*boxscore*CIN*@*BRO*L*5*6*None*89-65*3* 16.0*King*Gumbert*Branca*None*D*None*--*None

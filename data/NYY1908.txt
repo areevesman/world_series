@@ -1,0 +1,155 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 16*boxscore*NYY*None*PHA*W*2*1*None*2-0*1* Tied*Newton*Vickers*None*1:35*D*2,500*++*None
+Friday, Apr 17*boxscore*NYY*None*PHA*L*2*8*None*2-1*2* 1.0*Schlitzer*Orth*None*1:48*D*3,500*-*None
+Saturday, Apr 18*boxscore*NYY*None*WSH*W*6*5*11*3-1*1* Tied*Newton*Keeley*None*2:17*D*None*+*None
+Monday, Apr 20*boxscore*NYY*None*WSH*W*4*3*None*4-1*1*up 0.5*Chesbro*Gehring*None*1:45*D*7,000*++*None
+Tuesday, Apr 21*boxscore*NYY*None*WSH*W*16*13*None*5-1*1*up 0.5*Lake*Keeley*None*2:25*D*3,500*+++*None
+Wednesday, Apr 22*boxscore*NYY*@*PHA*L*2*3*None*5-2*2* 0.5*Plank*Chesbro*None*1:55*D*17,000*-*None
+Thursday, Apr 23*boxscore*NYY*@*PHA*W*5*3*None*6-2*1*up 0.5*Manning*Carter*None*2:05*D*5,000*+*None
+Friday, Apr 24*boxscore*NYY*@*PHA*L*2*3*12*6-3*2* 0.5*Bender*Glade*None*2:20*D*5,000*-*None
+Saturday, Apr 25*boxscore*NYY*@*PHA*L*5*9*None*6-4*2* 0.5*Carter*Orth*None*2:00*D*9,000*--*None
+Monday, Apr 27*boxscore*NYY*None*BOS*W*1*0*None*7-4*1*up 0.5*Chesbro*Winter*None*1:30*D*3,000*+*None
+Tuesday, Apr 28*boxscore*NYY*None*BOS*W*7*4*None*8-4*1*up 0.5*Newton*Glaze*None*1:50*D*3,500*++*None
+Wednesday, Apr 29*boxscore*NYY*None*BOS*L*1*5*None*8-5*2* 0.5*Young*Lake*None*1:54*D*4,000*-*None
+Friday, May 1*boxscore*NYY*@*WSH*W*9*4*None*9-5*1*up 0.5*Chesbro*Patten*None*2:15*D*None*+*None
+Saturday, May 2*boxscore*NYY*@*WSH*L*3*6*None*9-6*2* 0.5*Burns*Glade*None*1:35*D*None*-*None
+Monday, May 4*boxscore*NYY*@*WSH*W*11*5*None*10-6*1* Tied*Manning*Smith*None*2:05*D*None*+*None
+Wednesday, May 6*boxscore*NYY*@*BOS*L*0*4*None*10-7*2* 1.0*Cicotte*Newton*None*1:49*D*3,436*-*None
+Friday, May 8*boxscore*NYY*@*BOS*W*3*0*None*11-7*1* Tied*Manning*Winter*None*2:03*D*1,387*+*None
+Saturday, May 9*boxscore*NYY*@*BOS*W*2*1*None*12-7*1*up 1.0*Chesbro*Young*None*2:07*D*9,575*++*None
+Monday, May 11*boxscore*NYY*@*BOS*W*3*0*None*13-7*1*up 1.0*Newton*Burchell*None*2:05*D*7,495*+++*None
+Tuesday, May 12*boxscore*NYY*None*CLE*L*0*2*None*13-8*1* Tied*Joss*Doyle*None*1:36*D*8,000*-*None
+Wednesday, May 13*boxscore*NYY*None*CLE*W*7*2*None*14-8*1*up 1.0*Manning*Lattimore*None*1:40*D*8,000*+*None
+Thursday, May 14*boxscore*NYY*None*CLE*W*3*1*None*15-8*1*up 1.0*Chesbro*Thielman*None*1:52*D*3,500*++*None
+Saturday, May 16*boxscore*NYY*None*DET*W*7*6*None*16-8*1*up 1.0*Lake*Siever*None*2:26*D*20,000*+++*None
+Monday, May 18*boxscore*NYY*None*DET*L*6*11*None*16-9*1* Tied*Mullin*Chesbro*None*2:10*D*6,000*-*None
+Tuesday, May 19*boxscore*NYY*None*DET*W*6*1*None*17-9*1*up 1.0*Manning*Killian*None*1:55*D*3,500*+*None
+Thursday, May 21*boxscore*NYY*None*CHW*L*2*9*None*17-10*1*up 0.5*Walsh*Lake*None*2:05*D*2,000*-*None
+Saturday, May 23*boxscore*NYY*None*CHW*W*4*0*None*18-10*1*up 1.5*Orth*Smith*None*1:45*D*20,000*+*None
+Monday, May 25*boxscore*NYY*None*CHW*L*3*9*None*18-11*1*up 0.5*Walsh*Manning*None*2:15*D*8,000*-*None
+Tuesday, May 26*boxscore*NYY*None*SLB*L*3*5*10*18-12*1*up 0.5*Grahame*Newton*None*2:05*D*3,500*--*None
+Wednesday, May 27*boxscore*NYY*None*SLB*L*2*7*None*18-13*1*up 0.5*Howell*Chesbro*None*2:00*D*3,500*---*None
+Thursday, May 28*boxscore*NYY*None*SLB*L*3*4*None*18-14*1*up 0.5*Dinneen*Orth*None*2:05*D*3,500*----*None
+Friday, May 29*boxscore*NYY*None*PHA*W*6*5*None*19-14*1*up 1.0*Manning*Vickers*None*2:15*D*4,000*+*None
+Friday, May 29*boxscore*NYY*None*PHA*L*0*1*None*19-15*1*up 1.0*Schlitzer*Lake*None*1:40*D*10,000*-*1908-04-15 (Rain)
+Monday, Jun 1*boxscore*NYY*None*BOS*W*2*0*None*20-15*1*up 1.0*Chesbro*Cicotte*None*1:35*D*6,000*+*None
+Tuesday, Jun 2*boxscore*NYY*None*BOS*L*0*7*None*20-16*2* 0.5*Morgan*Hogg*None*2:10*D*6,000*-*None
+Tuesday, Jun 2*boxscore*NYY*None*BOS*L*5*6*None*20-17*2* 0.5*Burchell*Newton*Pruiett*2:20*D*12,000*--*1908-04-30 (Rain)
+Wednesday, Jun 3*boxscore*NYY*None*BOS*L*1*6*None*20-18*3* 0.5*Glaze*Orth*None*1:55*D*6,000*---*None
+Thursday, Jun 4*boxscore*NYY*@*CLE*L*1*10*None*20-19*4* 1.5*Berger*Manning*None*1:49*D*5,000*----*None
+Friday, Jun 5*boxscore*NYY*@*CLE*L*4*6*None*20-20*5* 2.5*Liebhardt*Lake*None*2:25*D*None*-----*None
+Saturday, Jun 6*boxscore*NYY*@*CLE*W*6*2*None*21-20*3* 1.5*Chesbro*Joss*None*2:26*D*10,000*+*None
+Monday, Jun 8*boxscore*NYY*@*CLE*W*6*1*None*22-20*4* 0.5*Orth*Thielman*None*1:52*D*2,500*++*None
+Tuesday, Jun 9*boxscore*NYY*@*DET*W*5*3*None*23-20*4* 0.5*Manning*Killian*None*1:50*D*3,000*+++*None
+Wednesday, Jun 10*boxscore*NYY*@*DET*L*6*7*12*23-21*4* 1.5*Mullin*Lake*None*2:45*D*2,500*-*None
+Thursday, Jun 11*boxscore*NYY*@*DET*L*1*3*None*23-22*4* 2.5*Willett*Chesbro*None*2:20*D*4,000*--*None
+Friday, Jun 12*boxscore*NYY*@*DET*L*2*5*None*23-23*5* 3.5*Donovan*Manning*None*1:40*D*12,500*---*None
+Saturday, Jun 13*boxscore*NYY*@*CHW*L*1*5*None*23-24*5* 4.5*Walsh*Orth*None*1:50*D*14,000*----*None
+Sunday, Jun 14*boxscore*NYY*@*CHW*L*4*5*None*23-25*5* 5.5*Manuel*Lake*Walsh*None*D*None*-----*None
+Monday, Jun 15*boxscore*NYY*@*CHW*L*1*2*None*23-26*6* 6.5*White*Chesbro*None*None*D*None*------*None
+Tuesday, Jun 16*boxscore*NYY*@*CHW*L*2*3*None*23-27*6* 7.5*Walsh*Glade*None*2:05*D*15,000*-------*None
+Wednesday, Jun 17*boxscore*NYY*@*CHW*W*5*2*None*24-27*5* 6.5*Chesbro*Manuel*None*2:10*D*10,000*+*None
+Thursday, Jun 18*boxscore*NYY*@*SLB*L*6*12*None*24-28*5* 7.5*Howell*Orth*None*None*D*None*-*None
+Friday, Jun 19*boxscore*NYY*@*SLB*L*0*4*None*24-29*5* 8.5*Dinneen*Chesbro*None*None*D*None*--*None
+Saturday, Jun 20*boxscore*NYY*@*SLB*L*2*4*None*24-30*5* 9.5*Powell*Manning*Waddell*2:05*D*6,000*---*None
+Sunday, Jun 21*boxscore*NYY*@*SLB*L*1*5*None*24-31*6* 10.5*Pelty*Glade*None*None*D*None*----*None
+Tuesday, Jun 23*boxscore*NYY*@*PHA*L*6*9*None*24-32*6* 10.0*Dygert*Chesbro*Bender*2:10*D*1,500*-----*None
+Wednesday, Jun 24*boxscore*NYY*@*PHA*T*6*6*None*24-32*6* 9.5*None*None*None*2:25*D*2,000*-----*None
+Thursday, Jun 25*boxscore*NYY*@*PHA*L*0*3*None*24-33*6* 10.0*Plank*Orth*None*1:50*D*2,500*------*None
+Thursday, Jun 25*boxscore*NYY*@*PHA*W*2*1*None*25-33*6* 10.0*Lake*Bender*None*2:00*D*8,000*+*None
+Friday, Jun 26*boxscore*NYY*@*PHA*L*2*6*None*25-34*6* 11.0*Vickers*Manning*None*1:55*D*3,500*-*None
+Saturday, Jun 27*boxscore*NYY*None*BOS*W*7*6*None*26-34*6* 10.0*Lake*Cicotte*None*2:30*D*6,000*+*None
+Monday, Jun 29*boxscore*NYY*None*BOS*L*1*4*11*26-35*6* 11.0*Winter*Orth*None*2:10*D*1,500*-*None
+Tuesday, Jun 30*boxscore*NYY*None*BOS*L*0*8*None*26-36*7* 11.0*Young*Manning*None*2:00*D*1,500*--*None
+Wednesday, Jul 1*boxscore*NYY*None*BOS*L*3*4*None*26-37*7* 11.5*Burchell*Chesbro*Cicotte*1:50*D*1,500*---*None
+Thursday, Jul 2*boxscore*NYY*@*WSH*L*3*4*None*26-38*7* 12.0*Falkenberg*Orth*None*1:40*D*2,500*----*None
+Thursday, Jul 2*boxscore*NYY*@*WSH*L*3*5*None*26-39*7* 12.0*Cates*Hogg*None*2:00*D*5,000*-----*1908-05-05 (Rain)
+Friday, Jul 3*boxscore*NYY*@*WSH*L*4*7*None*26-40*7* 12.5*Smith*Lake*None*2:05*D*2,000*------*None
+Saturday, Jul 4*boxscore*NYY*@*WSH*W*5*1*None*27-40*7* 12.5*Manning*Keeley*Newton*2:30*D*6,500*+*None
+Saturday, Jul 4*boxscore*NYY*@*WSH*L*2*6*None*27-41*7* 12.5*Johnson*Lake*None*2:00*D*6,000*-*None
+Monday, Jul 6*boxscore*NYY*@*PHA*L*5*6*None*27-42*7* 13.5*Coombs*Orth*None*2:00*D*4,000*--*None
+Tuesday, Jul 7*boxscore*NYY*None*DET*L*3*8*None*27-43*7* 15.0*Willett*Newton*None*2:00*D*2,000*---*None
+Tuesday, Jul 7*boxscore*NYY*None*DET*L*4*11*None*27-44*7* 15.0*Donovan*Lake*None*1:57*D*4,000*----*1908-05-20 (Rain)
+Wednesday, Jul 8*boxscore*NYY*None*DET*L*3*6*None*27-45*8* 15.0*Mullin*Chesbro*None*1:45*D*2,000*-----*None
+Thursday, Jul 9*boxscore*NYY*None*DET*L*8*10*None*27-46*8* 16.0*Summers*Manning*Willett*2:00*D*2,000*------*None
+Friday, Jul 10*boxscore*NYY*None*DET*L*2*8*None*27-47*8* 17.0*Willett*Chesbro*None*1:55*D*1,500*-------*None
+Saturday, Jul 11*boxscore*NYY*None*CLE*W*3*2*None*28-47*8* 15.5*Hogg*Liebhardt*None*1:45*D*8,000*+*None
+Saturday, Jul 11*boxscore*NYY*None*CLE*W*3*2*None*29-47*8* 15.5*Lake*Berger*None*2:00*D*11,000*++*1908-05-15 (Rain)
+Monday, Jul 13*boxscore*NYY*None*CLE*L*0*3*None*29-48*7* 17.0*Chech*Manning*None*1:55*D*1,500*-*None
+Wednesday, Jul 15*boxscore*NYY*None*CLE*L*1*16*None*29-49*8* 18.0*Thielman*Hogg*None*2:08*D*1,800*--*None
+Wednesday, Jul 15*boxscore*NYY*None*CLE*L*2*3*None*29-50*8* 18.0*Rhoads*Lake*None*1:50*D*8,000*---*1908-07-14 (Rain)
+Thursday, Jul 16*boxscore*NYY*None*SLB*W*10*1*None*30-50*8* 17.0*Chesbro*Dinneen*None*1:38*D*1,500*+*None
+Friday, Jul 17*boxscore*NYY*None*SLB*W*5*3*None*31-50*8* 17.0*Manning*Powell*None*1:49*D*1,200*++*None
+Saturday, Jul 18*boxscore*NYY*None*SLB*L*1*7*None*31-51*8* 17.0*Howell*Lake*None*2:15*D*8,000*-*None
+Monday, Jul 20*boxscore*NYY*None*SLB*L*3*8*None*31-52*8* 18.0*Waddell*Chesbro*None*1:45*D*1,500*--*None
+Tuesday, Jul 21*boxscore*NYY*None*CHW*L*3*6*None*31-53*8* 18.5*Walsh*Newton*None*1:50*D*1,000*---*None
+Tuesday, Jul 21*boxscore*NYY*None*CHW*W*6*3*None*32-53*8* 18.5*Hogg*White*Manning*1:45*D*5,000*+*1908-05-22 (Rain)
+Thursday, Jul 23*boxscore*NYY*None*CHW*L*2*6*None*32-54*8* 20.5*Walsh*Lake*None*1:55*D*1,500*-*None
+Thursday, Jul 23*boxscore*NYY*None*CHW*L*3*6*8*32-55*8* 20.5*Owen*Orth*None*1:40*D*1,500*--*1908-07-22 (Rain)
+Saturday, Jul 25*boxscore*NYY*@*DET*L*3*5*None*32-56*8* 22.0*Donovan*Chesbro*None*1:50*D*10,000*---*None
+Sunday, Jul 26*boxscore*NYY*@*DET*L*2*6*None*32-57*8* 23.0*Mullin*Manning*None*None*D*None*----*1908-07-28 (Schedule change)
+Monday, Jul 27*boxscore*NYY*@*DET*L*2*4*None*32-58*8* 24.0*Willett*Hogg*None*1:45*D*6,300*-----*None
+Thursday, Jul 30*boxscore*NYY*@*CLE*L*2*3*14*32-59*8* 25.0*Berger*Orth*None*2:52*D*2,500*------*None
+Friday, Jul 31*boxscore*NYY*@*CLE*L*3*16*None*32-60*8* 25.0*Falkenberg*Chesbro*Foster*2:01*D*3,000*-------*None
+Saturday, Aug 1*boxscore*NYY*@*CLE*L*3*4*None*32-61*8* 26.0*Rhoads*Lake*None*1:39*D*None*--------*None
+Monday, Aug 3*boxscore*NYY*@*CLE*L*0*2*None*32-62*8* 26.0*Joss*Hogg*None*1:31*D*None*---------*None
+Wednesday, Aug 5*boxscore*NYY*@*SLB*L*2*5*None*32-63*8* 28.0*Waddell*Manning*None*1:55*D*12,000*----------*None
+Wednesday, Aug 5*boxscore*NYY*@*SLB*L*1*6*None*32-64*8* 28.0*Pelty*Chesbro*None*1:43*D*14,000*-----------*1908-08-04 (Inclement weather)
+Thursday, Aug 6*boxscore*NYY*@*SLB*L*1*3*None*32-65*8* 28.5*Howell*Hogg*None*1:44*D*3,000*------------*None
+Saturday, Aug 8*boxscore*NYY*@*CHW*W*4*1*None*33-65*8* 28.0*Lake*Owen*None*1:55*D*None*+*None
+Sunday, Aug 9*boxscore*NYY*@*CHW*L*3*4*None*33-66*8* 29.0*Smith*Hogg*None*2:10*D*3,500*-*None
+Monday, Aug 10*boxscore*NYY*@*CHW*L*1*2*None*33-67*8* 29.0*Walsh*Chesbro*None*None*D*None*--*None
+Tuesday, Aug 11*boxscore*NYY*@*CHW*L*1*6*None*33-68*8* 29.0*Walsh*Lake*None*1:35*D*3,500*---*None
+Friday, Aug 14*boxscore*NYY*None*CLE*L*2*4*None*33-69*8* 30.0*Joss*Orth*None*1:40*D*1,500*----*None
+Saturday, Aug 15*boxscore*NYY*None*CLE*L*4*5*11*33-70*8* 30.0*Rhoads*Hogg*None*2:15*D*6,000*-----*None
+Monday, Aug 17*boxscore*NYY*None*CLE*L*1*5*None*33-71*8* 31.0*Joss*Lake*None*1:40*D*500*------*None
+Tuesday, Aug 18*boxscore*NYY*None*DET*L*3*7*None*33-72*8* 32.0*Summers*Hogg*None*1:50*D*2,000*-------*None
+Wednesday, Aug 19*boxscore*NYY*None*DET*W*8*0*None*34-72*8* 31.0*Chesbro*Mullin*None*1:50*D*2,000*+*None
+Thursday, Aug 20*boxscore*NYY*None*DET*W*4*3*None*35-72*8* 30.0*Manning*Winter*None*1:50*D*2,500*++*None
+Friday, Aug 21*boxscore*NYY*None*SLB*L*3*4*None*35-73*8* 30.0*Howell*Lake*None*2:05*D*1,900*-*None
+Monday, Aug 24*boxscore*NYY*None*SLB*L*2*4*None*35-74*8* 31.0*Waddell*Hogg*None*2:00*D*3,500*--*None
+Monday, Aug 24*boxscore*NYY*None*SLB*W*6*4*None*36-74*8* 31.0*Chesbro*Powell*None*1:31*D*10,000*+*1908-08-22 (Rain)
+Tuesday, Aug 25*boxscore*NYY*None*SLB*W*3*1*None*37-74*8* 30.5*Manning*Howell*None*1:50*D*2,000*++*None
+Friday, Aug 28*boxscore*NYY*None*CHW*W*1*0*None*38-74*8* 30.5*Lake*Smith*None*2:00*D*2,500*+++*None
+Friday, Aug 28*boxscore*NYY*None*CHW*L*1*2*None*38-75*8* 30.5*Walsh*Hogg*None*1:50*D*2,500*-*1908-08-26 (Rain)
+Saturday, Aug 29*boxscore*NYY*None*CHW*L*0*1*None*38-76*8* 30.5*White*Chesbro*None*1:55*D*3,500*--*None
+Saturday, Aug 29*boxscore*NYY*None*CHW*L*2*6*None*38-77*8* 30.5*Smith*Manning*None*1:50*D*10,000*---*1908-08-27 (Rain)
+Monday, Aug 31*boxscore*NYY*None*PHA*L*0*1*None*38-78*8* 30.5*Dygert*Lake*None*2:04*D*1,500*----*1908-05-30 (Rain)
+Monday, Aug 31*boxscore*NYY*None*PHA*L*1*2*None*38-79*8* 30.5*Schlitzer*Hogg*None*2:03*D*4,000*-----*None
+Tuesday, Sep 1*boxscore*NYY*None*PHA*W*4*3*12*39-79*8* 30.0*Chesbro*Vickers*None*None*D*None*+*None
+Tuesday, Sep 1*boxscore*NYY*None*PHA*L*0*4*8*39-80*8* 30.0*Coombs*Manning*None*1:35*D*3,000*-*1908-05-30 (Rain)
+Wednesday, Sep 2*boxscore*NYY*None*PHA*L*2*5*None*39-81*8* 31.0*Plank*Lake*None*1:55*D*800*--*None
+Thursday, Sep 3*boxscore*NYY*None*PHA*W*2*1*None*40-81*8* 31.0*Hogg*Bender*None*1:35*D*700*+*None
+Friday, Sep 4*boxscore*NYY*None*WSH*L*0*3*None*40-82*8* 31.0*Johnson*Chesbro*None*1:33*D*1,000*-*None
+Saturday, Sep 5*boxscore*NYY*None*WSH*L*0*6*None*40-83*8* 31.0*Johnson*Manning*None*1:28*D*2,500*--*None
+Monday, Sep 7*boxscore*NYY*None*WSH*L*0*4*None*40-84*8* 33.5*Johnson*Chesbro*None*1:40*D*4,000*---*None
+Monday, Sep 7*boxscore*NYY*None*WSH*L*3*9*None*40-85*8* 33.5*Hughes*Hogg*None*1:55*D*10,000*----*None
+Tuesday, Sep 8*boxscore*NYY*@*PHA*L*5*6*None*40-86*8* 33.5*Dygert*Manning*None*1:56*D*2,000*-----*None
+Wednesday, Sep 9*boxscore*NYY*@*PHA*W*9*6*None*41-86*8* 33.5*Lake*Schlitzer*Chesbro*2:20*D*2,000*+*None
+Friday, Sep 11*boxscore*NYY*@*BOS*W*4*2*None*42-86*8* 33.5*Hogg*Arellanes*None*1:50*D*7,031*++*None
+Friday, Sep 11*boxscore*NYY*@*BOS*L*1*5*None*42-87*8* 33.5*Morgan*Chesbro*None*1:25*D*7,031*-*1908-05-07 (Rain)
+Saturday, Sep 12*boxscore*NYY*@*BOS*W*1*0*None*43-87*8* 32.5*Manning*Young*None*1:46*D*7,910*+*None
+Monday, Sep 14*boxscore*NYY*@*BOS*L*1*2*None*43-88*8* 32.0*Steele*Lake*None*1:56*D*3,480*-*None
+Tuesday, Sep 15*boxscore*NYY*@*BOS*W*1*0*None*44-88*8* 32.0*Wilson*Cicotte*None*1:32*D*2,960*+*None
+Thursday, Sep 17*boxscore*NYY*@*DET*L*4*7*None*44-89*8* 33.5*Donovan*Hogg*None*2:07*D*5,000*-*None
+Friday, Sep 18*boxscore*NYY*@*DET*W*5*1*None*45-89*8* 32.5*Chesbro*Winter*None*1:35*D*5,000*+*None
+Saturday, Sep 19*boxscore*NYY*@*DET*W*6*5*None*46-89*8* 31.5*Manning*Mullin*None*1:40*D*6,000*++*None
+Sunday, Sep 20*boxscore*NYY*@*DET*L*1*2*None*46-90*8* 32.5*Summers*Wilson*None*None*D*None*-*1908-07-29 (Schedule change)
+Monday, Sep 21*boxscore*NYY*@*CLE*L*3*5*None*46-91*8* 33.0*Berger*Lake*None*1:40*D*3,500*--*None
+Tuesday, Sep 22*boxscore*NYY*@*CLE*L*0*7*None*46-92*8* 34.0*Joss*Hogg*None*1:28*D*5,000*---*None
+Wednesday, Sep 23*boxscore*NYY*@*CLE*L*3*9*None*46-93*8* 35.0*Rhoads*Chesbro*None*1:28*D*5,000*----*None
+Thursday, Sep 24*boxscore*NYY*@*CHW*W*1*0*None*47-93*8* 34.0*Lake*Walsh*None*1:30*D*4,000*+*None
+Saturday, Sep 26*boxscore*NYY*@*CHW*L*0*12*None*47-94*8* 34.5*Smith*Wilson*Altrock*2:07*D*None*-*None
+Monday, Sep 28*boxscore*NYY*@*SLB*L*1*12*None*47-95*8* 35.0*Pelty*Warhop*None*1:40*D*3,500*--*None
+Monday, Sep 28*boxscore*NYY*@*SLB*W*3*2*7*48-95*8* 35.0*Wilson*Grahame*None*1:30*D*4,000*+*1908-08-07 (Rain)
+Tuesday, Sep 29*boxscore*NYY*@*SLB*L*0*6*None*48-96*8* 37.0*Howell*Lake*None*None*D*None*-*None
+Tuesday, Sep 29*boxscore*NYY*@*SLB*L*1*2*None*48-97*8* 37.0*Dinneen*Manning*None*1:21*D*2,000*--*1908-09-27 (Rain)
+Thursday, Oct 1*boxscore*NYY*None*WSH*W*2*1*None*49-97*8* 37.0*Chesbro*Johnson*None*None*D*None*+*None
+Friday, Oct 2*boxscore*NYY*None*WSH*L*2*12*None*49-98*8* 38.0*Keeley*Hogg*None*None*D*None*-*None
+Saturday, Oct 3*boxscore*NYY*None*WSH*W*2*1*None*50-98*8* 37.5*Warhop*Witherup*None*1:20*D*800*+*None
+Saturday, Oct 3*boxscore*NYY*None*WSH*W*3*2*None*51-98*8* 37.5*Wilson*Johnson*None*1:40*D*1,500*++*None
+Monday, Oct 5*boxscore*NYY*@*BOS*L*0*4*None*51-99*8* 37.0*Brady*Manning*None*1:30*D*2,271*-*None
+Tuesday, Oct 6*boxscore*NYY*@*BOS*L*3*11*None*51-100*8* 38.0*McMahon*O'Connor*None*1:53*D*2,227*--*None
+Wednesday, Oct 7*boxscore*NYY*@*WSH*L*0*1*11*51-101*8* 39.0*Johnson*Warhop*None*1:45*D*2,000*---*None
+Wednesday, Oct 7*boxscore*NYY*@*WSH*L*4*9*None*51-102*8* 39.0*Witherup*Wilson*None*None*D*None*----*None
+Thursday, Oct 8*boxscore*NYY*@*WSH*L*5*7*None*51-103*8* 39.5*Keeley*Lake*None*None*D*None*-----*None

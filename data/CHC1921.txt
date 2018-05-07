@@ -1,0 +1,153 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Friday, Apr 15*boxscore*CHC*None*STL*W*11*4*None*2-0*1* Tied*York*Kircher*None*2:09*D*500*++*None
+Monday, Apr 18*boxscore*CHC*None*PIT*W*7*4*None*3-0*1* Tied*Tyler*Zinn*None*1:51*D*None*+++*None
+Tuesday, Apr 19*boxscore*CHC*None*PIT*L*2*14*None*3-1*1* Tied*Hamilton*Martin*None*2:03*D*None*-*None
+Wednesday, Apr 20*boxscore*CHC*None*PIT*L*5*6*None*3-2*3* 1.0*Carlson*Freeman*Glazner*2:21*D*None*--*1921-04-17 (Rain)
+Saturday, Apr 23*boxscore*CHC*@*STL*W*5*1*None*4-2*3* 1.0*York*May*None*1:58*D*10,000*+*None
+Sunday, Apr 24*boxscore*CHC*@*STL*W*8*7*None*5-2*3* 1.0*Vaughn*Sherdel*None*2:00*D*None*++*None
+Monday, Apr 25*boxscore*CHC*@*CIN*W*3*2*None*6-2*2* 1.0*Martin*Coumbe*None*1:28*D*None*+++*None
+Tuesday, Apr 26*boxscore*CHC*@*CIN*L*3*5*None*6-3*2* 1.5*Luque*Freeman*None*1:53*D*None*-*None
+Wednesday, Apr 27*boxscore*CHC*@*CIN*L*1*2*None*6-4*3* 2.5*Marquard*Hanson*None*1:50*D*None*--*None
+Friday, Apr 29*boxscore*CHC*@*PIT*L*0*3*None*6-5*3* 3.5*Cooper*York*None*1:27*D*None*---*None
+Sunday, May 1*boxscore*CHC*None*PIT*L*0*2*None*6-6*4* 4.5*Adams*Vaughn*None*1:29*D*None*----*None
+Monday, May 2*boxscore*CHC*None*PIT*L*3*4*None*6-7*4* 5.5*Glazner*Martin*None*1:27*D*None*-----*None
+Wednesday, May 4*boxscore*CHC*None*CIN*W*3*1*None*7-7*4* 5.0*Freeman*Rixey*None*1:39*D*None*+*None
+Thursday, May 5*boxscore*CHC*None*CIN*L*7*11*None*7-8*4* 6.0*Luque*Hanson*Brenton*2:20*D*None*-*None
+Friday, May 6*boxscore*CHC*None*CIN*W*8*7*None*8-8*4* 6.0*Martin*Coumbe*None*2:09*D*None*+*None
+Saturday, May 7*boxscore*CHC*None*CIN*W*4*1*None*9-8*4* 6.0*Martin*Brenton*None*1:52*D*None*++*None
+Sunday, May 8*boxscore*CHC*None*STL*L*6*9*None*9-9*4* 6.0*Riviere*York*None*2:10*D*None*-*None
+Tuesday, May 10*boxscore*CHC*@*PHI*W*6*2*None*10-9*4* 6.0*Alexander*Baumgartner*Freeman*1:48*D*None*+*None
+Wednesday, May 11*boxscore*CHC*@*PHI*W*19*8*None*11-9*4* 5.0*Vaughn*Ring*None*1:55*D*None*++*None
+Friday, May 13*boxscore*CHC*@*PHI*W*4*2*None*12-9*4* 5.0*Martin*Hubbell*None*1:29*D*None*+++*None
+Monday, May 16*boxscore*CHC*@*BSN*L*1*7*None*12-10*4* 5.5*McQuillan*Vaughn*None*1:48*D*None*-*None
+Tuesday, May 17*boxscore*CHC*@*BSN*L*4*8*None*12-11*4* 6.5*Oeschger*Jones*None*1:36*D*None*--*None
+Wednesday, May 18*boxscore*CHC*@*NYG*L*2*3*None*12-12*4* 7.5*Sallee*Martin*None*2:10*D*12,000*---*None
+Thursday, May 19*boxscore*CHC*@*NYG*W*5*3*None*13-12*4* 7.5*York*Nehf*None*2:15*D*12,000*+*None
+Friday, May 20*boxscore*CHC*@*NYG*L*6*10*None*13-13*4* 8.5*Perritt*Vaughn*Sallee*2:00*D*12,000*-*None
+Saturday, May 21*boxscore*CHC*@*NYG*W*5*2*None*14-13*4* 8.5*Tyler*Ryan*None*2:15*D*28,000*+*None
+Sunday, May 22*boxscore*CHC*@*BRO*W*6*4*12*15-13*3* 8.5*Cheeves*Mamaux*None*3:00*D*25,000*++*None
+Tuesday, May 24*boxscore*CHC*@*BRO*L*1*6*None*15-14*4* 8.5*Smith*Martin*None*1:35*D*1,500*-*None
+Friday, May 27*boxscore*CHC*None*STL*L*7*10*None*15-15*3* 9.0*Sherdel*Freeman*None*2:22*D*None*--*None
+Saturday, May 28*boxscore*CHC*None*STL*L*7*8*None*15-16*5* 10.5*Walker*Vaughn*None*2:25*D*None*---*None
+Saturday, May 28*boxscore*CHC*None*STL*L*2*9*None*15-17*5* 10.5*Haines*Cheeves*None*1:45*D*None*----*1921-04-16 (Snow)
+Sunday, May 29*boxscore*CHC*None*STL*L*1*6*None*15-18*5* 10.5*Goodwin*Martin*None*1:51*D*None*-----*None
+Monday, May 30*boxscore*CHC*@*PIT*L*0*13*None*15-19*6* 12.5*Zinn*York*None*1:53*D*None*------*None
+Monday, May 30*boxscore*CHC*@*PIT*L*3*6*None*15-20*6* 12.5*Yellow Horse*Tyler*None*1:49*D*None*-------*None
+Tuesday, May 31*boxscore*CHC*@*PIT*W*7*6*12*16-20*5* 11.5*Freeman*Hamilton*None*3:01*D*None*+*None
+Wednesday, Jun 1*boxscore*CHC*@*PIT*L*2*4*None*16-21*6* 12.5*Glazner*Martin*None*1:45*D*None*-*None
+Friday, Jun 3*boxscore*CHC*None*BRO*W*8*3*None*17-21*5* 11.0*Freeman*Pfeffer*None*2:08*D*3,500*+*None
+Saturday, Jun 4*boxscore*CHC*None*BRO*L*3*4*None*17-22*6* 11.5*Smith*Alexander*None*2:01*D*6,000*-*None
+Sunday, Jun 5*boxscore*CHC*None*BRO*L*3*5*None*17-23*6* 12.0*Grimes*Vaughn*None*2:00*D*10,000*--*None
+Monday, Jun 6*boxscore*CHC*None*BRO*L*4*7*None*17-24*6* 12.5*Ruether*Martin*None*2:11*D*3,500*---*None
+Tuesday, Jun 7*boxscore*CHC*None*PHI*W*8*6*None*18-24*6* 11.5*Freeman*Hubbell*None*2:05*D*None*+*None
+Wednesday, Jun 8*boxscore*CHC*None*PHI*L*8*11*None*18-25*6* 12.5*Causey*York*Betts*2:17*D*None*-*None
+Thursday, Jun 9*boxscore*CHC*None*PHI*W*4*2*None*19-25*6* 12.5*Cheeves*Smith*None*1:35*D*None*+*None
+Saturday, Jun 11*boxscore*CHC*None*BSN*W*6*3*None*20-25*6* 12.0*Alexander*Oeschger*None*1:45*D*None*++*None
+Sunday, Jun 12*boxscore*CHC*None*BSN*L*9*12*10*20-26*6* 12.5*Watson*Vaughn*None*2:50*D*None*-*None
+Monday, Jun 13*boxscore*CHC*None*BSN*W*5*0*None*21-26*6* 12.5*York*Braxton*None*2:05*D*None*+*None
+Tuesday, Jun 14*boxscore*CHC*None*BSN*L*2*10*None*21-27*6* 13.5*Scott*Cheeves*None*1:51*D*None*-*None
+Wednesday, Jun 15*boxscore*CHC*None*NYG*L*2*6*12*21-28*6* 13.5*Sallee*Vaughn*None*2:37*D*None*--*None
+Thursday, Jun 16*boxscore*CHC*None*NYG*W*5*4*13*22-28*6* 13.5*Alexander*Nehf*None*2:54*D*6,000*+*None
+Friday, Jun 17*boxscore*CHC*None*NYG*W*11*10*None*23-28*6* 12.5*Jones*Ryan*Martin*3:35*D*8,000*++*None
+Saturday, Jun 18*boxscore*CHC*None*NYG*L*3*10*10*23-29*6* 13.5*Douglas*York*Nehf*2:40*D*None*-*None
+Sunday, Jun 19*boxscore*CHC*None*NYG*L*1*9*None*23-30*6* 14.0*Barnes*Vaughn*None*2:00*D*15,000*--*None
+Tuesday, Jun 21*boxscore*CHC*@*STL*L*5*17*None*23-31*6* 14.5*Pertica*Freeman*Goodwin*2:10*D*None*---*None
+Tuesday, Jun 21*boxscore*CHC*@*STL*W*6*3*None*24-31*6* 14.5*Alexander*Goodwin*None*1:50*D*None*+*1921-04-21 (Rain)
+Wednesday, Jun 22*boxscore*CHC*@*STL*W*5*3*None*25-31*6* 14.5*Vaughn*Haines*None*2:00*D*None*++*None
+Thursday, Jun 23*boxscore*CHC*@*CIN*W*6*3*None*26-31*6* 13.0*Freeman*Marquard*None*2:12*D*None*+++*None
+Saturday, Jun 25*boxscore*CHC*@*CIN*W*6*2*None*27-31*6* 13.0*Cheeves*Luque*None*1:45*D*None*++++*None
+Sunday, Jun 26*boxscore*CHC*None*PIT*L*3*11*None*27-32*6* 14.0*Adams*Alexander*None*1:48*D*None*-*None
+Monday, Jun 27*boxscore*CHC*None*PIT*L*3*10*None*27-33*6* 15.0*Morrison*Vaughn*None*1:52*D*None*--*None
+Tuesday, Jun 28*boxscore*CHC*None*PIT*W*2*1*None*28-33*6* 13.0*Martin*Zinn*None*2:05*D*None*+*None
+Tuesday, Jun 28*boxscore*CHC*None*PIT*W*8*6*None*29-33*6* 13.0*Tyler*Carlson*None*1:55*D*None*++*1921-05-03 (Cold)
+Wednesday, Jun 29*boxscore*CHC*None*PIT*L*1*3*None*29-34*6* 14.0*Cooper*Cheeves*None*1:50*D*None*-*None
+Friday, Jul 1*boxscore*CHC*None*STL*W*8*6*None*30-34*6* 14.5*Alexander*North*None*2:35*D*None*+*1921-04-14 (Rain)
+Saturday, Jul 2*boxscore*CHC*None*STL*L*2*3*None*30-35*6* 15.5*Doak*Vaughn*None*1:50*D*None*-*None
+Sunday, Jul 3*boxscore*CHC*None*STL*L*3*8*None*30-36*6* 15.5*Pfeffer*York*None*2:05*D*None*--*None
+Monday, Jul 4*boxscore*CHC*None*CIN*L*2*4*None*30-37*6* 15.5*Luque*Martin*None*1:50*D*None*---*None
+Monday, Jul 4*boxscore*CHC*None*CIN*W*6*2*None*31-37*6* 15.5*Alexander*Brenton*None*1:37*D*None*+*None
+Tuesday, Jul 5*boxscore*CHC*None*CIN*W*3*2*None*32-37*6* 14.5*Cheeves*Rixey*None*1:40*D*None*++*None
+Friday, Jul 8*boxscore*CHC*@*NYG*L*0*1*None*32-38*6* 16.0*Nehf*Alexander*None*1:37*D*None*-*None
+Saturday, Jul 9*boxscore*CHC*@*NYG*L*5*6*None*32-39*6* 17.0*Douglas*Vaughn*Barnes*2:05*D*15,000*--*None
+Sunday, Jul 10*boxscore*CHC*@*NYG*L*1*2*None*32-40*6* 17.0*Ryan*Tyler*None*1:40*D*15,000*---*None
+Monday, Jul 11*boxscore*CHC*@*NYG*W*7*2*None*33-40*6* 16.0*Cheeves*Toney*None*1:45*D*4,000*+*None
+Tuesday, Jul 12*boxscore*CHC*@*BSN*L*1*2*10*33-41*6* 17.0*Oeschger*Alexander*None*1:41*D*None*-*None
+Wednesday, Jul 13*boxscore*CHC*@*BSN*L*1*3*None*33-42*6* 18.0*Scott*York*None*1:50*D*None*--*None
+Wednesday, Jul 13*boxscore*CHC*@*BSN*L*3*5*None*33-43*6* 18.0*Fillingim*Martin*None*1:45*D*None*---*1921-05-14 (Rain)
+Thursday, Jul 14*boxscore*CHC*@*BSN*L*2*3*None*33-44*6* 19.0*Watson*Ponder*None*1:47*D*None*----*None
+Saturday, Jul 16*boxscore*CHC*@*BRO*W*6*2*None*34-44*6* 17.5*Alexander*Smith*None*1:31*D*10,000*+*None
+Saturday, Jul 16*boxscore*CHC*@*BRO*W*9*6*None*35-44*6* 17.5*Freeman*Grimes*None*2:08*D*20,000*++*1921-05-25 (Rain)
+Sunday, Jul 17*boxscore*CHC*@*BRO*L*5*7*None*35-45*6* 18.5*Cadore*Martin*None*1:45*D*6,000*-*None
+Monday, Jul 18*boxscore*CHC*@*BRO*W*8*1*None*36-45*6* 17.5*Ponder*Ruether*None*1:40*D*2,000*+*None
+Tuesday, Jul 19*boxscore*CHC*@*BRO*W*3*1*13*37-45*6* 17.5*Martin*Smith*None*2:16*D*2,000*++*None
+Wednesday, Jul 20*boxscore*CHC*@*PHI*W*10*0*None*38-45*6* 18.0*Alexander*Smith*None*1:35*D*None*+++*None
+Wednesday, Jul 20*boxscore*CHC*@*PHI*L*0*8*None*38-46*6* 18.0*Hubbell*York*None*1:45*D*None*-*1921-05-12 (Rain)
+Thursday, Jul 21*boxscore*CHC*@*PHI*L*1*8*None*38-47*6* 18.5*Ring*Freeman*None*1:50*D*None*--*None
+Friday, Jul 22*boxscore*CHC*@*PHI*W*6*1*None*39-47*6* 18.0*Ponder*Sedgwick*None*1:30*D*None*+*None
+Saturday, Jul 23*boxscore*CHC*@*PHI*W*6*2*11*40-47*6* 17.5*Alexander*Meadows*None*1:50*D*None*++*None
+Sunday, Jul 24*boxscore*CHC*@*CIN*L*1*7*None*40-48*6* 18.0*Rixey*Cheeves*None*1:40*D*None*-*None
+Tuesday, Jul 26*boxscore*CHC*None*BRO*L*0*3*None*40-49*6* 18.5*Grimes*Alexander*None*1:25*D*8,000*--*None
+Wednesday, Jul 27*boxscore*CHC*None*BRO*L*2*10*None*40-50*6* 18.5*Ruether*Ponder*None*1:44*D*4,500*---*None
+Thursday, Jul 28*boxscore*CHC*None*BRO*L*2*3*None*40-51*6* 18.5*Cadore*Cheeves*None*1:29*D*8,000*----*None
+Friday, Jul 29*boxscore*CHC*None*PHI*L*2*6*None*40-52*6* 19.0*Hubbell*York*None*1:45*D*None*-----*None
+Saturday, Jul 30*boxscore*CHC*None*PHI*W*8*7*None*41-52*6* 18.5*Alexander*Meadows*None*2:00*D*None*+*None
+Saturday, Jul 30*boxscore*CHC*None*PHI*L*5*6*None*41-53*6* 18.5*Ring*Freeman*None*1:45*D*None*-*1921-06-10 (Rain)
+Sunday, Jul 31*boxscore*CHC*None*PHI*L*2*10*None*41-54*6* 19.0*Winters*Ponder*None*1:41*D*None*--*None
+Monday, Aug 1*boxscore*CHC*None*PHI*L*1*6*6*41-55*6* 20.0*Smith*Cheeves*None*1:15*D*None*---*None
+Wednesday, Aug 3*boxscore*CHC*None*BSN*L*3*5*None*41-56*6* 20.5*Oeschger*Alexander*None*1:30*D*None*----*None
+Wednesday, Aug 3*boxscore*CHC*None*BSN*W*7*5*None*42-56*6* 20.5*Martin*Scott*Freeman*1:59*D*None*+*1921-08-02 (Rain)
+Thursday, Aug 4*boxscore*CHC*None*BSN*L*5*13*None*42-57*6* 21.5*Watson*Jones*None*2:05*D*None*-*None
+Friday, Aug 5*boxscore*CHC*None*BSN*L*1*6*None*42-58*6* 22.5*McQuillan*Cheeves*None*1:42*D*None*--*None
+Saturday, Aug 6*boxscore*CHC*None*NYG*W*7*4*None*43-58*6* 21.5*Cheeves*Ryan*None*1:50*D*7,500*+*None
+Sunday, Aug 7*boxscore*CHC*None*NYG*L*2*7*None*43-59*6* 22.0*Barnes*Alexander*None*1:52*D*18,000*-*None
+Monday, Aug 8*boxscore*CHC*None*NYG*L*3*6*None*43-60*7* 22.0*Nehf*Martin*None*1:52*D*5,000*--*None
+Tuesday, Aug 9*boxscore*CHC*None*NYG*W*8*7*10*44-60*7* 22.0*Cheeves*Douglas*None*2:28*D*10,000*+*None
+Thursday, Aug 11*boxscore*CHC*@*PIT*L*3*7*None*44-61*7* 23.5*Hamilton*Alexander*None*1:33*D*None*-*None
+Thursday, Aug 11*boxscore*CHC*@*PIT*L*4*5*11*44-62*7* 23.5*Zinn*Martin*None*2:20*D*None*--*1921-04-30 (Cold)
+Friday, Aug 12*boxscore*CHC*@*PIT*L*9*12*None*44-63*7* 24.5*Cooper*Cheeves*None*1:56*D*None*---*None
+Saturday, Aug 13*boxscore*CHC*@*PIT*L*3*4*None*44-64*7* 25.5*Glazner*Freeman*None*1:30*D*None*----*None
+Sunday, Aug 14*boxscore*CHC*None*PIT*L*0*1*None*44-65*7* 26.5*Morrison*Martin*None*1:45*D*None*-----*None
+Tuesday, Aug 16*boxscore*CHC*@*BSN*L*6*8*None*44-66*7* 27.0*Fillingim*Alexander*None*1:58*D*None*------*None
+Wednesday, Aug 17*boxscore*CHC*@*BSN*W*5*4*None*45-66*7* 26.0*Ponder*Scott*None*1:40*D*None*+*None
+Wednesday, Aug 17*boxscore*CHC*@*BSN*W*2*1*10*46-66*7* 26.0*Jones*McQuillan*None*1:55*D*None*++*1921-07-15 (Rain)
+Thursday, Aug 18*boxscore*CHC*@*BSN*L*8*9*7*46-67*7* 27.5*Oeschger*Martin*Watson*1:28*D*3,000*-*None
+Friday, Aug 19*boxscore*CHC*@*BSN*L*2*3*None*46-68*7* 28.0*Watson*Freeman*McQuillan*1:40*D*None*--*None
+Saturday, Aug 20*boxscore*CHC*@*PHI*W*5*2*None*47-68*7* 28.0*Martin*Smith*None*1:40*D*None*+*None
+Monday, Aug 22*boxscore*CHC*@*PHI*L*1*2*12*47-69*7* 29.0*Winters*Ponder*None*2:10*D*None*-*None
+Tuesday, Aug 23*boxscore*CHC*@*PHI*L*0*1*None*47-70*7* 29.0*Meadows*Freeman*None*1:18*D*None*--*None
+Wednesday, Aug 24*boxscore*CHC*@*BRO*W*6*1*None*48-70*7* 27.5*Alexander*Schupp*None*1:33*D*None*+*None
+Thursday, Aug 25*boxscore*CHC*@*BRO*L*2*3*None*48-71*7* 27.5*Grimes*Cheeves*None*1:40*D*2,500*-*None
+Friday, Aug 26*boxscore*CHC*@*BRO*W*12*3*None*49-71*7* 26.5*Martin*Ruether*None*1:34*D*2,500*+*1921-05-23 (Rain)
+Saturday, Aug 27*boxscore*CHC*@*BRO*L*5*15*None*49-72*7* 26.5*Mitchell*Ponder*None*1:55*D*6,000*-*None
+Sunday, Aug 28*boxscore*CHC*@*NYG*L*2*4*None*49-73*7* 27.5*Barnes*Alexander*None*1:40*D*28,000*--*None
+Monday, Aug 29*boxscore*CHC*@*NYG*L*7*8*None*49-74*7* 27.5*Shea*Jones*None*2:02*D*8,000*---*None
+Tuesday, Aug 30*boxscore*CHC*@*NYG*L*3*5*None*49-75*7* 28.5*Nehf*Martin*None*1:50*D*None*----*None
+Friday, Sep 2*boxscore*CHC*@*CIN*W*7*0*None*50-75*7* 26.5*Alexander*Rixey*None*None*D*None*+*None
+Saturday, Sep 3*boxscore*CHC*@*CIN*L*0*4*None*50-76*7* 27.0*Marquard*Keen*None*1:31*D*None*-*None
+Sunday, Sep 4*boxscore*CHC*@*STL*W*2*0*None*51-76*7* 27.5*Martin*Pfeffer*None*1:49*D*None*+*None
+Sunday, Sep 4*boxscore*CHC*@*STL*L*2*4*None*51-77*7* 27.5*Sherdel*Freeman*None*1:34*D*None*-*1921-04-22 (Wet grounds)
+Monday, Sep 5*boxscore*CHC*@*STL*L*3*4*None*51-78*7* 28.5*Pertica*Ponder*North*1:33*D*None*--*None
+Monday, Sep 5*boxscore*CHC*@*STL*L*3*4*5*51-79*7* 28.5*Doak*Cheeves*None*1:12*D*None*---*None
+Tuesday, Sep 6*boxscore*CHC*@*STL*L*0*1*None*51-80*7* 29.5*Bailey*Alexander*None*1:49*D*None*----*None
+Tuesday, Sep 6*boxscore*CHC*@*STL*L*2*3*None*51-81*7* 29.5*Haines*Jones*None*1:30*D*None*-----*1921-06-20 (Rain)
+Wednesday, Sep 7*boxscore*CHC*None*CIN*L*2*5*10*51-82*7* 30.0*Marquard*Keen*None*1:45*D*None*------*None
+Thursday, Sep 8*boxscore*CHC*None*CIN*W*6*2*None*52-82*7* 29.5*Cheeves*Donohue*None*1:21*D*None*+*None
+Friday, Sep 9*boxscore*CHC*@*PIT*W*8*5*None*53-82*7* 29.0*Freeman*Cooper*Alexander*2:02*D*None*++*None
+Saturday, Sep 10*boxscore*CHC*@*PIT*L*0*8*None*53-83*7* 30.0*Morrison*Alexander*None*1:55*D*10,000*-*None
+Sunday, Sep 11*boxscore*CHC*None*STL*L*5*10*None*53-84*7* 31.0*Sherdel*Cheeves*Doak*1:45*D*None*--*None
+Tuesday, Sep 13*boxscore*CHC*None*PHI*L*2*4*None*53-85*7* 32.0*Ring*Keen*None*1:38*D*None*---*None
+Wednesday, Sep 14*boxscore*CHC*None*PHI*W*10*0*None*54-85*7* 32.0*Alexander*Hubbell*None*1:34*D*None*+*None
+Thursday, Sep 15*boxscore*CHC*None*PHI*L*3*6*None*54-86*7* 33.0*Winters*Stueland*None*2:00*D*None*-*None
+Saturday, Sep 17*boxscore*CHC*None*BRO*W*7*6*None*55-86*7* 33.5*York*Smith*None*1:47*D*3,000*+*None
+Sunday, Sep 18*boxscore*CHC*None*BRO*W*1*0*None*56-86*7* 32.5*Cheeves*Grimes*None*1:27*D*5,000*++*None
+Sunday, Sep 18*boxscore*CHC*None*BRO*W*5*1*None*57-86*7* 32.5*Freeman*Ruether*None*1:26*D*35,000*+++*1921-09-16 (Rain)
+Tuesday, Sep 20*boxscore*CHC*None*NYG*W*7*6*10*58-86*7* 31.0*Cheeves*Nehf*None*2:05*D*3,000*++++*None
+Wednesday, Sep 21*boxscore*CHC*None*NYG*L*7*9*None*58-87*7* 32.0*Shea*Jones*Toney*2:20*D*4,000*-*None
+Friday, Sep 23*boxscore*CHC*None*BSN*W*13*5*None*59-87*7* 31.5*Kaufmann*McQuillan*None*1:59*D*None*+*None
+Sunday, Sep 25*boxscore*CHC*None*BSN*W*4*3*12*60-87*7* 30.5*Alexander*Oeschger*None*2:15*D*None*++*None
+Sunday, Sep 25*boxscore*CHC*None*BSN*W*8*7*12*61-87*7* 30.5*Freeman*Scott*None*2:29*D*None*+++*1921-09-24 (Rain)
+Tuesday, Sep 27*boxscore*CHC*None*CIN*L*3*8*None*61-88*7* 31.5*Rixey*Cheeves*None*1:50*D*None*-*None
+Wednesday, Sep 28*boxscore*CHC*None*CIN*W*3*1*None*62-88*7* 31.0*Martin*Donohue*Kaufmann*1:32*D*None*+*None
+Saturday, Oct 1*boxscore*CHC*@*CIN*L*3*5*None*62-89*7* 31.5*Marquard*Alexander*None*1:27*D*None*-*None
+Sunday, Oct 2*boxscore*CHC*@*CIN*W*7*5*12*63-89*7* 30.0*Jones*Markle*None*2:20*D*None*+*None
+Sunday, Oct 2*boxscore*CHC*@*CIN*W*7*0*5*64-89*7* 30.0*Cheeves*Clarke*York*0:53*D*None*++*1921-06-24 (Rain)

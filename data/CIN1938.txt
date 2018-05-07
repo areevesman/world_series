@@ -1,0 +1,151 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 20*boxscore*CIN*None*CHC*L*4*10*None*0-2*7* 2.0*Dean*Grissom*Russell*1:59*D*6,552*--*None
+Thursday, Apr 21*boxscore*CIN*None*CHC*W*6*2*None*1-2*5* 2.0*Derringer*Carleton*None*1:48*D*2,155*+*None
+Friday, Apr 22*boxscore*CIN*@*PIT*L*4*7*None*1-3*7* 3.0*Lucas*Vander Meer*Bauers*2:12*D*20,500*-*None
+Saturday, Apr 23*boxscore*CIN*@*PIT*L*2*6*None*1-4*7* 4.0*Blanton*Schott*None*1:37*D*None*--*None
+Sunday, Apr 24*boxscore*CIN*@*PIT*L*1*2*None*1-5*7* 5.0*Tobin*Davis*None*1:38*D*16,012*---*None
+Monday, Apr 25*boxscore*CIN*None*STL*W*5*0*None*2-5*6* 5.0*Derringer*Weiland*None*1:46*D*2,497*+*None
+Tuesday, Apr 26*boxscore*CIN*None*STL*W*8*7*10*3-5*5* 4.0*Cascarella*Harrell*None*2:43*D*2,386*++*None
+Wednesday, Apr 27*boxscore*CIN*None*STL*L*0*5*None*3-6*6* 5.0*Warneke*Grissom*None*2:07*D*3,979*-*None
+Thursday, Apr 28*boxscore*CIN*@*CHC*L*5*12*None*3-7*6* 6.0*Lee*Schott*Bryant*2:11*D*None*--*None
+Friday, Apr 29*boxscore*CIN*@*CHC*L*4*6*None*3-8*7* 6.5*Russell*Derringer*Bryant*1:45*D*27,496*---*None
+Saturday, Apr 30*boxscore*CIN*None*PIT*W*2*0*None*4-8*6* 6.5*Davis*Bauers*None*1:40*D*None*+*None
+Sunday, May 1*boxscore*CIN*None*PIT*W*4*1*None*5-8*6* 6.5*Hollingsworth*Swift*Schott*2:07*D*14,439*++*None
+Monday, May 2*boxscore*CIN*None*PIT*W*8*6*None*6-8*5* 6.5*Vander Meer*Blanton*Benge*2:01*D*None*+++*None
+Tuesday, May 3*boxscore*CIN*None*NYG*W*10*2*None*7-8*4* 5.5*Derringer*Schumacher*None*2:18*D*5,499*++++*None
+Wednesday, May 4*boxscore*CIN*None*NYG*L*2*3*None*7-9*5* 6.5*Hubbell*Davis*None*1:54*D*6,162*-*None
+Thursday, May 5*boxscore*CIN*None*NYG*W*5*2*None*8-9*5* 5.5*Benge*Gumbert*None*2:03*D*3,408*+*None
+Friday, May 6*boxscore*CIN*None*BRO*W*10*3*None*9-9*4* 5.5*Hollingsworth*Mungo*None*2:01*D*2,633*++*None
+Saturday, May 7*boxscore*CIN*None*BRO*L*4*7*None*9-10*4* 6.5*Butcher*Derringer*None*2:13*D*5,067*-*None
+Sunday, May 8*boxscore*CIN*None*PHI*L*0*2*None*9-11*4* 7.5*Walters*Vander Meer*None*2:09*D*11,116*--*None
+Monday, May 9*boxscore*CIN*None*PHI*W*9*4*None*10-11*4* 7.0*Davis*Passeau*None*2:15*D*540*+*None
+Tuesday, May 10*boxscore*CIN*None*PHI*W*7*3*None*11-11*4* 7.0*Cascarella*Mulcahy*None*2:15*D*947*++*None
+Thursday, May 12*boxscore*CIN*None*BSN*W*4*0*None*12-11*4* 7.0*Derringer*Shoffner*None*1:46*D*2,296*+++*None
+Saturday, May 14*boxscore*CIN*@*STL*&X*7*7*10*12-11*4* 7.0*None*None*None*2:57*D*1,650*+++*None
+Sunday, May 15*boxscore*CIN*@*STL*L*11*12*10*12-12*4* 7.5*Davis*Benge*None*2:53*D*7,543*-*None
+Tuesday, May 17*boxscore*CIN*@*PHI*W*13*1*None*13-12*4* 7.0*Derringer*Passeau*None*2:01*D*None*+*None
+Thursday, May 19*boxscore*CIN*@*PHI*L*4*5*None*13-13*5* 6.5*Mulcahy*Cascarella*None*1:35*D*None*-*None
+Friday, May 20*boxscore*CIN*@*NYG*W*4*0*None*14-13*3* 5.5*Vander Meer*Schumacher*None*2:20*D*2,921*+*None
+Saturday, May 21*boxscore*CIN*@*NYG*W*4*1*None*15-13*3* 4.5*Derringer*Melton*None*1:46*D*19,729*++*None
+Sunday, May 22*boxscore*CIN*@*BRO*W*8*3*None*16-13*3* 4.5*Weaver*Fitzsimmons*Benge*2:10*D*16,249*+++*None
+Monday, May 23*boxscore*CIN*@*BRO*W*6*4*None*17-13*3* 3.5*Schott*Posedel*Cascarella*2:06*D*None*++++*None
+Tuesday, May 24*boxscore*CIN*@*BSN*L*9*10*None*17-14*3* 4.5*Weir*Hollingsworth*Errickson*2:24*D*2,268*-*None
+Wednesday, May 25*boxscore*CIN*@*BSN*L*1*2*11*17-15*4* 5.5*MacFayden*Derringer*None*1:44*D*4,154*--*None
+Friday, May 27*boxscore*CIN*None*STL*W*2*1*10*18-15*4* 5.0*Vander Meer*McGee*None*2:49*N*21,092*+*1938-05-28 (Schedule change)
+Sunday, May 29*boxscore*CIN*None*STL*L*0*3*None*18-16*3* 7.0*Weiland*Grissom*None*1:41*D*13,506*-*None
+Monday, May 30*boxscore*CIN*@*CHC*W*7*3*None*19-16*4* 6.0*Derringer*Carleton*None*1:53*D*None*+*None
+Monday, May 30*boxscore*CIN*@*CHC*L*0*3*None*19-17*4* 6.0*Lee*Weaver*None*1:48*D*41,216*-*None
+Wednesday, Jun 1*boxscore*CIN*None*BRO*W*4*1*None*20-17*4* 5.0*Vander Meer*Pressnell*None*1:45*D*6,640*+*None
+Thursday, Jun 2*boxscore*CIN*None*BRO*L*5*11*None*20-18*4* 5.5*Butcher*Cascarella*None*2:13*D*2,374*-*None
+Friday, Jun 3*boxscore*CIN*None*BRO*L*4*5*None*20-19*4* 5.5*Posedel*Derringer*None*2:00*D*2,137*--*None
+Saturday, Jun 4*boxscore*CIN*None*NYG*W*11*2*None*21-19*4* 4.5*Weaver*Hubbell*None*2:04*D*7,121*+*None
+Sunday, Jun 5*boxscore*CIN*None*NYG*W*4*1*None*22-19*4* 4.0*Vander Meer*Castleman*None*1:57*D*27,047*++*None
+Monday, Jun 6*boxscore*CIN*None*NYG*L*2*11*None*22-20*4* 5.0*Schumacher*Hollingsworth*None*1:49*D*5,947*-*None
+Wednesday, Jun 8*boxscore*CIN*None*PHI*W*7*5*None*23-20*3* 4.5*Derringer*Passeau*None*1:50*N*14,898*+*None
+Saturday, Jun 11*boxscore*CIN*None*BSN*W*3*0*None*24-20*3* 5.0*Vander Meer*MacFayden*None*1:45*D*5,814*++*None
+Sunday, Jun 12*boxscore*CIN*None*BSN*L*5*6*10*24-21*3* 5.0*Lanning*Cascarella*None*2:35*D*None*-*None
+Sunday, Jun 12*boxscore*CIN*None*BSN*W*7*4*None*25-21*3* 5.0*Derringer*Turner*None*1:54*D*33,735*+*1938-05-11 (Rain)
+Wednesday, Jun 15*boxscore*CIN*@*BRO*W*6*0*None*26-21*3* 4.5*Vander Meer*Butcher*None*2:23*N*38,748*++*None
+Friday, Jun 17*boxscore*CIN*@*BRO*W*4*3*11*27-21*3* 3.5*Weaver*Mungo*None*2:22*D*None*+++*None
+Friday, Jun 17*boxscore*CIN*@*BRO*W*12*10*None*28-21*3* 3.5*Cascarella*Tamulis*None*2:46*D*12,494*++++*1938-06-14 (Train delay (BRO))
+Saturday, Jun 18*boxscore*CIN*@*BSN*L*4*7*None*28-22*3* 4.5*Shoffner*Derringer*Fette*2:10*D*6,256*-*None
+Sunday, Jun 19*boxscore*CIN*@*BSN*W*14*1*None*29-22*2* 3.0*Vander Meer*Hutchinson*None*2:04*D*30,613*+*None
+Monday, Jun 20*boxscore*CIN*@*BSN*W*3*1*13*30-22*2* 2.5*Davis*Lanning*None*2:36*D*2,265*++*None
+Tuesday, Jun 21*boxscore*CIN*@*NYG*W*6*2*None*31-22*2* 1.5*Weaver*Hubbell*Walters*2:05*D*10,509*+++*None
+Wednesday, Jun 22*boxscore*CIN*@*NYG*L*4*6*None*31-23*3* 2.5*Coffman*Walters*None*1:52*D*10,371*-*None
+Thursday, Jun 23*boxscore*CIN*@*NYG*&H*8*5*None*32-23*2* 1.5*Vander Meer*Schumacher*Cascarella*2:30*D*22,666*+*None
+Friday, Jun 24*boxscore*CIN*@*PHI*W*6*4*None*33-23*2* 1.5*Davis*Hollingsworth*Cascarella*2:23*D*5,000*++*None
+Saturday, Jun 25*boxscore*CIN*@*PHI*L*6*7*12*33-24*2* 1.5*Hollingsworth*Cascarella*None*2:47*D*2,500*-*None
+Sunday, Jun 26*boxscore*CIN*@*PHI*L*3*10*None*33-25*2* 2.0*Passeau*Weaver*None*2:05*D*None*--*None
+Sunday, Jun 26*boxscore*CIN*@*PHI*W*8*5*None*34-25*2* 2.0*Derringer*LaMaster*None*2:19*D*8,520*+*1938-05-18 (Rain)
+Tuesday, Jun 28*boxscore*CIN*@*PIT*W*5*2*None*35-25*2* 1.5*Vander Meer*Bauers*None*2:00*D*None*++*None
+Wednesday, Jun 29*boxscore*CIN*@*PIT*L*4*5*None*35-26*2* 3.0*Swift*Cascarella*None*1:52*D*3,470*-*None
+Thursday, Jun 30*boxscore*CIN*@*PIT*L*1*3*None*35-27*2* 4.0*Blanton*Walters*None*1:42*D*3,685*--*None
+Friday, Jul 1*boxscore*CIN*None*CHC*L*4*11*None*35-28*3* 5.0*Bryant*Derringer*None*2:11*N*19,731*---*None
+Sunday, Jul 3*boxscore*CIN*None*CHC*L*3*4*None*35-29*4* 6.0*Lee*Vander Meer*Root*2:14*D*22,410*----*None
+Monday, Jul 4*boxscore*CIN*None*PIT*L*1*2*None*35-30*4* 8.0*Blanton*Davis*None*1:38*D*None*-----*None
+Monday, Jul 4*boxscore*CIN*None*PIT*L*2*3*None*35-31*4* 8.0*Swift*Walters*None*1:46*D*22,400*------*None
+Friday, Jul 8*boxscore*CIN*@*CHC*W*7*6*10*36-31*4* 8.0*Walters*French*None*2:11*D*12,100*+*None
+Saturday, Jul 9*boxscore*CIN*@*CHC*W*11*0*None*37-31*3* 7.0*Walters*Bryant*None*1:47*D*11,096*++*None
+Sunday, Jul 10*boxscore*CIN*@*CHC*W*3*1*None*38-31*3* 7.0*Vander Meer*Lee*None*1:50*D*None*+++*None
+Monday, Jul 11*boxscore*CIN*@*STL*W*9*5*None*39-31*3* 6.5*Davis*Henshaw*None*1:50*D*1,421*++++*None
+Tuesday, Jul 12*boxscore*CIN*@*STL*W*6*5*None*40-31*3* 5.5*Schott*Shoun*None*2:31*D*2,162*+++++*None
+Wednesday, Jul 13*boxscore*CIN*None*NYG*W*6*1*8*41-31*3* 4.5*Derringer*Castleman*None*1:47*D*10,174*++++++*None
+Thursday, Jul 14*boxscore*CIN*None*NYG*W*1*0*None*42-31*3* 4.0*Walters*Gumbert*None*1:43*D*10,734*+++++++*None
+Friday, Jul 15*boxscore*CIN*None*NYG*L*2*3*None*42-32*3* 4.5*Schumacher*Vander Meer*Coffman*2:03*D*23,273*-*None
+Saturday, Jul 16*boxscore*CIN*None*BRO*L*5*12*None*42-33*3* 5.0*Frankhouse*Cascarella*None*2:28*D*5,347*--*None
+Sunday, Jul 17*boxscore*CIN*None*BRO*L*3*5*None*42-34*4* 6.0*Pressnell*Davis*Hamlin*1:39*D*None*---*None
+Sunday, Jul 17*boxscore*CIN*None*BRO*L*4*7*None*42-35*4* 6.0*Butcher*Derringer*Hamlin*1:56*D*28,866*----*1938-07-18 (Rain)
+Tuesday, Jul 19*boxscore*CIN*None*BSN*W*3*1*None*43-35*3* 5.5*Moore*Lanning*None*2:02*D*None*+*None
+Tuesday, Jul 19*boxscore*CIN*None*BSN*W*7*2*None*44-35*3* 5.5*Walters*Reis*None*1:50*D*7,008*++*1938-06-10 (Rain)
+Wednesday, Jul 20*boxscore*CIN*None*BSN*L*3*4*None*44-36*4* 6.0*Errickson*Vander Meer*None*1:58*N*24,240*-*None
+Friday, Jul 22*boxscore*CIN*None*PHI*W*5*2*None*45-36*4* 7.0*Derringer*Passeau*None*1:51*D*None*+*None
+Friday, Jul 22*boxscore*CIN*None*PHI*L*10*11*None*45-37*4* 7.0*LaMaster*Davis*Mulcahy*2:28*D*5,419*-*1938-06-07 (Rain)
+Saturday, Jul 23*boxscore*CIN*None*PHI*W*10*9*None*46-37*4* 6.0*Schott*Hallahan*None*2:03*D*3,619*+*None
+Sunday, Jul 24*boxscore*CIN*None*PHI*W*7*5*None*47-37*4* 7.0*Moore*Hollingsworth*Derringer*2:12*D*None*++*None
+Sunday, Jul 24*boxscore*CIN*None*PHI*L*1*5*None*47-38*4* 7.0*Johnson*Vander Meer*None*2:00*D*26,630*-*1938-06-09 (Schedule change)
+Tuesday, Jul 26*boxscore*CIN*@*BSN*W*6*2*None*48-38*4* 6.0*Derringer*Turner*None*1:34*D*1,512*+*None
+Wednesday, Jul 27*boxscore*CIN*@*BSN*L*0*1*None*48-39*4* 7.5*MacFayden*Weaver*None*1:46*D*None*-*None
+Wednesday, Jul 27*boxscore*CIN*@*BSN*L*1*5*None*48-40*4* 7.5*Fette*Walters*None*1:33*D*6,169*--*1938-05-26 (Rain)
+Thursday, Jul 28*boxscore*CIN*@*BSN*W*4*2*None*49-40*4* 7.5*Davis*Reis*None*1:47*D*1,919*+*None
+Friday, Jul 29*boxscore*CIN*@*NYG*L*4*5*None*49-41*4* 8.5*Coffman*Schott*None*2:25*D*10,162*-*None
+Saturday, Jul 30*boxscore*CIN*@*NYG*L*2*3*None*49-42*4* 9.5*Lohrman*Derringer*Coffman*2:04*D*14,757*--*None
+Sunday, Jul 31*boxscore*CIN*@*NYG*W*7*6*11*50-42*4* 8.5*Davis*Brown*None*2:59*D*16,802*+*None
+Tuesday, Aug 2*boxscore*CIN*@*PHI*W*3*2*None*51-42*4* 7.5*Vander Meer*LaMaster*Derringer*2:11*D*None*++*None
+Wednesday, Aug 3*boxscore*CIN*@*PHI*W*6*3*10*52-42*3* 8.0*Moore*Passeau*None*2:26*D*1,845*+++*None
+Friday, Aug 5*boxscore*CIN*@*BRO*W*4*1*None*53-42*3* 6.5*Derringer*Pressnell*None*1:56*D*4,244*++++*None
+Saturday, Aug 6*boxscore*CIN*@*BRO*W*11*6*None*54-42*3* 6.0*Moore*Hamlin*Cascarella*2:17*D*4,141*+++++*None
+Sunday, Aug 7*boxscore*CIN*@*BRO*L*10*11*None*54-43*3* 8.0*Mungo*Cascarella*None*2:44*D*None*-*None
+Sunday, Aug 7*boxscore*CIN*@*BRO*L*3*6*None*54-44*3* 8.0*Fitzsimmons*Davis*None*1:51*N*18,138*--*1938-06-16 (Schedule change)
+Tuesday, Aug 9*boxscore*CIN*None*CHC*L*0*3*None*54-45*4* 9.0*French*Derringer*None*1:29*D*6,415*---*None
+Wednesday, Aug 10*boxscore*CIN*None*CHC*L*3*6*None*54-46*4* 9.0*Page*Vander Meer*Root*2:00*D*6,009*----*None
+Thursday, Aug 11*boxscore*CIN*None*CHC*W*8*7*14*55-46*4* 8.5*Schott*French*None*2:47*D*3,460*+*None
+Friday, Aug 12*boxscore*CIN*None*STL*W*3*2*None*56-46*4* 7.5*Walters*McGee*None*1:48*N*22,576*++*None
+Sunday, Aug 14*boxscore*CIN*None*STL*W*5*4*None*57-46*4* 7.5*Derringer*Weiland*None*1:52*D*None*+++*None
+Sunday, Aug 14*boxscore*CIN*None*STL*L*1*8*None*57-47*4* 7.5*Shoun*Moore*None*1:49*D*25,354*-*1938-08-13 (Unknown reason)
+Monday, Aug 15*boxscore*CIN*@*PIT*W*6*2*None*58-47*3* 6.5*Cascarella*Brown*Davis*1:44*D*6,143*+*None
+Tuesday, Aug 16*boxscore*CIN*@*PIT*L*0*10*None*58-48*4* 7.5*Blanton*Davis*None*1:42*D*6,253*-*None
+Wednesday, Aug 17*boxscore*CIN*@*CHC*W*8*4*None*59-48*3* 7.5*Walters*Page*Schott*1:58*D*None*+*None
+Thursday, Aug 18*boxscore*CIN*@*CHC*W*9*1*None*60-48*3* 6.5*Derringer*Root*None*1:49*D*9,280*++*None
+Saturday, Aug 20*boxscore*CIN*@*STL*W*4*2*None*61-48*3* 7.0*Grissom*Macon*Weaver*2:01*D*None*+++*None
+Saturday, Aug 20*boxscore*CIN*@*STL*L*4*5*None*61-49*3* 7.0*Warneke*Davis*None*1:54*D*7,350*-*1938-05-13 (Cold)
+Sunday, Aug 21*boxscore*CIN*@*STL*L*6*7*11*61-50*3* 7.0*Henshaw*Schott*None*2:43*D*None*--*None
+Sunday, Aug 21*boxscore*CIN*@*STL*L*0*3*None*61-51*3* 7.0*McGee*Walters*None*1:29*D*17,959*---*None
+Monday, Aug 22*boxscore*CIN*@*STL*W*11*4*None*62-51*3* 7.0*Derringer*Davis*None*2:00*D*1,522*+*None
+Tuesday, Aug 23*boxscore*CIN*None*PHI*W*3*0*None*63-51*3* 6.5*Moore*Hollingsworth*None*1:51*D*3,010*++*None
+Wednesday, Aug 24*boxscore*CIN*None*PHI*W*3*1*None*64-51*3* 6.5*Grissom*Mulcahy*Weaver*1:46*D*4,156*+++*None
+Thursday, Aug 25*boxscore*CIN*None*BSN*L*4*6*12*64-52*3* 6.5*Shoffner*Davis*None*2:51*D*None*-*None
+Thursday, Aug 25*boxscore*CIN*None*BSN*L*2*3*None*64-53*3* 6.5*Turner*Walters*Errickson*1:48*D*None*--*1938-07-21 (Schedule change)
+Friday, Aug 26*boxscore*CIN*None*BSN*L*1*6*None*64-54*4* 6.5*Lanning*Derringer*None*1:50*D*2,701*---*None
+Saturday, Aug 27*boxscore*CIN*None*BSN*L*4*8*None*64-55*4* 7.5*Fette*Moore*None*2:04*D*4,059*----*None
+Sunday, Aug 28*boxscore*CIN*None*NYG*L*3*7*None*64-56*4* 7.5*Schumacher*Davis*None*1:59*D*19,391*-----*None
+Monday, Aug 29*boxscore*CIN*None*NYG*W*6*3*None*65-56*4* 7.5*Walters*Gumbert*None*1:50*D*3,527*+*None
+Tuesday, Aug 30*boxscore*CIN*None*BRO*W*5*4*None*66-56*4* 7.0*Derringer*Frankhouse*None*1:59*D*None*++*None
+Tuesday, Aug 30*boxscore*CIN*None*BRO*W*7*4*None*67-56*4* 7.0*Moore*Mungo*None*2:12*D*6,903*+++*1938-09-01 (Schedule change)
+Wednesday, Aug 31*boxscore*CIN*None*BRO*W*9*3*None*68-56*2* 6.5*Barrett*Hamlin*None*1:57*N*19,047*++++*None
+Saturday, Sep 3*boxscore*CIN*None*CHC*W*6*0*None*69-56*2* 5.0*Derringer*Page*None*1:30*D*None*+++++*None
+Saturday, Sep 3*boxscore*CIN*None*CHC*W*7*5*None*70-56*2* 5.0*Schott*Russell*None*2:08*D*20,260*++++++*1938-07-02 (Schedule change)
+Sunday, Sep 4*boxscore*CIN*None*CHC*L*1*2*11*70-57*2* 6.0*Root*Schott*None*2:09*D*19,568*-*None
+Monday, Sep 5*boxscore*CIN*None*STL*W*4*3*None*71-57*2* 4.0*Weaver*Warneke*Derringer*1:58*D*None*+*None
+Monday, Sep 5*boxscore*CIN*None*STL*W*4*2*None*72-57*2* 4.0*Barrett*McGee*None*1:51*D*26,291*++*None
+Tuesday, Sep 6*boxscore*CIN*None*STL*L*0*8*None*72-58*2* 4.5*Davis*Davis*None*1:33*D*3,977*-*None
+Wednesday, Sep 7*boxscore*CIN*None*PIT*L*1*7*None*72-59*3* 5.5*Klinger*Derringer*None*1:44*D*8,839*--*None
+Thursday, Sep 8*boxscore*CIN*None*PIT*W*5*3*None*73-59*3* 4.5*Vander Meer*Blanton*None*1:59*N*29,043*+*None
+Saturday, Sep 10*boxscore*CIN*@*CHC*W*9*1*None*74-59*2* 4.5*Walters*Root*None*1:58*D*None*++*None
+Sunday, Sep 11*boxscore*CIN*@*CHC*L*0*2*None*74-60*3* 4.5*Lee*Derringer*None*1:30*D*None*-*None
+Wednesday, Sep 14*boxscore*CIN*@*BRO*L*2*6*None*74-61*3* 3.5*Fitzsimmons*Vander Meer*None*1:49*D*None*--*None
+Wednesday, Sep 14*boxscore*CIN*@*BRO*W*8*4*None*75-61*3* 3.5*Walters*Frankhouse*Weaver*1:47*D*9,548*+*1938-09-13 (Rain)
+Friday, Sep 16*boxscore*CIN*@*PHI*W*2*0*None*76-61*3* 4.0*Derringer*Butcher*None*1:28*D*None*++*None
+Friday, Sep 16*boxscore*CIN*@*PHI*L*1*2*None*76-62*3* 4.0*Mulcahy*Moore*None*1:28*D*3,000*-*1938-08-04 (Rain)
+Thursday, Sep 22*boxscore*CIN*@*NYG*L*1*6*None*76-63*4* 7.0*Schumacher*Vander Meer*None*1:47*D*None*--*None
+Thursday, Sep 22*boxscore*CIN*@*NYG*L*1*2*None*76-64*4* 7.0*Gumbert*Derringer*None*1:39*D*6,197*---*1938-09-20 (Rain)
+Friday, Sep 23*boxscore*CIN*@*PIT*W*5*4*12*77-64*3* 6.0*Walters*Brown*None*2:20*D*7,429*+*None
+Saturday, Sep 24*boxscore*CIN*@*PIT*L*1*4*None*77-65*4* 7.0*Bauers*Vander Meer*None*1:43*D*11,318*-*None
+Sunday, Sep 25*boxscore*CIN*@*PIT*L*3*5*None*77-66*4* 8.0*Lucas*Derringer*Swift*1:51*D*27,147*--*None
+Tuesday, Sep 27*boxscore*CIN*@*STL*W*3*1*None*78-66*4* 7.0*Walters*Dean*None*1:30*D*1,793*+*None
+Wednesday, Sep 28*boxscore*CIN*@*STL*L*7*8*None*78-67*4* 7.5*Cooper*Weaver*Davis*2:16*D*1,081*-*None
+Thursday, Sep 29*boxscore*CIN*@*STL*W*7*4*None*79-67*4* 7.5*Vander Meer*Lanier*None*2:01*D*1,085*+*None
+Friday, Sep 30*boxscore*CIN*None*PIT*W*7*1*None*80-67*4* 7.5*Derringer*Tobin*None*1:28*D*None*++*None
+Friday, Sep 30*boxscore*CIN*None*PIT*L*2*4*None*80-68*4* 7.5*Bauers*Moore*None*1:30*D*8,361*-*1938-09-09 (Schedule change)
+Saturday, Oct 1*boxscore*CIN*None*PIT*W*9*6*None*81-68*4* 7.0*Weaver*Brown*None*2:09*D*6,351*+*None
+Sunday, Oct 2*boxscore*CIN*None*PIT*W*5*4*None*82-68*4* 6.0*Vander Meer*Tobin*None*1:32*D*14,007*++*None

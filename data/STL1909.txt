@@ -1,0 +1,154 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 15*boxscore*STL*@*CHC*L*4*10*None*0-2*8* 2.0*Pfiester*Beebe*Brown*None*D*None*--*None
+Friday, Apr 16*boxscore*STL*@*CHC*W*3*1*None*1-2*6* 1.5*Sallee*Hagerman*None*None*D*None*+*None
+Saturday, Apr 17*boxscore*STL*@*CHC*W*4*1*None*2-2*4* 1.5*Rhodes*Reulbach*None*None*D*None*++*None
+Sunday, Apr 18*boxscore*STL*@*CIN*L*3*5*None*2-3*4* 2.0*Campbell*Lush*None*None*D*None*-*None
+Monday, Apr 19*boxscore*STL*@*CIN*L*2*3*None*2-4*7* 3.0*Fromme*Beebe*None*None*D*None*--*None
+Wednesday, Apr 21*boxscore*STL*@*CIN*W*9*5*None*3-4*4* 2.0*Rhodes*Karger*Beebe*None*D*None*+*None
+Thursday, Apr 22*boxscore*STL*None*CHC*L*3*7*None*3-5*6* 3.0*Overall*Sallee*Brown*1:45*D*15,000*-*None
+Friday, Apr 23*boxscore*STL*None*CHC*W*6*3*None*4-5*4* 2.5*Lush*Lundgren*None*1:55*D*None*+*None
+Saturday, Apr 24*boxscore*STL*None*CHC*L*1*5*None*4-6*7* 3.5*Brown*Beebe*None*1:45*D*None*-*None
+Sunday, Apr 25*boxscore*STL*None*CHC*L*4*5*None*4-7*8* 3.5*Pfiester*Rhodes*Overall*2:08*D*None*--*None
+Monday, Apr 26*boxscore*STL*None*PIT*L*3*4*12*4-8*8* 3.5*Leifield*More*Phillippe*2:14*D*None*---*None
+Tuesday, Apr 27*boxscore*STL*None*PIT*L*6*7*None*4-9*8* 4.0*Adams*Lush*None*2:05*D*None*----*None
+Wednesday, Apr 28*boxscore*STL*None*PIT*W*8*2*None*5-9*8* 3.5*Beebe*Maddox*None*1:53*D*None*+*None
+Saturday, May 1*boxscore*STL*None*CIN*L*7*8*None*5-10*8* 4.0*Gaspar*More*None*4:08*D*None*-*None
+Sunday, May 2*boxscore*STL*None*CIN*W*5*4*None*6-10*8* 4.0*Beebe*Campbell*None*1:55*D*None*+*None
+Sunday, May 2*boxscore*STL*None*CIN*L*8*13*7*6-11*8* 4.0*Campbell*More*None*1:55*D*None*-*1909-04-30 (Rain)
+Monday, May 3*boxscore*STL*None*CIN*W*5*3*None*7-11*8* 3.5*Higginbotham*Fromme*None*1:30*D*None*+*None
+Wednesday, May 5*boxscore*STL*@*PIT*L*5*6*None*7-12*8* 4.5*Phillippe*Lush*None*2:00*D*4,515*-*None
+Thursday, May 6*boxscore*STL*@*PIT*L*5*6*11*7-13*8* 5.5*Camnitz*Sallee*None*2:00*D*4,554*--*None
+Friday, May 7*boxscore*STL*@*PIT*L*3*5*None*7-14*8* 6.5*Willis*Sallee*None*1:45*D*8,902*---*None
+Saturday, May 8*boxscore*STL*@*PIT*W*8*0*None*8-14*8* 5.5*Lush*Adams*None*1:55*D*9,865*+*None
+Sunday, May 9*boxscore*STL*@*CHC*W*5*2*None*9-14*8* 5.0*Rhodes*Reulbach*None*None*D*None*++*None
+Tuesday, May 11*boxscore*STL*@*BRO*L*1*2*None*9-15*8* 6.0*McIntire*Sallee*None*None*D*None*-*None
+Wednesday, May 12*boxscore*STL*@*BRO*W*10*0*None*10-15*8* 5.0*Beebe*Wilhelm*None*None*D*None*+*None
+Thursday, May 13*boxscore*STL*@*BRO*L*1*2*None*10-16*8* 6.0*Rucker*Lush*None*None*D*None*-*None
+Friday, May 14*boxscore*STL*@*BRO*L*4*10*None*10-17*8* 6.0*Bell*Rhodes*None*None*D*None*--*None
+Saturday, May 15*boxscore*STL*@*BSN*W*5*3*None*11-17*8* 6.0*Sallee*Mattern*None*2:05*D*6,594*+*None
+Monday, May 17*boxscore*STL*@*BSN*W*6*1*None*12-17*8* 6.0*Lush*Dorner*None*1:52*D*1,037*++*None
+Tuesday, May 18*boxscore*STL*@*BSN*W*3*1*None*13-17*7* 6.0*Beebe*Ferguson*None*1:50*D*1,175*+++*None
+Wednesday, May 19*boxscore*STL*@*BSN*W*2*0*None*14-17*6* 5.0*Sallee*Tuckey*None*1:38*D*1,632*++++*None
+Thursday, May 20*boxscore*STL*@*PHI*L*1*5*None*14-18*7* 5.0*Moore*Rhodes*None*2:05*D*2,443*-*None
+Monday, May 24*boxscore*STL*@*NYG*W*3*1*None*15-18*6* 5.0*Lush*Mathewson*None*None*D*None*+*None
+Tuesday, May 25*boxscore*STL*@*NYG*L*0*1*None*15-19*7* 6.0*Raymond*Sallee*None*None*D*None*-*None
+Wednesday, May 26*boxscore*STL*@*NYG*L*2*8*None*15-20*7* 7.0*Wiltse*Beebe*None*None*D*None*--*None
+Saturday, May 29*boxscore*STL*@*CIN*W*4*2*None*16-20*7* 7.5*Beebe*Fromme*None*None*D*None*+*None
+Saturday, May 29*boxscore*STL*@*CIN*L*2*11*None*16-21*7* 7.5*Campbell*Rhodes*Chappelle*None*D*None*-*1909-04-20 (Rain)
+Sunday, May 30*boxscore*STL*@*CIN*W*12*2*None*17-21*7* 7.5*Sallee*Ewing*None*None*D*None*+*None
+Monday, May 31*boxscore*STL*@*PIT*L*4*5*None*17-22*7* 9.5*Adams*Lush*None*1:40*D*None*-*None
+Monday, May 31*boxscore*STL*@*PIT*L*2*4*None*17-23*7* 9.5*Adams*Rhodes*None*1:45*D*None*--*None
+Saturday, Jun 5*boxscore*STL*None*NYG*L*7*8*None*17-24*7* 11.5*Crandall*Sallee*Mathewson*2:32*D*10,000*---*None
+Sunday, Jun 6*boxscore*STL*None*NYG*L*1*12*None*17-25*7* 12.0*Wiltse*Lush*None*1:44*D*None*----*None
+Monday, Jun 7*boxscore*STL*None*BRO*L*0*2*None*17-26*7* 13.0*Bell*Beebe*None*2:23*D*None*-----*None
+Tuesday, Jun 8*boxscore*STL*None*BRO*W*7*1*None*18-26*7* 13.0*More*McIntire*None*None*D*None*+*None
+Wednesday, Jun 9*boxscore*STL*None*BRO*W*4*3*None*19-26*6* 13.0*Beebe*Rucker*None*1:54*D*None*++*None
+Friday, Jun 11*boxscore*STL*None*PHI*L*0*4*None*19-27*6* 14.0*Moore*Lush*None*1:38*D*None*-*None
+Saturday, Jun 12*boxscore*STL*None*PHI*L*2*3*None*19-28*6* 15.0*Moren*Sallee*None*1:45*D*None*--*None
+Sunday, Jun 13*boxscore*STL*None*PHI*L*4*10*None*19-29*6* 15.5*Richie*Beebe*None*2:04*D*None*---*None
+Monday, Jun 14*boxscore*STL*None*PHI*L*1*7*None*19-30*6* 16.5*Moore*More*None*1:50*D*None*----*None
+Wednesday, Jun 16*boxscore*STL*None*BSN*W*6*3*None*20-30*6* 16.0*Sallee*Mattern*None*2:01*D*None*+*None
+Thursday, Jun 17*boxscore*STL*None*BSN*W*4*3*None*21-30*6* 15.5*Lush*White*None*1:34*D*None*++*None
+Saturday, Jun 19*boxscore*STL*None*BSN*W*6*4*None*22-30*6* 16.0*Sallee*Lindaman*None*1:30*D*None*+++*None
+Sunday, Jun 20*boxscore*STL*None*BSN*W*8*3*None*23-30*6* 15.5*Lush*Ferguson*None*1:24*D*2,700*++++*None
+Wednesday, Jun 23*boxscore*STL*None*PIT*L*1*3*None*23-31*6* 17.0*Willis*Beebe*None*1:49*D*None*-*None
+Thursday, Jun 24*boxscore*STL*None*PIT*L*2*3*None*23-32*6* 18.0*Camnitz*Harmon*None*1:57*D*None*--*None
+Saturday, Jun 26*boxscore*STL*None*PIT*L*5*6*11*23-33*6* 19.0*Adams*More*Leifield*2:21*D*None*---*None
+Sunday, Jun 27*boxscore*STL*None*PIT*W*8*5*None*24-33*6* 19.0*Lush*Leifield*None*2:10*D*None*+*None
+Sunday, Jun 27*boxscore*STL*None*PIT*L*1*7*None*24-34*6* 19.0*Willis*Beebe*None*2:04*D*None*-*1909-06-22 (Funeral of George Dovey (BSN President))
+Wednesday, Jun 30*boxscore*STL*None*CIN*L*2*3*None*24-35*6* 20.0*Fromme*Harmon*None*1:56*D*None*--*None
+Friday, Jul 2*boxscore*STL*None*CIN*W*5*4*10*25-35*6* 19.5*Beebe*Fromme*None*2:02*D*None*+*None
+Saturday, Jul 3*boxscore*STL*None*CIN*L*2*10*None*25-36*6* 20.0*Ewing*Backman*Dubuc*2:10*D*None*-*None
+Saturday, Jul 3*boxscore*STL*None*CIN*L*7*13*None*25-37*6* 20.0*Gaspar*Lush*Dubuc*2:13*D*None*--*1909-07-01 (Funeral of Israel W. Durham (PHI president))
+Sunday, Jul 4*boxscore*STL*@*CHC*W*3*2*None*26-37*6* 19.0*Sallee*Pfiester*None*None*D*None*+*None
+Tuesday, Jul 6*boxscore*STL*@*CHC*L*1*4*None*26-38*6* 21.0*Higginbotham*Lush*None*None*D*None*-*None
+Thursday, Jul 8*boxscore*STL*@*BSN*L*6*10*None*26-39*6* 21.5*White*Sallee*None*2:10*D*1,646*--*None
+Friday, Jul 9*boxscore*STL*@*BSN*L*3*4*None*26-40*6* 23.0*Mattern*Beebe*None*1:52*D*1,506*---*None
+Saturday, Jul 10*boxscore*STL*@*BSN*W*6*0*None*27-40*6* 23.0*Lush*Ferguson*None*1:50*D*4,099*+*None
+Monday, Jul 12*boxscore*STL*@*BSN*L*3*4*None*27-41*6* 23.5*Ferguson*Sallee*None*1:45*D*1,523*-*None
+Tuesday, Jul 13*boxscore*STL*@*PHI*W*3*1*None*28-41*6* 23.5*Beebe*Moren*None*1:35*D*1,406*+*None
+Wednesday, Jul 14*boxscore*STL*@*PHI*W*6*4*11*29-41*5* 23.0*Harmon*Coveleski*None*2:40*D*3,817*++*None
+Wednesday, Jul 14*boxscore*STL*@*PHI*W*11*2*8*30-41*5* 23.0*Lush*Sparks*None*1:50*D*None*+++*1909-05-21 (Rain)
+Thursday, Jul 15*boxscore*STL*@*PHI*L*4*6*None*30-42*6* 23.5*Corridon*Backman*Richie*1:50*D*2,814*-*None
+Thursday, Jul 15*boxscore*STL*@*PHI*L*6*7*14*30-43*6* 23.5*Moren*Beebe*None*2:55*D*None*--*1909-05-22 (Rain)
+Saturday, Jul 17*boxscore*STL*@*NYG*W*7*1*None*31-43*6* 23.5*Sallee*Wiltse*None*None*D*None*+*None
+Monday, Jul 19*boxscore*STL*@*NYG*W*4*3*16*32-43*6* 24.0*Harmon*Raymond*None*None*D*None*++*None
+Monday, Jul 19*boxscore*STL*@*NYG*L*0*3*7*32-44*6* 24.0*Ames*Backman*None*None*D*None*-*1909-05-27 (Rain)
+Tuesday, Jul 20*boxscore*STL*@*NYG*W*4*3*11*33-44*6* 23.0*Sallee*Crandall*None*None*D*None*+*None
+Wednesday, Jul 21*boxscore*STL*@*NYG*L*7*11*None*33-45*6* 23.0*Raymond*Beebe*None*None*D*None*-*None
+Saturday, Jul 24*boxscore*STL*@*BRO*L*0*1*None*33-46*6* 25.5*Bell*Harmon*None*None*D*None*--*None
+Saturday, Jul 24*boxscore*STL*@*BRO*L*0*1*None*33-47*6* 25.5*Rucker*Backman*None*None*D*None*---*1909-07-22 (Rain)
+Sunday, Jul 25*boxscore*STL*@*CIN*W*7*4*12*34-47*6* 25.0*Beebe*Castleton*None*None*D*None*+*None
+Tuesday, Jul 27*boxscore*STL*None*CHC*T*4*4*12*34-47*6* 25.0*None*None*None*2:42*D*None*+*None
+Wednesday, Jul 28*boxscore*STL*None*CHC*L*1*6*None*34-48*6* 25.5*Reulbach*Lowdermilk*None*1:55*D*None*-*None
+Wednesday, Jul 28*boxscore*STL*None*CHC*W*5*4*None*35-48*6* 25.5*Backman*Higginbotham*None*1:51*D*None*+*1909-07-26 (Rain)
+Thursday, Jul 29*boxscore*STL*None*CHC*L*3*6*None*35-49*6* 26.5*Brown*Beebe*None*1:56*D*None*-*None
+Friday, Jul 30*boxscore*STL*None*BSN*W*3*2*None*36-49*6* 26.5*Sallee*Richie*Melter*1:54*D*None*+*None
+Saturday, Jul 31*boxscore*STL*None*BSN*W*3*2*None*37-49*6* 25.5*Harmon*Ferguson*None*2:01*D*None*++*None
+Sunday, Aug 1*boxscore*STL*None*BSN*L*4*10*None*37-50*6* 26.0*Mattern*Backman*Richie*2:05*D*None*-*None
+Tuesday, Aug 3*boxscore*STL*None*PHI*W*5*1*None*38-50*6* 26.0*Beebe*Sparks*None*1:50*D*None*+*None
+Wednesday, Aug 4*boxscore*STL*None*PHI*L*1*4*None*38-51*6* 26.0*Corridon*Raleigh*None*1:52*D*None*-*None
+Thursday, Aug 5*boxscore*STL*None*PHI*W*2*1*None*39-51*6* 25.0*Backman*McQuillan*None*1:39*D*None*+*None
+Friday, Aug 6*boxscore*STL*None*PHI*W*3*0*None*40-51*5* 25.0*Lush*Moore*Beebe*1:36*D*None*++*None
+Saturday, Aug 7*boxscore*STL*None*NYG*L*1*7*None*40-52*6* 26.5*Mathewson*Beebe*None*1:45*D*None*-*None
+Sunday, Aug 8*boxscore*STL*None*NYG*L*0*3*None*40-53*6* 27.0*Wiltse*Raleigh*None*1:42*D*15,000*--*None
+Monday, Aug 9*boxscore*STL*None*NYG*L*3*4*10*40-54*6* 28.0*Crandall*Backman*None*2:14*D*None*---*None
+Tuesday, Aug 10*boxscore*STL*None*NYG*L*5*6*None*40-55*6* 29.0*Ames*Lush*None*2:01*D*None*----*None
+Wednesday, Aug 11*boxscore*STL*None*NYG*L*3*19*None*40-56*6* 30.0*Crandall*Raleigh*None*2:17*D*None*-----*None
+Thursday, Aug 12*boxscore*STL*None*BRO*T*6*6*12*40-56*6* 30.0*None*None*None*2:52*D*None*-----*None
+Friday, Aug 13*boxscore*STL*None*BRO*W*5*4*None*41-56*6* 30.0*Beebe*Bell*None*1:53*D*None*+*None
+Saturday, Aug 14*boxscore*STL*None*BRO*W*4*3*None*42-56*6* 29.0*Backman*Hunter*None*1:47*D*None*++*None
+Sunday, Aug 15*boxscore*STL*None*BRO*L*3*9*None*42-57*6* 29.0*Rucker*Sallee*None*2:01*D*None*-*None
+Sunday, Aug 15*boxscore*STL*None*BRO*W*6*2*None*43-57*6* 29.0*Lush*Scanlan*None*2:08*D*None*+*None
+Tuesday, Aug 17*boxscore*STL*@*PIT*L*8*11*8*43-58*6* 30.0*Leever*Beebe*None*1:50*D*8,010*-*None
+Wednesday, Aug 18*boxscore*STL*@*PIT*L*3*6*None*43-59*6* 32.0*Adams*Backman*None*1:35*D*4,847*--*None
+Wednesday, Aug 18*boxscore*STL*@*PIT*L*1*2*None*43-60*6* 32.0*Camnitz*Raleigh*None*1:20*D*None*---*1909-06-01 (Rain)
+Thursday, Aug 19*boxscore*STL*@*PIT*L*3*8*None*43-61*6* 33.0*Willis*Lush*None*1:50*D*3,650*----*None
+Friday, Aug 20*boxscore*STL*@*BRO*W*3*1*11*44-61*6* 33.0*Beebe*Rucker*None*None*D*None*+*None
+Saturday, Aug 21*boxscore*STL*@*BRO*L*0*1*13*44-62*6* 33.5*Scanlan*Backman*None*None*D*None*-*None
+Saturday, Aug 21*boxscore*STL*@*BRO*L*3*6*None*44-63*6* 33.5*McIntire*Harmon*None*None*D*None*--*None
+Monday, Aug 23*boxscore*STL*@*BRO*L*0*7*None*44-64*6* 34.0*Bell*Raleigh*None*None*D*None*---*None
+Monday, Aug 23*boxscore*STL*@*BRO*W*9*1*None*45-64*6* 34.0*Beebe*Pastorius*None*None*D*None*+*1909-07-23 (Rain)
+Tuesday, Aug 24*boxscore*STL*@*BSN*L*1*3*None*45-65*6* 34.5*Brown*Lush*Mattern*1:42*D*1,067*-*None
+Wednesday, Aug 25*boxscore*STL*@*BSN*L*8*9*None*45-66*6* 34.5*More*Sallee*Mattern*2:14*D*1,146*--*None
+Thursday, Aug 26*boxscore*STL*@*BSN*L*8*10*None*45-67*6* 35.5*Mattern*Harmon*Richie*2:35*D*830*---*None
+Friday, Aug 27*boxscore*STL*@*PHI*L*3*13*None*45-68*6* 36.5*McQuillan*Beebe*Scanlan*2:15*D*2,178*----*None
+Saturday, Aug 28*boxscore*STL*@*PHI*L*4*5*None*45-69*6* 38.5*Sparks*Lush*None*2:12*D*8,000*-----*None
+Saturday, Aug 28*boxscore*STL*@*PHI*L*0*6*None*45-70*6* 38.5*Moren*Backman*None*1:40*D*None*------*1909-07-16 (Rain)
+Monday, Aug 30*boxscore*STL*@*PHI*L*2*3*None*45-71*6* 39.5*Moore*Harmon*None*1:45*D*2,268*-------*None
+Tuesday, Aug 31*boxscore*STL*@*PHI*L*6*11*None*45-72*6* 40.5*McQuillan*Beebe*None*2:00*D*2,000*--------*None
+Wednesday, Sep 1*boxscore*STL*@*NYG*L*6*9*None*45-73*6* 41.0*Raymond*Lush*Crandall*None*D*None*---------*None
+Thursday, Sep 2*boxscore*STL*@*NYG*W*5*2*None*46-73*6* 40.5*Raleigh*Marquard*Beebe*None*D*None*+*None
+Friday, Sep 3*boxscore*STL*@*NYG*L*4*7*None*46-74*6* 41.0*Ames*Harmon*None*None*D*None*-*None
+Saturday, Sep 4*boxscore*STL*@*PIT*L*0*4*None*46-75*6* 42.0*Maddox*Lush*None*1:30*D*5,485*--*None
+Sunday, Sep 5*boxscore*STL*@*CIN*W*6*3*None*47-75*6* 42.0*Beebe*Rowan*None*None*D*None*+*None
+Monday, Sep 6*boxscore*STL*None*CIN*L*1*6*None*47-76*6* 42.0*Spade*Harmon*None*1:57*D*None*-*None
+Monday, Sep 6*boxscore*STL*None*CIN*L*5*6*None*47-77*6* 42.0*Ewing*Backman*None*1:55*D*None*--*None
+Thursday, Sep 9*boxscore*STL*@*CHC*L*1*2*None*47-78*6* 43.0*Overall*Lush*None*None*D*None*---*1909-07-05 (Wet grounds)
+Friday, Sep 10*boxscore*STL*@*CHC*L*1*3*None*47-79*6* 44.5*Reulbach*Beebe*None*None*D*None*----*1909-07-05 (Wet grounds)
+Friday, Sep 10*boxscore*STL*@*CHC*L*3*9*None*47-80*6* 44.5*Higginbotham*Harmon*None*None*D*None*-----*None
+Saturday, Sep 11*boxscore*STL*@*CHC*L*4*10*None*47-81*6* 45.5*Brown*Backman*None*None*D*None*------*None
+Sunday, Sep 12*boxscore*STL*None*PIT*L*3*4*None*47-82*6* 46.5*Leifield*Lush*None*1:57*D*None*-------*None
+Monday, Sep 13*boxscore*STL*None*PIT*L*1*4*None*47-83*6* 47.5*Leever*Raleigh*None*1:35*D*None*--------*None
+Saturday, Sep 18*boxscore*STL*None*PHI*L*2*7*None*47-84*6* 50.0*Moren*Beebe*None*2:05*D*None*---------*None
+Sunday, Sep 19*boxscore*STL*None*PHI*L*2*4*None*47-85*6* 50.5*Corridon*Harmon*None*1:58*D*None*----------*None
+Monday, Sep 20*boxscore*STL*None*PHI*L*0*2*None*47-86*6* 51.5*McQuillan*Higgins*None*1:25*D*None*-----------*None
+Wednesday, Sep 22*boxscore*STL*None*NYG*L*3*4*None*47-87*6* 53.5*Mathewson*Beebe*None*1:51*D*None*------------*None
+Thursday, Sep 23*boxscore*STL*None*NYG*L*0*5*None*47-88*7* 54.5*Wiltse*Raleigh*None*1:55*D*None*-------------*None
+Thursday, Sep 23*boxscore*STL*None*NYG*L*5*12*8*47-89*7* 54.5*Marquard*Melter*None*2:17*D*None*--------------*1909-06-04 (Rain)
+Friday, Sep 24*boxscore*STL*None*BRO*L*6*12*None*47-90*7* 55.5*Rucker*Harmon*None*2:17*D*None*---------------*None
+Saturday, Sep 25*boxscore*STL*None*BRO*W*12*4*None*48-90*7* 55.5*Beebe*Dent*Melter*1:51*D*None*+*None
+Sunday, Sep 26*boxscore*STL*None*BRO*W*4*3*10*49-90*7* 55.5*Higgins*Hunter*None*2:18*D*None*++*None
+Sunday, Sep 26*boxscore*STL*None*BRO*L*0*1*8*49-91*7* 55.5*Scanlan*Higgins*None*1:53*D*None*-*None
+Tuesday, Sep 28*boxscore*STL*None*BSN*L*1*2*None*49-92*6* 55.0*Richie*Raleigh*None*1:30*D*None*--*None
+Tuesday, Sep 28*boxscore*STL*None*BSN*W*7*3*None*50-92*6* 55.0*Harmon*Mattern*None*1:52*D*None*+*1909-08-02 (Funeral of Harry Pulliam (NL President))
+Wednesday, Sep 29*boxscore*STL*None*BSN*W*2*1*None*51-92*6* 54.0*Higgins*Curtis*None*1:49*D*None*++*None
+Thursday, Sep 30*boxscore*STL*None*BSN*L*2*4*None*51-93*6* 54.5*Mattern*Raleigh*None*1:25*D*None*-*None
+Friday, Oct 1*boxscore*STL*@*CIN*L*5*6*None*51-94*6* 55.0*Gaspar*Lowdermilk*None*None*D*None*--*None
+Saturday, Oct 2*boxscore*STL*@*CIN*W*8*3*None*52-94*6* 54.0*Harmon*Spade*None*None*D*None*+*None
+Sunday, Oct 3*boxscore*STL*@*CIN*L*4*6*None*52-95*6* 54.5*Fromme*Beebe*None*None*D*None*-*None
+Sunday, Oct 3*boxscore*STL*@*CIN*W*8*1*6*53-95*6* 54.5*Higgins*Griffith*None*None*D*None*+*1909-09-07 (Rain; Site change)
+Tuesday, Oct 5*boxscore*STL*None*CHC*L*1*6*None*53-96*6* 55.0*Pfiester*Raleigh*None*1:50*D*None*-*None
+Tuesday, Oct 5*boxscore*STL*None*CHC*W*4*3*None*54-96*6* 55.0*Harmon*Hagerman*Melter*1:35*D*None*+*None
+Wednesday, Oct 6*boxscore*STL*None*CHC*L*0*8*None*54-97*6* 56.0*Cole*Higgins*None*1:37*D*None*-*None
+Wednesday, Oct 6*boxscore*STL*None*CHC*L*1*5*None*54-98*6* 56.0*Schwenck*Beebe*Reulbach*1:44*D*None*--*1909-10-07 (Schedule change)

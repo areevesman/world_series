@@ -1,0 +1,126 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Tuesday, Apr 16*boxscore*NYY*@*WSH*L*6*7*None*1-1*3* 1.0*Dumont*Russell*None*2:15*D*None*-*None
+Wednesday, Apr 17*boxscore*NYY*@*WSH*W*8*7*12*2-1*2* 1.0*Mogridge*Johnson*None*3:05*D*None*+*None
+Friday, Apr 19*boxscore*NYY*@*BOS*L*1*2*None*2-2*6* 3.0*Bush*Russell*None*None*D*None*-*None
+Friday, Apr 19*boxscore*NYY*@*BOS*L*5*9*None*2-3*6* 3.0*Ruth*Thormahlen*None*None*D*None*--*None
+Saturday, Apr 20*boxscore*NYY*@*BOS*L*3*4*None*2-4*7* 4.0*Mays*Love*None*None*D*8,000*---*None
+Monday, Apr 22*boxscore*NYY*@*BOS*W*11*4*None*3-4*4* 3.0*Mogridge*Leonard*None*None*D*None*+*None
+Tuesday, Apr 23*boxscore*NYY*@*BOS*L*0*1*None*3-5*5* 4.0*Bush*Thormahlen*None*None*D*None*-*None
+Wednesday, Apr 24*boxscore*NYY*None*WSH*W*5*4*None*4-5*4* 3.0*Russell*Ayers*Love*None*D*8,000*+*None
+Thursday, Apr 25*boxscore*NYY*None*WSH*L*5*7*None*4-6*5* 4.0*Yingling*Mogridge*None*None*D*None*-*None
+Friday, Apr 26*boxscore*NYY*None*WSH*L*4*9*None*4-7*6* 5.0*Johnson*McGraw*None*None*D*None*--*None
+Saturday, Apr 27*boxscore*NYY*None*WSH*W*2*1*None*5-7*5* 5.0*Russell*Shaw*None*None*D*None*+*None
+Tuesday, Apr 30*boxscore*NYY*None*PHA*W*2*0*None*6-7*4* 5.0*Love*Gregg*None*None*D*None*++*None
+Thursday, May 2*boxscore*NYY*None*PHA*L*5*7*None*6-8*4* 5.5*Adams*Russell*Geary*None*D*None*-*None
+Friday, May 3*boxscore*NYY*None*BOS*W*3*2*11*7-8*4* 4.5*Love*Bush*None*None*D*None*+*None
+Saturday, May 4*boxscore*NYY*None*BOS*W*5*4*None*8-8*4* 3.5*Russell*Ruth*None*None*D*None*++*None
+Monday, May 6*boxscore*NYY*None*BOS*W*10*3*None*9-8*3* 2.5*Mogridge*Mays*None*None*D*None*+++*None
+Tuesday, May 7*boxscore*NYY*@*PHA*W*9*1*None*10-8*3* 1.5*Love*Myers*None*None*D*None*++++*None
+Wednesday, May 8*boxscore*NYY*@*PHA*L*2*5*None*10-9*3* 1.5*Perry*Caldwell*None*None*D*None*-*None
+Thursday, May 9*boxscore*NYY*@*PHA*W*7*3*None*11-9*3* 0.5*Thormahlen*Gregg*None*None*D*None*+*None
+Friday, May 10*boxscore*NYY*None*DET*L*3*5*None*11-10*4* 1.5*Dauss*Mogridge*None*None*D*None*-*None
+Saturday, May 11*boxscore*NYY*None*DET*W*6*5*None*12-10*3* 0.5*Love*James*Russell*None*D*None*+*None
+Monday, May 13*boxscore*NYY*None*DET*W*3*2*None*13-10*2* 0.5*Russell*Erickson*Mogridge*None*D*None*++*None
+Wednesday, May 15*boxscore*NYY*None*SLB*L*4*5*12*13-11*2* 1.5*Shocker*Caldwell*None*None*D*None*-*None
+Thursday, May 16*boxscore*NYY*None*SLB*W*1*0*None*14-11*2* 1.5*Thormahlen*Gallia*None*None*D*None*+*None
+Friday, May 17*boxscore*NYY*None*SLB*W*4*2*None*15-11*2* 1.5*Russell*Sothoron*None*None*D*None*++*None
+Saturday, May 18*boxscore*NYY*None*SLB*L*5*6*None*15-12*2* 2.5*Rogers*Mogridge*Shocker*None*D*None*-*None
+Monday, May 20*boxscore*NYY*None*CHW*L*2*6*None*15-13*3* 3.5*Williams*Love*None*None*D*None*--*None
+Wednesday, May 22*boxscore*NYY*None*CHW*W*1*0*14*16-13*2* 2.5*Thormahlen*Cicotte*None*None*D*None*+*None
+Friday, May 24*boxscore*NYY*None*CLE*L*2*3*19*16-14*4* 3.0*Coveleski*Mogridge*None*None*D*None*-*None
+Saturday, May 25*boxscore*NYY*None*CLE*W*2*1*None*17-14*2* 3.0*Love*Bagby*None*None*D*None*+*None
+Sunday, May 26*boxscore*NYY*@*CLE*W*9*3*None*18-14*2* 2.5*Caldwell*Enzmann*None*None*D*None*++*None
+Monday, May 27*boxscore*NYY*None*CLE*W*7*1*None*19-14*2* 1.5*Thormahlen*Morton*None*None*D*None*+++*None
+Tuesday, May 28*boxscore*NYY*None*CLE*L*2*3*None*19-15*2* 2.5*Bagby*Russell*None*None*D*None*-*None
+Wednesday, May 29*boxscore*NYY*None*PHA*W*7*2*None*20-15*2* 2.5*Love*Geary*None*None*D*None*+*None
+Wednesday, May 29*boxscore*NYY*None*PHA*W*12*2*None*21-15*2* 2.5*Finneran*Myers*Mogridge*None*D*None*++*1918-04-29 (Wet grounds)
+Thursday, May 30*boxscore*NYY*None*PHA*W*2*1*None*22-15*2* 2.0*Caldwell*Gregg*None*None*D*None*+++*None
+Saturday, Jun 1*boxscore*NYY*@*CHW*W*6*3*None*23-15*2* 1.0*Thormahlen*Williams*Russell*None*D*None*++++*None
+Sunday, Jun 2*boxscore*NYY*@*CHW*L*2*6*None*23-16*2* 1.0*Shellenback*Love*None*None*D*None*-*None
+Monday, Jun 3*boxscore*NYY*@*CHW*L*2*9*None*23-17*2* 2.0*Cicotte*Russell*None*None*D*None*--*None
+Tuesday, Jun 4*boxscore*NYY*@*CHW*L*4*5*None*23-18*2* 3.0*Danforth*Caldwell*None*None*D*None*---*None
+Wednesday, Jun 5*boxscore*NYY*@*SLB*W*5*2*None*24-18*2* 2.0*Love*Lowdermilk*Russell*None*D*None*+*None
+Thursday, Jun 6*boxscore*NYY*@*SLB*W*5*2*10*25-18*2* 2.0*Mogridge*Rogers*None*None*D*None*++*None
+Friday, Jun 7*boxscore*NYY*@*SLB*W*1*0*None*26-18*2* 1.0*Russell*Shocker*None*None*D*None*+++*None
+Saturday, Jun 8*boxscore*NYY*@*SLB*W*4*3*None*27-18*1* Tied*Thormahlen*Davenport*None*None*D*None*++++*None
+Sunday, Jun 9*boxscore*NYY*@*SLB*L*4*5*12*27-19*2* 1.0*Shocker*Mogridge*None*None*D*None*-*None
+Tuesday, Jun 11*boxscore*NYY*@*CLE*L*3*4*12*27-20*2* 1.5*Bagby*Caldwell*None*None*D*None*--*None
+Wednesday, Jun 12*boxscore*NYY*@*CLE*L*5*7*None*27-21*2* 2.5*Morton*Russell*None*None*D*None*---*None
+Thursday, Jun 13*boxscore*NYY*@*CLE*W*3*2*10*28-21*2* 2.5*Mogridge*Coveleski*None*None*D*None*+*None
+Friday, Jun 14*boxscore*NYY*@*DET*W*11*6*None*29-21*2* 1.5*Thormahlen*Dauss*Mogridge*None*D*None*++*None
+Saturday, Jun 15*boxscore*NYY*@*DET*L*0*4*None*29-22*2* 2.5*Kallio*Russell*None*None*D*None*-*None
+Sunday, Jun 16*boxscore*NYY*@*DET*W*5*2*None*30-22*2* 1.5*Caldwell*Erickson*Mogridge*None*D*None*+*None
+Monday, Jun 17*boxscore*NYY*@*DET*T*5*5*8*30-22*2* 2.0*None*None*None*None*D*None*+*None
+Wednesday, Jun 19*boxscore*NYY*None*WSH*W*9*0*None*31-22*2* 1.0*Russell*Shaw*None*None*D*None*++*None
+Thursday, Jun 20*boxscore*NYY*None*WSH*L*1*4*None*31-23*2* 1.5*Harper*Finneran*None*None*D*None*-*None
+Friday, Jun 21*boxscore*NYY*None*WSH*L*2*3*13*31-24*2* 2.5*Johnson*Russell*None*None*D*None*--*None
+Saturday, Jun 22*boxscore*NYY*None*WSH*W*5*3*None*32-24*2* 2.0*Caldwell*Altrock*None*None*D*None*+*None
+Monday, Jun 24*boxscore*NYY*None*BOS*W*3*2*None*33-24*2* 1.0*Mogridge*Bush*None*None*D*None*++*None
+Tuesday, Jun 25*boxscore*NYY*None*BOS*L*3*7*None*33-25*2* 2.0*Jones*Russell*None*None*D*None*-*None
+Wednesday, Jun 26*boxscore*NYY*None*BOS*W*3*1*None*34-25*2* 1.0*Love*Mays*None*None*D*None*+*None
+Thursday, Jun 27*boxscore*NYY*None*BOS*W*7*5*None*35-25*1* Tied*Mogridge*Bush*Caldwell*None*D*None*++*None
+Friday, Jun 28*boxscore*NYY*@*PHA*W*10*2*None*36-25*1*up 1.0*Finneran*Gregg*None*None*D*None*+++*None
+Saturday, Jun 29*boxscore*NYY*@*PHA*L*1*2*None*36-26*1* Tied*Perry*Shawkey*None*None*D*None*-*None
+Monday, Jul 1*boxscore*NYY*@*PHA*W*9*2*None*37-26*1* Tied*Caldwell*Gregg*None*None*D*None*+*None
+Tuesday, Jul 2*boxscore*NYY*@*PHA*L*0*5*None*37-27*1* Tied*Geary*Love*None*None*D*None*-*None
+Wednesday, Jul 3*boxscore*NYY*@*WSH*L*3*4*None*37-28*1* Tied*Shaw*Russell*None*1:59*D*None*--*None
+Thursday, Jul 4*boxscore*NYY*@*WSH*W*7*0*None*38-28*2* 1.0*Shawkey*Ayers*None*1:55*D*5,378*+*None
+Thursday, Jul 4*boxscore*NYY*@*WSH*L*3*4*None*38-29*2* 1.0*Johnson*Caldwell*None*1:52*D*10,000*-*None
+Friday, Jul 5*boxscore*NYY*@*WSH*L*1*2*None*38-30*3* 1.5*Shaw*Mogridge*None*1:35*D*None*--*None
+Saturday, Jul 6*boxscore*NYY*None*CHW*W*3*1*None*39-30*3* 1.5*Love*Cicotte*None*None*D*None*+*None
+Saturday, Jul 6*boxscore*NYY*None*CHW*L*2*3*None*39-31*3* 1.5*Russell*Robinson*None*None*D*None*-*1918-05-21 (Wet grounds)
+Monday, Jul 8*boxscore*NYY*None*CHW*W*6*5*None*40-31*3* 1.0*Finneran*Danforth*None*None*D*None*+*None
+Tuesday, Jul 9*boxscore*NYY*None*CHW*W*6*4*None*41-31*2* 1.5*Caldwell*Cicotte*None*None*D*None*++*None
+Tuesday, Jul 9*boxscore*NYY*None*CHW*L*3*4*10*41-32*2* 1.5*Benz*Robinson*None*None*D*None*-*1918-05-23 (Wet grounds)
+Wednesday, Jul 10*boxscore*NYY*None*CHW*L*4*5*None*41-33*2* 2.5*Russell*Mogridge*Shellenback*None*D*None*--*None
+Thursday, Jul 11*boxscore*NYY*None*CLE*L*0*1*None*41-34*3* 3.5*Coveleski*Finneran*None*None*D*None*---*None
+Friday, Jul 12*boxscore*NYY*None*CLE*W*6*1*None*42-34*2* 3.5*Mogridge*Morton*None*None*D*None*+*None
+Saturday, Jul 13*boxscore*NYY*None*CLE*W*4*3*None*43-34*2* 2.5*Love*Coumbe*None*None*D*None*++*None
+Sunday, Jul 14*boxscore*NYY*@*CLE*L*1*7*None*43-35*2* 3.0*Bagby*Russell*None*None*D*None*-*1918-07-25 (Rain)
+Monday, Jul 15*boxscore*NYY*None*CLE*L*3*5*None*43-36*3* 4.0*Coveleski*Finneran*None*None*D*None*--*None
+Tuesday, Jul 16*boxscore*NYY*None*DET*L*1*12*None*43-37*3* 5.5*Dauss*Caldwell*None*None*D*None*---*None
+Tuesday, Jul 16*boxscore*NYY*None*DET*L*1*4*None*43-38*3* 5.5*Boland*Love*None*None*D*None*----*1918-05-14 (Wet grounds)
+Thursday, Jul 18*boxscore*NYY*None*DET*L*1*4*None*43-39*3* 6.0*James*Thormahlen*None*None*D*None*-----*None
+Thursday, Jul 18*boxscore*NYY*None*DET*W*3*2*10*44-39*3* 6.0*Keating*Kallio*None*None*D*None*+*1918-07-17 (Wet grounds)
+Saturday, Jul 20*boxscore*NYY*None*SLB*L*2*5*None*44-40*3* 7.0*Sothoron*Love*None*None*D*None*-*None
+Saturday, Jul 20*boxscore*NYY*None*SLB*W*5*3*None*45-40*3* 7.0*Mogridge*Bennett*None*None*D*None*+*1918-07-19 (Rain)
+Monday, Jul 22*boxscore*NYY*None*SLB*T*4*4*15*45-40*4* 8.0*None*None*None*None*D*None*+*None
+Tuesday, Jul 23*boxscore*NYY*None*SLB*W*4*1*None*46-40*3* 7.5*Mogridge*Davenport*None*None*D*None*++*None
+Friday, Jul 26*boxscore*NYY*@*CLE*L*3*8*None*46-41*4* 7.0*Coveleski*Robinson*None*None*D*None*-*None
+Saturday, Jul 27*boxscore*NYY*@*CLE*L*6*7*10*46-42*4* 8.0*Coumbe*Mogridge*None*None*D*None*--*None
+Sunday, Jul 28*boxscore*NYY*@*CLE*T*2*2*10*46-42*4* 7.5*None*None*None*None*D*None*--*None
+Monday, Jul 29*boxscore*NYY*@*DET*L*2*3*None*46-43*4* 8.5*Dauss*Mogridge*None*None*D*None*---*None
+Tuesday, Jul 30*boxscore*NYY*@*DET*L*0*3*None*46-44*4* 9.5*Boland*Love*None*None*D*None*----*None
+Wednesday, Jul 31*boxscore*NYY*@*DET*W*5*3*None*47-44*4* 10.0*Robinson*Kallio*Mogridge*None*D*None*+*None
+Wednesday, Jul 31*boxscore*NYY*@*DET*L*2*6*None*47-45*4* 10.0*Bailey*Robinson*Cunningham*None*D*None*-*None
+Thursday, Aug 1*boxscore*NYY*@*DET*W*7*0*None*48-45*4* 10.0*Caldwell*Hall*None*None*D*None*+*None
+Friday, Aug 2*boxscore*NYY*@*SLB*L*2*3*None*48-46*4* 10.0*Wright*Mogridge*None*None*D*None*-*None
+Saturday, Aug 3*boxscore*NYY*@*SLB*L*5*8*None*48-47*4* 10.0*Sothoron*Love*Houck*None*D*None*--*None
+Sunday, Aug 4*boxscore*NYY*@*SLB*L*6*7*None*48-48*4* 11.0*Leifield*Mogridge*None*None*D*None*---*None
+Sunday, Aug 4*boxscore*NYY*@*SLB*L*3*5*None*48-49*4* 11.0*Rogers*Caldwell*None*None*D*None*----*1918-08-05 (Schedule change)
+Tuesday, Aug 6*boxscore*NYY*@*CHW*L*4*5*15*48-50*4* 12.0*Quinn*Mogridge*None*None*D*None*-----*None
+Wednesday, Aug 7*boxscore*NYY*@*CHW*L*4*8*None*48-51*5* 12.5*Cicotte*Love*None*None*D*None*------*None
+Wednesday, Aug 7*boxscore*NYY*@*CHW*L*0*4*None*48-52*5* 12.5*Shellenback*Sanders*None*None*D*None*-------*1918-08-08 (Schedule change)
+Saturday, Aug 10*boxscore*NYY*@*BOS*W*5*1*10*49-52*5* 11.0*Mogridge*Bush*None*None*D*None*+*None
+Saturday, Aug 10*boxscore*NYY*@*BOS*W*4*1*None*50-52*5* 11.0*Caldwell*Mays*None*None*D*None*++*1918-08-13 (Schedule change)
+Monday, Aug 12*boxscore*NYY*@*BOS*W*2*1*None*51-52*4* 10.0*Robinson*Ruth*None*None*D*None*+++*None
+Wednesday, Aug 14*boxscore*NYY*None*CLE*L*2*7*None*51-53*4* 11.0*Bagby*Love*None*None*D*None*-*None
+Thursday, Aug 15*boxscore*NYY*None*CLE*W*3*2*None*52-53*4* 10.0*Caldwell*Coveleski*None*None*D*None*+*None
+Friday, Aug 16*boxscore*NYY*None*CLE*L*4*12*None*52-54*4* 11.0*Coumbe*Finneran*None*None*D*None*-*None
+Saturday, Aug 17*boxscore*NYY*None*CHW*L*4*7*None*52-55*4* 11.5*Shellenback*Mogridge*Danforth*None*D*None*--*None
+Saturday, Aug 17*boxscore*NYY*None*CHW*W*7*2*None*53-55*4* 11.5*Love*Danforth*None*None*D*None*+*1918-08-20 (Schedule change)
+Monday, Aug 19*boxscore*NYY*None*CHW*L*1*4*None*53-56*5* 12.5*Quinn*Caldwell*None*None*D*None*-*None
+Wednesday, Aug 21*boxscore*NYY*None*DET*W*5*2*None*54-56*4* 12.0*Mogridge*Dauss*None*None*D*None*+*None
+Thursday, Aug 22*boxscore*NYY*None*DET*W*5*3*None*55-56*4* 11.0*Love*Cunningham*None*None*D*None*++*None
+Saturday, Aug 24*boxscore*NYY*None*DET*L*4*5*None*55-57*4* 12.0*Boland*Finneran*None*None*D*None*-*None
+Saturday, Aug 24*boxscore*NYY*None*DET*W*2*0*None*56-57*4* 12.0*Mogridge*Dauss*None*None*D*None*+*1918-08-23 (Schedule change)
+Monday, Aug 26*boxscore*NYY*None*SLB*L*0*2*None*56-58*4* 12.0*Davenport*Keating*None*None*D*None*-*None
+Tuesday, Aug 27*boxscore*NYY*None*SLB*W*4*2*None*57-58*4* 10.5*Love*Rogers*Mogridge*None*D*None*+*None
+Tuesday, Aug 27*boxscore*NYY*None*SLB*W*7*6*12*58-58*4* 10.5*Mogridge*Houck*None*None*D*None*++*None
+Wednesday, Aug 28*boxscore*NYY*None*SLB*L*2*4*None*58-59*4* 11.5*Davenport*Sanders*None*None*D*None*-*None
+Thursday, Aug 29*boxscore*NYY*@*WSH*W*6*4*None*59-59*4* 11.0*Keating*Harper*Mogridge*1:44*D*None*+*None
+Friday, Aug 30*boxscore*NYY*@*WSH*L*1*6*None*59-60*4* 12.5*Johnson*Finneran*None*1:19*D*None*-*None
+Saturday, Aug 31*boxscore*NYY*@*WSH*L*3*6*None*59-61*4* 13.0*Shaw*Love*None*1:37*D*None*--*None
+Sunday, Sep 1*boxscore*NYY*@*WSH*L*3*5*None*59-62*4* 13.5*Matteson*Keating*None*1:38*D*None*---*1918-04-18 (Rain)
+Monday, Sep 2*boxscore*NYY*None*BOS*L*2*3*None*59-63*4* 13.5*Jones*Love*None*None*D*None*----*None
+Monday, Sep 2*boxscore*NYY*None*BOS*W*4*3*None*60-63*4* 13.5*Mogridge*Dubuc*None*None*D*None*+*None

@@ -1,0 +1,152 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Saturday, Apr 13*boxscore*PIT*@*STL*L*5*6*10*0-2*7* 2.0*Geyer*Hendrix*None*2:40*D*None*--*None
+Sunday, Apr 14*boxscore*PIT*@*CIN*L*7*11*None*0-3*7* 3.0*Suggs*Leifield*Keefe*2:02*D*None*---*None
+Monday, Apr 15*boxscore*PIT*@*CIN*L*2*3*11*0-4*8* 4.0*Fromme*Adams*None*2:08*D*None*----*None
+Tuesday, Apr 16*boxscore*PIT*@*CIN*W*8*2*None*1-4*7* 3.0*O'Toole*Smith*None*2:00*D*None*+*None
+Thursday, Apr 18*boxscore*PIT*None*STL*W*4*3*None*2-4*7* 2.5*Hendrix*Sallee*None*1:55*D*15,000*++*None
+Saturday, Apr 20*boxscore*PIT*None*STL*W*7*0*None*3-4*6* 1.5*Camnitz*Harmon*None*2:07*D*None*+++*None
+Sunday, Apr 21*boxscore*PIT*@*CHC*L*0*6*None*3-5*7* 2.5*Cheney*Leifield*None*1:45*D*None*-*None
+Tuesday, Apr 23*boxscore*PIT*@*CHC*W*5*3*None*4-5*4* 3.0*Adams*Brown*None*1:50*D*None*+*None
+Thursday, Apr 25*boxscore*PIT*None*CIN*L*0*1*None*4-6*6* 4.0*Suggs*O'Toole*None*2:14*D*None*-*None
+Saturday, Apr 27*boxscore*PIT*None*CIN*W*23*4*None*5-6*4* 3.0*Camnitz*Fromme*None*1:53*D*13,000*+*None
+Sunday, Apr 28*boxscore*PIT*@*CIN*L*2*3*None*5-7*5* 4.0*Humphries*O'Toole*None*2:15*D*None*-*None
+Wednesday, May 1*boxscore*PIT*None*CHC*L*2*7*None*5-8*6* 5.5*Richie*Adams*None*1:46*D*6,000*--*None
+Thursday, May 2*boxscore*PIT*None*CHC*W*6*0*None*6-8*4* 5.5*O'Toole*McIntire*None*1:43*D*6,000*+*None
+Friday, May 3*boxscore*PIT*None*CHC*L*8*9*11*6-9*6* 6.0*Cole*Hendrix*None*2:41*D*7,000*-*None
+Saturday, May 4*boxscore*PIT*None*CHC*W*12*11*None*7-9*4* 6.0*Adams*Reulbach*Robinson*2:15*D*15,000*+*None
+Sunday, May 5*boxscore*PIT*@*CHC*L*2*6*None*7-10*5* 7.0*Richie*O'Toole*None*2:00*D*None*-*None
+Thursday, May 9*boxscore*PIT*None*BRO*L*5*6*None*7-11*7* 7.5*Kent*Robinson*Rucker*2:32*D*2,000*--*None
+Friday, May 10*boxscore*PIT*None*PHI*W*8*4*None*8-11*4* 7.5*O'Toole*Brennan*Camnitz*2:16*D*3,500*+*None
+Saturday, May 11*boxscore*PIT*None*PHI*W*8*0*8*9-11*4* 7.5*Adams*Moore*None*2:00*D*None*++*None
+Wednesday, May 15*boxscore*PIT*None*NYG*L*3*4*None*9-12*4* 8.5*Ames*Camnitz*None*1:50*D*7,500*-*None
+Thursday, May 16*boxscore*PIT*None*NYG*L*1*4*None*9-13*4* 9.5*Marquard*O'Toole*None*2:25*D*9,000*--*None
+Saturday, May 18*boxscore*PIT*None*BSN*W*8*7*None*10-13*4* 9.0*Robinson*Tyler*None*2:14*D*9,500*+*None
+Monday, May 20*boxscore*PIT*None*BSN*W*13*4*None*11-13*4* 8.5*Hendrix*Hess*None*2:35*D*3,000*++*None
+Tuesday, May 21*boxscore*PIT*None*BSN*W*14*9*None*12-13*4* 8.0*Leifield*Perdue*None*2:00*D*2,000*+++*None
+Wednesday, May 22*boxscore*PIT*None*BSN*L*0*3*None*12-14*4* 9.0*Dickson*O'Toole*None*2:00*D*2,000*-*None
+Thursday, May 23*boxscore*PIT*None*BSN*W*3*1*None*13-14*4* 8.5*Adams*Brown*None*1:38*D*None*+*None
+Friday, May 24*boxscore*PIT*None*CHC*W*7*3*None*14-14*3* 8.5*Hendrix*Richie*None*1:45*D*4,000*++*None
+Saturday, May 25*boxscore*PIT*None*CHC*W*4*2*None*15-14*3* 8.5*Camnitz*Lavender*None*1:51*D*12,000*+++*None
+Sunday, May 26*boxscore*PIT*@*CHC*W*3*1*None*16-14*3* 8.0*O'Toole*Cheney*None*2:00*D*12,000*++++*None
+Monday, May 27*boxscore*PIT*None*STL*L*3*6*None*16-15*3* 9.0*Steele*Adams*None*2:10*D*3,200*-*1912-04-19 (Wet grounds)
+Tuesday, May 28*boxscore*PIT*None*STL*L*4*7*None*16-16*3* 10.0*Willis*Hendrix*None*2:17*D*5,000*--*None
+Thursday, May 30*boxscore*PIT*None*STL*L*3*8*None*16-17*4* 11.0*Sallee*Camnitz*None*2:01*D*11,500*---*None
+Thursday, May 30*boxscore*PIT*None*STL*W*9*7*None*17-17*4* 11.0*O'Toole*Harmon*Robinson*2:17*D*18,500*+*None
+Friday, May 31*boxscore*PIT*None*CIN*W*6*2*None*18-17*4* 10.0*Adams*Fromme*None*1:55*D*None*++*1912-04-24 (Rain)
+Saturday, Jun 1*boxscore*PIT*@*PHI*W*7*5*None*19-17*4* 10.0*Camnitz*Curtis*None*2:00*D*None*+++*None
+Monday, Jun 3*boxscore*PIT*@*PHI*L*3*4*None*19-18*4* 11.0*Alexander*Hendrix*None*1:55*D*None*-*None
+Tuesday, Jun 4*boxscore*PIT*@*PHI*L*4*17*None*19-19*4* 12.0*Brennan*O'Toole*None*2:10*D*None*--*None
+Wednesday, Jun 5*boxscore*PIT*@*BSN*W*7*5*None*20-19*4* 12.0*Camnitz*Brown*None*1:57*D*None*+*None
+Friday, Jun 7*boxscore*PIT*@*BSN*W*4*0*None*21-19*4* 12.0*Hendrix*Dickson*None*2:07*D*None*++*None
+Saturday, Jun 8*boxscore*PIT*@*BSN*W*3*1*None*22-19*4* 12.0*O'Toole*Tyler*None*1:57*D*None*+++*None
+Monday, Jun 10*boxscore*PIT*@*BRO*L*0*1*None*22-20*4* 12.0*Rucker*Camnitz*None*1:12*D*1,200*-*None
+Tuesday, Jun 11*boxscore*PIT*@*BRO*W*16*4*None*23-20*4* 12.0*Hendrix*Knetzer*None*2:12*D*2,000*+*None
+Wednesday, Jun 12*boxscore*PIT*@*BRO*W*7*3*None*24-20*4* 12.0*Robinson*Allen*None*1:39*D*500*++*None
+Thursday, Jun 13*boxscore*PIT*@*BRO*W*5*0*None*25-20*2* 12.0*O'Toole*Yingling*None*1:41*D*1,000*+++*None
+Friday, Jun 14*boxscore*PIT*@*NYG*W*6*1*None*26-20*2* 11.0*Camnitz*Wiltse*None*1:45*D*8,000*++++*None
+Saturday, Jun 15*boxscore*PIT*@*NYG*W*5*4*None*27-20*2* 10.0*Hendrix*Crandall*None*2:15*D*22,000*+++++*None
+Monday, Jun 17*boxscore*PIT*@*NYG*L*4*5*11*27-21*2* 11.0*Marquard*O'Toole*None*2:45*D*22,500*-*None
+Tuesday, Jun 18*boxscore*PIT*@*NYG*W*7*2*None*28-21*2* 10.0*Camnitz*Mathewson*None*1:43*D*None*+*None
+Wednesday, Jun 19*boxscore*PIT*None*STL*W*8*1*None*29-21*2* 10.0*Robinson*Woodburn*None*2:00*D*6,000*++*None
+Thursday, Jun 20*boxscore*PIT*@*CIN*W*6*4*10*30-21*2* 10.5*Cole*Gaspar*None*2:15*D*None*+++*None
+Thursday, Jun 20*boxscore*PIT*@*CIN*L*3*5*None*30-22*2* 10.5*Fromme*Hendrix*None*1:55*D*None*-*1912-04-29 (Rain)
+Saturday, Jun 22*boxscore*PIT*None*CIN*W*2*1*None*31-22*2* 11.5*Camnitz*Suggs*None*1:40*D*17,000*+*None
+Sunday, Jun 23*boxscore*PIT*@*CIN*L*1*12*None*31-23*2* 12.0*Benton*O'Toole*None*2:05*D*None*-*None
+Monday, Jun 24*boxscore*PIT*@*STL*L*3*4*None*31-24*2* 13.0*Geyer*Robinson*None*1:45*D*None*--*None
+Tuesday, Jun 25*boxscore*PIT*@*STL*W*10*4*None*32-24*2* 12.5*Hendrix*Dale*None*2:20*D*None*+*None
+Tuesday, Jun 25*boxscore*PIT*@*STL*W*19*3*None*33-24*2* 12.5*Cole*Harmon*None*2:05*D*None*++*1912-04-12 (Rain)
+Wednesday, Jun 26*boxscore*PIT*@*STL*W*4*3*None*34-24*2* 12.5*Camnitz*Sallee*None*1:50*D*None*+++*None
+Thursday, Jun 27*boxscore*PIT*@*STL*W*3*2*12*35-24*2* 12.5*Adams*Willis*None*3:20*D*None*++++*None
+Friday, Jun 28*boxscore*PIT*@*CHC*L*0*3*None*35-25*2* 14.0*Lavender*Robinson*None*1:40*D*12,000*-*None
+Saturday, Jun 29*boxscore*PIT*@*CHC*W*6*1*None*36-25*2* 14.0*Camnitz*Cheney*Hendrix*1:53*D*None*+*None
+Sunday, Jun 30*boxscore*PIT*@*CHC*W*7*4*None*37-25*2* 13.5*Hendrix*Richie*None*1:40*D*18,000*++*None
+Monday, Jul 1*boxscore*PIT*None*CHC*L*0*1*12*37-26*2* 14.5*Lavender*O'Toole*None*2:00*D*6,500*-*None
+Tuesday, Jul 2*boxscore*PIT*None*CHC*L*2*9*None*37-27*2* 15.5*Cheney*Robinson*None*1:55*D*None*--*None
+Thursday, Jul 4*boxscore*PIT*None*CIN*W*11*5*None*38-27*2* 14.5*Camnitz*Benton*None*2:06*D*16,000*+*None
+Thursday, Jul 4*boxscore*PIT*None*CIN*W*3*2*None*39-27*2* 14.5*Hendrix*Suggs*None*2:16*D*22,000*++*None
+Friday, Jul 5*boxscore*PIT*None*CIN*W*7*4*None*40-27*2* 14.5*O'Toole*Humphries*None*1:50*D*3,000*+++*1912-04-26 (Rain)
+Saturday, Jul 6*boxscore*PIT*None*CIN*L*1*2*None*40-28*2* 15.5*Fromme*Robinson*None*1:54*D*6,000*-*None
+Monday, Jul 8*boxscore*PIT*None*PHI*L*1*5*None*40-29*3* 15.0*Alexander*Camnitz*None*1:39*D*9,000*--*None
+Monday, Jul 8*boxscore*PIT*None*PHI*W*9*2*None*41-29*3* 15.0*Hendrix*Moore*None*1:55*D*9,000*+*1912-05-13 (Rain)
+Tuesday, Jul 9*boxscore*PIT*None*PHI*W*2*0*None*42-29*2* 15.0*O'Toole*Rixey*None*1:52*D*3,000*++*None
+Friday, Jul 12*boxscore*PIT*None*BRO*W*8*2*None*43-29*3* 13.5*Hendrix*Barger*None*1:41*D*None*+++*None
+Saturday, Jul 13*boxscore*PIT*None*BRO*L*1*4*None*43-30*3* 15.0*Rucker*Camnitz*None*1:31*D*None*-*None
+Saturday, Jul 13*boxscore*PIT*None*BRO*L*3*5*None*43-31*3* 15.0*Knetzer*O'Toole*Kent*2:08*D*18,000*--*1912-05-06 (Rain)
+Monday, Jul 15*boxscore*PIT*None*BRO*W*4*3*13*44-31*3* 12.5*Robinson*Curtis*None*2:32*D*None*+*None
+Monday, Jul 15*boxscore*PIT*None*BRO*W*8*4*None*45-31*3* 12.5*Hendrix*Kent*None*2:04*D*4,000*++*1912-05-07 (Rain)
+Tuesday, Jul 16*boxscore*PIT*None*BRO*W*5*4*10*46-31*3* 11.5*Robinson*Rucker*None*2:00*D*None*+++*None
+Wednesday, Jul 17*boxscore*PIT*None*NYG*L*2*10*None*46-32*3* 12.5*Mathewson*Camnitz*None*2:05*D*10,000*-*None
+Friday, Jul 19*boxscore*PIT*None*NYG*L*4*5*None*46-33*3* 12.5*Marquard*O'Toole*None*2:10*D*None*--*None
+Friday, Jul 19*boxscore*PIT*None*NYG*W*5*4*None*47-33*3* 12.5*Hendrix*Ames*None*1:38*D*27,000*+*1912-05-14 (Rain)
+Saturday, Jul 20*boxscore*PIT*None*NYG*L*1*2*None*47-34*3* 13.5*Tesreau*Robinson*Mathewson*1:37*D*18,000*-*None
+Monday, Jul 22*boxscore*PIT*None*BSN*W*2*0*None*48-34*3* 14.0*Camnitz*Brown*None*1:15*D*None*+*None
+Tuesday, Jul 23*boxscore*PIT*None*BSN*W*1*0*None*49-34*3* 14.0*Hendrix*Hess*None*1:42*D*2,000*++*None
+Thursday, Jul 25*boxscore*PIT*None*BRO*W*8*7*14*50-34*3* 14.0*Camnitz*Rucker*None*2:31*D*3,000*+++*1912-05-08 (Rain)
+Friday, Jul 26*boxscore*PIT*@*PHI*L*1*4*None*50-35*3* 14.0*Moore*O'Toole*None*1:45*D*10,000*-*None
+Saturday, Jul 27*boxscore*PIT*@*PHI*L*3*5*None*50-36*3* 14.0*Brennan*Hendrix*None*1:45*D*15,000*--*None
+Monday, Jul 29*boxscore*PIT*@*PHI*L*1*4*None*50-37*3* 14.0*Alexander*Camnitz*None*1:25*D*None*---*None
+Tuesday, Jul 30*boxscore*PIT*@*PHI*W*3*2*10*51-37*3* 14.0*Adams*Rixey*None*1:42*D*10,000*+*None
+Wednesday, Jul 31*boxscore*PIT*@*BSN*W*7*6*19*52-37*3* 14.0*Camnitz*Hess*None*3:52*D*6,000*++*None
+Thursday, Aug 1*boxscore*PIT*@*BSN*W*1*0*None*53-37*3* 14.5*Hendrix*Brown*None*1:42*D*1,500*+++*None
+Friday, Aug 2*boxscore*PIT*@*BSN*W*3*0*None*54-37*3* 14.5*Warner*Dickson*None*1:42*D*None*++++*None
+Saturday, Aug 3*boxscore*PIT*@*BSN*L*4*13*None*54-38*3* 15.0*Perdue*Adams*None*1:40*D*None*-*None
+Saturday, Aug 3*boxscore*PIT*@*BSN*W*8*3*None*55-38*3* 15.0*O'Toole*Tyler*None*2:05*D*10,000*+*1912-06-06 (Rain)
+Monday, Aug 5*boxscore*PIT*@*NYG*W*8*4*None*56-38*3* 14.0*Hendrix*Marquard*None*2:02*D*15,000*++*None
+Tuesday, Aug 6*boxscore*PIT*@*NYG*W*7*2*None*57-38*3* 13.0*Camnitz*Tesreau*None*1:55*D*10,000*+++*None
+Wednesday, Aug 7*boxscore*PIT*@*NYG*W*7*2*None*58-38*3* 12.0*O'Toole*Mathewson*None*2:00*D*6,000*++++*None
+Thursday, Aug 8*boxscore*PIT*@*NYG*L*1*2*10*58-39*3* 13.0*Marquard*Hendrix*None*2:10*D*6,000*-*None
+Friday, Aug 9*boxscore*PIT*@*BRO*W*2*1*None*59-39*3* 12.0*Robinson*Allen*None*1:42*D*1,000*+*None
+Saturday, Aug 10*boxscore*PIT*@*BRO*L*5*7*None*59-40*3* 13.0*Curtis*O'Toole*Stack*1:57*D*4,000*-*None
+Monday, Aug 12*boxscore*PIT*@*BRO*W*5*3*None*60-40*3* 12.0*Adams*Rucker*None*1:40*D*1,200*+*None
+Tuesday, Aug 13*boxscore*PIT*@*BRO*W*3*1*None*61-40*3* 11.5*Robinson*Yingling*None*1:25*D*1,200*++*None
+Wednesday, Aug 14*boxscore*PIT*None*PHI*W*3*2*10*62-40*3* 10.5*Camnitz*Moore*None*1:51*D*None*+++*None
+Wednesday, Aug 14*boxscore*PIT*None*PHI*W*2*1*10*63-40*3* 10.5*Hendrix*Alexander*None*1:57*D*9,000*++++*1912-07-10 (Rain)
+Thursday, Aug 15*boxscore*PIT*None*PHI*W*7*1*None*64-40*3* 9.0*O'Toole*Rixey*None*1:46*D*None*+++++*None
+Thursday, Aug 15*boxscore*PIT*None*PHI*W*4*0*None*65-40*3* 9.0*Adams*Seaton*None*1:40*D*None*++++++*1912-07-11 (Rain)
+Friday, Aug 16*boxscore*PIT*None*PHI*L*3*5*None*65-41*3* 10.0*Alexander*Hendrix*None*1:37*D*None*-*None
+Saturday, Aug 17*boxscore*PIT*None*PHI*L*0*2*None*65-42*3* 10.0*Moore*Camnitz*None*1:25*D*12,000*--*None
+Tuesday, Aug 20*boxscore*PIT*None*BRO*W*3*2*None*66-42*3* 11.5*Hendrix*Curtis*None*1:55*D*None*+*None
+Tuesday, Aug 20*boxscore*PIT*None*BRO*L*1*9*None*66-43*3* 11.5*Ragan*O'Toole*None*1:48*D*1,500*-*1912-08-19 (Rain)
+Wednesday, Aug 21*boxscore*PIT*None*BRO*L*0*1*None*66-44*3* 11.5*Rucker*Adams*None*1:20*D*1,000*--*None
+Thursday, Aug 22*boxscore*PIT*None*NYG*W*3*2*None*67-44*3* 11.5*Camnitz*Mathewson*None*1:42*D*None*+*None
+Thursday, Aug 22*boxscore*PIT*None*NYG*L*6*8*None*67-45*3* 11.5*Marquard*Warner*None*2:05*D*25,000*-*1912-05-17 (Rain)
+Friday, Aug 23*boxscore*PIT*None*NYG*L*1*2*10*67-46*3* 13.5*Crandall*Robinson*None*2:09*D*None*--*None
+Friday, Aug 23*boxscore*PIT*None*NYG*L*2*3*None*67-47*3* 13.5*Tesreau*O'Toole*None*1:56*D*18,000*---*1912-07-18 (Rain)
+Saturday, Aug 24*boxscore*PIT*None*NYG*L*2*3*None*67-48*3* 14.5*Wiltse*Adams*Mathewson*1:37*D*15,000*----*None
+Monday, Aug 26*boxscore*PIT*None*BSN*W*5*4*None*68-48*3* 14.0*Hendrix*Hess*None*1:39*D*None*+*None
+Monday, Aug 26*boxscore*PIT*None*BSN*L*4*8*None*68-49*3* 14.0*Donnelly*Cole*None*2:03*D*None*-*1912-07-24 (Rain)
+Tuesday, Aug 27*boxscore*PIT*None*BSN*W*9*4*None*69-49*3* 13.0*Camnitz*Tyler*None*1:50*D*None*+*None
+Thursday, Aug 29*boxscore*PIT*None*CIN*L*2*7*None*69-50*3* 14.0*Suggs*O'Toole*None*1:50*D*None*-*None
+Friday, Aug 30*boxscore*PIT*None*CIN*W*2*1*12*70-50*3* 13.0*Robinson*Fromme*None*2:16*D*2,500*+*None
+Saturday, Aug 31*boxscore*PIT*None*CIN*W*4*0*None*71-50*3* 12.5*Ferry*Harter*None*1:35*D*5,000*++*None
+Sunday, Sep 1*boxscore*PIT*@*CIN*L*1*2*None*71-51*3* 13.5*Suggs*Camnitz*None*1:55*D*None*-*None
+Sunday, Sep 1*boxscore*PIT*@*CIN*L*6*11*None*71-52*3* 13.5*Donalds*Cole*Benton*2:06*D*15,000*--*1912-06-21 (Rain)
+Tuesday, Sep 3*boxscore*PIT*None*CHC*L*2*5*None*71-53*3* 14.0*Cheney*Adams*None*1:51*D*None*---*1912-09-02 (Train washout (PIT))
+Tuesday, Sep 3*boxscore*PIT*None*CHC*W*1*0*None*72-53*3* 14.0*Hendrix*Richie*None*1:25*D*12,000*+*None
+Wednesday, Sep 4*boxscore*PIT*@*CHC*W*5*2*None*73-53*3* 13.5*Robinson*Lavender*None*2:10*D*10,000*++*1912-04-22 (Wet grounds)
+Thursday, Sep 5*boxscore*PIT*@*STL*W*5*4*None*74-53*3* 14.0*Ferry*Harmon*Camnitz*1:50*D*None*+++*None
+Friday, Sep 6*boxscore*PIT*@*STL*W*8*0*None*75-53*3* 14.5*Cooper*Griner*None*2:05*D*None*++++*None
+Saturday, Sep 7*boxscore*PIT*@*STL*W*8*1*None*76-53*3* 13.5*Robinson*Burk*None*1:40*D*4,000*+++++*None
+Sunday, Sep 8*boxscore*PIT*@*STL*W*12*8*None*77-53*3* 13.0*Camnitz*Steele*None*2:30*D*6,000*++++++*None
+Tuesday, Sep 10*boxscore*PIT*@*PHI*W*11*4*None*78-53*3* 14.0*Adams*Finneran*None*2:05*D*None*+++++++*None
+Wednesday, Sep 11*boxscore*PIT*@*PHI*W*10*3*None*79-53*3* 13.5*Camnitz*Chalmers*None*1:40*D*None*++++++++*None
+Thursday, Sep 12*boxscore*PIT*@*PHI*W*7*3*None*80-53*3* 13.0*Hendrix*Alexander*None*1:40*D*None*+++++++++*None
+Friday, Sep 13*boxscore*PIT*@*PHI*W*6*5*10*81-53*3* 13.0*O'Toole*Brennan*Robinson*2:22*D*None*++++++++++*None
+Saturday, Sep 14*boxscore*PIT*@*BRO*W*6*2*None*82-53*3* 13.0*Cooper*Allen*None*1:50*D*None*+++++++++++*None
+Monday, Sep 16*boxscore*PIT*@*BRO*W*2*1*None*83-53*3* 12.0*Robinson*Ragan*None*1:16*D*None*++++++++++++*None
+Tuesday, Sep 17*boxscore*PIT*@*BRO*L*3*7*None*83-54*3* 12.0*Rucker*Hendrix*None*1:50*D*None*-*None
+Wednesday, Sep 18*boxscore*PIT*@*BSN*W*9*1*None*84-54*3* 11.5*Camnitz*Donnelly*None*1:45*D*None*+*None
+Wednesday, Sep 18*boxscore*PIT*@*BSN*T*0*0*8*84-54*3* 11.5*None*None*None*1:15*D*None*+*1912-08-28 (Rain; Site change)
+Thursday, Sep 19*boxscore*PIT*@*BSN*L*5*7*None*84-55*3* 11.0*Hess*Adams*None*2:35*D*None*-*None
+Thursday, Sep 19*boxscore*PIT*@*BSN*W*8*7*7*85-55*3* 11.0*Hendrix*Dickson*Ferry*1:50*D*None*+*None
+Friday, Sep 20*boxscore*PIT*@*BSN*W*10*2*None*86-55*3* 10.5*Robinson*Perdue*None*1:18*D*200*++*None
+Saturday, Sep 21*boxscore*PIT*@*NYG*L*1*2*None*86-56*3* 11.5*Tesreau*Camnitz*None*1:30*D*25,000*-*None
+Wednesday, Sep 25*boxscore*PIT*None*STL*W*4*0*None*87-56*3* 11.0*O'Toole*Geyer*None*1:32*D*2,500*+*1912-05-29 (Rain)
+Thursday, Sep 26*boxscore*PIT*None*STL*W*7*5*None*88-56*3* 11.5*Hendrix*Burk*None*1:50*D*None*++*None
+Friday, Sep 27*boxscore*PIT*None*STL*W*4*0*None*89-56*3* 11.5*Cooper*Perritt*None*1:27*D*2,000*+++*None
+Saturday, Sep 28*boxscore*PIT*None*STL*L*2*4*None*89-57*3* 11.5*Burk*Camnitz*None*1:34*D*5,000*-*None
+Sunday, Sep 29*boxscore*PIT*@*CHC*W*9*0*None*90-57*2* 11.0*O'Toole*Richie*None*1:40*D*15,000*+*None
+Monday, Sep 30*boxscore*PIT*@*CHC*W*9*3*None*91-57*2* 11.0*Hendrix*Cheney*None*2:00*D*None*++*None
+Tuesday, Oct 1*boxscore*PIT*@*CHC*W*4*1*None*92-57*2* 10.0*Adams*Cheney*None*1:45*D*None*+++*None
+Saturday, Oct 5*boxscore*PIT*@*CIN*L*5*6*None*92-58*2* 10.5*Fromme*O'Toole*Suggs*1:50*D*None*-*None
+Sunday, Oct 6*boxscore*PIT*@*CIN*W*16*6*None*93-58*2* 10.0*Camnitz*Benton*None*1:47*D*None*+*None

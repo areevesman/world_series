@@ -1,0 +1,157 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 13*boxscore*CLE*None*SLB*L*2*4*None*0-2*7* 2.0*Davenport*Morton*None*None*D*None*--*None
+Saturday, Apr 15*boxscore*CLE*None*SLB*W*3*0*None*1-2*6* 2.0*Klepfer*Park*None*None*D*None*+*None
+Sunday, Apr 16*boxscore*CLE*None*DET*W*4*3*10*2-2*4* 1.5*Coumbe*Dauss*None*None*D*None*++*None
+Monday, Apr 17*boxscore*CLE*None*DET*L*1*3*12*2-3*5* 2.5*Cunningham*Coveleski*None*None*D*None*-*None
+Tuesday, Apr 18*boxscore*CLE*None*DET*L*3*4*None*2-4*7* 2.5*Dubuc*Mitchell*None*None*D*None*--*None
+Friday, Apr 21*boxscore*CLE*@*SLB*L*1*11*None*2-5*7* 3.0*Groom*Mitchell*None*None*D*None*---*None
+Saturday, Apr 22*boxscore*CLE*@*SLB*T*1*1*15*2-5*7* 3.0*None*None*None*None*D*None*---*None
+Sunday, Apr 23*boxscore*CLE*@*SLB*W*14*2*None*3-5*7* 2.5*Morton*Fincher*None*None*D*None*+*None
+Monday, Apr 24*boxscore*CLE*@*SLB*W*5*4*None*4-5*7* 2.0*Bagby*Groom*None*None*D*None*++*1916-04-20 (Wet grounds)
+Tuesday, Apr 25*boxscore*CLE*None*CHW*W*9*2*None*5-5*4* 2.0*Coumbe*Cicotte*None*None*D*None*+++*None
+Wednesday, Apr 26*boxscore*CLE*None*CHW*W*5*3*None*6-5*3* 1.0*Coveleski*Scott*Bagby*None*D*None*++++*None
+Thursday, Apr 27*boxscore*CLE*None*CHW*L*3*5*None*6-6*4* 1.5*Faber*Mitchell*Russell*None*D*None*-*None
+Friday, Apr 28*boxscore*CLE*None*CHW*W*2*1*10*7-6*3* 1.5*Morton*Williams*None*None*D*None*+*None
+Saturday, Apr 29*boxscore*CLE*@*DET*L*4*5*11*7-7*5* 2.0*Dauss*Coveleski*None*None*D*None*-*None
+Sunday, Apr 30*boxscore*CLE*@*DET*W*12*6*None*8-7*5* 1.0*Bagby*James*Mitchell*None*D*None*+*None
+Monday, May 1*boxscore*CLE*@*DET*W*2*0*5*9-7*2* 0.5*Coveleski*Dauss*None*None*D*None*++*None
+Tuesday, May 2*boxscore*CLE*@*DET*W*6*1*None*10-7*2* 0.5*Morton*Coveleski*None*None*D*None*+++*None
+Thursday, May 4*boxscore*CLE*@*CHW*W*2*0*None*11-7*2* 0.5*Coumbe*Williams*None*None*D*None*++++*None
+Friday, May 5*boxscore*CLE*@*CHW*W*3*2*None*12-7*1* Tied*Coveleski*Russell*None*None*D*None*+++++*None
+Saturday, May 6*boxscore*CLE*@*CHW*W*4*1*None*13-7*1*up 1.0*Morton*Scott*None*None*D*None*++++++*None
+Sunday, May 7*boxscore*CLE*@*CHW*W*5*2*None*14-7*1*up 1.5*Mitchell*Faber*None*None*D*None*+++++++*None
+Monday, May 8*boxscore*CLE*None*DET*W*3*1*None*15-7*1*up 2.5*Bagby*Dubuc*None*None*D*None*++++++++*1916-04-19 (Rain)
+Tuesday, May 9*boxscore*CLE*@*BOS*L*1*5*None*15-8*1*up 2.5*Leonard*Coveleski*None*None*D*None*-*None
+Wednesday, May 10*boxscore*CLE*@*BOS*W*6*2*None*16-8*1*up 2.5*Morton*Ruth*None*None*D*None*+*None
+Thursday, May 11*boxscore*CLE*@*BOS*L*5*6*10*16-9*1*up 1.5*Mays*Bagby*None*None*D*None*-*None
+Friday, May 12*boxscore*CLE*@*BOS*W*3*1*None*17-9*1*up 1.5*Coumbe*Pennock*None*None*D*None*+*None
+Saturday, May 13*boxscore*CLE*@*NYY*W*4*2*None*18-9*1*up 1.5*Coveleski*Fisher*None*None*D*None*++*None
+Monday, May 15*boxscore*CLE*@*NYY*W*6*4*None*19-9*1*up 1.5*Morton*Markle*Bagby*None*D*None*+++*None
+Thursday, May 18*boxscore*CLE*@*WSH*W*4*2*None*20-9*1*up 1.5*Coveleski*Johnson*Bagby*None*D*None*++++*None
+Friday, May 19*boxscore*CLE*@*WSH*W*7*1*None*21-9*1*up 2.5*Morton*Boehling*None*None*D*None*+++++*None
+Saturday, May 20*boxscore*CLE*@*WSH*L*3*13*None*21-10*1*up 1.5*Gallia*Klepfer*None*None*D*None*-*None
+Sunday, May 21*boxscore*CLE*None*WSH*L*3*4*None*21-11*1*up 0.5*Johnson*Bagby*None*None*D*None*--*1916-06-06 (Rain)
+Monday, May 22*boxscore*CLE*@*PHA*L*8*10*None*21-12*2* 0.5*Myers*Bagby*None*None*D*None*---*None
+Wednesday, May 24*boxscore*CLE*@*PHA*W*5*4*None*22-12*1*up 0.5*Morton*Bush*None*None*D*None*+*None
+Friday, May 26*boxscore*CLE*None*SLB*W*4*2*None*23-12*1*up 0.5*Klepfer*Davenport*None*None*D*None*++*1916-04-14 (Cold)
+Sunday, May 28*boxscore*CLE*@*CHW*L*0*2*None*23-13*2* 1.5*Scott*Coumbe*None*None*D*None*-*None
+Sunday, May 28*boxscore*CLE*@*CHW*L*0*2*None*23-14*2* 1.5*Faber*Morton*None*None*D*None*--*1916-05-27 (Rain)
+Tuesday, May 30*boxscore*CLE*@*SLB*L*4*5*15*23-15*2* 1.0*Plank*Klepfer*None*None*D*None*---*None
+Tuesday, May 30*boxscore*CLE*@*SLB*T*1*1*7*23-15*2* 1.0*None*None*None*None*D*None*---*None
+Wednesday, May 31*boxscore*CLE*@*SLB*W*10*5*None*24-15*1* Tied*Mitchell*Davenport*None*None*D*None*+*None
+Thursday, Jun 1*boxscore*CLE*@*SLB*W*3*2*None*25-15*1*up 0.5*Morton*Park*None*None*D*None*++*None
+Thursday, Jun 1*boxscore*CLE*@*SLB*L*5*6*None*25-16*1*up 0.5*Baumgardner*Lowdermilk*Plank*None*D*None*-*None
+Friday, Jun 2*boxscore*CLE*@*SLB*L*1*2*None*25-17*1* Tied*Weilman*Klepfer*None*None*D*None*--*None
+Saturday, Jun 3*boxscore*CLE*None*BOS*W*11*2*None*26-17*1*up 1.0*Coveleski*Leonard*None*None*D*None*+*None
+Sunday, Jun 4*boxscore*CLE*None*BOS*W*9*3*None*27-17*1*up 2.0*Morton*Mays*None*None*D*None*++*None
+Monday, Jun 5*boxscore*CLE*None*BOS*L*0*5*None*27-18*1*up 1.0*Ruth*Coumbe*None*None*D*None*-*None
+Thursday, Jun 8*boxscore*CLE*None*WSH*T*5*5*14*27-18*1*up 1.5*None*None*None*None*D*None*-*None
+Friday, Jun 9*boxscore*CLE*None*WSH*L*4*7*None*27-19*1*up 1.0*Johnson*Mitchell*None*None*D*None*--*None
+Saturday, Jun 10*boxscore*CLE*None*PHA*W*10*1*None*28-19*1*up 2.0*Coveleski*Sheehan*None*None*D*None*+*None
+Sunday, Jun 11*boxscore*CLE*None*PHA*W*7*2*None*29-19*1*up 3.0*Morton*Myers*None*None*D*None*++*None
+Monday, Jun 12*boxscore*CLE*None*PHA*W*3*1*None*30-19*1*up 4.0*Klepfer*Bush*Coveleski*None*D*None*+++*None
+Tuesday, Jun 13*boxscore*CLE*None*PHA*W*11*2*None*31-19*1*up 4.0*Bagby*Myers*None*None*D*None*++++*None
+Thursday, Jun 15*boxscore*CLE*None*NYY*W*3*2*10*32-19*1*up 4.5*Coveleski*Shawkey*None*2:25*D*None*+++++*None
+Saturday, Jun 17*boxscore*CLE*None*NYY*L*3*5*None*32-20*1*up 3.5*Shawkey*Bagby*None*None*D*None*-*None
+Sunday, Jun 18*boxscore*CLE*None*NYY*L*3*19*None*32-21*1*up 2.5*Cullop*Coumbe*Russell*None*D*None*--*None
+Monday, Jun 19*boxscore*CLE*None*NYY*L*6*7*None*32-22*1*up 2.0*Fisher*Coveleski*None*None*D*None*---*1916-06-16 (Rain)
+Tuesday, Jun 20*boxscore*CLE*@*DET*L*1*2*None*32-23*1*up 1.0*Dauss*Lowdermilk*None*None*D*None*----*None
+Wednesday, Jun 21*boxscore*CLE*@*DET*L*0*3*None*32-24*1* Tied*Coveleski*Bagby*None*None*D*None*-----*None
+Thursday, Jun 22*boxscore*CLE*@*DET*W*4*3*None*33-24*1*up 1.0*Coumbe*Dubuc*Bagby*None*D*None*+*None
+Saturday, Jun 24*boxscore*CLE*@*DET*W*10*8*11*34-24*1*up 1.0*Bagby*Cunningham*None*None*D*None*++*None
+Sunday, Jun 25*boxscore*CLE*@*CHW*L*3*4*11*34-25*1*up 0.5*Russell*Coumbe*None*None*D*None*-*None
+Monday, Jun 26*boxscore*CLE*None*CHW*W*2*0*None*35-25*1*up 1.5*Beebe*Danforth*None*None*D*None*+*None
+Tuesday, Jun 27*boxscore*CLE*None*CHW*L*2*4*None*35-26*1*up 0.5*Williams*Bagby*None*None*D*None*-*None
+Wednesday, Jun 28*boxscore*CLE*None*CHW*L*1*5*None*35-27*2* 0.5*Russell*Coveleski*None*None*D*None*--*None
+Thursday, Jun 29*boxscore*CLE*None*SLB*L*0*7*None*35-28*2* 1.5*Davenport*Lowdermilk*None*None*D*None*---*None
+Friday, Jun 30*boxscore*CLE*None*SLB*W*2*1*None*36-28*2* 1.5*Beebe*Groom*None*None*D*None*+*None
+Saturday, Jul 1*boxscore*CLE*None*SLB*W*5*4*11*37-28*2* 1.5*Coveleski*Plank*None*None*D*None*++*None
+Sunday, Jul 2*boxscore*CLE*None*SLB*W*3*2*5*38-28*2* 1.0*Klepfer*Davenport*None*None*D*None*+++*None
+Monday, Jul 3*boxscore*CLE*None*DET*W*6*4*None*39-28*2* 1.0*Bagby*Dauss*None*None*D*None*++++*None
+Tuesday, Jul 4*boxscore*CLE*None*DET*L*2*6*None*39-29*2* 1.0*Boland*Beebe*None*None*D*None*-*None
+Tuesday, Jul 4*boxscore*CLE*None*DET*W*6*3*None*40-29*2* 1.0*Coveleski*James*None*None*D*None*+*None
+Thursday, Jul 6*boxscore*CLE*@*BOS*L*5*6*None*40-30*2* 2.5*Shore*Bagby*None*None*D*None*-*None
+Friday, Jul 7*boxscore*CLE*@*BOS*L*1*2*None*40-31*2* 3.5*Mays*Bagby*None*None*D*None*--*None
+Saturday, Jul 8*boxscore*CLE*@*BOS*W*5*1*None*41-31*2* 2.5*Coveleski*Shore*None*None*D*None*+*None
+Monday, Jul 10*boxscore*CLE*@*NYY*W*3*2*None*42-31*2* 1.5*Klepfer*Shawkey*Coveleski*None*D*None*++*None
+Tuesday, Jul 11*boxscore*CLE*@*NYY*L*2*8*None*42-32*2* 1.5*Cullop*Beebe*Russell*None*D*None*-*None
+Tuesday, Jul 11*boxscore*CLE*@*NYY*W*4*2*None*43-32*2* 1.5*Lowdermilk*Keating*None*None*D*None*+*1916-05-16 (Rain)
+Wednesday, Jul 12*boxscore*CLE*@*NYY*W*1*0*None*44-32*1*up 0.5*Bagby*Caldwell*None*None*D*None*++*None
+Wednesday, Jul 12*boxscore*CLE*@*NYY*W*6*3*None*45-32*1*up 0.5*Gould*Fisher*Coveleski*None*D*None*+++*1916-05-17 (Wet grounds)
+Thursday, Jul 13*boxscore*CLE*@*NYY*L*3*6*8*45-33*2* 0.5*Shawkey*Klepfer*None*1:48*D*None*-*None
+Friday, Jul 14*boxscore*CLE*@*WSH*L*3*4*None*45-34*2* 1.0*Gallia*Gould*None*None*D*None*--*None
+Saturday, Jul 15*boxscore*CLE*@*WSH*L*2*3*None*45-35*2* 1.0*Johnson*Bagby*None*None*D*None*---*None
+Sunday, Jul 16*boxscore*CLE*None*WSH*L*2*4*None*45-36*2* 1.5*Boehling*Coveleski*None*None*D*None*----*1916-06-07 (Rain)
+Monday, Jul 17*boxscore*CLE*@*WSH*W*7*5*None*46-36*2* 2.0*Klepfer*Harper*Beebe*None*D*None*+*None
+Tuesday, Jul 18*boxscore*CLE*@*WSH*L*2*3*None*46-37*3* 2.0*Gallia*Gould*None*None*D*None*-*None
+Wednesday, Jul 19*boxscore*CLE*@*PHA*W*12*5*None*47-37*3* 2.5*Bagby*Hesselbacher*None*None*D*None*+*None
+Thursday, Jul 20*boxscore*CLE*@*PHA*W*4*2*None*48-37*3* 2.0*Beebe*Sheehan*None*None*D*None*++*None
+Thursday, Jul 20*boxscore*CLE*@*PHA*L*0*2*None*48-38*3* 2.0*Bush*Lowdermilk*None*None*D*None*-*1916-05-23 (Rain)
+Friday, Jul 21*boxscore*CLE*@*PHA*W*7*2*None*49-38*3* 1.5*Coumbe*Nabors*None*None*D*None*+*None
+Sunday, Jul 23*boxscore*CLE*None*SLB*L*2*5*10*49-39*3* 2.5*Weilman*Gould*None*None*D*None*-*None
+Tuesday, Jul 25*boxscore*CLE*None*BOS*W*5*4*None*50-39*2* 1.5*Bagby*Ruth*None*None*D*None*+*None
+Wednesday, Jul 26*boxscore*CLE*None*BOS*L*2*3*None*50-40*3* 1.5*Mays*Beebe*None*None*D*None*-*None
+Thursday, Jul 27*boxscore*CLE*None*BOS*L*6*7*None*50-41*3* 2.5*Foster*Coveleski*Leonard*None*D*None*--*None
+Friday, Jul 28*boxscore*CLE*None*BOS*L*2*3*None*50-42*3* 3.5*Shore*Gould*None*None*D*None*---*None
+Saturday, Jul 29*boxscore*CLE*None*WSH*W*10*0*None*51-42*4* 2.0*Bagby*Gallia*None*None*D*None*+*None
+Sunday, Jul 30*boxscore*CLE*None*WSH*L*1*2*10*51-43*4* 2.5*Johnson*Coveleski*None*None*D*None*-*None
+Monday, Jul 31*boxscore*CLE*None*WSH*L*1*11*None*51-44*4* 3.5*Harper*Lowdermilk*Dumont*None*D*None*--*None
+Tuesday, Aug 1*boxscore*CLE*None*WSH*W*6*1*None*52-44*4* 3.5*Coveleski*Boehling*None*None*D*None*+*None
+Wednesday, Aug 2*boxscore*CLE*None*WSH*W*3*0*None*53-44*3* 3.5*Gould*Gallia*None*None*D*None*++*None
+Thursday, Aug 3*boxscore*CLE*None*PHA*W*3*1*None*54-44*3* 3.0*Bagby*Bush*None*None*D*None*+++*None
+Friday, Aug 4*boxscore*CLE*None*PHA*W*5*2*None*55-44*3* 2.5*Beebe*Sheehan*None*None*D*None*++++*None
+Saturday, Aug 5*boxscore*CLE*None*PHA*W*12*3*None*56-44*3* 2.5*Coveleski*Johnson*Lambeth*None*D*None*+++++*None
+Sunday, Aug 6*boxscore*CLE*None*PHA*W*5*2*None*57-44*3* 1.5*Morton*Myers*Klepfer*None*D*None*++++++*None
+Monday, Aug 7*boxscore*CLE*None*NYY*L*2*3*None*57-45*3* 2.5*Shawkey*Bagby*None*None*D*None*-*None
+Tuesday, Aug 8*boxscore*CLE*None*NYY*W*9*4*None*58-45*3* 1.5*Gould*Russell*None*None*D*None*+*None
+Wednesday, Aug 9*boxscore*CLE*None*NYY*W*5*3*None*59-45*3* 1.0*Coveleski*Shawkey*Klepfer*None*D*None*++*None
+Thursday, Aug 10*boxscore*CLE*None*NYY*W*3*2*None*60-45*2* 1.0*Lambeth*Russell*None*None*D*None*+++*None
+Friday, Aug 11*boxscore*CLE*@*SLB*L*4*5*None*60-46*2* 2.0*Hamilton*Coveleski*Weilman*None*D*None*-*None
+Friday, Aug 11*boxscore*CLE*@*SLB*L*1*3*8*60-47*2* 2.0*Groom*Klepfer*Plank*None*D*None*--*None
+Saturday, Aug 12*boxscore*CLE*@*SLB*L*0*11*None*60-48*3* 3.0*Plank*Morton*None*None*D*None*---*None
+Sunday, Aug 13*boxscore*CLE*None*SLB*W*4*3*None*61-48*2* 2.5*Lambeth*Hamilton*Bagby*None*D*None*+*None
+Monday, Aug 14*boxscore*CLE*None*DET*W*3*2*None*62-48*2* 1.5*Bagby*Dubuc*None*None*D*None*++*None
+Wednesday, Aug 16*boxscore*CLE*@*NYY*L*3*5*None*62-49*2* 3.5*Russell*Gould*None*None*D*None*-*None
+Thursday, Aug 17*boxscore*CLE*@*NYY*L*4*5*None*62-50*2* 3.5*Shawkey*Morton*None*None*D*None*--*None
+Friday, Aug 18*boxscore*CLE*@*NYY*L*3*4*13*62-51*3* 3.5*Shocker*Lambeth*None*None*D*None*---*None
+Saturday, Aug 19*boxscore*CLE*@*BOS*L*1*2*None*62-52*3* 4.5*Foster*Boehling*None*None*D*None*----*None
+Monday, Aug 21*boxscore*CLE*@*BOS*L*0*4*None*62-53*4* 5.5*Shore*Morton*None*None*D*None*-----*None
+Tuesday, Aug 22*boxscore*CLE*@*BOS*L*0*3*None*62-54*6* 6.5*Mays*Bagby*None*None*D*None*------*None
+Wednesday, Aug 23*boxscore*CLE*@*BOS*L*3*7*None*62-55*6* 7.5*Leonard*Coveleski*Ruth*None*D*None*-------*None
+Thursday, Aug 24*boxscore*CLE*@*PHA*L*5*6*None*62-56*6* 8.0*Myers*Klepfer*None*None*D*None*--------*None
+Thursday, Aug 24*boxscore*CLE*@*PHA*W*4*2*None*63-56*6* 8.0*Gould*Johnson*None*None*D*None*+*1916-05-25 (Rain)
+Friday, Aug 25*boxscore*CLE*@*PHA*W*13*9*None*64-56*4* 6.5*Bagby*Williams*Beebe*None*D*None*++*None
+Friday, Aug 25*boxscore*CLE*@*PHA*W*10*2*None*65-56*4* 6.5*Beebe*Bush*None*None*D*None*+++*1916-07-22 (Rain)
+Saturday, Aug 26*boxscore*CLE*@*PHA*L*0*5*None*65-57*6* 6.5*Bush*Coveleski*None*None*D*None*-*None
+Sunday, Aug 27*boxscore*CLE*None*NYY*W*5*1*None*66-57*4* 6.0*Lambeth*Russell*None*None*D*None*+*1916-09-18 (Schedule change)
+Monday, Aug 28*boxscore*CLE*@*WSH*L*0*2*None*66-58*6* 6.5*Johnson*Boehling*None*None*D*None*-*None
+Tuesday, Aug 29*boxscore*CLE*@*WSH*W*4*0*None*67-58*5* 5.0*Bagby*Shaw*None*None*D*None*+*None
+Wednesday, Aug 30*boxscore*CLE*@*WSH*L*1*3*None*67-59*5* 6.0*Gallia*Coumbe*None*None*D*None*-*None
+Thursday, Aug 31*boxscore*CLE*@*WSH*L*3*5*None*67-60*5* 6.0*Ayers*Lambeth*None*None*D*None*--*None
+Saturday, Sep 2*boxscore*CLE*None*SLB*W*5*4*None*68-60*5* 5.5*Coveleski*Groom*None*None*D*None*+*None
+Sunday, Sep 3*boxscore*CLE*@*DET*L*3*5*None*68-61*5* 6.0*Dauss*Bagby*None*None*D*None*-*None
+Monday, Sep 4*boxscore*CLE*@*DET*L*5*7*None*68-62*6* 7.0*Boland*Coveleski*Dubuc*None*D*None*--*None
+Monday, Sep 4*boxscore*CLE*@*DET*L*8*11*None*68-63*6* 7.0*Boland*Morton*Dauss*None*D*None*---*None
+Wednesday, Sep 6*boxscore*CLE*@*CHW*L*3*4*None*68-64*6* 8.0*Russell*Boehling*None*None*D*None*----*None
+Thursday, Sep 7*boxscore*CLE*@*CHW*L*3*5*None*68-65*6* 9.0*Faber*Bagby*Cicotte*None*D*None*-----*None
+Friday, Sep 8*boxscore*CLE*@*CHW*L*2*3*11*68-66*6* 9.5*Cicotte*Gould*None*None*D*None*------*None
+Saturday, Sep 9*boxscore*CLE*@*CHW*L*4*5*None*68-67*7* 10.0*Williams*Lambeth*None*None*D*None*-------*None
+Sunday, Sep 10*boxscore*CLE*None*DET*W*8*2*None*69-67*6* 9.5*Bagby*James*None*None*D*None*+*None
+Monday, Sep 11*boxscore*CLE*None*DET*L*1*9*None*69-68*6* 10.5*Dauss*Boehling*None*None*D*None*-*None
+Tuesday, Sep 12*boxscore*CLE*None*DET*L*2*10*None*69-69*7* 10.5*Ehmke*Coveleski*None*None*D*None*--*None
+Wednesday, Sep 13*boxscore*CLE*None*PHA*W*8*4*None*70-69*7* 10.0*Lambeth*Myers*None*None*D*None*+*None
+Thursday, Sep 14*boxscore*CLE*None*PHA*W*9*1*None*71-69*6* 9.0*Gould*Nabors*None*None*D*None*++*None
+Friday, Sep 15*boxscore*CLE*None*PHA*W*3*2*None*72-69*6* 9.0*Penner*Sheehan*Smith*None*D*None*+++*None
+Saturday, Sep 16*boxscore*CLE*None*NYY*L*3*4*None*72-70*6* 10.0*Fisher*Bagby*Shawkey*None*D*None*-*None
+Sunday, Sep 17*boxscore*CLE*None*NYY*W*9*7*None*73-70*6* 10.0*Boehling*Shawkey*None*None*D*None*+*None
+Tuesday, Sep 19*boxscore*CLE*None*WSH*L*6*9*None*73-71*6* 10.5*Gallia*Bagby*None*None*D*None*-*None
+Wednesday, Sep 20*boxscore*CLE*None*WSH*W*3*2*None*74-71*6* 10.5*Boehling*Ayers*None*None*D*None*+*None
+Thursday, Sep 21*boxscore*CLE*None*WSH*W*3*2*13*75-71*5* 10.5*Smith*Johnson*Gould*None*D*None*++*None
+Friday, Sep 22*boxscore*CLE*None*BOS*L*1*4*None*75-72*6* 11.5*Shore*Bagby*None*None*D*None*-*None
+Saturday, Sep 23*boxscore*CLE*None*BOS*L*3*5*None*75-73*6* 12.5*Mays*Lambeth*None*None*D*None*--*None
+Sunday, Sep 24*boxscore*CLE*None*BOS*W*5*3*None*76-73*6* 11.5*Bagby*Leonard*None*None*D*None*+*None
+Monday, Sep 25*boxscore*CLE*None*BOS*L*0*2*None*76-74*6* 12.5*Ruth*Smith*None*None*D*None*-*None
+Saturday, Sep 30*boxscore*CLE*None*CHW*L*2*7*None*76-75*7* 14.5*Russell*Bagby*None*None*D*None*--*None
+Saturday, Sep 30*boxscore*CLE*None*CHW*L*3*7*12*76-76*7* 14.5*Williams*Smith*Cicotte*None*D*None*---*1916-09-28 (Rain)
+Sunday, Oct 1*boxscore*CLE*None*CHW*W*2*0*None*77-76*7* 14.5*Coumbe*Faber*None*None*D*None*+*None
+Sunday, Oct 1*boxscore*CLE*None*CHW*L*4*8*None*77-77*7* 14.5*Cicotte*Penner*None*None*D*None*-*1916-09-29 (Wet grounds)

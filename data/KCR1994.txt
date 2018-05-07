@@ -1,0 +1,115 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 6*boxscore*KCR*@*BAL*L*2*4*None*0-2*4* 1.5*McDonald*Cone*Smith*3:07*N*44,778*--*None
+Friday, Apr 8*boxscore*KCR*None*CLE*L*3*8*None*0-3*5* 3.0*Nagy*Gordon*Farr*2:49*D*38,496*---*None
+Sunday, Apr 10*boxscore*KCR*None*CLE*W*6*1*None*1-3*4* 2.0*Haney*Martinez*None*2:46*D*16,342*+*None
+Monday, Apr 11*boxscore*KCR*None*BOS*L*5*8*10*1-4*4* 3.0*Quantrill*Magnante*None*3:28*N*15,883*-*None
+Tuesday, Apr 12*boxscore*KCR*None*BOS*L*11*22*None*1-5*4* 4.0*Darwin*Appier*None*3:23*N*13,968*--*None
+Wednesday, Apr 13*boxscore*KCR*None*BOS*W-wo*2*1*None*2-5*4* 4.0*Brewer*Russell*None*2:43*N*15,845*+*None
+Friday, Apr 15*boxscore*KCR*@*CLE*W*2*1*None*3-5*4* 3.0*Cone*Martinez*Pichardo*2:20*N*40,490*++*None
+Saturday, Apr 16*boxscore*KCR*@*CLE*W*12*9*None*4-5*4* 2.0*Magnante*Swan*Brewer*3:24*D*36,439*+++*None
+Sunday, Apr 17*boxscore*KCR*@*CLE*W*8*3*None*5-5*4* 1.0*Appier*Morris*None*2:46*D*38,974*++++*None
+Monday, Apr 18*boxscore*KCR*@*DET*W*11*1*None*6-5*3* 0.5*Gordon*Doherty*None*2:55*N*10,988*+++++*None
+Tuesday, Apr 19*boxscore*KCR*@*DET*L*5*9*None*6-6*3* 1.5*Moore*Gubicza*None*2:58*D*9,727*-*None
+Wednesday, Apr 20*boxscore*KCR*@*DET*W*11*6*None*7-6*3* 1.5*Cone*Lima*None*3:02*D*9,991*+*None
+Friday, Apr 22*boxscore*KCR*@*MIL*L-wo*8*9*None*7-7*4* 2.0*Orosco*Montgomery*None*3:40*N*10,544*-*None
+Saturday, Apr 23*boxscore*KCR*@*MIL*L*2*3*None*7-8*4* 3.0*Lloyd*Belinda*Fetters*2:54*D*24,363*--*None
+Sunday, Apr 24*boxscore*KCR*@*MIL*L*0*7*None*7-9*4* 3.0*Bones*Gubicza*None*2:31*D*23,493*---*None
+Monday, Apr 25*boxscore*KCR*None*TOR*W*4*3*None*8-9*4* 2.5*Cone*Stewart*Montgomery*2:25*N*17,100*+*None
+Tuesday, Apr 26*boxscore*KCR*None*TOR*L*6*8*None*8-10*4* 3.0*Stottlemyre*Haney*Timlin*3:00*N*16,571*-*None
+Thursday, Apr 28*boxscore*KCR*None*DET*W*13*4*None*9-10*4* 2.5*Appier*Belcher*None*3:09*N*16,768*+*None
+Saturday, Apr 30*boxscore*KCR*None*MIL*L*3*4*10*9-11*4* 3.0*Bronkey*Pichardo*None*3:10*N*23,098*-*None
+Sunday, May 1*boxscore*KCR*None*MIL*W*6*2*None*10-11*4* 1.5*Cone*Eldred*None*2:40*D*None*+*None
+Sunday, May 1*boxscore*KCR*None*MIL*W*7*3*None*11-11*4* 1.5*Gubicza*Higuera*None*2:31*D*26,190*++*1994-04-29 (Rain)
+Tuesday, May 3*boxscore*KCR*@*TOR*L*0*1*None*11-12*4* 2.0*Hentgen*Appier*None*2:07*N*48,173*-*None
+Wednesday, May 4*boxscore*KCR*@*TOR*W*6*4*10*12-12*4* 2.0*Brewer*Hall*Montgomery*3:20*N*47,244*+*None
+Thursday, May 5*boxscore*KCR*@*TOR*W*11*9*None*13-12*3* 1.5*Gordon*Guzman*Montgomery*3:25*D*50,076*++*None
+Friday, May 6*boxscore*KCR*@*CHW*W*6*5*None*14-12*3* 0.5*Cone*Assenmacher*Pichardo*3:07*N*30,756*+++*None
+Saturday, May 7*boxscore*KCR*@*CHW*L*2*4*None*14-13*4* 1.5*McDowell*Gubicza*Hernandez*2:31*D*28,124*-*None
+Sunday, May 8*boxscore*KCR*@*CHW*W*9*7*None*15-13*2* 0.5*Appier*Fernandez*Montgomery*3:17*D*28,361*+*None
+Monday, May 9*boxscore*KCR*None*MIN*L*5*9*None*15-14*3* 0.5*Tapani*Haney*Willis*2:41*N*21,347*-*None
+Tuesday, May 10*boxscore*KCR*None*MIN*L*4*7*None*15-15*3* 1.5*Pulido*Gordon*None*2:48*N*17,778*--*None
+Wednesday, May 11*boxscore*KCR*None*MIN*W*9*0*None*16-15*3* 1.5*Cone*Deshaies*None*2:15*N*17,740*+*None
+Friday, May 13*boxscore*KCR*None*OAK*W*16*6*None*17-15*2* 0.5*Gubicza*Witt*None*2:39*N*21,302*++*None
+Saturday, May 14*boxscore*KCR*None*OAK*L*4*5*None*17-16*2* 0.5*Darling*Appier*Eckersley*2:53*N*34,213*-*None
+Sunday, May 15*boxscore*KCR*None*OAK*L*2*6*None*17-17*2* 1.5*Van Poppel*Granger*Eckersley*2:58*D*28,629*--*None
+Monday, May 16*boxscore*KCR*@*SEA*W*6*4*None*18-17*2* 1.5*Gordon*Bosio*Montgomery*2:38*N*23,290*+*None
+Tuesday, May 17*boxscore*KCR*@*SEA*W*4*0*None*19-17*2* 1.5*Cone*Salkeld*None*2:39*D*18,815*++*None
+Wednesday, May 18*boxscore*KCR*@*SEA*W*7*6*10*20-17*2* 0.5*Belinda*Risley*Montgomery*3:13*N*11,976*+++*None
+Thursday, May 19*boxscore*KCR*@*CAL*L*4*5*None*20-18*3* 1.0*Farrell*Appier*Grahe*2:54*N*20,595*-*None
+Friday, May 20*boxscore*KCR*@*CAL*L-wo*6*7*None*20-19*4* 2.0*Leiter*Belinda*None*3:07*N*23,339*--*None
+Saturday, May 21*boxscore*KCR*@*CAL*L*0*3*None*20-20*4* 3.0*Leftwich*Gordon*Butcher*2:48*N*30,436*---*None
+Sunday, May 22*boxscore*KCR*@*CAL*W*4*0*None*21-20*4* 3.0*Cone*Langston*None*2:19*D*35,915*+*None
+Tuesday, May 24*boxscore*KCR*None*TEX*L*0*2*None*21-21*4* 4.0*Rogers*Gubicza*None*2:22*N*22,581*-*None
+Wednesday, May 25*boxscore*KCR*None*TEX*W*8*3*None*22-21*3* 4.0*Appier*Brown*None*3:09*N*17,587*+*None
+Thursday, May 26*boxscore*KCR*None*TEX*W*3*1*None*23-21*2* 3.5*Gordon*Honeycutt*Montgomery*3:07*D*24,169*++*None
+Friday, May 27*boxscore*KCR*None*NYY*L*2*5*None*23-22*3* 4.5*Key*Cone*Wickman*2:27*N*30,840*-*None
+Saturday, May 28*boxscore*KCR*None*NYY*L*3*5*10*23-23*4* 5.5*Hernandez*Montgomery*Howe*3:24*N*37,242*--*None
+Sunday, May 29*boxscore*KCR*None*NYY*W*10*6*None*24-23*3* 4.5*Gubicza*Mulholland*Brewer*2:57*D*27,463*+*None
+Monday, May 30*boxscore*KCR*@*BOS*L-wo*5*6*10*24-24*3* 5.5*Ryan*Pichardo*None*3:32*D*33,341*-*None
+Tuesday, May 31*boxscore*KCR*@*BOS*W*9*7*None*25-24*3* 4.5*Gordon*Hesketh*Meacham*2:53*N*22,537*+*None
+Wednesday, Jun 1*boxscore*KCR*@*BOS*L*2*4*None*25-25*4* 5.5*Fossas*Magnante*Russell*3:17*N*28,307*-*None
+Friday, Jun 3*boxscore*KCR*@*NYY*W*7*4*None*26-25*3* 5.5*Brewer*Gibson*Montgomery*2:58*N*26,617*+*None
+Saturday, Jun 4*boxscore*KCR*@*NYY*W*4*3*None*27-25*3* 5.5*Gubicza*Mulholland*None*2:08*D*30,693*++*None
+Sunday, Jun 5*boxscore*KCR*@*NYY*W*3*1*None*28-25*3* 4.5*Appier*Abbott*Meacham*2:46*D*32,432*+++*None
+Monday, Jun 6*boxscore*KCR*None*BAL*L*2*4*None*28-26*3* 5.0*Mussina*Gordon*Smith*3:04*N*25,781*-*None
+Tuesday, Jun 7*boxscore*KCR*None*BAL*W*7*3*None*29-26*3* 4.0*Cone*McDonald*None*3:15*N*21,777*+*None
+Wednesday, Jun 8*boxscore*KCR*None*BAL*L*4*6*None*29-27*3* 5.0*Mills*Milacki*Smith*3:22*N*17,892*-*None
+Thursday, Jun 9*boxscore*KCR*@*TEX*L*4*7*None*29-28*4* 5.0*Rogers*Gubicza*None*2:32*N*46,433*--*None
+Friday, Jun 10*boxscore*KCR*@*TEX*L*2*3*None*29-29*4* 5.0*Brown*Appier*Carpenter*3:26*N*46,379*---*None
+Saturday, Jun 11*boxscore*KCR*@*TEX*W*4*3*None*30-29*4* 4.0*Gordon*Smith*Montgomery*2:42*N*46,582*+*None
+Sunday, Jun 12*boxscore*KCR*@*TEX*W*7*2*None*31-29*4* 3.0*Cone*Fajardo*Meacham*2:39*N*39,844*++*None
+Monday, Jun 13*boxscore*KCR*None*CAL*W*12*7*None*32-29*4* 3.0*Pichardo*Dopson*None*2:54*N*24,645*+++*None
+Tuesday, Jun 14*boxscore*KCR*None*CAL*L*0*1*None*32-30*4* 4.0*Finley*Gubicza*None*2:36*N*17,422*-*None
+Wednesday, Jun 15*boxscore*KCR*None*CAL*W-wo*4*3*None*33-30*4* 4.0*Montgomery*Lefferts*None*3:02*N*22,013*+*None
+Thursday, Jun 16*boxscore*KCR*None*SEA*W*4*1*None*34-30*4* 4.0*Magnante*Bosio*Montgomery*2:55*N*27,245*++*None
+Friday, Jun 17*boxscore*KCR*None*SEA*L*1*5*None*34-31*4* 5.0*Fleming*Cone*None*2:37*N*24,470*-*None
+Saturday, Jun 18*boxscore*KCR*None*SEA*L*1*3*None*34-32*4* 6.0*Hill*Montgomery*Ayala*2:28*N*32,899*--*None
+Sunday, Jun 19*boxscore*KCR*None*SEA*W*12*9*None*35-32*4* 6.0*Pichardo*Risley*None*3:09*D*28,898*+*None
+Tuesday, Jun 21*boxscore*KCR*@*OAK*W*2*0*None*36-32*4* 5.5*Belinda*Darling*Meacham*2:45*N*13,724*++*None
+Wednesday, Jun 22*boxscore*KCR*@*OAK*W*10*1*None*37-32*3* 5.5*Gordon*Van Poppel*None*2:59*N*12,420*+++*None
+Thursday, Jun 23*boxscore*KCR*@*OAK*L*0*4*None*37-33*4* 6.0*Witt*Cone*None*2:27*D*23,567*-*None
+Friday, Jun 24*boxscore*KCR*@*MIN*L*1*4*None*37-34*4* 6.0*Deshaies*Milacki*Aguilera*2:32*N*27,069*--*None
+Saturday, Jun 25*boxscore*KCR*@*MIN*W*4*1*None*38-34*4* 5.5*Gubicza*Mahomes*Montgomery*2:08*N*33,136*+*None
+Sunday, Jun 26*boxscore*KCR*@*MIN*L*4*11*None*38-35*4* 5.5*Erickson*Magnante*None*2:37*D*25,560*-*None
+Monday, Jun 27*boxscore*KCR*@*MIN*W*2*1*None*39-35*4* 4.5*Gordon*Tapani*Montgomery*2:21*N*24,181*+*None
+Tuesday, Jun 28*boxscore*KCR*@*CHW*W*4*3*None*40-35*3* 4.5*Cone*Alvarez*Montgomery*2:40*N*31,776*++*None
+Wednesday, Jun 29*boxscore*KCR*@*CHW*L-wo*6*7*None*40-36*3* 4.5*Hernandez*Brewer*None*3:08*N*30,434*-*None
+Thursday, Jun 30*boxscore*KCR*@*CHW*L*2*3*None*40-37*4* 5.5*Sanderson*Gubicza*Hernandez*2:58*N*30,236*--*None
+Friday, Jul 1*boxscore*KCR*None*TOR*W-wo*4*3*12*41-37*3* 5.5*Montgomery*Williams*None*3:41*N*21,496*+*None
+Saturday, Jul 2*boxscore*KCR*None*TOR*L*6*7*None*41-38*3* 6.5*Castillo*Meacham*Hall*3:23*N*27,800*-*None
+Sunday, Jul 3*boxscore*KCR*None*TOR*W*11*6*None*42-38*3* 6.5*Cone*Stewart*None*2:58*D*25,421*+*None
+Monday, Jul 4*boxscore*KCR*None*TOR*L*4*9*None*42-39*3* 7.5*Hentgen*Milacki*None*2:44*N*38,039*-*None
+Tuesday, Jul 5*boxscore*KCR*None*MIL*W*10*5*None*43-39*3* 6.5*Meacham*Wegman*Brewer*2:39*N*18,239*+*None
+Wednesday, Jul 6*boxscore*KCR*None*MIL*L*3*4*None*43-40*3* 7.5*Scanlan*Meacham*Fetters*2:40*N*18,213*-*None
+Thursday, Jul 7*boxscore*KCR*None*MIL*W*8*3*None*44-40*3* 6.5*Gordon*Eldred*None*2:31*N*23,247*+*None
+Friday, Jul 8*boxscore*KCR*@*TOR*W*6*5*None*45-40*3* 5.5*Pichardo*Hall*Montgomery*3:02*N*50,515*++*None
+Saturday, Jul 9*boxscore*KCR*@*TOR*L*4*9*None*45-41*3* 6.5*Hentgen*Milacki*None*2:32*D*50,524*-*None
+Sunday, Jul 10*boxscore*KCR*@*TOR*L*3*7*None*45-42*3* 7.5*Guzman*Gubicza*Cox*2:36*D*50,504*--*None
+Thursday, Jul 14*boxscore*KCR*None*DET*W*5*2*None*46-42*3* 7.5*Appier*Belcher*Montgomery*2:48*N*24,790*+*None
+Friday, Jul 15*boxscore*KCR*None*DET*L*2*14*None*46-43*3* 7.0*Wells*Gordon*None*3:04*N*None*-*None
+Friday, Jul 15*boxscore*KCR*None*DET*W*5*3*None*47-43*3* 7.0*Gubicza*Moore*Montgomery*2:34*N*25,431*+*1994-04-27 (Rain)
+Saturday, Jul 16*boxscore*KCR*None*DET*L*7*13*None*47-44*3* 8.0*Boever*Milacki*None*3:11*N*29,164*-*None
+Sunday, Jul 17*boxscore*KCR*None*DET*W*4*1*None*48-44*3* 7.0*Cone*Gohr*Montgomery*2:46*N*21,757*+*None
+Monday, Jul 18*boxscore*KCR*@*MIL*W*2*0*None*49-44*3* 7.0*Haney*Miranda*Montgomery*2:53*N*14,040*++*None
+Tuesday, Jul 19*boxscore*KCR*@*MIL*L-wo*3*4*14*49-45*3* 8.0*Mercedes*Pichardo*None*4:34*N*14,829*-*None
+Wednesday, Jul 20*boxscore*KCR*@*MIL*L*1*11*None*49-46*3* 9.0*Bones*Gordon*None*2:54*D*20,085*--*None
+Friday, Jul 22*boxscore*KCR*@*DET*L*2*5*None*49-47*3* 9.5*Moore*Meacham*Boever*2:38*N*27,760*---*None
+Saturday, Jul 23*boxscore*KCR*@*DET*W*4*1*None*50-47*3* 8.5*Cone*Gullickson*Montgomery*2:46*N*35,528*+*None
+Sunday, Jul 24*boxscore*KCR*@*DET*W*6*4*None*51-47*3* 8.5*de Jesus*Belcher*Montgomery*2:46*D*23,479*++*None
+Monday, Jul 25*boxscore*KCR*None*CHW*W-wo*6*4*12*52-47*3* 7.5*Pichardo*Hernandez*None*3:43*N*32,459*+++*None
+Tuesday, Jul 26*boxscore*KCR*None*CHW*W*3*2*None*53-47*3* 6.5*Gordon*Alvarez*Montgomery*2:54*N*21,971*++++*None
+Wednesday, Jul 27*boxscore*KCR*None*CHW*W*4*1*None*54-47*3* 5.5*Meacham*McCaskill*Montgomery*2:52*N*23,405*+++++*None
+Thursday, Jul 28*boxscore*KCR*None*CHW*W*5*3*None*55-47*3* 5.5*Cone*Ruffcorn*Montgomery*2:46*N*35,052*++++++*None
+Friday, Jul 29*boxscore*KCR*None*MIN*W*5*3*None*56-47*3* 4.5*de Jesus*Tapani*Pichardo*2:31*N*29,584*+++++++*None
+Saturday, Jul 30*boxscore*KCR*None*MIN*W-wo*5*4*11*57-47*3* 4.5*Brewer*Guthrie*None*3:02*N*31,962*++++++++*None
+Sunday, Jul 31*boxscore*KCR*None*MIN*W*9*5*None*58-47*3* 4.5*Meacham*Deshaies*None*2:58*D*26,625*+++++++++*None
+Monday, Aug 1*boxscore*KCR*None*OAK*W*4*2*None*59-47*3* 4.0*Gubicza*Darling*Montgomery*2:33*N*24,462*++++++++++*None
+Tuesday, Aug 2*boxscore*KCR*None*OAK*W*6*4*None*60-47*3* 4.0*Cone*Van Poppel*Montgomery*2:48*N*23,343*+++++++++++*None
+Wednesday, Aug 3*boxscore*KCR*None*OAK*W*9*5*None*61-47*3* 3.0*de Jesus*Witt*Belinda*2:59*N*22,193*++++++++++++*None
+Thursday, Aug 4*boxscore*KCR*None*OAK*W*5*2*None*62-47*3* 2.0*Appier*Reyes*Montgomery*2:46*D*26,886*+++++++++++++*None
+Friday, Aug 5*boxscore*KCR*None*SEA*W*8*0*None*63-47*3* 1.0*Gordon*Converse*None*2:35*N*25,663*++++++++++++++*1994-08-05 (Stadium damage (Roof); Site change)
+Saturday, Aug 6*boxscore*KCR*None*SEA*L*2*11*None*63-48*3* 2.0*Davis*Gubicza*None*2:45*N*32,702*-*1994-08-06 (Stadium damage (Roof); Site change)
+Sunday, Aug 7*boxscore*KCR*None*SEA*L*6*10*None*63-49*3* 3.0*Risley*Cone*None*2:59*D*26,483*--*1994-08-07 (Stadium damage (Roof); Site change)
+Monday, Aug 8*boxscore*KCR*@*CAL*L*1*6*None*63-50*3* 4.0*Langston*de Jesus*None*2:36*N*18,315*---*None
+Tuesday, Aug 9*boxscore*KCR*@*CAL*W*5*3*11*64-50*3* 3.0*Pichardo*Leiter*Montgomery*3:14*N*17,876*+*None
+Wednesday, Aug 10*boxscore*KCR*@*CAL*L-wo*1*2*None*64-51*3* 4.0*Finley*Gordon*None*2:32*N*19,605*-*None

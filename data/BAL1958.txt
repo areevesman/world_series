@@ -1,0 +1,154 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 17*boxscore*BAL*None*WSH*W*4*0*None*2-0*1*up 0.5*Harshman*Stobbs*None*2:45*N*19,377*++*None
+Friday, Apr 18*boxscore*BAL*@*NYY*L*1*3*None*2-1*2* 0.5*Ford*Loes*None*2:12*D*23,463*-*None
+Saturday, Apr 19*boxscore*BAL*@*NYY*L*3*4*None*2-2*3* 1.5*Shantz*O'Dell*Duren*2:25*D*18,387*--*None
+Sunday, Apr 20*boxscore*BAL*@*NYY*L*0*7*None*2-3*6* 2.5*Turley*Johnson*None*2:35*D*21,597*---*None
+Tuesday, Apr 22*boxscore*BAL*@*WSH*W*4*2*None*3-3*4* 3.0*Harshman*Lumenti*O'Dell*2:52*D*1,839*+*None
+Wednesday, Apr 23*boxscore*BAL*@*BOS*L*5*7*None*3-4*5* 3.0*Brewer*Beamon*Wall*2:47*N*6,695*-*None
+Thursday, Apr 24*boxscore*BAL*@*BOS*L-wo*3*4*10*3-5*6* 3.5*Fornieles*O'Dell*None*2:40*D*6,690*--*None
+Friday, Apr 25*boxscore*BAL*None*NYY*W-wo*2*1*None*4-5*6* 2.5*Johnson*Ford*None*2:15*N*20,363*+*None
+Saturday, Apr 26*boxscore*BAL*None*NYY*L*0*2*None*4-6*6* 3.5*Turley*Loes*None*2:15*D*16,825*-*None
+Wednesday, Apr 30*boxscore*BAL*None*CHW*W*3*2*None*5-6*6* 3.0*Harshman*Wynn*Zuverink*2:41*N*10,759*+*None
+Thursday, May 1*boxscore*BAL*None*CHW*L*3*4*None*5-7*6* 3.5*Wilson*Johnson*Pierce*2:39*N*9,442*-*None
+Friday, May 2*boxscore*BAL*None*CLE*L*1*6*None*5-8*6* 4.5*Grant*Loes*None*2:21*N*10,457*--*None
+Saturday, May 3*boxscore*BAL*None*CLE*W-wo*3*2*13*6-8*6* 4.0*O'Dell*Mossi*None*3:22*D*2,262*+*None
+Sunday, May 4*boxscore*BAL*None*DET*W*4*3*None*7-8*5* 3.0*Pappas*Foytack*Zuverink*2:31*D*None*++*None
+Sunday, May 4*boxscore*BAL*None*DET*W*4*0*None*8-8*5* 3.0*Harshman*Hoeft*None*2:22*N*22,746*+++*None
+Friday, May 9*boxscore*BAL*None*BOS*L*5*13*None*8-9*4* 4.0*Sisler*O'Dell*None*2:57*N*13,918*-*None
+Saturday, May 10*boxscore*BAL*None*BOS*W*5*2*None*9-9*3* 4.0*Harshman*Brewer*None*2:15*D*8,311*+*None
+Sunday, May 11*boxscore*BAL*None*BOS*W*3*2*None*10-9*3* 3.0*O'Dell*Fornieles*None*2:08*D*None*++*None
+Sunday, May 11*boxscore*BAL*None*BOS*W*4*0*None*11-9*3* 3.0*Portocarrero*Nixon*Zuverink*2:00*D*19,056*+++*None
+Tuesday, May 13*boxscore*BAL*@*NYY*L*0*3*None*11-10*3* 4.0*Larsen*Johnson*None*2:25*N*13,606*-*None
+Wednesday, May 14*boxscore*BAL*@*NYY*L*0*1*None*11-11*3* 5.0*Turley*O'Dell*None*2:21*D*6,080*--*None
+Saturday, May 17*boxscore*BAL*@*BOS*L*4*7*None*11-12*2* 6.0*Wall*Harshman*Kiely*2:48*D*10,610*---*None
+Saturday, May 17*boxscore*BAL*@*BOS*W*5*3*None*12-12*2* 6.0*Portocarrero*Baumann*Zuverink*2:35*N*16,266*+*1958-05-16 (Rain)
+Sunday, May 18*boxscore*BAL*@*BOS*L*4*8*None*12-13*3* 7.5*Sullivan*Loes*Kiely*2:24*D*17,933*-*None
+Tuesday, May 20*boxscore*BAL*@*DET*W*6*4*None*13-13*3* 7.5*O'Dell*Hoeft*Harshman*2:31*D*3,458*+*None
+Wednesday, May 21*boxscore*BAL*@*DET*W*8*1*None*14-13*2* 7.5*Lehman*Lary*Zuverink*2:39*D*3,387*++*None
+Thursday, May 22*boxscore*BAL*@*CHW*L*1*5*None*14-14*2* 8.5*Wilson*Portocarrero*None*2:25*D*632*-*None
+Friday, May 23*boxscore*BAL*@*CHW*L*0*1*None*14-15*4* 9.5*Wynn*Harshman*None*2:11*N*10,192*--*None
+Saturday, May 24*boxscore*BAL*@*CHW*L*3*4*None*14-16*4* 9.5*Fischer*O'Dell*None*2:16*D*4,653*---*None
+Sunday, May 25*boxscore*BAL*@*KCA*L*0*4*None*14-17*5* 11.0*Garver*Pappas*None*2:03*D*9,752*----*None
+Monday, May 26*boxscore*BAL*@*KCA*L-wo*4*5*10*14-18*5* 11.5*Dickson*Portocarrero*None*2:35*D*3,833*-----*None
+Tuesday, May 27*boxscore*BAL*@*CLE*L-wo*6*7*10*14-19*7* 11.5*Wilhelm*O'Dell*None*3:00*N*5,057*------*None
+Wednesday, May 28*boxscore*BAL*@*CLE*L*2*5*None*14-20*7* 11.5*McLish*Harshman*None*2:11*D*1,419*-------*None
+Friday, May 30*boxscore*BAL*None*BOS*L*0*2*None*14-21*8* 10.5*Sullivan*Johnson*None*2:16*N*None*--------*None
+Friday, May 30*boxscore*BAL*None*BOS*W*2*0*None*15-21*8* 10.5*Portocarrero*Smith*None*2:12*D*21,094*+*None
+Saturday, May 31*boxscore*BAL*None*WSH*W*4*3*None*16-21*7* 10.5*O'Dell*Clevenger*None*2:13*N*10,729*++*None
+Sunday, Jun 1*boxscore*BAL*None*WSH*L*2*5*None*16-22*8* 11.5*Pascual*Loes*Hyde*2:17*D*7,684*-*None
+Monday, Jun 2*boxscore*BAL*None*WSH*L*1*2*10*16-23*8* 12.5*Griggs*Harshman*None*2:28*N*5,432*--*None
+Tuesday, Jun 3*boxscore*BAL*None*DET*W*2*0*None*17-23*8* 12.5*Portocarrero*Bunning*None*2:19*N*33,992*+*None
+Wednesday, Jun 4*boxscore*BAL*None*DET*W*6*4*None*18-23*7* 11.5*Zuverink*Lary*Harshman*2:15*N*10,426*++*None
+Thursday, Jun 5*boxscore*BAL*None*DET*L*3*6*None*18-24*8* 12.0*Aguirre*O'Dell*None*2:37*N*6,353*-*None
+Friday, Jun 6*boxscore*BAL*None*KCA*W*2*1*None*19-24*5* 11.5*Johnson*Kellner*None*1:51*N*None*+*None
+Friday, Jun 6*boxscore*BAL*None*KCA*W*3*1*None*20-24*5* 11.5*Pappas*Herbert*None*1:51*N*12,561*++*1958-05-06 (Rain)
+Saturday, Jun 7*boxscore*BAL*None*KCA*L*2*5*None*20-25*6* 12.5*Dickson*Harshman*None*2:25*D*6,904*-*None
+Sunday, Jun 8*boxscore*BAL*None*KCA*W*4*0*None*21-25*6* 11.5*Brown*Garver*Zuverink*2:20*D*None*+*None
+Sunday, Jun 8*boxscore*BAL*None*KCA*L*1*2*None*21-26*6* 11.5*Maas*Portocarrero*Trucks*1:54*D*12,344*-*None
+Monday, Jun 9*boxscore*BAL*None*CLE*W*5*2*None*22-26*5* 11.0*O'Dell*McLish*None*2:07*N*7,658*+*None
+Tuesday, Jun 10*boxscore*BAL*None*CLE*L*2*10*None*22-27*6* 11.5*Bell*Johnson*Wilhelm*2:52*N*9,229*-*None
+Wednesday, Jun 11*boxscore*BAL*None*CLE*W*7*4*None*23-27*5* 12.0*Pappas*Tomanek*Brown*2:37*N*7,516*+*None
+Thursday, Jun 12*boxscore*BAL*None*CLE*W*7*5*None*24-27*5* 11.5*Johnson*Mossi*O'Dell*2:50*N*6,912*++*None
+Friday, Jun 13*boxscore*BAL*None*CHW*T*5*5*14*24-27*5* 11.0*None*None*None*4:02*N*15,418*++*None
+Saturday, Jun 14*boxscore*BAL*None*CHW*L*1*9*None*24-28*6* 11.0*Wynn*Loes*None*2:28*D*8,022*-*None
+Sunday, Jun 15*boxscore*BAL*None*CHW*L*0*3*None*24-29*8* 11.0*Wilson*Lehman*None*1:48*D*None*--*None
+Sunday, Jun 15*boxscore*BAL*None*CHW*L*0*4*None*24-30*8* 11.0*Donovan*Portocarrero*None*2:10*D*14,607*---*1958-04-29 (Rain)
+Tuesday, Jun 17*boxscore*BAL*@*KCA*W*4*1*None*25-30*7* 11.0*O'Dell*Herbert*None*2:10*N*24,047*+*None
+Wednesday, Jun 18*boxscore*BAL*@*KCA*W*5*3*None*26-30*6* 11.0*Pappas*Dickson*Portocarrero*2:38*N*10,843*++*None
+Thursday, Jun 19*boxscore*BAL*@*KCA*W*4*2*None*27-30*5* 11.0*Lehman*Garver*O'Dell*2:16*N*8,736*+++*None
+Friday, Jun 20*boxscore*BAL*@*CHW*L*3*5*None*27-31*6* 11.0*Shaw*Harshman*None*2:26*N*15,116*-*None
+Saturday, Jun 21*boxscore*BAL*@*CHW*L*0*1*None*27-32*7* 11.0*Pierce*Loes*None*1:43*D*6,585*--*None
+Sunday, Jun 22*boxscore*BAL*@*CHW*W*2*0*None*28-32*7* 11.0*O'Dell*Wilson*None*2:06*D*12,114*+*None
+Monday, Jun 23*boxscore*BAL*@*DET*L*1*3*None*28-33*7* 11.0*Susce*Portocarrero*None*1:54*D*3,615*-*None
+Tuesday, Jun 24*boxscore*BAL*@*DET*L*0*5*None*28-34*7* 12.0*Foytack*Pappas*None*1:56*N*20,022*--*None
+Thursday, Jun 26*boxscore*BAL*@*DET*W*2*0*None*29-34*6* 12.0*Harshman*Hoeft*None*2:22*D*7,194*+*None
+Friday, Jun 27*boxscore*BAL*@*CLE*L*5*6*None*29-35*7* 13.0*Mossi*O'Dell*None*2:26*N*9,607*-*None
+Saturday, Jun 28*boxscore*BAL*@*CLE*L-wo*5*6*None*29-36*7* 14.0*Mossi*Zuverink*None*2:48*D*5,250*--*None
+Sunday, Jun 29*boxscore*BAL*@*CLE*W*11*6*None*30-36*6* 12.5*Pappas*Bell*Zuverink*2:48*D*None*+*None
+Sunday, Jun 29*boxscore*BAL*@*CLE*W*5*2*None*31-36*6* 12.5*Portocarrero*Constable*None*2:00*D*13,194*++*None
+Tuesday, Jul 1*boxscore*BAL*None*NYY*W*7*5*None*32-36*6* 12.5*Loes*Maas*Johnson*2:31*D*None*+++*1958-04-27 (Rain)
+Tuesday, Jul 1*boxscore*BAL*None*NYY*L*1*2*None*32-37*6* 12.5*Larsen*Harshman*Duren*2:31*D*33,292*-*None
+Wednesday, Jul 2*boxscore*BAL*None*NYY*L*1*4*None*32-38*7* 13.5*Monroe*O'Dell*Duren*2:20*D*11,695*--*None
+Thursday, Jul 3*boxscore*BAL*@*BOS*W*7*5*15*33-38*6* 13.5*Loes*Wall*None*4:23*D*3,921*+*None
+Friday, Jul 4*boxscore*BAL*@*BOS*L*1*5*None*33-39*6* 14.5*Sullivan*Johnson*None*2:16*D*None*-*None
+Friday, Jul 4*boxscore*BAL*@*BOS*W*5*3*None*34-39*6* 14.5*Portocarrero*Fornieles*None*2:11*D*19,387*+*None
+Saturday, Jul 5*boxscore*BAL*@*WSH*W*3*1*None*35-39*6* 14.0*Brown*Griggs*O'Dell*2:05*D*3,425*++*None
+Sunday, Jul 6*boxscore*BAL*@*WSH*L*3*4*None*35-40*7* 14.0*Kemmerer*Loes*Hyde*2:24*D*3,773*-*None
+Thursday, Jul 10*boxscore*BAL*None*KCA*W*6*3*None*36-40*5* 13.5*Pappas*Daley*O'Dell*2:31*N*None*+*None
+Thursday, Jul 10*boxscore*BAL*None*KCA*W*3*2*None*37-40*5* 13.5*Portocarrero*Tomanek*None*2:31*N*13,377*++*1958-05-07 (Rain)
+Sunday, Jul 13*boxscore*BAL*None*DET*L*5*6*None*37-41*6* 15.5*Foytack*Beamon*Fischer*3:03*D*None*-*None
+Sunday, Jul 13*boxscore*BAL*None*DET*L*3*5*None*37-42*6* 15.5*Susce*O'Dell*Fischer*3:03*D*13,708*--*1958-05-05 (Rain)
+Monday, Jul 14*boxscore*BAL*None*DET*W*2*1*None*38-42*5* 15.5*Brown*Moford*None*2:08*D*2,742*+*None
+Tuesday, Jul 15*boxscore*BAL*None*CHW*W-wo*4*3*12*39-42*4* 14.5*Portocarrero*Lown*None*3:19*N*9,528*++*None
+Wednesday, Jul 16*boxscore*BAL*None*CHW*L*1*6*None*39-43*4* 15.0*Donovan*Pappas*None*2:35*N*None*-*None
+Wednesday, Jul 16*boxscore*BAL*None*CHW*W*6*5*None*40-43*4* 15.0*Harshman*Keegan*None*2:43*N*16,565*+*None
+Thursday, Jul 17*boxscore*BAL*None*CHW*W*3*0*None*41-43*4* 15.0*O'Dell*Pierce*None*2:07*N*14,666*++*None
+Friday, Jul 18*boxscore*BAL*None*CLE*L*1*5*None*41-44*4* 15.0*Woodeshick*Beamon*None*2:25*N*8,820*-*None
+Saturday, Jul 19*boxscore*BAL*None*CLE*W*3*2*None*42-44*3* 14.0*Brown*Bell*Loes*2:28*N*13,288*+*None
+Sunday, Jul 20*boxscore*BAL*None*CLE*W-wo*3*2*10*43-44*3* 14.5*Portocarrero*Wilhelm*None*2:22*D*11,342*++*None
+Tuesday, Jul 22*boxscore*BAL*@*CHW*L*2*4*None*43-45*3* 15.5*Pierce*Harshman*Lown*2:39*N*14,563*-*None
+Wednesday, Jul 23*boxscore*BAL*@*CHW*W*6*4*None*44-45*3* 15.5*Zuverink*Wynn*Portocarrero*2:59*D*5,501*+*None
+Thursday, Jul 24*boxscore*BAL*@*CHW*W*7*3*None*45-45*3* 15.5*Pappas*Wilson*None*2:32*D*4,525*++*None
+Friday, Jul 25*boxscore*BAL*@*KCA*W*8*3*None*46-45*3* 15.5*Portocarrero*Grim*None*2:26*D*14,657*+++*None
+Saturday, Jul 26*boxscore*BAL*@*KCA*W*4*3*None*47-45*2* 15.5*Harshman*Davis*O'Dell*2:24*N*12,465*++++*None
+Sunday, Jul 27*boxscore*BAL*@*KCA*L*6*11*None*47-46*3* 15.0*Garver*Zuverink*Dickson*2:43*D*11,064*-*None
+Tuesday, Jul 29*boxscore*BAL*@*CLE*L*4*9*None*47-47*3* 15.5*Bell*Pappas*None*2:07*N*6,334*--*None
+Wednesday, Jul 30*boxscore*BAL*@*CLE*L*3*6*None*47-48*3* 15.5*Narleski*Portocarrero*Grant*1:59*N*6,003*---*None
+Friday, Aug 1*boxscore*BAL*@*DET*L*1*3*None*47-49*3* 17.0*Moford*Harshman*None*2:03*N*18,312*----*None
+Saturday, Aug 2*boxscore*BAL*@*DET*L*7*8*None*47-50*4* 18.0*Cicotte*Loes*Susce*2:35*D*7,566*-----*None
+Sunday, Aug 3*boxscore*BAL*@*DET*L*2*3*None*47-51*6* 18.0*Foytack*Pappas*None*2:23*D*None*------*None
+Sunday, Aug 3*boxscore*BAL*@*DET*L*1*4*None*47-52*6* 18.0*Hoeft*Brown*None*2:13*D*17,229*-------*1958-06-25 (Rain)
+Monday, Aug 4*boxscore*BAL*None*NYY*L*4*9*None*47-53*6* 19.0*Larsen*Portocarrero*Duren*2:58*N*26,685*--------*1958-04-27 (Rain)
+Tuesday, Aug 5*boxscore*BAL*None*NYY*L*1*4*None*47-54*6* 20.0*Turley*Johnson*None*2:31*N*22,333*---------*None
+Wednesday, Aug 6*boxscore*BAL*None*NYY*L*1*3*None*47-55*6* 21.0*Ditmar*Harshman*None*2:06*N*18,076*----------*None
+Friday, Aug 8*boxscore*BAL*@*WSH*L*2*4*None*47-56*6* 22.0*Kemmerer*Brown*Hyde*2:11*N*5,375*-----------*None
+Saturday, Aug 9*boxscore*BAL*@*WSH*W*12*5*None*48-56*6* 21.0*Portocarrero*Pascual*Loes*3:11*D*3,810*+*None
+Sunday, Aug 10*boxscore*BAL*@*WSH*L*2*6*None*48-57*6* 21.0*Ramos*Pappas*Hyde*2:12*D*None*-*None
+Sunday, Aug 10*boxscore*BAL*@*WSH*W*6*1*None*49-57*6* 21.0*O'Dell*Griggs*None*2:22*D*7,198*+*1958-04-21 (Rain)
+Monday, Aug 11*boxscore*BAL*@*NYY*W*3*2*None*50-57*6* 19.0*Harshman*Ditmar*None*2:28*D*None*++*None
+Monday, Aug 11*boxscore*BAL*@*NYY*W*9*3*None*51-57*6* 19.0*Johnson*Kucks*None*2:22*N*14,572*+++*1958-05-15 (Rain)
+Tuesday, Aug 12*boxscore*BAL*@*NYY*L*2*7*None*51-58*6* 20.0*Sturdivant*Brown*Trucks*3:03*D*11,166*-*None
+Wednesday, Aug 13*boxscore*BAL*None*BOS*W*2*1*None*52-58*6* 19.0*Portocarrero*Sullivan*O'Dell*2:25*N*24,101*+*None
+Friday, Aug 15*boxscore*BAL*None*WSH*L*1*3*None*52-59*6* 19.5*Valentinetti*Harshman*None*2:00*N*7,375*-*None
+Saturday, Aug 16*boxscore*BAL*None*WSH*W*9*0*None*53-59*6* 18.5*O'Dell*Ramos*None*2:09*N*7,767*+*None
+Sunday, Aug 17*boxscore*BAL*None*WSH*W*2*1*None*54-59*5* 17.5*Johnson*Kemmerer*None*1:45*D*6,588*++*None
+Monday, Aug 18*boxscore*BAL*None*KCA*W*8*2*None*55-59*5* 17.0*Brown*Terry*None*2:09*N*4,741*+++*1958-07-11 (Rain)
+Tuesday, Aug 19*boxscore*BAL*None*KCA*L*1*4*None*55-60*6* 17.5*Garver*Pappas*None*2:02*N*None*-*None
+Tuesday, Aug 19*boxscore*BAL*None*KCA*L*4*6*None*55-61*6* 17.5*Dickson*Portocarrero*Gorman*2:30*N*11,334*--*1958-07-12 (Rain)
+Wednesday, Aug 20*boxscore*BAL*None*KCA*W*4*3*None*56-61*5* 17.5*Harshman*Craddock*None*2:05*N*6,337*+*None
+Thursday, Aug 21*boxscore*BAL*None*DET*W*7*6*None*57-61*4* 17.5*Beamon*Susce*Loes*2:40*N*10,039*++*None
+Friday, Aug 22*boxscore*BAL*None*DET*W*2*1*None*58-61*4* 17.5*Johnson*Bunning*Harshman*2:29*N*11,179*+++*None
+Saturday, Aug 23*boxscore*BAL*None*DET*L*1*5*None*58-62*4* 17.5*Cicotte*Portocarrero*None*2:26*D*9,172*-*None
+Sunday, Aug 24*boxscore*BAL*None*CHW*W*5*2*None*59-62*4* 17.0*O'Dell*Donovan*Loes*2:18*D*6,897*+*None
+Monday, Aug 25*boxscore*BAL*None*CHW*W*6*5*None*60-62*4* 16.5*Pappas*Shaw*Loes*2:46*N*7,741*++*None
+Tuesday, Aug 26*boxscore*BAL*None*CLE*W-wo*1*0*12*61-62*4* 16.5*Brown*Ferrarese*None*2:40*N*9,637*+++*None
+Wednesday, Aug 27*boxscore*BAL*None*CLE*L*5*8*None*61-63*4* 16.5*McLish*Johnson*Mossi*2:46*N*12,271*-*None
+Friday, Aug 29*boxscore*BAL*@*BOS*L*2*5*None*61-64*4* 16.5*Sullivan*Portocarrero*None*2:02*N*16,411*--*None
+Saturday, Aug 30*boxscore*BAL*@*BOS*W*7*2*None*62-64*4* 15.5*Pappas*Monbouquette*O'Dell*2:27*D*9,887*+*None
+Sunday, Aug 31*boxscore*BAL*@*BOS*L*2*3*None*62-65*4* 16.5*Brewer*Wilhelm*None*1:52*D*13,112*-*None
+Monday, Sep 1*boxscore*BAL*@*WSH*W*2*0*None*63-65*4* 15.5*Harshman*Pascual*None*2:23*D*None*+*None
+Monday, Sep 1*boxscore*BAL*@*WSH*W*10*1*None*64-65*4* 15.5*O'Dell*Constable*None*2:10*D*9,485*++*None
+Tuesday, Sep 2*boxscore*BAL*@*WSH*L*3*4*None*64-66*4* 16.5*Ramos*Brown*Hyde*2:13*N*2,233*-*None
+Wednesday, Sep 3*boxscore*BAL*@*WSH*W*4*3*None*65-66*4* 16.5*Portocarrero*Valentinetti*Harshman*2:24*N*2,104*+*None
+Thursday, Sep 4*boxscore*BAL*None*BOS*L*2*5*None*65-67*4* 17.0*Monbouquette*Pappas*Wall*2:21*N*9,944*-*None
+Friday, Sep 5*boxscore*BAL*None*BOS*L*2*10*None*65-68*5* 17.0*Brewer*Harshman*None*2:31*N*12,682*--*None
+Saturday, Sep 6*boxscore*BAL*None*BOS*W*4*2*None*66-68*4* 16.0*O'Dell*Delock*None*2:00*N*9,501*+*None
+Sunday, Sep 7*boxscore*BAL*None*BOS*L*5*6*10*66-69*4* 16.5*Sisler*Pappas*Kiely*2:59*D*9,416*-*None
+Tuesday, Sep 9*boxscore*BAL*@*KCA*L*6*8*None*66-70*5* 16.5*Terry*Portocarrero*Gorman*2:30*N*7,545*--*None
+Wednesday, Sep 10*boxscore*BAL*@*KCA*L*2*4*None*66-71*5* 17.5*Grim*Harshman*None*2:18*N*6,039*---*None
+Thursday, Sep 11*boxscore*BAL*@*KCA*L*1*7*None*66-72*6* 18.0*Garver*O'Dell*None*2:20*D*4,527*----*None
+Friday, Sep 12*boxscore*BAL*@*DET*L*1*3*None*66-73*7* 19.0*Lary*Wilhelm*None*1:54*N*11,178*-----*None
+Saturday, Sep 13*boxscore*BAL*@*DET*L*2*13*None*66-74*7* 20.0*Bunning*Brown*None*2:27*D*5,508*------*None
+Sunday, Sep 14*boxscore*BAL*@*CLE*L*4*7*None*66-75*6* 21.0*Ferrarese*Johnson*None*2:17*D*None*-------*None
+Sunday, Sep 14*boxscore*BAL*@*CLE*W*4*2*None*67-75*6* 21.0*Portocarrero*Grant*Loes*2:14*D*10,244*+*None
+Tuesday, Sep 16*boxscore*BAL*@*CHW*L*3*4*None*67-76*6* 21.0*Donovan*Wilhelm*None*2:36*N*5,241*-*None
+Thursday, Sep 18*boxscore*BAL*@*CHW*L*2*6*None*67-77*7* 21.0*Latman*Harshman*Lown*2:27*D*734*--*1958-09-17 (Rain)
+Friday, Sep 19*boxscore*BAL*None*NYY*W-wo*5*4*None*68-77*7* 20.0*Sleater*Ditmar*None*2:31*N*12,731*+*None
+Saturday, Sep 20*boxscore*BAL*None*NYY*W*1*0*None*69-77*7* 19.0*Wilhelm*Shantz*None*1:48*D*10,941*++*None
+Sunday, Sep 21*boxscore*BAL*None*NYY*W*3*2*None*70-77*6* 18.0*Pappas*Sturdivant*None*2:20*D*4,177*+++*None
+Monday, Sep 22*boxscore*BAL*None*WSH*W*2*0*None*71-77*6* 17.5*Brown*Kemmerer*None*1:48*N*5,701*++++*None
+Tuesday, Sep 23*boxscore*BAL*None*WSH*W*3*2*None*72-77*6* 16.5*Harshman*Ramos*None*2:08*N*6,478*+++++*None
+Wednesday, Sep 24*boxscore*BAL*None*WSH*W*2*0*None*73-77*6* 16.5*Portocarrero*Pascual*None*1:57*N*8,124*++++++*None
+Friday, Sep 26*boxscore*BAL*@*NYY*W*3*2*12*74-77*6* 15.5*Loes*Trucks*None*3:05*N*14,668*+++++++*None
+Sunday, Sep 28*boxscore*BAL*@*NYY*L*0*7*None*74-78*6* 17.5*Larsen*Harshman*Kucks*2:15*D*None*-*None
+Sunday, Sep 28*boxscore*BAL*@*NYY*L*3*6*None*74-79*6* 17.5*Sturdivant*Pappas*Monroe*2:00*D*17,763*--*1958-09-27 (Rain)

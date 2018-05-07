@@ -1,0 +1,156 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 13*boxscore*CHC*@*CIN*W*5*1*None*2-0*1* Tied*Aldridge*Luque*None*None*D*None*++*None
+Saturday, Apr 15*boxscore*CHC*@*CIN*L*3*8*None*2-1*4* 1.0*Donohue*Cheeves*None*None*D*None*-*None
+Sunday, Apr 16*boxscore*CHC*@*STL*L*2*3*None*2-2*4* 2.0*Sherdel*Jones*None*1:48*D*None*--*None
+Monday, Apr 17*boxscore*CHC*@*STL*W*7*6*None*3-2*3* 1.0*Martin*Barfoot*Keen*None*D*None*+*None
+Tuesday, Apr 18*boxscore*CHC*@*STL*W*7*5*None*4-2*2* 0.5*Aldridge*Bailey*Freeman*None*D*None*++*None
+Thursday, Apr 20*boxscore*CHC*None*CIN*W*3*1*None*5-2*2* 0.5*Alexander*Donohue*None*None*D*None*+++*None
+Friday, Apr 21*boxscore*CHC*None*CIN*W*8*3*None*6-2*2* 0.5*Cheeves*Rixey*None*None*D*None*++++*None
+Saturday, Apr 22*boxscore*CHC*None*CIN*W*3*1*None*7-2*1*up 0.5*Osborne*Luque*None*None*D*None*+++++*None
+Sunday, Apr 23*boxscore*CHC*None*PIT*L*3*14*None*7-3*2* 0.5*Carlson*Jones*None*2:11*D*None*-*None
+Monday, Apr 24*boxscore*CHC*None*PIT*W*4*2*None*8-3*2* 0.5*Aldridge*Cooper*None*None*D*None*+*None
+Wednesday, Apr 26*boxscore*CHC*None*PIT*W*4*3*10*9-3*1* Tied*Alexander*Adams*None*None*D*None*++*None
+Thursday, Apr 27*boxscore*CHC*None*STL*W*6*4*None*10-3*1* Tied*Jones*Haines*None*None*D*None*+++*None
+Friday, Apr 28*boxscore*CHC*None*STL*L*3*11*None*10-4*2* 1.0*Sherdel*Cheeves*None*None*D*None*-*None
+Saturday, Apr 29*boxscore*CHC*None*STL*W*4*3*None*11-4*2* 1.0*Aldridge*Barfoot*None*None*D*None*+*None
+Sunday, Apr 30*boxscore*CHC*None*STL*L*0*10*None*11-5*2* 1.5*Pfeffer*Alexander*None*2:13*D*None*-*None
+Friday, May 5*boxscore*CHC*@*PIT*L*1*3*None*11-6*2* 2.5*Cooper*Jones*None*None*D*None*--*None
+Saturday, May 6*boxscore*CHC*@*PIT*W*11*7*None*12-6*2* 2.5*Aldridge*Glazner*None*None*D*None*+*None
+Sunday, May 7*boxscore*CHC*None*PIT*L*5*11*None*12-7*2* 3.5*Carlson*Alexander*None*1:57*D*None*-*None
+Tuesday, May 9*boxscore*CHC*None*PHI*L*4*9*None*12-8*2* 4.5*Ring*Freeman*None*None*D*None*--*None
+Wednesday, May 10*boxscore*CHC*None*PHI*L*0*4*None*12-9*2* 5.5*Meadows*Alexander*None*None*D*None*---*None
+Thursday, May 11*boxscore*CHC*None*PHI*L*9*11*10*12-10*4* 5.5*Winters*Keen*None*None*D*None*----*None
+Friday, May 12*boxscore*CHC*None*PHI*L*4*7*None*12-11*4* 5.5*Smith*Jones*None*None*D*None*-----*None
+Saturday, May 13*boxscore*CHC*None*NYG*W*3*0*None*13-11*4* 4.5*Cheeves*Ryan*None*None*D*12,000*+*None
+Sunday, May 14*boxscore*CHC*None*NYG*L*4*5*10*13-12*4* 5.5*Douglas*Alexander*None*None*D*15,000*-*None
+Monday, May 15*boxscore*CHC*None*NYG*L*0*1*None*13-13*4* 6.5*Nehf*Aldridge*None*None*D*None*--*None
+Tuesday, May 16*boxscore*CHC*None*NYG*W*3*2*None*14-13*4* 5.5*Cheeves*Toney*None*None*D*5,000*+*None
+Wednesday, May 17*boxscore*CHC*None*BSN*W*6*3*None*15-13*4* 5.0*Jones*McQuillan*None*None*D*None*++*None
+Saturday, May 20*boxscore*CHC*None*BSN*W*5*3*None*16-13*4* 4.0*Alexander*Fillingim*None*None*D*None*+++*None
+Sunday, May 21*boxscore*CHC*None*BRO*L*4*8*None*16-14*4* 4.0*Ruether*Aldridge*None*None*D*18,000*-*None
+Monday, May 22*boxscore*CHC*None*BRO*L*0*3*None*16-15*4* 4.0*Vance*Cheeves*None*None*D*None*--*None
+Tuesday, May 23*boxscore*CHC*None*BRO*L*2*6*None*16-16*4* 4.0*Mamaux*Jones*None*None*D*None*---*None
+Thursday, May 25*boxscore*CHC*@*CIN*T*2*2*8*16-16*4* 4.5*None*None*None*None*D*None*---*None
+Friday, May 26*boxscore*CHC*@*CIN*W*5*2*None*17-16*5* 5.5*Cheeves*Rixey*None*None*D*None*+*None
+Friday, May 26*boxscore*CHC*@*CIN*L*1*2*None*17-17*5* 5.5*Keck*Aldridge*None*None*D*None*-*1922-04-14 (Rain)
+Saturday, May 27*boxscore*CHC*@*CIN*L*1*8*None*17-18*6* 7.0*Gillespie*Jones*None*None*D*None*--*None
+Saturday, May 27*boxscore*CHC*@*CIN*L*6*7*None*17-19*6* 7.0*Markle*Osborne*None*None*D*None*---*None
+Sunday, May 28*boxscore*CHC*@*CIN*W*8*7*None*18-19*6* 7.0*Cheeves*Luque*None*None*D*None*+*None
+Monday, May 29*boxscore*CHC*None*STL*L*4*5*10*18-20*6* 7.0*North*Kaufmann*None*None*D*None*-*None
+Tuesday, May 30*boxscore*CHC*None*STL*W*4*1*None*19-20*5* 6.0*Stueland*Sherdel*None*None*D*4,000*+*None
+Tuesday, May 30*boxscore*CHC*None*STL*W*3*1*None*20-20*5* 6.0*Aldridge*Doak*None*None*D*None*++*None
+Thursday, Jun 1*boxscore*CHC*None*CIN*L*1*6*None*20-21*5* 5.5*Luque*Alexander*None*None*D*None*-*None
+Friday, Jun 2*boxscore*CHC*None*CIN*L*7*11*None*20-22*6* 5.5*Couch*Kaufmann*None*None*D*None*--*None
+Saturday, Jun 3*boxscore*CHC*None*CIN*L*2*4*None*20-23*6* 5.5*Rixey*Aldridge*None*None*D*None*---*None
+Sunday, Jun 4*boxscore*CHC*None*CIN*W*6*5*None*21-23*6* 5.5*Alexander*Markle*None*None*D*None*+*None
+Wednesday, Jun 7*boxscore*CHC*@*NYG*L*4*9*None*21-24*6* 6.5*Ryan*Cheeves*None*None*D*12,000*-*None
+Thursday, Jun 8*boxscore*CHC*@*NYG*L*5*11*None*21-25*6* 7.5*Causey*Aldridge*None*2:05*D*7,000*--*None
+Friday, Jun 9*boxscore*CHC*@*NYG*W*4*3*None*22-25*6* 6.5*Alexander*Nehf*None*None*D*8,000*+*None
+Saturday, Jun 10*boxscore*CHC*@*BRO*L*0*13*None*22-26*6* 7.5*Vance*Kaufmann*Decatur*None*D*9,000*-*None
+Sunday, Jun 11*boxscore*CHC*@*BRO*L*1*6*None*22-27*6* 8.5*Ruether*Jones*None*None*D*None*--*None
+Monday, Jun 12*boxscore*CHC*@*BRO*W*8*0*None*23-27*6* 8.5*Aldridge*Smith*None*None*D*5,000*+*None
+Tuesday, Jun 13*boxscore*CHC*@*BRO*W*8*3*None*24-27*5* 8.5*Alexander*Grimes*None*None*D*5,000*++*None
+Wednesday, Jun 14*boxscore*CHC*@*BSN*W*15*2*None*25-27*5* 8.5*Stueland*Oeschger*None*None*D*None*+++*None
+Friday, Jun 16*boxscore*CHC*@*BSN*W*7*6*12*26-27*5* 9.0*Kaufmann*Fillingim*None*None*D*None*++++*None
+Saturday, Jun 17*boxscore*CHC*@*BSN*L*4*6*None*26-28*5* 9.5*Miller*Aldridge*None*None*D*None*-*None
+Saturday, Jun 17*boxscore*CHC*@*BSN*W*3*2*None*27-28*5* 9.5*Alexander*McQuillan*None*None*D*None*+*None
+Monday, Jun 19*boxscore*CHC*@*PHI*L*6*8*None*27-29*5* 9.0*Winters*Kaufmann*None*None*D*None*-*None
+Wednesday, Jun 21*boxscore*CHC*@*PHI*W*6*3*6*28-29*5* 8.5*Aldridge*Smith*None*None*D*None*+*None
+Thursday, Jun 22*boxscore*CHC*@*PIT*L*6*8*None*28-30*5* 8.5*Cooper*Alexander*Carlson*None*D*None*-*1922-05-03 (Rain)
+Friday, Jun 23*boxscore*CHC*@*STL*W*5*2*None*29-30*5* 8.5*Cheeves*Doak*None*1:59*D*None*+*None
+Saturday, Jun 24*boxscore*CHC*@*STL*W*10*9*None*30-30*4* 7.5*Alexander*Walker*None*2:13*D*12,000*++*None
+Sunday, Jun 25*boxscore*CHC*@*STL*L*1*11*None*30-31*5* 8.5*Sherdel*Aldridge*None*2:00*D*11,000*-*None
+Monday, Jun 26*boxscore*CHC*None*PIT*W*6*4*None*31-31*5* 8.0*Stueland*Morrison*None*None*D*None*+*None
+Tuesday, Jun 27*boxscore*CHC*None*PIT*L*1*6*None*31-32*6* 9.5*Cooper*Cheeves*None*None*D*None*-*None
+Tuesday, Jun 27*boxscore*CHC*None*PIT*L*6*7*None*31-33*6* 9.5*Glazner*Alexander*Carlson*1:43*D*9,000*--*1922-04-25 (Rain)
+Wednesday, Jun 28*boxscore*CHC*None*PIT*L*2*7*None*31-34*6* 10.0*Hamilton*Aldridge*None*None*D*None*---*None
+Friday, Jun 30*boxscore*CHC*None*CIN*L*5*9*None*31-35*6* 11.5*Rixey*Stueland*None*None*D*None*----*None
+Saturday, Jul 1*boxscore*CHC*None*CIN*W*6*5*None*32-35*6* 11.0*Osborne*Donohue*None*None*D*None*+*None
+Sunday, Jul 2*boxscore*CHC*None*PIT*W*5*1*None*33-35*4* 10.5*Alexander*Hamilton*None*1:44*D*8,000*++*None
+Monday, Jul 3*boxscore*CHC*@*PIT*L*2*5*None*33-36*6* 11.5*Yellow Horse*Stueland*None*None*D*None*-*None
+Tuesday, Jul 4*boxscore*CHC*@*PIT*W*8*4*None*34-36*4* 10.5*Cheeves*Glazner*Osborne*2:07*D*None*+*None
+Tuesday, Jul 4*boxscore*CHC*@*PIT*W*8*0*None*35-36*4* 10.5*Aldridge*Morrison*None*1:31*D*None*++*None
+Wednesday, Jul 5*boxscore*CHC*@*PIT*W*11*5*None*36-36*4* 10.0*Jones*Carlson*None*None*D*None*+++*None
+Friday, Jul 7*boxscore*CHC*None*BSN*W*7*2*None*37-36*4* 10.5*Alexander*Miller*None*None*D*None*++++*None
+Saturday, Jul 8*boxscore*CHC*None*BSN*W*6*5*None*38-36*4* 9.0*Stueland*Fillingim*Osborne*None*D*None*+++++*None
+Saturday, Jul 8*boxscore*CHC*None*BSN*W*8*2*None*39-36*4* 9.0*Kaufmann*McQuillan*None*1:57*D*None*++++++*1922-05-18 (Rain)
+Sunday, Jul 9*boxscore*CHC*None*BSN*W*7*2*None*40-36*3* 8.5*Aldridge*Oeschger*None*1:27*D*12,000*+++++++*None
+Monday, Jul 10*boxscore*CHC*None*BSN*W*4*0*None*41-36*3* 8.0*Jones*Marquard*None*None*D*None*++++++++*None
+Tuesday, Jul 11*boxscore*CHC*None*NYG*L*0*4*None*41-37*3* 9.0*Barnes*Cheeves*None*None*D*None*-*None
+Wednesday, Jul 12*boxscore*CHC*None*NYG*L*1*5*None*41-38*3* 10.0*Toney*Alexander*None*None*D*5,000*--*None
+Thursday, Jul 13*boxscore*CHC*None*NYG*W*5*4*12*42-38*3* 9.0*Aldridge*Causey*None*None*D*5,000*+*None
+Friday, Jul 14*boxscore*CHC*None*NYG*W*8*4*None*43-38*3* 8.0*Cheeves*Nehf*None*None*D*15,000*++*None
+Saturday, Jul 15*boxscore*CHC*None*PHI*L*1*2*None*43-39*3* 8.0*Weinert*Kaufmann*None*None*D*None*-*None
+Sunday, Jul 16*boxscore*CHC*None*PHI*L*7*10*None*43-40*3* 8.0*Smith*Alexander*Hubbell*None*D*None*--*None
+Monday, Jul 17*boxscore*CHC*None*PHI*W*3*2*None*44-40*3* 8.0*Jones*Meadows*None*None*D*None*+*None
+Tuesday, Jul 18*boxscore*CHC*None*PHI*W*6*3*None*45-40*3* 7.0*Aldridge*Singleton*None*None*D*None*++*None
+Wednesday, Jul 19*boxscore*CHC*None*BRO*W*8*6*None*46-40*3* 7.0*Osborne*Smith*None*None*D*4,500*+++*None
+Thursday, Jul 20*boxscore*CHC*None*BRO*L*7*11*None*46-41*3* 8.0*Grimes*Kaufmann*None*None*D*None*-*None
+Friday, Jul 21*boxscore*CHC*None*BRO*W*1*0*None*47-41*3* 7.5*Alexander*Ruether*None*None*D*5,000*+*None
+Saturday, Jul 22*boxscore*CHC*None*BRO*L*6*7*None*47-42*3* 8.5*Vance*Cheeves*None*None*D*6,000*-*None
+Sunday, Jul 23*boxscore*CHC*None*BRO*W*4*1*None*48-42*3* 7.5*Aldridge*Shriver*None*None*D*None*+*None
+Tuesday, Jul 25*boxscore*CHC*@*BSN*W*6*3*None*49-42*3* 7.0*Osborne*Watson*None*None*D*None*++*None
+Wednesday, Jul 26*boxscore*CHC*@*BSN*L*1*2*10*49-43*3* 7.5*McQuillan*Alexander*None*None*D*None*-*None
+Wednesday, Jul 26*boxscore*CHC*@*BSN*W*5*1*None*50-43*3* 7.5*Kaufmann*Miller*None*None*D*None*+*1922-06-15 (Rain)
+Thursday, Jul 27*boxscore*CHC*@*BSN*L*7*8*10*50-44*3* 8.5*Miller*Cheeves*None*None*D*None*-*None
+Friday, Jul 28*boxscore*CHC*@*BSN*W*9*0*None*51-44*3* 8.0*Jones*Oeschger*None*None*D*None*+*None
+Saturday, Jul 29*boxscore*CHC*@*PHI*L*2*6*None*51-45*3* 7.5*Ring*Osborne*None*None*D*None*-*None
+Saturday, Jul 29*boxscore*CHC*@*PHI*W*7*5*12*52-45*3* 7.5*Kaufmann*Singleton*None*None*D*None*+*None
+Monday, Jul 31*boxscore*CHC*@*PHI*W*13*5*None*53-45*3* 6.0*Stueland*Hubbell*None*None*D*None*++*None
+Wednesday, Aug 2*boxscore*CHC*@*PHI*T*7*7*15*53-45*3* 5.5*None*None*None*3:35*D*None*++*None
+Thursday, Aug 3*boxscore*CHC*@*NYG*L*0*5*None*53-46*3* 6.5*Nehf*Aldridge*None*None*D*8,000*-*None
+Friday, Aug 4*boxscore*CHC*@*NYG*W*3*2*None*54-46*3* 7.0*Kaufmann*McQuillan*Alexander*None*D*None*+*None
+Friday, Aug 4*boxscore*CHC*@*NYG*L*1*2*None*54-47*3* 7.0*Scott*Alexander*None*None*D*17,000*-*1922-06-06 (Wet grounds)
+Saturday, Aug 5*boxscore*CHC*@*NYG*L*7*19*None*54-48*3* 7.5*Jonnard*Cheeves*Barnes*None*D*18,000*--*None
+Sunday, Aug 6*boxscore*CHC*@*NYG*W*10*3*10*55-48*3* 6.5*Osborne*Barnes*None*None*D*25,000*+*None
+Tuesday, Aug 8*boxscore*CHC*@*BRO*W*4*1*None*56-48*3* 5.5*Aldridge*Ruether*None*None*D*2,000*++*None
+Wednesday, Aug 9*boxscore*CHC*@*BRO*W*6*5*None*57-48*3* 5.0*Alexander*Cadore*None*None*D*3,000*+++*None
+Thursday, Aug 10*boxscore*CHC*@*BRO*L*1*16*None*57-49*4* 6.0*Vance*Kaufmann*Murray*None*D*3,000*-*None
+Saturday, Aug 12*boxscore*CHC*@*STL*W*6*4*None*58-49*4* 5.5*Jones*Pfeffer*None*2:18*D*None*+*None
+Sunday, Aug 13*boxscore*CHC*@*STL*W*16*5*None*59-49*3* 5.5*Aldridge*Sherdel*None*2:17*D*15,000*++*None
+Monday, Aug 14*boxscore*CHC*@*STL*W*8*6*None*60-49*3* 5.0*Alexander*Haines*None*1:55*D*14,000*+++*None
+Tuesday, Aug 15*boxscore*CHC*None*BSN*W*5*0*None*61-49*3* 3.5*Kaufmann*Watson*None*None*D*None*++++*None
+Tuesday, Aug 15*boxscore*CHC*None*BSN*W*8*3*None*62-49*3* 3.5*Jones*McNamara*None*None*D*None*+++++*1922-05-19 (Wet grounds)
+Wednesday, Aug 16*boxscore*CHC*None*BSN*W*9*4*None*63-49*3* 3.5*Osborne*Hulihan*Cheeves*2:08*D*None*++++++*None
+Thursday, Aug 17*boxscore*CHC*None*BSN*W*7*2*None*64-49*2* 3.5*Stueland*Oeschger*Jones*1:45*D*None*+++++++*None
+Friday, Aug 18*boxscore*CHC*None*NYG*L*11*17*None*64-50*3* 4.5*Jonnard*Cheeves*Scott*2:56*D*27,000*-*None
+Saturday, Aug 19*boxscore*CHC*None*NYG*W*2*1*11*65-50*2* 3.5*Alexander*Nehf*None*None*D*20,000*+*None
+Sunday, Aug 20*boxscore*CHC*None*NYG*L*4*5*None*65-51*3* 4.5*Scott*Kaufmann*Jonnard*None*D*28,000*-*None
+Tuesday, Aug 22*boxscore*CHC*None*BRO*L*4*5*None*65-52*3* 5.5*Vance*Stueland*None*None*D*None*--*None
+Wednesday, Aug 23*boxscore*CHC*None*BRO*L*0*6*None*65-53*3* 6.0*Smith*Jones*None*None*D*5,000*---*None
+Thursday, Aug 24*boxscore*CHC*None*BRO*W*4*1*None*66-53*3* 6.0*Alexander*Mamaux*None*None*D*4,500*+*None
+Friday, Aug 25*boxscore*CHC*None*PHI*W*26*23*None*67-53*3* 6.0*Kaufmann*Ring*Osborne*3:01*D*7,000*++*None
+Saturday, Aug 26*boxscore*CHC*None*PHI*L*0*3*11*67-54*3* 7.0*Meadows*Aldridge*None*None*D*None*-*None
+Sunday, Aug 27*boxscore*CHC*None*PHI*W*3*1*None*68-54*2* 7.0*Cheeves*Ring*Osborne*None*D*None*+*None
+Tuesday, Aug 29*boxscore*CHC*@*STL*W*15*11*None*69-54*2* 6.5*Stueland*Pertica*Kaufmann*2:16*D*None*++*None
+Wednesday, Aug 30*boxscore*CHC*@*STL*L*4*5*10*69-55*2* 6.5*North*Aldridge*None*2:10*D*None*-*None
+Friday, Sep 1*boxscore*CHC*None*CIN*W*7*4*None*70-55*2* 5.0*Cheeves*Luque*None*2:00*D*None*+*None
+Saturday, Sep 2*boxscore*CHC*None*CIN*L*5*17*None*70-56*2* 5.5*Donohue*Kaufmann*None*2:01*D*None*-*None
+Sunday, Sep 3*boxscore*CHC*None*PIT*L*0*2*11*70-57*3* 6.5*Hamilton*Alexander*None*2:10*D*None*--*None
+Monday, Sep 4*boxscore*CHC*@*CIN*L*3*4*None*70-58*5* 7.5*Couch*Kaufmann*None*None*D*None*---*None
+Monday, Sep 4*boxscore*CHC*@*CIN*L*0*5*None*70-59*5* 7.5*Keck*Aldridge*None*None*D*None*----*None
+Tuesday, Sep 5*boxscore*CHC*@*CIN*W*3*1*None*71-59*3* 6.0*Osborne*Luque*None*None*D*None*+*None
+Thursday, Sep 7*boxscore*CHC*@*PIT*L*0*6*None*71-60*4* 7.0*Cooper*Stueland*None*None*D*None*-*None
+Friday, Sep 8*boxscore*CHC*@*PIT*W*10*7*None*72-60*3* 6.0*Cheeves*Brown*Kaufmann*None*D*None*+*None
+Saturday, Sep 9*boxscore*CHC*@*PIT*L*4*7*None*72-61*5* 7.5*Glazner*Alexander*None*1:42*D*None*-*None
+Saturday, Sep 9*boxscore*CHC*@*PIT*L*7*8*10*72-62*5* 7.5*Hamilton*Kaufmann*None*2:07*D*None*--*1922-05-04 (Rain)
+Wednesday, Sep 13*boxscore*CHC*@*NYG*L*3*8*None*72-63*5* 10.0*Nehf*Cheeves*Ryan*None*D*10,000*---*None
+Thursday, Sep 14*boxscore*CHC*@*NYG*L*6*7*None*72-64*5* 11.0*Ryan*Aldridge*Jonnard*None*D*8,000*----*None
+Friday, Sep 15*boxscore*CHC*@*NYG*L*6*7*None*72-65*5* 12.0*Hill*Osborne*Scott*None*D*8,000*-----*None
+Saturday, Sep 16*boxscore*CHC*@*BRO*W*7*5*None*73-65*5* 12.0*Aldridge*Ruether*None*1:50*D*5,000*+*None
+Saturday, Sep 16*boxscore*CHC*@*BRO*L*0*1*10*73-66*5* 12.0*Shriver*Keen*None*1:51*D*10,000*-*1922-08-07 (Rain)
+Sunday, Sep 17*boxscore*CHC*@*BRO*W*6*2*None*74-66*5* 11.0*Osborne*Smith*None*None*D*10,000*+*None
+Monday, Sep 18*boxscore*CHC*@*BRO*W*4*3*None*75-66*5* 11.0*Stueland*Vance*Cheeves*None*D*1,000*++*None
+Wednesday, Sep 20*boxscore*CHC*@*PHI*L*8*9*None*75-67*5* 11.5*Winters*Osborne*None*2:11*D*None*-*None
+Wednesday, Sep 20*boxscore*CHC*@*PHI*L*1*11*None*75-68*5* 11.5*Behan*Aldridge*None*None*D*None*--*1922-06-20 (Rain)
+Thursday, Sep 21*boxscore*CHC*@*PHI*W*8*6*None*76-68*5* 11.0*Keen*Weinert*None*1:45*D*None*+*None
+Thursday, Sep 21*boxscore*CHC*@*PHI*L*2*4*None*76-69*5* 11.0*Hubbell*Kaufmann*None*None*D*None*-*1922-08-01 (Rain)
+Friday, Sep 22*boxscore*CHC*@*PHI*W*7*5*11*77-69*5* 11.5*Cheeves*Smith*None*2:04*D*None*+*None
+Friday, Sep 22*boxscore*CHC*@*PHI*L*5*9*None*77-70*5* 11.5*Winters*Osborne*None*None*D*None*-*None
+Saturday, Sep 23*boxscore*CHC*@*BSN*L*4*8*None*77-71*5* 12.0*Oeschger*Fussell*None*2:03*D*None*--*None
+Saturday, Sep 23*boxscore*CHC*@*BSN*W*3*1*None*78-71*5* 12.0*Stueland*Miller*None*None*D*None*+*1922-09-25 (Schedule change)
+Wednesday, Sep 27*boxscore*CHC*@*PIT*W*4*1*None*79-71*5* 12.0*Fussell*Cooper*None*1:35*D*None*++*1922-09-10 (Rain; Site change)
+Friday, Sep 29*boxscore*CHC*None*STL*W*3*0*None*80-71*5* 11.5*Osborne*Pfeffer*None*None*D*None*+++*None
+Saturday, Sep 30*boxscore*CHC*None*STL*L*8*9*None*80-72*5* 12.5*Sell*Aldridge*Doak*1:54*D*7,500*-*None
+Saturday, Sep 30*boxscore*CHC*None*STL*L*3*5*5*80-73*5* 12.5*Haines*Jones*None*0:56*D*None*--*1922-05-31 (Rain)
+Sunday, Oct 1*boxscore*CHC*None*STL*L*1*7*None*80-74*5* 13.0*Pfeffer*Kaufmann*None*None*D*None*---*None

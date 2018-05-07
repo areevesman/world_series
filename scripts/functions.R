@@ -21,8 +21,9 @@ get_data <- function(table_name, years){
     
     data_all_years_list[[i]] <- read.csv(text = data_all_years_urls[i], 
                                          stringsAsFactors = FALSE) %>%
-      as_tibble() %>% 
-      mutate(year = years[i])
+      as_tibble() 
+    #%>% 
+     # mutate(year = ifelse(years = NULL, NULL,years[i]))
     
   }
   
@@ -35,34 +36,6 @@ get_data <- function(table_name, years){
 
 
 #get_data("cubs", 2016)
-
-
-
-
-
-
-
-years <- 2006:2017
-
-#get all urls to all table_name data on github
-data_all_years_urls <- getURL(
-  paste("https://raw.githubusercontent.com/areevesman/world_series/master/data/",
-        table_name,
-        as.character(years),
-        ".csv",
-        sep = ""))
-
-#get all tables
-data_all_years_list <- list()
-for (i in 1 :length(data_all_years_urls)){
-  
-  data_all_years_list[[i]] <- read.csv(text = data_all_years_urls[i], 
-                                            stringsAsFactors = FALSE) %>%
-    as_tibble() %>% 
-    mutate(year = years[i])
-  
-}
-standings_all_years <- bind_rows(standings_all_years_list)
 
 
 

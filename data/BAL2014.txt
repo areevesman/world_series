@@ -1,0 +1,162 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 2*boxscore*BAL*None*BOS*L*2*6*None*1-1*2* 0.5*Lackey*Jimenez*None*2:43*N*25,708*-*None
+Thursday, Apr 3*boxscore*BAL*None*BOS*L*3*4*None*1-2*4* 1.0*Doubront*Chen*Uehara*2:55*N*20,880*--*None
+Friday, Apr 4*boxscore*BAL*@*DET*L*4*10*None*1-3*5* 1.5*Smyly*Gonzalez*None*3:07*D*23,625*---*None
+Saturday, Apr 5*boxscore*BAL*@*DET*L*6*7*None*1-4*5* 2.5*Porcello*Norris*Nathan*3:20*D*32,041*----*None
+Sunday, Apr 6*boxscore*BAL*@*DET*W*3*1*None*2-4*4* 1.5*Tillman*Verlander*Hunter*2:34*D*34,261*+*None
+Monday, Apr 7*boxscore*BAL*@*NYY*L*2*4*None*2-5*5* 2.0*Kuroda*Jimenez*Kelley*3:05*D*48,142*-*None
+Tuesday, Apr 8*boxscore*BAL*@*NYY*W*14*5*None*3-5*4* 1.5*Chen*Nova*None*3:28*D*35,864*+*None
+Wednesday, Apr 9*boxscore*BAL*@*NYY*W*5*4*None*4-5*3* 1.0*Matusz*Kelley*Hunter*3:06*N*39,412*++*None
+Friday, Apr 11*boxscore*BAL*None*TOR*L*0*2*None*4-6*5* 1.5*McGowan*Tillman*Santos*2:20*N*22,327*-*None
+Saturday, Apr 12*boxscore*BAL*None*TOR*W-wo*2*1*12*5-6*4* 1.5*Britton*Redmond*None*3:39*N*30,446*+*None
+Sunday, Apr 13*boxscore*BAL*None*TOR*L*3*11*None*5-7*4* 1.5*Buehrle*Jimenez*None*2:45*D*39,281*-*None
+Monday, Apr 14*boxscore*BAL*None*TBR*W*7*1*None*6-7*4* 1.0*Chen*Archer*None*2:46*N*15,799*+*None
+Wednesday, Apr 16*boxscore*BAL*None*TBR*W*3*0*None*7-7*3* 1.5*Gonzalez*Odorizzi*Hunter*2:53*D*22,611*++*None
+Friday, Apr 18*boxscore*BAL*@*BOS*W*8*4*None*8-7*2* 1.0*Tillman*Lackey*O'Day*3:26*N*36,408*+++*None
+Saturday, Apr 19*boxscore*BAL*@*BOS*L*2*4*None*8-8*3* 1.0*Tazawa*Norris*Uehara*2:47*D*37,689*-*None
+Sunday, Apr 20*boxscore*BAL*@*BOS*L-wo*5*6*None*8-9*3* 2.0*Mujica*Matusz*None*3:22*N*33,947*--*None
+Monday, Apr 21*boxscore*BAL*@*BOS*W*7*6*None*9-9*3* 1.5*Chen*Buchholz*Hunter*3:18*D*37,513*+*None
+Tuesday, Apr 22*boxscore*BAL*@*TOR*L*3*9*None*9-10*4* 2.5*Delabar*Meek*None*2:54*N*14,866*-*None
+Wednesday, Apr 23*boxscore*BAL*@*TOR*W*10*8*None*10-10*3* 1.5*Tillman*Redmond*Hunter*3:11*N*15,202*+*None
+Thursday, Apr 24*boxscore*BAL*@*TOR*W*11*4*None*11-10*2* 1.5*Norris*Cecil*None*2:54*N*16,283*++*None
+Friday, Apr 25*boxscore*BAL*None*KCR*L*0*5*None*11-11*2* 1.5*Ventura*Jimenez*None*2:40*N*22,478*-*None
+Saturday, Apr 26*boxscore*BAL*None*KCR*W-wo*3*2*10*12-11*2* 1.5*Britton*Duffy*None*3:09*N*34,941*+*None
+Sunday, Apr 27*boxscore*BAL*None*KCR*L*3*9*None*12-12*2* 2.5*Shields*Gonzalez*None*3:08*D*38,368*-*None
+Thursday, May 1*boxscore*BAL*None*PIT*W*5*1*None*13-12*2* 0.5*Norris*Morton*Hunter*3:08*D*None*+*2014-04-30 (Rain)
+Thursday, May 1*boxscore*BAL*None*PIT*W-wo*6*5*10*14-12*2* 0.5*Hunter*Pimentel*None*3:57*N*28,290*++*2014-04-29 (Rain)
+Friday, May 2*boxscore*BAL*@*MIN*W*3*0*None*15-12*1*up 0.5*Jimenez*Nolasco*Hunter*2:29*N*24,165*+++*None
+Saturday, May 3*boxscore*BAL*@*MIN*L*1*6*None*15-13*2* 0.5*Correia*Chen*None*2:51*D*25,318*-*None
+Sunday, May 4*boxscore*BAL*@*MIN*L*2*5*None*15-14*2* 0.5*Hughes*Gonzalez*Perkins*3:02*D*25,559*--*None
+Tuesday, May 6*boxscore*BAL*@*TBR*W*5*3*None*16-14*1* Tied*O'Day*Peralta*Hunter*3:36*N*11,855*+*None
+Wednesday, May 7*boxscore*BAL*@*TBR*W*4*3*None*17-14*1* Tied*Webb*Gomes*Hunter*3:08*N*11,282*++*None
+Thursday, May 8*boxscore*BAL*@*TBR*W*3*1*None*18-14*1*up 0.5*Jimenez*Price*O'Day*3:33*N*11,076*+++*None
+Friday, May 9*boxscore*BAL*None*HOU*W*4*3*None*19-14*1*up 0.5*Chen*Williams*Hunter*2:29*N*28,875*++++*None
+Saturday, May 10*boxscore*BAL*None*HOU*W-wo*5*4*10*20-14*1*up 1.5*Webb*Clemens*None*3:29*N*26,264*+++++*None
+Sunday, May 11*boxscore*BAL*None*HOU*L*2*5*None*20-15*1*up 1.5*Cosart*Tillman*Qualls*3:21*D*45,944*-*None
+Monday, May 12*boxscore*BAL*None*DET*L*1*4*None*20-16*1*up 1.5*Porcello*Norris*Nathan*2:48*N*24,517*--*None
+Tuesday, May 13*boxscore*BAL*None*DET*L*1*4*None*20-17*1*up 1.5*Miller*Hunter*Nathan*2:57*N*29,950*---*None
+Wednesday, May 14*boxscore*BAL*None*DET*L*5*7*None*20-18*1*up 0.5*Verlander*Gausman*Nathan*3:27*D*36,727*----*None
+Thursday, May 15*boxscore*BAL*@*KCR*W*2*1*None*21-18*1*up 0.5*Chen*Ventura*Britton*2:56*N*12,455*+*None
+Friday, May 16*boxscore*BAL*@*KCR*W*4*0*None*22-18*1*up 1.0*Tillman*Guthrie*None*2:22*N*25,985*++*None
+Saturday, May 17*boxscore*BAL*@*KCR*L*0*1*None*22-19*1* Tied*Duffy*Norris*Holland*2:37*N*24,064*-*None
+Sunday, May 18*boxscore*BAL*@*KCR*L*6*8*None*22-20*2* 0.5*Shields*Jimenez*Holland*2:58*D*22,692*--*None
+Tuesday, May 20*boxscore*BAL*@*PIT*W*9*2*None*23-20*1*up 0.5*Gonzalez*Liriano*None*2:55*N*22,787*+*None
+Wednesday, May 21*boxscore*BAL*@*PIT*L*8*9*None*23-21*3* 0.5*Morris*Webb*Melancon*3:28*N*19,365*-*None
+Thursday, May 22*boxscore*BAL*None*CLE*L*7*8*13*23-22*3* 1.5*Outman*Patton*Atchison*4:22*N*18,894*--*None
+Friday, May 23*boxscore*BAL*None*CLE*W*8*4*None*24-22*2* 1.5*Norris*House*None*2:43*N*39,602*+*None
+Saturday, May 24*boxscore*BAL*None*CLE*L*0*9*None*24-23*3* 2.5*Kluber*Jimenez*None*3:05*D*36,873*-*None
+Sunday, May 25*boxscore*BAL*None*CLE*W*4*2*None*25-23*3* 2.5*Gonzalez*Bauer*Britton*3:12*D*37,649*+*None
+Monday, May 26*boxscore*BAL*@*MIL*W*7*6*10*26-23*3* 2.5*O'Day*Wooten*Britton*3:42*D*42,889*++*None
+Tuesday, May 27*boxscore*BAL*@*MIL*L-wo*6*7*10*26-24*3* 3.5*Rodriguez*McFarland*None*3:44*N*25,552*-*None
+Wednesday, May 28*boxscore*BAL*@*MIL*L*3*8*None*26-25*3* 4.5*Gallardo*Norris*None*3:29*N*28,280*--*None
+Thursday, May 29*boxscore*BAL*@*HOU*L*1*3*None*26-26*3* 4.5*Fields*Guilmet*Qualls*2:56*N*22,884*---*None
+Friday, May 30*boxscore*BAL*@*HOU*L*1*2*None*26-27*3* 4.5*Oberholtzer*Gonzalez*Qualls*2:40*N*38,482*----*None
+Saturday, May 31*boxscore*BAL*@*HOU*W*4*1*None*27-27*3* 4.5*Tillman*Keuchel*Britton*2:45*D*29,619*+*None
+Sunday, Jun 1*boxscore*BAL*@*HOU*W*9*4*None*28-27*3* 4.5*Chen*Feldman*None*3:14*D*17,022*++*None
+Tuesday, Jun 3*boxscore*BAL*@*TEX*W*8*3*None*29-27*2* 4.5*Matusz*Ogando*None*3:15*N*31,542*+++*None
+Wednesday, Jun 4*boxscore*BAL*@*TEX*W*6*5*None*30-27*2* 4.5*Norris*Martinez*Britton*3:33*N*27,934*++++*None
+Thursday, Jun 5*boxscore*BAL*@*TEX*L*6*8*None*30-28*2* 5.5*Ross*Matusz*Soria*3:11*N*34,254*-*None
+Friday, Jun 6*boxscore*BAL*None*OAK*L*3*4*11*30-29*3* 6.5*Abad*Meek*Doolittle*3:36*N*28,076*--*None
+Saturday, Jun 7*boxscore*BAL*None*OAK*W*6*3*None*31-29*2* 5.5*Gausman*Gray*None*2:51*N*44,202*+*None
+Sunday, Jun 8*boxscore*BAL*None*OAK*L*1*11*None*31-30*2* 5.5*Kazmir*Jimenez*None*3:27*D*38,244*-*None
+Monday, Jun 9*boxscore*BAL*None*BOS*W*4*0*None*32-30*2* 5.5*Norris*Peavy*None*2:21*N*19,729*+*None
+Tuesday, Jun 10*boxscore*BAL*None*BOS*L*0*1*None*32-31*2* 5.5*Workman*Tillman*Uehara*2:32*N*24,184*-*None
+Wednesday, Jun 11*boxscore*BAL*None*BOS*W*6*0*None*33-31*2* 4.5*Chen*De La Rosa*None*2:49*N*25,886*+*None
+Thursday, Jun 12*boxscore*BAL*None*TOR*W*4*2*None*34-31*2* 3.5*Gausman*Buehrle*Britton*2:59*N*17,403*++*None
+Friday, Jun 13*boxscore*BAL*None*TOR*L*0*4*None*34-32*3* 4.5*Hutchison*Jimenez*McGowan*2:44*N*44,031*-*None
+Saturday, Jun 14*boxscore*BAL*None*TOR*W*3*2*None*35-32*2* 3.5*Norris*Dickey*Britton*3:02*D*33,901*+*None
+Sunday, Jun 15*boxscore*BAL*None*TOR*L*2*5*None*35-33*2* 4.5*Happ*Tillman*Janssen*3:07*D*46,469*-*None
+Monday, Jun 16*boxscore*BAL*@*TBR*L*4*5*None*35-34*3* 5.0*McGee*O'Day*Oviedo*3:21*N*10,576*--*None
+Tuesday, Jun 17*boxscore*BAL*@*TBR*W*7*5*None*36-34*3* 4.0*Gonzalez*Bedard*Britton*3:31*N*10,803*+*None
+Wednesday, Jun 18*boxscore*BAL*@*TBR*W*2*0*None*37-34*3* 3.0*Gausman*Cobb*Britton*3:09*D*12,448*++*None
+Friday, Jun 20*boxscore*BAL*@*NYY*L-wo*3*5*None*37-35*3* 3.5*Huff*Britton*None*3:38*N*46,197*-*None
+Saturday, Jun 21*boxscore*BAL*@*NYY*W*6*1*None*38-35*3* 2.5*Norris*Nuno*None*2:57*D*47,165*+*None
+Sunday, Jun 22*boxscore*BAL*@*NYY*W*8*0*None*39-35*2* 1.5*Tillman*Tanaka*None*3:03*D*47,493*++*None
+Monday, Jun 23*boxscore*BAL*None*CHW*W-wo*6*4*None*40-35*2* 1.5*Brach*Belisario*None*3:08*N*17,931*+++*None
+Tuesday, Jun 24*boxscore*BAL*None*CHW*L*2*4*None*40-36*2* 2.5*Quintana*Gonzalez*Belisario*3:09*N*20,596*-*None
+Wednesday, Jun 25*boxscore*BAL*None*CHW*W-wo*5*4*12*41-36*2* 1.5*Hunter*Webb*None*4:03*N*22,020*+*None
+Friday, Jun 27*boxscore*BAL*None*TBR*L*2*5*None*41-37*2* 1.5*Colome*Gausman*McGee*3:14*D*15,614*-*None
+Friday, Jun 27*boxscore*BAL*None*TBR*W*4*1*None*42-37*2* 1.5*Tillman*Oviedo*Britton*3:05*N*34,895*+*2014-04-15 (Rain)
+Saturday, Jun 28*boxscore*BAL*None*TBR*L*4*5*None*42-38*2* 1.5*Bedard*Chen*McGee*3:13*D*36,387*-*None
+Sunday, Jun 29*boxscore*BAL*None*TBR*L*7*12*None*42-39*2* 1.5*Cobb*Meek*None*3:51*D*32,665*--*None
+Monday, Jun 30*boxscore*BAL*None*TEX*W*7*1*None*43-39*2* 1.0*Jimenez*Saunders*None*2:53*N*15,252*+*None
+Tuesday, Jul 1*boxscore*BAL*None*TEX*W*8*3*None*44-39*2* 1.0*McFarland*Martinez*None*2:58*N*19,150*++*None
+Wednesday, Jul 2*boxscore*BAL*None*TEX*W*6*4*None*45-39*2* 1.0*Brach*Cotts*Britton*3:14*N*13,478*+++*None
+Thursday, Jul 3*boxscore*BAL*None*TEX*W*5*2*None*46-39*1* Tied*Chen*Baker*Britton*3:12*N*24,535*++++*None
+Saturday, Jul 5*boxscore*BAL*@*BOS*L-wo*2*3*None*46-40*1*up 1.0*Uehara*McFarland*None*2:40*D*35,714*-*None
+Saturday, Jul 5*boxscore*BAL*@*BOS*W*7*4*None*47-40*1*up 1.0*Brach*Lackey*Britton*3:36*N*36,468*+*2014-07-04 (Rain)
+Sunday, Jul 6*boxscore*BAL*@*BOS*W*7*6*12*48-40*1*up 2.0*Brach*Mujica*Britton*5:05*D*35,811*++*None
+Monday, Jul 7*boxscore*BAL*@*WSN*W*8*2*11*49-40*1*up 3.0*McFarland*Stammen*None*3:39*N*35,126*+++*None
+Wednesday, Jul 9*boxscore*BAL*None*WSN*L*2*6*None*49-41*1*up 2.5*Fister*Norris*None*2:50*N*35,575*-*None
+Thursday, Jul 10*boxscore*BAL*None*WSN*W*4*3*None*50-41*1*up 3.0*Chen*Gonzalez*Britton*2:45*N*30,417*+*None
+Friday, Jul 11*boxscore*BAL*None*NYY*W-wo*3*2*10*51-41*1*up 3.0*McFarland*Warren*None*3:05*N*45,389*++*None
+Saturday, Jul 12*boxscore*BAL*None*NYY*L*0*3*None*51-42*1*up 3.0*Greene*Tillman*Robertson*3:02*D*46,667*-*None
+Sunday, Jul 13*boxscore*BAL*None*NYY*W*3*1*5*52-42*1*up 4.0*Gausman*Whitley*None*1:39*N*34,483*+*None
+Friday, Jul 18*boxscore*BAL*@*OAK*L-wo*4*5*None*52-43*1*up 4.0*O'Flaherty*Britton*None*2:31*N*27,232*-*None
+Saturday, Jul 19*boxscore*BAL*@*OAK*W*8*4*None*53-43*1*up 4.0*Chen*Hammel*Britton*3:14*N*36,067*+*None
+Sunday, Jul 20*boxscore*BAL*@*OAK*L*2*10*None*53-44*1*up 3.0*Gray*Gausman*None*3:14*D*30,124*-*None
+Monday, Jul 21*boxscore*BAL*@*LAA*W*4*2*None*54-44*1*up 4.0*Norris*Shoemaker*Britton*3:02*N*39,028*+*None
+Tuesday, Jul 22*boxscore*BAL*@*LAA*W*4*2*None*55-44*1*up 4.0*Gonzalez*Morin*Britton*3:08*N*35,353*++*None
+Wednesday, Jul 23*boxscore*BAL*@*LAA*L*2*3*None*55-45*1*up 3.0*Weaver*Hunter*Street*2:55*N*40,185*-*None
+Thursday, Jul 24*boxscore*BAL*@*SEA*W*4*0*None*56-45*1*up 3.0*Chen*Iwakuma*None*2:44*N*19,621*+*None
+Friday, Jul 25*boxscore*BAL*@*SEA*W*2*1*10*57-45*1*up 3.0*O'Day*Furbush*Britton*3:16*N*34,792*++*None
+Saturday, Jul 26*boxscore*BAL*@*SEA*L*3*4*None*57-46*1*up 3.0*Young*Norris*Rodney*2:49*D*36,936*-*None
+Sunday, Jul 27*boxscore*BAL*@*SEA*W*3*2*10*58-46*1*up 3.0*McFarland*Medina*Britton*3:21*D*26,523*+*None
+Tuesday, Jul 29*boxscore*BAL*None*LAA*W-wo*7*6*12*59-46*1*up 2.5*Webb*Rasmus*None*4:05*N*36,882*++*None
+Wednesday, Jul 30*boxscore*BAL*None*LAA*W*4*3*None*60-46*1*up 2.5*Gausman*Richards*Britton*2:35*N*27,195*+++*None
+Thursday, Jul 31*boxscore*BAL*None*LAA*L*0*1*13*60-47*1*up 1.5*Santiago*Webb*Street*4:33*N*24,974*-*None
+Friday, Aug 1*boxscore*BAL*None*SEA*W*2*1*None*61-47*1*up 2.5*Chen*Elias*Britton*2:29*N*39,487*+*None
+Saturday, Aug 2*boxscore*BAL*None*SEA*L*3*6*None*61-48*1*up 2.5*Leone*Gonzalez*None*3:38*N*36,508*-*None
+Sunday, Aug 3*boxscore*BAL*None*SEA*W*1*0*None*62-48*1*up 3.5*Tillman*Iwakuma*Britton*2:33*D*35,217*+*None
+Monday, Aug 4*boxscore*BAL*@*WSN*W*7*3*None*63-48*1*up 4.0*Gausman*Roark*None*3:10*N*42,181*++*2014-07-08 (Rain)
+Tuesday, Aug 5*boxscore*BAL*@*TOR*W*9*3*None*64-48*1*up 5.0*Norris*Buehrle*None*3:29*N*36,183*+++*None
+Wednesday, Aug 6*boxscore*BAL*@*TOR*L*1*5*None*64-49*1*up 4.0*Hutchison*Chen*None*2:41*N*33,054*-*None
+Thursday, Aug 7*boxscore*BAL*@*TOR*W*2*1*None*65-49*1*up 5.0*Gonzalez*Happ*Britton*2:59*N*34,676*+*None
+Friday, Aug 8*boxscore*BAL*None*STL*W*12*2*None*66-49*1*up 5.0*Tillman*Masterson*None*2:57*N*43,743*++*None
+Saturday, Aug 9*boxscore*BAL*None*STL*W*10*3*None*67-49*1*up 6.0*Jimenez*Lackey*None*2:58*D*40,894*+++*None
+Sunday, Aug 10*boxscore*BAL*None*STL*L*3*8*None*67-50*1*up 5.0*Lynn*Gausman*None*3:39*D*27,779*-*None
+Monday, Aug 11*boxscore*BAL*None*NYY*W*11*3*None*68-50*1*up 6.0*Norris*Capuano*None*3:41*N*34,018*+*None
+Wednesday, Aug 13*boxscore*BAL*None*NYY*W*5*3*None*69-50*1*up 7.5*O'Day*Kelley*Britton*2:45*N*37,587*++*None
+Friday, Aug 15*boxscore*BAL*@*CLE*L-wo*1*2*11*69-51*1*up 7.5*Atchison*Matusz*None*3:36*N*27,845*-*None
+Saturday, Aug 16*boxscore*BAL*@*CLE*L*0*6*None*69-52*1*up 6.5*Carrasco*Jimenez*None*2:39*N*27,881*--*None
+Sunday, Aug 17*boxscore*BAL*@*CLE*W*4*1*None*70-52*1*up 7.0*Gausman*Salazar*Britton*3:11*D*22,564*+*None
+Monday, Aug 18*boxscore*BAL*@*CHW*W*8*2*None*71-52*1*up 7.5*Norris*Sale*None*3:02*N*17,686*++*None
+Tuesday, Aug 19*boxscore*BAL*@*CHW*W*5*1*None*72-52*1*up 8.5*Tillman*Quintana*None*2:42*N*13,307*+++*None
+Wednesday, Aug 20*boxscore*BAL*@*CHW*W*4*3*None*73-52*1*up 9.0*Chen*Noesi*Britton*2:37*N*15,137*++++*None
+Friday, Aug 22*boxscore*BAL*@*CHC*L*1*4*None*73-53*1*up 8.0*Arrieta*Gausman*Rondon*2:48*D*33,761*-*None
+Saturday, Aug 23*boxscore*BAL*@*CHC*L*2*7*None*73-54*1*up 7.0*Grimm*Norris*None*3:09*D*37,156*--*None
+Sunday, Aug 24*boxscore*BAL*@*CHC*L*1*2*None*73-55*1*up 6.0*Wada*Gonzalez*Rondon*2:37*D*32,774*---*None
+Monday, Aug 25*boxscore*BAL*None*TBR*W*9*1*None*74-55*1*up 6.0*Tillman*Odorizzi*None*2:56*N*15,516*+*None
+Tuesday, Aug 26*boxscore*BAL*None*TBR*W*4*2*None*75-55*1*up 7.0*Brach*Balfour*Britton*3:37*N*16,406*++*None
+Wednesday, Aug 27*boxscore*BAL*None*TBR*L*1*3*None*75-56*1*up 6.0*Smyly*Gausman*McGee*2:44*N*20,762*-*None
+Thursday, Aug 28*boxscore*BAL*None*TBR*W*5*4*None*76-56*1*up 7.0*Miller*Yates*Britton*3:26*N*16,915*+*None
+Friday, Aug 29*boxscore*BAL*None*MIN*W*9*1*None*77-56*1*up 7.0*Gonzalez*May*None*2:40*N*27,464*++*None
+Saturday, Aug 30*boxscore*BAL*None*MIN*W*3*2*None*78-56*1*up 8.0*Miller*Burton*Britton*3:12*N*30,322*+++*None
+Sunday, Aug 31*boxscore*BAL*None*MIN*W*12*8*None*79-56*1*up 9.0*Chen*Nolasco*Britton*3:33*D*40,905*++++*None
+Monday, Sep 1*boxscore*BAL*None*MIN*L*4*6*None*79-57*1*up 8.5*Hughes*Gausman*Perkins*2:36*D*33,156*-*None
+Tuesday, Sep 2*boxscore*BAL*None*CIN*W*5*4*None*80-57*1*up 9.5*Norris*Latos*Britton*3:07*N*15,021*+*None
+Wednesday, Sep 3*boxscore*BAL*None*CIN*W*6*0*None*81-57*1*up 9.5*Gonzalez*Axelrod*None*2:36*N*20,246*++*None
+Thursday, Sep 4*boxscore*BAL*None*CIN*W*9*7*None*82-57*1*up 9.5*Hunter*Parra*Britton*3:26*N*21,114*+++*None
+Friday, Sep 5*boxscore*BAL*@*TBR*L*0*3*None*82-58*1*up 9.5*Boxberger*Webb*McGee*3:08*N*14,632*-*None
+Saturday, Sep 6*boxscore*BAL*@*TBR*L-wo*2*3*None*82-59*1*up 8.5*Boxberger*Brach*None*3:06*D*17,969*--*None
+Sunday, Sep 7*boxscore*BAL*@*TBR*W*7*5*11*83-59*1*up 9.5*Brach*Ramos*Miller*4:36*D*19,914*+*None
+Monday, Sep 8*boxscore*BAL*@*BOS*W*4*0*None*84-59*1*up10.0*Gonzalez*Kelly*None*3:08*N*35,894*++*None
+Tuesday, Sep 9*boxscore*BAL*@*BOS*W*4*1*None*85-59*1*up10.0*Tillman*Ranaudo*Britton*3:32*N*37,008*+++*None
+Wednesday, Sep 10*boxscore*BAL*@*BOS*W*10*6*None*86-59*1*up10.0*Chen*Workman*O'Day*3:23*D*35,374*++++*None
+Friday, Sep 12*boxscore*BAL*None*NYY*W-wo*2*1*11*87-59*1*up11.5*Brach*Warren*None*3:51*D*31,871*+++++*None
+Friday, Sep 12*boxscore*BAL*None*NYY*W*5*0*None*88-59*1*up11.5*Norris*Mitchell*None*2:57*N*43,707*++++++*2014-08-12 (Rain)
+Saturday, Sep 13*boxscore*BAL*None*NYY*L*2*3*None*88-60*1*up10.5*Greene*Gonzalez*Robertson*3:28*D*44,231*-*None
+Sunday, Sep 14*boxscore*BAL*None*NYY*W-wo*3*2*None*89-60*1*up11.5*O'Day*Robertson*None*3:04*N*43,947*+*None
+Monday, Sep 15*boxscore*BAL*None*TOR*W*5*2*None*90-60*1*up12.5*Chen*Stroman*Britton*3:12*N*25,061*++*None
+Tuesday, Sep 16*boxscore*BAL*None*TOR*W*8*2*None*91-60*1*up13.5*Jimenez*Hutchison*None*3:02*N*35,297*+++*None
+Wednesday, Sep 17*boxscore*BAL*None*TOR*W*6*1*None*92-60*1*up14.5*Norris*Happ*None*3:13*N*37,537*++++*None
+Friday, Sep 19*boxscore*BAL*None*BOS*L*3*5*10*92-61*1*up13.0*Tazawa*O'Day*Mujica*3:42*N*39,079*-*None
+Saturday, Sep 20*boxscore*BAL*None*BOS*W*7*2*None*93-61*1*up14.0*Tillman*De La Rosa*None*2:51*N*43,015*+*None
+Sunday, Sep 21*boxscore*BAL*None*BOS*L*2*3*None*93-62*1*up13.0*Kelly*Gonzalez*Mujica*3:07*D*38,329*-*None
+Monday, Sep 22*boxscore*BAL*@*NYY*L*0*5*None*93-63*1*up12.0*Pineda*Chen*None*3:00*N*35,614*--*None
+Tuesday, Sep 23*boxscore*BAL*@*NYY*W*5*4*None*94-63*1*up13.0*Jimenez*McCarthy*Britton*3:22*N*43,201*+*None
+Wednesday, Sep 24*boxscore*BAL*@*NYY*W*9*5*None*95-63*1*up14.0*Norris*Greene*O'Day*3:32*D*46,056*++*None
+Thursday, Sep 25*boxscore*BAL*@*NYY*L-wo*5*6*None*95-64*1*up13.0*Robertson*Meek*None*3:10*N*48,613*-*None
+Friday, Sep 26*boxscore*BAL*@*TOR*L*2*4*None*95-65*1*up12.0*Hutchison*Tillman*Stroman*2:36*N*27,037*--*None
+Saturday, Sep 27*boxscore*BAL*@*TOR*L*2*4*None*95-66*1*up12.0*Happ*Chen*Janssen*2:25*D*37,996*---*None
+Sunday, Sep 28*boxscore*BAL*@*TOR*W*1*0*None*96-66*1*up12.0*Gonzalez*Dickey*Britton*2:26*D*45,901*+*None

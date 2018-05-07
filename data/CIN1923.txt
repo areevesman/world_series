@@ -1,0 +1,154 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 18*boxscore*CIN*None*STL*L*2*4*None*1-1*3* 1.0*Toney*Rixey*None*None*D*3,000*-*None
+Thursday, Apr 19*boxscore*CIN*None*STL*L*8*11*None*1-2*6* 2.5*Haines*Keck*None*1:50*D*4,000*--*None
+Friday, Apr 20*boxscore*CIN*None*STL*W*10*2*None*2-2*4* 1.5*Luque*Doak*None*None*D*3,000*+*None
+Saturday, Apr 21*boxscore*CIN*None*PIT*W*12*6*None*3-2*3* 1.5*Donohue*Cooper*None*None*D*None*++*None
+Sunday, Apr 22*boxscore*CIN*None*PIT*L*9*15*None*3-3*3* 2.5*Morrison*Rixey*Bagby*2:11*D*None*-*None
+Monday, Apr 23*boxscore*CIN*None*PIT*L*4*8*None*3-4*4* 3.5*Boehler*Couch*Glazner*1:45*D*None*--*None
+Tuesday, Apr 24*boxscore*CIN*None*PIT*W*5*4*None*4-4*3* 3.5*Luque*Kunz*None*1:45*D*None*+*None
+Wednesday, Apr 25*boxscore*CIN*@*STL*W*3*1*None*5-4*3* 3.0*Keck*Pfeffer*None*1:50*D*7,500*++*None
+Thursday, Apr 26*boxscore*CIN*@*STL*L*4*8*None*5-5*3* 4.0*Sherdel*Couch*None*1:53*D*3,500*-*None
+Saturday, Apr 28*boxscore*CIN*@*STL*L*3*4*None*5-6*5* 3.5*Toney*Keck*None*None*D*7,000*--*None
+Sunday, Apr 29*boxscore*CIN*None*CHC*W*3*0*None*6-6*4* 2.5*Donohue*Aldridge*None*1:46*D*None*+*None
+Monday, Apr 30*boxscore*CIN*None*CHC*W*6*4*None*7-6*2* 2.5*Rixey*Fussell*None*None*D*None*++*None
+Tuesday, May 1*boxscore*CIN*None*CHC*L*1*3*None*7-7*4* 3.5*Dumovich*Keck*None*1:55*D*None*-*None
+Wednesday, May 2*boxscore*CIN*None*CHC*L*1*2*None*7-8*4* 4.5*Keen*Luque*None*None*D*None*--*None
+Thursday, May 3*boxscore*CIN*@*PIT*L*1*3*None*7-9*7* 4.5*Adams*Donohue*None*None*D*3,000*---*None
+Friday, May 4*boxscore*CIN*@*PIT*L*6*11*None*7-10*7* 5.5*Glazner*Rixey*Bagby*1:44*D*None*----*None
+Saturday, May 5*boxscore*CIN*@*PIT*L*7*10*None*7-11*7* 6.5*Cooper*Keck*Morrison*1:52*D*None*-----*None
+Sunday, May 6*boxscore*CIN*None*PIT*W*8*7*None*8-11*6* 6.0*Donohue*Hamilton*None*2:01*D*None*+*None
+Tuesday, May 8*boxscore*CIN*@*BSN*W*7*6*None*9-11*6* 6.5*Donohue*Genewich*None*2:25*D*None*++*None
+Thursday, May 10*boxscore*CIN*@*BSN*W*4*3*None*10-11*5* 5.5*Rixey*McNamara*None*1:30*D*None*+++*None
+Friday, May 11*boxscore*CIN*@*BSN*L*4*5*None*10-12*6* 6.5*Marquard*Couch*None*2:06*D*None*-*None
+Saturday, May 12*boxscore*CIN*@*PHI*W*12*3*None*11-12*4* 6.0*Donohue*Hubbell*None*1:40*D*None*+*None
+Monday, May 14*boxscore*CIN*@*PHI*W*7*3*None*12-12*4* 5.5*Rixey*Head*None*2:10*D*None*++*None
+Thursday, May 17*boxscore*CIN*@*NYG*L*6*13*None*12-13*4* 7.0*Barnes*Donohue*None*None*D*8,500*-*None
+Friday, May 18*boxscore*CIN*@*NYG*W*7*0*None*13-13*4* 6.0*Luque*Bentley*None*2:00*D*8,000*+*None
+Saturday, May 19*boxscore*CIN*@*NYG*L*0*1*None*13-14*4* 7.0*McQuillan*Rixey*None*None*D*25,000*-*None
+Sunday, May 20*boxscore*CIN*@*BRO*L*3*5*None*13-15*5* 8.0*Dickerman*Couch*None*None*D*21,000*--*None
+Tuesday, May 22*boxscore*CIN*@*BRO*L*6*9*None*13-16*6* 9.0*Grimes*Donohue*None*None*D*4,000*---*None
+Wednesday, May 23*boxscore*CIN*@*BRO*L*1*7*None*13-17*7* 10.0*Cadore*Rixey*None*1:27*D*4,000*----*None
+Friday, May 25*boxscore*CIN*@*CHC*L*0*4*None*13-18*7* 11.5*Alexander*Donohue*None*None*D*None*-----*None
+Saturday, May 26*boxscore*CIN*@*CHC*L*4*5*None*13-19*7* 12.5*Cheeves*Rixey*None*None*D*None*------*None
+Sunday, May 27*boxscore*CIN*None*STL*W*2*1*None*14-19*7* 12.5*Luque*Toney*None*1:19*D*None*+*None
+Monday, May 28*boxscore*CIN*@*STL*L*4*5*10*14-20*6* 12.5*Pfeffer*Couch*None*None*D*4,000*-*None
+Tuesday, May 29*boxscore*CIN*@*STL*W*3*2*None*15-20*7* 11.5*Donohue*Sherdel*None*None*D*2,000*+*None
+Wednesday, May 30*boxscore*CIN*@*STL*W*4*2*10*16-20*5* 10.5*Benton*Doak*None*None*D*3,000*++*None
+Wednesday, May 30*boxscore*CIN*@*STL*W*5*0*None*17-20*5* 10.5*Rixey*Haines*None*None*D*10,000*+++*None
+Thursday, May 31*boxscore*CIN*None*CHC*W*3*2*None*18-20*4* 10.5*Luque*Cheeves*None*None*D*None*++++*None
+Friday, Jun 1*boxscore*CIN*None*CHC*W*5*3*None*19-20*4* 10.5*Couch*Aldridge*Keck*1:57*D*None*+++++*None
+Saturday, Jun 2*boxscore*CIN*None*CHC*W*2*1*None*20-20*4* 10.5*Donohue*Alexander*None*None*D*None*++++++*None
+Sunday, Jun 3*boxscore*CIN*None*CHC*L*3*4*None*20-21*5* 11.0*Osborne*Benton*None*1:47*D*None*-*None
+Monday, Jun 4*boxscore*CIN*None*CHC*L*7*8*None*20-22*5* 11.5*Kaufmann*Rixey*Alexander*2:02*D*None*--*None
+Tuesday, Jun 5*boxscore*CIN*None*BSN*W*7*1*None*21-22*5* 11.5*Luque*Miller*None*1:42*D*None*+*None
+Wednesday, Jun 6*boxscore*CIN*None*BSN*W*5*1*None*22-22*5* 10.5*Donohue*McNamara*None*1:32*D*None*++*None
+Thursday, Jun 7*boxscore*CIN*None*BSN*W*3*1*None*23-22*5* 9.5*Rixey*Oeschger*None*1:32*D*None*+++*None
+Saturday, Jun 9*boxscore*CIN*None*PHI*W*12*2*None*24-22*4* 9.0*Benton*Mitchell*None*2:03*D*None*++++*None
+Sunday, Jun 10*boxscore*CIN*None*PHI*W*2*1*None*25-22*4* 8.5*Luque*Glazner*None*1:35*D*None*+++++*None
+Wednesday, Jun 13*boxscore*CIN*None*NYG*W*4*3*None*26-22*3* 7.0*Donohue*McQuillan*None*None*D*9,000*++++++*None
+Thursday, Jun 14*boxscore*CIN*None*NYG*W*6*5*None*27-22*3* 6.0*Rixey*Nehf*None*2:15*D*10,000*+++++++*None
+Friday, Jun 15*boxscore*CIN*None*NYG*W*3*0*None*28-22*3* 5.0*Luque*McQuillan*None*1:34*D*8,000*++++++++*None
+Saturday, Jun 16*boxscore*CIN*None*NYG*W*9*1*None*29-22*3* 4.0*Benton*Nehf*None*None*D*20,000*+++++++++*None
+Sunday, Jun 17*boxscore*CIN*None*BRO*L*0*9*None*29-23*3* 4.0*Vance*Donohue*None*1:26*D*30,000*-*None
+Monday, Jun 18*boxscore*CIN*None*BRO*W*6*3*None*30-23*3* 4.0*Keck*Dickerman*None*1:44*D*None*+*None
+Tuesday, Jun 19*boxscore*CIN*None*BRO*W*1*0*11*31-23*3* 4.0*Luque*Grimes*None*2:20*D*3,500*++*None
+Wednesday, Jun 20*boxscore*CIN*None*BRO*W*4*1*None*32-23*2* 4.0*Benton*Vance*None*None*D*4,000*+++*None
+Friday, Jun 22*boxscore*CIN*@*PIT*L*2*8*None*32-24*3* 5.0*Meadows*Donohue*None*1:45*D*None*-*None
+Saturday, Jun 23*boxscore*CIN*@*PIT*W*5*4*None*33-24*3* 5.0*Rixey*Cooper*Benton*1:53*D*10,000*+*None
+Sunday, Jun 24*boxscore*CIN*@*CHC*L*0*2*None*33-25*3* 6.0*Alexander*Luque*None*1:49*D*None*-*None
+Monday, Jun 25*boxscore*CIN*@*CHC*W*6*5*None*34-25*3* 6.0*Benton*Kaufmann*None*2:01*D*None*+*None
+Tuesday, Jun 26*boxscore*CIN*@*CHC*W*4*3*14*35-25*3* 6.0*Keck*Keen*None*3:01*D*None*++*None
+Friday, Jun 29*boxscore*CIN*@*PIT*W*2*0*None*36-25*3* 7.0*Luque*Morrison*None*None*D*None*+++*None
+Friday, Jun 29*boxscore*CIN*@*PIT*L*3*5*None*36-26*3* 7.0*Bagby*Benton*None*None*D*None*-*1923-06-28 (Rain)
+Saturday, Jun 30*boxscore*CIN*@*PIT*L*3*4*None*36-27*3* 7.5*Adams*Rixey*None*1:41*D*22,000*--*None
+Sunday, Jul 1*boxscore*CIN*None*PIT*W*3*2*None*37-27*3* 6.5*Donohue*Cooper*Luque*1:45*D*None*+*None
+Monday, Jul 2*boxscore*CIN*@*CHC*W*9*8*None*38-27*3* 5.5*Rixey*Dumovich*None*None*D*None*++*None
+Tuesday, Jul 3*boxscore*CIN*@*CHC*W*6*5*None*39-27*3* 5.5*Benton*Kaufmann*None*None*D*None*+++*None
+Wednesday, Jul 4*boxscore*CIN*@*CHC*W*6*3*None*40-27*3* 6.5*Luque*Keen*None*1:53*D*None*++++*None
+Wednesday, Jul 4*boxscore*CIN*@*CHC*L*3*6*None*40-28*3* 6.5*Osborne*Donohue*None*1:40*D*None*-*None
+Saturday, Jul 7*boxscore*CIN*@*NYG*W*4*2*None*41-28*3* 5.5*Rixey*McQuillan*None*None*D*25,000*+*None
+Sunday, Jul 8*boxscore*CIN*@*NYG*W*5*3*None*42-28*3* 4.5*Luque*Scott*None*None*D*40,000*++*None
+Monday, Jul 9*boxscore*CIN*@*NYG*L*6*13*None*42-29*3* 5.5*Nehf*Benton*Scott*None*D*10,000*-*None
+Tuesday, Jul 10*boxscore*CIN*@*PHI*W*7*2*10*43-29*3* 5.5*Donohue*Ring*None*1:55*D*None*+*None
+Wednesday, Jul 11*boxscore*CIN*@*PHI*W*6*2*None*44-29*2* 5.0*Rixey*Glazner*None*2:05*D*None*++*None
+Wednesday, Jul 11*boxscore*CIN*@*PHI*W*9*6*None*45-29*2* 5.0*Couch*Mitchell*None*1:50*D*None*+++*1923-05-15 (Rain)
+Thursday, Jul 12*boxscore*CIN*@*PHI*W*2*0*None*46-29*2* 4.5*Luque*Weinert*None*1:57*D*None*++++*None
+Friday, Jul 13*boxscore*CIN*@*PHI*W*21*7*None*47-29*2* 3.5*Benton*Head*None*1:54*D*None*+++++*None
+Saturday, Jul 14*boxscore*CIN*@*BSN*W*4*2*12*48-29*2* 4.0*Rixey*Barnes*None*2:32*D*None*++++++*None
+Saturday, Jul 14*boxscore*CIN*@*BSN*L*1*3*None*48-30*2* 4.0*Genewich*Keck*None*1:22*D*None*-*None
+Tuesday, Jul 17*boxscore*CIN*@*BSN*W*4*3*None*49-30*2* 3.0*Luque*McNamara*Rixey*1:55*D*None*+*None
+Tuesday, Jul 17*boxscore*CIN*@*BSN*W*9*5*None*50-30*2* 3.0*Luque*Oeschger*None*1:50*D*None*++*1923-05-09 (Rain)
+Wednesday, Jul 18*boxscore*CIN*@*BRO*W*8*4*None*51-30*2* 2.0*Donohue*Dickerman*None*None*D*3,500*+++*None
+Thursday, Jul 19*boxscore*CIN*@*BRO*L*0*1*None*51-31*2* 2.0*Vance*Benton*None*None*D*4,000*-*None
+Friday, Jul 20*boxscore*CIN*@*BRO*W*11*4*None*52-31*2* 2.0*Rixey*Ruether*None*None*D*None*+*None
+Saturday, Jul 21*boxscore*CIN*@*BRO*W*10*6*None*53-31*2* 2.5*Luque*Grimes*Donohue*None*D*22,000*++*None
+Saturday, Jul 21*boxscore*CIN*@*BRO*L*2*5*None*53-32*2* 2.5*Smith*Couch*None*None*D*26,000*-*1923-05-21 (Wet grounds)
+Sunday, Jul 22*boxscore*CIN*None*STL*L*0*2*None*53-33*2* 3.5*Haines*Donohue*None*1:30*D*None*--*None
+Monday, Jul 23*boxscore*CIN*None*STL*L*7*8*None*53-34*2* 4.5*Pfeffer*Rixey*Stuart*2:00*D*4,000*---*None
+Tuesday, Jul 24*boxscore*CIN*None*STL*W*7*4*None*54-34*2* 4.0*Benton*Stuart*None*None*D*2,000*+*None
+Wednesday, Jul 25*boxscore*CIN*None*BRO*L*3*6*None*54-35*2* 4.5*Vance*Luque*None*None*D*6,000*-*None
+Thursday, Jul 26*boxscore*CIN*None*BRO*W*9*2*None*55-35*2* 3.5*Donohue*Ruether*None*1:33*D*5,000*+*None
+Friday, Jul 27*boxscore*CIN*None*BRO*W*4*3*12*56-35*2* 3.0*Harris*Grimes*None*2:31*D*4,500*++*None
+Saturday, Jul 28*boxscore*CIN*None*BRO*L*1*2*10*56-36*3* 3.5*Smith*Benton*None*2:00*D*8,000*-*None
+Sunday, Jul 29*boxscore*CIN*None*BSN*W*2*1*None*57-36*3* 3.5*Luque*Benton*None*1:46*D*None*+*None
+Monday, Jul 30*boxscore*CIN*None*PHI*W*7*5*None*58-36*2* 2.5*Donohue*Winters*None*1:48*D*None*++*None
+Monday, Jul 30*boxscore*CIN*None*PHI*W*5*4*None*59-36*2* 2.5*Harris*Weinert*None*1:36*D*None*+++*1923-06-11 (Wet grounds)
+Tuesday, Jul 31*boxscore*CIN*None*PHI*L*1*2*None*59-37*2* 4.0*Ring*Rixey*None*1:40*D*None*-*None
+Tuesday, Jul 31*boxscore*CIN*None*PHI*L*1*5*None*59-38*2* 4.0*Mitchell*Couch*Betts*1:50*D*None*--*1923-06-12 (Wet grounds)
+Wednesday, Aug 1*boxscore*CIN*None*PHI*W*5*3*None*60-38*2* 3.0*Benton*Head*Luque*1:41*D*None*+*None
+Thursday, Aug 2*boxscore*CIN*None*PHI*W*2*0*None*61-38*2* 3.0*Donohue*Glazner*None*1:30*D*None*++*None
+Saturday, Aug 4*boxscore*CIN*None*NYG*L*4*14*None*61-39*2* 4.0*Ryan*Luque*None*None*D*28,000*-*None
+Sunday, Aug 5*boxscore*CIN*None*NYG*L*0*2*None*61-40*2* 5.0*McQuillan*Rixey*None*None*D*30,000*--*None
+Monday, Aug 6*boxscore*CIN*None*NYG*L*2*4*None*61-41*3* 7.0*Barnes*Benton*Jonnard*None*D*10,000*---*None
+Monday, Aug 6*boxscore*CIN*None*NYG*L*4*5*None*61-42*3* 7.0*Gearin*Donohue*Jonnard*1:54*D*17,000*----*1923-08-03 (Death of President Warren Harding)
+Tuesday, Aug 7*boxscore*CIN*None*NYG*L*2*6*None*61-43*3* 8.0*Watson*Luque*Ryan*None*D*5,000*-----*None
+Thursday, Aug 9*boxscore*CIN*None*BSN*L*0*1*None*61-44*3* 7.5*Genewich*Rixey*None*1:34*D*None*------*None
+Saturday, Aug 11*boxscore*CIN*None*BSN*W*10*6*None*62-44*3* 8.5*Benton*Marquard*None*1:40*D*None*+*None
+Saturday, Aug 11*boxscore*CIN*None*BSN*L*0*3*None*62-45*3* 8.5*Oeschger*Donohue*None*1:27*D*None*-*1923-08-10 (Funeral of President Warren Harding)
+Wednesday, Aug 15*boxscore*CIN*@*NYG*W*6*3*None*63-45*2* 6.5*Luque*McQuillan*None*1:42*D*None*+*None
+Wednesday, Aug 15*boxscore*CIN*@*NYG*W*10*5*None*64-45*2* 6.5*Rixey*Jonnard*None*None*D*25,000*++*1923-07-06 (Rain)
+Thursday, Aug 16*boxscore*CIN*@*NYG*L*1*7*None*64-46*2* 7.5*Watson*Benton*None*1:40*D*5,000*-*None
+Friday, Aug 17*boxscore*CIN*@*NYG*W*5*4*11*65-46*2* 6.5*Donohue*Ryan*None*None*D*8,000*+*None
+Saturday, Aug 18*boxscore*CIN*@*NYG*W*5*2*None*66-46*2* 5.5*Rixey*McQuillan*None*1:46*D*25,000*++*None
+Monday, Aug 20*boxscore*CIN*@*PHI*W*6*3*None*67-46*2* 4.5*Luque*Couch*None*1:42*D*None*+++*None
+Monday, Aug 20*boxscore*CIN*@*PHI*W*8*3*None*68-46*2* 4.5*Benton*Betts*None*1:52*D*None*++++*1923-05-16 (Rain)
+Tuesday, Aug 21*boxscore*CIN*@*PHI*W*7*5*None*69-46*2* 3.5*Donohue*Behan*None*1:46*D*None*+++++*None
+Thursday, Aug 23*boxscore*CIN*@*BRO*W*10*8*None*70-46*2* 3.0*Rixey*Smith*Donohue*2:00*D*3,000*++++++*None
+Friday, Aug 24*boxscore*CIN*@*BRO*W*4*0*None*71-46*2* 3.0*Luque*Grimes*None*None*D*3,000*+++++++*None
+Saturday, Aug 25*boxscore*CIN*@*BRO*W*5*1*None*72-46*2* 3.0*Benton*Vance*Donohue*None*D*8,000*++++++++*None
+Monday, Aug 27*boxscore*CIN*@*BSN*W*8*2*None*73-46*2* 4.0*Rixey*Genewich*None*1:33*D*None*+++++++++*None
+Monday, Aug 27*boxscore*CIN*@*BSN*L*0*7*None*73-47*2* 4.0*Barnes*Donohue*None*None*D*None*-*1923-07-16 (Rain)
+Tuesday, Aug 28*boxscore*CIN*@*BSN*W*4*1*None*74-47*2* 3.0*Luque*Oeschger*None*None*D*1,500*+*None
+Wednesday, Aug 29*boxscore*CIN*@*BSN*L*1*2*10*74-48*2* 3.5*Genewich*Benton*None*None*D*1,500*-*None
+Friday, Aug 31*boxscore*CIN*None*CHC*L*1*5*None*74-49*2* 4.0*Aldridge*Rixey*None*1:52*D*None*--*None
+Saturday, Sep 1*boxscore*CIN*None*CHC*W*4*3*None*75-49*2* 3.0*Luque*Alexander*None*1:51*D*None*+*None
+Sunday, Sep 2*boxscore*CIN*None*STL*L*1*4*None*75-50*2* 3.0*Haines*Donohue*None*1:47*D*None*-*None
+Monday, Sep 3*boxscore*CIN*@*PIT*L*2*7*None*75-51*2* 3.5*Morrison*Benton*None*None*D*None*--*None
+Tuesday, Sep 4*boxscore*CIN*@*PIT*W*2*1*None*76-51*2* 3.5*Rixey*Cooper*None*1:42*D*7,000*+*None
+Wednesday, Sep 5*boxscore*CIN*@*PIT*L*2*6*None*76-52*2* 4.0*Meadows*Luque*None*1:36*D*5,000*-*1923-09-03 (Rain)
+Friday, Sep 7*boxscore*CIN*@*STL*L*1*5*None*76-53*2* 4.0*Stuart*Donohue*None*1:29*D*4,000*--*None
+Friday, Sep 7*boxscore*CIN*@*STL*W*8*5*None*77-53*2* 4.0*Benton*North*None*1:50*D*7,500*+*1923-04-27 (Rain)
+Saturday, Sep 8*boxscore*CIN*@*STL*L*4*5*13*77-54*3* 5.5*Pfeffer*Rixey*None*2:42*D*7,500*-*None
+Saturday, Sep 8*boxscore*CIN*@*STL*L*4*13*None*77-55*3* 5.5*Sherdel*Keck*None*None*D*12,000*--*1923-09-06 (Rain)
+Sunday, Sep 9*boxscore*CIN*None*PIT*W*8*3*None*78-55*2* 4.5*Luque*Cooper*None*1:34*D*10,000*+*None
+Monday, Sep 10*boxscore*CIN*None*PIT*L*0*8*None*78-56*3* 5.5*Meadows*Donohue*None*1:35*D*None*-*None
+Tuesday, Sep 11*boxscore*CIN*None*PIT*L*3*4*None*78-57*3* 6.5*Morrison*Benton*None*1:30*D*None*--*None
+Wednesday, Sep 12*boxscore*CIN*@*CHC*W*4*0*None*79-57*3* 6.0*Rixey*Alexander*None*1:44*D*None*+*None
+Thursday, Sep 13*boxscore*CIN*@*CHC*W*5*3*10*80-57*3* 5.5*Donohue*Osborne*None*2:20*D*None*++*None
+Friday, Sep 14*boxscore*CIN*None*BSN*W*9*1*None*81-57*3* 5.0*Luque*Oeschger*None*1:47*D*None*+++*None
+Friday, Sep 14*boxscore*CIN*None*BSN*L*0*4*None*81-58*3* 5.0*Barnes*Harris*None*1:41*D*None*-*1923-08-12 (Rain)
+Saturday, Sep 15*boxscore*CIN*None*BSN*W*7*5*None*82-58*2* 4.0*Benton*Genewich*Keck*1:45*D*None*+*None
+Sunday, Sep 16*boxscore*CIN*None*BSN*W*7*4*None*83-58*2* 4.0*Luque*Cooney*None*1:40*D*None*++*None
+Wednesday, Sep 19*boxscore*CIN*None*PHI*W*1*0*None*84-58*2* 4.0*Rixey*Betts*None*1:29*D*None*+++*None
+Wednesday, Sep 19*boxscore*CIN*None*PHI*W*6*5*None*85-58*2* 4.0*Donohue*Weinert*None*1:33*D*None*++++*1923-09-18 (Rain)
+Thursday, Sep 20*boxscore*CIN*None*PHI*L*0*2*None*85-59*2* 4.0*Glazner*Luque*None*1:37*D*None*-*None
+Thursday, Sep 20*boxscore*CIN*None*PHI*W*8*7*11*86-59*2* 4.0*Harris*Bishop*None*2:11*D*None*+*1923-08-22 (Wet grounds; Site change)
+Friday, Sep 21*boxscore*CIN*None*BRO*W*4*3*11*87-59*2* 4.5*Rixey*Smith*None*2:06*D*2,000*++*None
+Saturday, Sep 22*boxscore*CIN*None*BRO*W*8*7*10*88-59*2* 4.5*McQuaid*Henry*None*2:01*D*None*+++*None
+Sunday, Sep 23*boxscore*CIN*None*BRO*W*5*1*None*89-59*2* 4.0*Luque*Vance*None*1:58*D*None*++++*None
+Monday, Sep 24*boxscore*CIN*None*NYG*W*6*3*None*90-59*2* 3.0*Donohue*Ryan*None*1:47*D*10,000*+++++*None
+Tuesday, Sep 25*boxscore*CIN*None*NYG*L*2*3*None*90-60*2* 4.0*Watson*Luque*None*None*D*None*-*None
+Saturday, Sep 29*boxscore*CIN*None*STL*W*11*1*None*91-60*2* 3.5*Luque*Toney*None*None*D*2,000*+*None
+Sunday, Sep 30*boxscore*CIN*None*STL*L*5*8*None*91-61*2* 4.5*Haines*Harris*None*1:49*D*None*-*None
+Saturday, Oct 6*boxscore*CIN*None*PIT*L*1*7*None*91-62*2* 4.5*Meadows*Rixey*None*1:29*D*None*--*None
+Sunday, Oct 7*boxscore*CIN*None*PIT*L*5*7*None*91-63*2* 4.5*Morrison*Donohue*None*1:38*D*None*---*None

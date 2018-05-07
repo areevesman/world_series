@@ -1,0 +1,161 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Tuesday, Apr 8*boxscore*ATL*@*HOU*W*2*0*None*1-1*2* 0.5*Morton*Konieczny*None*2:06*N*7,937*+*None
+Wednesday, Apr 9*boxscore*ATL*@*HOU*L*2*14*None*1-2*5* 1.5*Roberts*Reed*None*2:18*N*13,257*-*None
+Friday, Apr 11*boxscore*ATL*@*SFG*W*4*2*None*2-2*2* 1.0*Capra*Caldwell*None*1:56*D*17,649*+*None
+Saturday, Apr 12*boxscore*ATL*@*SFG*W*7*4*None*3-2*1* Tied*Morton*D'Acquisto*None*2:13*D*4,863*++*None
+Sunday, Apr 13*boxscore*ATL*@*SFG*L*0*5*None*3-3*5* 1.5*Montefusco*Reed*None*1:50*D*None*-*None
+Sunday, Apr 13*boxscore*ATL*@*SFG*L*2*4*None*3-4*5* 1.5*Falcone*House*Moffitt*1:54*D*10,527*--*None
+Tuesday, Apr 15*boxscore*ATL*None*HOU*W*6*1*None*4-4*2* 1.0*Niekro*Richard*None*2:00*N*12,774*+*None
+Wednesday, Apr 16*boxscore*ATL*None*HOU*W*5*2*None*5-4*1* Tied*Capra*Dierker*None*1:50*N*3,401*++*None
+Thursday, Apr 17*boxscore*ATL*None*HOU*W-wo*2*1*10*6-4*1* Tied*Morton*Roberts*None*2:20*N*3,123*+++*None
+Friday, Apr 18*boxscore*ATL*None*SDP*L*1*3*None*6-5*2* 0.5*McIntosh*Reed*Tomlin*2:04*N*5,954*-*None
+Saturday, Apr 19*boxscore*ATL*None*SDP*L*2*8*None*6-6*3* 1.5*Freisleben*Gentry*None*2:16*D*4,714*--*None
+Sunday, Apr 20*boxscore*ATL*None*SDP*W-wo*4*3*None*7-6*2* 0.5*House*Folkers*None*2:07*D*7,204*+*None
+Monday, Apr 21*boxscore*ATL*None*LAD*L*1*2*None*7-7*4* 1.5*Messersmith*Capra*None*2:00*N*9,256*-*None
+Tuesday, Apr 22*boxscore*ATL*None*LAD*W*3*2*None*8-7*2* 1.5*Morton*Hough*Harrison*2:16*N*5,049*+*None
+Wednesday, Apr 23*boxscore*ATL*None*CIN*W-wo*5*4*11*9-7*2* 1.5*Reed*Gullett*None*2:25*N*7,234*++*None
+Thursday, Apr 24*boxscore*ATL*None*CIN*L*3*11*None*9-8*3* 1.5*Billingham*Niekro*None*2:40*N*8,266*-*None
+Friday, Apr 25*boxscore*ATL*@*SDP*L*3*5*None*9-9*4* 2.5*Siebert*Capra*Greif*2:22*N*11,033*--*None
+Saturday, Apr 26*boxscore*ATL*@*SDP*W*6*4*None*10-9*3* 1.5*Morton*Jones*House*2:34*N*38,189*+*None
+Sunday, Apr 27*boxscore*ATL*@*SDP*W*12*8*None*11-9*2* 0.5*Reed*Folkers*None*2:35*D*None*++*None
+Sunday, Apr 27*boxscore*ATL*@*SDP*W*4*1*None*12-9*2* 0.5*Harrison*Foster*None*2:09*D*25,996*+++*None
+Monday, Apr 28*boxscore*ATL*@*LAD*L*3*4*None*12-10*2* 1.5*Brewer*House*None*2:15*N*32,097*-*None
+Tuesday, Apr 29*boxscore*ATL*@*LAD*L*0*8*None*12-11*2* 2.5*Messersmith*Capra*None*1:59*N*31,638*--*None
+Wednesday, Apr 30*boxscore*ATL*@*LAD*L*2*5*None*12-12*4* 3.5*Rau*Morton*None*2:17*N*29,640*---*None
+Friday, May 2*boxscore*ATL*@*CIN*W*6*5*None*13-12*2* 3.5*Gentry*Kirby*House*2:21*N*21,061*+*None
+Saturday, May 3*boxscore*ATL*@*CIN*L*1*6*None*13-13*3* 3.5*Nolan*Harrison*None*2:09*N*27,091*-*None
+Sunday, May 4*boxscore*ATL*@*CIN*L*2*3*None*13-14*5* 3.5*Gullett*Niekro*Borbon*2:18*D*51,030*--*None
+Tuesday, May 6*boxscore*ATL*None*SFG*L*1*7*None*13-15*5* 5.0*Falcone*Capra*None*2:29*N*5,102*---*None
+Wednesday, May 7*boxscore*ATL*None*SFG*L*2*6*None*13-16*5* 6.0*Barr*Morton*None*2:07*N*2,687*----*None
+Thursday, May 8*boxscore*ATL*None*SFG*W*3*2*None*14-16*5* 5.5*Reed*Caldwell*House*2:16*N*3,656*+*None
+Friday, May 9*boxscore*ATL*None*PHI*W*3*1*None*15-16*4* 4.5*Harrison*Underwood*None*2:09*N*7,444*++*None
+Saturday, May 10*boxscore*ATL*None*PHI*W-wo*2*1*11*16-16*3* 4.5*Niekro*Garber*None*2:29*D*6,510*+++*None
+Sunday, May 11*boxscore*ATL*None*PHI*W*7*3*None*17-16*3* 4.5*Capra*Twitchell*None*2:26*D*6,456*++++*None
+Monday, May 12*boxscore*ATL*@*MON*L*1*11*None*17-17*3* 5.5*Rogers*Morton*None*2:29*N*7,432*-*None
+Tuesday, May 13*boxscore*ATL*@*MON*W*9*4*None*18-17*3* 5.5*Reed*McNally*None*2:45*N*8,162*+*None
+Wednesday, May 14*boxscore*ATL*@*MON*L*4*5*None*18-18*3* 5.5*Fryman*Harrison*Montague*1:58*N*8,227*-*None
+Thursday, May 15*boxscore*ATL*@*MON*&X*5*4*None*19-18*2* 5.0*Niekro*Renko*Leon*2:16*D*None*+*None
+Friday, May 16*boxscore*ATL*@*PHI*L*8*12*None*19-19*2* 5.0*Garber*Capra*None*2:46*N*18,710*-*None
+Saturday, May 17*boxscore*ATL*@*PHI*L-wo*8*9*None*19-20*3* 6.0*Garber*Niekro*None*3:03*N*30,369*--*None
+Sunday, May 18*boxscore*ATL*@*PHI*L*1*5*None*19-21*3* 6.0*Underwood*Reed*None*1:46*D*25,905*---*None
+Tuesday, May 20*boxscore*ATL*None*MON*W*9*4*None*20-21*4* 5.5*Harrison*Fryman*Leon*2:40*N*3,681*+*None
+Wednesday, May 21*boxscore*ATL*None*MON*W*6*3*None*21-21*4* 5.5*Niekro*Renko*None*1:56*N*3,263*++*None
+Friday, May 23*boxscore*ATL*None*NYM*L*1*3*None*21-22*5* 6.0*Matlack*Morton*Apodaca*2:15*N*10,144*-*None
+Saturday, May 24*boxscore*ATL*None*NYM*L*1*5*None*21-23*5* 6.0*Tate*Reed*Apodaca*2:20*N*13,407*--*None
+Sunday, May 25*boxscore*ATL*None*NYM*W*6*3*None*22-23*5* 6.0*Capra*Koosman*House*2:31*D*8,537*+*None
+Monday, May 26*boxscore*ATL*@*CHC*L*0*6*None*22-24*5* 6.0*Burris*Harrison*None*2:04*D*18,993*-*None
+Tuesday, May 27*boxscore*ATL*@*CHC*W*7*2*None*23-24*5* 6.0*Niekro*Reuschel*None*2:18*D*10,731*+*None
+Wednesday, May 28*boxscore*ATL*@*CHC*L*4*5*None*23-25*5* 6.0*Zamora*Morton*None*2:43*D*10,085*-*None
+Friday, May 30*boxscore*ATL*@*PIT*L-wo*1*2*None*23-26*5* 7.0*Reuss*Capra*None*2:16*N*11,565*--*None
+Saturday, May 31*boxscore*ATL*@*PIT*L*4*11*None*23-27*5* 7.0*Kison*Harrison*None*2:17*N*13,423*---*None
+Sunday, Jun 1*boxscore*ATL*@*PIT*W*5*2*None*24-27*5* 6.0*Niekro*Rooker*None*2:25*D*37,373*+*None
+Monday, Jun 2*boxscore*ATL*@*STL*L*0*1*None*24-28*5* 6.0*McGlothen*Morton*None*1:40*N*12,001*-*None
+Tuesday, Jun 3*boxscore*ATL*@*STL*L*2*4*None*24-29*5* 7.0*Reed*Capra*Hrabosky*2:10*N*13,356*--*None
+Wednesday, Jun 4*boxscore*ATL*@*STL*L*2*5*None*24-30*5* 8.0*Curtis*Sadecki*Hrabosky*2:10*N*12,570*---*None
+Friday, Jun 6*boxscore*ATL*@*NYM*W*4*1*None*25-30*5* 8.0*Niekro*Tate*None*2:30*N*15,978*+*None
+Saturday, Jun 7*boxscore*ATL*@*NYM*W*7*3*None*26-30*5* 7.0*Morton*Matlack*House*2:44*D*50,048*++*None
+Sunday, Jun 8*boxscore*ATL*@*NYM*L-wo*6*7*14*26-31*5* 8.5*Webb*Sosa*None*4:06*D*24,928*-*None
+Monday, Jun 9*boxscore*ATL*None*STL*L*4*5*None*26-32*5* 8.5*Curtis*Odom*Hrabosky*2:38*N*9,620*--*None
+Thursday, Jun 12*boxscore*ATL*None*CHC*W-wo*5*4*None*27-32*5* 8.0*House*Frailing*None*2:48*N*None*+*None
+Thursday, Jun 12*boxscore*ATL*None*CHC*W*6*2*None*28-32*5* 8.0*Morton*Zahn*None*2:16*N*5,360*++*1975-06-11 (Rain)
+Friday, Jun 13*boxscore*ATL*None*PIT*L*3*8*None*28-33*5* 9.0*Rooker*Odom*None*2:35*N*8,998*-*None
+Saturday, Jun 14*boxscore*ATL*None*PIT*L*1*2*None*28-34*5* 10.0*Reuss*Thompson*Giusti*2:24*N*29,308*--*None
+Sunday, Jun 15*boxscore*ATL*None*PIT*L*6*8*None*28-35*5* 10.0*Demery*Sosa*None*3:03*D*8,352*---*None
+Monday, Jun 16*boxscore*ATL*@*CIN*L*2*9*None*28-36*5* 11.0*Gullett*Niekro*None*2:24*N*20,642*----*None
+Tuesday, Jun 17*boxscore*ATL*@*CIN*W*5*1*None*29-36*5* 10.0*Morton*Nolan*None*1:58*N*22,133*+*None
+Wednesday, Jun 18*boxscore*ATL*@*CIN*L*1*6*None*29-37*5* 11.0*Billingham*Odom*McEnaney*2:28*D*30,333*-*None
+Friday, Jun 20*boxscore*ATL*None*SFG*W*4*2*None*30-37*5* 11.0*Niekro*Barr*House*2:28*N*4,373*+*None
+Saturday, Jun 21*boxscore*ATL*None*SFG*L*3*4*None*30-38*5* 12.0*Caldwell*Morton*Moffitt*2:34*N*10,084*-*None
+Sunday, Jun 22*boxscore*ATL*None*SFG*W*8*2*None*31-38*5* 11.5*Beard*Halicki*None*2:44*D*None*+*None
+Sunday, Jun 22*boxscore*ATL*None*SFG*L*2*5*None*31-39*5* 11.5*Falcone*Odom*Lavelle*2:30*D*12,410*-*None
+Monday, Jun 23*boxscore*ATL*None*CIN*L*4*8*None*31-40*5* 12.5*Billingham*Easterly*None*2:25*N*8,537*--*None
+Tuesday, Jun 24*boxscore*ATL*None*CIN*L*0*3*None*31-41*5* 13.5*Darcy*Niekro*Borbon*2:13*N*9,148*---*None
+Wednesday, Jun 25*boxscore*ATL*None*CIN*L*0*2*None*31-42*5* 14.5*Carroll*Morton*McEnaney*2:00*N*8,117*----*None
+Thursday, Jun 26*boxscore*ATL*@*HOU*L*4*8*None*31-43*5* 15.0*Richard*Thompson*None*2:19*N*7,017*-----*None
+Friday, Jun 27*boxscore*ATL*@*HOU*W*7*4*None*32-43*5* 15.0*Easterly*Dierker*Leon*2:29*N*10,222*+*None
+Saturday, Jun 28*boxscore*ATL*@*HOU*W*6*3*None*33-43*5* 15.0*Beard*Roberts*House*2:18*D*10,999*++*None
+Sunday, Jun 29*boxscore*ATL*@*HOU*W*3*1*None*34-43*5* 14.5*Morton*Forsch*Leon*2:21*D*10,576*+++*None
+Tuesday, Jul 1*boxscore*ATL*@*SFG*L*1*9*None*34-44*5* 16.0*Caldwell*Easterly*None*2:27*N*2,796*-*None
+Wednesday, Jul 2*boxscore*ATL*@*SFG*W*6*0*None*35-44*5* 16.0*Niekro*Halicki*None*2:08*D*5,253*+*None
+Friday, Jul 4*boxscore*ATL*None*HOU*W*5*4*None*36-44*5* 15.5*Morton*Granger*None*2:14*N*29,487*++*None
+Saturday, Jul 5*boxscore*ATL*None*HOU*W*4*3*None*37-44*4* 15.0*Sadecki*Forsch*Sosa*1:56*N*None*+++*None
+Saturday, Jul 5*boxscore*ATL*None*HOU*W*8*4*None*38-44*4* 15.0*Leon*Konieczny*House*2:23*N*11,202*++++*None
+Sunday, Jul 6*boxscore*ATL*None*HOU*L*2*6*None*38-45*4* 16.0*Richard*Niekro*Crawford*2:30*D*3,728*-*None
+Monday, Jul 7*boxscore*ATL*None*NYM*L*1*3*None*38-46*5* 17.0*Webb*Easterly*None*2:19*N*4,510*--*None
+Tuesday, Jul 8*boxscore*ATL*None*NYM*L*3*4*None*38-47*5* 18.0*Koosman*Morton*Sanders*2:15*N*4,942*---*None
+Wednesday, Jul 9*boxscore*ATL*None*NYM*L*1*2*10*38-48*5* 19.0*Seaver*Leon*None*2:43*N*6,515*----*None
+Friday, Jul 11*boxscore*ATL*None*MON*W-wo*2*1*10*39-48*5* 19.5*House*Murray*None*2:27*N*5,010*+*None
+Saturday, Jul 12*boxscore*ATL*None*MON*W*9*4*None*40-48*4* 20.0*Morton*Scherman*None*2:15*N*None*++*None
+Saturday, Jul 12*boxscore*ATL*None*MON*L*3*7*None*40-49*4* 20.0*Fryman*Easterly*None*2:36*N*25,246*-*1975-07-10 (Rain)
+Sunday, Jul 13*boxscore*ATL*None*MON*W-wo*5*4*14*41-49*4* 20.0*Sadecki*DeMola*None*3:45*D*4,908*+*None
+Thursday, Jul 17*boxscore*ATL*@*NYM*L*3*4*None*41-50*4* 20.0*Baldwin*House*None*2:19*N*16,010*-*None
+Friday, Jul 18*boxscore*ATL*@*NYM*W*4*3*None*42-50*4* 20.0*Morton*Matlack*Leon*2:47*N*23,262*+*None
+Saturday, Jul 19*boxscore*ATL*@*NYM*L*4*5*None*42-51*5* 20.0*Seaver*Dal Canton*None*2:30*D*22,551*-*None
+Sunday, Jul 20*boxscore*ATL*@*MON*L-wo*5*6*11*42-52*5* 20.0*Scherman*House*None*2:55*D*16,056*--*None
+Monday, Jul 21*boxscore*ATL*@*MON*W*4*1*None*43-52*4* 20.0*Beard*Warthen*Sosa*1:58*N*15,127*+*None
+Tuesday, Jul 22*boxscore*ATL*@*PHI*L-wo*0*1*None*43-53*5* 20.0*Carlton*Morton*None*2:19*N*20,052*-*None
+Wednesday, Jul 23*boxscore*ATL*@*PHI*L*2*3*None*43-54*5* 20.0*Lonborg*Dal Canton*None*2:18*N*28,268*--*None
+Thursday, Jul 24*boxscore*ATL*@*PHI*W*5*4*None*44-54*4* 20.0*Niekro*Christenson*None*2:37*N*21,706*+*None
+Friday, Jul 25*boxscore*ATL*None*SDP*L*3*7*None*44-55*5* 21.0*McIntosh*Sadecki*Greif*2:21*N*None*-*None
+Friday, Jul 25*boxscore*ATL*None*SDP*L*1*8*None*44-56*5* 21.0*Spillner*Thompson*None*2:14*N*9,860*--*None
+Saturday, Jul 26*boxscore*ATL*None*SDP*L*2*4*None*44-57*5* 22.0*Johnson*Morton*Frisella*2:57*N*12,225*---*None
+Sunday, Jul 27*boxscore*ATL*None*SDP*L*1*3*None*44-58*5* 22.0*Jones*Dal Canton*None*1:57*D*4,496*----*None
+Monday, Jul 28*boxscore*ATL*None*LAD*W*5*3*None*45-58*5* 22.0*Niekro*Marshall*None*2:24*N*6,328*+*None
+Tuesday, Jul 29*boxscore*ATL*None*LAD*W*4*2*None*46-58*5* 21.0*Odom*Messersmith*House*2:12*N*4,906*++*None
+Wednesday, Jul 30*boxscore*ATL*None*LAD*L*2*8*None*46-59*5* 22.0*Rau*Morton*Marshall*2:28*N*3,954*-*None
+Thursday, Jul 31*boxscore*ATL*None*LAD*W-wo*11*10*None*47-59*5* 22.0*House*Marshall*None*3:08*N*3,934*+*None
+Friday, Aug 1*boxscore*ATL*@*SDP*L*0*4*None*47-60*5* 22.0*Jones*Niekro*None*1:40*N*11,348*-*None
+Saturday, Aug 2*boxscore*ATL*@*SDP*W*8*6*15*48-60*5* 22.0*Beard*McIntosh*None*4:41*N*26,892*+*None
+Sunday, Aug 3*boxscore*ATL*@*SDP*W*5*1*None*49-60*5* 22.0*Morton*Spillner*None*2:13*D*8,850*++*None
+Monday, Aug 4*boxscore*ATL*@*LAD*L*1*9*None*49-61*5* 23.0*Hooton*Dal Canton*None*2:15*N*25,036*-*None
+Tuesday, Aug 5*boxscore*ATL*@*LAD*L*0*5*None*49-62*5* 24.0*Sutton*Niekro*None*2:18*N*24,452*--*None
+Wednesday, Aug 6*boxscore*ATL*@*LAD*W*5*4*None*50-62*5* 24.0*House*Messersmith*Leon*2:19*N*23,779*+*None
+Friday, Aug 8*boxscore*ATL*None*CHC*W*1*0*None*51-62*5* 23.5*Morton*Dettore*None*2:06*N*None*++*None
+Friday, Aug 8*boxscore*ATL*None*CHC*L*1*3*None*51-63*5* 23.5*Burris*Dal Canton*Knowles*2:31*N*8,368*-*None
+Saturday, Aug 9*boxscore*ATL*None*CHC*L*2*8*None*51-64*5* 24.5*Stone*Niekro*None*2:33*N*22,605*--*None
+Sunday, Aug 10*boxscore*ATL*None*CHC*L*1*9*None*51-65*5* 25.5*Bonham*Odom*None*2:19*D*4,251*---*None
+Monday, Aug 11*boxscore*ATL*None*PIT*L*1*8*None*51-66*5* 26.5*Candelaria*Easterly*Tekulve*2:26*N*4,701*----*None
+Tuesday, Aug 12*boxscore*ATL*None*PIT*W*3*2*None*52-66*5* 26.5*Morton*Kison*House*2:36*N*4,506*+*None
+Wednesday, Aug 13*boxscore*ATL*None*PIT*W*4*3*None*53-66*5* 26.0*House*Brett*None*2:38*N*4,163*++*None
+Thursday, Aug 14*boxscore*ATL*None*STL*W*6*4*None*54-66*5* 26.0*Niekro*McGlothen*Sadecki*2:36*N*4,188*+++*None
+Friday, Aug 15*boxscore*ATL*None*STL*L*1*4*None*54-67*5* 27.5*Reed*Easterly*None*1:55*N*None*-*None
+Friday, Aug 15*boxscore*ATL*None*STL*L*1*2*None*54-68*5* 27.5*Rasmussen*Thompson*Hrabosky*2:26*N*8,771*--*1975-06-10 (Rain)
+Saturday, Aug 16*boxscore*ATL*None*STL*W-wo*8*7*None*55-68*5* 27.5*House*Gibson*None*2:38*N*16,255*+*None
+Sunday, Aug 17*boxscore*ATL*None*STL*L*1*8*None*55-69*5* 28.5*Denny*Odom*None*2:45*D*8,907*-*None
+Monday, Aug 18*boxscore*ATL*None*PHI*L*3*6*None*55-70*5* 29.5*Hilgendorf*Niekro*None*2:32*N*4,320*--*None
+Tuesday, Aug 19*boxscore*ATL*None*PHI*W-wo*6*4*None*56-70*5* 28.5*Leon*Garber*None*2:45*N*4,470*+*None
+Wednesday, Aug 20*boxscore*ATL*None*PHI*L*1*4*None*56-71*5* 28.5*Christenson*Morton*McGraw*2:45*N*4,704*-*None
+Friday, Aug 22*boxscore*ATL*@*STL*W*9*5*None*57-71*5* 27.0*Sosa*Parker*House*2:33*N*23,769*+*None
+Saturday, Aug 23*boxscore*ATL*@*STL*L*2*7*None*57-72*5* 28.0*Denny*Niekro*None*2:12*N*30,930*-*None
+Sunday, Aug 24*boxscore*ATL*@*STL*L*2*6*None*57-73*5* 28.0*Forsch*Morton*Hrabosky*2:17*D*24,786*--*None
+Monday, Aug 25*boxscore*ATL*@*PIT*L*0*4*None*57-74*5* 29.0*Rooker*Thompson*None*1:59*N*11,146*---*None
+Tuesday, Aug 26*boxscore*ATL*@*PIT*L*2*8*None*57-75*5* 30.0*Demery*Easterly*None*2:16*N*12,213*----*None
+Wednesday, Aug 27*boxscore*ATL*@*PIT*W*6*2*None*58-75*5* 30.0*Niekro*Candelaria*None*2:13*N*21,209*+*None
+Friday, Aug 29*boxscore*ATL*@*CHC*L*3*8*None*58-76*5* 31.5*Burris*Morton*None*2:22*D*4,151*-*None
+Sunday, Aug 31*boxscore*ATL*@*CHC*W*3*1*None*59-76*5* 31.5*Niekro*Reuschel*None*2:01*D*None*+*None
+Sunday, Aug 31*boxscore*ATL*@*CHC*L-wo*8*9*10*59-77*5* 31.5*Dettore*Sadecki*None*2:26*D*12,346*-*1975-08-30 (Rain)
+Monday, Sep 1*boxscore*ATL*@*HOU*L*3*5*None*59-78*5* 31.5*Konieczny*Easterly*Niekro*2:22*N*6,329*--*None
+Tuesday, Sep 2*boxscore*ATL*@*HOU*W*4*1*None*60-78*5* 31.5*Morton*York*Dal Canton*2:13*N*4,019*+*None
+Wednesday, Sep 3*boxscore*ATL*None*SDP*L*9*10*None*60-79*5* 32.5*Johnson*House*Greif*2:44*N*1,119*-*None
+Thursday, Sep 4*boxscore*ATL*None*SDP*W-wo*2*1*None*61-79*5* 31.5*Dal Canton*Frisella*None*2:23*N*1,062*+*None
+Friday, Sep 5*boxscore*ATL*None*LAD*L*2*5*None*61-80*5* 32.5*Hooton*Thompson*None*2:29*N*2,725*-*None
+Saturday, Sep 6*boxscore*ATL*None*LAD*W*3*2*None*62-80*5* 32.5*Morton*Hough*Dal Canton*2:30*N*7,357*+*None
+Sunday, Sep 7*boxscore*ATL*None*LAD*W-wo*5*4*None*63-80*5* 32.5*Dal Canton*Hough*None*2:55*D*3,439*++*None
+Monday, Sep 8*boxscore*ATL*None*HOU*L*6*9*None*63-81*5* 33.5*Sosa*LaCorte*Stanton*2:31*N*737*-*None
+Tuesday, Sep 9*boxscore*ATL*None*HOU*W*4*1*None*64-81*5* 32.5*Devine*Dierker*Dal Canton*2:16*N*2,074*+*None
+Wednesday, Sep 10*boxscore*ATL*@*SDP*L*1*2*None*64-82*5* 32.5*Jones*Dal Canton*None*2:02*N*6,648*-*None
+Thursday, Sep 11*boxscore*ATL*@*SDP*L-wo*3*4*None*64-83*5* 32.5*Strom*House*None*1:56*N*3,712*--*None
+Friday, Sep 12*boxscore*ATL*@*LAD*W*2*1*None*65-83*5* 32.5*Niekro*Sutton*None*2:06*N*18,067*+*None
+Saturday, Sep 13*boxscore*ATL*@*LAD*L*0*6*None*65-84*5* 32.5*Messersmith*LaCorte*None*2:16*N*17,929*-*None
+Sunday, Sep 14*boxscore*ATL*@*LAD*L*2*3*None*65-85*5* 33.0*Rau*Morton*Hough*2:12*D*14,833*--*None
+Monday, Sep 15*boxscore*ATL*@*SFG*W*12*0*None*66-85*5* 32.5*Easterly*Falcone*None*2:26*N*851*+*None
+Tuesday, Sep 16*boxscore*ATL*@*SFG*L-wo*6*7*None*66-86*5* 32.5*D'Acquisto*House*None*2:55*N*1,089*-*None
+Wednesday, Sep 17*boxscore*ATL*@*SFG*L*1*4*None*66-87*5* 33.5*Barr*Niekro*None*1:55*D*1,141*--*None
+Thursday, Sep 18*boxscore*ATL*None*CIN*L*3*4*10*66-88*5* 34.5*Borbon*Torrealba*None*2:57*N*3,123*---*None
+Friday, Sep 19*boxscore*ATL*None*CIN*L*6*7*None*66-89*5* 35.5*Darcy*LaCorte*McEnaney*2:44*N*4,290*----*None
+Saturday, Sep 20*boxscore*ATL*None*CIN*L*2*9*None*66-90*5* 36.5*Nolan*Easterly*None*2:29*N*7,094*-----*None
+Sunday, Sep 21*boxscore*ATL*None*CIN*L*0*3*None*66-91*5* 37.5*Gullett*Niekro*Eastwick*1:51*D*6,858*------*None
+Wednesday, Sep 24*boxscore*ATL*None*SFG*W-wo*7*6*11*67-91*5* 37.5*Sosa*Barr*None*3:02*N*1,045*+*None
+Friday, Sep 26*boxscore*ATL*@*CIN*L*5*12*None*67-92*5* 38.5*Nolan*Niekro*Borbon*2:28*N*18,720*-*None
+Saturday, Sep 27*boxscore*ATL*@*CIN*L*6*7*None*67-93*5* 39.5*Gullett*Odom*Darcy*3:03*D*27,105*--*None
+Sunday, Sep 28*boxscore*ATL*@*CIN*L-wo*6*7*None*67-94*5* 40.5*McEnaney*Dal Canton*None*2:25*D*44,130*---*None

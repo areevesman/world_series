@@ -1,0 +1,159 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 15*boxscore*CHW*@*DET*L*1*3*None*0-2*7* 2.0*Summers*White*None*None*D*None*--*None
+Friday, Apr 16*boxscore*CHW*@*DET*L*2*10*None*0-3*8* 3.0*Jones*Fiene*Lafitte*None*D*None*---*None
+Saturday, Apr 17*boxscore*CHW*@*SLB*W*3*1*10*1-3*7* 3.0*Smith*Waddell*None*2:00*D*None*+*None
+Sunday, Apr 18*boxscore*CHW*@*SLB*L*2*6*None*1-4*8* 4.0*Powell*Altrock*None*1:40*D*30,000*-*None
+Thursday, Apr 22*boxscore*CHW*None*DET*W*3*1*None*2-4*7* 2.5*Smith*Willett*None*None*D*None*+*None
+Friday, Apr 23*boxscore*CHW*None*DET*L*1*3*11*2-5*7* 3.5*Mullin*White*None*None*D*None*-*None
+Saturday, Apr 24*boxscore*CHW*None*DET*W*3*1*None*3-5*7* 3.0*Smith*Jones*None*None*D*None*+*None
+Sunday, Apr 25*boxscore*CHW*None*SLB*W*1*0*None*4-5*5* 2.5*Scott*Grahame*None*None*D*None*++*None
+Monday, Apr 26*boxscore*CHW*None*SLB*W*1*0*None*5-5*5* 2.5*Smith*Powell*None*None*D*None*+++*None
+Tuesday, Apr 27*boxscore*CHW*None*SLB*W*1*0*None*6-5*3* 2.0*White*Waddell*None*None*D*None*++++*None
+Sunday, May 2*boxscore*CHW*None*DET*L*5*6*None*6-6*4* 4.5*Mullin*Smith*None*None*D*None*-*None
+Monday, May 3*boxscore*CHW*None*DET*W*4*0*None*7-6*4* 3.5*White*Willett*None*None*D*None*+*1909-04-21 (Rain)
+Tuesday, May 4*boxscore*CHW*@*CLE*L*2*10*None*7-7*4* 3.5*Young*Smith*None*None*D*None*-*None
+Wednesday, May 5*boxscore*CHW*@*CLE*W*6*5*None*8-7*3* 3.5*Owen*Wright*None*None*D*None*+*None
+Thursday, May 6*boxscore*CHW*@*CLE*L*1*2*None*8-8*4* 4.5*Berger*Scott*None*None*D*None*-*None
+Saturday, May 8*boxscore*CHW*@*CLE*L*4*8*None*8-9*5* 5.0*Liebhardt*Smith*None*None*D*None*--*None
+Sunday, May 9*boxscore*CHW*None*CLE*W*4*2*None*9-9*5* 5.0*Walsh*Young*None*None*D*None*+*1909-04-30 (Rain)
+Sunday, May 9*boxscore*CHW*None*CLE*L*1*4*None*9-10*5* 5.0*Berger*Scott*None*None*D*None*-*1909-04-29 (Rain)
+Monday, May 10*boxscore*CHW*None*WSH*W*1*0*11*10-10*5* 4.5*White*Johnson*None*None*D*None*+*None
+Tuesday, May 11*boxscore*CHW*None*WSH*W*5*3*None*11-10*4* 4.5*Smith*Groom*None*None*D*None*++*None
+Wednesday, May 12*boxscore*CHW*None*WSH*L*2*6*None*11-11*5* 5.5*Smith*Owen*Johnson*None*D*None*-*None
+Thursday, May 13*boxscore*CHW*None*WSH*T*1*1*17*11-11*5* 5.0*None*None*None*None*D*None*-*None
+Saturday, May 15*boxscore*CHW*None*PHA*L*2*3*None*11-12*5* 5.5*Plank*Smith*None*None*D*None*--*None
+Sunday, May 16*boxscore*CHW*None*PHA*L*0*1*13*11-13*5* 5.5*Coombs*Walsh*None*None*D*None*---*None
+Monday, May 17*boxscore*CHW*None*PHA*L*0*1*12*11-14*5* 6.5*Krause*Scott*None*None*D*None*----*None
+Tuesday, May 18*boxscore*CHW*None*PHA*L*0*5*None*11-15*5* 6.5*Dygert*White*None*None*D*None*-----*1909-05-14 (Rain)
+Wednesday, May 19*boxscore*CHW*None*BOS*L*2*5*None*11-16*5* 6.5*Steele*Burns*None*None*D*None*------*None
+Thursday, May 20*boxscore*CHW*None*BOS*W*12*3*None*12-16*5* 6.5*Smith*Chech*None*None*D*None*+*None
+Friday, May 21*boxscore*CHW*None*BOS*L*3*6*None*12-17*6* 6.5*Arellanes*White*None*None*D*None*-*None
+Saturday, May 22*boxscore*CHW*None*BOS*W*2*1*None*13-17*5* 5.5*Smith*Wolter*None*None*D*None*+*None
+Sunday, May 23*boxscore*CHW*None*NYY*W*7*3*None*14-17*5* 5.5*Walsh*Lake*None*None*D*None*++*None
+Monday, May 24*boxscore*CHW*None*NYY*W*2*1*None*15-17*5* 5.5*Scott*Brockett*Smith*None*D*None*+++*None
+Thursday, May 27*boxscore*CHW*None*NYY*T*2*2*10*15-17*5* 5.5*None*None*None*None*D*None*+++*1909-05-25 (Rain)
+Friday, May 28*boxscore*CHW*@*DET*L*1*2*14*15-18*5* 6.5*Killian*Burns*None*None*D*None*-*None
+Saturday, May 29*boxscore*CHW*@*DET*L*3*4*None*15-19*6* 7.5*Willett*Walsh*None*None*D*None*--*None
+Sunday, May 30*boxscore*CHW*None*DET*L*1*3*None*15-20*6* 8.5*Summers*Smith*None*None*D*None*---*None
+Monday, May 31*boxscore*CHW*None*DET*L*1*5*None*15-21*7* 9.5*Mullin*Burns*None*None*D*None*----*None
+Monday, May 31*boxscore*CHW*None*DET*T*7*7*8*15-21*7* 9.5*None*None*None*None*D*None*----*None
+Wednesday, Jun 2*boxscore*CHW*@*PHA*L*4*5*None*15-22*7* 9.5*Vickers*Smith*Bender*None*D*None*-----*None
+Thursday, Jun 3*boxscore*CHW*@*PHA*W*9*6*None*16-22*6* 9.5*Smith*Krause*None*None*D*None*+*None
+Monday, Jun 7*boxscore*CHW*@*WSH*W*8*0*None*17-22*6* 9.0*Walsh*Gray*None*None*D*None*++*None
+Friday, Jun 11*boxscore*CHW*@*NYY*W*1*0*None*18-22*6* 9.0*Walsh*Lake*None*None*D*None*+++*None
+Saturday, Jun 12*boxscore*CHW*@*NYY*W*5*3*None*19-22*6* 8.0*Smith*Chesbro*None*None*D*None*++++*None
+Monday, Jun 14*boxscore*CHW*@*NYY*L*5*7*None*19-23*6* 9.0*Brockett*Walsh*Hughes*None*D*None*-*None
+Tuesday, Jun 15*boxscore*CHW*@*NYY*W*7*3*None*20-23*6* 8.0*Smith*Manning*None*None*D*None*+*None
+Wednesday, Jun 16*boxscore*CHW*@*BOS*W*6*4*None*21-23*6* 7.0*Suter*Steele*Walsh*1:50*D*6,614*++*None
+Thursday, Jun 17*boxscore*CHW*@*BOS*W*9*2*None*22-23*6* 7.5*Burns*Burchell*None*1:55*D*8,564*+++*None
+Thursday, Jun 17*boxscore*CHW*@*BOS*L*1*6*None*22-24*6* 7.5*Ryan*Smith*None*None*D*None*-*None
+Saturday, Jun 19*boxscore*CHW*@*DET*L*4*5*None*22-25*6* 8.0*Willett*Smith*None*None*D*None*--*None
+Sunday, Jun 20*boxscore*CHW*None*CLE*W*4*0*None*23-25*6* 9.0*Walsh*Young*None*None*D*None*+*None
+Sunday, Jun 20*boxscore*CHW*None*CLE*L*0*5*None*23-26*6* 9.0*Berger*Scott*None*None*D*None*-*1909-05-01 (Rain)
+Tuesday, Jun 22*boxscore*CHW*None*CLE*L*2*3*None*23-27*6* 11.0*Joss*Walsh*None*None*D*None*--*1909-06-21 (Rain)
+Tuesday, Jun 22*boxscore*CHW*None*CLE*L*0*2*None*23-28*6* 11.0*Rhoads*Smith*None*None*D*None*---*1909-05-03 (Schedule change)
+Wednesday, Jun 23*boxscore*CHW*@*CLE*W*4*3*None*24-28*6* 11.0*Fiene*Berger*None*None*D*None*+*None
+Thursday, Jun 24*boxscore*CHW*@*CLE*L*1*8*None*24-29*6* 12.0*Young*Scott*None*None*D*None*-*None
+Saturday, Jun 26*boxscore*CHW*@*CLE*W*2*0*None*25-29*5* 12.5*Walsh*Joss*None*None*D*None*+*None
+Sunday, Jun 27*boxscore*CHW*None*DET*L*0*1*None*25-30*5* 12.5*Killian*Burns*None*None*D*None*-*None
+Sunday, Jun 27*boxscore*CHW*None*DET*W*5*3*None*26-30*5* 12.5*White*Suggs*None*None*D*None*+*None
+Monday, Jun 28*boxscore*CHW*None*DET*L*1*2*10*26-31*6* 13.5*Speer*Walsh*Willett*None*D*None*-*None
+Tuesday, Jun 29*boxscore*CHW*None*SLB*L*1*2*None*26-32*6* 14.5*Grahame*Walsh*None*None*D*None*--*None
+Wednesday, Jun 30*boxscore*CHW*None*SLB*L*3*4*None*26-33*6* 14.5*Powell*Fiene*None*None*D*None*---*None
+Thursday, Jul 1*boxscore*CHW*None*SLB*L*0*2*None*26-34*6* 15.5*Pelty*White*None*None*D*None*----*None
+Friday, Jul 2*boxscore*CHW*None*SLB*W*15*3*None*27-34*6* 15.5*Walsh*Grahame*None*None*D*None*+*1909-04-28 (Rain)
+Saturday, Jul 3*boxscore*CHW*None*SLB*L*0*4*None*27-35*6* 15.5*Dinneen*Burns*None*None*D*None*-*None
+Sunday, Jul 4*boxscore*CHW*None*CLE*L*0*3*None*27-36*6* 16.5*Joss*Fiene*None*None*D*None*--*None
+Monday, Jul 5*boxscore*CHW*@*CLE*L*3*4*12*27-37*6* 17.0*Falkenberg*Walsh*None*None*D*None*---*None
+Monday, Jul 5*boxscore*CHW*@*CLE*L*2*4*None*27-38*6* 17.0*Rhoads*White*None*None*D*None*----*None
+Tuesday, Jul 6*boxscore*CHW*@*SLB*W*5*4*None*28-38*6* 16.0*Fiene*Howell*None*2:20*D*None*+*None
+Thursday, Jul 8*boxscore*CHW*@*SLB*L*1*5*None*28-39*6* 16.0*Powell*Fiene*None*1:45*D*None*-*None
+Thursday, Jul 8*boxscore*CHW*@*SLB*L*0*1*None*28-40*6* 16.0*Dinneen*Scott*None*1:50*D*None*--*1909-04-19 (Rain)
+Friday, Jul 9*boxscore*CHW*None*BOS*L*1*2*None*28-41*6* 16.0*Arellanes*Burns*None*None*D*None*---*None
+Saturday, Jul 10*boxscore*CHW*None*BOS*W*6*1*None*29-41*6* 16.0*White*Wood*None*None*D*None*+*None
+Sunday, Jul 11*boxscore*CHW*None*BOS*W*4*0*None*30-41*6* 15.0*Burns*Steele*None*None*D*None*++*None
+Monday, Jul 12*boxscore*CHW*None*BOS*L*3*4*10*30-42*6* 15.5*Burchell*Smith*None*None*D*None*-*None
+Tuesday, Jul 13*boxscore*CHW*None*NYY*L*1*5*None*30-43*6* 16.0*Warhop*Walsh*None*None*D*None*--*None
+Tuesday, Jul 13*boxscore*CHW*None*NYY*W*6*2*None*31-43*6* 16.0*Smith*Manning*None*None*D*None*+*1909-05-26 (Rain)
+Wednesday, Jul 14*boxscore*CHW*None*NYY*L*3*4*None*31-44*6* 16.0*Hughes*Fiene*Lake*None*D*None*-*None
+Wednesday, Jul 14*boxscore*CHW*None*NYY*W*8*2*None*32-44*6* 16.0*Scott*Lake*None*None*D*None*+*None
+Thursday, Jul 15*boxscore*CHW*None*NYY*W*9*0*None*33-44*6* 16.5*Smith*Warhop*None*None*D*None*++*None
+Friday, Jul 16*boxscore*CHW*None*NYY*W*3*1*None*34-44*6* 16.0*Scott*Quinn*None*None*D*None*+++*None
+Saturday, Jul 17*boxscore*CHW*None*WSH*L*3*4*None*34-45*6* 17.0*Altrock*Burns*None*None*D*None*-*None
+Sunday, Jul 18*boxscore*CHW*None*WSH*W*3*0*None*35-45*5* 17.0*Smith*Johnson*None*None*D*None*+*None
+Monday, Jul 19*boxscore*CHW*None*WSH*W*12*2*None*36-45*5* 16.0*Smith*Groom*Suter*None*D*None*++*None
+Tuesday, Jul 20*boxscore*CHW*None*WSH*W*6*1*None*37-45*5* 15.0*White*Witherup*None*None*D*None*+++*None
+Wednesday, Jul 21*boxscore*CHW*None*WSH*W*6*3*None*38-45*5* 15.0*Burns*Johnson*None*None*D*None*++++*None
+Thursday, Jul 22*boxscore*CHW*None*PHA*W*4*3*None*39-45*5* 15.0*Smith*Plank*None*None*D*None*+++++*None
+Friday, Jul 23*boxscore*CHW*None*PHA*W*3*0*None*40-45*5* 15.5*Scott*Krause*None*None*D*None*++++++*None
+Saturday, Jul 24*boxscore*CHW*None*PHA*W*5*1*None*41-45*5* 15.5*White*Coombs*None*None*D*None*+++++++*None
+Sunday, Jul 25*boxscore*CHW*None*PHA*W*3*0*None*42-45*5* 14.5*Smith*Morgan*None*None*D*None*++++++++*None
+Thursday, Jul 29*boxscore*CHW*@*WSH*L*2*3*None*42-46*5* 15.0*Johnson*Burns*None*None*D*None*-*None
+Thursday, Jul 29*boxscore*CHW*@*WSH*W*2*1*None*43-46*5* 15.0*Smith*Oberlin*None*None*D*None*+*1909-06-08 (Wet grounds)
+Friday, Jul 30*boxscore*CHW*@*WSH*W*6*1*None*44-46*5* 13.5*Scott*Smith*None*None*D*None*++*None
+Friday, Jul 30*boxscore*CHW*@*WSH*W*2*1*None*45-46*5* 13.5*White*Witherup*None*None*D*None*+++*1909-06-09 (Wet grounds)
+Saturday, Jul 31*boxscore*CHW*@*WSH*W*1*0*None*46-46*5* 12.5*Burns*Johnson*None*None*D*None*++++*None
+Saturday, Jul 31*boxscore*CHW*@*WSH*W*4*0*None*47-46*5* 12.5*Smith*Groom*None*None*D*None*+++++*1909-06-10 (Wet grounds)
+Tuesday, Aug 3*boxscore*CHW*@*PHA*L*1*2*None*47-47*5* 12.5*Plank*Scott*None*None*D*None*-*None
+Tuesday, Aug 3*boxscore*CHW*@*PHA*L*4*10*None*47-48*5* 12.5*Krause*White*None*None*D*None*--*1909-06-04 (Rain)
+Thursday, Aug 5*boxscore*CHW*@*PHA*L*0*3*None*47-49*5* 12.5*Morgan*Smith*None*None*D*None*---*None
+Thursday, Aug 5*boxscore*CHW*@*PHA*W*1*0*None*48-49*5* 12.5*Scott*Bender*None*None*D*None*+*1909-06-05 (Rain)
+Friday, Aug 6*boxscore*CHW*@*BOS*L*1*8*None*48-50*5* 13.5*Arellanes*Burns*None*1:30*D*8,272*-*None
+Saturday, Aug 7*boxscore*CHW*@*BOS*L*0*3*None*48-51*5* 13.5*Wood*Smith*None*1:30*D*17,824*--*None
+Monday, Aug 9*boxscore*CHW*@*BOS*L*1*2*None*48-52*5* 13.5*Hall*Scott*None*1:46*D*7,160*---*None
+Tuesday, Aug 10*boxscore*CHW*@*BOS*L*2*3*None*48-53*5* 13.5*Karger*Burns*None*1:28*D*7,592*----*None
+Wednesday, Aug 11*boxscore*CHW*@*NYY*L*1*2*None*48-54*6* 13.5*Doyle*Smith*None*None*D*None*-----*None
+Thursday, Aug 12*boxscore*CHW*@*NYY*W*2*0*None*49-54*5* 13.5*Scott*Quinn*None*None*D*None*+*None
+Friday, Aug 13*boxscore*CHW*@*NYY*W*4*3*None*50-54*5* 13.5*Walsh*Warhop*None*None*D*None*++*None
+Saturday, Aug 14*boxscore*CHW*@*NYY*W*7*3*None*51-54*5* 13.5*Smith*Manning*None*None*D*None*+++*None
+Sunday, Aug 15*boxscore*CHW*@*DET*L*1*8*None*51-55*5* 14.0*Killian*Burns*None*None*D*None*-*1909-08-16 (Rain)
+Tuesday, Aug 17*boxscore*CHW*@*DET*W*3*2*None*52-55*5* 13.5*Scott*Summers*None*None*D*None*+*None
+Wednesday, Aug 18*boxscore*CHW*@*DET*W*2*0*None*53-55*5* 13.5*Walsh*Mullin*None*None*D*None*++*None
+Thursday, Aug 19*boxscore*CHW*@*DET*L*0*1*None*53-56*5* 14.5*Donovan*Smith*None*None*D*None*-*None
+Saturday, Aug 21*boxscore*CHW*None*NYY*W*5*4*13*54-56*5* 15.0*Smith*Doyle*None*None*D*None*+*None
+Sunday, Aug 22*boxscore*CHW*None*NYY*L*5*6*None*54-57*5* 15.5*Hughes*Walsh*Warhop*None*D*None*-*None
+Monday, Aug 23*boxscore*CHW*None*NYY*W*5*1*None*55-57*5* 15.5*Smith*Chesbro*None*None*D*None*+*None
+Tuesday, Aug 24*boxscore*CHW*None*BOS*L*2*5*None*55-58*5* 15.5*Hall*Burns*Arellanes*1:42*D*4,500*-*None
+Wednesday, Aug 25*boxscore*CHW*None*BOS*T*4*4*None*55-58*5* 16.0*None*None*None*2:05*D*2,250*-*None
+Thursday, Aug 26*boxscore*CHW*None*BOS*W*4*3*None*56-58*5* 16.5*Walsh*Arellanes*None*None*D*None*+*None
+Thursday, Aug 26*boxscore*CHW*None*BOS*L*0*3*None*56-59*5* 16.5*Collins*Suter*None*None*D*None*-*None
+Saturday, Aug 28*boxscore*CHW*None*WSH*W*6*4*None*57-59*5* 16.5*Scott*Gray*None*None*D*None*+*None
+Saturday, Aug 28*boxscore*CHW*None*WSH*W*2*1*None*58-59*5* 16.5*Smith*Reisling*None*None*D*None*++*1909-08-27 (Rain)
+Sunday, Aug 29*boxscore*CHW*None*WSH*W*1*0*None*59-59*4* 16.5*Walsh*Johnson*None*None*D*None*+++*None
+Monday, Aug 30*boxscore*CHW*None*PHA*L*0*5*None*59-60*5* 17.0*Plank*Scott*None*None*D*None*-*None
+Tuesday, Aug 31*boxscore*CHW*None*PHA*W*2*0*None*60-60*5* 17.0*Smith*Morgan*None*None*D*None*+*None
+Wednesday, Sep 1*boxscore*CHW*None*PHA*W*6*2*8*61-60*4* 17.0*Burns*Coombs*None*None*D*None*++*None
+Thursday, Sep 2*boxscore*CHW*None*SLB*W*6*3*None*62-60*4* 17.0*Smith*Grahame*None*None*D*None*+++*None
+Friday, Sep 3*boxscore*CHW*None*SLB*W*4*3*None*63-60*4* 16.5*White*Pelty*None*None*D*None*++++*None
+Saturday, Sep 4*boxscore*CHW*None*SLB*L*1*2*None*63-61*5* 16.0*Bailey*Olmstead*None*None*D*None*-*None
+Sunday, Sep 5*boxscore*CHW*None*CLE*L*1*6*None*63-62*5* 17.0*Otis*Smith*Berger*None*D*None*--*None
+Monday, Sep 6*boxscore*CHW*@*CLE*L*2*5*None*63-63*5* 18.0*Upp*Scott*None*None*D*None*---*None
+Monday, Sep 6*boxscore*CHW*@*CLE*W*5*3*None*64-63*5* 18.0*Olmstead*Berger*None*None*D*None*+*None
+Wednesday, Sep 8*boxscore*CHW*@*SLB*W*4*2*None*65-63*5* 17.0*Walsh*Powell*None*1:35*D*600*++*None
+Wednesday, Sep 8*boxscore*CHW*@*SLB*W*4*0*None*66-63*5* 17.0*Suter*Bailey*None*1:34*D*600*+++*1909-04-20 (Rain)
+Thursday, Sep 9*boxscore*CHW*@*SLB*T*1*1*7*66-63*5* 17.0*None*None*None*1:35*D*2,000*+++*None
+Friday, Sep 10*boxscore*CHW*@*SLB*L*3*7*None*66-64*5* 19.0*Grahame*Scott*None*1:50*D*1,000*-*None
+Friday, Sep 10*boxscore*CHW*@*SLB*L*0*2*None*66-65*5* 19.0*Waddell*Olmstead*None*1:43*D*1,000*--*1909-07-07 (Rain)
+Saturday, Sep 11*boxscore*CHW*@*SLB*L*1*2*None*66-66*5* 20.5*Bailey*Walsh*None*1:55*D*2,000*---*None
+Saturday, Sep 11*boxscore*CHW*@*SLB*L*1*3*None*66-67*5* 20.5*Powell*Suter*None*1:45*D*2,000*----*None
+Sunday, Sep 12*boxscore*CHW*None*CLE*W*1*0*None*67-67*4* 20.5*Smith*Otis*None*None*D*None*+*None
+Monday, Sep 13*boxscore*CHW*None*CLE*W*2*0*None*68-67*4* 20.5*Walsh*Joss*None*None*D*None*++*None
+Tuesday, Sep 14*boxscore*CHW*None*CLE*T*4*4*6*68-67*4* 20.0*None*None*None*None*D*None*++*None
+Thursday, Sep 16*boxscore*CHW*@*BOS*W*7*5*None*69-67*4* 19.0*White*Arellanes*Walsh*1:58*D*6,055*+++*None
+Saturday, Sep 18*boxscore*CHW*@*BOS*W*7*0*None*70-67*4* 19.0*Walsh*Wood*None*2:05*D*18,561*++++*None
+Saturday, Sep 18*boxscore*CHW*@*BOS*L*0*2*None*70-68*4* 19.0*Cicotte*Smith*None*None*D*None*-*1909-09-17 (Rain)
+Monday, Sep 20*boxscore*CHW*@*BOS*L*5*6*None*70-69*4* 19.0*Hall*Suter*None*1:50*D*4,083*--*None
+Tuesday, Sep 21*boxscore*CHW*@*NYY*L*0*5*None*70-70*4* 19.5*Warhop*Scott*None*None*D*None*---*None
+Thursday, Sep 23*boxscore*CHW*@*NYY*L*2*4*None*70-71*4* 21.5*Lake*Walsh*None*None*D*None*----*None
+Thursday, Sep 23*boxscore*CHW*@*NYY*L*1*7*None*70-72*4* 21.5*Quinn*White*None*None*D*None*-----*1909-09-22 (Rain)
+Saturday, Sep 25*boxscore*CHW*@*WSH*W*2*1*None*71-72*4* 21.5*White*Groom*None*None*D*None*+*None
+Saturday, Sep 25*boxscore*CHW*@*WSH*W*2*0*None*72-72*4* 21.5*Burns*Johnson*None*None*D*None*++*1909-09-24 (Rain)
+Monday, Sep 27*boxscore*CHW*@*WSH*W*8*1*None*73-72*4* 20.5*Scott*Forman*None*None*D*None*+++*None
+Tuesday, Sep 28*boxscore*CHW*@*WSH*W*5*1*None*74-72*4* 20.5*Olmstead*Gray*None*None*D*None*++++*None
+Wednesday, Sep 29*boxscore*CHW*@*PHA*W*2*1*10*75-72*4* 21.5*Walsh*Plank*None*None*D*None*+++++*None
+Wednesday, Sep 29*boxscore*CHW*@*PHA*L*1*10*None*75-73*4* 21.5*Bender*White*None*None*D*None*-*1909-08-02 (Funeral of Harry Pulliam (NL President))
+Thursday, Sep 30*boxscore*CHW*@*PHA*W*8*3*None*76-73*4* 20.0*Scott*Dygert*None*None*D*None*+*None
+Thursday, Sep 30*boxscore*CHW*@*PHA*W*6*4*None*77-73*4* 20.0*Burns*Coombs*None*None*D*None*++*1909-08-04 (Rain)
+Friday, Oct 1*boxscore*CHW*@*PHA*W*4*3*None*78-73*4* 19.0*Olmstead*Bender*None*None*D*None*+++*None
+Saturday, Oct 2*boxscore*CHW*@*DET*T*6*6*10*78-73*4* 19.0*None*None*None*None*D*None*+++*None
+Sunday, Oct 3*boxscore*CHW*None*DET*L*1*3*None*78-74*4* 20.0*Works*Burns*None*None*D*None*-*None

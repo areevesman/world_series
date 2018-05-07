@@ -1,0 +1,157 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Saturday, Apr 24*boxscore*NYY*@*BOS*W*6*5*10*1-1*3* 1.0*Murphy*Ostermueller*None*2:45*D*25,000*+*None
+Sunday, Apr 25*boxscore*NYY*@*BOS*W*9*3*None*2-1*2* 0.5*Malone*Ferrell*None*2:35*D*35,000*++*None
+Monday, Apr 26*boxscore*NYY*None*PHA*W*7*1*None*3-1*1*up 0.5*Broaca*Kelley*None*2:02*D*3,000*+++*None
+Wednesday, Apr 28*boxscore*NYY*@*WSH*W*6*1*None*4-1*1*up 0.5*Gomez*Cascarella*None*2:12*D*9,000*++++*None
+Thursday, Apr 29*boxscore*NYY*@*WSH*W*4*2*None*5-1*1*up 1.0*Pearson*Weaver*None*2:07*D*7,500*+++++*None
+Friday, Apr 30*boxscore*NYY*@*WSH*L*1*4*None*5-2*1*up 0.5*Newsom*Wicker*None*2:07*D*14,000*-*None
+Saturday, May 1*boxscore*NYY*None*BOS*W*3*2*None*6-2*1*up 0.5*Hadley*Walberg*Malone*2:10*D*3,381*+*None
+Sunday, May 2*boxscore*NYY*None*BOS*L*4*5*None*6-3*2* 0.5*Marcum*Broaca*None*2:10*D*52,150*-*None
+Tuesday, May 4*boxscore*NYY*@*DET*W*10*1*None*7-3*1* Tied*Gomez*Wade*None*1:59*D*13,500*+*None
+Wednesday, May 5*boxscore*NYY*@*DET*W*7*3*None*8-3*1*up 1.0*Pearson*Sorrell*None*2:02*D*17,000*++*None
+Thursday, May 6*boxscore*NYY*@*DET*L*6*12*None*8-4*1* Tied*Bridges*Makosky*None*2:15*D*13,000*-*None
+Friday, May 7*boxscore*NYY*@*CLE*L*6*7*None*8-5*3* 1.0*Galehouse*Hadley*Whitehill*2:27*D*None*--*None
+Saturday, May 8*boxscore*NYY*@*CLE*L*0*4*None*8-6*3* 1.0*Andrews*Gomez*None*1:43*D*None*---*None
+Sunday, May 9*boxscore*NYY*@*CHW*L*1*2*None*8-7*5* 1.0*Lee*Chandler*None*1:33*D*25,000*----*None
+Monday, May 10*boxscore*NYY*@*CHW*W*7*0*None*9-7*3* 1.0*Pearson*Lyons*None*1:40*D*None*+*None
+Tuesday, May 11*boxscore*NYY*@*CHW*L*2*7*None*9-8*4* 2.0*Stratton*Hadley*None*1:56*D*None*-*None
+Thursday, May 13*boxscore*NYY*@*SLB*W*4*2*None*10-8*3* 1.5*Gomez*Walkup*None*2:21*D*None*+*None
+Saturday, May 15*boxscore*NYY*@*PHA*W*6*5*None*11-8*2* 0.5*Pearson*Kelley*Malone*2:06*D*None*++*None
+Sunday, May 16*boxscore*NYY*@*PHA*W*8*4*None*12-8*1*up 0.5*Ruffing*Caster*Murphy*2:07*D*None*+++*None
+Monday, May 17*boxscore*NYY*@*PHA*L*2*3*None*12-9*2* 0.5*Nelson*Gomez*None*2:14*D*7,860*-*None
+Tuesday, May 18*boxscore*NYY*None*CHW*W*4*0*None*13-9*2* 0.5*Chandler*Lyons*None*1:45*D*12,389*+*None
+Thursday, May 20*boxscore*NYY*None*CHW*L*1*3*None*13-10*1* Tied*Lee*Broaca*None*1:28*D*3,000*-*None
+Friday, May 21*boxscore*NYY*None*SLB*W*4*3*11*14-10*1* Tied*Murphy*Blake*None*2:40*D*10,504*+*None
+Saturday, May 22*boxscore*NYY*None*SLB*W*14*2*None*15-10*1* Tied*Gomez*Bonetti*None*2:13*D*None*++*None
+Sunday, May 23*boxscore*NYY*None*CLE*W*7*3*None*16-10*1* Tied*Ruffing*Galehouse*Malone*2:29*D*60,000*+++*None
+Monday, May 24*boxscore*NYY*None*CLE*W*14*0*None*17-10*1*up 1.0*Chandler*Andrews*None*2:02*D*11,166*++++*None
+Tuesday, May 25*boxscore*NYY*None*DET*W*4*3*None*18-10*1*up 2.0*Hadley*Rowe*Murphy*1:55*D*15,026*+++++*None
+Wednesday, May 26*boxscore*NYY*None*DET*W*7*0*None*19-10*1*up 3.0*Gomez*Coffman*None*1:55*D*11,643*++++++*None
+Thursday, May 27*boxscore*NYY*None*DET*L*4*5*13*19-11*1*up 2.0*Russell*Murphy*None*2:50*D*10,000*-*None
+Saturday, May 29*boxscore*NYY*None*PHA*W*9*4*None*20-11*1*up 3.0*Ruffing*Ross*None*2:11*D*None*+*None
+Saturday, May 29*boxscore*NYY*None*PHA*W*10*3*None*21-11*1*up 3.0*Chandler*Smith*None*1:40*D*None*++*1937-04-27 (Rain)
+Sunday, May 30*boxscore*NYY*None*PHA*W*13*1*None*22-11*1*up 3.0*Gomez*Kelley*None*2:11*D*26,576*+++*None
+Monday, May 31*boxscore*NYY*@*BOS*W*4*3*None*23-11*1*up 3.5*Murphy*Marcum*None*2:06*D*None*++++*None
+Monday, May 31*boxscore*NYY*@*BOS*L*2*8*None*23-12*1*up 3.5*Walberg*Broaca*None*1:52*D*40,100*-*None
+Wednesday, Jun 2*boxscore*NYY*@*CLE*W*8*4*None*24-12*1*up 4.0*Ruffing*Whitehill*None*2:23*D*5,000*+*None
+Thursday, Jun 3*boxscore*NYY*@*CLE*L*2*6*None*24-13*1*up 3.0*Harder*Gomez*None*2:09*D*7,000*-*None
+Friday, Jun 4*boxscore*NYY*@*CLE*L*3*5*None*24-14*1*up 2.0*Allen*Chandler*None*2:10*D*None*--*None
+Saturday, Jun 5*boxscore*NYY*@*DET*W*6*5*None*25-14*1*up 2.0*Makosky*Gill*Malone*2:06*D*None*+*None
+Sunday, Jun 6*boxscore*NYY*@*DET*L*4*5*None*25-15*1*up 2.0*Bridges*Ruffing*None*1:55*D*40,000*-*None
+Monday, Jun 7*boxscore*NYY*@*DET*L*3*4*None*25-16*1*up 1.0*Wade*Gomez*None*2:00*D*20,500*--*None
+Tuesday, Jun 8*boxscore*NYY*@*CHW*L*4*5*None*25-17*1* Tied*Lee*Broaca*None*1:40*D*12,000*---*None
+Thursday, Jun 10*boxscore*NYY*@*CHW*W*10*3*None*26-17*1*up 1.0*Hadley*Kennedy*None*2:23*D*16,000*+*None
+Friday, Jun 11*boxscore*NYY*@*SLB*W*10*0*None*27-17*1*up 1.0*Ruffing*Knott*None*1:55*D*5,256*++*None
+Saturday, Jun 12*boxscore*NYY*@*SLB*L*6*7*None*27-18*1*up 1.0*Hogsett*Malone*None*1:51*D*None*-*None
+Sunday, Jun 13*boxscore*NYY*@*SLB*W*16*9*None*28-18*1*up 0.5*Makosky*Walkup*None*2:26*D*None*+*None
+Sunday, Jun 13*boxscore*NYY*@*SLB*T*8*8*11*28-18*1*up 0.5*None*None*None*2:41*D*12,249*+*1937-05-12 (Rain)
+Tuesday, Jun 15*boxscore*NYY*None*CLE*W*3*0*None*29-18*1*up 1.0*Ruffing*Harder*None*2:14*D*12,000*++*None
+Wednesday, Jun 16*boxscore*NYY*None*CLE*W*4*1*None*30-18*1*up 2.0*Gomez*Galehouse*None*2:02*D*None*+++*None
+Thursday, Jun 17*boxscore*NYY*None*CLE*W*9*7*None*31-18*1*up 2.5*Hadley*Heving*Murphy*2:31*D*15,000*++++*None
+Saturday, Jun 19*boxscore*NYY*None*CHW*L*2*5*None*31-19*1*up 1.5*Lee*Ruffing*Brown*2:18*D*9,000*-*None
+Sunday, Jun 20*boxscore*NYY*None*CHW*W*8*4*None*32-19*1*up 1.5*Gomez*Lyons*None*1:57*D*68,939*+*None
+Sunday, Jun 20*boxscore*NYY*None*CHW*W*7*4*None*33-19*1*up 1.5*Pearson*Whitehead*Murphy*2:01*D*68,939*++*1937-05-19 (Wet grounds)
+Tuesday, Jun 22*boxscore*NYY*None*SLB*W*8*5*None*34-19*1*up 2.0*Malone*Knott*None*1:55*D*6,000*+++*None
+Wednesday, Jun 23*boxscore*NYY*None*SLB*L*3*6*None*34-20*1*up 2.0*Hildebrand*Chandler*None*1:47*D*6,000*-*None
+Thursday, Jun 24*boxscore*NYY*None*SLB*W*9*6*None*35-20*1*up 3.0*Hadley*Thomas*None*1:57*D*6,148*+*None
+Friday, Jun 25*boxscore*NYY*None*DET*W*8*1*None*36-20*1*up 4.0*Ruffing*Bridges*None*1:48*D*13,788*++*None
+Saturday, Jun 26*boxscore*NYY*None*DET*L*3*5*None*36-21*1*up 3.0*Wade*Gomez*None*2:10*D*None*-*None
+Sunday, Jun 27*boxscore*NYY*None*DET*W*9*5*None*37-21*1*up 3.0*Murphy*Lawson*None*2:05*D*24,372*+*None
+Tuesday, Jun 29*boxscore*NYY*@*PHA*W*3*2*None*38-21*1*up 3.0*Chandler*Smith*Makosky*2:00*D*6,000*++*None
+Wednesday, Jun 30*boxscore*NYY*@*PHA*W*5*1*None*39-21*1*up 4.0*Gomez*Thomas*None*1:38*D*6,000*+++*None
+Thursday, Jul 1*boxscore*NYY*@*PHA*W*12*7*None*40-21*1*up 4.0*Ruffing*Ross*Makosky*2:18*D*None*++++*None
+Friday, Jul 2*boxscore*NYY*@*WSH*L*3*8*None*40-22*1*up 4.0*Fischer*Hadley*Linke*2:10*D*8,000*-*None
+Saturday, Jul 3*boxscore*NYY*@*WSH*W*5*4*None*41-22*1*up 4.0*Murphy*Cohen*Makosky*2:21*D*None*+*None
+Sunday, Jul 4*boxscore*NYY*@*WSH*W*7*0*None*42-22*1*up 3.5*Gomez*Ferrell*None*1:59*D*23,000*++*None
+Monday, Jul 5*boxscore*NYY*None*BOS*W*15*0*None*43-22*1*up 5.5*Ruffing*Wilson*None*2:19*D*None*+++*None
+Monday, Jul 5*boxscore*NYY*None*BOS*W*8*4*None*44-22*1*up 5.5*Chandler*Walberg*None*1:55*D*61,146*++++*None
+Friday, Jul 9*boxscore*NYY*None*WSH*W*16*2*None*45-22*1*up 5.5*Pearson*Fischer*None*2:20*D*None*+++++*None
+Saturday, Jul 10*boxscore*NYY*None*WSH*W*12*2*None*46-22*1*up 5.5*Ruffing*Ferrell*None*2:17*D*None*++++++*None
+Sunday, Jul 11*boxscore*NYY*None*WSH*W*4*3*None*47-22*1*up 6.0*Gomez*Weaver*None*1:55*D*None*+++++++*None
+Sunday, Jul 11*boxscore*NYY*None*WSH*T*5*5*None*47-22*1*up 6.0*None*None*None*2:07*D*24,827*+++++++*1937-04-21 (Rain)
+Wednesday, Jul 14*boxscore*NYY*@*DET*W*10*2*None*48-22*1*up 6.5*Ruffing*Wade*None*2:10*D*16,000*++++++++*None
+Thursday, Jul 15*boxscore*NYY*@*DET*W*13*6*None*49-22*1*up 7.5*Gomez*Rowe*Murphy*2:15*D*22,500*+++++++++*None
+Friday, Jul 16*boxscore*NYY*@*DET*L*7*14*None*49-23*1*up 6.5*Poffenberger*Malone*Auker*2:30*D*17,000*-*None
+Saturday, Jul 17*boxscore*NYY*@*CLE*W*9*6*None*50-23*1*up 6.5*Murphy*Heving*None*2:26*D*None*+*None
+Sunday, Jul 18*boxscore*NYY*@*CLE*W*5*1*None*51-23*1*up 6.0*Ruffing*Feller*None*2:45*D*58,884*++*None
+Monday, Jul 19*boxscore*NYY*@*CLE*W*8*5*None*52-23*1*up 6.0*Gomez*Hudlin*None*2:15*D*None*+++*None
+Tuesday, Jul 20*boxscore*NYY*@*SLB*W*5*4*10*53-23*1*up 6.5*Makosky*Hildebrand*None*2:08*D*None*++++*None
+Tuesday, Jul 20*boxscore*NYY*@*SLB*W*9*6*None*54-23*1*up 6.5*Malone*Hogsett*None*2:18*D*None*+++++*None
+Wednesday, Jul 21*boxscore*NYY*@*SLB*W*6*3*None*55-23*1*up 7.5*Wicker*Koupal*None*1:35*D*None*++++++*None
+Thursday, Jul 22*boxscore*NYY*@*SLB*L*4*13*None*55-24*1*up 7.0*Knott*Hadley*Bonetti*2:15*D*None*-*None
+Friday, Jul 23*boxscore*NYY*@*CHW*L*6*9*None*55-25*1*up 6.0*Whitehead*Ruffing*Brown*2:05*D*42,000*--*None
+Saturday, Jul 24*boxscore*NYY*@*CHW*L*5*6*10*55-26*1*up 5.0*Lee*Gomez*None*2:06*D*None*---*None
+Sunday, Jul 25*boxscore*NYY*@*CHW*W*12*11*None*56-26*1*up 5.0*Murphy*Brown*Pearson*2:36*D*None*+*None
+Sunday, Jul 25*boxscore*NYY*@*CHW*L*6*7*None*56-27*1*up 5.0*Stratton*Murphy*None*2:26*D*50,000*-*1937-06-09 (Rain)
+Tuesday, Jul 27*boxscore*NYY*None*DET*W*6*5*11*57-27*1*up 6.0*Ruffing*Russell*None*2:59*D*12,320*+*None
+Wednesday, Jul 28*boxscore*NYY*None*DET*L*1*8*None*57-28*1*up 6.0*Auker*Gomez*None*2:00*D*13,443*-*None
+Thursday, Jul 29*boxscore*NYY*None*DET*W*7*6*None*58-28*1*up 6.0*Murphy*Lawson*None*2:00*D*10,962*+*None
+Friday, Jul 30*boxscore*NYY*None*SLB*W*8*2*None*59-28*1*up 6.5*Wicker*Hogsett*None*1:45*D*6,567*++*None
+Saturday, Jul 31*boxscore*NYY*None*SLB*L*6*9*10*59-29*1*up 5.5*Hildebrand*Hadley*None*2:30*D*11,944*-*None
+Sunday, Aug 1*boxscore*NYY*None*SLB*W*14*5*None*60-29*1*up 5.0*Chandler*Koupal*None*2:13*D*18,924*+*None
+Tuesday, Aug 3*boxscore*NYY*None*CHW*W*7*2*None*61-29*1*up 7.0*Ruffing*Lee*None*1:51*D*None*++*None
+Tuesday, Aug 3*boxscore*NYY*None*CHW*W*5*3*None*62-29*1*up 7.0*Murphy*Whitehead*None*2:10*D*66,767*+++*1937-06-18 (Wet grounds)
+Wednesday, Aug 4*boxscore*NYY*None*CHW*W*10*9*None*63-29*1*up 8.0*Murphy*Brown*None*2:20*D*8,626*++++*None
+Thursday, Aug 5*boxscore*NYY*None*CHW*W*13*8*None*64-29*1*up 9.0*Makosky*Brown*Murphy*2:01*D*7,799*+++++*None
+Friday, Aug 6*boxscore*NYY*None*CLE**T*7*6*10*64-29*1*up 8.5*None*None*None*3:29*D*None*+++++*None
+Saturday, Aug 7*boxscore*NYY*None*CLE*W*6*3*None*65-29*1*up 8.5*Ruffing*Harder*None*1:55*D*None*++++++*None
+Sunday, Aug 8*boxscore*NYY*None*CLE*W*6*5*None*66-29*1*up 9.0*Chandler*Whitehill*Murphy*2:18*D*None*+++++++*None
+Wednesday, Aug 11*boxscore*NYY*@*BOS*W*8*5*14*67-29*1*up11.0*Murphy*Wilson*Malone*3:51*D*36,127*++++++++*None
+Wednesday, Aug 11*boxscore*NYY*@*BOS*W*10*4*7*68-29*1*up11.0*Malone*Ostermueller*None*2:03*D*36,127*+++++++++*1937-04-23 (Rain)
+Thursday, Aug 12*boxscore*NYY*@*BOS*L*10*16*None*68-30*1*up11.0*Newsom*Chandler*None*2:58*D*20,383*-*None
+Thursday, Aug 12*boxscore*NYY*@*BOS*W*5*3*None*69-30*1*up11.0*Hadley*McKain*None*1:50*D*20,383*+*1937-08-10 (Rain)
+Friday, Aug 13*boxscore*NYY*@*PHA*L*3*4*None*69-31*1*up11.0*Ross*Gomez*Smith*2:20*D*7,500*-*None
+Saturday, Aug 14*boxscore*NYY*@*PHA*L*6*12*None*69-32*1*up 9.5*Thomas*Wicker*None*2:00*D*12,500*--*None
+Sunday, Aug 15*boxscore*NYY*@*PHA*L*4*5*None*69-33*1*up 9.5*Smith*Ruffing*None*2:00*D*32,346*---*None
+Tuesday, Aug 17*boxscore*NYY*None*WSH*W*8*0*None*70-33*1*up10.0*Gomez*Appleton*None*1:55*D*None*+*None
+Tuesday, Aug 17*boxscore*NYY*None*WSH*W*6*4*None*71-33*1*up10.0*Hadley*DeShong*Murphy*2:05*D*25,898*++*1937-04-22 (Rain)
+Wednesday, Aug 18*boxscore*NYY*None*WSH*W*7*6*None*72-33*1*up11.0*Andrews*Appleton*None*2:03*D*6,965*+++*None
+Thursday, Aug 19*boxscore*NYY*None*WSH*W*4*3*12*73-33*1*up11.0*Ruffing*Ferrell*None*2:45*D*None*++++*None
+Friday, Aug 20*boxscore*NYY*None*PHA*W*8*7*10*74-33*1*up12.0*Murphy*Nelson*None*2:26*D*None*+++++*None
+Saturday, Aug 21*boxscore*NYY*None*PHA*L*2*5*8*74-34*1*up11.0*Smith*Pearson*None*2:00*D*11,000*-*None
+Sunday, Aug 22*boxscore*NYY*None*PHA*W*4*1*6*75-34*1*up10.5*Gomez*Thomas*None*1:10*D*28,705*+*None
+Tuesday, Aug 24*boxscore*NYY*@*CHW*L*8*9*None*75-35*1*up10.0*Brown*Murphy*None*2:24*D*25,000*-*None
+Wednesday, Aug 25*boxscore*NYY*@*CHW*W*10*5*None*76-35*1*up10.0*Hadley*Lee*None*2:19*D*None*+*None
+Thursday, Aug 26*boxscore*NYY*@*SLB*W*5*1*None*77-35*1*up10.0*Gomez*Knott*None*1:53*D*2,165*++*None
+Friday, Aug 27*boxscore*NYY*@*SLB*W*4*3*None*78-35*1*up11.0*Wicker*Hildebrand*Murphy*1:55*D*2,309*+++*None
+Saturday, Aug 28*boxscore*NYY*@*SLB*L*5*9*None*78-36*1*up11.0*Hogsett*Malone*None*2:05*D*4,000*-*None
+Sunday, Aug 29*boxscore*NYY*@*DET*W*7*4*None*79-36*1*up12.0*Ruffing*Bridges*None*2:12*D*40,750*+*None
+Monday, Aug 30*boxscore*NYY*@*DET*L*4*5*None*79-37*1*up11.0*Auker*Gomez*None*2:15*D*32,000*-*None
+Tuesday, Aug 31*boxscore*NYY*@*CLE*W*7*3*None*80-37*1*up11.0*Hadley*Harder*None*2:20*D*None*+*None
+Wednesday, Sep 1*boxscore*NYY*@*CLE*L*2*4*None*80-38*1*up11.0*Galehouse*Wicker*None*1:43*D*5,000*-*None
+Thursday, Sep 2*boxscore*NYY*@*CLE*L*2*4*None*80-39*1*up10.0*Feller*Pearson*None*3:25*D*None*--*None
+Friday, Sep 3*boxscore*NYY*@*WSH*L*2*4*None*80-40*1*up 9.0*Chase*Ruffing*None*2:10*D*8,000*---*None
+Saturday, Sep 4*boxscore*NYY*@*WSH*W*6*0*None*81-40*1*up10.0*Gomez*Appleton*None*1:50*D*7,300*+*None
+Sunday, Sep 5*boxscore*NYY*@*WSH*W*10*5*None*82-40*1*up11.0*Wicker*Lanahan*Murphy*2:30*D*10,000*++*None
+Monday, Sep 6*boxscore*NYY*@*PHA*W*6*3*None*83-40*1*up11.0*Hadley*Ross*Malone*2:18*D*None*+++*None
+Monday, Sep 6*boxscore*NYY*@*PHA*W*2*1*None*84-40*1*up11.0*Andrews*Smith*None*1:29*D*38,183*++++*None
+Wednesday, Sep 8*boxscore*NYY*None*BOS*W*3*2*None*85-40*1*up12.0*Ruffing*Newsom*None*2:05*D*19,511*+++++*None
+Wednesday, Sep 8*boxscore*NYY*None*BOS*W*9*6*None*86-40*1*up12.0*Makosky*Wilson*None*2:25*D*19,511*++++++*1937-07-06 (Schedule change)
+Thursday, Sep 9*boxscore*NYY*None*BOS*L*7*13*None*86-41*1*up11.0*McKain*Murphy*Marcum*2:15*D*4,170*-*None
+Friday, Sep 10*boxscore*NYY*None*BOS*L*3*4*None*86-42*1*up11.0*Grove*Andrews*None*1:52*D*4,750*--*None
+Saturday, Sep 11*boxscore*NYY*None*WSH*W*6*4*None*87-42*1*up10.5*Wicker*DeShong*None*1:35*D*8,173*+*None
+Sunday, Sep 12*boxscore*NYY*None*WSH*L*1*2*None*87-43*1*up10.0*Chase*Ruffing*None*1:55*D*None*-*None
+Sunday, Sep 12*boxscore*NYY*None*WSH*W*2*1*None*88-43*1*up10.0*Gomez*Phebus*None*1:38*D*48,725*+*None
+Tuesday, Sep 14*boxscore*NYY*None*CLE*W*17*5*None*89-43*1*up10.0*Hadley*Whitehill*None*2:15*D*3,735*++*None
+Wednesday, Sep 15*boxscore*NYY*None*CLE*L*4*5*10*89-44*1*up 9.5*Harder*Malone*None*2:32*D*None*-*None
+Wednesday, Sep 15*boxscore*NYY*None*CLE*W*3*1*None*90-44*1*up 9.5*Pearson*Galehouse*None*1:40*D*42,323*+*None
+Thursday, Sep 16*boxscore*NYY*None*CLE*W*8*0*None*91-44*1*up10.5*Gomez*Hudlin*None*1:45*D*3,992*++*None
+Saturday, Sep 18*boxscore*NYY*None*CHW*W*12*8*None*92-44*1*up11.5*Murphy*Lee*None*1:55*D*None*+++*None
+Saturday, Sep 18*boxscore*NYY*None*CHW*W*4*0*None*93-44*1*up11.5*Andrews*Whitehead*None*1:42*D*24,010*++++*1937-09-17 (Rain)
+Sunday, Sep 19*boxscore*NYY*None*DET*L*1*8*None*93-45*1*up10.5*Auker*Hadley*None*2:08*D*17,420*-*None
+Monday, Sep 20*boxscore*NYY*None*DET*W*5*0*None*94-45*1*up11.5*Gomez*Wade*None*1:27*D*8,648*+*None
+Wednesday, Sep 22*boxscore*NYY*None*SLB*W*4*1*None*95-45*1*up12.0*Pearson*Knott*None*1:32*D*None*++*None
+Wednesday, Sep 22*boxscore*NYY*None*SLB*W*11*0*None*96-45*1*up12.0*Wicker*Hogsett*None*1:43*D*10,440*+++*1937-09-21 (Schedule change)
+Thursday, Sep 23*boxscore*NYY*None*SLB*L*5*9*None*96-46*1*up12.0*Trotter*Ruffing*None*1:42*D*None*-*None
+Friday, Sep 24*boxscore*NYY*@*BOS*W*5*1*None*97-46*1*up13.0*Vance*McKain*Andrews*1:58*D*4,200*+*None
+Saturday, Sep 25*boxscore*NYY*@*BOS*W*5*2*None*98-46*1*up13.5*Gomez*Grove*None*1:56*D*7,500*++*None
+Sunday, Sep 26*boxscore*NYY*@*BOS*L*2*7*None*98-47*1*up14.0*Wilson*Hadley*None*2:00*D*15,000*-*None
+Tuesday, Sep 28*boxscore*NYY*@*WSH*W*9*0*None*99-47*1*up13.0*Ruffing*Weaver*None*1:47*D*None*+*None
+Tuesday, Sep 28*boxscore*NYY*@*WSH*L*1*2*None*99-48*1*up13.0*Krakauskas*Pearson*None*1:49*D*1,007*-*1937-09-27 (Rain)
+Wednesday, Sep 29*boxscore*NYY*None*PHA*W*15*4*None*100-48*1*up13.5*Wicker*Caster*None*2:00*D*None*+*None
+Wednesday, Sep 29*boxscore*NYY*None*PHA*L*0*3*7*100-49*1*up13.5*Smith*Andrews*None*1:20*D*4,425*-*1937-05-28 (Threatening weather)
+Thursday, Sep 30*boxscore*NYY*None*PHA*L*3*8*None*100-50*1*up13.0*Kelley*Hadley*None*2:03*D*None*--*None
+Thursday, Sep 30*boxscore*NYY*None*PHA*L*3*6*7*100-51*1*up13.0*Ross*Makosky*None*1:17*D*None*---*1937-07-12 (Schedule change)
+Friday, Oct 1*boxscore*NYY*None*BOS*L*2*4*7*100-52*1*up12.0*Newsom*Gomez*None*1:55*D*1,859*----*None
+Saturday, Oct 2*boxscore*NYY*None*BOS*W*11*3*None*101-52*1*up13.0*Ruffing*Marcum*None*1:55*D*2,449*+*None
+Sunday, Oct 3*boxscore*NYY*None*BOS*W*6*1*None*102-52*1*up13.0*Pearson*Gonzales*None*1:40*D*4,206*++*None

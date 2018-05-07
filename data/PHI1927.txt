@@ -1,0 +1,155 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Thursday, Apr 14*boxscore*PHI*None*NYG*W*9*6*None*1-1*3* 1.0*Scott*Grimes*None*2:25*D*10,000*+*None
+Friday, Apr 15*boxscore*PHI*None*NYG*L*3*6*None*1-2*5* 2.0*Fitzsimmons*Pruett*None*2:15*D*10,000*-*None
+Saturday, Apr 16*boxscore*PHI*None*BRO*W*3*2*None*2-2*5* 1.0*Ferguson*Petty*None*1:57*D*16,000*+*None
+Monday, Apr 18*boxscore*PHI*None*BRO*W*7*3*None*3-2*3* 1.5*Carlson*McGraw*Willoughby*1:49*D*None*++*None
+Tuesday, Apr 19*boxscore*PHI*None*BRO*W*4*0*None*4-2*3* 1.0*Scott*Vance*None*1:39*D*None*+++*None
+Wednesday, Apr 20*boxscore*PHI*@*NYG*L*1*5*None*4-3*4* 1.5*Fitzsimmons*Pruett*None*1:47*D*50,000*-*None
+Thursday, Apr 21*boxscore*PHI*@*NYG*W*4*2*None*5-3*3* 1.5*Ferguson*Barnes*None*2:03*D*37,000*+*None
+Saturday, Apr 23*boxscore*PHI*@*NYG*L*1*5*None*5-4*5* 2.0*McQuillan*Scott*None*2:00*D*10,000*-*None
+Sunday, Apr 24*boxscore*PHI*@*BRO*W*5*1*None*6-4*5* 1.0*Carlson*Vance*None*2:05*D*15,000*+*None
+Monday, Apr 25*boxscore*PHI*None*BSN*W*12*4*None*7-4*2* 0.5*Pruett*Robertson*None*1:59*D*5,000*++*None
+Thursday, Apr 28*boxscore*PHI*@*BRO*W*8*4*None*8-4*2* 0.5*Decatur*Ehrhardt*Willoughby*2:34*D*10,000*+++*None
+Friday, Apr 29*boxscore*PHI*@*BRO*L*0*7*None*8-5*3* 1.5*Elliott*Scott*None*None*D*None*-*None
+Saturday, Apr 30*boxscore*PHI*@*BRO*L*1*2*None*8-6*3* 2.5*Petty*Carlson*None*1:50*D*10,000*--*None
+Tuesday, May 3*boxscore*PHI*@*BSN*L*4*7*None*8-7*4* 1.5*Mogridge*Decatur*None*1:59*D*None*---*None
+Saturday, May 7*boxscore*PHI*None*PIT*W*6*5*None*9-7*3* 1.5*Pruett*Kremer*None*2:06*D*18,000*+*None
+Tuesday, May 10*boxscore*PHI*None*CHC*L*3*6*None*9-8*4* 2.5*Blake*Carlson*None*None*D*None*-*None
+Wednesday, May 11*boxscore*PHI*None*CHC*W*5*2*None*10-8*3* 2.5*Ferguson*Osborn*Pruett*None*D*None*+*None
+Thursday, May 12*boxscore*PHI*None*CHC*L*1*4*None*10-9*5* 3.5*Root*Scott*None*None*D*None*-*None
+Friday, May 13*boxscore*PHI*None*CHC*W*4*1*None*11-9*3* 2.5*Pruett*Kaufmann*None*1:35*D*None*+*None
+Saturday, May 14*boxscore*PHI*None*STL*W*12*3*7*12-9*3* 2.5*Carlson*Rhem*None*1:57*D*16,000*++*None
+Monday, May 16*boxscore*PHI*None*STL*L*1*2*None*12-10*4* 3.5*Haines*Ferguson*None*1:38*D*4,000*-*1927-05-16 (Grandstand collapse at PHI; Played at PHA; PHI home team)
+Tuesday, May 17*boxscore*PHI*None*STL*W*4*3*None*13-10*3* 3.5*Scott*Alexander*None*None*D*4,000*+*1927-05-17 (Grandstand collapse at PHI; Played at PHA; PHI home team)
+Friday, May 20*boxscore*PHI*None*CIN*L*3*6*None*13-11*4* 2.5*Donohue*Pruett*None*1:43*D*None*-*1927-05-20 (Grandstand collapse at PHI; Played at PHA; PHI home team)
+Friday, May 20*boxscore*PHI*None*CIN*W*15*2*None*14-11*4* 2.5*Carlson*Luque*None*1:56*D*None*+*1927-05-18 (Threatening weather; Grandstand collapse at PHI; Played at PHA; PHI home te)
+Saturday, May 21*boxscore*PHI*None*CIN*L*2*5*None*14-12*5* 3.0*Mays*Scott*None*1:46*D*None*-*1927-05-21 (Grandstand collapse at PHI; Played at PHA; PHI home team)
+Saturday, May 21*boxscore*PHI*None*CIN*L*5*6*None*14-13*5* 3.0*May*Ferguson*Nehf*2:33*D*None*--*1927-05-19 (Rain; Grandstand collapse at PHI; Played at PHA; PHI home team)
+Sunday, May 22*boxscore*PHI*@*BRO*L*4*20*None*14-14*5* 3.0*Vance*Willoughby*None*2:20*D*None*---*None
+Monday, May 23*boxscore*PHI*None*BRO*W*7*1*None*15-14*5* 3.0*Mitchell*Elliott*None*None*D*3,000*+*1927-05-23 (Grandstand collapse at PHI; Played at PHA; PHI home team)
+Tuesday, May 24*boxscore*PHI*None*BRO*L*5*6*None*15-15*5* 4.0*Doak*Carlson*None*None*D*2,000*-*1927-05-24 (Grandstand collapse at PHI; Played at PHA; PHI home team)
+Friday, May 27*boxscore*PHI*None*BSN*L*1*8*None*15-16*5* 6.5*Smith*Scott*None*1:53*D*None*--*1927-05-27 (Grandstand collapse at PHI; Played at PHA; PHI home team)
+Friday, May 27*boxscore*PHI*None*BSN*L*5*13*None*15-17*5* 6.5*Benton*Pruett*None*2:07*D*5,000*---*1927-04-26 (Threatening weather)
+Saturday, May 28*boxscore*PHI*None*BSN*L*0*1*None*15-18*5* 7.0*Genewich*Ferguson*Mogridge*None*D*None*----*1927-05-28 (Grandstand collapse at PHI; Played at PHA; PHI home team)
+Saturday, May 28*boxscore*PHI*None*BSN*W*8*3*None*16-18*5* 7.0*Ulrich*Wertz*None*2:05*D*None*+*1927-04-27 (Rain)
+Monday, May 30*boxscore*PHI*@*NYG*L*10*14*None*16-19*5* 7.5*Fitzsimmons*Carlson*Songer*2:35*D*50,000*-*None
+Monday, May 30*boxscore*PHI*@*NYG*W*1*0*None*17-19*5* 7.5*Mitchell*Clarkson*None*2:07*D*50,000*+*None
+Tuesday, May 31*boxscore*PHI*@*NYG*L*4*13*None*17-20*6* 8.5*Henry*Dean*None*2:10*D*1,500*-*None
+Wednesday, Jun 1*boxscore*PHI*@*PIT*W*7*4*None*18-20*6* 7.5*Pruett*Meadows*Carlson*2:16*D*None*+*None
+Thursday, Jun 2*boxscore*PHI*@*PIT*L*3*7*None*18-21*6* 8.5*Hill*Ferguson*None*1:56*D*None*-*None
+Friday, Jun 3*boxscore*PHI*@*PIT*L*1*11*None*18-22*6* 9.5*Aldridge*Ulrich*None*1:56*D*None*--*None
+Monday, Jun 6*boxscore*PHI*@*PIT*L*5*7*None*18-23*6* 10.5*Hill*Scott*None*2:12*D*None*---*None
+Tuesday, Jun 7*boxscore*PHI*@*CIN*L*1*5*None*18-24*6* 11.5*May*Pruett*None*1:41*D*1,821*----*None
+Wednesday, Jun 8*boxscore*PHI*@*CIN*L*4*5*None*18-25*7* 11.5*Rixey*Ferguson*None*1:57*D*2,010*-----*None
+Thursday, Jun 9*boxscore*PHI*@*CIN*W*6*5*None*19-25*5* 10.5*Willoughby*Lucas*None*2:12*D*2,254*+*None
+Friday, Jun 10*boxscore*PHI*@*CIN*L*3*9*None*19-26*6* 11.5*May*Scott*Kolp*1:44*D*1,470*-*None
+Saturday, Jun 11*boxscore*PHI*@*STL*L*2*4*None*19-27*7* 11.5*Alexander*Pruett*None*None*D*6,000*--*None
+Sunday, Jun 12*boxscore*PHI*@*STL*L*4*5*None*19-28*7* 11.5*Sherdel*Mitchell*None*1:43*D*None*---*None
+Tuesday, Jun 14*boxscore*PHI*@*STL*L*4*6*None*19-29*7* 12.5*Rhem*Ferguson*Alexander*None*D*2,000*----*None
+Wednesday, Jun 15*boxscore*PHI*@*CHC*L*5*12*None*19-30*7* 13.5*Root*Willoughby*None*None*D*8,000*-----*None
+Thursday, Jun 16*boxscore*PHI*@*CHC*L*2*7*None*19-31*7* 14.5*Carlson*Pruett*None*1:36*D*None*------*None
+Friday, Jun 17*boxscore*PHI*@*CHC*W*12*2*None*20-31*7* 13.5*Mitchell*Blake*None*2:00*D*15,000*+*None
+Saturday, Jun 18*boxscore*PHI*@*CHC*W*7*2*None*21-31*7* 13.5*Ferguson*Osborn*None*None*D*15,000*++*None
+Sunday, Jun 19*boxscore*PHI*@*CIN*W*3*1*None*22-31*7* 13.0*Scott*May*None*1:42*D*None*+++*None
+Sunday, Jun 19*boxscore*PHI*@*CIN*L*0*3*None*22-32*7* 13.0*Rixey*Scott*None*1:19*D*17,293*-*1927-07-10 (Schedule change)
+Tuesday, Jun 21*boxscore*PHI*@*BRO*L*3*7*None*22-33*7* 13.5*Vance*Pruett*None*1:55*D*10,000*--*None
+Thursday, Jun 23*boxscore*PHI*@*BRO*L*1*3*None*22-34*7* 14.5*Petty*Mitchell*None*None*D*None*---*None
+Friday, Jun 24*boxscore*PHI*None*NYG*L*3*7*None*22-35*7* 14.0*Henry*Kaufmann*None*1:55*D*None*----*None
+Friday, Jun 24*boxscore*PHI*None*NYG*W*6*5*10*23-35*7* 14.0*Willoughby*Songer*None*None*D*12,000*+*1927-04-13 (Rain)
+Saturday, Jun 25*boxscore*PHI*None*NYG*L*3*6*None*23-36*7* 14.0*Fitzsimmons*Scott*None*None*D*12,000*-*None
+Monday, Jun 27*boxscore*PHI*None*NYG*W*6*0*None*24-36*7* 13.5*Willoughby*Clarkson*None*None*D*None*+*None
+Tuesday, Jun 28*boxscore*PHI*None*NYG*W*7*3*None*25-36*7* 13.5*Mitchell*Henry*None*None*D*4,000*++*None
+Wednesday, Jun 29*boxscore*PHI*None*BRO*W*5*4*None*26-36*7* 12.5*Ferguson*Petty*Scott*None*D*2,000*+++*None
+Friday, Jul 1*boxscore*PHI*None*BRO*W*7*6*None*27-36*6* 12.5*Scott*Vance*None*None*D*None*++++*None
+Saturday, Jul 2*boxscore*PHI*None*BRO*L*5*7*None*27-37*7* 14.0*Doak*Willoughby*None*2:03*D*15,000*-*None
+Saturday, Jul 2*boxscore*PHI*None*BRO*L*0*3*None*27-38*7* 14.0*Elliott*Kaufmann*None*None*D*None*--*1927-05-25 (Wet grounds)
+Sunday, Jul 3*boxscore*PHI*@*BRO*L*1*6*None*27-39*7* 14.5*Plitt*Ulrich*None*1:30*D*22,000*---*None
+Sunday, Jul 3*boxscore*PHI*@*BRO*L*5*6*11*27-40*7* 14.5*Clark*Scott*None*2:45*D*None*----*1927-06-22 (Rain)
+Monday, Jul 4*boxscore*PHI*None*BSN*L*4*5*None*27-41*7* 16.5*Greenfield*Scott*None*1:45*D*None*-----*None
+Monday, Jul 4*boxscore*PHI*None*BSN*L*2*8*None*27-42*7* 16.5*Robertson*Decatur*None*1:45*D*None*------*None
+Tuesday, Jul 5*boxscore*PHI*None*BSN*W*5*4*None*28-42*7* 16.5*Sweetland*Genewich*None*1:35*D*None*+*None
+Wednesday, Jul 6*boxscore*PHI*None*BSN*W*6*4*None*29-42*6* 15.5*Ulrich*McQuillan*None*1:40*D*None*++*None
+Wednesday, Jul 6*boxscore*PHI*None*BSN*W*5*3*None*30-42*6* 15.5*Scott*Wertz*None*1:50*D*None*+++*1927-05-26 (Rain)
+Thursday, Jul 7*boxscore*PHI*None*CIN*L*4*11*None*30-43*6* 16.0*Lucas*Willoughby*None*1:48*D*None*-*None
+Friday, Jul 8*boxscore*PHI*None*CIN*L*5*8*11*30-44*7* 17.0*Nehf*Scott*None*2:25*D*None*--*None
+Saturday, Jul 9*boxscore*PHI*None*CIN*W*12*11*None*31-44*6* 16.0*Scott*Donohue*None*1:58*D*None*+*None
+Monday, Jul 11*boxscore*PHI*None*STL*L*0*7*None*31-45*6* 17.0*Alexander*Pruett*None*1:28*D*2,000*-*None
+Tuesday, Jul 12*boxscore*PHI*None*STL*L*6*9*None*31-46*6* 18.0*Haines*Sweetland*None*None*D*None*--*None
+Wednesday, Jul 13*boxscore*PHI*None*STL*L*7*9*12*31-47*7* 18.5*Sherdel*Decatur*None*None*D*None*---*None
+Thursday, Jul 14*boxscore*PHI*None*STL*W*7*3*None*32-47*6* 18.5*Mitchell*Rhem*None*None*D*1,000*+*None
+Friday, Jul 15*boxscore*PHI*None*STL*L*7*9*None*32-48*6* 19.5*Keen*Willoughby*Sherdel*None*D*1,000*-*None
+Saturday, Jul 16*boxscore*PHI*None*PIT*W*11*10*None*33-48*6* 17.5*Decatur*Yde*None*2:19*D*None*+*None
+Saturday, Jul 16*boxscore*PHI*None*PIT*W*11*9*None*34-48*6* 17.5*Scott*Kremer*None*2:11*D*None*++*None
+Monday, Jul 18*boxscore*PHI*None*PIT*L*7*9*None*34-49*6* 18.5*Yde*Kaufmann*None*2:12*D*None*-*None
+Monday, Jul 18*boxscore*PHI*None*PIT*L*5*6*None*34-50*6* 18.5*Meadows*Ferguson*Hill*2:05*D*None*--*1927-05-06 (Rain)
+Wednesday, Jul 20*boxscore*PHI*None*PIT*W*4*3*None*35-50*6* 18.5*Mitchell*Dawson*None*1:58*D*None*+*None
+Wednesday, Jul 20*boxscore*PHI*None*PIT*L*5*6*None*35-51*6* 18.5*Hill*Sweetland*None*2:11*D*None*-*1927-05-09 (Rain)
+Thursday, Jul 21*boxscore*PHI*None*CHC*W*7*3*None*36-51*6* 17.5*Pruett*Bush*None*1:45*D*None*+*None
+Friday, Jul 22*boxscore*PHI*None*CHC*W*6*5*None*37-51*6* 16.5*Ulrich*Root*None*None*D*None*++*None
+Wednesday, Jul 27*boxscore*PHI*@*STL*L*8*9*11*37-52*7* 17.5*Littlejohn*Willoughby*None*2:53*D*4,000*-*None
+Thursday, Jul 28*boxscore*PHI*@*STL*L*8*10*None*37-53*7* 17.5*Keen*Scott*Sherdel*None*D*None*--*None
+Friday, Jul 29*boxscore*PHI*@*STL*L*3*6*None*37-54*7* 18.5*Haines*Ferguson*None*1:53*D*18,000*---*None
+Saturday, Jul 30*boxscore*PHI*@*CHC*W*5*3*None*38-54*7* 17.5*Ulrich*Blake*None*None*D*None*+*None
+Sunday, Jul 31*boxscore*PHI*@*CHC*L*5*12*None*38-55*7* 18.0*Root*Pruett*None*1:35*D*30,000*-*None
+Monday, Aug 1*boxscore*PHI*@*CHC*L*5*6*None*38-56*7* 18.5*Jones*Scott*None*1:40*D*None*--*None
+Tuesday, Aug 2*boxscore*PHI*@*CHC*L*2*6*None*38-57*8* 19.5*Bush*Ferguson*None*1:40*D*None*---*None
+Wednesday, Aug 3*boxscore*PHI*@*PIT*L*6*9*None*38-58*8* 20.5*Dawson*Mitchell*None*2:18*D*6,500*----*None
+Thursday, Aug 4*boxscore*PHI*@*PIT*L*5*8*None*38-59*8* 22.0*Miljus*Pruett*None*1:59*D*None*-----*None
+Thursday, Aug 4*boxscore*PHI*@*PIT*L*3*7*None*38-60*8* 22.0*Kremer*Ulrich*None*1:45*D*None*------*1927-06-04 (Rain)
+Friday, Aug 5*boxscore*PHI*@*PIT*W*9*7*None*39-60*8* 22.0*Ferguson*Aldridge*Ulrich*1:59*D*3,500*+*None
+Sunday, Aug 7*boxscore*PHI*@*CIN*L*1*6*None*39-61*8* 24.0*May*Decatur*None*1:42*D*None*-*None
+Sunday, Aug 7*boxscore*PHI*@*CIN*L*1*2*None*39-62*8* 24.0*Lucas*Sweetland*None*1:24*D*19,036*--*1927-08-06 (Reception for Charles Lindbergh)
+Wednesday, Aug 10*boxscore*PHI*@*BSN*W*6*0*None*40-62*8* 24.0*Pruett*Greenfield*None*1:41*D*None*+*None
+Wednesday, Aug 10*boxscore*PHI*@*BSN*L*1*5*None*40-63*8* 24.0*Smith*Ferguson*None*1:27*D*None*-*1927-05-02 (Rain)
+Thursday, Aug 11*boxscore*PHI*@*BSN*L*4*5*None*40-64*8* 25.0*McQuillan*Willoughby*Genewich*1:54*D*None*--*None
+Friday, Aug 12*boxscore*PHI*@*BSN*L*6*12*None*40-65*8* 25.5*Robertson*Scott*None*1:35*D*None*---*None
+Saturday, Aug 13*boxscore*PHI*@*BSN*W*7*0*None*41-65*8* 26.0*Ulrich*Genewich*None*1:32*D*None*+*None
+Saturday, Aug 13*boxscore*PHI*@*BSN*L*3*4*None*41-66*8* 26.0*Edwards*Sweetland*Smith*1:41*D*None*-*1927-05-04 (Cold)
+Sunday, Aug 14*boxscore*PHI*@*NYG*L*1*3*None*41-67*8* 27.0*Benton*Ferguson*None*1:37*D*None*--*None
+Monday, Aug 15*boxscore*PHI*None*BSN*L*11*12*10*41-68*8* 27.5*Smith*Ulrich*None*2:33*D*None*---*None
+Tuesday, Aug 16*boxscore*PHI*None*CIN*W*5*3*None*42-68*8* 27.5*Sweetland*Rixey*None*2:05*D*None*+*None
+Wednesday, Aug 17*boxscore*PHI*None*CIN*L*1*2*None*42-69*8* 27.5*Luque*Ulrich*None*1:26*D*None*-*None
+Friday, Aug 19*boxscore*PHI*None*CIN*L*3*5*10*42-70*8* 28.5*May*Ferguson*None*1:52*D*None*--*None
+Friday, Aug 19*boxscore*PHI*None*CIN*L*0*1*None*42-71*8* 28.5*Lucas*Scott*None*1:27*D*None*---*1927-08-18 (Rain)
+Saturday, Aug 20*boxscore*PHI*None*STL*L*2*8*None*42-72*8* 28.0*Alexander*Pruett*None*1:40*D*None*----*None
+Monday, Aug 22*boxscore*PHI*None*STL*L*0*1*None*42-73*8* 28.0*Haines*Ulrich*None*1:43*D*None*-----*None
+Tuesday, Aug 23*boxscore*PHI*None*STL*L*3*13*None*42-74*8* 28.5*Sherdel*Scott*None*1:58*D*1,000*------*None
+Wednesday, Aug 24*boxscore*PHI*None*CHC*W*7*6*None*43-74*8* 28.5*Ferguson*Blake*None*1:50*D*10,000*+*None
+Wednesday, Aug 24*boxscore*PHI*None*CHC*L*1*13*None*43-75*8* 28.5*Jones*Sweetland*None*1:45*D*10,000*-*1927-07-23 (Rain)
+Thursday, Aug 25*boxscore*PHI*None*CHC*L*0*8*None*43-76*8* 29.5*Root*Pruett*None*1:25*D*None*--*None
+Saturday, Aug 27*boxscore*PHI*None*CHC*W*2*1*None*44-76*8* 29.5*Ulrich*Bush*None*1:35*D*None*+*None
+Saturday, Aug 27*boxscore*PHI*None*CHC*L*6*10*10*44-77*8* 29.5*Root*Sweetland*None*2:08*D*5,000*-*1927-08-26 (Rain)
+Monday, Aug 29*boxscore*PHI*None*PIT*T*2*2*6*44-77*8* 28.5*None*None*None*1:14*D*None*-*None
+Tuesday, Aug 30*boxscore*PHI*None*PIT*W*3*2*10*45-77*8* 28.0*Pruett*Kremer*None*1:48*D*None*+*None
+Tuesday, Aug 30*boxscore*PHI*None*PIT*L*6*12*None*45-78*8* 28.0*Miljus*Decatur*None*1:55*D*None*-*1927-07-19 (Rain)
+Wednesday, Aug 31*boxscore*PHI*None*PIT*L*2*3*13*45-79*8* 29.0*Hill*Ulrich*None*None*D*None*--*None
+Wednesday, Aug 31*boxscore*PHI*None*PIT*L*2*7*None*45-80*8* 29.0*Miljus*Scott*Cvengros*1:43*D*None*---*None
+Saturday, Sep 3*boxscore*PHI*@*NYG*L*5*6*None*45-81*8* 30.5*Henry*Ferguson*None*1:57*D*None*----*None
+Saturday, Sep 3*boxscore*PHI*@*NYG*L*4*7*None*45-82*8* 30.5*Benton*Sweetland*None*1:46*D*35,000*-----*1927-04-22 (Wet grounds)
+Sunday, Sep 4*boxscore*PHI*@*NYG*L*0*6*None*45-83*8* 31.5*Grimes*Pruett*None*1:45*D*None*------*None
+Monday, Sep 5*boxscore*PHI*@*BRO*W*6*1*None*46-83*8* 29.5*Ulrich*McWeeny*None*1:45*D*None*+*None
+Monday, Sep 5*boxscore*PHI*@*BRO*W*7*1*None*47-83*8* 29.5*Scott*Doak*None*1:55*D*None*++*None
+Wednesday, Sep 7*boxscore*PHI*None*BRO*W*3*2*None*48-83*8* 29.5*Ferguson*Petty*None*1:40*D*None*+++*None
+Wednesday, Sep 7*boxscore*PHI*None*BRO*L*1*9*None*48-84*8* 29.5*Elliott*Sweetland*None*None*D*None*-*1927-06-30 (Rain)
+Friday, Sep 9*boxscore*PHI*@*PIT*L*2*3*None*48-85*8* 30.5*Aldridge*Pruett*None*1:32*D*None*--*None
+Saturday, Sep 10*boxscore*PHI*@*PIT*L*0*4*None*48-86*8* 31.5*Kremer*Ulrich*None*1:29*D*None*---*None
+Monday, Sep 12*boxscore*PHI*@*PIT*L*2*3*None*48-87*8* 32.5*Hill*Scott*None*1:40*D*None*----*None
+Tuesday, Sep 13*boxscore*PHI*@*CIN*L*3*5*None*48-88*8* 34.0*Rixey*Sweetland*Kolp*1:44*D*1,265*-----*None
+Wednesday, Sep 14*boxscore*PHI*@*CIN*L*6*7*None*48-89*8* 35.5*Appleton*Ulrich*None*1:57*D*1,265*------*None
+Saturday, Sep 17*boxscore*PHI*@*STL*L*0*11*None*48-90*8* 38.0*Reinhart*Pruett*None*1:55*D*3,000*-------*None
+Sunday, Sep 18*boxscore*PHI*@*STL*L*3*7*None*48-91*8* 39.0*Alexander*Scott*None*1:40*D*None*--------*None
+Sunday, Sep 18*boxscore*PHI*@*STL*L*3*8*None*48-92*8* 39.0*Littlejohn*Ferguson*None*1:34*D*None*---------*1927-06-13 (Wet grounds)
+Monday, Sep 19*boxscore*PHI*@*STL*L*5*12*None*48-93*8* 39.0*Frankhouse*Sweetland*None*2:00*D*None*----------*None
+Tuesday, Sep 20*boxscore*PHI*@*STL*L*4*5*None*48-94*8* 39.0*Sherdel*Ulrich*None*1:46*D*1,200*-----------*None
+Thursday, Sep 22*boxscore*PHI*@*CHC*L*4*8*None*48-95*8* 40.0*Root*Pruett*None*1:29*D*4,000*------------*None
+Friday, Sep 23*boxscore*PHI*@*CHC*L*0*10*None*48-96*8* 40.0*Carlson*Ferguson*None*1:32*D*6,000*-------------*None
+Saturday, Sep 24*boxscore*PHI*@*CHC*L*2*10*None*48-97*8* 40.0*Blake*Miller*None*1:30*D*None*--------------*None
+Sunday, Sep 25*boxscore*PHI*@*CIN*W*8*3*None*49-97*8* 40.5*Decatur*Beckman*None*1:35*D*4,385*+*None
+Monday, Sep 26*boxscore*PHI*None*NYG*W*9*2*None*50-97*8* 40.5*Ulrich*Grimes*None*1:45*D*None*++*None
+Tuesday, Sep 27*boxscore*PHI*None*NYG*L*2*6*None*50-98*8* 41.5*Fitzsimmons*Scott*None*1:30*D*None*-*None
+Wednesday, Sep 28*boxscore*PHI*None*NYG*L*4*5*10*50-99*8* 42.0*Barnes*Ferguson*Henry*1:45*D*None*--*None
+Thursday, Sep 29*boxscore*PHI*@*BSN*W*7*1*None*51-99*8* 41.5*Miller*Greenfield*None*1:35*D*None*+*None
+Friday, Sep 30*boxscore*PHI*@*BSN*L*2*12*None*51-100*8* 41.5*Genewich*Taber*None*1:55*D*None*-*None
+Saturday, Oct 1*boxscore*PHI*@*BSN*L*9*14*None*51-101*8* 43.0*Smith*Baecht*Goldsmith*2:00*D*None*--*None
+Saturday, Oct 1*boxscore*PHI*@*BSN*L*6*8*None*51-102*8* 43.0*Morrison*Ulrich*None*1:32*D*None*---*1927-05-05 (Rain)
+Sunday, Oct 2*boxscore*PHI*@*NYG*L*4*5*10*51-103*8* 43.0*Benton*Walsh*None*2:00*D*10,000*----*None

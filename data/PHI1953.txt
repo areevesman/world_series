@@ -1,0 +1,156 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 15*boxscore*PHI*None*NYG*W*8*1*None*1-1*4* 1.0*Simmons*Corwin*None*2:30*D*4,787*+*None
+Thursday, Apr 16*boxscore*PHI*@*PIT*L*12*14*None*1-2*6* 1.5*Dickson*Hansen*None*3:25*D*16,220*-*None
+Monday, Apr 20*boxscore*PHI*@*NYG*W*2*1*None*2-2*3* 1.5*Roberts*Jansen*None*1:40*D*2,538*+*None
+Tuesday, Apr 21*boxscore*PHI*None*BRO*W*7*1*None*3-2*2* 0.5*Simmons*Meyer*None*2:03*N*14,309*++*None
+Wednesday, Apr 22*boxscore*PHI*None*BRO*W*5*4*None*4-2*1* Tied*Drews*Loes*None*2:19*N*15,984*+++*None
+Thursday, Apr 23*boxscore*PHI*None*BRO*W*6*1*None*5-2*1*up 0.5*Roberts*Podres*None*2:01*N*25,508*++++*None
+Friday, Apr 24*boxscore*PHI*None*PIT*W*5*3*None*6-2*1*up 1.0*Konstanty*Hall*None*2:13*N*6,506*+++++*None
+Saturday, Apr 25*boxscore*PHI*None*PIT*W*7*6*None*7-2*1*up 2.0*Simmons*Lindell*Hansen*2:28*D*6,265*++++++*None
+Sunday, Apr 26*boxscore*PHI*None*PIT*W*7*5*None*8-2*1*up 2.5*Roberts*Friend*None*2:15*D*None*+++++++*None
+Sunday, Apr 26*boxscore*PHI*None*PIT*W*8*1*None*9-2*1*up 2.5*Drews*Macdonald*None*2:40*D*18,490*++++++++*None
+Tuesday, Apr 28*boxscore*PHI*None*STL*L*5*6*None*9-3*1*up 1.5*Haddix*Konstanty*Staley*3:05*N*12,281*-*None
+Wednesday, Apr 29*boxscore*PHI*None*STL*L*0*1*11*9-4*1*up 1.0*Brazle*Simmons*None*2:25*N*16,321*--*None
+Thursday, Apr 30*boxscore*PHI*None*STL*T*1*1*5*9-4*1*up 0.5*None*None*None*1:34*N*12,870*--*None
+Friday, May 1*boxscore*PHI*None*MLN*L*2*5*None*9-5*2* 0.5*Wilson*Drews*None*2:17*N*9,472*---*None
+Sunday, May 3*boxscore*PHI*None*CHC*W*5*1*None*10-5*1* Tied*Roberts*Rush*None*2:03*D*None*+*None
+Sunday, May 3*boxscore*PHI*None*CHC*W*2*0*None*11-5*1* Tied*Simmons*Hacker*None*2:06*D*15,300*++*None
+Monday, May 4*boxscore*PHI*None*CHC*W*8*4*None*12-5*1*up 1.0*Konstanty*Klippstein*None*2:10*N*8,526*+++*None
+Saturday, May 9*boxscore*PHI*@*BRO*L-wo*6*7*None*12-6*1*up 0.5*Wade*Roberts*None*2:50*D*19,257*-*None
+Saturday, May 9*boxscore*PHI*@*BRO*W*8*4*None*13-6*1*up 0.5*Simmons*Black*None*2:40*N*25,025*+*1953-05-08 (Rain)
+Sunday, May 10*boxscore*PHI*@*BRO*L*0*5*None*13-7*2* 0.5*Loes*Drews*None*2:18*D*23,843*-*None
+Tuesday, May 12*boxscore*PHI*@*STL*W*6*5*None*14-7*1*up 0.5*Konstanty*Presko*Hansen*2:27*N*9,247*+*None
+Friday, May 15*boxscore*PHI*@*CHC*W*1*0*None*15-7*1* Tied*Roberts*Hacker*None*1:56*D*6,531*++*None
+Saturday, May 16*boxscore*PHI*@*MLN*W*3*0*None*16-7*1*up 1.0*Simmons*Liddle*None*2:12*D*23,578*+++*None
+Monday, May 18*boxscore*PHI*@*MLN*L*0*4*None*16-8*1* Tied*Buhl*Drews*None*2:23*N*22,237*-*1953-05-17 (Rain)
+Tuesday, May 19*boxscore*PHI*@*CIN*W*6*3*None*17-8*1*up 1.0*Roberts*Perkowski*None*2:27*N*8,561*+*None
+Wednesday, May 20*boxscore*PHI*@*CIN*L*5*14*None*17-9*1*up 1.0*Nuxhall*Simmons*None*2:28*D*2,890*-*None
+Thursday, May 21*boxscore*PHI*@*PIT*L*2*7*None*17-10*1*up 0.5*Dickson*Drews*None*2:22*N*7,507*--*1953-04-17 (Rain)
+Saturday, May 23*boxscore*PHI*None*BRO*L*0*2*None*17-11*2* 0.5*Roe*Roberts*None*2:11*N*31,532*---*None
+Sunday, May 24*boxscore*PHI*None*BRO*L*2*16*None*17-12*3* 1.0*Podres*Simmons*Erskine*3:29*D*24,715*----*None
+Monday, May 25*boxscore*PHI*None*BRO*L*9*11*None*17-13*4* 2.5*Milliken*Konstanty*Black*2:59*N*22,067*-----*None
+Wednesday, May 27*boxscore*PHI*@*PIT*W*14*2*None*18-13*4* 3.5*Roberts*Dickson*None*2:37*D*None*+*None
+Wednesday, May 27*boxscore*PHI*@*PIT*L*6*8*None*18-14*4* 3.5*Face*Drews*Dickson*2:53*N*16,935*-*1953-04-18 (Cold)
+Thursday, May 28*boxscore*PHI*@*PIT*W*9*8*None*19-14*4* 3.0*Konstanty*LaPalme*None*2:17*D*2,437*+*None
+Friday, May 29*boxscore*PHI*@*NYG*W*12*3*None*20-14*4* 2.0*Simmons*Jansen*None*2:13*D*6,253*++*None
+Tuesday, Jun 2*boxscore*PHI*None*STL*W*5*0*None*21-14*3* 3.0*Roberts*Chambers*None*1:59*N*15,064*+++*None
+Wednesday, Jun 3*boxscore*PHI*None*STL*L*3*5*None*21-15*3* 3.5*Mizell*Simmons*Brazle*2:31*D*31,104*-*None
+Wednesday, Jun 3*boxscore*PHI*None*STL*W*6*5*None*22-15*3* 3.5*Ridzik*Brazle*Hansen*2:52*N*31,104*+*None
+Thursday, Jun 4*boxscore*PHI*None*STL*W-wo*6*5*10*23-15*3* 2.5*Ridzik*White*None*3:15*N*8,994*++*None
+Friday, Jun 5*boxscore*PHI*None*MLN*L*2*3*11*23-16*3* 3.5*Spahn*Konstanty*None*2:50*N*16,025*-*None
+Saturday, Jun 6*boxscore*PHI*None*MLN*W*6*2*None*24-16*3* 3.0*Roberts*Wilson*None*2:23*D*9,144*+*None
+Sunday, Jun 7*boxscore*PHI*None*MLN*L*0*6*None*24-17*3* 4.5*Antonelli*Ridzik*None*2:12*D*None*-*None
+Sunday, Jun 7*boxscore*PHI*None*MLN*L*3*5*None*24-18*3* 4.5*Buhl*Kipper*Burdette*2:25*D*20,098*--*None
+Monday, Jun 8*boxscore*PHI*None*CHC*W*7*3*None*25-18*3* 4.5*Ridzik*Minner*None*2:24*D*2,851*+*None
+Tuesday, Jun 9*boxscore*PHI*None*CHC*W-wo*10*9*None*26-18*3* 4.5*Kipper*Leonard*None*3:22*N*6,903*++*None
+Wednesday, Jun 10*boxscore*PHI*None*CHC*W*9*1*None*27-18*3* 4.0*Roberts*Klippstein*None*2:01*D*15,000*+++*None
+Wednesday, Jun 10*boxscore*PHI*None*CHC*W*8*5*None*28-18*3* 4.0*Konstanty*Hacker*Drews*2:44*N*15,000*++++*1953-05-05 (Rain)
+Friday, Jun 12*boxscore*PHI*None*CIN*L*1*4*None*28-19*3* 4.5*Collum*Kipper*None*2:16*N*6,510*-*None
+Sunday, Jun 14*boxscore*PHI*None*CIN*L*1*2*None*28-20*3* 5.5*Raffensberger*Roberts*None*1:57*D*None*--*None
+Sunday, Jun 14*boxscore*PHI*None*CIN*W*4*1*None*29-20*3* 5.5*Drews*Nuxhall*Miller*2:13*D*9,391*+*None
+Tuesday, Jun 16*boxscore*PHI*@*MLN*L*5*6*10*29-21*4* 7.0*Burdette*Peterson*None*3:28*N*None*-*None
+Tuesday, Jun 16*boxscore*PHI*@*MLN*L*2*3*None*29-22*4* 7.0*Surkont*Konstanty*None*2:01*N*33,962*--*1953-05-17 (Rain)
+Wednesday, Jun 17*boxscore*PHI*@*MLN*L*6*9*None*29-23*4* 8.0*Spahn*Miller*Burdette*2:34*D*32,771*---*None
+Friday, Jun 19*boxscore*PHI*@*CIN*W*10*3*None*30-23*4* 7.0*Roberts*Raffensberger*None*2:32*N*10,780*+*None
+Saturday, Jun 20*boxscore*PHI*@*CIN*W*3*1*None*31-23*4* 7.0*Drews*Nuxhall*Miller*2:15*D*4,043*++*None
+Sunday, Jun 21*boxscore*PHI*@*CIN*W*5*2*None*32-23*4* 6.5*Konstanty*Perkowski*None*2:16*D*None*+++*None
+Sunday, Jun 21*boxscore*PHI*@*CIN*L*3*5*None*32-24*4* 6.5*Baczewski*Ridzik*None*1:59*D*14,992*-*None
+Tuesday, Jun 23*boxscore*PHI*@*CHC*W*6*1*None*33-24*4* 5.5*Roberts*Rush*None*2:10*D*7,919*+*None
+Wednesday, Jun 24*boxscore*PHI*@*CHC*W*8*2*None*34-24*4* 4.5*Drews*Minner*None*2:29*D*7,220*++*None
+Thursday, Jun 25*boxscore*PHI*@*CHC*W*13*2*None*35-24*3* 3.5*Konstanty*Pollet*None*2:42*D*6,135*+++*None
+Friday, Jun 26*boxscore*PHI*@*STL*L*0*7*None*35-25*4* 3.5*Miller*Ridzik*None*2:19*N*11,317*-*None
+Saturday, Jun 27*boxscore*PHI*@*STL*L*4*7*None*35-26*4* 4.0*Staley*Roberts*None*2:23*D*7,407*--*None
+Saturday, Jun 27*boxscore*PHI*@*STL*L*3*4*None*35-27*4* 4.0*Haddix*Miller*None*2:26*N*17,075*---*1953-05-13 (Cold)
+Sunday, Jun 28*boxscore*PHI*@*STL*W*4*3*11*36-27*4* 4.0*Konstanty*White*None*3:00*D*17,710*+*None
+Tuesday, Jun 30*boxscore*PHI*@*BRO*W*10*9*10*37-27*4* 3.0*Konstanty*Black*Drews*3:38*N*23,956*++*None
+Wednesday, Jul 1*boxscore*PHI*@*BRO*L-wo*4*5*10*37-28*4* 4.0*Podres*Roberts*None*2:50*N*19,376*-*None
+Thursday, Jul 2*boxscore*PHI*@*BRO*L*0*8*None*37-29*4* 5.0*Erskine*Drews*None*2:28*D*9,223*--*None
+Friday, Jul 3*boxscore*PHI*None*NYG*W*5*1*None*38-29*4* 4.5*Konstanty*Jansen*None*2:01*D*4,499*+*None
+Saturday, Jul 4*boxscore*PHI*None*NYG*L*2*4*None*38-30*4* 4.5*Gomez*Simmons*Wilhelm*2:35*D*None*-*None
+Saturday, Jul 4*boxscore*PHI*None*NYG*W*10*4*None*39-30*4* 4.5*Kipper*Hearn*None*2:43*D*23,664*+*None
+Sunday, Jul 5*boxscore*PHI*@*PIT*W*2*0*10*40-30*4* 4.0*Roberts*Dickson*None*2:25*D*None*++*None
+Sunday, Jul 5*boxscore*PHI*@*PIT*L*4*7*None*40-31*4* 4.0*Waugh*Ridzik*LaPalme*2:25*D*11,404*-*None
+Monday, Jul 6*boxscore*PHI*@*NYG*L*0*6*None*40-32*4* 5.0*Worthington*Miller*None*2:38*D*6,650*--*None
+Tuesday, Jul 7*boxscore*PHI*@*NYG*L*3*5*None*40-33*4* 7.0*Grissom*Konstanty*Wilhelm*2:32*D*34,736*---*None
+Tuesday, Jul 7*boxscore*PHI*@*NYG*L*1*9*None*40-34*4* 7.0*Corwin*Kipper*None*2:46*N*34,736*----*1953-04-19 (Cold)
+Wednesday, Jul 8*boxscore*PHI*None*BRO*L*4*8*None*40-35*4* 8.0*Loes*Drews*None*2:21*N*22,601*-----*None
+Thursday, Jul 9*boxscore*PHI*None*BRO*W*6*5*None*41-35*4* 7.0*Miller*Hughes*Konstanty*2:27*N*21,989*+*None
+Friday, Jul 10*boxscore*PHI*None*PIT*W*13*3*None*42-35*4* 6.0*Simmons*Dickson*None*2:26*N*6,466*++*None
+Saturday, Jul 11*boxscore*PHI*None*PIT*W*8*4*None*43-35*4* 5.0*Ridzik*Dickson*None*2:10*D*3,608*+++*None
+Sunday, Jul 12*boxscore*PHI*None*PIT*W*6*4*None*44-35*4* 4.5*Roberts*Face*None*1:47*D*None*++++*None
+Sunday, Jul 12*boxscore*PHI*None*PIT*W*6*5*None*45-35*4* 4.5*Ridzik*LaPalme*None*2:14*D*10,806*+++++*None
+Thursday, Jul 16*boxscore*PHI*None*CIN*W*3*1*None*46-35*3* 4.0*Roberts*Podbielan*None*1:44*N*None*++++++*None
+Thursday, Jul 16*boxscore*PHI*None*CIN*W*3*2*None*47-35*3* 4.0*Miller*Raffensberger*None*2:20*N*19,834*+++++++*1953-05-06 (Rain)
+Friday, Jul 17*boxscore*PHI*None*CIN*L*2*3*None*47-36*3* 5.5*Perkowski*Simmons*King*2:01*N*6,013*-*None
+Saturday, Jul 18*boxscore*PHI*None*CIN*L*0*11*None*47-37*3* 6.5*Collum*Konstanty*None*2:13*D*3,201*--*None
+Sunday, Jul 19*boxscore*PHI*None*CHC*L*3*5*None*47-38*3* 6.5*Minner*Drews*Pollet*2:17*D*None*---*None
+Sunday, Jul 19*boxscore*PHI*None*CHC*W-wo*6*5*None*48-38*3* 6.5*Kipper*Klippstein*None*2:34*N*8,689*+*None
+Tuesday, Jul 21*boxscore*PHI*None*MLN*W*10*0*None*49-38*3* 7.5*Roberts*Buhl*None*2:27*N*None*++*None
+Tuesday, Jul 21*boxscore*PHI*None*MLN*L*3*7*None*49-39*3* 7.5*Antonelli*Simmons*None*2:29*N*35,174*-*1953-05-02 (Rain)
+Wednesday, Jul 22*boxscore*PHI*None*MLN*W*6*3*None*50-39*3* 8.0*Konstanty*Spahn*Drews*2:06*N*12,756*+*None
+Friday, Jul 24*boxscore*PHI*None*STL*W-wo*2*1*None*51-39*3* 7.0*Miller*Haddix*None*2:35*N*15,953*++*None
+Saturday, Jul 25*boxscore*PHI*None*STL*W*3*0*None*52-39*3* 7.0*Roberts*Mizell*None*2:11*N*27,003*+++*None
+Sunday, Jul 26*boxscore*PHI*None*STL*L*6*8*None*52-40*3* 8.5*Brazle*Simmons*None*2:32*D*14,436*-*None
+Tuesday, Jul 28*boxscore*PHI*@*CIN*L*4*5*None*52-41*3* 9.5*Perkowski*Miller*None*2:51*N*15,533*--*None
+Wednesday, Jul 29*boxscore*PHI*@*CIN*L*4*13*None*52-42*3* 10.5*Collum*Roberts*None*2:29*N*13,282*---*None
+Thursday, Jul 30*boxscore*PHI*@*CIN*W*17*8*None*53-42*3* 9.5*Ridzik*Smith*None*2:39*D*2,773*+*None
+Friday, Jul 31*boxscore*PHI*@*MLN*W*5*1*None*54-42*3* 9.5*Roberts*Antonelli*None*2:19*N*None*++*None
+Friday, Jul 31*boxscore*PHI*@*MLN*T*0*0*10*54-42*3* 9.5*None*None*None*2:20*N*29,802*++*1953-06-18 (Rain)
+Saturday, Aug 1*boxscore*PHI*@*MLN*L*0*5*None*54-43*3* 10.5*Spahn*Konstanty*None*1:46*D*23,791*-*None
+Sunday, Aug 2*boxscore*PHI*@*MLN*W*4*1*None*55-43*3* 10.0*Simmons*Liddle*None*2:04*D*None*+*None
+Sunday, Aug 2*boxscore*PHI*@*MLN*L*1*6*None*55-44*3* 10.0*Buhl*Ridzik*None*2:14*D*31,300*-*None
+Monday, Aug 3*boxscore*PHI*@*STL*L*3*8*None*55-45*3* 11.0*Mizell*Konstanty*Brazle*2:58*N*11,580*--*None
+Tuesday, Aug 4*boxscore*PHI*@*STL*W*8*1*None*56-45*3* 10.5*Roberts*Staley*None*2:21*N*12,636*+*None
+Wednesday, Aug 5*boxscore*PHI*@*STL*W*7*3*None*57-45*3* 9.5*Miller*Schmidt*None*2:31*D*6,538*++*None
+Thursday, Aug 6*boxscore*PHI*@*STL*L*0*2*None*57-46*3* 10.0*Haddix*Simmons*None*2:06*N*9,073*-*None
+Friday, Aug 7*boxscore*PHI*@*CHC*W*5*4*None*58-46*3* 10.0*Ridzik*Minner*Konstanty*2:25*D*4,499*+*None
+Saturday, Aug 8*boxscore*PHI*@*CHC*L*1*4*None*58-47*3* 11.0*Pollet*Roberts*None*2:21*D*12,636*-*None
+Sunday, Aug 9*boxscore*PHI*@*CHC*W*7*0*None*59-47*4* 11.5*Miller*Rush*None*2:11*D*None*+*None
+Sunday, Aug 9*boxscore*PHI*@*CHC*L-wo*5*6*None*59-48*4* 11.5*Klippstein*Konstanty*None*2:30*D*22,088*-*1953-05-14 (Cold)
+Tuesday, Aug 11*boxscore*PHI*@*PIT*W*3*0*None*60-48*3* 11.5*Simmons*Dickson*None*1:57*N*8,985*+*None
+Wednesday, Aug 12*boxscore*PHI*@*PIT*W*8*4*None*61-48*3* 11.5*Roberts*Lindell*None*2:23*N*6,505*++*None
+Thursday, Aug 13*boxscore*PHI*@*PIT*L*3*4*None*61-49*3* 12.5*LaPalme*Miller*None*2:05*D*2,373*-*None
+Saturday, Aug 15*boxscore*PHI*@*NYG*L*1*4*None*61-50*3* 13.0*Grissom*Simmons*None*2:20*D*None*--*1953-05-30 (Rain)
+Saturday, Aug 15*boxscore*PHI*@*NYG*W*5*2*None*62-50*3* 13.0*Konstanty*Jansen*None*2:39*D*9,873*+*None
+Sunday, Aug 16*boxscore*PHI*@*NYG*L*1*8*None*62-51*3* 15.0*Hearn*Roberts*None*1:59*D*None*-*None
+Sunday, Aug 16*boxscore*PHI*@*NYG*L*3*4*None*62-52*3* 15.0*Gomez*Drews*None*2:05*D*16,926*--*1953-05-30 (Rain)
+Monday, Aug 17*boxscore*PHI*@*NYG*W*5*2*None*63-52*3* 15.5*Miller*Koslo*Konstanty*2:20*D*2,885*+*None
+Monday, Aug 17*boxscore*PHI*@*NYG*L*0*6*None*63-53*3* 15.5*Corwin*Hansen*None*2:25*D*2,885*-*1953-08-14 (Rain)
+Tuesday, Aug 18*boxscore*PHI*None*PIT*W*1*0*None*64-53*3* 15.5*Ridzik*LaPalme*Roberts*2:21*N*3,945*+*None
+Wednesday, Aug 19*boxscore*PHI*None*PIT*L*3*5*None*64-54*3* 16.5*Face*Simmons*None*1:53*N*4,554*-*None
+Thursday, Aug 20*boxscore*PHI*None*PIT*L*2*5*None*64-55*4* 17.5*Waugh*Roberts*None*2:06*N*4,376*--*None
+Friday, Aug 21*boxscore*PHI*None*NYG*W*7*6*None*65-55*4* 16.5*Ridzik*Koslo*Konstanty*2:58*N*15,925*+*None
+Saturday, Aug 22*boxscore*PHI*None*NYG*W*7*1*None*66-55*4* 16.0*Drews*Maglie*None*2:26*N*22,554*++*None
+Saturday, Aug 22*boxscore*PHI*None*NYG*W*6*5*None*67-55*4* 16.0*Konstanty*Worthington*Roberts*2:16*N*22,554*+++*1953-05-31 (Rain)
+Sunday, Aug 23*boxscore*PHI*None*NYG*W*6*3*None*68-55*3* 16.5*Simmons*Jansen*None*2:11*D*12,929*++++*None
+Tuesday, Aug 25*boxscore*PHI*None*MLN*W*6*1*None*69-55*3* 16.5*Roberts*Antonelli*None*2:00*N*None*+++++*None
+Tuesday, Aug 25*boxscore*PHI*None*MLN*L*2*6*None*69-56*3* 16.5*Burdette*Miller*None*2:14*N*31,596*-*1953-07-23 (Rain)
+Wednesday, Aug 26*boxscore*PHI*None*MLN*W*6*5*None*70-56*3* 15.5*Drews*Buhl*Konstanty*2:29*N*13,918*+*None
+Friday, Aug 28*boxscore*PHI*None*CHC*W*5*0*None*71-56*3* 16.0*Simmons*Pollet*None*2:12*N*5,956*++*None
+Saturday, Aug 29*boxscore*PHI*None*CHC*L*0*2*None*71-57*3* 17.0*Minner*Roberts*None*2:05*D*5,156*-*None
+Sunday, Aug 30*boxscore*PHI*None*CIN*W*4*2*None*72-57*3* 16.5*Drews*Collum*None*2:09*D*None*+*None
+Sunday, Aug 30*boxscore*PHI*None*CIN*W-wo*4*3*None*73-57*3* 16.5*Konstanty*Raffensberger*None*2:00*D*9,422*++*None
+Monday, Aug 31*boxscore*PHI*None*CIN*L*6*12*None*73-58*3* 18.0*Nuxhall*Miller*Baczewski*2:37*N*None*-*1953-06-13 (Rain)
+Monday, Aug 31*boxscore*PHI*None*CIN*L*5*7*None*73-59*3* 18.0*Perkowski*Konstanty*None*2:29*N*9,490*--*1953-05-07 (Rain)
+Wednesday, Sep 2*boxscore*PHI*None*STL*L*7*10*None*73-60*3* 18.5*White*Roberts*Brazle*3:09*N*11,964*---*None
+Thursday, Sep 3*boxscore*PHI*None*STL*W*2*1*None*74-60*3* 17.5*Simmons*Haddix*None*2:06*N*8,154*+*None
+Sunday, Sep 6*boxscore*PHI*@*PIT*W*7*2*None*75-60*3* 18.5*Drews*Face*None*2:05*D*5,890*++*None
+Monday, Sep 7*boxscore*PHI*@*BRO*L*2*6*None*75-61*4* 20.5*Erskine*Roberts*None*2:20*D*None*-*None
+Monday, Sep 7*boxscore*PHI*@*BRO*L*2*6*None*75-62*4* 20.5*Loes*Simmons*None*2:10*D*33,337*--*None
+Tuesday, Sep 8*boxscore*PHI*@*MLN*L-wo*2*3*None*75-63*4* 21.0*Antonelli*Lindell*None*2:14*N*28,629*---*None
+Wednesday, Sep 9*boxscore*PHI*@*MLN*W*2*0*None*76-63*3* 21.0*Miller*Spahn*None*2:02*N*31,049*+*None
+Friday, Sep 11*boxscore*PHI*@*CIN*L*5*6*None*76-64*4* 20.5*Perkowski*Roberts*Smith*2:23*N*4,737*-*None
+Saturday, Sep 12*boxscore*PHI*@*CIN*L*2*3*None*76-65*4* 21.5*Nuxhall*Drews*None*2:02*D*2,190*--*None
+Sunday, Sep 13*boxscore*PHI*@*STL*L*3*17*None*76-66*4* 21.5*Haddix*Simmons*None*2:59*D*11,841*---*None
+Monday, Sep 14*boxscore*PHI*@*STL*W*6*5*None*77-66*4* 20.5*Lindell*Mizell*None*2:57*N*5,214*+*None
+Tuesday, Sep 15*boxscore*PHI*@*CHC*W*4*2*None*78-66*4* 20.5*Roberts*Minner*None*1:58*D*3,185*++*None
+Wednesday, Sep 16*boxscore*PHI*@*CHC*L*4*7*None*78-67*4* 20.5*Pollet*Miller*Church*2:18*D*3,448*-*None
+Thursday, Sep 17*boxscore*PHI*@*CHC*W*16*4*None*79-67*4* 20.5*Simmons*Elston*None*2:21*D*2,793*+*None
+Saturday, Sep 19*boxscore*PHI*@*BRO*L*4*5*None*79-68*4* 21.5*Meyer*Roberts*None*1:57*D*9,057*-*None
+Sunday, Sep 20*boxscore*PHI*@*BRO*L*4*5*None*79-69*4* 21.5*Wade*Ridzik*None*2:21*D*23,558*--*None
+Sunday, Sep 20*boxscore*PHI*@*BRO*W*2*1*5*80-69*4* 21.5*Miller*Loes*None*1:03*D*23,558*+*1953-09-21 (Schedule change)
+Tuesday, Sep 22*boxscore*PHI*None*NYG*W*9*3*None*81-69*4* 21.5*Simmons*Jansen*None*2:16*N*4,100*++*None
+Wednesday, Sep 23*boxscore*PHI*None*NYG*W*2*1*None*82-69*3* 21.0*Roberts*Grissom*None*1:54*N*4,030*+++*None
+Friday, Sep 25*boxscore*PHI*None*BRO*L*3*4*None*82-70*4* 22.0*Labine*Miller*None*2:13*N*11,324*-*None
+Saturday, Sep 26*boxscore*PHI*None*BRO*W-wo*2*1*10*83-70*3* 21.0*Simmons*Milliken*None*2:31*N*15,046*+*None
+Sunday, Sep 27*boxscore*PHI*None*BRO*L*2*8*None*83-71*3* 22.0*Loes*Roberts*Wade*2:13*D*16,637*-*None

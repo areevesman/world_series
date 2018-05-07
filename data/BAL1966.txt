@@ -1,0 +1,160 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 13*boxscore*BAL*@*BOS*W*8*1*None*2-0*1* Tied*Palmer*Morehead*None*2:42*D*1,955*++*None
+Friday, Apr 15*boxscore*BAL*None*NYY*L*2*3*None*2-1*4* 1.5*Peterson*Bunker*None*1:56*D*35,624*-*None
+Saturday, Apr 16*boxscore*BAL*None*NYY*W*7*2*None*3-1*3* 1.5*McNally*Downing*Miller*2:20*D*12,128*+*None
+Sunday, Apr 17*boxscore*BAL*None*NYY*W*5*4*None*4-1*3* 0.5*Hall*Ramos*Miller*3:22*D*27,802*++*None
+Tuesday, Apr 19*boxscore*BAL*None*WSA*W*14*8*None*5-1*2* 0.5*Watt*Ortega*Drabowsky*2:59*N*6,045*+++*None
+Wednesday, Apr 20*boxscore*BAL*None*WSA*W*6*3*None*6-1*2* 0.5*Bunker*Richert*Miller*2:19*N*6,778*++++*None
+Saturday, Apr 23*boxscore*BAL*@*NYY*W*4*3*None*7-1*2* 0.5*McNally*Peterson*Miller*2:28*D*17,099*+++++*None
+Sunday, Apr 24*boxscore*BAL*@*NYY*W*2*1*None*8-1*1* Tied*Barber*Stottlemyre*None*2:06*D*13,104*++++++*None
+Tuesday, Apr 26*boxscore*BAL*None*CAL*W*7*3*None*9-1*2* 0.5*Palmer*McGlothlin*Hall*2:33*N*8,208*+++++++*None
+Friday, Apr 29*boxscore*BAL*@*DET*W*8*1*None*10-1*1* Tied*Bunker*Monbouquette*None*2:16*N*13,255*++++++++*None
+Saturday, Apr 30*boxscore*BAL*@*DET*W*3*2*None*11-1*1*up 0.5*McNally*McLain*Miller*2:22*D*5,130*+++++++++*None
+Sunday, May 1*boxscore*BAL*@*DET*W*4*1*None*12-1*1*up 0.5*Barber*Sparma*Hall*2:26*D*11,719*++++++++++*None
+Tuesday, May 3*boxscore*BAL*@*WSA*L*0*3*None*12-2*2* 0.5*Ortega*Palmer*Cox*2:18*N*8,550*-*None
+Wednesday, May 4*boxscore*BAL*@*WSA*L*2*3*None*12-3*2* 1.5*Lines*Bunker*Kline*2:37*N*6,110*--*None
+Friday, May 6*boxscore*BAL*None*CLE*W-wo*3*2*15*13-3*2* 1.0*Hall*Allen*None*4:11*N*30,767*+*None
+Saturday, May 7*boxscore*BAL*None*CLE*L*3*6*None*13-4*2* 2.0*McMahon*Miller*None*2:26*D*9,953*-*None
+Sunday, May 8*boxscore*BAL*None*CLE*W*8*2*None*14-4*1* Tied*Palmer*Siebert*None*2:28*D*None*+*None
+Sunday, May 8*boxscore*BAL*None*CLE*W*8*3*None*15-4*1* Tied*Bertaina*Tiant*None*2:30*N*37,658*++*None
+Tuesday, May 10*boxscore*BAL*None*CHW*W-wo*3*2*12*16-4*1*up 1.0*Watt*Locker*None*3:45*N*6,515*+++*None
+Wednesday, May 11*boxscore*BAL*None*CHW*L*2*3*11*16-5*1*up 0.5*Locker*Brabender*Buzhardt*3:27*N*10,063*-*None
+Thursday, May 12*boxscore*BAL*None*CHW*L*3*5*None*16-6*1* Tied*Lamabe*Watt*Fisher*3:08*N*6,079*--*None
+Friday, May 13*boxscore*BAL*@*CLE*L-wo*3*4*11*16-7*2* 1.0*O'Donoghue*Hall*None*3:37*N*12,301*---*None
+Saturday, May 14*boxscore*BAL*@*CLE*L*1*2*None*16-8*2* 2.0*Siebert*Bunker*None*2:20*N*12,518*----*None
+Sunday, May 15*boxscore*BAL*@*CLE*W*1*0*13*17-8*2* 2.0*Watt*Hargan*None*3:29*D*None*+*None
+Sunday, May 15*boxscore*BAL*@*CLE*L*1*2*None*17-9*2* 2.0*Stange*McNally*None*1:51*D*34,186*-*None
+Tuesday, May 17*boxscore*BAL*None*BOS*W*8*6*None*18-9*2* 2.0*Watt*Stephenson*None*2:37*N*8,442*+*None
+Wednesday, May 18*boxscore*BAL*None*BOS*L*1*2*10*18-10*2* 2.0*Wilson*Palmer*None*2:33*N*5,431*-*None
+Thursday, May 19*boxscore*BAL*None*BOS*L*1*3*None*18-11*2* 2.0*Lonborg*Barber*Radatz*2:23*N*5,477*--*None
+Friday, May 20*boxscore*BAL*None*DET*W*8*4*None*19-11*2* 2.5*Bunker*Sparma*Watt*2:53*N*None*+*None
+Friday, May 20*boxscore*BAL*None*DET*L*5*9*None*19-12*2* 2.5*Monbouquette*McNally*Sherry*2:45*N*26,094*-*None
+Saturday, May 21*boxscore*BAL*None*DET*L*5*7*None*19-13*3* 2.5*McLain*Miller*None*2:50*N*24,946*--*None
+Sunday, May 22*boxscore*BAL*None*DET*L*2*3*None*19-14*3* 4.0*Lolich*Bertaina*Podres*2:07*D*16,694*---*None
+Tuesday, May 24*boxscore*BAL*@*CHW*W*6*4*None*20-14*3* 3.5*Palmer*Lamabe*Hall*2:47*N*13,335*+*None
+Wednesday, May 25*boxscore*BAL*@*CHW*L*2*3*None*20-15*3* 4.5*John*Barber*Fisher*2:05*N*14,079*-*None
+Thursday, May 26*boxscore*BAL*@*CHW*W*7*1*None*21-15*2* 4.5*McNally*Pizarro*Miller*2:37*D*3,814*+*None
+Friday, May 27*boxscore*BAL*@*KCA*W*4*2*None*22-15*2* 4.5*Bunker*Sheldon*Miller*2:34*N*9,872*++*None
+Saturday, May 28*boxscore*BAL*@*KCA*W*9*2*None*23-15*2* 4.5*Drabowsky*Terry*None*2:48*N*12,393*+++*None
+Sunday, May 29*boxscore*BAL*@*KCA*L*3*6*None*23-16*2* 4.0*Hunter*Palmer*Aker*2:25*D*10,378*-*None
+Monday, May 30*boxscore*BAL*@*MIN*W*5*1*None*24-16*2* 3.0*Barber*Merritt*Miller*2:25*D*26,482*+*None
+Monday, May 30*boxscore*BAL*@*MIN*L*4*7*None*24-17*2* 3.0*Worthington*Hall*None*2:31*N*12,140*-*None
+Tuesday, May 31*boxscore*BAL*@*MIN*W*14*5*None*25-17*2* 3.0*Watt*Pascual*None*2:59*D*7,072*+*None
+Wednesday, Jun 1*boxscore*BAL*@*CAL*W*9*7*10*26-17*2* 2.0*Drabowsky*Brunet*Hall*3:38*N*22,862*++*None
+Thursday, Jun 2*boxscore*BAL*@*CAL*W*9*6*10*27-17*2* 1.0*Miller*Lee*None*3:21*D*10,430*+++*None
+Friday, Jun 3*boxscore*BAL*None*KCA*W*3*2*None*28-17*2* 1.0*Palmer*Hunter*None*2:14*N*11,178*++++*None
+Saturday, Jun 4*boxscore*BAL*None*KCA*W*9*0*None*29-17*2* 0.5*Barber*Dobson*None*2:18*N*None*+++++*None
+Saturday, Jun 4*boxscore*BAL*None*KCA*W-wo*6*5*12*30-17*2* 0.5*Miller*Sheldon*None*3:34*N*24,213*++++++*None
+Sunday, Jun 5*boxscore*BAL*None*KCA*L*4*9*None*30-18*2* 0.5*Dickson*Bunker*Aker*2:34*D*9,745*-*None
+Monday, Jun 6*boxscore*BAL*@*WSA*L*3*5*None*30-19*2* 1.0*Ortega*Miller*None*2:03*N*7,418*--*1966-05-02 (Rain)
+Tuesday, Jun 7*boxscore*BAL*None*WSA*W-wo*6*5*12*31-19*1* Tied*Watt*Bosman*None*3:30*N*7,215*+*None
+Wednesday, Jun 8*boxscore*BAL*None*WSA*W-wo*6*5*14*32-19*1*up 0.5*Miller*Humphreys*None*3:55*N*None*++*None
+Wednesday, Jun 8*boxscore*BAL*None*WSA*W*8*7*None*33-19*1*up 0.5*Brabender*Bosman*Watt*2:54*N*9,612*+++*None
+Thursday, Jun 9*boxscore*BAL*None*WSA*W*4*2*None*34-19*1*up 1.0*McNally*Segui*Miller*2:36*N*6,318*++++*None
+Friday, Jun 10*boxscore*BAL*None*BOS*W*9*2*None*35-19*1*up 1.0*Bunker*Stange*None*2:54*N*16,052*+++++*None
+Saturday, Jun 11*boxscore*BAL*None*BOS*L*2*8*None*35-20*1* Tied*Lonborg*Miller*McMahon*2:41*N*11,682*-*None
+Sunday, Jun 12*boxscore*BAL*None*BOS*W*8*1*None*36-20*1* Tied*Barber*Wilson*None*2:18*D*9,755*+*None
+Monday, Jun 13*boxscore*BAL*None*NYY*W*8*0*None*37-20*1*up 0.5*Palmer*Downing*Watt*2:23*N*28,225*++*None
+Tuesday, Jun 14*boxscore*BAL*None*NYY*W*2*1*None*38-20*1*up 1.0*Miller*Bouton*None*2:13*N*37,891*+++*None
+Wednesday, Jun 15*boxscore*BAL*@*WSA*W*6*4*None*39-20*1*up 1.0*Bunker*Bosman*Drabowsky*2:33*N*13,507*++++*None
+Thursday, Jun 16*boxscore*BAL*@*WSA*L*1*2*None*39-21*1*up 1.0*Richert*Bertaina*Kline*2:08*N*4,764*-*None
+Friday, Jun 17*boxscore*BAL*@*BOS*W*5*3*None*40-21*1*up 2.0*Barber*Lonborg*Miller*2:17*N*15,825*+*None
+Saturday, Jun 18*boxscore*BAL*@*BOS*W*16*6*None*41-21*1*up 2.0*Palmer*Sadowski*Brabender*2:59*D*7,957*++*None
+Sunday, Jun 19*boxscore*BAL*@*BOS*W*5*3*None*42-21*1*up 2.5*McNally*Stange*Fisher*2:56*D*None*+++*None
+Sunday, Jun 19*boxscore*BAL*@*BOS*L*2*5*None*42-22*1*up 2.5*Santiago*Miller*Wyatt*2:15*D*19,350*-*None
+Tuesday, Jun 21*boxscore*BAL*@*NYY*W*7*5*None*43-22*1*up 2.0*Bunker*Stottlemyre*Miller*2:34*D*None*+*None
+Tuesday, Jun 21*boxscore*BAL*@*NYY*L*3*8*None*43-23*1*up 2.0*Reniff*Bertaina*None*2:31*N*29,449*-*None
+Wednesday, Jun 22*boxscore*BAL*@*NYY*W*3*0*None*44-23*1*up 2.0*Barber*Talbot*None*2:07*N*17,239*+*None
+Thursday, Jun 23*boxscore*BAL*@*NYY*W*5*2*None*45-23*1*up 2.0*Palmer*Downing*Fisher*2:10*D*10,640*++*None
+Friday, Jun 24*boxscore*BAL*@*CAL*L-wo*4*5*14*45-24*1*up 1.5*Sanford*Fisher*None*4:21*N*32,088*-*None
+Saturday, Jun 25*boxscore*BAL*@*CAL*W*1*0*None*46-24*1*up 1.5*Bunker*Brunet*Hall*2:45*N*35,174*+*None
+Sunday, Jun 26*boxscore*BAL*@*CAL*W*12*7*None*47-24*1*up 3.0*Miller*Rojas*Fisher*3:18*D*23,314*++*None
+Monday, Jun 27*boxscore*BAL*@*CAL*W*4*1*None*48-24*1*up 3.5*Barber*Lopez*Miller*2:29*N*18,321*+++*None
+Tuesday, Jun 28*boxscore*BAL*@*KCA*L*3*4*None*48-25*1*up 2.5*Dobson*Palmer*Aker*2:40*N*11,291*-*None
+Wednesday, Jun 29*boxscore*BAL*@*KCA*W*5*2*None*49-25*1*up 3.5*Hall*Krausse*None*2:31*N*11,291*+*None
+Thursday, Jun 30*boxscore*BAL*@*KCA*W*11*3*None*50-25*1*up 4.0*Brabender*Terry*None*2:40*D*8,137*++*None
+Friday, Jul 1*boxscore*BAL*None*MIN*W*4*1*None*51-25*1*up 5.0*Barber*Kaat*Fisher*2:18*N*None*+++*None
+Friday, Jul 1*boxscore*BAL*None*MIN*W*2*0*None*52-25*1*up 5.0*Short*Merritt*None*1:55*N*31,944*++++*1966-04-27 (Rain)
+Saturday, Jul 2*boxscore*BAL*None*MIN*W*6*5*None*53-25*1*up 5.5*Miller*Roggenburk*None*2:43*D*None*+++++*None
+Saturday, Jul 2*boxscore*BAL*None*MIN*W*3*2*None*54-25*1*up 5.5*Fisher*Grant*None*2:07*N*28,403*++++++*None
+Sunday, Jul 3*boxscore*BAL*None*MIN*W*4*2*None*55-25*1*up 7.0*McNally*Cimino*Miller*2:54*D*15,715*+++++++*None
+Monday, Jul 4*boxscore*BAL*None*KCA*L*6*9*None*55-26*1*up 7.0*Hunter*Brabender*Aker*2:43*N*24,129*-*None
+Wednesday, Jul 6*boxscore*BAL*None*KCA*W*11*0*None*56-26*1*up 8.0*Barber*Stafford*None*2:16*N*None*+*None
+Wednesday, Jul 6*boxscore*BAL*None*KCA*L*8*9*11*56-27*1*up 8.0*Aker*Miller*None*3:17*N*14,409*-*None
+Friday, Jul 8*boxscore*BAL*None*CAL*W-wo*2*1*None*57-27*1*up 8.5*Miller*Lopez*None*2:07*N*19,312*+*None
+Saturday, Jul 9*boxscore*BAL*None*CAL*W*10*2*None*58-27*1*up 8.0*Palmer*Chance*Fisher*2:46*D*None*++*None
+Saturday, Jul 9*boxscore*BAL*None*CAL*L*1*2*None*58-28*1*up 8.0*Wright*McNally*Rojas*2:13*N*27,606*-*None
+Sunday, Jul 10*boxscore*BAL*None*CAL*L*0*4*None*58-29*1*up 8.0*Brunet*Barber*None*2:08*D*16,632*--*None
+Thursday, Jul 14*boxscore*BAL*@*DET*L*3*4*None*58-30*1*up 7.0*Wilson*Barber*Pena*2:37*N*30,571*---*None
+Friday, Jul 15*boxscore*BAL*@*DET*L-wo*5*8*13*58-31*1*up 6.0*Monbouquette*Miller*None*3:50*N*43,647*----*None
+Saturday, Jul 16*boxscore*BAL*@*DET*W*8*2*None*59-31*1*up 7.0*McNally*McLain*None*2:36*D*29,767*+*None
+Sunday, Jul 17*boxscore*BAL*@*CHW*L*1*5*None*59-32*1*up 8.0*Peters*Short*None*2:04*D*None*-*None
+Sunday, Jul 17*boxscore*BAL*@*CHW*W*3*2*None*60-32*1*up 8.0*Palmer*Lamabe*Miller*2:32*D*27,789*+*None
+Monday, Jul 18*boxscore*BAL*@*CHW*W*5*3*None*61-32*1*up 8.5*Miller*Pizarro*Drabowsky*2:51*N*17,899*++*None
+Tuesday, Jul 19*boxscore*BAL*None*DET*W*13*3*None*62-32*1*up 9.5*Watt*Wilson*None*2:45*N*24,261*+++*None
+Wednesday, Jul 20*boxscore*BAL*None*DET*W*10*7*None*63-32*1*up10.5*Brabender*McLain*Drabowsky*3:05*N*28,203*++++*None
+Thursday, Jul 21*boxscore*BAL*None*DET*W*6*4*None*64-32*1*up11.5*McNally*Monbouquette*Fisher*2:41*N*29,107*+++++*None
+Friday, Jul 22*boxscore*BAL*None*CHW*W*3*1*None*65-32*1*up11.5*Palmer*Peters*None*2:02*N*25,772*++++++*None
+Saturday, Jul 23*boxscore*BAL*None*CHW*W*5*4*None*66-32*1*up12.5*Short*John*Miller*2:59*N*25,908*+++++++*None
+Sunday, Jul 24*boxscore*BAL*None*CHW*L*0*4*None*66-33*1*up12.0*Howard*Watt*None*2:21*D*25,404*-*None
+Tuesday, Jul 26*boxscore*BAL*None*CLE*L*4*7*None*66-34*1*up11.0*Bell*Barber*Tiant*2:49*N*23,990*--*None
+Wednesday, Jul 27*boxscore*BAL*None*CLE*W*7*1*None*67-34*1*up12.0*McNally*O'Donoghue*None*2:15*N*22,294*+*None
+Friday, Jul 29*boxscore*BAL*@*MIN*W*3*0*None*68-34*1*up13.5*Palmer*Merritt*Fisher*2:16*N*30,288*++*None
+Saturday, Jul 30*boxscore*BAL*@*MIN*L*0*7*None*68-35*1*up13.5*Boswell*Short*None*2:09*D*27,276*-*None
+Sunday, Jul 31*boxscore*BAL*@*MIN*W*4*0*None*69-35*1*up13.0*Watt*Kaat*Fisher*2:13*D*31,228*+*None
+Tuesday, Aug 2*boxscore*BAL*@*CLE*W*8*6*None*70-35*1*up13.0*Hall*Kelley*None*3:08*N*17,936*++*None
+Wednesday, Aug 3*boxscore*BAL*@*CLE*L*6*9*None*70-36*1*up12.5*Siebert*Palmer*Tiant*2:20*N*14,432*-*None
+Thursday, Aug 4*boxscore*BAL*@*CLE*L*1*3*None*70-37*1*up12.0*Bell*Short*None*2:19*N*13,036*--*None
+Friday, Aug 5*boxscore*BAL*None*WSA*L*2*4*None*70-38*1*up11.0*Humphreys*Watt*Kline*2:47*N*14,618*---*None
+Saturday, Aug 6*boxscore*BAL*None*WSA*W*4*0*None*71-38*1*up12.0*McNally*Moore*None*2:27*N*25,963*+*None
+Sunday, Aug 7*boxscore*BAL*@*WSA*L*2*6*None*71-39*1*up11.5*Richert*Miller*None*2:15*D*14,703*-*None
+Tuesday, Aug 9*boxscore*BAL*@*NYY*L*1*4*None*71-40*1*up10.0*Peterson*Palmer*None*2:15*N*21,109*--*None
+Wednesday, Aug 10*boxscore*BAL*@*NYY*W*9*4*None*72-40*1*up11.0*Hall*Talbot*None*2:44*D*19,804*+*None
+Thursday, Aug 11*boxscore*BAL*@*NYY*W*6*5*11*73-40*1*up11.5*Brabender*Ramos*None*3:24*N*14,481*++*None
+Friday, Aug 12*boxscore*BAL*@*WSA*W*2*1*None*74-40*1*up12.0*Drabowsky*Richert*Fisher*2:21*D*None*+++*None
+Friday, Aug 12*boxscore*BAL*@*WSA*L*1*4*None*74-41*1*up12.0*Moore*Miller*Humphreys*2:39*N*22,470*-*None
+Saturday, Aug 13*boxscore*BAL*None*WSA*W*5*2*None*75-41*1*up12.0*Palmer*Ortega*Fisher*2:24*N*19,202*+*None
+Sunday, Aug 14*boxscore*BAL*@*WSA*W*6*0*None*76-41*1*up13.5*Watt*Kreutzer*Brabender*2:03*D*11,769*++*None
+Monday, Aug 15*boxscore*BAL*@*BOS*W*4*2*11*77-41*1*up13.5*Fisher*Wyatt*Hall*3:10*N*10,018*+++*None
+Tuesday, Aug 16*boxscore*BAL*@*BOS*W*6*4*None*78-41*1*up13.5*Miller*Brandon*None*2:35*N*17,131*++++*None
+Wednesday, Aug 17*boxscore*BAL*@*BOS*W*8*4*None*79-41*1*up13.5*Palmer*Santiago*Miller*2:42*D*15,328*+++++*None
+Friday, Aug 19*boxscore*BAL*@*DET*L*4*10*None*79-42*1*up12.5*Lolich*Brabender*None*2:39*N*35,504*-*None
+Saturday, Aug 20*boxscore*BAL*@*DET*W*8*3*None*80-42*1*up13.5*McNally*McLain*Fisher*2:31*D*21,235*+*None
+Sunday, Aug 21*boxscore*BAL*@*DET*L*4*9*None*80-43*1*up12.5*Wilson*Bunker*None*2:30*D*30,146*-*None
+Tuesday, Aug 23*boxscore*BAL*None*CLE*L*1*2*None*80-44*1*up12.5*McDowell*Palmer*None*2:23*N*22,578*--*None
+Wednesday, Aug 24*boxscore*BAL*None*CLE*L*4*10*None*80-45*1*up11.5*Siebert*Watt*Tiant*2:51*N*19,427*---*None
+Thursday, Aug 25*boxscore*BAL*None*CLE*W-wo*4*3*11*81-45*1*up11.5*Miller*Tiant*None*3:05*N*17,079*+*None
+Friday, Aug 26*boxscore*BAL*None*BOS*W-wo*3*2*12*82-45*1*up12.5*Drabowsky*Osinski*None*3:33*N*13,657*++*None
+Saturday, Aug 27*boxscore*BAL*None*BOS*L*2*3*None*82-46*1*up12.5*Lonborg*Bertaina*McMahon*2:56*N*23,790*-*None
+Sunday, Aug 28*boxscore*BAL*None*BOS*L*2*3*None*82-47*1*up12.5*Brandon*Fisher*Wyatt*2:50*D*12,220*--*None
+Monday, Aug 29*boxscore*BAL*None*DET*L*3*6*None*82-48*1*up11.5*McLain*McNally*None*3:09*N*22,941*---*None
+Tuesday, Aug 30*boxscore*BAL*None*DET*L*4*5*None*82-49*1*up10.5*Wilson*Watt*Pena*2:33*N*28,207*----*None
+Wednesday, Aug 31*boxscore*BAL*@*CLE*&V*5*1*None*83-49*1*up12.0*Miller*Tiant*Miller*3:15*N*18,771*+*None
+Thursday, Sep 1*boxscore*BAL*@*CLE*L*1*4*None*83-50*1*up11.0*Siebert*Palmer*None*2:18*N*16,476*-*None
+Friday, Sep 2*boxscore*BAL*@*CHW*L-wo*8*9*11*83-51*1*up 9.5*Higgins*Miller*None*3:15*N*9,151*--*None
+Saturday, Sep 3*boxscore*BAL*@*CHW*W*4*1*None*84-51*1*up 9.5*Bunker*Lamabe*Hall*2:09*D*9,294*+*None
+Sunday, Sep 4*boxscore*BAL*@*CHW*W*8*5*None*85-51*1*up 9.5*Drabowsky*Locker*Fisher*2:53*D*17,725*++*None
+Monday, Sep 5*boxscore*BAL*None*NYY*W-wo*5*4*None*86-51*1*up10.5*Fisher*Peterson*None*2:17*D*None*+++*None
+Monday, Sep 5*boxscore*BAL*None*NYY*W*7*4*None*87-51*1*up10.5*Hall*Downing*Fisher*2:55*D*36,832*++++*None
+Tuesday, Sep 6*boxscore*BAL*None*NYY*W*4*1*None*88-51*1*up10.5*McNally*Bouton*None*2:12*N*15,540*+++++*None
+Wednesday, Sep 7*boxscore*BAL*None*NYY*W*3*2*None*89-51*1*up10.5*Fisher*Stottlemyre*Miller*2:10*N*13,703*++++++*None
+Friday, Sep 9*boxscore*BAL*@*MIN*L*1*6*None*89-52*1*up10.5*Kaat*Watt*None*2:34*N*26,531*-*None
+Saturday, Sep 10*boxscore*BAL*@*MIN*L*2*7*None*89-53*1*up10.5*Merritt*Miller*None*2:22*D*21,259*--*None
+Sunday, Sep 11*boxscore*BAL*@*MIN*L*6*11*None*89-54*1*up10.0*Worthington*Miller*None*2:51*D*25,618*---*None
+Monday, Sep 12*boxscore*BAL*None*CAL*L*5*6*None*89-55*1*up 9.5*Rojas*Fisher*Lee*3:02*N*5,122*----*None
+Thursday, Sep 15*boxscore*BAL*None*CAL*W*2*0*None*90-55*1*up 9.5*Phoebus*Chance*None*2:12*D*None*+*None
+Thursday, Sep 15*boxscore*BAL*None*CAL*W-wo*4*3*None*91-55*1*up 9.5*Fisher*Kelso*None*2:31*N*7,617*++*1966-09-13 (Rain)
+Friday, Sep 16*boxscore*BAL*None*CHW*L*0*4*None*91-56*1*up 8.5*Horlen*McNally*None*2:35*N*14,326*-*None
+Saturday, Sep 17*boxscore*BAL*None*CHW*L*1*3*None*91-57*1*up 8.5*John*Palmer*None*2:17*D*11,007*--*None
+Sunday, Sep 18*boxscore*BAL*None*CHW*L*3*4*None*91-58*1*up 8.5*Howard*Bunker*Wilhelm*3:00*D*12,036*---*None
+Monday, Sep 19*boxscore*BAL*None*CAL*W*11*9*None*92-58*1*up 9.0*Drabowsky*Sanford*None*2:53*D*2,280*+*1966-09-14 (Rain)
+Tuesday, Sep 20*boxscore*BAL*@*KCA*W*4*0*None*93-58*1*up 9.5*Phoebus*Hunter*None*2:19*N*10,828*++*None
+Wednesday, Sep 21*boxscore*BAL*@*KCA*W*10*8*None*94-58*1*up 9.5*Miller*Stock*Fisher*3:05*N*12,021*+++*None
+Thursday, Sep 22*boxscore*BAL*@*KCA*W*6*1*None*95-58*1*up10.0*Palmer*Krausse*None*2:30*D*5,250*++++*None
+Friday, Sep 23*boxscore*BAL*@*CAL*L*0*2*None*95-59*1*up10.0*Lopez*Bertaina*None*1:58*N*17,874*-*None
+Saturday, Sep 24*boxscore*BAL*@*CAL*W*6*3*None*96-59*1*up10.0*Bunker*Wright*Drabowsky*2:18*N*22,540*+*None
+Sunday, Sep 25*boxscore*BAL*@*CAL*L*1*6*None*96-60*1*up10.0*Chance*Phoebus*None*2:07*D*14,785*-*None
+Friday, Sep 30*boxscore*BAL*None*MIN*L*7*10*None*96-61*1*up 9.0*Grant*McNally*Worthington*2:33*D*None*--*None
+Friday, Sep 30*boxscore*BAL*None*MIN*L*2*8*None*96-62*1*up 9.0*Merritt*Palmer*None*2:14*N*12,260*---*1966-04-28 (Rain)
+Sunday, Oct 2*boxscore*BAL*None*MIN*W*6*2*None*97-62*1*up 9.0*Bertaina*Kaat*Drabowsky*2:34*D*None*+*None
+Sunday, Oct 2*boxscore*BAL*None*MIN*L*0*1*None*97-63*1*up 9.0*Perry*Watt*Worthington*2:08*N*13,340*-*1966-10-01 (Rain)

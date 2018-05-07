@@ -1,0 +1,162 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Saturday, Apr 10*boxscore*CIN*None*HOU*W*13*7*None*2-0*1*up 0.5*Billingham*Dierker*Eastwick*2:40*D*16,728*++*None
+Sunday, Apr 11*boxscore*CIN*None*HOU*W*9*3*None*3-0*1*up 0.5*Darcy*Niekro*None*2:45*D*53,390*+++*None
+Tuesday, Apr 13*boxscore*CIN*@*ATL*W*6*1*None*4-0*1*up 2.0*Norman*Torrealba*None*2:42*N*37,973*++++*None
+Thursday, Apr 15*boxscore*CIN*@*ATL*L*5*10*None*4-1*1*up 1.0*Niekro*Billingham*None*2:27*N*15,716*-*None
+Friday, Apr 16*boxscore*CIN*None*SFG*L*7*14*None*4-2*1* Tied*Barr*Darcy*None*2:51*N*37,147*--*None
+Saturday, Apr 17*boxscore*CIN*None*SFG*W*11*0*None*5-2*1*up 0.5*Norman*Halicki*None*2:20*D*21,219*+*None
+Sunday, Apr 18*boxscore*CIN*None*SFG*L*1*5*None*5-3*1* Tied*Montefusco*Nolan*Lavelle*2:45*D*23,701*-*None
+Tuesday, Apr 20*boxscore*CIN*None*SDP*L*5*7*None*5-4*2* 0.5*Metzger*McEnaney*None*2:36*N*18,126*--*None
+Wednesday, Apr 21*boxscore*CIN*None*SDP*W*5*4*None*6-4*2* 0.5*Norman*Wehrmeister*Eastwick*2:15*D*16,603*+*None
+Friday, Apr 23*boxscore*CIN*@*MON*L*4*5*None*6-5*3* 1.0*Stanhouse*Billingham*None*2:32*D*5,306*-*None
+Saturday, Apr 24*boxscore*CIN*@*MON*W*6*4*11*7-5*1* Tied*Eastwick*Carrithers*None*2:39*D*11,190*+*None
+Sunday, Apr 25*boxscore*CIN*@*MON*W*7*0*None*8-5*1* Tied*Gullett*Renko*Darcy*2:14*D*8,095*++*None
+Monday, Apr 26*boxscore*CIN*@*PHI*L*9*10*None*8-6*1* Tied*McGraw*Eastwick*None*2:22*N*16,565*-*None
+Tuesday, Apr 27*boxscore*CIN*@*PHI*W*7*3*None*9-6*1*up 1.0*Billingham*Underwood*None*2:53*N*17,818*+*None
+Wednesday, Apr 28*boxscore*CIN*@*PHI*L*6*7*None*9-7*1*up 0.5*Lonborg*Darcy*McGraw*2:28*N*20,215*-*None
+Friday, Apr 30*boxscore*CIN*None*MON*W*7*2*None*10-7*1*up 1.0*Nolan*Warthen*None*2:11*N*20,166*+*None
+Saturday, May 1*boxscore*CIN*None*MON*W*6*1*None*11-7*1*up 1.0*Gullett*Carrithers*None*2:20*D*28,138*++*None
+Sunday, May 2*boxscore*CIN*None*MON*L*4*8*16*11-8*1* Tied*Stanhouse*Darcy*None*4:27*D*49,285*-*None
+Tuesday, May 4*boxscore*CIN*@*NYM*L*3*5*None*11-9*2* 1.0*Seaver*Norman*Lockwood*2:46*N*18,528*--*None
+Wednesday, May 5*boxscore*CIN*@*NYM*W*2*0*11*12-9*2* 1.0*Eastwick*Hall*None*2:54*N*19,121*+*None
+Thursday, May 6*boxscore*CIN*@*NYM*L*2*4*None*12-10*2* 1.5*Swan*Gullett*Lockwood*2:24*D*11,205*-*None
+Friday, May 7*boxscore*CIN*@*CHC*W*3*1*None*13-10*2* 1.5*Billingham*Frailing*Eastwick*2:51*D*5,219*+*None
+Saturday, May 8*boxscore*CIN*@*CHC*W*14*4*None*14-10*2* 0.5*Alcala*Reuschel*None*2:44*D*22,017*++*None
+Sunday, May 9*boxscore*CIN*@*CHC*W*14*2*None*15-10*1*up 0.5*Zachry*Burris*None*2:36*D*21,536*+++*None
+Tuesday, May 11*boxscore*CIN*None*PIT*W*6*0*None*16-10*1* Tied*Nolan*Kison*None*2:21*N*26,850*++++*None
+Wednesday, May 12*boxscore*CIN*None*PIT*L*3*6*None*16-11*2* 1.0*Rooker*Gullett*None*2:29*N*26,053*-*None
+Friday, May 14*boxscore*CIN*None*NYM*W*5*1*None*17-11*2* 1.0*Billingham*Lolich*None*2:03*N*36,057*+*None
+Saturday, May 15*boxscore*CIN*None*NYM*W*2*0*None*18-11*1* Tied*Alcala*Seaver*None*2:13*N*34,186*++*None
+Sunday, May 16*boxscore*CIN*None*NYM*L*5*7*None*18-12*2* 0.5*Matlack*Nolan*None*2:36*D*None*-*None
+Sunday, May 16*boxscore*CIN*None*NYM*W*8*1*None*19-12*2* 0.5*Gullett*Swan*Darcy*2:25*D*45,148*+*None
+Monday, May 17*boxscore*CIN*@*LAD*W*5*3*None*20-12*1*up 0.5*Zachry*Sutton*Eastwick*2:33*N*53,652*++*None
+Tuesday, May 18*boxscore*CIN*@*LAD*L*0*5*None*20-13*2* 0.5*Rhoden*Billingham*None*2:22*N*52,469*-*None
+Wednesday, May 19*boxscore*CIN*@*SFG*W*5*4*None*21-13*2* 0.5*Alcala*Montefusco*Eastwick*2:25*N*23,591*+*None
+Thursday, May 20*boxscore*CIN*@*SFG*L*5*6*None*21-14*2* 1.5*Heaverlo*McEnaney*Lavelle*2:38*D*6,439*-*None
+Friday, May 21*boxscore*CIN*@*SDP*L*2*4*None*21-15*2* 2.5*Jones*Nolan*None*1:39*N*40,549*--*None
+Saturday, May 22*boxscore*CIN*@*SDP*W*3*2*None*22-15*2* 2.5*Zachry*Foster*None*2:20*N*46,016*+*None
+Sunday, May 23*boxscore*CIN*@*SDP*W*11*0*None*23-15*2* 2.5*Billingham*Strom*None*2:16*D*29,259*++*None
+Tuesday, May 25*boxscore*CIN*None*ATL*W*10*4*None*24-15*2* 1.0*Alcala*Morton*Borbon*2:35*N*20,037*+++*None
+Wednesday, May 26*boxscore*CIN*None*ATL*L*3*4*None*24-16*2* 2.0*Leon*Eastwick*None*2:35*D*25,679*-*None
+Friday, May 28*boxscore*CIN*None*LAD*W*9*0*None*25-16*2* 1.0*Zachry*Sutton*None*2:15*N*35,197*+*None
+Saturday, May 29*boxscore*CIN*None*LAD*W-wo*6*5*None*26-16*1* Tied*Eastwick*Marshall*None*2:35*D*40,112*++*None
+Sunday, May 30*boxscore*CIN*None*LAD*L*5*6*None*26-17*1* Tied*Hough*Eastwick*None*3:10*D*None*-*None
+Sunday, May 30*boxscore*CIN*None*LAD*W*7*2*None*27-17*1* Tied*Alcala*Hooton*McEnaney*2:20*D*51,211*+*None
+Monday, May 31*boxscore*CIN*@*HOU*W*4*2*None*28-17*1*up 1.0*Darcy*Richard*Eastwick*2:50*N*21,338*++*None
+Tuesday, Jun 1*boxscore*CIN*@*HOU*L*1*2*None*28-18*1*up 1.0*Andujar*Zachry*None*2:07*N*13,435*-*None
+Wednesday, Jun 2*boxscore*CIN*@*HOU*W*8*7*None*29-18*1*up 1.0*McEnaney*Forsch*None*3:20*N*13,476*+*None
+Thursday, Jun 3*boxscore*CIN*@*HOU*L*3*5*None*29-19*1* Tied*Dierker*Alcala*Forsch*2:30*N*11,786*-*None
+Friday, Jun 4*boxscore*CIN*@*STL*W*11*2*None*30-19*1*up 1.0*Nolan*McGlothen*None*2:48*N*23,239*+*None
+Saturday, Jun 5*boxscore*CIN*@*STL*W*5*1*None*31-19*1*up 2.0*Gullett*Denny*None*2:27*N*34,159*++*None
+Sunday, Jun 6*boxscore*CIN*@*STL*W*13*2*None*32-19*1*up 2.0*Zachry*Falcone*None*2:26*D*31,331*+++*None
+Monday, Jun 7*boxscore*CIN*@*PIT*L*4*5*None*32-20*1*up 2.0*Moose*McEnaney*Giusti*2:10*N*16,001*-*None
+Tuesday, Jun 8*boxscore*CIN*@*PIT*W*10*5*None*33-20*1*up 3.0*Alcala*Rooker*McEnaney*2:47*N*17,331*+*None
+Wednesday, Jun 9*boxscore*CIN*@*PIT*W*6*1*None*34-20*1*up 3.0*Nolan*Reuss*None*2:07*N*18,127*++*None
+Thursday, Jun 10*boxscore*CIN*@*PIT*W*6*1*None*35-20*1*up 4.0*Gullett*Medich*None*2:20*N*17,280*+++*None
+Friday, Jun 11*boxscore*CIN*None*STL*W-wo*8*7*None*36-20*1*up 4.0*Eastwick*Hrabosky*None*2:30*N*44,416*++++*None
+Saturday, Jun 12*boxscore*CIN*None*STL*L*4*5*None*36-21*1*up 3.0*Falcone*Billingham*Greif*2:46*N*51,227*-*None
+Sunday, Jun 13*boxscore*CIN*None*STL*W*4*0*None*37-21*1*up 2.5*Norman*Curtis*McEnaney*2:30*D*None*+*None
+Sunday, Jun 13*boxscore*CIN*None*STL*L*9*12*None*37-22*1*up 2.5*Forsch*Alcala*None*2:45*D*51,617*-*None
+Monday, Jun 14*boxscore*CIN*None*CHC*W-wo*3*2*None*38-22*1*up 3.0*Nolan*Zamora*None*2:17*N*24,327*+*None
+Tuesday, Jun 15*boxscore*CIN*None*CHC*W*6*4*None*39-22*1*up 4.0*Gullett*Knowles*Eastwick*2:45*N*27,404*++*None
+Wednesday, Jun 16*boxscore*CIN*None*CHC*L*3*5*7*39-23*1*up 3.0*Bonham*Zachry*None*2:09*D*30,658*-*None
+Friday, Jun 18*boxscore*CIN*@*PHI*L*5*6*None*39-24*1*up 2.5*Lonborg*Billingham*Garber*2:23*N*50,635*--*None
+Saturday, Jun 19*boxscore*CIN*@*PHI*W*4*3*None*40-24*1*up 3.5*Nolan*Reed*Eastwick*2:29*N*36,808*+*None
+Sunday, Jun 20*boxscore*CIN*@*PHI*L*1*6*None*40-25*1*up 3.5*Kaat*Gullett*None*2:17*D*38,669*-*None
+Monday, Jun 21*boxscore*CIN*None*LAD*W*3*1*None*41-25*1*up 4.5*Zachry*Rau*None*2:08*N*36,769*+*None
+Tuesday, Jun 22*boxscore*CIN*None*LAD*W*6*0*None*42-25*1*up 5.0*Norman*Sutton*None*2:02*N*39,048*++*None
+Wednesday, Jun 23*boxscore*CIN*None*PHI*L*2*4*None*42-26*1*up 4.5*Reed*Borbon*Garber*2:12*N*35,266*-*None
+Thursday, Jun 24*boxscore*CIN*None*PHI*L*4*5*None*42-27*1*up 3.5*Kaat*Nolan*McGraw*2:10*N*34,053*--*None
+Friday, Jun 25*boxscore*CIN*@*HOU*W*8*6*None*43-27*1*up 4.5*Borbon*Griffin*McEnaney*2:45*N*44,988*+*None
+Saturday, Jun 26*boxscore*CIN*@*HOU*L*0*3*None*43-28*1*up 4.5*Andujar*Zachry*None*2:26*N*31,039*-*None
+Sunday, Jun 27*boxscore*CIN*@*HOU*W*4*2*None*44-28*1*up 4.5*Norman*Richard*Eastwick*2:33*D*24,234*+*None
+Monday, Jun 28*boxscore*CIN*@*SDP*W*7*3*None*45-28*1*up 4.5*Alcala*Foster*Borbon*2:42*N*15,435*++*None
+Tuesday, Jun 29*boxscore*CIN*@*SDP*W*12*5*14*46-28*1*up 4.5*Zachry*Spillner*None*4:04*N*22,107*+++*None
+Wednesday, Jun 30*boxscore*CIN*@*SDP*L*1*3*None*46-29*1*up 4.5*Jones*Billingham*None*1:49*N*32,475*-*None
+Friday, Jul 2*boxscore*CIN*None*HOU*L*8*10*14*46-30*1*up 4.5*Pentz*Hinton*None*4:05*D*None*--*None
+Friday, Jul 2*boxscore*CIN*None*HOU*L*2*3*None*46-31*1*up 4.5*Andujar*Norman*None*2:10*N*38,357*---*None
+Saturday, Jul 3*boxscore*CIN*None*HOU*W*9*8*None*47-31*1*up 4.5*Borbon*Niekro*None*2:55*N*45,277*+*None
+Sunday, Jul 4*boxscore*CIN*None*HOU*W*7*2*None*48-31*1*up 5.5*Nolan*Dierker*None*2:30*D*28,090*++*None
+Monday, Jul 5*boxscore*CIN*@*MON*W*11*2*None*49-31*1*up 5.5*Billingham*Lang*None*2:34*N*14,331*+++*None
+Tuesday, Jul 6*boxscore*CIN*@*MON*W*10*7*None*50-31*1*up 5.5*Eastwick*Kirby*Gullett*2:50*N*14,026*++++*None
+Wednesday, Jul 7*boxscore*CIN*@*MON*W*4*3*None*51-31*1*up 5.5*Hinton*Rogers*McEnaney*2:07*N*7,105*+++++*None
+Friday, Jul 9*boxscore*CIN*None*PIT*W-wo*12*11*10*52-31*1*up 7.0*Eastwick*Demery*None*3:10*N*None*++++++*None
+Friday, Jul 9*boxscore*CIN*None*PIT*W*2*1*None*53-31*1*up 7.0*Norman*Medich*None*2:24*N*53,328*+++++++*None
+Saturday, Jul 10*boxscore*CIN*None*PIT*L*1*7*None*53-32*1*up 7.0*Candelaria*Billingham*None*2:07*D*50,756*-*None
+Sunday, Jul 11*boxscore*CIN*None*PIT*L*5*8*None*53-33*1*up 6.0*Tekulve*Borbon*Reuss*2:45*D*47,153*--*None
+Thursday, Jul 15*boxscore*CIN*None*MON*L*3*4*None*53-34*1*up 5.0*Rogers*McEnaney*Murray*2:24*N*25,047*---*None
+Friday, Jul 16*boxscore*CIN*None*MON*W-wo*4*3*10*54-34*1*up 5.0*Eastwick*Murray*None*3:20*N*42,501*+*None
+Saturday, Jul 17*boxscore*CIN*None*MON*W*4*1*None*55-34*1*up 5.0*Alcala*Fryman*None*1:54*N*51,049*++*None
+Sunday, Jul 18*boxscore*CIN*@*PIT*W*9*8*None*56-34*1*up 6.0*Billingham*Medich*Eastwick*2:43*D*33,697*+++*None
+Monday, Jul 19*boxscore*CIN*@*PIT*W*4*2*None*57-34*1*up 7.0*Zachry*Rooker*None*2:19*N*26,585*++++*None
+Tuesday, Jul 20*boxscore*CIN*None*NYM*L*1*2*None*57-35*1*up 6.0*Koosman*Nolan*None*2:02*N*37,020*-*None
+Wednesday, Jul 21*boxscore*CIN*None*NYM*W*4*0*None*58-35*1*up 6.0*Norman*Matlack*None*2:16*N*31,841*+*None
+Friday, Jul 23*boxscore*CIN*@*ATL*W*3*1*None*59-35*1*up 6.5*Alcala*Niekro*None*2:28*N*27,423*++*None
+Saturday, Jul 24*boxscore*CIN*@*ATL*L*4*5*None*59-36*1*up 7.0*Marshall*Hinton*None*2:15*N*None*-*None
+Saturday, Jul 24*boxscore*CIN*@*ATL*W*6*3*None*60-36*1*up 7.0*Gullett*LaCorte*Billingham*2:59*N*50,419*+*None
+Sunday, Jul 25*boxscore*CIN*@*ATL*W*7*6*None*61-36*1*up 7.0*Nolan*Dal Canton*Eastwick*2:32*N*19,192*++*None
+Monday, Jul 26*boxscore*CIN*None*SFG*W*9*3*None*62-36*1*up 7.0*Norman*Montefusco*None*2:28*N*27,656*+++*None
+Tuesday, Jul 27*boxscore*CIN*None*SFG*L*4*9*None*62-37*1*up 6.5*Barr*Billingham*None*2:17*N*26,046*-*None
+Wednesday, Jul 28*boxscore*CIN*None*SFG*L*0*7*None*62-38*1*up 6.5*D'Acquisto*Alcala*None*2:43*N*28,053*--*None
+Thursday, Jul 29*boxscore*CIN*None*SDP*W*9*3*None*63-38*1*up 7.0*Zachry*Freisleben*Eastwick*2:22*N*30,073*+*None
+Friday, Jul 30*boxscore*CIN*None*SDP*W*13*8*None*64-38*1*up 8.5*Sarmiento*Spillner*Borbon*2:47*N*None*++*None
+Friday, Jul 30*boxscore*CIN*None*SDP*W*4*2*None*65-38*1*up 8.5*Nolan*Folkers*None*2:06*N*47,121*+++*None
+Saturday, Jul 31*boxscore*CIN*None*SDP*W*12*1*None*66-38*1*up 9.5*Norman*Strom*None*2:12*N*46,948*++++*None
+Sunday, Aug 1*boxscore*CIN*None*SDP*W*5*4*None*67-38*1*up 9.0*Alcala*Jones*Eastwick*2:01*D*47,456*+++++*None
+Monday, Aug 2*boxscore*CIN*@*SFG*W*5*1*None*68-38*1*up 9.0*McEnaney*D'Acquisto*None*2:08*N*6,502*++++++*None
+Tuesday, Aug 3*boxscore*CIN*@*SFG*W*9*0*None*69-38*1*up 9.0*Billingham*Caldwell*None*2:10*N*6,994*+++++++*None
+Wednesday, Aug 4*boxscore*CIN*@*SFG*L*1*4*None*69-39*1*up 9.0*Montefusco*Nolan*Moffitt*2:22*D*10,054*-*None
+Thursday, Aug 5*boxscore*CIN*@*LAD*W*3*2*None*70-39*1*up10.0*Norman*Sutton*None*2:26*N*46,095*+*None
+Friday, Aug 6*boxscore*CIN*@*LAD*W*7*4*None*71-39*1*up11.0*Eastwick*Rhoden*None*2:51*N*48,627*++*None
+Saturday, Aug 7*boxscore*CIN*@*LAD*W*4*1*None*72-39*1*up12.0*Zachry*John*McEnaney*2:58*N*49,655*+++*None
+Sunday, Aug 8*boxscore*CIN*@*LAD*W*3*2*None*73-39*1*up13.0*Billingham*Hooton*Eastwick*2:04*D*43,184*++++*None
+Tuesday, Aug 10*boxscore*CIN*@*CHC*L*3*6*None*73-40*1*up12.5*Burris*Nolan*Sutter*2:04*D*25,050*-*None
+Wednesday, Aug 11*boxscore*CIN*@*CHC*W*13*10*10*74-40*1*up12.5*Zachry*Knowles*None*3:21*D*22,884*+*None
+Thursday, Aug 12*boxscore*CIN*@*CHC*W*8*3*None*75-40*1*up13.0*Sarmiento*Sutter*Eastwick*2:36*D*17,863*++*None
+Friday, Aug 13*boxscore*CIN*@*NYM*W*7*3*None*76-40*1*up13.5*Billingham*Lolich*Eastwick*2:28*N*32,970*+++*None
+Saturday, Aug 14*boxscore*CIN*@*NYM*L*1*2*None*76-41*1*up13.5*Espinosa*Zachry*Lockwood*2:22*D*27,029*-*None
+Sunday, Aug 15*boxscore*CIN*@*NYM*L*0*1*None*76-42*1*up12.5*Koosman*Nolan*None*1:52*D*30,327*--*None
+Monday, Aug 16*boxscore*CIN*None*ATL*L*3*4*None*76-43*1*up12.0*Morton*Norman*Devine*2:27*N*30,276*---*None
+Tuesday, Aug 17*boxscore*CIN*None*ATL*L*2*3*None*76-44*1*up11.0*Devine*Sarmiento*None*2:38*N*30,890*----*None
+Wednesday, Aug 18*boxscore*CIN*None*ATL*W*4*1*None*77-44*1*up11.0*Billingham*Ruthven*None*2:03*N*29,065*+*None
+Thursday, Aug 19*boxscore*CIN*None*ATL*W-wo*3*2*11*78-44*1*up11.0*Borbon*Devine*None*2:59*N*29,718*++*None
+Friday, Aug 20*boxscore*CIN*None*CHC*W*4*3*None*79-44*1*up11.0*Nolan*Burris*Eastwick*2:14*N*36,677*+++*None
+Saturday, Aug 21*boxscore*CIN*None*CHC*L*2*3*None*79-45*1*up10.0*Reuschel*Norman*Sutter*2:13*N*48,781*-*None
+Sunday, Aug 22*boxscore*CIN*None*CHC*W*4*3*None*80-45*1*up11.0*Sarmiento*Coleman*Eastwick*2:20*D*40,018*+*None
+Monday, Aug 23*boxscore*CIN*None*STL*L*5*9*None*80-46*1*up10.0*Denny*Billingham*None*2:49*N*30,029*-*None
+Tuesday, Aug 24*boxscore*CIN*None*STL*L*1*4*None*80-47*1*up 9.0*Falcone*Zachry*None*2:25*N*30,840*--*None
+Thursday, Aug 26*boxscore*CIN*None*PHI*L*4*5*13*80-48*1*up 8.0*McGraw*Eastwick*None*2:56*N*38,094*---*None
+Friday, Aug 27*boxscore*CIN*None*PHI*W*4*1*None*81-48*1*up 8.0*Norman*Underwood*Borbon*2:19*N*49,821*+*None
+Saturday, Aug 28*boxscore*CIN*None*PHI*W-wo*8*7*None*82-48*1*up 9.0*Eastwick*McGraw*None*3:15*D*51,091*++*None
+Sunday, Aug 29*boxscore*CIN*None*PHI*W-wo*6*5*15*83-48*1*up 9.0*Alcala*Kaat*None*4:15*D*51,376*+++*None
+Monday, Aug 30*boxscore*CIN*@*STL*L*1*7*None*83-49*1*up 8.5*Denny*McEnaney*None*2:12*N*20,915*-*None
+Tuesday, Aug 31*boxscore*CIN*@*STL*W*6*5*None*84-49*1*up 8.5*Borbon*Falcone*Eastwick*2:29*N*14,685*+*None
+Wednesday, Sep 1*boxscore*CIN*@*STL*L-wo*0*1*11*84-50*1*up 8.0*Hrabosky*Eastwick*None*2:40*N*11,209*-*None
+Friday, Sep 3*boxscore*CIN*@*ATL*W*10*5*None*85-50*1*up 7.0*Eastwick*Devine*None*2:38*N*8,140*+*None
+Saturday, Sep 4*boxscore*CIN*@*ATL*W*5*1*None*86-50*1*up 8.0*Zachry*LaCorte*None*2:21*N*15,252*++*None
+Sunday, Sep 5*boxscore*CIN*@*ATL*W*6*4*None*87-50*1*up 8.0*Sarmiento*Ruthven*Borbon*2:31*D*14,103*+++*None
+Monday, Sep 6*boxscore*CIN*None*HOU*W*9*8*None*88-50*1*up 8.0*Sarmiento*Richard*None*2:56*N*22,912*++++*None
+Tuesday, Sep 7*boxscore*CIN*None*HOU*L*5*10*None*88-51*1*up 8.0*Sambito*Borbon*Forsch*2:22*N*19,026*-*None
+Wednesday, Sep 8*boxscore*CIN*@*HOU*W*3*0*None*89-51*1*up 9.0*Nolan*McLaughlin*Eastwick*2:00*N*9,525*+*None
+Thursday, Sep 9*boxscore*CIN*@*HOU*W*4*3*11*90-51*1*up10.0*Eastwick*Forsch*McEnaney*3:13*N*8,945*++*None
+Friday, Sep 10*boxscore*CIN*@*SFG*W*4*1*None*91-51*1*up10.5*Gullett*Knepper*Eastwick*2:38*N*15,828*+++*None
+Saturday, Sep 11*boxscore*CIN*@*SFG*W*8*5*None*92-51*1*up11.0*Henderson*Lavelle*Borbon*2:52*D*6,900*++++*None
+Sunday, Sep 12*boxscore*CIN*@*SFG*L*1*3*None*92-52*1*up11.0*Barr*Norman*None*1:50*D*None*-*None
+Sunday, Sep 12*boxscore*CIN*@*SFG*W*9*8*11*93-52*1*up11.0*Henderson*Toms*Eastwick*3:45*N*26,023*+*None
+Tuesday, Sep 14*boxscore*CIN*None*LAD*L*0*9*None*93-53*1*up10.0*John*Nolan*None*2:18*N*30,009*-*None
+Wednesday, Sep 15*boxscore*CIN*None*LAD*W*4*3*None*94-53*1*up11.0*Zachry*Downing*Eastwick*2:20*N*30,083*+*None
+Thursday, Sep 16*boxscore*CIN*None*LAD*W*4*2*None*95-53*1*up12.0*Gullett*Rau*None*2:15*N*30,371*++*None
+Friday, Sep 17*boxscore*CIN*None*SFG*L*2*4*None*95-54*1*up11.5*Barr*Billingham*Moffitt*2:06*N*29,522*-*None
+Saturday, Sep 18*boxscore*CIN*None*SFG*L*0*5*None*95-55*1*up11.5*Lavelle*Norman*None*2:28*N*40,667*--*None
+Sunday, Sep 19*boxscore*CIN*None*SFG*W*5*2*None*96-55*1*up11.5*Nolan*Montefusco*Eastwick*2:05*D*38,099*+*None
+Tuesday, Sep 21*boxscore*CIN*None*SDP*W*9*1*None*97-55*1*up11.5*Zachry*Johnson*None*2:36*N*20,084*++*None
+Wednesday, Sep 22*boxscore*CIN*None*SDP*W*4*3*None*98-55*1*up11.5*Gullett*Strom*Eastwick*2:06*N*17,669*+++*None
+Friday, Sep 24*boxscore*CIN*@*LAD*L-wo*6*7*None*98-56*1*up10.0*Hough*McEnaney*None*2:43*N*28,386*-*None
+Saturday, Sep 25*boxscore*CIN*@*LAD*W*4*3*None*99-56*1*up11.0*Nolan*Sosa*Borbon*2:11*N*27,982*+*None
+Sunday, Sep 26*boxscore*CIN*@*LAD*L*1*2*None*99-57*1*up10.0*Rau*Zachry*Hough*2:10*D*30,094*-*None
+Monday, Sep 27*boxscore*CIN*@*SDP*L*3*5*None*99-58*1*up 9.0*Griffin*Alcala*None*2:19*N*8,230*--*None
+Tuesday, Sep 28*boxscore*CIN*@*SDP*W*5*4*None*100-58*1*up10.0*Billingham*Sawyer*Eastwick*2:33*N*13,209*+*None
+Wednesday, Sep 29*boxscore*CIN*@*SDP*L*1*6*None*100-59*1*up 9.0*Strom*Norman*None*1:46*N*25,637*-*None
+Friday, Oct 1*boxscore*CIN*None*ATL*W*5*2*None*101-59*1*up 9.0*Nolan*Ruthven*None*2:25*N*20,647*+*None
+Saturday, Oct 2*boxscore*CIN*None*ATL*L*0*3*None*101-60*1*up 9.0*Niekro*Zachry*None*2:06*D*30,091*-*None
+Sunday, Oct 3*boxscore*CIN*None*ATL*W*11*1*None*102-60*1*up10.0*Gullett*LaCorte*None*2:33*D*47,313*+*None

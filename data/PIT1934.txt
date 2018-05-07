@@ -1,0 +1,151 @@
+date*boxscore*team*home_or_away*opponent*win_or_loss*runs*runs_allowed*innings*win_loss_record*rank*games_behind*win*loss*save*time*day_or_night*attendance*streak*originally_scheduled
+Wednesday, Apr 18*boxscore*PIT*@*STL*W*7*6*None*1-1*3* 1.0*French*Grimes*Chagnon*None*D*None*+*None
+Thursday, Apr 19*boxscore*PIT*@*STL*W*14*4*None*2-1*3* 1.0*Birkofer*Hallahan*None*2:35*D*None*++*None
+Saturday, Apr 21*boxscore*PIT*@*CIN*L*3*8*None*2-2*4* 2.5*Stout*Swift*Shaute*2:01*D*None*-*None
+Sunday, Apr 22*boxscore*PIT*@*CIN*W*5*4*None*3-2*4* 2.0*Smith*Shaute*None*1:51*D*None*+*None
+Tuesday, Apr 24*boxscore*PIT*None*STL*W*5*4*None*4-2*3* 2.0*Chagnon*Haines*None*2:25*D*15,000*++*None
+Thursday, Apr 26*boxscore*PIT*None*STL*L*1*10*None*4-3*4* 2.5*Hallahan*Birkofer*None*2:08*D*None*-*None
+Saturday, Apr 28*boxscore*PIT*None*CIN*L*4*7*None*4-4*4* 4.0*Frey*Swift*Derringer*2:12*D*None*--*None
+Sunday, Apr 29*boxscore*PIT*None*CIN*W*9*5*None*5-4*4* 3.0*Lucas*Shaute*None*2:08*D*20,000*+*None
+Monday, Apr 30*boxscore*PIT*None*CHC*L*6*8*12*5-5*4* 4.0*Bush*French*None*None*D*None*-*None
+Tuesday, May 1*boxscore*PIT*None*CHC*W*4*1*None*6-5*3* 3.0*Birkofer*Root*None*None*D*None*+*None
+Wednesday, May 2*boxscore*PIT*None*CHC*W*4*2*None*7-5*3* 2.5*Meine*Warneke*None*None*D*None*++*None
+Thursday, May 3*boxscore*PIT*None*NYG*L*3*5*None*7-6*3* 3.5*Bell*Smith*None*None*D*None*-*None
+Friday, May 4*boxscore*PIT*None*NYG*W*4*3*None*8-6*3* 2.5*Lucas*Hubbell*None*None*D*None*+*None
+Saturday, May 5*boxscore*PIT*None*NYG*W*6*3*None*9-6*3* 1.5*Birkofer*Fitzsimmons*None*None*D*None*++*None
+Sunday, May 6*boxscore*PIT*None*BRO*W*8*5*None*10-6*3* 1.5*Meine*Leonard*Hoyt*2:29*D*12,000*+++*None
+Monday, May 7*boxscore*PIT*None*BRO*W*7*6*10*11-6*3* 1.5*Chagnon*Leonard*None*None*D*None*++++*None
+Tuesday, May 8*boxscore*PIT*None*BRO*W*5*2*None*12-6*2* 0.5*Swift*Mungo*None*None*D*None*+++++*None
+Wednesday, May 9*boxscore*PIT*None*PHI*L*2*6*None*12-7*3* 1.0*Davis*Lucas*None*1:48*D*None*-*None
+Friday, May 11*boxscore*PIT*None*PHI*W*6*4*10*13-7*2* 0.5*Hoyt*Collins*None*2:29*D*None*+*None
+Saturday, May 12*boxscore*PIT*None*PHI*W*11*6*None*14-7*2* 0.5*Chagnon*Holley*Hoyt*2:08*D*None*++*None
+Sunday, May 13*boxscore*PIT*None*BSN*W*9*2*None*15-7*2* 0.5*Smith*Brandt*None*2:00*D*14,000*+++*None
+Thursday, May 17*boxscore*PIT*@*BRO*L*1*2*10*15-8*2* 1.5*Mungo*Swift*None*None*D*None*-*None
+Friday, May 18*boxscore*PIT*@*BRO*W*8*3*None*16-8*2* 1.5*Birkofer*Perkins*French*None*D*None*+*None
+Saturday, May 19*boxscore*PIT*@*BRO*L*5*8*None*16-9*2* 1.5*Herring*Lucas*None*None*D*None*-*None
+Sunday, May 20*boxscore*PIT*@*PHI*L*4*16*None*16-10*3* 1.5*Davis*Smith*Hansen*2:14*D*None*--*None
+Monday, May 21*boxscore*PIT*@*PHI*W*11*4*None*17-10*2* 1.5*French*Pearce*None*1:56*D*None*+*None
+Tuesday, May 22*boxscore*PIT*@*PHI*W*13*4*7*18-10*2* 0.5*Birkofer*Darrow*None*1:42*D*None*++*None
+Wednesday, May 23*boxscore*PIT*@*BSN*L*1*6*None*18-11*2* 0.5*Frankhouse*Meine*None*1:42*D*None*-*None
+Thursday, May 24*boxscore*PIT*@*BSN*W*7*3*None*19-11*1*up 0.5*Swift*Brandt*None*2:01*D*None*+*None
+Sunday, May 27*boxscore*PIT*@*NYG*W*7*3*None*20-11*1*up 0.5*Lucas*Smith*None*2:19*D*35,000*++*None
+Monday, May 28*boxscore*PIT*@*NYG*L*2*3*11*20-12*2* 1.0*Luque*French*None*None*D*None*-*None
+Monday, May 28*boxscore*PIT*@*NYG*L*0*1*None*20-13*2* 1.0*Hubbell*Birkofer*None*None*D*None*--*1934-05-26 (Rain)
+Wednesday, May 30*boxscore*PIT*@*CHC*L*2*7*None*20-14*4* 3.0*Warneke*Meine*None*2:05*D*None*---*None
+Wednesday, May 30*boxscore*PIT*@*CHC*L*4*5*11*20-15*4* 3.0*Root*French*None*2:47*D*40,000*----*None
+Thursday, May 31*boxscore*PIT*@*CHC*L*5*11*None*20-16*4* 4.0*Bush*Swift*None*None*D*None*-----*None
+Friday, Jun 1*boxscore*PIT*None*STL*W*4*3*None*21-16*4* 3.0*Hoyt*Hallahan*None*2:07*D*None*+*None
+Saturday, Jun 2*boxscore*PIT*None*STL*L*4*13*None*21-17*5* 3.0*Dean*Lucas*None*None*D*None*-*None
+Saturday, Jun 2*boxscore*PIT*None*STL*W*6*3*None*22-17*5* 3.0*French*Winford*None*2:09*D*None*+*1934-04-25 (Cold)
+Sunday, Jun 3*boxscore*PIT*None*STL*W*4*2*None*23-17*4* 2.0*Meine*Carleton*Hoyt*2:02*D*None*++*None
+Wednesday, Jun 6*boxscore*PIT*@*CIN*W*3*1*None*24-17*4* 2.0*Swift*Derringer*None*1:55*D*None*+++*None
+Wednesday, Jun 6*boxscore*PIT*@*CIN*W*5*1*None*25-17*4* 2.0*Birkofer*Frey*None*1:59*D*None*++++*1934-04-20 (Cold)
+Thursday, Jun 7*boxscore*PIT*@*CIN*W*2*1*None*26-17*3* 2.0*Lucas*Kleinhans*None*1:39*D*None*+++++*None
+Friday, Jun 8*boxscore*PIT*@*STL*L*2*6*None*26-18*4* 2.0*Carleton*French*None*1:39*D*None*-*None
+Sunday, Jun 10*boxscore*PIT*@*STL*L*2*3*None*26-19*4* 3.5*Dean*French*None*2:07*D*None*--*None
+Tuesday, Jun 12*boxscore*PIT*None*BRO*L*7*9*None*26-20*4* 4.5*Smythe*Hoyt*None*None*D*None*---*None
+Wednesday, Jun 13*boxscore*PIT*None*BRO*W*15*2*None*27-20*4* 4.5*Swift*Herring*None*None*D*None*+*None
+Thursday, Jun 14*boxscore*PIT*None*BRO*L*2*3*10*27-21*4* 5.5*Mungo*Birkofer*None*None*D*None*-*None
+Friday, Jun 15*boxscore*PIT*None*BRO*L*4*6*None*27-22*4* 5.5*Zachary*Lucas*None*None*D*None*--*None
+Saturday, Jun 16*boxscore*PIT*None*NYG*L*2*5*None*27-23*4* 6.5*Hubbell*Birkofer*None*None*D*None*---*None
+Sunday, Jun 17*boxscore*PIT*None*NYG*L*3*9*None*27-24*4* 7.5*Bell*Meine*Luque*2:23*D*10,000*----*None
+Tuesday, Jun 19*boxscore*PIT*None*NYG*L*3*5*None*27-25*5* 8.5*Schumacher*French*Hubbell*None*D*None*-----*None
+Wednesday, Jun 20*boxscore*PIT*None*BSN*W*6*5*None*28-25*4* 8.5*Chagnon*Smith*None*2:00*D*None*+*None
+Thursday, Jun 21*boxscore*PIT*None*BSN*L*1*4*None*28-26*5* 9.0*Frankhouse*Birkofer*None*1:57*D*None*-*None
+Thursday, Jun 21*boxscore*PIT*None*BSN*L*7*8*None*28-27*5* 9.0*Mangum*French*Smith*2:19*D*None*--*1934-05-14 (Rain)
+Friday, Jun 22*boxscore*PIT*None*BSN*W*7*6*None*29-27*5* 8.0*Birkofer*Mangum*None*2:04*D*None*+*None
+Saturday, Jun 23*boxscore*PIT*None*BSN*W*4*0*None*30-27*4* 7.0*French*Brandt*None*1:40*D*None*++*None
+Sunday, Jun 24*boxscore*PIT*None*PHI*W*11*5*None*31-27*4* 7.0*Hoyt*Lohrman*None*2:47*D*None*+++*None
+Monday, Jun 25*boxscore*PIT*None*PHI*W*7*1*None*32-27*4* 7.0*Swift*Grabowski*None*1:57*D*None*++++*None
+Tuesday, Jun 26*boxscore*PIT*None*PHI*L*4*5*None*32-28*4* 6.5*Collins*Birkofer*None*2:18*D*None*-*None
+Tuesday, Jun 26*boxscore*PIT*None*PHI*W*4*2*6*33-28*4* 6.5*Lucas*Holley*None*1:13*D*None*+*1934-05-10 (Rain)
+Wednesday, Jun 27*boxscore*PIT*None*PHI*W*4*1*None*34-28*4* 5.5*French*Davis*None*1:44*D*None*++*None
+Friday, Jun 29*boxscore*PIT*None*CHC*T*8*8*8*34-28*4* 6.0*None*None*None*None*D*None*++*None
+Saturday, Jun 30*boxscore*PIT*None*CHC*L*4*6*None*34-29*4* 6.0*Lee*Birkofer*None*None*D*None*-*None
+Sunday, Jul 1*boxscore*PIT*None*CHC*W*5*4*None*35-29*5* 6.0*Hoyt*Tinning*None*2:04*D*None*+*None
+Tuesday, Jul 3*boxscore*PIT*None*CIN*W*10*0*None*36-29*4* 5.5*Lucas*Kleinhans*None*2:12*D*None*++*None
+Wednesday, Jul 4*boxscore*PIT*None*CIN*W*5*1*None*37-29*4* 6.5*French*Johnson*None*1:42*D*4,500*+++*None
+Wednesday, Jul 4*boxscore*PIT*None*CIN*L*3*4*None*37-30*4* 6.5*Derringer*Swift*None*1:48*D*7,000*-*None
+Friday, Jul 6*boxscore*PIT*@*CHC*L*1*9*None*37-31*4* 7.0*Bush*Hoyt*None*2:15*D*27,000*--*None
+Saturday, Jul 7*boxscore*PIT*@*CHC*L*2*4*None*37-32*4* 7.0*Warneke*Lucas*None*2:01*D*None*---*None
+Sunday, Jul 8*boxscore*PIT*@*CHC*W*11*4*None*38-32*4* 7.5*Birkofer*Lee*None*2:11*D*None*+*None
+Sunday, Jul 8*boxscore*PIT*@*CHC*L*3*12*None*38-33*4* 7.5*Weaver*Swift*None*2:25*D*47,138*-*1934-07-05 (Schedule change)
+Wednesday, Jul 11*boxscore*PIT*@*NYG*L*2*3*None*38-34*4* 8.5*Schumacher*Hoyt*None*None*D*None*--*None
+Thursday, Jul 12*boxscore*PIT*@*NYG*W*3*1*None*39-34*4* 8.5*French*Parmelee*None*1:44*D*None*+*None
+Thursday, Jul 12*boxscore*PIT*@*NYG*L*1*11*None*39-35*4* 8.5*Hubbell*Birkofer*None*None*D*None*-*None
+Friday, Jul 13*boxscore*PIT*@*NYG*L*6*7*None*39-36*4* 9.5*Fitzsimmons*Lucas*Smith*None*D*None*--*None
+Saturday, Jul 14*boxscore*PIT*@*BSN*W*4*3*12*40-36*4* 8.5*Swift*Smith*None*None*D*None*+*None
+Sunday, Jul 15*boxscore*PIT*@*BSN*W*5*0*None*41-36*4* 9.0*Hoyt*Rhem*None*1:54*D*None*++*None
+Sunday, Jul 15*boxscore*PIT*@*BSN*L*0*4*None*41-37*4* 9.0*Brandt*Meine*None*1:52*D*None*-*1934-05-25 (Rain)
+Wednesday, Jul 18*boxscore*PIT*@*BSN*L*1*3*None*41-38*4* 10.5*Frankhouse*French*None*None*D*None*--*None
+Wednesday, Jul 18*boxscore*PIT*@*BSN*L*5*7*None*41-39*4* 10.5*Betts*Holley*Brandt*None*D*None*---*1934-07-17 (Schedule change)
+Thursday, Jul 19*boxscore*PIT*@*BRO*L*2*4*None*41-40*4* 11.5*Leonard*Swift*None*None*D*None*----*None
+Saturday, Jul 21*boxscore*PIT*@*BRO*L*7*8*None*41-41*4* 12.0*Carroll*Lucas*None*None*D*None*-----*None
+Sunday, Jul 22*boxscore*PIT*@*BRO*L*2*3*None*41-42*4* 13.5*Babich*French*None*1:35*D*None*------*None
+Sunday, Jul 22*boxscore*PIT*@*BRO*L*10*13*None*41-43*4* 13.5*Benge*Holley*Leonard*2:21*D*15,000*-------*1934-07-20 (Schedule change)
+Monday, Jul 23*boxscore*PIT*@*PHI*L*2*3*None*41-44*4* 13.5*Moore*Swift*None*None*D*None*--------*None
+Tuesday, Jul 24*boxscore*PIT*@*PHI*L*0*9*None*41-45*4* 14.5*Johnson*Lucas*None*2:02*D*None*---------*None
+Thursday, Jul 26*boxscore*PIT*@*PHI*W*3*0*None*42-45*5* 14.5*French*Collins*None*1:31*D*None*+*None
+Thursday, Jul 26*boxscore*PIT*@*PHI*L*3*5*None*42-46*5* 14.5*Davis*Smith*None*2:04*D*None*-*1934-07-25 (Rain)
+Friday, Jul 27*boxscore*PIT*None*STL*W*4*0*None*43-46*4* 14.5*Swift*Haines*None*None*D*None*+*None
+Saturday, Jul 28*boxscore*PIT*None*STL*W*5*4*None*44-46*4* 14.0*Hoyt*Dean*None*2:26*D*None*++*None
+Sunday, Jul 29*boxscore*PIT*None*STL*L*5*9*None*44-47*5* 14.5*Carleton*Swift*Dean*2:26*D*None*-*None
+Tuesday, Jul 31*boxscore*PIT*@*CIN*L*4*6*None*44-48*5* 14.0*Kleinhans*French*None*1:53*D*None*--*None
+Tuesday, Jul 31*boxscore*PIT*@*CIN*W*7*5*11*45-48*5* 14.0*Hoyt*Freitas*None*2:44*D*5,500*+*1934-06-05 (Rain)
+Wednesday, Aug 1*boxscore*PIT*@*CIN*L*6*7*None*45-49*5* 15.5*Derringer*Chagnon*Johnson*1:51*D*None*-*None
+Thursday, Aug 2*boxscore*PIT*@*CIN*W*13*3*None*46-49*5* 14.5*Lucas*Frey*None*2:08*D*None*+*None
+Friday, Aug 3*boxscore*PIT*@*STL*L*3*9*None*46-50*5* 15.5*Dean*Hoyt*None*1:55*D*None*-*None
+Saturday, Aug 4*boxscore*PIT*@*STL*L*4*6*None*46-51*5* 16.0*Carleton*French*Dean*None*D*None*--*None
+Sunday, Aug 5*boxscore*PIT*@*STL*W*6*4*None*47-51*5* 15.5*French*Dean*None*2:03*D*None*+*None
+Sunday, Aug 5*boxscore*PIT*@*STL*W*7*2*None*48-51*5* 15.5*Hoyt*Hallahan*None*2:09*D*None*++*1934-06-09 (Rain)
+Tuesday, Aug 7*boxscore*PIT*None*CHC*W*4*1*None*49-51*5* 15.5*Meine*Lee*None*None*D*None*+++*None
+Wednesday, Aug 8*boxscore*PIT*None*CHC*L*4*7*None*49-52*5* 16.0*Malone*Holley*Warneke*1:51*D*None*-*None
+Wednesday, Aug 8*boxscore*PIT*None*CHC*L*3*14*None*49-53*5* 16.0*Bush*Swift*None*2:01*D*None*--*None
+Friday, Aug 10*boxscore*PIT*None*CIN*W*8*7*None*50-53*5* 16.5*Meine*Derringer*None*2:05*D*None*+*None
+Saturday, Aug 11*boxscore*PIT*None*CIN*L*3*4*None*50-54*5* 17.0*Johnson*French*Freitas*1:59*D*None*-*None
+Saturday, Aug 11*boxscore*PIT*None*CIN*W*8*3*None*51-54*5* 17.0*Lucas*Kleinhans*None*1:54*D*None*+*1934-04-27 (Cold)
+Sunday, Aug 12*boxscore*PIT*None*CIN*W*9*6*None*52-54*5* 16.5*Hoyt*Derringer*None*2:12*D*None*++*None
+Tuesday, Aug 14*boxscore*PIT*None*NYG*W*3*2*None*53-54*5* 15.5*Hoyt*Hubbell*None*None*D*None*+++*None
+Wednesday, Aug 15*boxscore*PIT*None*NYG*L*4*5*None*53-55*5* 15.5*Fitzsimmons*French*Smith*None*D*None*-*None
+Wednesday, Aug 15*boxscore*PIT*None*NYG*W*4*3*None*54-55*5* 15.5*Hoyt*Bell*None*1:51*D*18,000*+*1934-06-18 (Rain)
+Friday, Aug 17*boxscore*PIT*None*NYG*L*3*7*None*54-56*5* 17.5*Parmelee*Lucas*Smith*None*D*None*-*None
+Friday, Aug 17*boxscore*PIT*None*NYG*L*3*8*None*54-57*5* 17.5*Hubbell*Meine*None*2:03*D*None*--*1934-08-16 (Rain)
+Saturday, Aug 18*boxscore*PIT*None*BRO*L*2*6*None*54-58*5* 18.5*Clark*Grimes*None*None*D*None*---*None
+Sunday, Aug 19*boxscore*PIT*None*BRO*L*1*2*None*54-59*5* 19.5*Benge*Hoyt*None*2:13*D*3,000*----*None
+Monday, Aug 20*boxscore*PIT*None*BRO*W*6*2*None*55-59*5* 19.5*Swift*Babich*None*None*D*None*+*None
+Tuesday, Aug 21*boxscore*PIT*None*BRO*L*5*9*None*55-60*5* 19.5*Mungo*French*Zachary*None*D*None*-*None
+Thursday, Aug 23*boxscore*PIT*None*PHI*W*6*5*None*56-60*5* 19.5*Meine*Davis*None*2:10*D*None*+*None
+Saturday, Aug 25*boxscore*PIT*None*PHI*W*4*1*None*57-60*5* 19.5*Hoyt*Hansen*None*None*D*None*++*None
+Saturday, Aug 25*boxscore*PIT*None*PHI*L*8*12*None*57-61*5* 19.5*Moore*Swift*Collins*2:31*D*None*-*1934-08-24 (Wet grounds)
+Sunday, Aug 26*boxscore*PIT*None*BSN*L*5*8*None*57-62*5* 19.5*Mangum*Smith*Cantwell*2:10*D*None*--*None
+Monday, Aug 27*boxscore*PIT*None*BSN*W*8*5*None*58-62*5* 18.5*Birkofer*Smith*Hoyt*2:05*D*None*+*None
+Tuesday, Aug 28*boxscore*PIT*None*BSN*L*3*5*None*58-63*5* 19.5*Brandt*Grimes*None*1:57*D*None*-*None
+Wednesday, Aug 29*boxscore*PIT*None*BSN*L*0*11*None*58-64*5* 19.0*Betts*French*None*1:33*D*None*--*None
+Wednesday, Aug 29*boxscore*PIT*None*BSN*W*7*0*None*59-64*5* 19.0*Hoyt*Mangum*None*2:03*D*None*+*1934-05-15 (Rain)
+Sunday, Sep 2*boxscore*PIT*@*CIN*L*1*2*None*59-65*5* 19.5*Derringer*Birkofer*None*1:29*D*None*-*None
+Sunday, Sep 2*boxscore*PIT*@*CIN*W*11*4*None*60-65*5* 19.5*Swift*Freitas*None*1:56*D*10,147*+*1934-09-01 (Rain)
+Monday, Sep 3*boxscore*PIT*None*STL*W*12*2*None*61-65*5* 18.5*French*Dean*None*None*D*None*++*None
+Monday, Sep 3*boxscore*PIT*None*STL*W*6*5*None*62-65*5* 18.5*Meine*Dean*None*None*D*None*+++*None
+Wednesday, Sep 5*boxscore*PIT*@*BSN*W*8*2*None*63-65*5* 19.5*Swift*Cantwell*None*None*D*None*++++*None
+Thursday, Sep 6*boxscore*PIT*@*BSN*W*4*1*None*64-65*5* 19.5*Birkofer*Brandt*None*1:37*D*None*+++++*None
+Sunday, Sep 9*boxscore*PIT*@*NYG*W*1*0*None*65-65*5* 18.0*French*Fitzsimmons*None*1:49*D*20,000*++++++*None
+Monday, Sep 10*boxscore*PIT*@*NYG*W*9*7*None*66-65*5* 17.0*Grimes*Schumacher*Birkofer*None*D*None*+++++++*None
+Tuesday, Sep 11*boxscore*PIT*@*NYG*L*1*3*None*66-66*5* 18.0*Parmelee*Swift*None*None*D*None*-*None
+Wednesday, Sep 12*boxscore*PIT*@*NYG*L*2*3*None*66-67*5* 19.0*Hubbell*Birkofer*None*None*D*None*--*None
+Saturday, Sep 15*boxscore*PIT*@*PHI*W*6*1*None*67-67*5* 18.0*French*Davis*None*1:54*D*None*+*None
+Saturday, Sep 15*boxscore*PIT*@*PHI*W*4*1*None*68-67*5* 18.0*Hoyt*Hansen*None*2:03*D*None*++*1934-09-13 (Schedule change)
+Tuesday, Sep 18*boxscore*PIT*@*BRO*L*4*9*None*68-68*5* 17.5*Leonard*Swift*None*None*D*None*-*None
+Wednesday, Sep 19*boxscore*PIT*@*BRO*L*1*4*None*68-69*5* 19.0*Mungo*Birkofer*None*None*D*None*--*None
+Wednesday, Sep 19*boxscore*PIT*@*BRO*L*4*8*None*68-70*5* 19.0*Babich*French*None*None*D*None*---*1934-09-17 (Rain)
+Thursday, Sep 20*boxscore*PIT*@*BRO*L*1*2*None*68-71*5* 20.0*Munns*Hoyt*None*None*D*None*----*None
+Friday, Sep 21*boxscore*PIT*None*CIN*W*9*3*None*69-71*5* 19.5*Lucas*Richmond*None*1:50*D*None*+*None
+Friday, Sep 21*boxscore*PIT*None*CIN*W*16*3*None*70-71*5* 19.5*Swift*Johnson*None*1:41*D*None*++*1934-08-13 (Rain)
+Saturday, Sep 22*boxscore*PIT*None*CHC*W*2*1*None*71-71*4* 18.0*Birkofer*Lee*None*1:30*D*None*+++*None
+Saturday, Sep 22*boxscore*PIT*None*CHC*W*11*7*None*72-71*4* 18.0*Smith*Tinning*Hoyt*2:15*D*None*++++*1934-08-09 (Rain)
+Sunday, Sep 23*boxscore*PIT*None*CHC*L*2*3*None*72-72*5* 18.5*Weaver*Blanton*None*1:54*D*None*-*None
+Tuesday, Sep 25*boxscore*PIT*@*STL*L*2*3*None*72-73*5* 18.5*Dean*French*None*None*D*None*--*None
+Wednesday, Sep 26*boxscore*PIT*@*STL*W*3*0*None*73-73*5* 17.5*Hoyt*Dean*None*None*D*None*+*None
+Thursday, Sep 27*boxscore*PIT*@*CHC*L*2*4*None*73-74*5* 18.0*Lee*Birkofer*None*None*D*None*-*None
+Saturday, Sep 29*boxscore*PIT*@*CHC*W*6*3*None*74-74*5* 18.0*Lucas*Weaver*None*1:55*D*None*+*None
+Sunday, Sep 30*boxscore*PIT*@*CHC*L*2*8*None*74-75*5* 19.5*Warneke*French*None*1:36*D*None*-*None
+Sunday, Sep 30*boxscore*PIT*@*CHC*L*5*7*None*74-76*5* 19.5*Bush*Struss*None*1:49*D*10,000*--*1934-09-28 (Schedule change)
