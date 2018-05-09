@@ -1,0 +1,141 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 18",None,STL,@,CIN,W,12,4,None,2-0,1, Tied,None,None,None,1:58,None,"4,000",++,None
+"Friday, Apr 19",None,STL,@,CIN,W,4,3,None,3-0,1, Tied,None,None,None,None,None,None,+++,None
+"Saturday, Apr 20",None,STL,@,CIN,W,2,0,None,4-0,1, Tied,None,None,None,None,None,None,++++,None
+"Sunday, Apr 21",None,STL,@,LOU,W,12,10,None,5-0,1,up 1.0,None,None,None,3:00,None,None,+++++,None
+"Monday, Apr 22",None,STL,@,LOU,W,13,6,None,6-0,1,up 1.5,None,None,None,None,None,None,++++++,None
+"Tuesday, Apr 23",None,STL,@,LOU,L,7,17,None,6-1,1,up 0.5,None,None,None,None,None,None,-,None
+"Thursday, Apr 25",None,STL,None,CIN,W,10,5,None,7-1,1,up 0.5,None,None,None,2:25,None,None,+,None
+"Friday, Apr 26",None,STL,None,CIN,W,8,2,None,8-1,1,up 1.0,None,None,None,2:00,None,None,++,None
+"Saturday, Apr 27",None,STL,None,CIN,L,10,12,None,8-2,1,up 0.5,None,None,None,2:00,None,None,-,None
+"Sunday, Apr 28",None,STL,None,CIN,W,5,2,None,9-2,1,up 0.5,None,None,None,2:10,None,None,+,None
+"Tuesday, Apr 30",None,STL,None,LOU,W,3,2,None,10-2,1,up 1.5,None,None,None,None,None,None,++,None
+"Tuesday, Apr 30",None,STL,None,LOU,W,10,4,None,11-2,1,up 1.5,None,None,None,2:00,None,None,+++,1889-04-29 (Rain)
+"Wednesday, May 1",None,STL,None,LOU,W,9,1,None,12-2,1,up 2.0,None,None,None,2:00,None,None,++++,None
+"Thursday, May 2",None,STL,None,LOU,W,5,1,None,13-2,1,up 3.0,None,None,None,1:40,None,None,+++++,None
+"Friday, May 3",None,STL,@,KCC,L,3,16,None,13-3,1,up 3.0,None,None,None,2:05,None,None,-,None
+"Saturday, May 4",None,STL,@,KCC,L,9,16,None,13-4,1,up 2.0,None,None,None,2:05,None,None,--,None
+"Sunday, May 5",None,STL,@,KCC,L,12,18,None,13-5,1,up 1.0,None,None,None,2:20,None,None,---,None
+"Monday, May 6",None,STL,@,KCC,W,11,9,None,14-5,1,up 2.0,None,None,None,2:20,None,None,+,None
+"Tuesday, May 7",None,STL,None,COL,W,21,0,None,15-5,1,up 2.0,None,None,None,None,None,None,++,None
+"Wednesday, May 8",None,STL,None,COL,W,9,4,None,16-5,1,up 3.0,None,None,None,1:50,None,None,+++,None
+"Thursday, May 9",None,STL,None,COL,L,4,6,None,16-6,1,up 3.0,None,None,None,None,None,None,-,None
+"Friday, May 10",None,STL,None,COL,W,16,5,None,17-6,1,up 3.0,None,None,None,2:00,None,None,+,None
+"Saturday, May 11",None,STL,None,BAL,W,20,4,None,18-6,1,up 4.0,None,None,None,2:10,None,None,++,None
+"Tuesday, May 14",None,STL,None,BAL,W,7,2,None,19-6,1,up 4.5,None,None,None,2:05,None,None,+++,None
+"Wednesday, May 15",None,STL,None,BAL,W,9,7,None,20-6,1,up 4.5,None,None,None,None,None,None,++++,1889-05-12 (Rain)
+"Thursday, May 16",None,STL,None,BRO,W,9,7,None,21-6,1,up 5.0,None,None,None,2:25,None,None,+++++,None
+"Friday, May 17",None,STL,None,BRO,W,11,2,None,22-6,1,up 5.5,None,None,None,2:00,None,None,++++++,None
+"Saturday, May 18",None,STL,None,BRO,L,3,5,None,22-7,1,up 4.5,None,None,None,None,None,None,-,None
+"Sunday, May 19",None,STL,None,BRO,L,1,2,None,22-8,1,up 4.5,None,None,None,1:30,None,None,--,None
+"Monday, May 20",None,STL,None,PHA,W,4,1,None,23-8,1,up 4.5,None,None,None,1:45,None,None,+,None
+"Tuesday, May 21",None,STL,None,PHA,L,2,3,None,23-9,1,up 4.5,None,None,None,2:00,None,None,-,None
+"Wednesday, May 22",None,STL,None,PHA,W,9,5,None,24-9,1,up 4.5,None,None,None,2:00,None,None,+,None
+"Thursday, May 23",None,STL,None,PHA,L,8,9,None,24-10,1,up 3.5,None,None,None,2:20,None,None,-,None
+"Saturday, May 25",None,STL,None,KCC,W,10,7,None,25-10,1,up 3.5,None,None,None,1:45,None,None,+,None
+"Sunday, May 26",None,STL,None,KCC,W,12,3,None,26-10,1,up 4.5,None,None,None,None,None,None,++,None
+"Monday, May 27",None,STL,None,KCC,L,5,8,None,26-11,1,up 3.5,None,None,None,1:45,None,None,-,None
+"Thursday, May 30",None,STL,@,BRO,W,8,4,None,27-11,1,up 4.0,None,None,None,None,None,"8,462",+,None
+"Thursday, May 30",None,STL,@,BRO,L,7,9,None,27-12,1,up 4.0,None,None,None,2:00,None,"22,000",-,1889-05-31 (Rain)
+"Sunday, Jun 2",None,STL,@,BRO,W,2,1,None,28-12,1,up 5.0,None,None,None,1:47,None,None,+,None
+"Monday, Jun 3",None,STL,@,COL,W,11,7,None,29-12,1,up 6.0,None,None,None,2:37,None,None,++,None
+"Wednesday, Jun 5",None,STL,@,COL,W,4,3,None,30-12,1,up 5.5,None,None,None,1:45,None,None,+++,None
+"Thursday, Jun 6",None,STL,@,COL,W,9,3,None,31-12,1,up 5.5,None,None,None,1:30,None,None,++++,None
+"Saturday, Jun 8",None,STL,@,BAL,W,5,1,None,32-12,1,up 5.0,None,None,None,2:00,None,None,+++++,None
+"Monday, Jun 10",None,STL,@,BAL,W,9,1,None,33-12,1,up 4.5,None,None,None,None,None,None,++++++,None
+"Tuesday, Jun 11",None,STL,@,BAL,L,5,7,None,33-13,1,up 3.5,None,None,None,2:10,None,None,-,None
+"Wednesday, Jun 12",None,STL,@,BAL,L,3,8,None,33-14,1,up 3.0,None,None,None,2:00,None,None,--,None
+"Thursday, Jun 13",None,STL,@,PHA,T,2,2,None,33-14,1,up 3.0,None,None,None,2:15,None,None,--,None
+"Friday, Jun 14",None,STL,@,PHA,L,5,8,None,33-15,1,up 2.0,None,None,None,2:25,None,None,---,None
+"Sunday, Jun 16",None,STL,@,PHA,W,9,5,None,34-15,1,up 3.0,None,None,None,2:20,None,None,+,None
+"Monday, Jun 17",None,STL,@,PHA,L,2,11,None,34-16,1,up 2.0,None,None,None,1:40,None,None,-,None
+"Tuesday, Jun 18",None,STL,@,BRO,W,5,4,None,35-16,1,up 2.0,None,None,None,None,None,None,+,1889-06-01 (Rain)
+"Friday, Jun 21",None,STL,@,LOU,W,7,3,None,36-16,1,up 2.0,None,None,None,1:45,None,None,++,1889-06-24 (Unknown reason)
+"Saturday, Jun 22",None,STL,@,LOU,W,7,6,None,37-16,1,up 2.5,None,None,None,1:50,None,None,+++,None
+"Saturday, Jun 22",None,STL,@,LOU,W,3,2,None,38-16,1,up 2.5,None,None,None,1:55,None,None,++++,1889-06-20 (Rain)
+"Sunday, Jun 23",None,STL,@,LOU,L,3,7,None,38-17,1,up 2.5,None,None,None,1:40,None,None,-,None
+"Tuesday, Jun 25",None,STL,None,CIN,W,7,3,None,39-17,1,up 4.0,None,None,None,1:30,None,None,+,None
+"Wednesday, Jun 26",None,STL,None,CIN,L,1,6,None,39-18,1,up 3.5,None,None,None,None,None,None,-,None
+"Thursday, Jun 27",None,STL,None,CIN,L,6,8,None,39-19,1,up 3.0,None,None,None,1:50,None,None,--,None
+"Saturday, Jun 29",None,STL,None,LOU,W,10,1,None,40-19,1,up 4.0,None,None,None,1:55,None,None,+,None
+"Sunday, Jun 30",None,STL,None,LOU,W,12,7,None,41-19,1,up 4.0,None,None,None,2:00,None,None,++,None
+"Monday, Jul 1",None,STL,None,LOU,W,8,2,None,42-19,1,up 4.5,None,None,None,1:55,None,None,+++,None
+"Wednesday, Jul 3",None,STL,None,BRO,L,4,7,None,42-20,1,up 3.5,None,None,None,2:00,None,None,-,None
+"Thursday, Jul 4",None,STL,None,BRO,W,4,3,None,43-20,1,up 3.5,None,None,None,2:00,None,None,+,None
+"Thursday, Jul 4",None,STL,None,BRO,L,10,12,None,43-21,1,up 3.5,None,None,None,2:35,None,None,-,1889-07-05 (Unknown reason)
+"Saturday, Jul 6",None,STL,None,COL,W,8,1,None,44-21,1,up 3.5,None,None,None,2:00,None,None,+,None
+"Sunday, Jul 7",None,STL,None,COL,W,8,3,None,45-21,1,up 4.5,None,None,None,None,None,None,++,None
+"Monday, Jul 8",None,STL,None,COL,W,14,0,None,46-21,1,up 4.5,None,None,None,1:50,None,None,+++,None
+"Wednesday, Jul 10",None,STL,None,PHA,L,2,4,None,46-22,1,up 3.5,None,None,None,1:45,None,None,-,None
+"Thursday, Jul 11",None,STL,None,PHA,W,13,12,None,47-22,1,up 4.0,None,None,None,2:15,None,None,+,None
+"Friday, Jul 12",None,STL,None,PHA,W,4,2,None,48-22,1,up 4.5,None,None,None,2:00,None,None,++,None
+"Saturday, Jul 13",None,STL,None,BAL,W,25,5,None,49-22,1,up 4.5,None,None,None,2:50,None,None,+++,None
+"Sunday, Jul 14",None,STL,None,BAL,W,9,0,None,50-22,1,up 5.0,None,None,None,1:40,None,None,++++,None
+"Monday, Jul 15",None,STL,None,BAL,L,3,7,None,50-23,1,up 4.0,None,None,None,2:06,None,None,-,None
+"Tuesday, Jul 16",None,STL,None,KCC,W,4,2,None,51-23,1,up 5.0,None,None,None,2:00,None,None,+,1889-05-24 (Rain)
+"Thursday, Jul 18",None,STL,@,CIN,L,1,5,None,51-24,1,up 4.0,None,None,None,1:45,None,None,-,None
+"Saturday, Jul 20",None,STL,@,CIN,W,5,1,None,52-24,1,up 5.0,None,None,None,1:55,None,None,+,None
+"Sunday, Jul 21",None,STL,@,CIN,L,1,10,None,52-25,1,up 4.0,None,None,None,1:40,None,None,-,None
+"Monday, Jul 22",None,STL,@,COL,W,5,1,None,53-25,1,up 4.5,None,None,None,1:50,None,None,+,None
+"Tuesday, Jul 23",None,STL,@,COL,W,9,3,None,54-25,1,up 4.5,None,None,None,1:48,None,None,++,None
+"Wednesday, Jul 24",None,STL,@,COL,L,0,5,None,54-26,1,up 3.5,None,None,None,1:55,None,None,-,None
+"Thursday, Jul 25",None,STL,@,COL,W,10,8,None,55-26,1,up 3.5,None,None,None,None,None,None,+,1889-06-04 (Rain)
+"Saturday, Jul 27",None,STL,@,BAL,L,2,4,None,55-27,1,up 2.5,None,None,None,None,None,None,-,None
+"Saturday, Jul 27",None,STL,@,BAL,W,3,1,None,56-27,1,up 2.5,None,None,None,1:40,None,None,+,1889-07-26 (Rain)
+"Monday, Jul 29",None,STL,@,BAL,W,4,3,None,57-27,1,up 3.5,None,None,None,2:30,None,None,++,None
+"Monday, Jul 29",None,STL,@,BAL,T,0,0,None,57-27,1,up 3.5,None,None,None,1:15,None,None,++,1889-08-23 (Schedule change; Site change)
+"Wednesday, Jul 31",None,STL,@,PHA,L,3,7,None,57-28,1,up 3.0,None,None,None,2:00,None,None,-,None
+"Friday, Aug 2",None,STL,@,BRO,W,6,2,None,58-28,1,up 3.0,None,None,None,1:49,None,None,+,None
+"Saturday, Aug 3",None,STL,@,BRO,L,6,13,None,58-29,1,up 2.0,None,None,None,2:10,None,None,-,None
+"Sunday, Aug 4",None,STL,@,BRO,L,2,7,None,58-30,1,up 1.0,None,None,None,1:30,None,"1,974",--,None
+"Wednesday, Aug 7",None,STL,@,KCC,W,4,1,None,59-30,1,up 1.0,None,None,None,1:50,None,None,+,None
+"Thursday, Aug 8",None,STL,@,KCC,W,12,2,None,60-30,1,up 1.0,None,None,None,2:00,None,None,++,None
+"Friday, Aug 9",None,STL,@,KCC,L,7,11,None,60-31,1,up 0.5,None,None,None,1:45,None,None,-,None
+"Saturday, Aug 10",None,STL,None,BRO,W,4,2,None,61-31,1,up 1.5,None,None,None,2:00,None,None,+,None
+"Sunday, Aug 11",None,STL,None,BRO,W,14,4,None,62-31,1,up 2.5,None,None,None,2:50,None,"14,000",++,None
+"Monday, Aug 12",None,STL,None,BRO,W,11,0,None,63-31,1,up 3.5,None,None,None,1:30,None,None,+++,None
+"Tuesday, Aug 13",None,STL,None,COL,W,12,3,None,64-31,1,up 3.5,None,None,None,2:15,None,None,++++,None
+"Wednesday, Aug 14",None,STL,None,COL,L,0,13,None,64-32,1,up 2.5,None,None,None,2:00,None,None,-,None
+"Thursday, Aug 15",None,STL,None,COL,W,19,11,None,65-32,1,up 2.5,None,None,None,2:00,None,None,+,None
+"Saturday, Aug 17",None,STL,None,PHA,W,4,1,None,66-32,1,up 2.5,None,None,None,2:00,None,None,++,None
+"Sunday, Aug 18",None,STL,None,PHA,W,4,2,None,67-32,1,up 2.5,None,None,None,None,None,None,+++,None
+"Tuesday, Aug 20",None,STL,None,PHA,W,14,2,None,68-32,1,up 2.0,None,None,None,2:00,None,None,++++,None
+"Thursday, Aug 22",None,STL,None,BAL,L,2,4,None,68-33,1,up 2.0,None,None,None,2:00,None,None,-,1889-05-13 (Rain)
+"Saturday, Aug 24",None,STL,None,BAL,W,7,4,None,69-33,1,up 1.5,None,None,None,2:10,None,None,+,None
+"Sunday, Aug 25",None,STL,None,BAL,W,16,9,None,70-33,1,up 2.0,None,None,None,None,None,None,++,None
+"Monday, Aug 26",None,STL,None,KCC,L,2,5,None,70-34,1,up 1.5,None,None,None,2:00,None,None,-,None
+"Tuesday, Aug 27",None,STL,None,KCC,W,19,1,None,71-34,1,up 2.5,None,None,None,1:40,None,None,+,None
+"Wednesday, Aug 28",None,STL,None,KCC,T,9,9,None,71-34,1,up 3.0,None,None,None,None,None,None,+,None
+"Friday, Aug 30",None,STL,@,COL,L,4,13,None,71-35,1,up 1.5,None,None,None,None,None,None,-,None
+"Saturday, Aug 31",None,STL,@,COL,L,1,4,None,71-36,1, Tied,None,None,None,1:50,None,None,--,None
+"Sunday, Sep 1",None,STL,@,COL,L,5,6,None,71-37,2, 0.5,None,None,None,2:30,None,None,---,None
+"Tuesday, Sep 3",None,STL,@,BAL,L,1,7,None,71-38,2, 1.5,None,None,None,2:00,None,None,----,None
+"Wednesday, Sep 4",None,STL,@,BAL,W,4,2,None,72-38,2, 1.5,None,None,None,1:35,None,None,+,None
+"Thursday, Sep 5",None,STL,@,BAL,T,5,5,None,72-38,2, 2.0,None,None,None,2:15,None,None,+,None
+"Friday, Sep 6",None,STL,@,BAL,L,2,3,None,72-39,2, 2.5,None,None,None,None,None,None,-,None
+"Saturday, Sep 7",None,STL,@,BRO,W,4,2,None,73-39,2, 1.5,None,None,None,None,None,"15,143",+,None
+"Sunday, Sep 8",None,STL,@,BRO,*H,0,0,None,73-40,2, 2.5,None,None,None,None,None,None,-,None
+"Friday, Sep 13",None,STL,@,PHA,L,0,11,None,73-41,2, 3.0,None,None,None,1:45,None,None,--,1889-06-15 (Rain)
+"Saturday, Sep 14",None,STL,@,PHA,W,5,1,None,74-41,2, 3.5,None,None,None,1:15,None,None,+,None
+"Saturday, Sep 14",None,STL,@,PHA,T,4,4,None,74-41,2, 3.5,None,None,None,2:10,None,None,+,1889-07-30 (Rain)
+"Sunday, Sep 15",None,STL,@,PHA,L,1,8,None,74-42,2, 5.0,None,None,None,None,None,None,-,None
+"Wednesday, Sep 18",None,STL,@,KCC,W,7,2,None,75-42,2, 4.5,None,None,None,1:40,None,None,+,None
+"Thursday, Sep 19",None,STL,@,KCC,W,13,3,None,76-42,2, 3.5,None,None,None,2:00,None,None,++,None
+"Friday, Sep 20",None,STL,@,KCC,W,6,0,None,77-42,2, 3.5,None,None,None,1:30,None,None,+++,None
+"Saturday, Sep 21",None,STL,None,CIN,L,4,5,None,77-43,2, 4.5,None,None,None,None,None,None,-,None
+"Sunday, Sep 22",None,STL,None,CIN,L,6,17,None,77-44,2, 4.5,None,None,None,1:55,None,None,--,None
+"Monday, Sep 23",None,STL,None,CIN,W,5,1,None,78-44,2, 3.5,None,None,None,1:35,None,None,+,None
+"Thursday, Sep 26",None,STL,None,LOU,W,5,4,None,79-44,2, 3.5,None,None,None,None,None,None,++,None
+"Saturday, Sep 28",None,STL,None,LOU,T,2,2,None,79-44,2, 4.5,None,None,None,None,None,None,++,None
+"Monday, Sep 30",None,STL,None,LOU,W,6,3,None,80-44,2, 4.5,None,None,None,None,None,None,+++,1889-09-29 (Rain)
+"Tuesday, Oct 1",None,STL,None,LOU,W,7,4,None,81-44,2, 4.0,None,None,None,2:00,None,None,++++,None
+"Wednesday, Oct 2",None,STL,None,KCC,W,15,5,None,82-44,2, 3.5,None,None,None,None,None,None,+++++,None
+"Thursday, Oct 3",None,STL,None,KCC,W,7,5,None,83-44,2, 3.5,None,None,None,1:55,None,None,++++++,None
+"Saturday, Oct 5",None,STL,None,KCC,W,7,2,None,84-44,2, 2.5,None,None,None,None,None,None,+++++++,None
+"Sunday, Oct 6",None,STL,None,KCC,W,9,4,None,85-44,2, 2.5,None,None,None,1:55,None,None,++++++++,None
+"Tuesday, Oct 8",None,STL,@,LOU,W,9,3,None,86-44,2, 2.0,None,None,None,1:50,None,None,+++++++++,None
+"Wednesday, Oct 9",None,STL,@,LOU,W,8,4,None,87-44,2, 2.0,None,None,None,1:47,None,None,++++++++++,None
+"Thursday, Oct 10",None,STL,@,LOU,W,9,1,None,88-44,2, 2.0,None,None,None,1:15,None,None,+++++++++++,None
+"Monday, Oct 14",None,STL,@,CIN,W,5,1,None,89-44,2, 2.0,None,None,None,1:45,None,"3,000",++++++++++++,None
+"Tuesday, Oct 15",None,STL,@,CIN,L,3,8,None,89-45,2, 2.0,None,None,None,1:55,None,None,-,1889-10-13 (Rain)
+"Tuesday, Oct 15",None,STL,@,CIN,W,2,1,None,90-45,2, 2.0,None,None,None,1:40,None,None,+,1889-10-12 (Wet grounds)

@@ -1,0 +1,162 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 10",boxscore,BAL,None,BOS,W-wo,2,1,13,1-1,3, 1.0,Leonhard,Pizarro,None,3:06,D,"3,091",+,None
+"Friday, Apr 11",boxscore,BAL,None,WSA,L,0,4,None,1-2,5, 1.5,Moore,Hardin,Higgins,2:15,N,"8,415",-,None
+"Saturday, Apr 12",boxscore,BAL,None,WSA,W,9,0,None,2-2,4, 1.0,McNally,Pascual,None,2:16,D,"6,379",+,None
+"Sunday, Apr 13",boxscore,BAL,None,WSA,W,2,0,None,3-2,2, 0.5,Palmer,Coleman,None,2:03,D,None,++,None
+"Sunday, Apr 13",boxscore,BAL,None,WSA,W,9,0,None,4-2,2, 0.5,Phoebus,Bosman,None,2:07,D,"20,483",+++,None
+"Monday, Apr 14",boxscore,BAL,@,BOS,L,3,5,None,4-3,2, 1.5,Culp,Cuellar,Lyle,2:30,D,"33,899",-,None
+"Tuesday, Apr 15",boxscore,BAL,@,BOS,W,10,5,None,5-3,2, 0.5,Richert,Landis,None,2:50,D,"9,673",+,None
+"Wednesday, Apr 16",boxscore,BAL,@,BOS,W,11,8,8,6-3,1,up 0.5,Leonhard,Brett,Hall,2:45,D,"8,328",++,None
+"Thursday, Apr 17",boxscore,BAL,@,BOS,W,9,5,None,7-3,1,up 1.0,Palmer,Stange,Watt,2:44,D,"8,910",+++,None
+"Friday, Apr 18",boxscore,BAL,@,WSA,W,6,0,None,8-3,1,up 1.5,Phoebus,Coleman,None,2:27,N,"4,457",++++,None
+"Saturday, Apr 19",boxscore,BAL,@,WSA,L,5,7,None,8-4,1,up 1.0,Bosman,Cuellar,Higgins,2:20,D,"5,495",-,None
+"Sunday, Apr 20",boxscore,BAL,@,WSA,W,2,1,None,9-4,1,up 0.5,McNally,Hannan,Watt,2:52,D,None,+,None
+"Sunday, Apr 20",boxscore,BAL,@,WSA,L,2,5,None,9-5,1,up 0.5,Bertaina,Hardin,Humphreys,2:19,D,"18,055",-,None
+"Monday, Apr 21",boxscore,BAL,None,CLE,W,11,0,None,10-5,1,up 1.0,Palmer,McDowell,None,2:45,N,"3,176",+,None
+"Tuesday, Apr 22",boxscore,BAL,None,CLE,W,3,2,None,11-5,1,up 1.0,Phoebus,Williams,Richert,2:13,N,"2,337",++,None
+"Wednesday, Apr 23",boxscore,BAL,None,DET,W-wo,3,2,10,12-5,1,up 2.0,Cuellar,McLain,None,2:03,N,"5,342",+++,None
+"Thursday, Apr 24",boxscore,BAL,None,DET,W,5,2,None,13-5,1,up 3.0,McNally,Wilson,None,2:20,N,"4,433",++++,None
+"Friday, Apr 25",boxscore,BAL,None,NYY,L,2,7,None,13-6,1,up 2.0,Stottlemyre,Hardin,None,2:17,N,"11,189",-,None
+"Saturday, Apr 26",boxscore,BAL,None,NYY,L,5,6,10,13-7,1,up 1.0,McDaniel,Richert,None,2:50,D,"21,645",--,None
+"Sunday, Apr 27",boxscore,BAL,None,NYY,W,6,0,None,14-7,1,up 2.5,Cuellar,Bahnsen,None,2:02,D,None,+,None
+"Sunday, Apr 27",boxscore,BAL,None,NYY,W,10,5,None,15-7,1,up 2.5,Hall,McDaniel,None,2:31,D,"30,254",++,None
+"Wednesday, Apr 30",boxscore,BAL,@,DET,W,3,2,None,16-7,1,up 3.5,McNally,Dobson,Richert,2:53,N,"15,340",+++,None
+"Thursday, May 1",boxscore,BAL,@,DET,L,0,2,None,16-8,1,up 3.0,McLain,Palmer,None,1:49,N,"15,731",-,None
+"Friday, May 2",boxscore,BAL,@,NYY,W,5,1,None,17-8,1,up 3.0,Cuellar,Peterson,None,2:21,N,"15,841",+,None
+"Saturday, May 3",boxscore,BAL,@,NYY,W,5,4,None,18-8,1,up 3.0,Hall,McDaniel,None,2:27,D,"29,059",++,None
+"Sunday, May 4",boxscore,BAL,@,NYY,W,5,3,None,19-8,1,up 3.5,McNally,Burbach,Richert,2:54,D,None,+++,None
+"Sunday, May 4",boxscore,BAL,@,NYY,W,14,2,None,20-8,1,up 3.5,Hardin,Kekich,None,2:17,D,"31,809",++++,None
+"Tuesday, May 6",boxscore,BAL,None,CHW,L,0,1,None,20-9,1,up 3.0,Horlen,Palmer,None,1:57,N,"8,193",-,None
+"Wednesday, May 7",boxscore,BAL,None,CHW,L,4,6,None,20-10,1,up 2.0,Peters,Cuellar,Locker,2:32,N,"6,860",--,None
+"Friday, May 9",boxscore,BAL,None,KCR,L,2,4,None,20-11,1,up 1.0,Drago,Hall,None,2:19,N,"7,650",---,None
+"Saturday, May 10",boxscore,BAL,None,KCR,W-wo,6,5,None,21-11,1,up 1.0,Hardin,Drabowsky,None,2:32,N,"6,843",+,None
+"Sunday, May 11",boxscore,BAL,None,KCR,W,5,0,None,22-11,1,up 1.0,Palmer,Nelson,None,1:58,D,"9,736",++,None
+"Tuesday, May 13",boxscore,BAL,@,MIN,L,2,4,None,22-12,1,up 1.0,Boswell,Cuellar,Perranoski,2:33,N,"13,737",-,None
+"Wednesday, May 14",boxscore,BAL,@,MIN,W,9,8,None,23-12,1,up 1.0,Phoebus,Woodson,Watt,3:04,N,"17,696",+,None
+"Thursday, May 15",boxscore,BAL,@,MIN,W,5,0,None,24-12,1,up 1.5,McNally,Kaat,None,2:21,N,"11,423",++,None
+"Friday, May 16",boxscore,BAL,@,KCR,W,5,3,11,25-12,1,up 2.5,Watt,Jones,None,3:02,N,"15,487",+++,None
+"Saturday, May 17",boxscore,BAL,@,KCR,W,4,2,None,26-12,1,up 2.5,Palmer,Butler,None,2:06,N,"12,441",++++,None
+"Sunday, May 18",boxscore,BAL,@,KCR,W,5,0,None,27-12,1,up 3.5,Cuellar,Drago,None,1:57,D,"28,944",+++++,None
+"Tuesday, May 20",boxscore,BAL,None,MIN,L,2,3,13,27-13,1,up 3.0,Kaat,Lopez,Perranoski,3:14,N,"11,489",-,None
+"Wednesday, May 21",boxscore,BAL,None,MIN,W,4,3,None,28-13,1,up 2.5,Phoebus,Boswell,Richert,2:51,N,"8,076",+,None
+"Thursday, May 22",boxscore,BAL,None,MIN,W,6,2,None,29-13,1,up 2.5,Hall,Perranoski,Watt,2:43,N,"8,493",++,None
+"Friday, May 23",boxscore,BAL,None,OAK,W,4,3,None,30-13,1,up 2.5,Leonhard,Odom,None,2:42,N,"12,130",+++,None
+"Saturday, May 24",boxscore,BAL,None,OAK,W,2,1,None,31-13,1,up 3.5,Cuellar,Hunter,None,1:49,N,"9,994",++++,None
+"Sunday, May 25",boxscore,BAL,None,OAK,W,5,3,None,32-13,1,up 3.5,Lopez,Krausse,Watt,2:52,D,"32,860",+++++,None
+"Tuesday, May 27",boxscore,BAL,@,SEP,L,1,8,None,32-14,1,up 3.5,Brabender,Phoebus,None,2:37,N,"8,308",-,None
+"Wednesday, May 28",boxscore,BAL,@,SEP,W,9,5,None,33-14,1,up 3.5,McNally,Marshall,Richert,3:20,N,"21,679",+,None
+"Friday, May 30",boxscore,BAL,@,CAL,W,3,1,None,34-14,1,up 3.0,Cuellar,Messersmith,None,1:57,N,"14,097",++,None
+"Saturday, May 31",boxscore,BAL,@,CAL,L-wo,3,4,None,34-15,1,up 3.0,Tatum,Watt,None,2:48,N,"13,412",-,None
+"Sunday, Jun 1",boxscore,BAL,@,CAL,W,4,3,11,35-15,1,up 3.0,Palmer,Priddy,None,3:06,D,"11,403",+,None
+"Tuesday, Jun 3",boxscore,BAL,@,OAK,W,3,1,11,36-15,1,up 3.5,Watt,Krausse,None,2:40,N,"6,470",++,None
+"Wednesday, Jun 4",boxscore,BAL,@,OAK,W,6,1,None,37-15,1,up 4.5,Phoebus,Hunter,None,2:19,N,"5,549",+++,None
+"Friday, Jun 6",boxscore,BAL,None,SEP,W,5,1,None,38-15,1,up 4.5,McNally,Bell,None,2:06,N,"17,689",++++,None
+"Saturday, Jun 7",boxscore,BAL,None,SEP,W,10,0,None,39-15,1,up 4.5,Palmer,Brabender,None,2:28,N,"13,903",+++++,None
+"Sunday, Jun 8",boxscore,BAL,None,SEP,L,5,7,None,39-16,1,up 3.5,O'Donoghue,Cuellar,None,2:36,D,"8,988",-,None
+"Tuesday, Jun 10",boxscore,BAL,None,CAL,W,11,4,None,40-16,1,up 4.0,Lopez,May,None,2:40,N,"8,260",+,None
+"Wednesday, Jun 11",boxscore,BAL,None,CAL,L,5,7,14,40-17,1,up 3.0,Borbon,Richert,Fisher,3:56,N,"9,817",-,None
+"Friday, Jun 13",boxscore,BAL,@,CHW,W,5,2,None,41-17,1,up 4.0,Leonhard,Peters,None,2:29,N,"13,793",+,None
+"Saturday, Jun 14",boxscore,BAL,@,CHW,W,12,3,None,42-17,1,up 5.0,Palmer,John,Watt,2:43,D,"6,445",++,None
+"Sunday, Jun 15",boxscore,BAL,@,CHW,W,9,0,None,43-17,1,up 6.5,McNally,Nyman,None,2:19,D,None,+++,None
+"Sunday, Jun 15",boxscore,BAL,@,CHW,W,13,2,None,44-17,1,up 6.5,Phoebus,Horlen,None,2:14,D,"15,289",++++,None
+"Tuesday, Jun 17",boxscore,BAL,@,WSA,W,5,1,None,45-17,1,up 7.0,Cuellar,Shellenback,None,2:26,N,"22,134",+++++,None
+"Wednesday, Jun 18",boxscore,BAL,@,WSA,W,3,1,None,46-17,1,up 8.0,Hardin,Moore,Hall,2:11,N,"10,420",++++++,None
+"Thursday, Jun 19",boxscore,BAL,@,WSA,W,2,0,None,47-17,1,up 8.0,McNally,Higgins,None,2:04,N,"13,736",+++++++,None
+"Friday, Jun 20",boxscore,BAL,@,CLE,L,2,7,None,47-18,1,up 8.0,Tiant,Phoebus,None,2:15,N,None,-,None
+"Friday, Jun 20",boxscore,BAL,@,CLE,W,5,1,None,48-18,1,up 8.0,Lopez,Hargan,Watt,2:29,N,"14,962",+,1969-04-28 (Rain)
+"Saturday, Jun 21",boxscore,BAL,@,CLE,W,3,1,None,49-18,1,up 8.5,Cuellar,Williams,None,2:12,D,"14,503",++,None
+"Sunday, Jun 22",boxscore,BAL,@,CLE,L,2,3,None,49-19,1,up 9.0,McDowell,Hall,None,2:14,D,None,-,None
+"Sunday, Jun 22",boxscore,BAL,@,CLE,W,6,0,None,50-19,1,up 9.0,Leonhard,Pina,None,2:15,D,"52,189",+,None
+"Monday, Jun 23",boxscore,BAL,None,WSA,W,5,3,None,51-19,1,up 9.5,Palmer,Knowles,Richert,1:57,N,"7,830",++,None
+"Tuesday, Jun 24",boxscore,BAL,None,WSA,W-wo,6,3,11,52-19,1,up10.0,Hall,Shellenback,None,3:06,N,"14,763",+++,None
+"Wednesday, Jun 25",boxscore,BAL,None,WSA,L,8,11,None,52-20,1,up 9.5,Humphreys,Hardin,Knowles,2:41,N,"11,130",-,None
+"Friday, Jun 27",boxscore,BAL,None,DET,W,4,1,None,53-20,1,up 9.0,McNally,Wilson,None,2:02,N,"39,798",+,None
+"Saturday, Jun 28",boxscore,BAL,None,DET,W,6,4,None,54-20,1,up10.0,Richert,Patterson,Watt,2:41,D,"15,540",++,None
+"Sunday, Jun 29",boxscore,BAL,None,DET,L,2,3,None,54-21,1,up11.0,Lolich,Cuellar,Kilkenny,2:11,D,None,-,None
+"Sunday, Jun 29",boxscore,BAL,None,DET,W-wo,4,3,None,55-21,1,up11.0,Leonhard,McMahon,None,2:45,D,"32,643",+,None
+"Tuesday, Jul 1",boxscore,BAL,@,NYY,L,9,10,None,55-22,1,up11.0,Aker,Richert,None,2:30,N,"16,668",-,None
+"Wednesday, Jul 2",boxscore,BAL,@,NYY,L,2,3,None,55-23,1,up11.0,Stottlemyre,Lopez,None,2:09,D,"14,113",--,None
+"Friday, Jul 4",boxscore,BAL,@,DET,L,1,4,5,55-24,1,up10.0,Lolich,Cuellar,None,1:20,D,"35,000",---,None
+"Saturday, Jul 5",boxscore,BAL,@,DET,W,9,3,None,56-24,1,up11.0,McNally,Dobson,None,2:43,D,"23,627",+,None
+"Sunday, Jul 6",boxscore,BAL,@,DET,L,4,5,None,56-25,1,up10.0,McLain,Leonhard,None,2:30,D,"33,172",-,None
+"Tuesday, Jul 8",boxscore,BAL,None,NYY,W,10,3,None,57-25,1,up11.5,Phoebus,Peterson,None,2:14,N,None,+,None
+"Tuesday, Jul 8",boxscore,BAL,None,NYY,W,4,1,None,58-25,1,up11.5,Cuellar,Burbach,None,2:08,N,"17,290",++,1969-09-21 (Schedule change)
+"Wednesday, Jul 9",boxscore,BAL,None,NYY,W-wo,6,5,10,59-25,1,up12.0,Richert,Johnson,None,2:52,N,"19,793",+++,None
+"Thursday, Jul 10",boxscore,BAL,None,BOS,W-wo,5,4,None,60-25,1,up13.0,Hardin,Romo,None,2:12,N,"11,278",++++,None
+"Friday, Jul 11",boxscore,BAL,None,BOS,L,4,7,None,60-26,1,up11.5,Culp,Severinsen,Lyle,2:31,N,None,-,None
+"Friday, Jul 11",boxscore,BAL,None,BOS,L,3,12,None,60-27,1,up11.5,Jarvis,Leonhard,Stange,2:33,N,"30,844",--,None
+"Saturday, Jul 12",boxscore,BAL,None,BOS,W,4,0,None,61-27,1,up12.5,Cuellar,Nagy,None,2:21,D,"36,048",+,None
+"Sunday, Jul 13",boxscore,BAL,None,BOS,W,6,3,None,62-27,1,up13.0,McNally,Lonborg,Watt,2:56,N,"18,868",++,None
+"Tuesday, Jul 15",boxscore,BAL,None,CLE,W,5,1,None,63-27,1,up14.0,Phoebus,McDowell,None,2:27,N,"12,027",+++,None
+"Wednesday, Jul 16",boxscore,BAL,None,CLE,L,4,6,None,63-28,1,up13.5,Ellsworth,Cuellar,Paul,2:25,N,None,-,None
+"Wednesday, Jul 16",boxscore,BAL,None,CLE,W-wo,6,5,None,64-28,1,up13.5,Richert,Williams,None,2:51,N,"15,753",+,None
+"Thursday, Jul 17",boxscore,BAL,None,CLE,W,3,2,None,65-28,1,up14.0,Richert,Williams,None,2:31,N,"9,804",++,None
+"Friday, Jul 18",boxscore,BAL,@,BOS,L,1,6,None,65-29,1,up13.0,Jarvis,Leonhard,None,2:18,N,"31,607",-,None
+"Saturday, Jul 19",boxscore,BAL,@,BOS,L,3,5,None,65-30,1,up12.0,Siebert,Phoebus,Lyle,2:25,N,"32,947",--,None
+"Sunday, Jul 20",boxscore,BAL,@,BOS,L,5,6,None,65-31,1,up11.0,Culp,Cuellar,Lyle,2:49,D,"31,174",---,None
+"Thursday, Jul 24",boxscore,BAL,None,CHW,W,5,2,None,66-31,1,up11.5,Cuellar,John,Watt,2:31,N,"13,159",+,None
+"Friday, Jul 25",boxscore,BAL,None,CHW,W,4,2,None,67-31,1,up11.5,McNally,Peters,Hall,2:18,N,"11,850",++,None
+"Saturday, Jul 26",boxscore,BAL,None,CHW,W,2,1,None,68-31,1,up11.5,Phoebus,Horlen,Richert,2:21,N,"14,091",+++,None
+"Sunday, Jul 27",boxscore,BAL,None,CHW,W,17,0,None,69-31,1,up12.5,Hardin,Wynne,None,2:33,N,"17,864",++++,None
+"Tuesday, Jul 29",boxscore,BAL,@,KCR,W,4,1,None,70-31,1,up14.0,Cuellar,Bunker,None,2:15,N,"13,478",+++++,None
+"Wednesday, Jul 30",boxscore,BAL,@,KCR,W,4,2,None,71-31,1,up14.0,McNally,Nelson,Watt,2:06,N,"13,648",++++++,None
+"Thursday, Jul 31",boxscore,BAL,@,KCR,W,3,1,None,72-31,1,up15.0,Phoebus,Rooker,Hall,2:16,N,"12,384",+++++++,None
+"Friday, Aug 1",boxscore,BAL,@,MIN,&V,3,4,10,72-32,1,up14.0,Perranoski,Leonhard,None,3:14,N,"35,725",-,None
+"Saturday, Aug 2",boxscore,BAL,@,MIN,W,6,5,None,73-32,1,up15.0,Cuellar,Worthington,Richert,2:55,D,"36,152",+,None
+"Sunday, Aug 3",boxscore,BAL,@,MIN,L,2,5,None,73-33,1,up14.0,Kaat,McNally,Worthington,2:40,D,"40,661",-,None
+"Monday, Aug 4",boxscore,BAL,@,CLE,L,0,2,None,73-34,1,up14.0,Hargan,Phoebus,None,2:04,N,"5,034",--,1969-04-29 (Rain)
+"Tuesday, Aug 5",boxscore,BAL,None,KCR,W-wo,7,5,10,74-34,1,up14.0,Watt,Cisco,None,2:30,N,"25,980",+,None
+"Wednesday, Aug 6",boxscore,BAL,None,KCR,W,2,1,None,75-34,1,up15.0,Cuellar,Rooker,Richert,1:56,N,"9,927",++,None
+"Thursday, Aug 7",boxscore,BAL,None,KCR,W,10,2,None,76-34,1,up15.0,McNally,Drago,None,2:27,N,"9,415",+++,None
+"Friday, Aug 8",boxscore,BAL,None,MIN,W-wo,6,5,None,77-34,1,up14.5,Lopez,Perranoski,None,3:06,N,"20,487",++++,None
+"Saturday, Aug 9",boxscore,BAL,None,MIN,W,5,1,None,78-34,1,up14.5,Palmer,Chance,Richert,2:36,N,"26,873",+++++,None
+"Sunday, Aug 10",boxscore,BAL,None,MIN,W,2,0,None,79-34,1,up14.5,Cuellar,Perry,None,1:58,N,"22,263",++++++,None
+"Monday, Aug 11",boxscore,BAL,None,OAK,L,4,7,None,79-35,1,up14.5,Nash,McNally,Fingers,3:06,N,"14,785",-,None
+"Tuesday, Aug 12",boxscore,BAL,None,OAK,W-wo,4,3,None,80-35,1,up14.5,Richert,Lindblad,None,2:27,N,"19,106",+,None
+"Wednesday, Aug 13",boxscore,BAL,None,OAK,W,8,0,None,81-35,1,up14.5,Palmer,Dobson,None,2:22,N,"16,826",++,None
+"Friday, Aug 15",boxscore,BAL,@,SEP,W,2,1,None,82-35,1,up15.5,Cuellar,Brabender,None,2:41,N,"9,922",+++,None
+"Saturday, Aug 16",boxscore,BAL,@,SEP,W,15,3,None,83-35,1,up16.5,McNally,Segui,Hardin,3:01,N,"11,550",++++,None
+"Sunday, Aug 17",boxscore,BAL,@,SEP,W,4,1,None,84-35,1,up16.5,Phoebus,Talbot,Watt,2:32,D,"10,227",+++++,None
+"Monday, Aug 18",boxscore,BAL,@,SEP,W,12,3,None,85-35,1,up17.0,Palmer,Brunet,None,2:43,N,"19,770",++++++,1969-05-29 (Rain)
+"Tuesday, Aug 19",boxscore,BAL,@,CAL,W,10,0,None,86-35,1,up17.0,Cuellar,May,None,2:27,N,"9,887",+++++++,None
+"Wednesday, Aug 20",boxscore,BAL,@,CAL,L,2,3,None,86-36,1,up16.0,Messersmith,McNally,Tatum,2:38,N,"11,334",-,None
+"Thursday, Aug 21",boxscore,BAL,@,CAL,L,0,2,None,86-37,1,up15.0,Kealey,Phoebus,None,2:07,N,"10,658",--,None
+"Friday, Aug 22",boxscore,BAL,@,OAK,W,4,3,10,87-37,1,up15.0,Palmer,Lindblad,Watt,2:36,N,"14,609",+,None
+"Saturday, Aug 23",boxscore,BAL,@,OAK,L,2,4,None,87-38,1,up15.0,Lindblad,Cuellar,Blue,2:22,D,"12,881",-,None
+"Sunday, Aug 24",boxscore,BAL,@,OAK,L,0,9,None,87-39,1,up14.5,Dobson,McNally,None,2:31,D,None,--,None
+"Sunday, Aug 24",boxscore,BAL,@,OAK,L-wo,8,9,18,87-40,1,up14.5,Nash,Lopez,None,5:08,D,"24,970",---,None
+"Tuesday, Aug 26",boxscore,BAL,None,SEP,L,1,2,None,87-41,1,up14.0,Brabender,Phoebus,None,2:31,N,"11,400",----,None
+"Wednesday, Aug 27",boxscore,BAL,None,SEP,W,7,2,None,88-41,1,up14.0,Cuellar,Brunet,None,2:17,N,"8,960",+,None
+"Thursday, Aug 28",boxscore,BAL,None,SEP,W-wo,4,3,11,89-41,1,up14.0,Watt,Womack,None,3:00,N,"8,118",++,None
+"Friday, Aug 29",boxscore,BAL,None,CAL,L,2,6,None,89-42,1,up12.5,Messersmith,McNally,Tatum,2:16,N,None,-,None
+"Friday, Aug 29",boxscore,BAL,None,CAL,L,1,2,None,89-43,1,up12.5,McGlothlin,Hardin,None,2:08,N,"13,350",--,None
+"Saturday, Aug 30",boxscore,BAL,None,CAL,W,6,3,None,90-43,1,up12.5,Leonhard,Wright,None,2:43,N,"10,189",+,None
+"Sunday, Aug 31",boxscore,BAL,None,CAL,W,5,4,None,91-43,1,up12.5,Cuellar,May,Hall,2:33,N,"11,255",++,None
+"Monday, Sep 1",boxscore,BAL,@,CHW,W,8,0,None,92-43,1,up13.0,Palmer,Wynne,None,2:36,D,"18,102",+++,None
+"Tuesday, Sep 2",boxscore,BAL,@,CHW,L,3,10,None,92-44,1,up13.0,Peters,McNally,Wood,2:23,N,"5,336",-,None
+"Thursday, Sep 4",boxscore,BAL,@,DET,W,5,4,None,93-44,1,up13.5,Richert,Timmermann,None,2:17,N,"13,799",+,1969-07-04 (Rain)
+"Friday, Sep 5",boxscore,BAL,@,DET,W,8,4,None,94-44,1,up14.5,Cuellar,Kilkenny,None,2:18,N,"32,090",++,None
+"Saturday, Sep 6",boxscore,BAL,@,DET,L-wo,4,5,11,94-45,1,up13.5,Timmermann,Watt,None,3:07,N,"18,451",-,None
+"Sunday, Sep 7",boxscore,BAL,@,DET,W,6,5,14,95-45,1,up14.5,Watt,Dobson,None,3:28,D,"29,771",+,None
+"Tuesday, Sep 9",boxscore,BAL,None,WSA,W,6,1,None,96-45,1,up15.5,Cuellar,Carlos,None,2:25,N,None,++,None
+"Tuesday, Sep 9",boxscore,BAL,None,WSA,W,3,2,None,97-45,1,up15.5,Phoebus,Coleman,Watt,2:39,N,"10,747",+++,1969-09-08 (Rain)
+"Wednesday, Sep 10",boxscore,BAL,None,BOS,W,8,7,None,98-45,1,up15.5,Severinsen,Wagner,Watt,2:31,N,"10,553",++++,None
+"Thursday, Sep 11",boxscore,BAL,None,BOS,W,4,2,None,99-45,1,up16.5,McNally,Stange,None,2:08,N,"7,284",+++++,None
+"Friday, Sep 12",boxscore,BAL,None,CLE,W,2,1,None,100-45,1,up17.5,Hardin,Williams,Richert,2:07,N,"9,454",++++++,None
+"Saturday, Sep 13",boxscore,BAL,None,CLE,W,10,5,None,101-45,1,up18.5,Phoebus,Hargan,Leonhard,2:34,N,"20,075",+++++++,None
+"Sunday, Sep 14",boxscore,BAL,None,CLE,W,7,3,None,102-45,1,up18.5,Cuellar,McDowell,None,2:26,D,"9,434",++++++++,None
+"Monday, Sep 15",boxscore,BAL,@,WSA,L-wo,2,3,None,102-46,1,up17.5,Humphreys,Palmer,None,1:51,N,"5,376",-,None
+"Tuesday, Sep 16",boxscore,BAL,@,WSA,W,1,0,None,103-46,1,up18.5,McNally,Hannan,Watt,2:41,N,"8,165",+,None
+"Thursday, Sep 18",boxscore,BAL,@,BOS,W,6,4,None,104-46,1,up18.5,Cuellar,Wagner,Hall,2:40,N,None,++,None
+"Thursday, Sep 18",boxscore,BAL,@,BOS,L,0,5,None,104-47,1,up18.5,Romo,Hardin,None,2:18,N,"20,430",-,1969-09-17 (Rain)
+"Friday, Sep 19",boxscore,BAL,None,NYY,W,4,2,None,105-47,1,up19.5,Palmer,Kekich,None,2:25,N,"9,223",+,None
+"Saturday, Sep 20",boxscore,BAL,None,NYY,W,8,7,None,106-47,1,up20.5,Lopez,Aker,Richert,2:33,D,"7,115",++,None
+"Tuesday, Sep 23",boxscore,BAL,@,CLE,L,1,3,None,106-48,1,up19.5,McDowell,Phoebus,None,2:16,N,"3,273",-,None
+"Wednesday, Sep 24",boxscore,BAL,@,CLE,W,4,3,11,107-48,1,up21.0,Hall,Law,None,2:49,N,"3,297",+,None
+"Thursday, Sep 25",boxscore,BAL,@,CLE,W,4,1,None,108-48,1,up22.0,McNally,Tiant,None,2:41,N,"3,620",++,None
+"Friday, Sep 26",boxscore,BAL,@,NYY,L,2,4,None,108-49,1,up22.0,Kekich,Palmer,None,2:01,N,"7,749",-,None
+"Saturday, Sep 27",boxscore,BAL,@,NYY,L,0,1,None,108-50,1,up21.0,Peterson,Hardin,None,1:44,D,"12,000",--,None
+"Sunday, Sep 28",boxscore,BAL,@,NYY,L-wo,2,3,None,108-51,1,up20.0,Stottlemyre,Richert,None,2:26,D,"10,097",---,None
+"Monday, Sep 29",boxscore,BAL,None,DET,L,1,4,None,108-52,1,up19.0,Kilkenny,Cuellar,None,2:16,N,"6,252",----,None
+"Tuesday, Sep 30",boxscore,BAL,None,DET,L,3,4,None,108-53,1,up18.0,Timmermann,McNally,None,2:14,N,"4,877",-----,None
+"Wednesday, Oct 1",boxscore,BAL,None,DET,W-wo,2,1,10,109-53,1,up19.0,Palmer,Lolich,None,1:55,N,"4,222",+,None

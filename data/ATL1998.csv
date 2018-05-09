@@ -1,0 +1,162 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 2",boxscore,ATL,None,MIL,L,6,8,11,1-1,1, Tied,Myers,Butler,None,3:42,N,"29,671",-,None
+"Friday, Apr 3",boxscore,ATL,None,PHI,W,5,1,None,2-1,1, Tied,Neagle,Grace,None,2:33,N,"30,020",+,None
+"Saturday, Apr 4",boxscore,ATL,None,PHI,W,5,4,None,3-1,1, Tied,Martinez,Brewer,Wohlers,3:05,N,"39,154",++,None
+"Sunday, Apr 5",boxscore,ATL,None,PHI,L,1,2,None,3-2,2, 1.0,Schilling,Maddux,None,2:07,D,"35,331",-,None
+"Tuesday, Apr 7",boxscore,ATL,@,PIT,W,11,3,None,4-2,2, 0.5,Glavine,Schmidt,None,2:39,N,"43,268",+,None
+"Wednesday, Apr 8",boxscore,ATL,@,PIT,L,3,5,None,4-3,2, 1.0,Loaiza,Neagle,Loiselle,2:13,N,"11,254",-,None
+"Thursday, Apr 9",boxscore,ATL,@,PIT,W,4,3,None,5-3,1, Tied,Millwood,Lieber,Wohlers,2:31,D,"9,560",+,None
+"Friday, Apr 10",boxscore,ATL,@,PHI,L-wo,0,1,None,5-4,2, 0.5,Schilling,Cather,None,2:00,N,"30,311",-,None
+"Saturday, Apr 11",boxscore,ATL,@,PHI,L,5,6,None,5-5,3, 1.5,Green,Martinez,None,2:56,N,"17,676",--,None
+"Sunday, Apr 12",boxscore,ATL,@,PHI,W,3,2,None,6-5,3, 1.0,Glavine,Stephenson,Wohlers,2:35,D,"18,760",+,None
+"Monday, Apr 13",boxscore,ATL,@,PHI,L,8,11,None,6-6,3, 1.5,Spradlin,Ligtenberg,Bottalico,2:54,N,"15,101",-,None
+"Tuesday, Apr 14",boxscore,ATL,None,PIT,W,6,0,None,7-6,3, 1.5,Millwood,Lieber,None,2:12,N,"31,259",+,None
+"Wednesday, Apr 15",boxscore,ATL,None,PIT,W,7,0,None,8-6,2, 1.5,Maddux,Silva,None,2:11,N,"30,381",++,None
+"Thursday, Apr 16",boxscore,ATL,None,PIT,W,3,1,None,9-6,2, 0.5,Smoltz,Cordova,Wohlers,2:40,D,"35,760",+++,None
+"Saturday, Apr 18",boxscore,ATL,@,COL,W,11,4,None,10-6,1, Tied,Neagle,Astacio,None,2:27,D,"48,058",++++,None
+"Sunday, Apr 19",boxscore,ATL,@,COL,W,5,3,None,11-6,2, 0.5,Millwood,Thompson,Wohlers,2:43,D,"48,038",+++++,None
+"Sunday, Apr 19",boxscore,ATL,@,COL,L,7,10,None,11-7,2, 0.5,Wright,Martinez,Dipoto,3:17,N,"43,977",-,1998-04-17 (Snow)
+"Monday, Apr 20",boxscore,ATL,@,COL,W,7,5,None,12-7,1, Tied,Maddux,Kile,Ligtenberg,2:48,N,"43,594",+,None
+"Wednesday, Apr 22",boxscore,ATL,None,ARI,W,5,2,None,13-7,1,up 0.5,Smoltz,Benes,None,2:37,N,"30,952",++,None
+"Thursday, Apr 23",boxscore,ATL,None,ARI,W,3,1,None,14-7,1,up 1.0,Glavine,Blair,Wohlers,2:27,N,"33,013",+++,None
+"Friday, Apr 24",boxscore,ATL,None,ARI,W-wo,6,5,None,15-7,1,up 1.0,Ligtenberg,Springer,None,2:54,N,"41,514",++++,None
+"Saturday, Apr 25",boxscore,ATL,None,COL,L,7,11,None,15-8,1,up 1.0,Kile,Millwood,None,3:06,N,"49,161",-,None
+"Sunday, Apr 26",boxscore,ATL,None,COL,L,6,7,None,15-9,1,up 0.5,Wright,Maddux,Dipoto,2:42,D,"42,400",--,None
+"Monday, Apr 27",boxscore,ATL,@,ARI,W,6,5,None,16-9,1,up 1.5,Cather,Daal,Wohlers,2:59,N,"47,410",+,1998-04-29 (Schedule change)
+"Tuesday, Apr 28",boxscore,ATL,@,ARI,W,12,2,None,17-9,1,up 2.5,Glavine,Blair,None,2:54,N,"47,593",++,None
+"Thursday, Apr 30",boxscore,ATL,None,SFG,W,6,0,None,18-9,1,up 4.0,Neagle,Hershiser,None,2:11,N,"31,818",+++,None
+"Friday, May 1",boxscore,ATL,None,SFG,W,6,2,None,19-9,1,up 4.5,Maddux,Rueter,None,2:14,N,"35,777",++++,None
+"Saturday, May 2",boxscore,ATL,None,SFG,W-wo,4,3,None,20-9,1,up 5.5,Ligtenberg,Nen,None,2:57,N,"46,597",+++++,None
+"Sunday, May 3",boxscore,ATL,None,SFG,L,8,12,None,20-10,1,up 4.5,Darwin,Glavine,None,3:12,D,"36,958",-,None
+"Monday, May 4",boxscore,ATL,None,LAD,W,4,2,None,21-10,1,up 5.5,Millwood,Guthrie,Ligtenberg,2:27,N,"32,330",+,None
+"Tuesday, May 5",boxscore,ATL,None,LAD,W,8,3,None,22-10,1,up 5.5,Neagle,Valdez,None,2:53,N,"30,310",++,None
+"Wednesday, May 6",boxscore,ATL,None,LAD,W,7,0,None,23-10,1,up 5.5,Maddux,Dreifort,None,2:21,D,"38,637",+++,None
+"Thursday, May 7",boxscore,ATL,None,SDP,W,6,3,None,24-10,1,up 5.5,Smoltz,Hamilton,Ligtenberg,2:09,N,"31,811",++++,None
+"Friday, May 8",boxscore,ATL,None,SDP,L,2,3,None,24-11,1,up 4.5,Ashby,Glavine,Hoffman,2:27,N,"37,490",-,None
+"Saturday, May 9",boxscore,ATL,None,SDP,W,6,4,None,25-11,1,up 5.0,Millwood,VanRyn,Ligtenberg,2:42,N,"46,160",+,None
+"Sunday, May 10",boxscore,ATL,None,SDP,W,8,5,None,26-11,1,up 5.5,Cather,Wall,Ligtenberg,2:43,D,"33,376",++,None
+"Monday, May 11",boxscore,ATL,@,CIN,W,8,1,None,27-11,1,up 6.5,Maddux,Remlinger,None,2:17,N,"19,285",+++,None
+"Tuesday, May 12",boxscore,ATL,@,CIN,W,5,1,None,28-11,1,up 7.0,Smoltz,Weathers,None,2:24,N,"19,033",++++,None
+"Wednesday, May 13",boxscore,ATL,@,STL,W,10,2,None,29-11,1,up 7.0,Glavine,Politte,None,2:40,N,"31,532",+++++,None
+"Thursday, May 14",boxscore,ATL,@,STL,W,7,3,None,30-11,1,up 8.5,Rocker,Acevedo,None,2:57,N,"32,119",++++++,None
+"Friday, May 15",boxscore,ATL,@,HOU,W,3,2,None,31-11,1,up 9.5,Neagle,Lima,Martinez,2:23,N,"38,941",+++++++,None
+"Saturday, May 16",boxscore,ATL,@,HOU,L-wo,2,3,None,31-12,1,up 8.5,Henry,Ligtenberg,None,2:34,N,"51,526",-,None
+"Sunday, May 17",boxscore,ATL,@,HOU,L,1,8,None,31-13,1,up 8.5,Bergman,Smoltz,None,2:29,D,"35,250",--,None
+"Monday, May 18",boxscore,ATL,@,HOU,W,4,0,None,32-13,1,up 9.0,Glavine,Hampton,None,2:47,D,"22,119",+,None
+"Wednesday, May 20",boxscore,ATL,None,COL,W,5,1,None,33-13,1,up 9.0,Millwood,Thomson,None,2:30,N,"33,531",++,None
+"Thursday, May 21",boxscore,ATL,None,COL,W,2,0,None,34-13,1,up 9.0,Neagle,Kile,Ligtenberg,2:56,N,"34,611",+++,None
+"Friday, May 22",boxscore,ATL,None,CHC,W,8,2,None,35-13,1,up 9.0,Maddux,Clark,None,2:22,N,"43,576",++++,None
+"Saturday, May 23",boxscore,ATL,None,CHC,L,6,10,11,35-14,1,up 8.0,Beck,Edmondson,None,4:09,N,"50,189",-,None
+"Sunday, May 24",boxscore,ATL,None,CHC,W-wo,2,1,None,36-14,1,up 8.0,Glavine,Adams,None,2:29,D,"48,580",+,None
+"Monday, May 25",boxscore,ATL,None,CHC,W,9,5,None,37-14,1,up 8.5,Millwood,Tapani,None,2:58,N,"33,704",++,None
+"Tuesday, May 26",boxscore,ATL,None,MON,W,9,3,None,38-14,1,up 8.5,Neagle,Batista,None,2:44,N,"28,662",+++,None
+"Wednesday, May 27",boxscore,ATL,None,MON,W,2,0,None,39-14,1,up 8.5,Maddux,Vazquez,Ligtenberg,2:09,N,"32,834",++++,None
+"Thursday, May 28",boxscore,ATL,None,MON,L,5,9,None,39-15,1,up 8.0,Maddux,Wohlers,None,3:12,N,"31,416",-,None
+"Friday, May 29",boxscore,ATL,@,CHC,L-wo,3,5,11,39-16,1,up 7.0,Adams,Rocker,None,3:23,D,"38,010",--,None
+"Saturday, May 30",boxscore,ATL,@,CHC,L,8,9,None,39-17,1,up 6.0,Trachsel,Millwood,Patterson,3:24,D,"39,817",---,None
+"Sunday, May 31",boxscore,ATL,@,CHC,L,2,4,None,39-18,1,up 5.0,Tapani,Neagle,Beck,2:23,N,"29,285",----,None
+"Monday, Jun 1",boxscore,ATL,@,MIL,W,5,2,None,40-18,1,up 6.0,Maddux,Woodard,None,2:26,N,"21,873",+,None
+"Tuesday, Jun 2",boxscore,ATL,@,MIL,W,9,0,None,41-18,1,up 7.0,Martinez,Wagner,None,2:45,N,"39,017",++,None
+"Wednesday, Jun 3",boxscore,ATL,@,MIL,W,5,2,None,42-18,1,up 8.0,Glavine,Juden,Wohlers,2:46,N,"19,116",+++,None
+"Friday, Jun 5",boxscore,ATL,@,BAL,L,2,3,None,42-19,1,up 7.0,Erickson,Neagle,None,1:53,N,"48,039",-,None
+"Saturday, Jun 6",boxscore,ATL,@,BAL,W,10,5,None,43-19,1,up 7.0,Millwood,Mussina,None,3:30,D,"48,098",+,None
+"Sunday, Jun 7",boxscore,ATL,@,BAL,W,9,0,None,44-19,1,up 8.0,Maddux,Drabek,None,2:25,D,"48,090",++,None
+"Monday, Jun 8",boxscore,ATL,None,BOS,W-wo,7,6,None,45-19,1,up 8.0,Embree,Wasdin,None,2:54,N,"44,018",+++,None
+"Tuesday, Jun 9",boxscore,ATL,None,BOS,L,3,9,None,45-20,1,up 8.0,Saberhagen,Martinez,None,3:03,N,"43,121",-,None
+"Wednesday, Jun 10",boxscore,ATL,None,BOS,L,6,10,None,45-21,1,up 7.0,Martinez,Neagle,None,3:01,N,"41,345",--,None
+"Friday, Jun 12",boxscore,ATL,None,MON,L,5,7,None,45-22,1,up 6.5,Batista,Cather,Urbina,2:45,N,"45,942",---,None
+"Saturday, Jun 13",boxscore,ATL,None,MON,W,9,7,None,46-22,1,up 6.5,Glavine,Johnson,Martinez,2:57,N,"48,943",+,None
+"Sunday, Jun 14",boxscore,ATL,None,MON,W,5,1,None,47-22,1,up 7.5,Millwood,Perez,None,2:05,D,"46,543",++,None
+"Tuesday, Jun 16",boxscore,ATL,None,FLA,W,7,0,None,48-22,1,up 7.5,Neagle,Fontenot,None,2:07,N,"39,331",+++,None
+"Wednesday, Jun 17",boxscore,ATL,None,FLA,W,6,2,None,49-22,1,up 8.5,Maddux,Sanchez,None,2:19,N,"38,021",++++,None
+"Thursday, Jun 18",boxscore,ATL,None,FLA,L,2,3,None,49-23,1,up 8.5,Ojala,Glavine,Alfonseca,2:49,D,"46,296",-,None
+"Friday, Jun 19",boxscore,ATL,@,MON,L,1,14,None,49-24,1,up 8.5,Boskie,Millwood,None,2:29,N,"10,364",--,None
+"Saturday, Jun 20",boxscore,ATL,@,MON,W,5,1,None,50-24,1,up 9.5,Smoltz,Perez,None,2:19,N,"11,139",+,None
+"Sunday, Jun 21",boxscore,ATL,@,MON,L,1,4,None,50-25,1,up 8.5,Hermanson,Neagle,Urbina,2:17,D,"12,265",-,None
+"Monday, Jun 22",boxscore,ATL,@,NYY,L,4,6,None,50-26,1,up 8.5,Nelson,Martinez,Rivera,3:10,N,"53,316",--,None
+"Tuesday, Jun 23",boxscore,ATL,@,NYY,W,7,2,None,51-26,1,up 8.5,Glavine,Hernandez,None,2:44,N,"54,775",+,None
+"Wednesday, Jun 24",boxscore,ATL,None,NYY,L,6,10,None,51-27,1,up 7.5,Cone,Millwood,Rivera,3:19,N,"48,980",-,None
+"Thursday, Jun 25",boxscore,ATL,None,NYY,L,0,6,None,51-28,1,up 6.5,Wells,Neagle,None,2:58,N,"49,052",--,None
+"Friday, Jun 26",boxscore,ATL,None,TOR,L,4,6,None,51-29,1,up 6.5,Hentgen,Smoltz,Myers,2:47,N,"47,081",---,None
+"Saturday, Jun 27",boxscore,ATL,None,TOR,W,2,0,None,52-29,1,up 7.5,Maddux,Guzman,None,1:46,N,"48,338",+,None
+"Sunday, Jun 28",boxscore,ATL,None,TOR,W,10,3,None,53-29,1,up 7.5,Glavine,Carpenter,None,2:23,D,"44,185",++,None
+"Tuesday, Jun 30",boxscore,ATL,@,TBD,W,7,2,None,54-29,1,up 8.5,Neagle,Saunders,None,2:59,N,"41,047",+++,None
+"Wednesday, Jul 1",boxscore,ATL,@,TBD,W,6,5,None,55-29,1,up 9.5,Springer,Hernandez,Ligtenberg,3:04,N,"41,100",++++,None
+"Thursday, Jul 2",boxscore,ATL,@,TBD,W,6,0,None,56-29,1,up 9.5,Maddux,Arrojo,None,2:21,D,"40,749",+++++,None
+"Friday, Jul 3",boxscore,ATL,None,NYM,W,3,2,None,57-29,1,up10.5,Glavine,Bohanon,Ligtenberg,2:41,N,"48,757",++++++,None
+"Saturday, Jul 4",boxscore,ATL,None,NYM,W,4,1,None,58-29,1,up11.5,Millwood,Yoshii,None,2:32,N,"47,900",+++++++,None
+"Sunday, Jul 5",boxscore,ATL,None,NYM,W-wo,3,2,11,59-29,1,up12.5,Seanez,Franco,None,3:35,D,"40,430",++++++++,None
+"Thursday, Jul 9",boxscore,ATL,@,FLA,W,6,4,None,60-29,1,up13.5,Smoltz,Hernandez,Ligtenberg,2:41,N,"25,535",+++++++++,None
+"Friday, Jul 10",boxscore,ATL,@,FLA,L,1,3,None,60-30,1,up13.5,Sanchez,Neagle,Heredia,2:34,N,"26,018",-,None
+"Saturday, Jul 11",boxscore,ATL,@,FLA,L,3,4,None,60-31,1,up12.5,Mantei,Maddux,None,2:27,N,"36,795",--,None
+"Sunday, Jul 12",boxscore,ATL,@,FLA,L,3,5,None,60-32,1,up11.5,Meadows,Glavine,Alfonseca,2:31,D,"24,956",---,None
+"Tuesday, Jul 14",boxscore,ATL,@,NYM,W,4,2,None,61-32,1,up12.5,Smoltz,Jones,Ligtenberg,2:35,N,"38,000",+,None
+"Wednesday, Jul 15",boxscore,ATL,@,NYM,W,12,1,None,62-32,1,up13.5,Neagle,Yoshii,None,2:52,D,"41,347",++,None
+"Thursday, Jul 16",boxscore,ATL,None,MIL,W,4,3,None,63-32,1,up13.5,Maddux,Eldred,Seanez,3:04,N,"46,098",+++,None
+"Friday, Jul 17",boxscore,ATL,None,MIL,W,4,1,None,64-32,1,up14.5,Glavine,Woodall,Rocker,2:25,N,"48,544",++++,None
+"Saturday, Jul 18",boxscore,ATL,None,MIL,L,1,7,None,64-33,1,up13.5,Woodard,Millwood,None,2:44,N,"50,284",-,None
+"Sunday, Jul 19",boxscore,ATL,None,MIL,W,11,6,None,65-33,1,up14.5,Smoltz,Juden,None,3:10,D,"44,598",+,None
+"Monday, Jul 20",boxscore,ATL,None,CHC,L,4,11,None,65-34,1,up13.5,Tapani,Neagle,None,3:08,N,"47,475",-,None
+"Tuesday, Jul 21",boxscore,ATL,None,CHC,L,0,3,None,65-35,1,up12.5,Wood,Maddux,Beck,2:37,N,"47,933",--,None
+"Wednesday, Jul 22",boxscore,ATL,@,PHI,W,14,2,None,66-35,1,up13.0,Glavine,Loewer,None,2:42,N,"28,304",+,None
+"Thursday, Jul 23",boxscore,ATL,@,PHI,W,3,2,None,67-35,1,up13.0,Millwood,Green,Ligtenberg,2:34,N,"28,222",++,None
+"Friday, Jul 24",boxscore,ATL,@,PIT,W,3,0,None,68-35,1,up12.5,Smoltz,Peters,None,2:08,N,"24,776",+++,None
+"Saturday, Jul 25",boxscore,ATL,@,PIT,L,1,4,None,68-36,1,up12.5,Cordova,Neagle,Christiansen,2:40,N,"41,568",-,None
+"Sunday, Jul 26",boxscore,ATL,@,PIT,W,2,1,None,69-36,1,up13.5,Maddux,Schmidt,Ligtenberg,2:26,D,"34,925",+,None
+"Monday, Jul 27",boxscore,ATL,@,CIN,W,3,2,10,70-36,1,up14.0,Seanez,Belinda,Ligtenberg,3:22,N,"23,866",++,None
+"Tuesday, Jul 28",boxscore,ATL,@,CIN,L,1,13,None,70-37,1,up13.0,Sullivan,Millwood,None,2:52,N,"22,690",-,None
+"Wednesday, Jul 29",boxscore,ATL,@,CIN,W,11,5,None,71-37,1,up13.0,Seanez,Parris,None,3:25,N,"24,480",+,None
+"Thursday, Jul 30",boxscore,ATL,@,CIN,W,13,3,None,72-37,1,up14.0,Neagle,Krivda,None,2:49,D,"28,946",++,None
+"Friday, Jul 31",boxscore,ATL,None,STL,L,2,3,None,72-38,1,up14.0,Mercker,Maddux,Painter,2:24,N,"50,662",-,None
+"Saturday, Aug 1",boxscore,ATL,None,STL,W,3,1,None,73-38,1,up14.0,Seanez,Croushore,Ligtenberg,3:00,D,"50,137",+,None
+"Sunday, Aug 2",boxscore,ATL,None,STL,W,4,3,None,74-38,1,up14.0,Millwood,Witt,Ligtenberg,2:44,D,"49,296",++,None
+"Tuesday, Aug 4",boxscore,ATL,None,CIN,W,4,2,None,75-38,1,up14.5,Smoltz,Sullivan,Ligtenberg,2:29,N,"43,012",+++,None
+"Wednesday, Aug 5",boxscore,ATL,None,CIN,L,9,13,None,75-39,1,up14.5,Hudek,Springer,None,3:18,N,"43,315",-,None
+"Thursday, Aug 6",boxscore,ATL,None,CIN,W,5,0,None,76-39,1,up14.5,Maddux,Remlinger,None,2:05,N,"47,311",+,None
+"Friday, Aug 7",boxscore,ATL,@,SFG,W,5,0,None,77-39,1,up14.5,Glavine,Rueter,None,2:14,N,"29,676",++,None
+"Saturday, Aug 8",boxscore,ATL,@,SFG,W,14,6,None,78-39,1,up14.5,Millwood,Darwin,None,2:58,D,"39,174",+++,None
+"Sunday, Aug 9",boxscore,ATL,@,SFG,W,7,5,None,79-39,1,up15.5,Martinez,Mesa,Ligtenberg,3:11,N,"43,957",++++,None
+"Tuesday, Aug 11",boxscore,ATL,@,SDP,L,1,3,None,79-40,1,up14.0,Hamilton,Neagle,Hoffman,2:09,N,"31,430",-,None
+"Wednesday, Aug 12",boxscore,ATL,@,SDP,L,1,5,None,79-41,1,up14.0,Ashby,Maddux,None,2:20,N,"40,597",--,None
+"Thursday, Aug 13",boxscore,ATL,@,SDP,W,5,0,None,80-41,1,up14.5,Glavine,Langston,None,2:30,D,"34,547",+,1998-08-10 (Schedule change)
+"Friday, Aug 14",boxscore,ATL,@,LAD,W,5,2,None,81-41,1,up14.5,Millwood,Mlicki,Ligtenberg,2:56,N,"43,560",++,None
+"Saturday, Aug 15",boxscore,ATL,@,LAD,W,5,3,None,82-41,1,up14.5,Smoltz,Park,Ligtenberg,2:53,D,"41,240",+++,None
+"Sunday, Aug 16",boxscore,ATL,@,LAD,L,0,1,None,82-42,1,up14.5,Radinsky,Neagle,Shaw,2:35,N,"44,471",-,None
+"Tuesday, Aug 18",boxscore,ATL,None,SFG,W,8,4,None,83-42,1,up14.0,Maddux,Rueter,None,2:48,N,"42,986",+,None
+"Wednesday, Aug 19",boxscore,ATL,None,SFG,L,2,6,None,83-43,1,up13.0,Gardner,Glavine,None,2:59,N,"44,535",-,None
+"Thursday, Aug 20",boxscore,ATL,None,SDP,L,0,2,None,83-44,1,up12.5,Brown,Millwood,Hoffman,2:47,N,"43,730",--,None
+"Friday, Aug 21",boxscore,ATL,None,SDP,W,5,4,None,84-44,1,up13.0,Smoltz,Hamilton,Ligtenberg,2:16,N,"48,268",+,None
+"Saturday, Aug 22",boxscore,ATL,None,LAD,W,7,5,None,85-44,1,up13.0,Neagle,Dreifort,Ligtenberg,3:04,D,"48,326",++,None
+"Sunday, Aug 23",boxscore,ATL,None,LAD,W,12,7,None,86-44,1,up14.0,Maddux,Perez,None,3:11,N,"45,179",+++,None
+"Monday, Aug 24",boxscore,ATL,None,LAD,W,4,3,None,87-44,1,up15.0,Glavine,Shaw,Ligtenberg,2:42,D,"39,449",++++,None
+"Tuesday, Aug 25",boxscore,ATL,@,HOU,L,2,3,None,87-45,1,up15.0,Hampton,Millwood,Wagner,2:24,N,"32,157",-,None
+"Wednesday, Aug 26",boxscore,ATL,@,HOU,W,6,2,None,88-45,1,up15.0,Smoltz,Bergman,None,2:48,N,"32,651",+,None
+"Thursday, Aug 27",boxscore,ATL,@,STL,W,6,4,None,89-45,1,up16.0,Neagle,Morris,Ligtenberg,2:33,N,"33,889",++,None
+"Friday, Aug 28",boxscore,ATL,@,STL,L-wo,4,5,10,89-46,1,up15.0,Acevedo,Martinez,None,3:28,N,"45,666",-,None
+"Saturday, Aug 29",boxscore,ATL,@,STL,W,4,3,None,90-46,1,up15.0,Glavine,Bottenfield,Seanez,3:02,D,"47,627",+,None
+"Sunday, Aug 30",boxscore,ATL,@,STL,L,7,8,None,90-47,1,up15.0,Petkovsek,Martinez,Acevedo,2:45,N,"44,051",-,None
+"Monday, Aug 31",boxscore,ATL,None,HOU,L,3,4,None,90-48,1,up14.0,Powell,Smoltz,Wagner,2:43,N,"33,883",--,None
+"Tuesday, Sep 1",boxscore,ATL,None,HOU,W,6,4,None,91-48,1,up15.0,Neagle,Elarton,Ligtenberg,3:06,N,"31,168",+,None
+"Wednesday, Sep 2",boxscore,ATL,None,HOU,L,2,4,None,91-49,1,up14.0,Johnson,Maddux,Wagner,2:22,N,"46,238",-,None
+"Friday, Sep 4",boxscore,ATL,@,NYM,L,1,2,None,91-50,1,up13.0,Leiter,Glavine,None,2:13,N,"34,617",--,None
+"Saturday, Sep 5",boxscore,ATL,@,NYM,L,4,5,None,91-51,1,up12.0,Wendell,Seanez,Franco,3:10,D,"43,573",---,None
+"Sunday, Sep 6",boxscore,ATL,@,NYM,W,4,0,None,92-51,1,up13.0,Smoltz,Reed,None,2:15,D,"40,311",+,None
+"Monday, Sep 7",boxscore,ATL,@,NYM,L,7,8,None,92-52,1,up12.0,McMichael,Rocker,Franco,3:01,D,"22,953",-,None
+"Tuesday, Sep 8",boxscore,ATL,@,MON,L,3,6,None,92-53,1,up12.0,Batista,Maddux,Urbina,2:46,N,"7,216",--,None
+"Wednesday, Sep 9",boxscore,ATL,@,MON,L-wo,2,3,None,92-54,1,up11.0,Urbina,Rocker,None,2:33,N,"7,842",---,None
+"Thursday, Sep 10",boxscore,ATL,@,MON,W,7,4,None,93-54,1,up11.0,Millwood,Thurman,Ligtenberg,2:42,N,"8,455",+,None
+"Friday, Sep 11",boxscore,ATL,None,FLA,W,8,2,None,94-54,1,up12.0,Smoltz,Ojala,None,2:44,N,"47,235",++,None
+"Saturday, Sep 12",boxscore,ATL,None,FLA,W,4,2,None,95-54,1,up13.0,Chen,Hernandez,Ligtenberg,2:30,N,"48,797",+++,None
+"Sunday, Sep 13",boxscore,ATL,None,FLA,L,5,6,None,95-55,1,up12.0,Sanchez,Perez,Mantei,2:54,D,"45,683",-,None
+"Monday, Sep 14",boxscore,ATL,None,PHI,W,4,2,None,96-55,1,up12.0,Glavine,Schilling,Ligtenberg,2:44,N,"33,367",+,None
+"Tuesday, Sep 15",boxscore,ATL,None,PHI,W,3,0,None,97-55,1,up12.5,Millwood,Green,Charlton,2:32,N,"35,478",++,None
+"Wednesday, Sep 16",boxscore,ATL,None,PHI,W,5,1,None,98-55,1,up12.5,Smoltz,Loewer,None,2:18,D,"34,961",+++,None
+"Thursday, Sep 17",boxscore,ATL,@,ARI,W,1,0,None,99-55,1,up13.0,Neagle,Daal,Ligtenberg,2:07,N,"43,251",++++,None
+"Friday, Sep 18",boxscore,ATL,@,ARI,L,0,5,None,99-56,1,up13.0,Benes,Maddux,None,2:31,N,"46,434",-,None
+"Saturday, Sep 19",boxscore,ATL,@,ARI,W,5,0,None,100-56,1,up13.0,Glavine,Anderson,None,2:18,N,"48,405",+,None
+"Sunday, Sep 20",boxscore,ATL,@,ARI,W,10,0,None,101-56,1,up13.0,Chen,Telemaco,None,2:36,D,"44,876",++,None
+"Tuesday, Sep 22",boxscore,ATL,@,FLA,W,4,1,None,102-56,1,up14.0,Millwood,Medina,Ligtenberg,2:29,N,"23,355",+++,None
+"Wednesday, Sep 23",boxscore,ATL,@,FLA,W,11,0,None,103-56,1,up15.0,Smoltz,Ojala,None,2:25,N,"22,469",++++,None
+"Friday, Sep 25",boxscore,ATL,None,NYM,W,6,5,None,104-56,1,up16.0,Martinez,Reed,Rocker,3:11,N,"48,443",+++++,None
+"Saturday, Sep 26",boxscore,ATL,None,NYM,W,4,0,None,105-56,1,up17.0,Neagle,Leiter,None,2:51,N,"48,117",++++++,None
+"Sunday, Sep 27",boxscore,ATL,None,NYM,W,7,2,None,106-56,1,up18.0,Maddux,Reynoso,None,3:07,D,"48,685",+++++++,None

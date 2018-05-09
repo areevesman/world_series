@@ -1,0 +1,152 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 12",boxscore,PIT,@,STL,L,0,5,None,0-2,7, 2.0,Alexander,Grimes,None,1:37,D,None,--,None
+"Saturday, Apr 14",boxscore,PIT,@,CIN,L,0,5,None,0-3,8, 2.5,Lucas,Miljus,None,1:54,D,"2,500",---,None
+"Sunday, Apr 15",boxscore,PIT,@,CIN,W,3,2,None,1-3,7, 2.5,Dawson,Luque,Hill,2:03,D,None,+,None
+"Monday, Apr 16",boxscore,PIT,@,CIN,W,8,1,None,2-3,7, 1.5,Grimes,Rixey,None,1:55,D,None,++,None
+"Thursday, Apr 19",boxscore,PIT,None,STL,L,10,13,None,2-4,7, 2.0,Littlejohn,Miljus,Sherdel,3:02,D,"30,000",-,None
+"Friday, Apr 20",boxscore,PIT,None,STL,L,2,6,None,2-5,8, 2.5,Haines,Grimes,None,2:03,D,None,--,None
+"Sunday, Apr 22",boxscore,PIT,@,CHC,&V,2,3,None,2-6,8, 3.5,Jones,Miljus,None,1:48,D,"48,000",---,None
+"Monday, Apr 23",boxscore,PIT,@,CHC,W,6,0,None,3-6,7, 3.0,Kremer,Malone,None,1:31,D,None,+,None
+"Tuesday, Apr 24",boxscore,PIT,@,CHC,L,2,7,None,3-7,8, 3.5,Blake,Dawson,None,1:41,D,None,-,None
+"Wednesday, Apr 25",boxscore,PIT,@,CHC,W,10,0,None,4-7,6, 3.0,Grimes,Root,None,1:55,D,None,+,None
+"Thursday, Apr 26",boxscore,PIT,None,CIN,W,7,2,None,5-7,6, 2.0,Hill,Edwards,None,1:44,D,None,++,None
+"Sunday, Apr 29",boxscore,PIT,@,CIN,L,2,3,None,5-8,6, 4.0,Rixey,Kremer,None,1:37,D,"13,136",-,None
+"Monday, Apr 30",boxscore,PIT,None,CHC,W,8,7,None,6-8,6, 3.0,Miljus,Malone,None,1:54,D,None,+,None
+"Tuesday, May 1",boxscore,PIT,None,CHC,W,4,1,None,7-8,5, 2.5,Hill,Bush,None,1:43,D,None,++,None
+"Wednesday, May 2",boxscore,PIT,None,CHC,W,9,8,10,8-8,4, 2.5,Dawson,Nehf,None,2:16,D,None,+++,None
+"Thursday, May 3",boxscore,PIT,None,BSN,L,4,5,11,8-9,5, 3.0,Brandt,Kremer,None,2:27,D,None,-,None
+"Friday, May 4",boxscore,PIT,None,BSN,W,13,3,None,9-9,4, 3.0,Grimes,Greenfield,None,1:40,D,None,+,None
+"Saturday, May 5",boxscore,PIT,None,BSN,W,6,2,None,10-9,4, 2.0,Dawson,Smith,Miljus,1:47,D,None,++,None
+"Monday, May 7",boxscore,PIT,None,BSN,W,9,4,None,11-9,3, 1.5,Miljus,Robertson,None,1:39,D,None,+++,None
+"Tuesday, May 8",boxscore,PIT,None,NYG,W,6,5,None,12-9,3, 0.5,Grimes,Henry,None,2:07,D,None,++++,None
+"Wednesday, May 9",boxscore,PIT,None,NYG,L,0,6,None,12-10,3, 1.5,Barnes,Dawson,None,1:44,D,None,-,None
+"Thursday, May 10",boxscore,PIT,None,NYG,L,4,5,None,12-11,5, 2.5,Fitzsimmons,Kremer,None,2:01,D,None,--,None
+"Saturday, May 12",boxscore,PIT,None,BRO,W,5,4,None,13-11,5, 2.0,Hill,McWeeny,None,2:13,D,"10,000",+,None
+"Sunday, May 13",boxscore,PIT,@,BRO,L,5,8,None,13-12,5, 3.0,Clark,Grimes,None,2:18,D,"22,000",-,1928-09-28 (Schedule change)
+"Monday, May 14",boxscore,PIT,None,BRO,L,6,7,None,13-13,5, 4.0,Doak,Brame,Vance,2:13,D,None,--,None
+"Tuesday, May 15",boxscore,PIT,None,BRO,L,3,10,None,13-14,6, 4.0,McWeeny,Miljus,None,1:50,D,None,---,None
+"Friday, May 18",boxscore,PIT,None,PHI,W,6,4,None,14-14,6, 4.5,Kremer,Miller,Grimes,2:02,D,None,+,None
+"Saturday, May 19",boxscore,PIT,None,PHI,W,3,1,None,15-14,6, 4.5,Hill,Benge,None,1:45,D,None,++,None
+"Sunday, May 20",boxscore,PIT,@,CIN,L,2,3,None,15-15,6, 4.5,Lucas,Grimes,None,1:44,D,"17,294",-,None
+"Monday, May 21",boxscore,PIT,@,CIN,L,3,4,None,15-16,6, 4.0,Rixey,Dawson,None,1:42,D,None,--,None
+"Monday, May 21",boxscore,PIT,@,CIN,W,6,3,None,16-16,6, 4.0,Fussell,May,None,1:51,D,"9,893",+,1928-04-17 (Rain)
+"Tuesday, May 22",boxscore,PIT,@,CIN,L,4,5,None,16-17,6, 4.5,Mays,Kremer,None,1:45,D,"3,373",-,None
+"Wednesday, May 23",boxscore,PIT,@,CIN,L,3,4,10,16-18,6, 5.5,Luque,Hill,None,2:40,D,"5,857",--,None
+"Thursday, May 24",boxscore,PIT,None,CHC,W,6,2,None,17-18,6, 4.5,Grimes,Nehf,None,1:58,D,"4,000",+,None
+"Friday, May 25",boxscore,PIT,None,CHC,L,3,10,None,17-19,6, 5.5,Root,Fussell,None,2:00,D,None,-,None
+"Saturday, May 26",boxscore,PIT,None,CHC,L,1,6,None,17-20,6, 6.5,Malone,Kremer,None,1:28,D,None,--,None
+"Sunday, May 27",boxscore,PIT,@,CHC,L,0,3,None,17-21,6, 7.5,Blake,Hill,None,1:19,D,"35,000",---,None
+"Tuesday, May 29",boxscore,PIT,None,STL,L,1,7,None,17-22,6, 8.0,Rhem,Grimes,None,2:01,D,None,----,None
+"Wednesday, May 30",boxscore,PIT,None,STL,L,1,10,None,17-23,6, 10.0,Sherdel,Miljus,None,1:45,D,"9,000",-----,None
+"Wednesday, May 30",boxscore,PIT,None,STL,L,3,4,None,17-24,6, 10.0,Johnson,Kremer,Haid,1:55,D,"4,000",------,None
+"Thursday, May 31",boxscore,PIT,None,STL,W,3,2,None,18-24,6, 9.5,Hill,Haines,None,1:49,D,None,+,None
+"Friday, Jun 1",boxscore,PIT,None,CHC,W,10,4,None,19-24,6, 9.5,Grimes,Blake,None,2:01,D,"2,500",++,None
+"Saturday, Jun 2",boxscore,PIT,None,CHC,L,6,10,None,19-25,6, 10.5,Weinert,Dawson,Root,1:54,D,None,-,None
+"Sunday, Jun 3",boxscore,PIT,@,BRO,W,9,7,14,20-25,6, 10.0,Grimes,Petty,None,3:12,D,"25,000",+,None
+"Thursday, Jun 7",boxscore,PIT,@,BSN,W,8,6,12,21-25,6, 8.0,Burwell,Smith,None,2:25,D,None,++,None
+"Friday, Jun 8",boxscore,PIT,@,BSN,L,5,9,None,21-26,6, 9.0,Brandt,Kremer,None,1:51,D,None,-,None
+"Saturday, Jun 9",boxscore,PIT,@,BSN,W,6,2,None,22-26,6, 7.5,Grimes,Genewich,None,1:31,D,None,+,None
+"Saturday, Jun 9",boxscore,PIT,@,BSN,W,6,3,None,23-26,6, 7.5,Miljus,Robertson,None,1:36,D,None,++,1928-06-06 (Rain)
+"Monday, Jun 11",boxscore,PIT,@,PHI,L,4,6,None,23-27,6, 9.0,Ring,Hill,Sweetland,1:50,D,None,-,None
+"Tuesday, Jun 12",boxscore,PIT,@,PHI,W,15,4,None,24-27,6, 8.0,Kremer,Miller,None,1:55,D,None,+,None
+"Wednesday, Jun 13",boxscore,PIT,@,PHI,L,3,4,None,24-28,6, 9.0,Sweetland,Grimes,None,1:52,D,"1,600",-,None
+"Thursday, Jun 14",boxscore,PIT,@,NYG,W,4,3,11,25-28,6, 8.5,Miljus,Fitzsimmons,None,2:05,D,None,+,None
+"Friday, Jun 15",boxscore,PIT,@,NYG,L,1,9,None,25-29,6, 9.0,Aldridge,Hill,None,1:43,D,"9,000",-,None
+"Saturday, Jun 16",boxscore,PIT,@,NYG,L,0,4,None,25-30,6, 10.0,Benton,Kremer,None,1:58,D,None,--,None
+"Sunday, Jun 17",boxscore,PIT,@,NYG,W,6,0,None,26-30,6, 10.0,Grimes,Henry,None,1:51,D,"35,000",+,None
+"Wednesday, Jun 20",boxscore,PIT,None,CIN,W,2,1,None,27-30,6, 10.0,Kremer,Rixey,None,1:33,D,"4,000",++,None
+"Thursday, Jun 21",boxscore,PIT,None,CIN,L,4,5,None,27-31,6, 10.5,Appleton,Fussell,None,1:48,D,"4,000",-,None
+"Friday, Jun 22",boxscore,PIT,None,CIN,W,11,1,None,28-31,6, 10.5,Grimes,Kolp,None,1:32,D,None,+,None
+"Saturday, Jun 23",boxscore,PIT,None,CIN,W,6,5,10,29-31,6, 9.5,Miljus,Kolp,None,2:14,D,None,++,None
+"Sunday, Jun 24",boxscore,PIT,@,CHC,L,1,8,None,29-32,6, 10.5,Nehf,Kremer,None,1:47,D,None,-,None
+"Tuesday, Jun 26",boxscore,PIT,@,CHC,W,1,0,None,30-32,6, 11.0,Grimes,Blake,None,1:33,D,None,+,None
+"Tuesday, Jun 26",boxscore,PIT,@,CHC,L,3,7,None,30-33,6, 11.0,Bush,Miljus,Malone,1:48,D,None,-,1928-06-25 (Rain)
+"Thursday, Jun 28",boxscore,PIT,@,STL,L,3,4,None,30-34,6, 12.0,Sherdel,Hill,None,1:48,D,None,--,None
+"Friday, Jun 29",boxscore,PIT,@,STL,L,4,9,None,30-35,6, 13.0,Mitchell,Kremer,None,1:56,D,"7,482",---,None
+"Saturday, Jun 30",boxscore,PIT,@,STL,W,4,3,None,31-35,6, 12.0,Grimes,Alexander,None,1:37,D,None,+,None
+"Sunday, Jul 1",boxscore,PIT,@,STL,W,2,0,None,32-35,6, 12.0,Fussell,Haines,None,2:02,D,None,++,None
+"Sunday, Jul 1",boxscore,PIT,@,STL,L,6,8,None,32-36,6, 12.0,Johnson,Miljus,Haid,2:05,D,None,-,1928-04-13 (Rain)
+"Tuesday, Jul 3",boxscore,PIT,None,CIN,L,7,9,None,32-37,6, 12.0,Edwards,Grimes,None,2:27,D,None,--,1928-04-28 (Snow)
+"Wednesday, Jul 4",boxscore,PIT,None,CIN,L,0,6,None,32-38,6, 13.0,Rixey,Dawson,None,2:00,D,None,---,None
+"Wednesday, Jul 4",boxscore,PIT,None,CIN,L,3,11,None,32-39,6, 13.0,Kolp,Grimes,None,1:57,D,None,----,None
+"Friday, Jul 6",boxscore,PIT,None,NYG,L,7,11,None,32-40,6, 13.5,Faulkner,Fussell,None,2:08,D,None,-----,None
+"Saturday, Jul 7",boxscore,PIT,None,NYG,W,8,6,None,33-40,6, 12.0,Fussell,Benton,None,1:55,D,None,+,None
+"Saturday, Jul 7",boxscore,PIT,None,NYG,W,5,2,None,34-40,6, 12.0,Brame,Fitzsimmons,None,1:50,D,None,++,1928-05-11 (Rain)
+"Monday, Jul 9",boxscore,PIT,None,NYG,W,5,3,None,35-40,6, 13.0,Grimes,Faulkner,None,2:03,D,None,+++,None
+"Tuesday, Jul 10",boxscore,PIT,None,PHI,W,6,5,None,36-40,6, 13.0,Kremer,Ring,None,1:56,D,None,++++,None
+"Wednesday, Jul 11",boxscore,PIT,None,PHI,W,3,1,6,37-40,6, 12.0,Brame,Benge,Hill,2:03,D,None,+++++,None
+"Saturday, Jul 14",boxscore,PIT,None,BSN,W,10,0,None,38-40,6, 12.0,Grimes,Brandt,None,2:03,D,None,++++++,None
+"Monday, Jul 16",boxscore,PIT,None,BSN,W,8,3,None,39-40,6, 11.5,Kremer,Delaney,None,1:56,D,None,+++++++,None
+"Tuesday, Jul 17",boxscore,PIT,None,BSN,W,7,6,None,40-40,6, 11.5,Hill,Smith,Fussell,2:03,D,None,++++++++,None
+"Wednesday, Jul 18",boxscore,PIT,None,BSN,W,16,3,None,41-40,6, 11.0,Grimes,Barnes,None,2:19,D,None,+++++++++,None
+"Thursday, Jul 19",boxscore,PIT,None,BRO,L,0,3,None,41-41,6, 12.0,McWeeny,Fussell,None,2:29,D,None,-,None
+"Friday, Jul 20",boxscore,PIT,None,BRO,L,7,8,None,41-42,6, 13.0,Elliott,Kremer,Clark,2:32,D,"4,000",--,None
+"Saturday, Jul 21",boxscore,PIT,None,BRO,W,7,3,None,42-42,6, 11.5,Hill,Ehrhardt,None,1:43,D,None,+,None
+"Saturday, Jul 21",boxscore,PIT,None,BRO,W,10,2,None,43-42,6, 11.5,Meadows,Petty,None,1:54,D,"15,000",++,1928-05-16 (Rain)
+"Sunday, Jul 22",boxscore,PIT,@,BRO,L,0,5,None,43-43,6, 12.0,Vance,Grimes,None,1:55,D,None,-,None
+"Sunday, Jul 22",boxscore,PIT,@,BRO,W,6,5,None,44-43,6, 12.0,Kremer,Clark,None,2:20,D,None,+,1928-06-04 (Rain)
+"Monday, Jul 23",boxscore,PIT,@,BRO,W,2,1,None,45-43,6, 11.5,Fussell,McWeeny,None,1:30,D,None,++,None
+"Tuesday, Jul 24",boxscore,PIT,@,NYG,L,3,6,None,45-44,6, 12.5,Benton,Dawson,None,1:57,D,None,-,None
+"Wednesday, Jul 25",boxscore,PIT,@,NYG,L,5,6,None,45-45,6, 12.5,Walker,Hill,Genewich,1:51,D,None,--,None
+"Thursday, Jul 26",boxscore,PIT,@,NYG,W,7,5,None,46-45,6, 12.5,Grimes,Hubbell,None,2:03,D,None,+,None
+"Friday, Jul 27",boxscore,PIT,@,NYG,L,2,4,None,46-46,6, 12.5,Fitzsimmons,Fussell,None,1:52,D,None,-,None
+"Monday, Jul 30",boxscore,PIT,@,BSN,W,2,1,None,47-46,5, 12.0,Kremer,Brandt,None,1:35,D,None,+,1928-07-28 (Rain)
+"Monday, Jul 30",boxscore,PIT,@,BSN,W,6,5,10,48-46,5, 12.0,Grimes,Barnes,None,2:05,D,None,++,None
+"Tuesday, Jul 31",boxscore,PIT,@,BSN,L,5,11,None,48-47,6, 13.0,Smith,Meadows,None,1:46,D,None,-,None
+"Thursday, Aug 2",boxscore,PIT,@,PHI,W,18,4,None,49-47,5, 13.0,Grimes,Miller,Dawson,2:20,D,None,+,None
+"Friday, Aug 3",boxscore,PIT,@,PHI,W,14,6,None,50-47,5, 13.0,Fussell,Sweetland,Tauscher,2:20,D,None,++,None
+"Saturday, Aug 4",boxscore,PIT,@,PHI,W,14,8,None,51-47,5, 12.0,Grimes,Benge,None,2:22,D,None,+++,None
+"Saturday, Aug 4",boxscore,PIT,@,PHI,W,11,4,None,52-47,5, 12.0,Hill,Ring,Dawson,2:44,D,None,++++,1928-08-01 (Wet grounds)
+"Tuesday, Aug 7",boxscore,PIT,@,BRO,W,4,3,None,53-47,5, 11.0,Grimes,McWeeny,None,1:55,D,None,+++++,None
+"Tuesday, Aug 7",boxscore,PIT,@,BRO,W,3,2,12,54-47,5, 11.0,Hill,Elliott,None,2:20,D,None,++++++,1928-06-05 (Rain)
+"Wednesday, Aug 8",boxscore,PIT,@,BRO,W,4,3,None,55-47,5, 10.0,Kremer,McWeeny,None,1:55,D,"2,500",+++++++,None
+"Thursday, Aug 9",boxscore,PIT,None,STL,W,5,4,None,56-47,5, 9.0,Hill,Haines,Grimes,1:51,D,None,++++++++,None
+"Friday, Aug 10",boxscore,PIT,None,STL,L,1,2,12,56-48,5, 10.0,Mitchell,Fussell,Sherdel,2:23,D,None,-,1928-04-21 (Rain)
+"Saturday, Aug 11",boxscore,PIT,None,CIN,L,0,1,None,56-49,5, 10.0,Lucas,Grimes,None,1:31,D,None,--,None
+"Monday, Aug 13",boxscore,PIT,None,BRO,W,6,1,None,57-49,5, 9.0,Kremer,Doak,None,1:38,D,None,+,None
+"Tuesday, Aug 14",boxscore,PIT,None,BRO,W,4,2,None,58-49,5, 9.0,Hill,McWeeny,None,1:38,D,None,++,None
+"Wednesday, Aug 15",boxscore,PIT,None,BRO,L,5,6,None,58-50,5, 10.0,Vance,Fussell,Petty,2:13,D,None,-,None
+"Thursday, Aug 16",boxscore,PIT,None,BRO,W,11,6,None,59-50,5, 9.0,Grimes,Doak,None,2:18,D,None,+,None
+"Friday, Aug 17",boxscore,PIT,None,PHI,W,10,3,None,60-50,5, 7.5,Kremer,Willoughby,None,1:52,D,None,++,None
+"Friday, Aug 17",boxscore,PIT,None,PHI,W,9,1,None,61-50,5, 7.5,Brame,Sweetland,None,1:34,D,None,+++,1928-05-17 (Rain)
+"Saturday, Aug 18",boxscore,PIT,None,PHI,W,9,0,None,62-50,5, 7.0,Hill,Benge,None,1:52,D,None,++++,None
+"Saturday, Aug 18",boxscore,PIT,None,PHI,L,8,11,None,62-51,5, 7.0,Ring,Fussell,Ferguson,1:55,D,None,-,1928-07-12 (Rain)
+"Monday, Aug 20",boxscore,PIT,None,BSN,L,11,14,None,62-52,5, 7.5,Smith,Grimes,Delaney,2:58,D,None,--,None
+"Tuesday, Aug 21",boxscore,PIT,None,BSN,W,6,2,None,63-52,5, 6.5,Kremer,Brandt,None,2:01,D,None,+,None
+"Wednesday, Aug 22",boxscore,PIT,None,BSN,W,10,3,None,64-52,5, 5.5,Brame,Greenfield,None,1:49,D,None,++,None
+"Thursday, Aug 23",boxscore,PIT,None,NYG,L,3,6,None,64-53,5, 5.5,Benton,Hill,Scott,2:09,D,None,-,None
+"Thursday, Aug 23",boxscore,PIT,None,NYG,W,13,3,None,65-53,5, 5.5,Fussell,Hubbell,None,2:02,D,"30,000",+,1928-07-05 (Rain)
+"Friday, Aug 24",boxscore,PIT,None,NYG,W,16,5,None,66-53,5, 5.5,Grimes,Genewich,None,2:04,D,None,++,None
+"Saturday, Aug 25",boxscore,PIT,None,NYG,W,7,1,None,67-53,5, 5.5,Kremer,Fitzsimmons,None,1:43,D,None,+++,None
+"Sunday, Aug 26",boxscore,PIT,@,CIN,L,3,4,None,67-54,5, 6.5,Lucas,Brame,None,1:46,D,"14,909",-,None
+"Monday, Aug 27",boxscore,PIT,@,CIN,W,9,4,None,68-54,5, 6.5,Fussell,Luque,None,1:53,D,"4,458",+,None
+"Tuesday, Aug 28",boxscore,PIT,None,PHI,W,9,2,None,69-54,4, 6.0,Hill,Sweetland,None,1:47,D,None,++,None
+"Tuesday, Aug 28",boxscore,PIT,None,PHI,W,16,7,None,70-54,4, 6.0,Dawson,Benge,None,2:13,D,None,+++,1928-07-13 (Rain)
+"Wednesday, Aug 29",boxscore,PIT,None,PHI,L,0,4,7,70-55,5, 6.5,Willoughby,Brame,None,1:22,D,None,-,None
+"Friday, Aug 31",boxscore,PIT,None,STL,W,6,5,None,71-55,3, 6.5,Kremer,Alexander,Grimes,1:56,D,None,+,None
+"Friday, Aug 31",boxscore,PIT,None,STL,L,2,6,None,71-56,3, 6.5,Haines,Fussell,None,1:59,D,None,-,1928-08-30 (Rain)
+"Saturday, Sep 1",boxscore,PIT,None,STL,L,1,4,None,71-57,4, 7.5,Sherdel,Hill,None,1:44,D,None,--,None
+"Sunday, Sep 2",boxscore,PIT,@,CHC,L,2,3,None,71-58,4, 8.5,Malone,Grimes,None,1:54,D,"32,000",---,None
+"Monday, Sep 3",boxscore,PIT,None,CHC,W,16,1,None,72-58,4, 6.5,Brame,Root,None,1:40,D,None,+,None
+"Monday, Sep 3",boxscore,PIT,None,CHC,W,6,3,None,73-58,4, 6.5,Kremer,Carlson,None,1:46,D,None,++,None
+"Tuesday, Sep 4",boxscore,PIT,None,CHC,L,8,9,None,73-59,4, 7.0,Blake,Hill,None,2:13,D,None,-,None
+"Thursday, Sep 6",boxscore,PIT,@,STL,L,3,4,10,73-60,5, 8.0,Mitchell,Grimes,None,2:00,D,"10,000",--,None
+"Friday, Sep 7",boxscore,PIT,@,STL,L,3,6,None,73-61,5, 9.0,Haines,Kremer,None,1:44,D,None,---,None
+"Saturday, Sep 8",boxscore,PIT,@,STL,W,4,2,None,74-61,4, 8.0,Hill,Sherdel,None,1:54,D,None,+,None
+"Sunday, Sep 9",boxscore,PIT,@,STL,W,8,7,None,75-61,4, 7.0,Dawson,Reinhart,None,2:23,D,None,++,None
+"Monday, Sep 10",boxscore,PIT,@,CHC,W,7,5,None,76-61,4, 6.0,Grimes,Nehf,None,2:09,D,None,+++,None
+"Tuesday, Sep 11",boxscore,PIT,@,CHC,L,3,9,None,76-62,4, 7.0,Malone,Hill,None,1:39,D,None,-,None
+"Friday, Sep 14",boxscore,PIT,None,CIN,W,4,1,None,77-62,4, 7.0,Grimes,Rixey,None,1:47,D,None,+,1928-04-27 (Rain)
+"Saturday, Sep 15",boxscore,PIT,None,CIN,W,6,1,None,78-62,4, 7.5,Hill,Ash,None,1:33,D,None,++,None
+"Sunday, Sep 16",boxscore,PIT,@,NYG,W,1,0,None,79-62,4, 7.0,Fussell,Benton,None,1:34,D,"55,000",+++,None
+"Monday, Sep 17",boxscore,PIT,@,NYG,L,2,9,None,79-63,4, 8.0,Hubbell,Brame,None,1:45,D,"3,000",-,None
+"Tuesday, Sep 18",boxscore,PIT,@,NYG,L,2,3,10,79-64,4, 9.0,Fitzsimmons,Dawson,None,2:02,D,None,--,None
+"Thursday, Sep 20",boxscore,PIT,@,PHI,W,6,4,None,80-64,4, 8.5,Hill,Willoughby,None,2:00,D,None,+,None
+"Friday, Sep 21",boxscore,PIT,@,PHI,W,6,5,None,81-64,4, 8.0,Dawson,Sweetland,None,1:48,D,None,++,None
+"Saturday, Sep 22",boxscore,PIT,@,PHI,W,9,7,None,82-64,4, 6.5,Grimes,McGraw,None,2:12,D,None,+++,None
+"Saturday, Sep 22",boxscore,PIT,@,PHI,W,5,3,None,83-64,4, 6.5,Brame,Caldwell,None,2:04,D,None,++++,1928-09-19 (Rain)
+"Monday, Sep 24",boxscore,PIT,@,BSN,W,3,1,10,84-64,4, 7.5,Dawson,Delaney,None,2:02,D,None,+++++,None
+"Monday, Sep 24",boxscore,PIT,@,BSN,L,2,4,None,84-65,4, 7.5,Smith,Blankenship,None,1:48,D,None,-,1928-07-28 (Rain)
+"Tuesday, Sep 25",boxscore,PIT,@,BSN,W,13,8,None,85-65,4, 7.5,Brame,Greenfield,Dawson,2:15,D,None,+,None
+"Thursday, Sep 27",boxscore,PIT,@,BRO,L,6,7,10,85-66,4, 8.5,Petty,Grimes,None,1:55,D,None,-,None
+"Thursday, Sep 27",boxscore,PIT,@,BRO,L,1,8,None,85-67,4, 8.5,Koupal,Blankenship,None,1:41,D,None,--,1928-08-06 (Wet grounds)

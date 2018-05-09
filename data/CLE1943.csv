@@ -1,0 +1,153 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 22",boxscore,CLE,None,DET,L,0,4,None,1-1,4, 0.5,Trucks,Harder,None,1:55,D,"2,500",-,None
+"Saturday, Apr 24",boxscore,CLE,None,DET,W,3,2,None,2-1,2, 0.5,Kennedy,White,None,1:35,D,"4,000",+,None
+"Sunday, Apr 25",boxscore,CLE,None,DET,W,4,1,None,3-1,2, 1.0,Bagby,Trout,None,1:28,D,None,++,None
+"Sunday, Apr 25",boxscore,CLE,None,DET,L,1,4,None,3-2,2, 1.0,Overmire,Naymick,None,2:30,D,"10,283",-,None
+"Tuesday, Apr 27",boxscore,CLE,@,CHW,W,4,2,None,4-2,1, Tied,Harder,Lee,Salveson,None,D,None,+,None
+"Wednesday, Apr 28",boxscore,CLE,@,CHW,W,2,0,None,5-2,1, Tied,Smith,Dietrich,None,1:38,D,"1,267",++,None
+"Saturday, May 1",boxscore,CLE,@,DET,L,2,3,15,5-3,2, 1.0,Trout,Heving,None,1:48,D,"3,425",-,None
+"Sunday, May 2",boxscore,CLE,@,DET,W,5,2,None,6-3,2, 0.5,Harder,Gorsica,Naymick,2:07,D,"22,040",+,None
+"Tuesday, May 4",boxscore,CLE,None,CHW,W,2,1,None,7-3,2, 0.5,Bagby,Dietrich,None,1:29,D,"2,000",++,None
+"Wednesday, May 5",boxscore,CLE,None,CHW,W,2,1,None,8-3,2, 1.0,Dean,Smith,Salveson,1:46,D,None,+++,None
+"Wednesday, May 5",boxscore,CLE,None,CHW,L,2,5,11,8-4,2, 1.0,Ross,Reynolds,Haynes,2:31,D,"4,000",-,1943-05-03 (Inclement weather)
+"Thursday, May 6",boxscore,CLE,None,CHW,W,6,3,None,9-4,2, 1.5,Smith,Wade,None,2:15,D,"3,000",+,None
+"Saturday, May 8",boxscore,CLE,@,SLB,L,2,3,None,9-5,2, 2.0,Sundra,Harder,Hollingsworth,1:51,D,350,-,None
+"Sunday, May 9",boxscore,CLE,@,SLB,W,6,5,13,10-5,2, 2.0,Naymick,Ostermueller,None,2:33,D,None,+,None
+"Sunday, May 9",boxscore,CLE,@,SLB,L,5,7,7,10-6,2, 2.0,Peterson,Milnar,Potter,1:40,D,"5,017",-,None
+"Wednesday, May 12",boxscore,CLE,None,WSH,W,8,2,None,11-6,2, 1.0,Dean,Wynn,None,2:07,D,"11,402",+,None
+"Thursday, May 13",boxscore,CLE,None,WSH,L,2,3,12,11-7,2, 1.5,Pyle,Poat,Carrasquel,2:25,D,"1,500",-,None
+"Friday, May 14",boxscore,CLE,None,WSH,L,1,3,None,11-8,2, 1.5,Leonard,Bagby,None,1:37,D,"1,500",--,None
+"Saturday, May 15",boxscore,CLE,None,PHA,W,2,0,None,12-8,2, 1.0,Salveson,Arntzen,None,1:37,D,"2,500",+,None
+"Sunday, May 16",boxscore,CLE,None,PHA,L,3,5,None,12-9,2, 1.0,Flores,Milnar,Wolff,2:11,D,None,-,None
+"Sunday, May 16",boxscore,CLE,None,PHA,W,3,2,None,13-9,2, 1.0,Bagby,Black,None,2:10,D,"6,300",+,None
+"Thursday, May 20",boxscore,CLE,None,BOS,L,1,2,10,13-10,3, 2.0,Judd,Reynolds,None,1:53,D,None,-,None
+"Thursday, May 20",boxscore,CLE,None,BOS,L,4,7,None,13-11,3, 2.0,Brown,Poat,Terry,2:33,D,"3,500",--,1943-05-17 (Inclement weather)
+"Saturday, May 22",boxscore,CLE,None,NYY,W,9,2,None,14-11,2, 1.0,Bagby,Borowy,None,1:56,D,"13,906",+,None
+"Sunday, May 23",boxscore,CLE,None,NYY,W,3,1,None,15-11,1,up 1.0,Smith,Bonham,None,1:32,D,None,++,None
+"Sunday, May 23",boxscore,CLE,None,NYY,W,5,2,None,16-11,1,up 1.0,Dean,Chandler,None,2:06,D,"29,245",+++,None
+"Thursday, May 27",boxscore,CLE,@,BOS,L,0,2,None,16-12,2, 0.5,Hughson,Naymick,None,2:00,D,"1,821",-,None
+"Thursday, May 27",boxscore,CLE,@,BOS,L,3,4,None,16-13,2, 0.5,Judd,Bagby,None,1:19,D,"1,957",--,1943-05-26 (Inclement weather)
+"Friday, May 28",boxscore,CLE,@,BOS,W,5,2,None,17-13,1, Tied,Salveson,Chase,None,2:02,D,"3,000",+,None
+"Saturday, May 29",boxscore,CLE,@,NYY,L,5,9,None,17-14,3, 1.0,Bonham,Dean,None,1:59,D,"12,971",-,None
+"Sunday, May 30",boxscore,CLE,@,NYY,L,3,4,None,17-15,4, 2.5,Chandler,Smith,Murphy,2:03,D,None,--,None
+"Sunday, May 30",boxscore,CLE,@,NYY,L-wo,2,3,None,17-16,4, 2.5,Wensloff,Reynolds,None,1:58,D,"53,685",---,None
+"Monday, May 31",boxscore,CLE,@,WSH,L,7,8,None,17-17,4, 2.5,Carrasquel,Center,None,1:58,D,None,----,None
+"Monday, May 31",boxscore,CLE,@,WSH,W,7,6,13,18-17,4, 2.5,Center,Carrasquel,None,3:10,D,"13,000",+,None
+"Tuesday, Jun 1",boxscore,CLE,@,WSH,L,2,3,10,18-18,5, 3.0,Scarborough,Poat,None,2:41,D,"10,309",-,None
+"Wednesday, Jun 2",boxscore,CLE,@,WSH,L,1,13,None,18-19,5, 3.0,Candini,Salveson,None,2:11,D,"14,222",--,None
+"Thursday, Jun 3",boxscore,CLE,@,PHA,L,4,10,None,18-20,6, 4.0,Black,Dean,None,2:00,D,"3,000",---,None
+"Friday, Jun 4",boxscore,CLE,@,PHA,W,3,2,None,19-20,6, 4.0,Smith,Flores,None,None,None,None,+,None
+"Saturday, Jun 5",boxscore,CLE,@,PHA,L,5,6,None,19-21,6, 4.0,Arntzen,Bagby,None,None,None,None,-,None
+"Sunday, Jun 6",boxscore,CLE,@,PHA,L,5,12,None,19-22,6, 5.0,Fagan,Dean,Black,None,None,None,--,None
+"Sunday, Jun 6",boxscore,CLE,@,PHA,W,5,0,None,20-22,6, 5.0,Salveson,Wolff,None,None,None,None,+,None
+"Wednesday, Jun 9",boxscore,CLE,None,SLB,L,0,6,None,20-23,7, 5.5,Muncrief,Bagby,None,1:31,D,"3,500",-,None
+"Thursday, Jun 10",boxscore,CLE,None,SLB,L,1,2,None,20-24,7, 6.5,Niggeling,Smith,Caster,2:03,D,"8,712",--,None
+"Saturday, Jun 12",boxscore,CLE,None,SLB,L,6,7,11,20-25,7, 8.0,Caster,Reynolds,None,3:12,D,"8,000",---,None
+"Sunday, Jun 13",boxscore,CLE,None,SLB,L,1,3,None,20-26,7, 7.0,Muncrief,Milnar,None,1:58,D,None,----,None
+"Sunday, Jun 13",boxscore,CLE,None,SLB,W,2,1,10,21-26,7, 7.0,Bagby,Galehouse,None,2:06,D,"13,116",+,None
+"Thursday, Jun 17",boxscore,CLE,None,DET,W,3,2,None,22-26,6, 7.0,Naymick,Newhouser,None,1:54,D,None,++,None
+"Thursday, Jun 17",boxscore,CLE,None,DET,W,6,5,12,23-26,6, 7.0,Naymick,Trucks,None,2:45,D,"8,891",+++,1943-06-15 (Inclement weather)
+"Friday, Jun 18",boxscore,CLE,@,CHW,W,5,3,14,24-26,5, 6.0,Kennedy,Smith,None,3:23,D,"18,961",++++,None
+"Saturday, Jun 19",boxscore,CLE,@,CHW,W,5,4,None,25-26,3, 5.5,Poat,Humphries,Center,2:11,D,None,+++++,None
+"Saturday, Jun 19",boxscore,CLE,@,CHW,W,10,8,10,26-26,3, 5.5,Salveson,Maltzberger,Smith,2:19,D,"5,973",++++++,1943-04-29 (Rain)
+"Sunday, Jun 20",boxscore,CLE,@,CHW,L,6,10,None,26-27,3, 5.5,Grove,Center,None,2:07,D,None,-,None
+"Sunday, Jun 20",boxscore,CLE,@,CHW,W,7,2,None,27-27,3, 5.5,Bagby,Dietrich,None,1:42,D,"9,365",+,None
+"Wednesday, Jun 23",boxscore,CLE,@,DET,L,1,3,None,27-28,4, 5.0,Newhouser,Salveson,None,1:45,D,None,-,None
+"Wednesday, Jun 23",boxscore,CLE,@,DET,W,9,6,11,28-28,4, 5.0,Milnar,Oana,None,1:44,D,"5,210",+,1943-04-30 (Inclement weather)
+"Thursday, Jun 24",boxscore,CLE,@,DET,L,4,7,None,28-29,4, 5.5,Trucks,Bagby,None,1:55,D,"6,617",-,None
+"Friday, Jun 25",boxscore,CLE,None,CHW,W,6,2,None,29-29,3, 5.0,Smith,Wade,None,2:05,D,"11,681",+,None
+"Saturday, Jun 26",boxscore,CLE,None,CHW,L,2,3,None,29-30,4, 5.0,Lee,Dean,None,1:52,D,"2,500",-,None
+"Sunday, Jun 27",boxscore,CLE,None,CHW,W,2,1,None,30-30,4, 5.0,Reynolds,Humphries,Bagby,2:05,D,None,+,None
+"Sunday, Jun 27",boxscore,CLE,None,CHW,L,0,2,5,30-31,4, 5.0,Smith,Kennedy,None,1:12,D,"12,126",-,None
+"Wednesday, Jun 30",boxscore,CLE,None,NYY,L,1,3,11,30-32,4, 6.0,Murphy,Bagby,None,2:32,D,"22,914",--,None
+"Thursday, Jul 1",boxscore,CLE,None,NYY,W,3,2,None,31-32,4, 5.0,Smith,Wensloff,Heving,2:08,D,"2,200",+,None
+"Friday, Jul 2",boxscore,CLE,None,NYY,W,12,0,None,32-32,3, 4.0,Reynolds,Russo,None,1:51,D,"6,000",++,None
+"Saturday, Jul 3",boxscore,CLE,None,BOS,L,4,12,None,32-33,5, 3.5,Ryba,Naymick,None,2:30,N,"11,410",-,None
+"Monday, Jul 5",boxscore,CLE,None,PHA,L,1,2,None,32-34,6, 5.5,Black,Bagby,None,1:45,D,None,--,None
+"Monday, Jul 5",boxscore,CLE,None,PHA,L,0,7,None,32-35,6, 5.5,Harris,Kennedy,None,1:50,D,"13,278",---,None
+"Tuesday, Jul 6",boxscore,CLE,None,PHA,W,2,0,None,33-35,6, 5.5,Smith,Arntzen,None,1:45,D,"3,016",+,None
+"Thursday, Jul 8",boxscore,CLE,None,WSH,W,5,2,None,34-35,5, 5.0,Reynolds,Pyle,None,2:12,D,"3,091",++,None
+"Friday, Jul 9",boxscore,CLE,None,WSH,L,0,1,13,34-36,5, 5.5,Scarborough,Bagby,Haefner,None,D,None,-,None
+"Saturday, Jul 10",boxscore,CLE,None,WSH,L,0,4,None,34-37,6, 7.0,Wynn,Kennedy,None,1:56,D,"2,500",--,None
+"Sunday, Jul 11",boxscore,CLE,None,WSH,W,5,1,None,35-37,6, 8.0,Smith,Candini,None,1:30,D,None,+,None
+"Sunday, Jul 11",boxscore,CLE,None,WSH,L,4,6,10,35-38,6, 8.0,Mertz,Poat,Pyle,2:50,D,"14,637",-,None
+"Thursday, Jul 15",boxscore,CLE,@,SLB,L,1,2,None,35-39,6, 8.5,Sundra,Bagby,None,1:28,D,"1,567",--,None
+"Friday, Jul 16",boxscore,CLE,@,SLB,L,3,4,None,35-40,7, 9.5,Muncrief,Smith,None,1:53,D,"9,667",---,None
+"Saturday, Jul 17",boxscore,CLE,@,SLB,L,1,3,None,35-41,7, 10.5,Galehouse,Reynolds,None,2:06,D,"1,645",----,None
+"Sunday, Jul 18",boxscore,CLE,@,SLB,W,4,3,None,36-41,6, 10.5,Kennedy,Niggeling,None,1:58,D,None,+,None
+"Sunday, Jul 18",boxscore,CLE,@,SLB,W,10,7,None,37-41,6, 10.5,Bagby,Newsom,Naymick,2:24,D,"16,900",++,1943-05-07 (Inclement weather)
+"Wednesday, Jul 21",boxscore,CLE,@,PHA,W,7,0,None,38-41,6, 9.5,Smith,Flores,None,1:45,D,"3,254",+++,None
+"Thursday, Jul 22",boxscore,CLE,@,PHA,W,2,1,None,39-41,6, 9.5,Bagby,Arntzen,None,1:32,D,"7,004",++++,None
+"Friday, Jul 23",boxscore,CLE,@,PHA,W,1,0,None,40-41,5, 9.5,Harder,Black,None,1:40,D,"3,185",+++++,None
+"Saturday, Jul 24",boxscore,CLE,@,WSH,W,2,0,None,41-41,4, 9.0,Reynolds,Haefner,None,2:07,D,"12,712",++++++,None
+"Sunday, Jul 25",boxscore,CLE,@,WSH,W,8,2,None,42-41,4, 9.0,Kennedy,Candini,None,1:56,D,None,+++++++,None
+"Sunday, Jul 25",boxscore,CLE,@,WSH,L,2,7,None,42-42,4, 9.0,Mertz,Poat,None,2:06,D,"14,200",-,None
+"Monday, Jul 26",boxscore,CLE,@,WSH,W,7,3,None,43-42,4, 9.0,Bagby,Wynn,None,1:30,D,"5,313",+,None
+"Tuesday, Jul 27",boxscore,CLE,@,NYY,L,3,4,13,43-43,4, 10.0,Borowy,Reynolds,None,None,D,None,-,None
+"Wednesday, Jul 28",boxscore,CLE,@,NYY,W,6,2,None,44-43,2, 9.0,Harder,Chandler,None,2:17,D,"27,821",+,None
+"Thursday, Jul 29",boxscore,CLE,@,NYY,L,1,11,None,44-44,4, 10.0,Russo,Kennedy,None,1:50,D,"2,605",-,None
+"Friday, Jul 30",boxscore,CLE,@,NYY,L,4,5,None,44-45,5, 11.0,Bonham,Bagby,None,1:50,D,"2,605",--,None
+"Saturday, Jul 31",boxscore,CLE,@,BOS,L-wo,4,5,12,44-46,5, 11.0,Brown,Kennedy,None,3:04,D,"3,658",---,None
+"Sunday, Aug 1",boxscore,CLE,@,BOS,W,8,6,None,45-46,5, 12.0,Smith,Judd,Salveson,2:45,D,None,+,None
+"Sunday, Aug 1",boxscore,CLE,@,BOS,L,1,4,None,45-47,5, 12.0,Newsome,Harder,None,2:07,D,"21,092",-,None
+"Tuesday, Aug 3",boxscore,CLE,@,BOS,W,11,9,None,46-47,5, 11.5,Bagby,Terry,Reynolds,2:03,D,"3,757",+,None
+"Friday, Aug 6",boxscore,CLE,None,SLB,W,1,0,None,47-47,5, 10.5,Reynolds,Niggeling,None,1:48,D,"15,986",++,None
+"Saturday, Aug 7",boxscore,CLE,None,SLB,L,0,2,None,47-48,5, 11.5,Sundra,Smith,None,1:43,D,"2,500",-,None
+"Sunday, Aug 8",boxscore,CLE,None,SLB,W,6,5,14,48-48,5, 11.5,Dean,Caster,None,3:30,D,None,+,None
+"Sunday, Aug 8",boxscore,CLE,None,SLB,W,5,2,None,49-48,5, 11.5,Bagby,Newsom,None,1:30,D,"16,737",++,None
+"Wednesday, Aug 11",boxscore,CLE,None,PHA,W,10,5,None,50-48,3, 9.5,Reynolds,Ciola,Heving,2:02,D,None,+++,None
+"Wednesday, Aug 11",boxscore,CLE,None,PHA,W,2,1,None,51-48,3, 9.5,Smith,Flores,None,1:43,D,"12,889",++++,1943-07-07 (Inclement weather)
+"Thursday, Aug 12",boxscore,CLE,None,PHA,W,4,3,None,52-48,2, 9.5,Bagby,Arntzen,Heving,1:57,D,"2,000",+++++,None
+"Friday, Aug 13",boxscore,CLE,None,PHA,W,6,4,None,53-48,2, 9.5,Harder,Black,Reynolds,1:48,D,"3,000",++++++,None
+"Saturday, Aug 14",boxscore,CLE,None,PHA,W,12,9,None,54-48,2, 9.5,Dean,Fagan,Heving,2:30,D,"5,000",+++++++,None
+"Sunday, Aug 15",boxscore,CLE,None,WSH,W,6,2,None,55-48,2, 9.5,Kennedy,Leonard,None,1:50,D,None,++++++++,None
+"Sunday, Aug 15",boxscore,CLE,None,WSH,L,0,4,None,55-49,2, 9.5,Haefner,Reynolds,None,None,D,None,-,None
+"Monday, Aug 16",boxscore,CLE,None,WSH,L,3,6,None,55-50,3, 10.5,LeFebvre,Bagby,None,2:00,D,"5,000",--,None
+"Wednesday, Aug 18",boxscore,CLE,None,NYY,W,9,8,None,56-50,2, 9.0,Smith,Zuber,None,2:16,D,"5,673",+,None
+"Wednesday, Aug 18",boxscore,CLE,None,NYY,W,7,5,14,57-50,2, 9.0,Naymick,Russo,None,3:38,D,"7,500",++,1943-05-21 (Inclement weather)
+"Thursday, Aug 19",boxscore,CLE,None,NYY,L,1,2,13,57-51,3, 10.0,Bonham,Reynolds,Wensloff,4:05,N,"36,507",-,None
+"Friday, Aug 20",boxscore,CLE,None,NYY,L,5,10,None,57-52,4, 11.0,Donald,Kennedy,Murphy,2:30,D,"5,000",--,None
+"Saturday, Aug 21",boxscore,CLE,None,NYY,L,3,8,None,57-53,4, 12.0,Borowy,Bagby,None,2:05,D,"6,000",---,None
+"Sunday, Aug 22",boxscore,CLE,None,BOS,W,6,0,None,58-53,4, 10.0,Salveson,Ryba,None,1:46,D,None,+,None
+"Sunday, Aug 22",boxscore,CLE,None,BOS,W,7,6,13,59-53,4, 10.0,Kennedy,Dobson,None,3:21,D,"19,348",++,None
+"Monday, Aug 23",boxscore,CLE,None,BOS,L,7,9,None,59-54,4, 11.0,Woods,Smith,Hughson,2:02,D,"5,000",-,1943-05-18 (Inclement weather)
+"Tuesday, Aug 24",boxscore,CLE,None,BOS,W,5,2,None,60-54,4, 11.0,Reynolds,O'Neill,None,1:55,D,None,+,None
+"Tuesday, Aug 24",boxscore,CLE,None,BOS,L,0,7,None,60-55,4, 11.0,Newsome,Harder,None,2:10,D,"14,761",-,1943-05-19 (Inclement weather)
+"Wednesday, Aug 25",boxscore,CLE,None,BOS,W,8,3,None,61-55,3, 11.0,Kennedy,Dobson,None,1:53,D,None,+,1943-07-04 (Inclement weather)
+"Wednesday, Aug 25",boxscore,CLE,None,BOS,W,4,1,None,62-55,3, 11.0,Poat,Hughson,None,None,D,None,++,None
+"Thursday, Aug 26",boxscore,CLE,None,BOS,L,1,4,None,62-56,3, 11.5,Ryba,Naymick,None,1:49,D,"1,000",-,1943-07-04 (Inclement weather)
+"Friday, Aug 27",boxscore,CLE,@,CHW,W,6,2,None,63-56,3, 11.0,Smith,Smith,None,None,D,None,+,None
+"Saturday, Aug 28",boxscore,CLE,@,CHW,L,6,7,None,63-57,3, 11.0,Haynes,Dean,None,2:03,D,"2,091",-,None
+"Sunday, Aug 29",boxscore,CLE,@,CHW,W,2,1,None,64-57,3, 11.0,Harder,Grove,None,1:57,D,None,+,None
+"Sunday, Aug 29",boxscore,CLE,@,CHW,W,6,1,None,65-57,3, 11.0,Reynolds,Humphries,None,None,D,None,++,None
+"Thursday, Sep 2",boxscore,CLE,None,CHW,W,2,1,None,66-57,3, 11.0,Smith,Grove,None,1:47,D,"14,276",+++,None
+"Sunday, Sep 5",boxscore,CLE,None,CHW,L,1,2,None,66-58,3, 12.0,Dietrich,Harder,None,1:51,D,None,-,None
+"Sunday, Sep 5",boxscore,CLE,None,CHW,L,3,4,None,66-59,3, 12.0,Maltzberger,Reynolds,None,2:25,D,"9,140",--,1943-09-04 (Inclement weather)
+"Monday, Sep 6",boxscore,CLE,None,SLB,W,3,2,10,67-59,2, 11.0,Bagby,Milnar,None,3:05,D,None,+,None
+"Monday, Sep 6",boxscore,CLE,None,SLB,W,2,0,6,68-59,2, 11.0,Kennedy,Galehouse,None,1:39,D,"12,632",++,None
+"Thursday, Sep 9",boxscore,CLE,@,DET,W,8,3,None,69-59,2, 11.5,Smith,Trucks,None,2:02,D,None,+++,None
+"Thursday, Sep 9",boxscore,CLE,@,DET,L,3,10,None,69-60,2, 11.5,White,Reynolds,None,1:52,D,"4,507",-,1943-05-02 (Inclement weather)
+"Friday, Sep 10",boxscore,CLE,@,DET,W,4,2,None,70-60,2, 11.0,Harder,Newhouser,Heving,2:16,D,None,+,None
+"Friday, Sep 10",boxscore,CLE,@,DET,W,1,0,None,71-60,2, 11.0,Bagby,Gentry,None,1:32,D,"4,345",++,1943-06-22 (Military ban on assembly)
+"Saturday, Sep 11",boxscore,CLE,@,DET,W,7,2,None,72-60,2, 11.0,Kennedy,Trout,None,2:13,D,"3,944",+++,None
+"Sunday, Sep 12",boxscore,CLE,@,DET,W,2,1,None,73-60,2, 11.5,Reynolds,Bridges,None,2:13,D,"16,527",++++,None
+"Tuesday, Sep 14",boxscore,CLE,@,SLB,L,0,3,None,73-61,3, 13.0,Sundra,Bagby,None,1:26,D,None,-,None
+"Tuesday, Sep 14",boxscore,CLE,@,SLB,L,1,7,None,73-62,3, 13.0,Potter,Smith,None,1:41,D,"1,852",--,1943-09-13 (Inclement weather)
+"Wednesday, Sep 15",boxscore,CLE,@,SLB,L,2,4,None,73-63,3, 14.0,Hollingsworth,Harder,None,2:02,D,648,---,None
+"Friday, Sep 17",boxscore,CLE,None,DET,L,1,2,None,73-64,3, 14.5,Gorsica,Reynolds,Trucks,2:31,D,"8,204",----,None
+"Saturday, Sep 18",boxscore,CLE,None,DET,W,4,2,None,74-64,3, 14.0,Kennedy,Newhouser,Heving,1:57,D,"2,000",+,None
+"Sunday, Sep 19",boxscore,CLE,None,DET,W,1,0,None,75-64,3, 12.0,Bagby,White,None,1:25,D,None,++,None
+"Sunday, Sep 19",boxscore,CLE,None,DET,W,6,2,None,76-64,3, 12.0,Smith,Bridges,Reynolds,2:02,D,"13,717",+++,1943-06-16 (Inclement weather)
+"Thursday, Sep 23",boxscore,CLE,@,BOS,L,7,13,None,76-65,3, 13.0,Newsome,Harder,Ryba,2:03,D,"2,500",-,None
+"Thursday, Sep 23",boxscore,CLE,@,BOS,W,6,4,None,77-65,3, 13.0,Reynolds,Hughson,None,2:25,D,"2,456",+,1943-09-22 (Inclement weather)
+"Friday, Sep 24",boxscore,CLE,@,BOS,L-wo,0,1,10,77-66,3, 13.0,Dobson,Klieman,None,1:43,D,822,-,None
+"Saturday, Sep 25",boxscore,CLE,@,BOS,W,6,3,10,78-66,3, 13.0,Bagby,O'Neill,Heving,2:08,D,"1,657",+,None
+"Sunday, Sep 26",boxscore,CLE,@,NYY,L,2,3,None,78-67,3, 15.0,Bonham,Smith,None,1:44,D,None,-,None
+"Sunday, Sep 26",boxscore,CLE,@,NYY,L,5,6,10,78-68,3, 15.0,Murphy,Salveson,None,2:13,D,"23,576",--,None
+"Monday, Sep 27",boxscore,CLE,@,NYY,L,2,5,None,78-69,3, 16.0,Borowy,Reynolds,None,2:15,D,"1,706",---,None
+"Tuesday, Sep 28",boxscore,CLE,@,NYY,W,11,3,None,79-69,3, 15.0,Harder,Breuer,None,2:05,D,"2,061",+,None
+"Wednesday, Sep 29",boxscore,CLE,@,WSH,L,2,6,None,79-70,3, 16.0,Niggeling,Kennedy,None,2:03,D,None,-,None
+"Wednesday, Sep 29",boxscore,CLE,@,WSH,L,4,7,None,79-71,3, 16.0,Wynn,Bagby,Candini,2:00,D,"8,000",--,None
+"Saturday, Oct 2",boxscore,CLE,@,PHA,W,8,3,None,80-71,3, 15.5,Reynolds,Abernathy,Heving,2:00,D,None,+,None
+"Saturday, Oct 2",boxscore,CLE,@,PHA,W,6,2,None,81-71,3, 15.5,Smith,Bowles,Heving,1:10,D,"1,368",++,1943-10-01 (Inclement weather)
+"Sunday, Oct 3",boxscore,CLE,@,PHA,W,8,4,11,82-71,3, 15.5,Heving,Scheib,None,None,None,None,+++,None

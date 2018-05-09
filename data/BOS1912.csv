@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Friday, Apr 12",boxscore,BOS,@,NYY,W,5,2,None,2-0,1, Tied,O'Brien,Ford,None,1:58,D,"3,000",++,None
+"Saturday, Apr 13",boxscore,BOS,@,NYY,W,8,4,None,3-0,1,up 0.5,Hall,Vaughn,None,2:00,D,"3,000",+++,None
+"Monday, Apr 15",boxscore,BOS,@,PHA,L,1,4,None,3-1,2, 0.5,Plank,Cicotte,None,1:59,D,"8,000",-,None
+"Tuesday, Apr 16",boxscore,BOS,@,PHA,W,9,2,None,4-1,1,up 0.5,Wood,Krause,None,2:10,D,"5,000",+,None
+"Saturday, Apr 20",boxscore,BOS,None,NYY,W,7,6,11,5-1,1,up 1.0,Hall,Vaughn,None,3:10,D,"24,000",++,None
+"Tuesday, Apr 23",boxscore,BOS,None,WSH,L,2,6,None,5-2,1, Tied,Groom,Wood,None,2:25,D,"2,500",-,None
+"Wednesday, Apr 24",boxscore,BOS,None,WSH,L,2,5,None,5-3,2, 1.0,Johnson,Cicotte,None,2:15,D,"2,500",--,None
+"Thursday, Apr 25",boxscore,BOS,None,WSH,W,4,1,None,6-3,2, 1.0,Hall,Hughes,None,1:58,D,"3,000",+,None
+"Friday, Apr 26",boxscore,BOS,None,PHA,W,7,6,None,7-3,2, 0.5,Bedient,Russell,None,2:05,D,"10,000",++,None
+"Saturday, Apr 27",boxscore,BOS,None,PHA,W,6,5,None,8-3,2, 0.5,Wood,Brown,None,1:42,D,"15,000",+++,None
+"Monday, Apr 29",boxscore,BOS,None,PHA,L,1,7,None,8-4,2, 1.5,Plank,O'Brien,None,2:00,D,"3,500",-,None
+"Tuesday, Apr 30",boxscore,BOS,None,PHA,W,6,1,None,9-4,2, 0.5,Bedient,Krause,None,1:52,D,"4,000",+,None
+"Wednesday, May 1",boxscore,BOS,@,WSH,L,1,2,None,9-5,2, 1.5,Walker,Wood,None,1:30,D,None,-,None
+"Thursday, May 2",boxscore,BOS,@,WSH,W,6,5,None,10-5,2, 1.5,Hall,Groom,None,1:58,D,"3,881",+,None
+"Friday, May 3",boxscore,BOS,@,WSH,L,1,5,None,10-6,2, 2.5,Johnson,O'Brien,None,1:55,D,"4,500",-,None
+"Saturday, May 4",boxscore,BOS,@,WSH,L,7,8,None,10-7,3, 2.5,Akers,Cicotte,None,2:40,D,"7,491",--,None
+"Tuesday, May 7",boxscore,BOS,None,DET,W,5,4,None,11-7,2, 3.0,Wood,Mullin,None,1:42,D,"4,500",+,None
+"Thursday, May 9",boxscore,BOS,None,DET,W,7,4,None,12-7,2, 3.5,Bedient,Burns,None,1:59,D,"4,500",++,None
+"Friday, May 10",boxscore,BOS,None,DET,L,5,6,None,12-8,2, 4.5,Willett,O'Brien,None,2:20,D,"4,500",-,None
+"Saturday, May 11",boxscore,BOS,None,SLB,W,8,1,None,13-8,2, 4.5,Wood,Brown,None,2:00,D,"12,000",+,None
+"Monday, May 13",boxscore,BOS,None,SLB,W,14,9,None,14-8,2, 4.5,Bushelman,Lake,Bedient,2:16,D,"3,000",++,None
+"Tuesday, May 14",boxscore,BOS,None,SLB,W,6,5,None,15-8,2, 4.5,Cicotte,Baumgardner,None,2:07,D,None,+++,None
+"Wednesday, May 15",boxscore,BOS,None,SLB,W,2,1,None,16-8,2, 3.5,Wood,Pelty,None,1:40,D,"2,000",++++,None
+"Friday, May 17",boxscore,BOS,None,CHW,L,2,5,None,16-9,2, 4.5,Walsh,Pape,None,2:12,D,"18,000",-,None
+"Saturday, May 18",boxscore,BOS,None,CHW,L,1,3,None,16-10,2, 5.5,Benz,Bedient,None,1:59,D,"20,000",--,None
+"Monday, May 20",boxscore,BOS,None,CHW,W,2,0,None,17-10,2, 4.5,Wood,Walsh,None,1:54,D,None,+,None
+"Tuesday, May 21",boxscore,BOS,None,CLE,W,3,1,None,18-10,2, 3.5,O'Brien,Gregg,None,1:38,D,"4,500",++,None
+"Wednesday, May 22",boxscore,BOS,None,CLE,W,9,0,None,19-10,2, 3.5,Hall,Kahler,None,1:26,D,"5,000",+++,None
+"Thursday, May 23",boxscore,BOS,None,CLE,W,6,5,10,20-10,2, 3.5,Wood,George,None,2:17,D,"4,000",++++,None
+"Friday, May 24",boxscore,BOS,None,PHA,W,4,3,None,21-10,2, 3.0,Bedient,Houck,None,1:49,D,"7,500",+++++,None
+"Saturday, May 25",boxscore,BOS,None,PHA,L,2,8,None,21-11,2, 4.0,Coombs,Wood,None,1:58,D,"15,000",-,None
+"Monday, May 27",boxscore,BOS,None,PHA,L,6,12,None,21-12,2, 4.0,Brown,O'Brien,Bender,2:22,D,"5,000",--,None
+"Tuesday, May 28",boxscore,BOS,None,PHA,W,7,3,None,22-12,2, 4.0,Hall,Houck,None,1:58,D,"3,500",+,None
+"Wednesday, May 29",boxscore,BOS,None,WSH,W,21,8,None,23-12,2, 2.0,Wood,Walker,None,2:10,D,None,++,None
+"Wednesday, May 29",boxscore,BOS,None,WSH,W,12,11,8,24-12,2, 2.0,Bedient,Groom,None,2:23,D,"7,500",+++,1912-04-22 (Rain)
+"Thursday, May 30",boxscore,BOS,None,WSH,W,3,2,None,25-12,2, 2.0,Bedient,Engel,None,2:00,D,None,++++,None
+"Thursday, May 30",boxscore,BOS,None,WSH,L,0,5,None,25-13,2, 2.0,Johnson,O'Brien,None,1:58,D,None,-,None
+"Saturday, Jun 1",boxscore,BOS,@,CLE,L,2,9,None,25-14,2, 3.0,Kahler,Hall,None,1:55,D,"5,967",--,None
+"Sunday, Jun 2",boxscore,BOS,@,CLE,W,5,4,10,26-14,2, 2.0,Wood,George,None,2:15,D,"5,845",+,None
+"Monday, Jun 3",boxscore,BOS,@,CLE,L,3,4,None,26-15,2, 2.0,Baskette,O'Brien,None,2:13,D,"2,498",-,None
+"Tuesday, Jun 4",boxscore,BOS,@,CLE,L,1,5,None,26-16,2, 3.0,Gregg,Bedient,None,2:08,D,"5,239",--,None
+"Wednesday, Jun 5",boxscore,BOS,@,DET,L,6,8,None,26-17,2, 3.0,Willett,Hall,None,1:55,D,"5,226",---,None
+"Thursday, Jun 6",boxscore,BOS,@,DET,W,5,2,None,27-17,2, 2.0,O'Brien,Mullin,None,2:10,D,"5,089",+,None
+"Friday, Jun 7",boxscore,BOS,@,DET,L,3,4,None,27-18,2, 2.0,Dubuc,Collins,None,1:58,D,"3,877",-,None
+"Saturday, Jun 8",boxscore,BOS,@,DET,W,8,3,None,28-18,2, 1.0,Wood,Works,None,2:05,D,"10,645",+,None
+"Sunday, Jun 9",boxscore,BOS,@,SLB,W,9,2,None,29-18,2, 1.0,Bedient,Mitchell,None,2:15,D,"8,500",++,None
+"Monday, Jun 10",boxscore,BOS,@,SLB,W,3,2,None,30-18,1, Tied,O'Brien,Brown,None,2:17,D,"1,200",+++,None
+"Tuesday, Jun 11",boxscore,BOS,@,SLB,W,4,0,None,31-18,1,up 1.0,Hall,Hamilton,None,1:45,D,"1,012",++++,None
+"Wednesday, Jun 12",boxscore,BOS,@,SLB,W,5,3,None,32-18,1,up 1.0,Wood,Powell,None,1:45,D,900,+++++,None
+"Thursday, Jun 13",boxscore,BOS,@,CHW,L,2,3,None,32-19,1, Tied,Walsh,Collins,None,2:00,D,None,-,None
+"Saturday, Jun 15",boxscore,BOS,@,CHW,W,4,3,None,33-19,1,up 1.0,O'Brien,Walsh,None,2:00,D,"20,000",+,None
+"Sunday, Jun 16",boxscore,BOS,@,CHW,W,6,4,None,34-19,1,up 1.5,Wood,Lange,None,1:58,D,"20,000",++,None
+"Monday, Jun 17",boxscore,BOS,@,CHW,W,4,1,None,35-19,1,up 2.0,Hall,Walsh,None,2:05,D,"8,500",+++,1912-06-14 (Rain)
+"Wednesday, Jun 19",boxscore,BOS,@,NYY,W,5,2,None,36-19,1,up 3.0,Bedient,Warhop,None,1:45,D,"3,000",++++,None
+"Thursday, Jun 20",boxscore,BOS,@,NYY,W,15,8,None,37-19,1,up 4.0,O'Brien,Ford,None,2:25,D,"5,000",+++++,None
+"Friday, Jun 21",boxscore,BOS,@,NYY,W,11,3,None,38-19,1,up 4.0,Wood,Quinn,None,2:07,D,"8,000",++++++,None
+"Saturday, Jun 22",boxscore,BOS,@,NYY,W,13,2,None,39-19,1,up 4.5,Hall,McConnell,None,2:01,D,"12,000",+++++++,None
+"Saturday, Jun 22",boxscore,BOS,@,NYY,W,10,3,None,40-19,1,up 4.5,Collins,Warhop,None,2:01,D,"14,000",++++++++,1912-05-06 (Rain)
+"Monday, Jun 24",boxscore,BOS,@,WSH,W,3,1,None,41-19,1,up 5.5,Bedient,Pelty,None,1:50,D,"11,817",+++++++++,None
+"Wednesday, Jun 26",boxscore,BOS,@,WSH,L,2,3,10,41-20,1,up 5.5,Groom,O'Brien,None,2:30,D,None,-,None
+"Wednesday, Jun 26",boxscore,BOS,@,WSH,W,3,0,None,42-20,1,up 5.5,Wood,Johnson,None,1:35,D,"11,718",+,1912-06-25 (Rain)
+"Thursday, Jun 27",boxscore,BOS,@,WSH,L,4,8,8,42-21,1,up 5.0,Hughes,Hall,None,1:50,D,"4,912",-,None
+"Friday, Jun 28",boxscore,BOS,None,NYY,W,5,4,None,43-21,1,up 5.5,Hall,Ford,None,1:54,D,None,+,None
+"Friday, Jun 28",boxscore,BOS,None,NYY,W,6,4,None,44-21,1,up 5.5,Bedient,Warhop,None,1:55,D,"15,000",++,1912-04-18 (Rain)
+"Saturday, Jun 29",boxscore,BOS,None,NYY,W,13,6,None,45-21,1,up 6.0,O'Brien,Quinn,Pape,2:00,D,None,+++,1912-04-19 (Rain)
+"Saturday, Jun 29",boxscore,BOS,None,NYY,W,6,0,7,46-21,1,up 6.0,Wood,Thompson,None,1:20,D,"20,000",++++,None
+"Monday, Jul 1",boxscore,BOS,None,NYY,W,4,1,None,47-21,1,up 6.0,Hall,McConnell,None,1:49,D,"3,500",+++++,None
+"Tuesday, Jul 2",boxscore,BOS,None,NYY,L,7,9,None,47-22,1,up 6.0,Ford,Bedient,None,1:50,D,"4,000",-,None
+"Wednesday, Jul 3",boxscore,BOS,@,PHA,W,7,2,None,48-22,1,up 7.0,Collins,Coombs,None,1:55,D,"12,000",+,None
+"Thursday, Jul 4",boxscore,BOS,@,PHA,L,3,4,None,48-23,1,up 7.0,Plank,Wood,None,2:05,D,"28,000",-,None
+"Thursday, Jul 4",boxscore,BOS,@,PHA,W,6,5,None,49-23,1,up 7.0,Hall,Bender,None,2:10,D,"27,000",+,None
+"Friday, Jul 5",boxscore,BOS,@,PHA,L,2,3,None,49-24,1,up 6.5,Coombs,O'Brien,None,1:42,D,"28,000",-,None
+"Friday, Jul 5",boxscore,BOS,@,PHA,W,5,3,None,50-24,1,up 6.5,Collins,Morgan,None,2:05,D,"25,000",+,1912-04-17 (Rain)
+"Saturday, Jul 6",boxscore,BOS,@,PHA,W,11,5,None,51-24,1,up 6.5,Bedient,Bender,None,2:20,D,"18,000",++,None
+"Monday, Jul 8",boxscore,BOS,None,SLB,W,5,1,None,52-24,1,up 7.0,Wood,Allison,None,2:02,D,"4,000",+++,None
+"Tuesday, Jul 9",boxscore,BOS,None,SLB,W,3,2,None,53-24,1,up 6.5,O'Brien,Baumgardner,None,2:10,D,"3,000",++++,None
+"Wednesday, Jul 10",boxscore,BOS,None,SLB,L,2,9,None,53-25,1,up 5.5,Powell,Bedient,None,1:53,D,"4,000",-,None
+"Friday, Jul 12",boxscore,BOS,None,DET,W,4,1,None,54-25,1,up 6.5,Collins,Lake,None,1:50,D,None,+,None
+"Friday, Jul 12",boxscore,BOS,None,DET,W,1,0,11,55-25,1,up 6.5,Wood,Willett,None,1:53,D,"15,000",++,1912-05-08 (Rain)
+"Saturday, Jul 13",boxscore,BOS,None,DET,W,4,0,None,56-25,1,up 6.5,O'Brien,Mullin,None,1:48,D,"20,000",+++,None
+"Monday, Jul 15",boxscore,BOS,None,DET,L,4,6,None,56-26,1,up 6.5,Works,Hall,Dubuc,2:05,D,"8,500",-,None
+"Tuesday, Jul 16",boxscore,BOS,None,DET,W,7,2,None,57-26,1,up 6.5,Collins,Moran,None,1:35,D,"7,000",+,None
+"Wednesday, Jul 17",boxscore,BOS,None,CHW,L,0,1,None,57-27,1,up 6.5,Walsh,O'Brien,None,1:55,D,None,-,None
+"Wednesday, Jul 17",boxscore,BOS,None,CHW,W,7,3,None,58-27,1,up 6.5,Wood,Peters,None,1:58,D,"21,000",+,1912-05-16 (Rain)
+"Friday, Jul 19",boxscore,BOS,None,CHW,W,8,0,None,59-27,1,up 6.5,Collins,Benz,None,1:42,D,"16,000",++,None
+"Friday, Jul 19",boxscore,BOS,None,CHW,W,2,1,12,60-27,1,up 6.5,Bedient,Cicotte,None,2:25,D,None,+++,1912-07-18 (Rain)
+"Saturday, Jul 20",boxscore,BOS,None,CHW,W,3,2,None,61-27,1,up 7.0,Hall,Walsh,None,2:00,D,"22,000",++++,None
+"Monday, Jul 22",boxscore,BOS,None,CLE,W,8,3,None,62-27,1,up 7.0,O'Brien,Krause,None,2:00,D,"6,000",+++++,None
+"Tuesday, Jul 23",boxscore,BOS,None,CLE,W,6,3,None,63-27,1,up 8.0,Wood,Blanding,None,2:01,D,"5,500",++++++,None
+"Wednesday, Jul 24",boxscore,BOS,None,CLE,L,6,11,None,63-28,1,up 7.5,Steen,Bedient,Gregg,2:15,D,"7,000",-,None
+"Thursday, Jul 25",boxscore,BOS,None,CLE,L,0,1,None,63-29,1,up 7.0,Gregg,Collins,None,1:32,D,"9,000",--,None
+"Saturday, Jul 27",boxscore,BOS,@,CHW,W,5,3,10,64-29,1,up 6.5,O'Brien,Walsh,None,1:48,D,"18,000",+,None
+"Sunday, Jul 28",boxscore,BOS,@,CHW,W,5,4,None,65-29,1,up 6.0,Wood,Cicotte,Bedient,2:05,D,"20,000",++,None
+"Monday, Jul 29",boxscore,BOS,@,CHW,W,7,5,None,66-29,1,up 6.5,O'Brien,Benz,None,2:05,D,"5,000",+++,None
+"Tuesday, Jul 30",boxscore,BOS,@,CHW,L,5,6,None,66-30,1,up 6.0,Walsh,Hall,None,1:45,D,"5,700",-,None
+"Wednesday, Jul 31",boxscore,BOS,@,SLB,W,4,1,None,67-30,1,up 7.0,Bedient,Adams,None,1:45,D,"3,500",+,None
+"Thursday, Aug 1",boxscore,BOS,@,SLB,L,1,2,None,67-31,1,up 6.0,Allison,O'Brien,None,1:30,D,"1,300",-,None
+"Friday, Aug 2",boxscore,BOS,@,SLB,W,9,0,None,68-31,1,up 6.0,Wood,Hamilton,None,1:40,D,"1,600",+,None
+"Saturday, Aug 3",boxscore,BOS,@,SLB,L,2,4,None,68-32,1,up 6.0,Baumgardner,Hall,None,1:45,D,"8,000",-,None
+"Sunday, Aug 4",boxscore,BOS,@,CLE,W,8,6,None,69-32,1,up 6.0,O'Brien,Steen,None,2:10,D,"4,941",+,None
+"Monday, Aug 5",boxscore,BOS,@,CLE,L,1,3,None,69-33,1,up 5.0,Gregg,Bedient,None,2:05,D,"2,927",-,None
+"Tuesday, Aug 6",boxscore,BOS,@,CLE,W,5,4,11,70-33,1,up 6.0,Wood,Blanding,None,2:35,D,"3,500",+,None
+"Wednesday, Aug 7",boxscore,BOS,@,CLE,T,4,4,None,70-33,1,up 5.5,None,None,None,1:55,D,"3,255",+,None
+"Thursday, Aug 8",boxscore,BOS,@,DET,W,5,0,None,71-33,1,up 6.5,Collins,Lake,None,1:50,D,"4,659",++,None
+"Friday, Aug 9",boxscore,BOS,@,DET,W,6,1,None,72-33,1,up 7.0,Bedient,Mullin,None,1:50,D,"4,252",+++,None
+"Saturday, Aug 10",boxscore,BOS,@,DET,W,4,1,None,73-33,1,up 8.5,Wood,Willett,None,1:40,D,"8,525",++++,None
+"Sunday, Aug 11",boxscore,BOS,@,DET,L,2,4,None,73-34,1,up 7.5,Dubuc,Collins,None,1:45,D,"5,908",-,None
+"Wednesday, Aug 14",boxscore,BOS,None,SLB,W,8,2,None,74-34,1,up 9.5,Hall,Baumgardner,None,2:20,D,None,+,None
+"Wednesday, Aug 14",boxscore,BOS,None,SLB,W,8,0,8,75-34,1,up 9.5,Wood,Allison,None,1:25,D,"18,000",++,1912-07-11 (Rain)
+"Thursday, Aug 15",boxscore,BOS,None,SLB,W,13,6,None,76-34,1,up 9.5,Bedient,Powell,None,1:55,D,"8,000",+++,None
+"Friday, Aug 16",boxscore,BOS,None,SLB,L,2,3,None,76-35,1,up 8.5,Hamilton,O'Brien,None,2:18,D,"6,000",-,None
+"Saturday, Aug 17",boxscore,BOS,None,DET,W,6,4,None,77-35,1,up 8.5,Collins,Mullin,Wood,2:07,D,"26,050",+,None
+"Monday, Aug 19",boxscore,BOS,None,DET,W,4,3,None,78-35,1,up 9.0,Bedient,Willett,None,1:49,D,"12,000",++,None
+"Tuesday, Aug 20",boxscore,BOS,None,DET,W,6,2,None,79-35,1,up 8.5,Wood,Dubuc,None,1:44,D,"8,000",+++,None
+"Wednesday, Aug 21",boxscore,BOS,None,CLE,L,4,9,None,79-36,1,up 7.5,Blanding,O'Brien,None,2:03,D,"8,000",-,None
+"Thursday, Aug 22",boxscore,BOS,None,CLE,W,9,0,None,80-36,1,up 8.5,Collins,Kahler,None,1:50,D,"10,000",+,None
+"Friday, Aug 23",boxscore,BOS,None,CLE,W,5,1,None,81-36,1,up 8.0,Bedient,Steen,None,1:55,D,"5,000",++,None
+"Saturday, Aug 24",boxscore,BOS,None,CLE,W,8,4,None,82-36,1,up 8.5,Wood,Gregg,None,2:08,D,None,+++,None
+"Monday, Aug 26",boxscore,BOS,None,CHW,L,2,4,None,82-37,1,up 8.0,Walsh,Collins,None,1:53,D,"6,000",-,None
+"Tuesday, Aug 27",boxscore,BOS,None,CHW,T,8,8,12,82-37,1,up 8.5,None,None,None,3:23,D,"7,000",-,None
+"Wednesday, Aug 28",boxscore,BOS,None,CHW,W,5,3,None,83-37,1,up10.0,O'Brien,Benz,None,1:50,D,None,+,None
+"Wednesday, Aug 28",boxscore,BOS,None,CHW,W,3,0,None,84-37,1,up10.0,Wood,Taylor,None,1:28,D,"20,000",++,None
+"Thursday, Aug 29",boxscore,BOS,None,PHA,W,8,1,None,85-37,1,up10.0,Collins,Plank,None,2:11,D,"14,000",+++,None
+"Friday, Aug 30",boxscore,BOS,None,PHA,W,7,4,None,86-37,1,up10.0,Hall,Bender,None,2:22,D,"10,000",++++,None
+"Saturday, Aug 31",boxscore,BOS,None,PHA,W,2,1,None,87-37,1,up11.0,O'Brien,Coombs,None,1:56,D,"30,000",+++++,None
+"Monday, Sep 2",boxscore,BOS,@,NYY,W,2,1,None,88-37,1,up13.0,Bedient,Ford,None,1:43,D,None,++++++,1912-09-02 (Accommodate large crowd; Played at NY1; NYA home team)
+"Monday, Sep 2",boxscore,BOS,@,NYY,W,1,0,None,89-37,1,up13.0,Wood,McConnell,None,1:50,D,"20,000",+++++++,1912-09-02 (Accommodate large crowd; Played at NY1; NYA home team)
+"Wednesday, Sep 4",boxscore,BOS,None,WSH,W,6,2,None,90-37,1,up13.5,Collins,Engel,None,2:04,D,"18,000",++++++++,None
+"Thursday, Sep 5",boxscore,BOS,None,WSH,W,4,3,None,91-37,1,up14.5,O'Brien,Cashion,None,2:03,D,"15,000",+++++++++,None
+"Friday, Sep 6",boxscore,BOS,None,WSH,W,1,0,None,92-37,1,up14.5,Wood,Johnson,None,1:50,D,"29,000",++++++++++,None
+"Saturday, Sep 7",boxscore,BOS,None,WSH,L,1,5,None,92-38,1,up13.5,Groom,Bedient,None,2:05,D,"23,000",-,None
+"Tuesday, Sep 10",boxscore,BOS,@,CHW,W,5,4,None,93-38,1,up14.5,Wood,White,Hall,2:18,D,"10,000",+,None
+"Wednesday, Sep 11",boxscore,BOS,@,CHW,W,6,0,None,94-38,1,up14.5,Collins,Cicotte,None,1:55,D,"4,700",++,None
+"Thursday, Sep 12",boxscore,BOS,@,CHW,W,3,1,None,95-38,1,up14.5,O'Brien,Lange,None,2:00,D,"11,500",+++,None
+"Friday, Sep 13",boxscore,BOS,@,SLB,W,6,2,None,96-38,1,up15.5,Bedient,Weilman,None,1:50,D,"1,500",++++,None
+"Sunday, Sep 15",boxscore,BOS,@,SLB,L,4,5,None,96-39,1,up16.5,Baumgardner,Hall,None,2:00,D,None,-,None
+"Sunday, Sep 15",boxscore,BOS,@,SLB,W,2,1,8,97-39,1,up16.5,Wood,Hamilton,None,1:50,D,"12,000",+,1912-09-14 (Rain)
+"Tuesday, Sep 17",boxscore,BOS,@,CLE,L,3,4,11,97-40,1,up15.0,Gregg,Collins,None,2:28,D,None,-,None
+"Tuesday, Sep 17",boxscore,BOS,@,CLE,L,2,3,5,97-41,1,up15.0,Blanding,O'Brien,None,1:05,D,"8,647",--,None
+"Thursday, Sep 19",boxscore,BOS,@,CLE,L,3,9,5,97-42,1,up13.0,Steen,Hall,Kahler,1:15,D,None,---,None
+"Thursday, Sep 19",boxscore,BOS,@,CLE,L,0,6,6,97-43,1,up13.0,Baskette,Bedient,None,1:42,D,"2,917",----,1912-09-18 (Rain)
+"Friday, Sep 20",boxscore,BOS,@,DET,L,4,6,None,97-44,1,up13.0,Covington,Wood,Lake,2:12,D,"3,115",-----,None
+"Saturday, Sep 21",boxscore,BOS,@,DET,W,11,4,None,98-44,1,up13.5,Collins,Willett,None,1:52,D,"6,316",+,None
+"Tuesday, Sep 24",boxscore,BOS,None,NYY,L,2,5,None,98-45,1,up12.5,McConnell,Bedient,None,2:07,D,None,-,None
+"Tuesday, Sep 24",boxscore,BOS,None,NYY,W,3,1,8,99-45,1,up12.5,O'Brien,Caldwell,None,1:46,D,"7,500",+,1912-04-19 (Rain)
+"Wednesday, Sep 25",boxscore,BOS,None,NYY,W,6,0,None,100-45,1,up13.0,Wood,Schulz,None,1:19,D,"4,000",++,None
+"Thursday, Sep 26",boxscore,BOS,None,NYY,W,15,12,8,101-45,1,up13.5,Pape,Caldwell,None,2:15,D,"5,000",+++,None
+"Saturday, Sep 28",boxscore,BOS,@,WSH,L,2,3,None,101-46,1,up12.0,Cashion,Collins,None,2:20,D,"10,454",-,None
+"Monday, Sep 30",boxscore,BOS,@,WSH,W,7,5,None,102-46,1,up13.0,O'Brien,Engel,None,2:15,D,"4,129",+,None
+"Tuesday, Oct 1",boxscore,BOS,@,WSH,W,12,3,None,103-46,1,up14.0,Bedient,Groom,None,2:00,D,"6,931",++,None
+"Thursday, Oct 3",boxscore,BOS,@,PHA,W,17,5,None,104-46,1,up14.0,Wood,Brown,Hall,2:15,D,"10,000",+++,None
+"Friday, Oct 4",boxscore,BOS,@,PHA,L,3,4,None,104-47,1,up13.0,Houck,Collins,None,2:00,D,"2,500",-,None
+"Saturday, Oct 5",boxscore,BOS,@,PHA,W,3,0,None,105-47,1,up14.0,O'Brien,Brown,None,1:40,D,"10,000",+,None

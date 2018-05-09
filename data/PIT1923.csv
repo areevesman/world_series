@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 18",boxscore,PIT,@,CHC,L,2,7,None,1-1,3, 1.0,Alexander,Boehler,None,None,D,None,-,None
+"Thursday, Apr 19",boxscore,PIT,@,CHC,L,5,10,None,1-2,6, 2.5,Aldridge,Adams,None,1:33,D,None,--,None
+"Friday, Apr 20",boxscore,PIT,@,CHC,L,11,12,None,1-3,7, 2.5,Osborne,Adams,None,None,D,None,---,None
+"Saturday, Apr 21",boxscore,PIT,@,CIN,L,6,12,None,1-4,8, 3.5,Donohue,Cooper,None,None,D,None,----,None
+"Sunday, Apr 22",boxscore,PIT,@,CIN,W,15,9,None,2-4,5, 3.5,Morrison,Rixey,Bagby,2:11,D,None,+,None
+"Monday, Apr 23",boxscore,PIT,@,CIN,W,8,4,None,3-4,4, 3.5,Boehler,Couch,Glazner,1:45,D,None,++,None
+"Tuesday, Apr 24",boxscore,PIT,@,CIN,L,4,5,None,3-5,5, 4.5,Luque,Kunz,None,1:45,D,None,-,None
+"Wednesday, Apr 25",boxscore,PIT,None,CHC,W,7,3,None,4-5,5, 4.0,Cooper,Fussell,None,1:50,D,"30,000",+,None
+"Thursday, Apr 26",boxscore,PIT,None,CHC,W,7,2,None,5-5,3, 4.0,Adams,Osborne,None,1:57,D,None,++,None
+"Friday, Apr 27",boxscore,PIT,None,CHC,W,2,1,None,6-5,3, 3.0,Morrison,Alexander,None,None,D,None,+++,None
+"Sunday, Apr 29",boxscore,PIT,@,STL,L,2,3,None,6-6,4, 2.5,Haines,Glazner,None,1:25,D,None,-,None
+"Monday, Apr 30",boxscore,PIT,@,STL,L,5,7,None,6-7,6, 3.5,Doak,Boehler,Sherdel,1:37,D,"5,000",--,None
+"Tuesday, May 1",boxscore,PIT,@,STL,W,6,2,None,7-7,4, 3.5,Cooper,Sherdel,None,1:18,D,"3,500",+,None
+"Wednesday, May 2",boxscore,PIT,@,STL,L,1,12,None,7-8,4, 4.5,Pfeffer,Morrison,None,1:40,D,"2,000",-,None
+"Thursday, May 3",boxscore,PIT,None,CIN,W,3,1,None,8-8,4, 3.5,Adams,Donohue,None,None,D,"3,000",+,None
+"Friday, May 4",boxscore,PIT,None,CIN,W,11,6,None,9-8,4, 3.5,Glazner,Rixey,Bagby,1:44,D,None,++,None
+"Saturday, May 5",boxscore,PIT,None,CIN,W,10,7,None,10-8,2, 3.5,Cooper,Keck,Morrison,1:52,D,None,+++,None
+"Sunday, May 6",boxscore,PIT,@,CIN,L,7,8,None,10-9,2, 4.0,Donohue,Hamilton,None,2:01,D,None,-,None
+"Monday, May 7",boxscore,PIT,None,STL,W,11,4,None,11-9,2, 4.0,Adams,Sherdel,None,1:51,D,"8,000",+,None
+"Tuesday, May 8",boxscore,PIT,@,BRO,W,8,6,None,12-9,2, 4.0,Morrison,Harper,None,2:10,D,"3,500",++,None
+"Friday, May 11",boxscore,PIT,@,BRO,L,6,7,None,12-10,2, 4.5,Grimes,Bagby,None,2:09,D,"2,000",-,None
+"Sunday, May 13",boxscore,PIT,@,NYG,L,0,9,None,12-11,3, 5.5,McQuillan,Cooper,None,1:36,D,"35,000",--,None
+"Monday, May 14",boxscore,PIT,@,NYG,W,4,1,None,13-11,3, 4.5,Adams,Nehf,None,1:41,D,"8,000",+,None
+"Wednesday, May 16",boxscore,PIT,@,NYG,L,2,6,None,13-12,3, 5.5,Scott,Morrison,None,1:30,D,"5,000",-,1923-05-12 (Wet grounds)
+"Thursday, May 17",boxscore,PIT,@,BSN,L,0,1,10,13-13,3, 6.5,Rudolph,Cooper,None,1:56,D,None,--,None
+"Friday, May 18",boxscore,PIT,@,BSN,W,4,3,None,14-13,3, 5.5,Adams,Fillingim,Kunz,None,D,None,+,None
+"Saturday, May 19",boxscore,PIT,@,BSN,W,5,0,None,15-13,3, 5.5,Glazner,McNamara,None,1:50,D,None,++,None
+"Monday, May 21",boxscore,PIT,@,PHI,W,5,3,None,16-13,2, 5.5,Morrison,Behan,None,1:46,D,None,+++,None
+"Tuesday, May 22",boxscore,PIT,@,PHI,W,13,6,None,17-13,2, 5.5,Cooper,Meadows,None,1:45,D,None,++++,None
+"Wednesday, May 23",boxscore,PIT,@,PHI,W,7,6,None,18-13,2, 5.5,Kunz,Head,None,2:05,D,None,+++++,None
+"Thursday, May 24",boxscore,PIT,None,STL,W,11,4,None,19-13,2, 5.5,Adams,Sherdel,None,1:39,D,"10,000",++++++,None
+"Friday, May 25",boxscore,PIT,None,STL,W,2,1,None,20-13,2, 5.5,Morrison,Doak,None,None,D,"6,000",+++++++,None
+"Saturday, May 26",boxscore,PIT,None,STL,L,4,5,None,20-14,2, 6.5,Haines,Cooper,None,1:56,D,"15,000",-,None
+"Sunday, May 27",boxscore,PIT,@,CHC,W,4,2,None,21-14,2, 6.5,Meadows,Aldridge,None,1:50,D,None,+,None
+"Monday, May 28",boxscore,PIT,@,CHC,L,4,5,11,21-15,2, 6.5,Fussell,Kunz,None,2:09,D,None,-,None
+"Tuesday, May 29",boxscore,PIT,None,CHC,W,7,6,None,22-15,2, 5.5,Bagby,Stueland,None,1:40,D,None,+,None
+"Wednesday, May 30",boxscore,PIT,None,CHC,W,5,4,None,23-15,2, 4.5,Morrison,Kaufmann,None,1:44,D,"20,000",++,None
+"Wednesday, May 30",boxscore,PIT,None,CHC,W,10,2,None,24-15,2, 4.5,Cooper,Aldridge,None,1:57,D,"30,000",+++,None
+"Thursday, May 31",boxscore,PIT,@,STL,L,1,4,None,24-16,2, 5.5,Toney,Meadows,None,1:19,D,"1,000",-,None
+"Friday, Jun 1",boxscore,PIT,@,STL,L,3,4,11,24-17,2, 6.5,Pfeffer,Hamilton,None,2:15,D,None,--,None
+"Sunday, Jun 3",boxscore,PIT,@,STL,L,3,4,None,24-18,2, 7.5,Haines,Cooper,None,1:37,D,None,---,None
+"Monday, Jun 4",boxscore,PIT,None,BRO,L,3,5,None,24-19,2, 8.0,Grimes,Morrison,None,1:53,D,"7,000",----,None
+"Tuesday, Jun 5",boxscore,PIT,None,BRO,W,5,2,None,25-19,2, 8.0,Meadows,Dickerman,None,1:30,D,"5,000",+,None
+"Wednesday, Jun 6",boxscore,PIT,None,BRO,W,7,3,None,26-19,2, 7.0,Hamilton,Ruether,None,2:16,D,"4,000",++,None
+"Friday, Jun 8",boxscore,PIT,None,NYG,W,9,6,None,27-19,2, 5.5,Morrison,McQuillan,None,1:45,D,"15,000",+++,None
+"Saturday, Jun 9",boxscore,PIT,None,NYG,L,0,6,None,27-20,2, 6.5,Bentley,Meadows,None,1:41,D,"30,000",-,None
+"Tuesday, Jun 12",boxscore,PIT,None,NYG,W,4,2,None,28-20,2, 5.5,Cooper,Nehf,None,1:54,D,"15,000",+,None
+"Wednesday, Jun 13",boxscore,PIT,None,PHI,W,4,2,None,29-20,2, 4.5,Morrison,Behan,None,1:41,D,None,++,None
+"Thursday, Jun 14",boxscore,PIT,None,PHI,L,1,2,None,29-21,2, 4.5,Ring,Meadows,None,1:25,D,None,-,None
+"Saturday, Jun 16",boxscore,PIT,None,PHI,W,4,1,None,30-21,2, 3.0,Cooper,Weinert,None,1:20,D,None,+,None
+"Monday, Jun 18",boxscore,PIT,None,BSN,W,8,3,None,31-21,2, 2.5,Morrison,Marquard,None,1:45,D,None,++,None
+"Wednesday, Jun 20",boxscore,PIT,None,BSN,L,8,14,10,31-22,2, 4.0,Benton,Boehler,Barnes,2:21,D,None,-,None
+"Thursday, Jun 21",boxscore,PIT,None,BSN,W,2,1,None,32-22,2, 3.5,Adams,Barnes,None,1:29,D,"3,000",+,None
+"Friday, Jun 22",boxscore,PIT,None,CIN,W,8,2,None,33-22,2, 3.5,Meadows,Donohue,None,1:45,D,None,++,None
+"Saturday, Jun 23",boxscore,PIT,None,CIN,L,4,5,None,33-23,2, 4.5,Rixey,Cooper,Benton,1:53,D,"10,000",-,None
+"Sunday, Jun 24",boxscore,PIT,@,STL,W,6,4,None,34-23,2, 4.5,Morrison,Pfeffer,Bagby,1:56,D,None,+,None
+"Monday, Jun 25",boxscore,PIT,@,STL,W,3,1,None,35-23,2, 4.5,Hamilton,Haines,None,1:34,D,"5,000",++,None
+"Tuesday, Jun 26",boxscore,PIT,@,STL,W,7,5,None,36-23,2, 4.5,Meadows,Doak,Adams,1:52,D,"2,000",+++,None
+"Wednesday, Jun 27",boxscore,PIT,@,STL,W,6,0,None,37-23,2, 4.5,Cooper,Sherdel,None,1:32,D,"2,000",++++,1923-06-02 (Rain)
+"Friday, Jun 29",boxscore,PIT,None,CIN,L,0,2,None,37-24,2, 5.0,Luque,Morrison,None,None,D,None,-,None
+"Friday, Jun 29",boxscore,PIT,None,CIN,W,5,3,None,38-24,2, 5.0,Bagby,Benton,None,None,D,None,+,1923-06-28 (Rain)
+"Saturday, Jun 30",boxscore,PIT,None,CIN,W,4,3,None,39-24,2, 4.5,Adams,Rixey,None,1:41,D,"22,000",++,None
+"Sunday, Jul 1",boxscore,PIT,@,CIN,L,2,3,None,39-25,2, 4.5,Donohue,Cooper,Luque,1:45,D,None,-,None
+"Monday, Jul 2",boxscore,PIT,None,STL,W,4,1,None,40-25,2, 3.5,Hamilton,Pfeffer,None,1:43,D,None,+,None
+"Tuesday, Jul 3",boxscore,PIT,None,STL,W,4,2,None,41-25,2, 3.5,Meadows,Toney,None,None,D,"8,000",++,None
+"Wednesday, Jul 4",boxscore,PIT,None,STL,W,7,5,None,42-25,2, 3.5,Cooper,Pfeffer,None,None,D,None,+++,None
+"Wednesday, Jul 4",boxscore,PIT,None,STL,W,6,1,None,43-25,2, 3.5,Morrison,Haines,None,None,D,None,++++,None
+"Friday, Jul 6",boxscore,PIT,@,PHI,L,2,5,None,43-26,2, 4.0,Mitchell,Cooper,None,1:45,D,"1,000",-,None
+"Saturday, Jul 7",boxscore,PIT,@,PHI,W,18,5,None,44-26,2, 3.0,Meadows,Glazner,None,1:50,D,None,+,None
+"Monday, Jul 9",boxscore,PIT,@,PHI,L,2,4,None,44-27,2, 3.5,Behan,Morrison,None,1:29,D,None,-,None
+"Tuesday, Jul 10",boxscore,PIT,@,NYG,L,8,9,10,44-28,2, 4.5,Blume,Bagby,None,2:02,D,"10,000",--,None
+"Wednesday, Jul 11",boxscore,PIT,@,NYG,L,1,6,None,44-29,3, 5.5,Watson,Hamilton,None,1:47,D,None,---,None
+"Thursday, Jul 12",boxscore,PIT,@,NYG,W,5,3,None,45-29,3, 5.5,Meadows,McQuillan,None,1:45,D,"25,000",+,None
+"Thursday, Jul 12",boxscore,PIT,@,NYG,L,2,4,None,45-30,3, 5.5,Scott,Adams,None,1:33,D,"40,000",-,1923-05-15 (Cold)
+"Friday, Jul 13",boxscore,PIT,@,NYG,W,10,1,None,46-30,3, 4.5,Morrison,Bentley,None,1:57,D,"7,500",+,None
+"Saturday, Jul 14",boxscore,PIT,@,BRO,L,1,2,None,46-31,3, 5.0,Vance,Cooper,None,1:45,D,"20,000",-,None
+"Saturday, Jul 14",boxscore,PIT,@,BRO,W,5,3,None,47-31,3, 5.0,Bagby,Henry,None,1:40,D,"23,000",+,1923-05-09 (Wet grounds)
+"Sunday, Jul 15",boxscore,PIT,@,BRO,W,3,2,None,48-31,3, 4.0,Hamilton,Ruether,None,1:49,D,"15,000",++,None
+"Monday, Jul 16",boxscore,PIT,@,BRO,L,4,8,None,48-32,3, 4.5,Grimes,Meadows,None,1:46,D,None,-,None
+"Tuesday, Jul 17",boxscore,PIT,@,BRO,L,2,6,None,48-33,3, 5.5,Smith,Morrison,None,1:51,D,"2,500",--,None
+"Wednesday, Jul 18",boxscore,PIT,@,BSN,W,5,1,None,49-33,3, 4.5,Cooper,Marquard,None,1:25,D,None,+,None
+"Thursday, Jul 19",boxscore,PIT,@,BSN,W,8,6,None,50-33,3, 3.5,Meadows,Barnes,Morrison,1:58,D,None,++,None
+"Friday, Jul 20",boxscore,PIT,@,BSN,L,5,8,None,50-34,3, 4.5,Genewich,Hamilton,None,1:30,D,None,-,None
+"Saturday, Jul 21",boxscore,PIT,@,BSN,W,14,4,None,51-34,3, 4.0,Morrison,McNamara,None,1:50,D,None,+,None
+"Saturday, Jul 21",boxscore,PIT,@,BSN,W,6,4,None,52-34,3, 4.0,Cooper,Miller,None,1:45,D,None,++,None
+"Monday, Jul 23",boxscore,PIT,None,CHC,L,3,12,12,52-35,3, 5.5,Alexander,Meadows,None,None,D,None,-,None
+"Wednesday, Jul 25",boxscore,PIT,None,BSN,W,5,2,None,53-35,2, 4.5,Adams,Benton,None,None,D,None,+,None
+"Wednesday, Jul 25",boxscore,PIT,None,BSN,W,10,3,None,54-35,2, 4.5,Morrison,Fillingim,None,1:47,D,None,++,1923-06-19 (Rain)
+"Thursday, Jul 26",boxscore,PIT,None,BSN,W,8,7,12,55-35,2, 3.5,Hamilton,Barnes,None,None,D,None,+++,None
+"Friday, Jul 27",boxscore,PIT,None,BSN,W,8,5,None,56-35,2, 3.0,Meadows,Oeschger,None,1:50,D,None,++++,None
+"Saturday, Jul 28",boxscore,PIT,None,BSN,W,3,1,None,57-35,2, 2.5,Cooper,Genewich,None,1:51,D,None,+++++,None
+"Monday, Jul 30",boxscore,PIT,None,NYG,W,5,4,None,58-35,3, 3.0,Steineder,Scott,None,1:42,D,"32,000",++++++,None
+"Monday, Jul 30",boxscore,PIT,None,NYG,L,2,17,None,58-36,3, 3.0,Nehf,Morrison,Jonnard,2:02,D,"32,000",-,1923-06-11 (Rain)
+"Tuesday, Jul 31",boxscore,PIT,None,NYG,L,4,5,None,58-37,2, 4.0,McQuillan,Hamilton,Ryan,1:34,D,"10,000",--,None
+"Wednesday, Aug 1",boxscore,PIT,None,NYG,W,2,1,None,59-37,2, 3.0,Cooper,Bentley,None,1:17,D,"15,000",+,None
+"Thursday, Aug 2",boxscore,PIT,None,NYG,L,2,3,None,59-38,3, 4.0,Watson,Meadows,None,1:34,D,"18,000",-,None
+"Saturday, Aug 4",boxscore,PIT,None,PHI,L,2,4,None,59-39,3, 4.5,Ring,Adams,None,1:35,D,None,--,None
+"Saturday, Aug 4",boxscore,PIT,None,PHI,W,4,3,None,60-39,3, 4.5,Morrison,Weinert,None,1:29,D,None,+,1923-06-15 (Rain)
+"Monday, Aug 6",boxscore,PIT,None,PHI,L,4,6,None,60-40,2, 6.5,Mitchell,Cooper,None,1:43,D,None,-,None
+"Tuesday, Aug 7",boxscore,PIT,None,PHI,L,5,7,None,60-41,2, 7.5,Glazner,Meadows,Behan,1:42,D,None,--,None
+"Wednesday, Aug 8",boxscore,PIT,None,BRO,L,2,9,None,60-42,2, 7.0,Vance,Hamilton,None,1:35,D,"5,000",---,None
+"Wednesday, Aug 8",boxscore,PIT,None,BRO,W,5,2,None,61-42,2, 7.0,Morrison,Grimes,None,1:32,D,"7,000",+,1923-06-07 (Rain)
+"Thursday, Aug 9",boxscore,PIT,None,BRO,W,6,2,None,62-42,2, 6.0,Adams,Dickerman,None,1:26,D,"4,000",++,None
+"Saturday, Aug 11",boxscore,PIT,None,BRO,L,6,7,None,62-43,2, 7.5,Ruether,Cooper,None,1:49,D,"12,000",-,None
+"Sunday, Aug 12",boxscore,PIT,@,BRO,L,2,11,None,62-44,2, 8.0,Vance,Hamilton,None,1:51,D,"22,000",--,None
+"Sunday, Aug 12",boxscore,PIT,@,BRO,L,0,6,None,62-45,2, 8.0,Grimes,Morrison,None,1:36,D,"22,000",---,1923-05-10 (Cold)
+"Monday, Aug 13",boxscore,PIT,@,BRO,W,5,2,None,63-45,2, 7.5,Meadows,Smith,None,1:25,D,"4,000",+,None
+"Tuesday, Aug 14",boxscore,PIT,@,PHI,L,10,16,None,63-46,2, 8.5,Couch,Stone,Weinert,1:50,D,None,-,None
+"Wednesday, Aug 15",boxscore,PIT,@,PHI,W,4,3,None,64-46,3, 7.0,Cooper,Behan,None,1:22,D,None,+,None
+"Thursday, Aug 16",boxscore,PIT,@,PHI,L,5,8,None,64-47,3, 8.0,Betts,Morrison,None,1:42,D,None,-,None
+"Friday, Aug 17",boxscore,PIT,@,PHI,W,11,6,None,65-47,3, 7.0,Hamilton,Ring,None,1:51,D,None,+,None
+"Saturday, Aug 18",boxscore,PIT,@,PHI,W,9,8,13,66-47,3, 6.0,Adams,Ring,None,None,D,"10,000",++,None
+"Sunday, Aug 19",boxscore,PIT,@,NYG,L,1,2,12,66-48,3, 7.0,Scott,Cooper,None,2:00,D,"25,000",-,None
+"Monday, Aug 20",boxscore,PIT,@,NYG,W,3,1,None,67-48,3, 6.0,Morrison,Nehf,None,1:20,D,"7,000",+,None
+"Tuesday, Aug 21",boxscore,PIT,@,NYG,W,9,5,None,68-48,3, 5.0,Adams,Watson,Hamilton,2:17,D,"8,000",++,None
+"Thursday, Aug 23",boxscore,PIT,@,BSN,W,8,3,None,69-48,3, 4.5,Meadows,Barnes,None,1:47,D,None,+++,None
+"Friday, Aug 24",boxscore,PIT,@,BSN,W,7,2,None,70-48,3, 4.5,Cooper,Oeschger,None,1:19,D,None,++++,None
+"Saturday, Aug 25",boxscore,PIT,@,BSN,W,5,2,None,71-48,3, 4.5,Morrison,Marquard,None,1:27,D,None,+++++,None
+"Sunday, Aug 26",boxscore,PIT,@,BRO,W,9,2,None,72-48,3, 4.5,Adams,Ruether,None,1:36,D,"10,000",++++++,None
+"Wednesday, Aug 29",boxscore,PIT,None,CHC,L,2,6,None,72-49,3, 5.0,Kaufmann,Cooper,None,1:49,D,"5,000",-,1923-04-28 (Rain)
+"Thursday, Aug 30",boxscore,PIT,None,STL,L,4,6,None,72-50,3, 6.0,Haines,Morrison,None,1:47,D,"5,000",--,None
+"Friday, Aug 31",boxscore,PIT,None,STL,L,2,3,None,72-51,3, 6.0,Doak,Cooper,None,1:36,D,"4,500",---,None
+"Saturday, Sep 1",boxscore,PIT,None,STL,L,2,8,None,72-52,3, 6.0,Sherdel,Adams,None,1:39,D,"10,000",----,None
+"Sunday, Sep 2",boxscore,PIT,@,CHC,W,8,6,11,73-52,3, 5.0,Meadows,Kaufmann,None,2:29,D,None,+,None
+"Monday, Sep 3",boxscore,PIT,None,CIN,W,7,2,None,74-52,3, 4.5,Morrison,Benton,None,None,D,None,++,None
+"Tuesday, Sep 4",boxscore,PIT,None,CIN,L,1,2,None,74-53,3, 5.5,Rixey,Cooper,None,1:42,D,"7,000",-,None
+"Wednesday, Sep 5",boxscore,PIT,None,CIN,W,6,2,None,75-53,3, 5.0,Meadows,Luque,None,1:36,D,"5,000",+,1923-09-03 (Rain)
+"Thursday, Sep 6",boxscore,PIT,None,CHC,W,5,1,5,76-53,3, 5.0,Hamilton,Alexander,None,1:00,D,None,++,1923-07-24 (Rain)
+"Friday, Sep 7",boxscore,PIT,None,CHC,L,4,6,None,76-54,3, 5.0,Keen,Adams,None,1:47,D,None,-,None
+"Saturday, Sep 8",boxscore,PIT,None,CHC,W,4,0,None,77-54,2, 5.0,Morrison,Aldridge,None,1:37,D,None,+,None
+"Sunday, Sep 9",boxscore,PIT,@,CIN,L,3,8,None,77-55,3, 5.0,Luque,Cooper,None,1:34,D,"10,000",-,None
+"Monday, Sep 10",boxscore,PIT,@,CIN,W,8,0,None,78-55,2, 5.0,Meadows,Donohue,None,1:35,D,None,+,None
+"Tuesday, Sep 11",boxscore,PIT,@,CIN,W,4,3,None,79-55,2, 5.0,Morrison,Benton,None,1:30,D,None,++,None
+"Thursday, Sep 13",boxscore,PIT,None,BRO,L,4,7,None,79-56,2, 5.0,Vance,Hamilton,None,None,D,"5,000",-,None
+"Thursday, Sep 13",boxscore,PIT,None,BRO,W,6,3,None,80-56,2, 5.0,Cooper,Henry,None,None,D,"12,000",+,1923-08-10 (Funeral of President Warren Harding)
+"Saturday, Sep 15",boxscore,PIT,None,BRO,W,4,1,None,81-56,2, 4.0,Meadows,Ruether,None,1:18,D,"6,000",++,None
+"Saturday, Sep 15",boxscore,PIT,None,BRO,L,2,13,None,81-57,2, 4.0,Grimes,Morrison,None,1:42,D,"12,000",-,1923-09-14 (Cold)
+"Monday, Sep 17",boxscore,PIT,None,BSN,L,1,6,None,81-58,3, 5.5,Marquard,Cooper,None,None,D,None,--,None
+"Tuesday, Sep 18",boxscore,PIT,None,BSN,W,12,2,None,82-58,3, 5.5,Morrison,Barnes,None,1:37,D,None,+,None
+"Wednesday, Sep 19",boxscore,PIT,None,BSN,L,4,5,None,82-59,3, 6.0,Genewich,Adams,None,1:40,D,None,-,None
+"Friday, Sep 21",boxscore,PIT,None,NYG,L,4,8,None,82-60,3, 8.0,Scott,Meadows,Nehf,1:51,D,"10,000",--,None
+"Friday, Sep 21",boxscore,PIT,None,NYG,L,1,8,None,82-61,3, 8.0,Watson,Cooper,None,1:41,D,"20,000",---,1923-09-20 (Rain)
+"Saturday, Sep 22",boxscore,PIT,None,NYG,L,3,4,None,82-62,3, 9.0,Bentley,Morrison,None,1:44,D,None,----,None
+"Monday, Sep 24",boxscore,PIT,None,PHI,L,2,4,None,82-63,3, 8.5,Couch,Meadows,Behan,1:37,D,None,-----,None
+"Monday, Sep 24",boxscore,PIT,None,PHI,W,4,3,10,83-63,3, 8.5,Cooper,Betts,None,1:47,D,None,+,1923-08-03 (Death of President Warren Harding)
+"Tuesday, Sep 25",boxscore,PIT,None,PHI,W,18,5,None,84-63,3, 8.5,Steineder,Glazner,None,1:48,D,None,++,None
+"Wednesday, Sep 26",boxscore,PIT,None,PHI,W,6,0,None,85-63,3, 8.0,Morrison,Behan,None,1:42,D,None,+++,None
+"Thursday, Sep 27",boxscore,PIT,@,CHC,L,2,8,None,85-64,3, 8.5,Keen,Hamilton,None,1:32,D,None,-,None
+"Friday, Sep 28",boxscore,PIT,@,CHC,L,1,2,None,85-65,3, 9.5,Aldridge,Cooper,None,1:20,D,None,--,None
+"Saturday, Sep 29",boxscore,PIT,@,CHC,L,4,5,10,85-66,3, 9.5,Alexander,Meadows,None,1:29,D,None,---,None
+"Sunday, Sep 30",boxscore,PIT,@,CHC,L,4,5,None,85-67,3, 10.5,Wheeler,Morrison,None,1:41,D,"20,000",----,None
+"Saturday, Oct 6",boxscore,PIT,@,CIN,W,7,1,None,86-67,3, 9.5,Meadows,Rixey,None,1:29,D,None,+,None
+"Sunday, Oct 7",boxscore,PIT,@,CIN,W,7,5,None,87-67,3, 8.5,Morrison,Donohue,None,1:38,D,None,++,None

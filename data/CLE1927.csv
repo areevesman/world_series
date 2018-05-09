@@ -1,0 +1,153 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 13",boxscore,CLE,None,CHW,L,2,7,None,1-1,3, 1.0,Blankenship,Levsen,Connally,2:03,D,None,-,None
+"Thursday, Apr 14",boxscore,CLE,None,CHW,W,3,2,None,2-1,3, 0.5,Karr,Barnabe,Smith,1:40,D,None,+,None
+"Friday, Apr 15",boxscore,CLE,None,CHW,L,1,6,None,2-2,3, 1.5,Lyons,Shaute,None,None,D,None,-,None
+"Sunday, Apr 17",boxscore,CLE,None,DET,L,1,5,None,2-3,6, 3.0,Gibson,Uhle,None,2:12,D,None,--,None
+"Monday, Apr 18",boxscore,CLE,None,DET,W,3,2,None,3-3,4, 3.0,Levsen,Holloway,Buckeye,1:55,D,None,+,None
+"Tuesday, Apr 19",boxscore,CLE,None,DET,L,5,8,None,3-4,5, 3.0,Stoner,Karr,None,2:02,D,None,-,None
+"Wednesday, Apr 20",boxscore,CLE,@,CHW,W,5,4,None,4-4,5, 2.0,Hudlin,Lyons,None,2:27,D,"30,000",+,None
+"Saturday, Apr 23",boxscore,CLE,@,CHW,L,2,8,None,4-5,6, 2.5,Thomas,Uhle,None,1:58,D,"4,500",-,None
+"Sunday, Apr 24",boxscore,CLE,None,SLB,L,4,9,None,4-6,6, 3.5,Zachary,Levsen,None,2:00,D,None,--,None
+"Monday, Apr 25",boxscore,CLE,None,SLB,W,9,1,None,5-6,6, 2.5,Karr,Ballou,None,1:39,D,"2,000",+,None
+"Tuesday, Apr 26",boxscore,CLE,None,SLB,W,6,2,None,6-6,5, 2.0,Hudlin,Gaston,None,1:42,D,"2,500",++,None
+"Wednesday, Apr 27",boxscore,CLE,None,SLB,L,2,4,10,6-7,6, 2.5,Jones,Smith,None,1:42,D,"4,000",-,None
+"Thursday, Apr 28",boxscore,CLE,@,DET,L,5,6,None,6-8,7, 3.0,Holloway,Uhle,Whitehill,2:14,D,None,--,None
+"Friday, Apr 29",boxscore,CLE,@,DET,L,2,5,None,6-9,7, 4.0,Collins,Buckeye,None,1:50,D,None,---,None
+"Saturday, Apr 30",boxscore,CLE,@,DET,W,6,2,None,7-9,7, 3.0,Hudlin,Wells,None,2:14,D,None,+,None
+"Sunday, May 1",boxscore,CLE,@,DET,L,0,7,None,7-10,7, 4.0,Whitehill,Karr,None,2:16,D,None,-,None
+"Monday, May 2",boxscore,CLE,@,SLB,L,6,7,None,7-11,7, 5.0,Falk,Smith,None,2:02,D,None,--,None
+"Tuesday, May 3",boxscore,CLE,@,SLB,W,5,3,None,8-11,7, 5.0,Buckeye,Ballou,None,1:52,D,"2,000",+,None
+"Wednesday, May 4",boxscore,CLE,@,SLB,L,3,13,None,8-12,7, 5.0,Gaston,Levsen,None,1:51,D,"2,000",-,None
+"Saturday, May 7",boxscore,CLE,None,PHA,W,11,10,11,9-12,7, 4.5,Smith,Grove,None,2:58,D,None,+,None
+"Sunday, May 8",boxscore,CLE,None,PHA,W,4,2,None,10-12,7, 4.5,Buckeye,Ehmke,None,1:50,D,None,++,None
+"Monday, May 9",boxscore,CLE,None,PHA,W,6,1,None,11-12,7, 3.5,Shaute,Walberg,None,1:45,D,None,+++,None
+"Tuesday, May 10",boxscore,CLE,None,BOS,L,5,6,None,11-13,7, 4.5,Wiltse,Karr,None,1:50,D,None,-,None
+"Friday, May 13",boxscore,CLE,None,BOS,L,0,7,None,11-14,6, 6.5,Lundgren,Buckeye,None,2:02,D,None,--,None
+"Saturday, May 14",boxscore,CLE,None,WSH,W,5,2,None,12-14,5, 6.0,Uhle,Thurston,None,1:47,D,None,+,None
+"Tuesday, May 17",boxscore,CLE,None,WSH,L,0,12,None,12-15,7, 7.5,Lisenbee,Shaute,None,1:50,D,None,-,None
+"Thursday, May 19",boxscore,CLE,None,NYY,L,3,4,None,12-16,7, 8.5,Moore,Buckeye,None,1:45,D,"4,000",--,None
+"Friday, May 20",boxscore,CLE,None,NYY,W,2,1,None,13-16,7, 7.5,Uhle,Hoyt,None,1:47,D,"8,000",+,1927-05-18 (Rain)
+"Saturday, May 21",boxscore,CLE,None,NYY,W,5,4,12,14-16,6, 6.5,Hudlin,Moore,None,3:02,D,"15,000",++,None
+"Sunday, May 22",boxscore,CLE,None,NYY,L,2,7,None,14-17,6, 7.5,Shocker,Shaute,None,2:13,D,None,-,None
+"Monday, May 23",boxscore,CLE,None,DET,W,9,4,None,15-17,6, 7.0,Buckeye,Collins,None,2:05,D,None,+,None
+"Monday, May 23",boxscore,CLE,None,DET,L,5,7,None,15-18,6, 7.0,Carroll,Levsen,Whitehill,2:00,D,None,-,1927-04-16 (Rain)
+"Tuesday, May 24",boxscore,CLE,None,DET,L,3,6,None,15-19,7, 7.5,Stoner,Uhle,None,1:38,D,None,--,None
+"Wednesday, May 25",boxscore,CLE,None,DET,W,9,6,None,16-19,6, 7.0,Hudlin,Hankins,None,2:05,D,None,+,None
+"Thursday, May 26",boxscore,CLE,@,SLB,L,1,2,10,16-20,6, 7.0,Stewart,Miller,None,1:58,D,"3,000",-,None
+"Thursday, May 26",boxscore,CLE,@,SLB,W,9,7,None,17-20,6, 7.0,Shaute,Gaston,None,2:09,D,"4,000",+,1927-05-05 (Rain)
+"Friday, May 27",boxscore,CLE,@,SLB,W,7,3,None,18-20,5, 6.5,Buckeye,Jones,None,1:52,D,"3,000",++,None
+"Sunday, May 29",boxscore,CLE,@,SLB,L,4,7,None,18-21,5, 7.0,Gaston,Hudlin,None,1:40,D,None,-,None
+"Sunday, May 29",boxscore,CLE,@,SLB,W,10,2,None,19-21,5, 7.0,Levsen,Vangilder,None,2:00,D,None,+,1927-05-28 (Rain)
+"Monday, May 30",boxscore,CLE,@,DET,W,9,8,None,20-21,5, 7.0,Karr,Carroll,Shaute,2:35,D,None,++,None
+"Monday, May 30",boxscore,CLE,@,DET,L,3,11,None,20-22,5, 7.0,Holloway,Uhle,None,2:00,D,None,-,None
+"Tuesday, May 31",boxscore,CLE,@,DET,L,0,1,None,20-23,5, 8.5,Collins,Buckeye,None,1:34,D,None,--,None
+"Wednesday, Jun 1",boxscore,CLE,@,DET,W,14,1,None,21-23,5, 8.5,Hudlin,Gibson,None,2:00,D,None,+,None
+"Thursday, Jun 2",boxscore,CLE,@,PHA,L,4,8,None,21-24,5, 9.5,Gray,Shaute,Pate,2:01,D,None,-,None
+"Friday, Jun 3",boxscore,CLE,@,PHA,W,3,1,None,22-24,5, 8.5,Miller,Quinn,None,1:45,D,None,+,None
+"Monday, Jun 6",boxscore,CLE,@,PHA,L,1,4,None,22-25,5, 9.5,Ehmke,Buckeye,None,1:27,D,None,-,None
+"Tuesday, Jun 7",boxscore,CLE,@,WSH,L,8,10,None,22-26,6, 10.5,Marberry,Smith,None,2:00,D,None,--,None
+"Wednesday, Jun 8",boxscore,CLE,@,WSH,L,1,2,None,22-27,6, 11.5,Lisenbee,Hudlin,None,1:52,D,None,---,None
+"Thursday, Jun 9",boxscore,CLE,@,WSH,W,7,1,None,23-27,5, 11.5,Uhle,Johnson,None,2:00,D,None,+,None
+"Friday, Jun 10",boxscore,CLE,@,WSH,L,5,6,13,23-28,6, 11.5,Marberry,Levsen,None,2:46,D,None,-,None
+"Saturday, Jun 11",boxscore,CLE,@,NYY,L,4,6,None,23-29,7, 12.5,Thomas,Buckeye,Moore,2:15,D,"27,500",--,None
+"Sunday, Jun 12",boxscore,CLE,@,NYY,W,8,7,None,24-29,7, 11.5,Hudlin,Hoyt,Uhle,2:07,D,None,+,None
+"Monday, Jun 13",boxscore,CLE,@,NYY,L,6,14,None,24-30,7, 12.5,Pennock,Shaute,None,2:10,D,"12,000",-,None
+"Thursday, Jun 16",boxscore,CLE,@,BOS,L,10,11,None,24-31,7, 13.5,Russell,Buckeye,Ruffing,2:17,D,None,--,None
+"Friday, Jun 17",boxscore,CLE,@,BOS,W,6,3,None,25-31,6, 13.0,Hudlin,Wiltse,None,2:07,D,"12,000",+,None
+"Friday, Jun 17",boxscore,CLE,@,BOS,W,4,3,None,26-31,6, 13.0,Miller,Ruffing,Shaute,2:00,D,"12,000",++,None
+"Saturday, Jun 18",boxscore,CLE,@,BOS,L,0,5,None,26-32,6, 14.0,Lundgren,Buckeye,None,1:45,D,None,-,None
+"Sunday, Jun 19",boxscore,CLE,None,CHW,W,3,2,None,27-32,6, 13.5,Shaute,Lyons,None,1:21,D,None,+,None
+"Thursday, Jun 23",boxscore,CLE,None,SLB,W,7,2,6,28-32,6, 15.5,Hudlin,Vangilder,None,1:15,D,"2,000",++,None
+"Friday, Jun 24",boxscore,CLE,None,SLB,L,1,2,10,28-33,6, 16.0,Wingard,Shaute,None,1:40,D,None,-,None
+"Sunday, Jun 26",boxscore,CLE,None,SLB,W,2,0,None,29-33,6, 15.0,Uhle,Stewart,None,1:37,D,None,+,None
+"Sunday, Jun 26",boxscore,CLE,None,SLB,L,3,7,None,29-34,6, 15.0,Gaston,Buckeye,None,1:52,D,None,-,1927-06-25 (Rain)
+"Monday, Jun 27",boxscore,CLE,@,CHW,L,2,7,None,29-35,6, 15.5,Lyons,Hudlin,None,1:45,D,None,--,None
+"Monday, Jun 27",boxscore,CLE,@,CHW,W,12,4,None,30-35,6, 15.5,Grant,Cole,None,2:10,D,None,+,1927-04-21 (Wet grounds)
+"Tuesday, Jun 28",boxscore,CLE,@,CHW,L,7,8,None,30-36,6, 16.5,Cole,Shaute,None,2:15,D,None,-,None
+"Wednesday, Jun 29",boxscore,CLE,@,CHW,L,0,5,None,30-37,6, 17.0,Blankenship,Levsen,None,1:41,D,None,--,None
+"Wednesday, Jun 29",boxscore,CLE,@,CHW,W,8,6,None,31-37,6, 17.0,Hudlin,Lyons,Karr,1:55,D,"13,000",+,1927-04-22 (Cold)
+"Thursday, Jun 30",boxscore,CLE,None,DET,L,5,6,None,31-38,6, 18.0,Holloway,Buckeye,None,1:55,D,None,-,None
+"Friday, Jul 1",boxscore,CLE,None,DET,L,5,10,None,31-39,6, 19.0,Whitehill,Grant,None,2:10,D,None,--,None
+"Saturday, Jul 2",boxscore,CLE,None,DET,L,1,6,None,31-40,6, 20.0,Gibson,Hudlin,None,1:51,D,None,---,None
+"Sunday, Jul 3",boxscore,CLE,@,DET,W,10,9,None,32-40,6, 19.0,Buckeye,Collins,Karr,2:45,D,None,+,None
+"Monday, Jul 4",boxscore,CLE,None,CHW,W,2,0,None,33-40,6, 19.0,Levsen,Thomas,None,1:41,D,None,++,None
+"Monday, Jul 4",boxscore,CLE,None,CHW,W,6,2,None,34-40,6, 19.0,Shaute,Connally,None,1:34,D,None,+++,None
+"Friday, Jul 8",boxscore,CLE,None,WSH,L,4,7,None,34-41,6, 20.5,Hadley,Uhle,Braxton,2:22,D,None,-,None
+"Friday, Jul 8",boxscore,CLE,None,WSH,L,3,4,None,34-42,6, 20.5,Thurston,Shaute,Marberry,1:46,D,None,--,1927-05-15 (Rain)
+"Saturday, Jul 9",boxscore,CLE,None,WSH,L,5,6,13,34-43,6, 21.5,Braxton,Hudlin,None,2:58,D,"10,000",---,None
+"Saturday, Jul 9",boxscore,CLE,None,WSH,L,2,3,None,34-44,6, 21.5,Johnson,Miller,None,1:50,D,"5,000",----,1927-05-16 (Rain)
+"Sunday, Jul 10",boxscore,CLE,None,WSH,L,9,10,7,34-45,6, 21.5,Braxton,Smith,None,2:11,D,None,-----,None
+"Monday, Jul 11",boxscore,CLE,None,WSH,L,2,3,10,34-46,6, 22.5,Marberry,Grant,None,1:58,D,None,------,None
+"Tuesday, Jul 12",boxscore,CLE,None,NYY,L,0,7,None,34-47,6, 23.5,Shocker,Shaute,None,2:00,D,"10,000",-------,None
+"Wednesday, Jul 13",boxscore,CLE,None,NYY,L,3,5,None,34-48,7, 24.5,Ruether,Hudlin,None,1:51,D,None,--------,None
+"Thursday, Jul 14",boxscore,CLE,None,NYY,W,4,1,None,35-48,7, 23.5,Miller,Moore,None,None,D,None,+,None
+"Friday, Jul 15",boxscore,CLE,None,NYY,L,9,10,None,35-49,7, 24.5,Thomas,Buckeye,Shawkey,2:07,D,"6,000",-,None
+"Saturday, Jul 16",boxscore,CLE,None,BOS,L,3,6,12,35-50,7, 26.0,Lundgren,Grant,None,2:30,D,None,--,None
+"Saturday, Jul 16",boxscore,CLE,None,BOS,L,4,5,None,35-51,7, 26.0,MacFayden,Miller,None,2:07,D,None,---,1927-05-11 (Rain)
+"Monday, Jul 18",boxscore,CLE,None,BOS,L,5,14,None,35-52,7, 27.0,Russell,Grant,Ruffing,2:14,D,None,----,None
+"Monday, Jul 18",boxscore,CLE,None,BOS,W,4,0,None,36-52,7, 27.0,Buckeye,Ruffing,None,1:35,D,None,+,1927-05-12 (Rain)
+"Tuesday, Jul 19",boxscore,CLE,None,BOS,W,4,2,None,37-52,7, 27.5,Miller,Wiltse,None,1:46,D,None,++,None
+"Tuesday, Jul 19",boxscore,CLE,None,BOS,L,5,6,None,37-53,7, 27.5,Harriss,Grant,None,2:02,D,None,-,1927-07-17 (Rain)
+"Thursday, Jul 21",boxscore,CLE,None,PHA,L,3,8,None,37-54,7, 28.5,Quinn,Shaute,None,1:51,D,None,--,None
+"Sunday, Jul 24",boxscore,CLE,None,PHA,W,9,6,None,38-54,7, 28.0,Buckeye,Grove,None,2:10,D,None,+,None
+"Sunday, Jul 24",boxscore,CLE,None,PHA,W,5,2,None,39-54,7, 28.0,Miller,Walberg,None,1:35,D,None,++,1927-07-22 (Rain)
+"Monday, Jul 25",boxscore,CLE,@,BOS,L,7,10,None,39-55,7, 28.5,Lundgren,Uhle,MacFayden,2:02,D,None,-,None
+"Tuesday, Jul 26",boxscore,CLE,@,BOS,W,7,2,None,40-55,6, 29.0,Shaute,Ruffing,None,1:50,D,None,+,None
+"Thursday, Jul 28",boxscore,CLE,@,BOS,L,0,3,None,40-56,6, 31.0,MacFayden,Buckeye,None,1:42,D,None,-,None
+"Thursday, Jul 28",boxscore,CLE,@,BOS,L,3,4,None,40-57,6, 31.0,Harriss,Brown,None,1:59,D,None,--,1927-07-27 (Rain)
+"Friday, Jul 29",boxscore,CLE,@,NYY,W,6,4,None,41-57,6, 30.0,Hudlin,Pipgras,None,2:24,D,"7,000",+,None
+"Saturday, Jul 30",boxscore,CLE,@,NYY,L,3,7,None,41-58,6, 32.0,Ruether,Brown,None,2:11,D,"33,000",-,None
+"Saturday, Jul 30",boxscore,CLE,@,NYY,L,0,5,None,41-59,6, 32.0,Hoyt,Shaute,None,1:50,D,"33,000",--,1927-06-14 (Rain)
+"Monday, Aug 1",boxscore,CLE,@,NYY,W,2,1,6,42-59,6, 31.0,Miller,Pennock,None,1:24,D,"15,000",+,None
+"Wednesday, Aug 3",boxscore,CLE,@,PHA,L,2,9,None,42-60,6, 32.0,Rommel,Shaute,None,1:33,D,None,-,None
+"Wednesday, Aug 3",boxscore,CLE,@,PHA,L,4,7,None,42-61,6, 32.0,Walberg,Hudlin,None,2:06,D,None,--,1927-06-04 (Rain)
+"Thursday, Aug 4",boxscore,CLE,@,PHA,W,3,0,None,43-61,6, 31.0,Buckeye,Grove,None,1:45,D,None,+,None
+"Saturday, Aug 6",boxscore,CLE,@,WSH,W,3,1,None,44-61,6, 30.5,Miller,Lisenbee,None,1:44,D,None,++,None
+"Sunday, Aug 7",boxscore,CLE,@,WSH,L,3,12,None,44-62,6, 31.5,Hadley,Hudlin,None,1:47,D,None,-,None
+"Monday, Aug 8",boxscore,CLE,@,WSH,W,6,1,None,45-62,6, 31.0,Shaute,Johnson,None,1:43,D,None,+,None
+"Tuesday, Aug 9",boxscore,CLE,@,WSH,L,2,4,None,45-63,6, 31.0,Thurston,Buckeye,None,1:42,D,None,-,None
+"Thursday, Aug 11",boxscore,CLE,None,CHW,W,2,1,10,46-63,6, 30.5,Miller,Thomas,None,1:57,D,None,+,None
+"Saturday, Aug 13",boxscore,CLE,None,CHW,W,1,0,None,47-63,6, 30.5,Hudlin,Lyons,None,1:32,D,"5,000",++,None
+"Sunday, Aug 14",boxscore,CLE,None,CHW,L,3,7,None,47-64,6, 31.5,Blankenship,Shaute,None,1:35,D,None,-,None
+"Tuesday, Aug 16",boxscore,CLE,None,PHA,L,3,6,None,47-65,6, 33.0,Ehmke,Miller,None,1:47,D,None,--,None
+"Tuesday, Aug 16",boxscore,CLE,None,PHA,L,0,8,None,47-66,6, 33.0,Quinn,Buckeye,None,1:36,D,None,---,1927-07-23 (Rain)
+"Wednesday, Aug 17",boxscore,CLE,None,PHA,L,1,4,None,47-67,6, 34.0,Grove,Hudlin,None,1:56,D,None,----,None
+"Thursday, Aug 18",boxscore,CLE,None,PHA,W,2,1,None,48-67,6, 34.0,Shaute,Gray,None,1:31,D,None,+,None
+"Friday, Aug 19",boxscore,CLE,None,PHA,L,3,5,None,48-68,6, 34.0,Walberg,Levsen,None,1:54,D,None,-,None
+"Saturday, Aug 20",boxscore,CLE,None,NYY,W,14,8,None,49-68,6, 33.0,Grant,Shawkey,None,2:05,D,"8,000",+,None
+"Sunday, Aug 21",boxscore,CLE,None,NYY,W,7,4,None,50-68,6, 32.0,Hudlin,Pipgras,None,None,D,None,++,None
+"Monday, Aug 22",boxscore,CLE,None,NYY,W,9,4,None,51-68,6, 31.0,Shaute,Moore,None,2:10,D,None,+++,None
+"Wednesday, Aug 24",boxscore,CLE,None,WSH,W,7,1,None,52-68,6, 31.0,Miller,Thurston,None,1:37,D,None,++++,None
+"Thursday, Aug 25",boxscore,CLE,None,WSH,W,7,5,None,53-68,6, 31.0,Buckeye,Zachary,None,1:46,D,None,+++++,None
+"Friday, Aug 26",boxscore,CLE,None,WSH,W,8,7,None,54-68,6, 31.0,Shaute,Braxton,Uhle,1:52,D,None,++++++,None
+"Saturday, Aug 27",boxscore,CLE,None,BOS,W,9,2,None,55-68,6, 31.0,Hudlin,Wiltse,None,1:40,D,None,+++++++,None
+"Sunday, Aug 28",boxscore,CLE,None,BOS,L,5,6,11,55-69,6, 32.0,Ruffing,Uhle,None,2:16,D,None,-,None
+"Monday, Aug 29",boxscore,CLE,None,BOS,L,2,10,None,55-70,6, 33.0,Harriss,Buckeye,None,1:45,D,None,--,None
+"Thursday, Sep 1",boxscore,CLE,@,CHW,W,8,5,None,56-70,6, 33.0,Hudlin,Thomas,None,1:55,D,None,+,None
+"Friday, Sep 2",boxscore,CLE,@,CHW,W,7,6,None,57-70,6, 33.0,Miller,Blankenship,Grant,1:56,D,None,++,None
+"Saturday, Sep 3",boxscore,CLE,@,CHW,L,1,4,None,57-71,6, 33.0,Faber,Shaute,None,1:44,D,"6,000",-,None
+"Sunday, Sep 4",boxscore,CLE,@,CHW,W,6,3,None,58-71,6, 32.5,Uhle,Connally,None,1:48,D,None,+,None
+"Monday, Sep 5",boxscore,CLE,None,SLB,W,7,6,None,59-71,6, 32.5,Grant,Wingard,None,1:56,D,None,++,None
+"Monday, Sep 5",boxscore,CLE,None,SLB,L,2,3,None,59-72,6, 32.5,Ballou,Buckeye,None,1:47,D,"12,000",-,None
+"Tuesday, Sep 6",boxscore,CLE,None,SLB,L,4,7,None,59-73,6, 33.0,Gaston,Miller,Crowder,2:00,D,None,--,None
+"Thursday, Sep 8",boxscore,CLE,@,BOS,L,8,10,None,59-74,6, 34.5,Welzer,Underhill,Wiltse,2:20,D,None,---,None
+"Friday, Sep 9",boxscore,CLE,@,BOS,L,1,6,None,59-75,6, 35.5,Harriss,Hudlin,None,1:44,D,None,----,None
+"Saturday, Sep 10",boxscore,CLE,@,BOS,W,3,1,None,60-75,6, 35.5,Uhle,Lundgren,None,1:41,D,None,+,None
+"Tuesday, Sep 13",boxscore,CLE,@,NYY,L,3,5,None,60-76,6, 37.0,Pipgras,Hudlin,None,1:52,D,None,-,None
+"Tuesday, Sep 13",boxscore,CLE,@,NYY,L,3,5,None,60-77,6, 37.0,Hoyt,Shaute,None,1:35,D,"25,000",--,1927-07-31 (Rain)
+"Wednesday, Sep 14",boxscore,CLE,@,NYY,L,1,4,None,60-78,6, 38.0,Ruether,Miller,None,1:32,D,None,---,None
+"Thursday, Sep 15",boxscore,CLE,@,NYY,W,3,2,None,61-78,6, 37.0,Uhle,Thomas,None,1:55,D,"6,000",+,None
+"Saturday, Sep 17",boxscore,CLE,@,WSH,L,0,3,None,61-79,6, 39.0,Lisenbee,Hudlin,None,1:35,D,None,-,None
+"Sunday, Sep 18",boxscore,CLE,@,WSH,W,6,4,10,62-79,6, 39.5,Grant,Braxton,None,2:00,D,None,+,None
+"Monday, Sep 19",boxscore,CLE,@,WSH,L,1,4,6,62-80,6, 40.0,Hadley,Uhle,None,1:02,D,None,-,None
+"Wednesday, Sep 21",boxscore,CLE,@,PHA,W,6,5,None,63-80,6, 39.0,Hudlin,Johnson,None,1:50,D,None,+,None
+"Thursday, Sep 22",boxscore,CLE,@,PHA,L,3,4,13,63-81,6, 40.5,Ehmke,Miller,None,2:20,D,None,-,None
+"Thursday, Sep 22",boxscore,CLE,@,PHA,L,2,5,None,63-82,6, 40.5,Rommel,McKain,None,1:35,D,None,--,1927-08-05 (Rain)
+"Saturday, Sep 24",boxscore,CLE,@,PHA,L,3,4,None,63-83,6, 41.0,Ehmke,Shaute,None,1:28,D,None,---,None
+"Saturday, Sep 24",boxscore,CLE,@,PHA,W,4,3,None,64-83,6, 41.0,Buckeye,Cantrell,None,1:32,D,None,+,1927-09-23 (Postponed by agreement)
+"Sunday, Sep 25",boxscore,CLE,None,CHW,W,10,1,None,65-83,6, 40.0,Hudlin,Blankenship,None,1:41,D,"4,000",++,None
+"Monday, Sep 26",boxscore,CLE,None,DET,L,1,2,None,65-84,6, 40.5,Billings,Miller,None,1:35,D,None,-,None
+"Friday, Sep 30",boxscore,CLE,@,SLB,W,5,4,None,66-84,6, 42.0,Hudlin,Blaeholder,None,None,D,None,+,None
+"Friday, Sep 30",boxscore,CLE,@,SLB,L,4,9,None,66-85,6, 42.0,Wright,Underhill,None,1:27,D,200,-,1927-09-28 (Rain)
+"Sunday, Oct 2",boxscore,CLE,@,DET,L,5,11,None,66-86,6, 43.5,Billings,Grant,None,1:37,D,None,--,None
+"Sunday, Oct 2",boxscore,CLE,@,DET,L,4,5,None,66-87,6, 43.5,Carroll,Buckeye,None,1:40,D,None,---,1927-10-01 (Rain)

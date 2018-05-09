@@ -1,0 +1,158 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 16",boxscore,CHC,@,CIN,W,7,4,None,2-0,1, Tied,Lundgren,Weimer,None,2:00,D,"2,000",++,None
+"Friday, Apr 17",boxscore,CHC,@,CIN,W,1,0,None,3-0,1, Tied,Fraser,Coakley,None,1:55,D,"2,500",+++,None
+"Saturday, Apr 18",boxscore,CHC,@,STL,L,2,3,None,3-1,2, 0.5,Fromme,Pfiester,None,1:44,D,"4,300",-,None
+"Sunday, Apr 19",boxscore,CHC,@,STL,W,4,3,None,4-1,1,up 0.5,Overall,McGlynn,None,1:56,D,"12,800",+,None
+"Monday, Apr 20",boxscore,CHC,@,STL,W,2,0,None,5-1,1,up 0.5,Lundgren,Raymond,None,1:35,D,"3,750",++,None
+"Wednesday, Apr 22",boxscore,CHC,None,CIN,W,7,3,None,6-1,1, Tied,Fraser,Coakley,None,1:40,D,"18,000",+++,None
+"Thursday, Apr 23",boxscore,CHC,None,CIN,W,2,1,None,7-1,1,up 1.0,Overall,Ewing,None,1:25,D,"3,500",++++,None
+"Friday, Apr 24",boxscore,CHC,None,CIN,L,2,4,None,7-2,1,up 1.0,Campbell,Lundgren,None,1:40,D,"1,700",-,None
+"Wednesday, Apr 29",boxscore,CHC,None,PIT,L,1,2,None,7-3,1,up 0.5,Camnitz,Pfiester,Leifield,1:28,D,"3,500",--,None
+"Thursday, Apr 30",boxscore,CHC,None,STL,W,3,1,None,8-3,1,up 1.0,Fraser,Raymond,None,1:35,D,"1,400",+,None
+"Saturday, May 2",boxscore,CHC,None,STL,W,3,2,None,9-3,1,up 1.5,Overall,Lush,None,1:23,D,"2,500",++,None
+"Sunday, May 3",boxscore,CHC,None,STL,W,4,2,None,10-3,1,up 2.0,Brown,Raymond,None,1:35,D,None,+++,None
+"Sunday, May 3",boxscore,CHC,None,STL,W,3,2,None,11-3,1,up 2.0,Reulbach,Beebe,None,1:23,D,"16,500",++++,1908-05-01 (Cold)
+"Wednesday, May 6",boxscore,CHC,@,PIT,L,2,5,None,11-4,1,up 1.0,Leifield,Lundgren,None,1:40,D,"5,546",-,None
+"Saturday, May 9",boxscore,CHC,@,PIT,W,1,0,None,12-4,1,up 2.0,Fraser,Camnitz,None,1:45,D,"7,845",+,None
+"Sunday, May 10",boxscore,CHC,None,PIT,W,6,2,None,13-4,1,up 2.0,Brown,Leifield,None,1:40,D,None,++,None
+"Sunday, May 10",boxscore,CHC,None,PIT,L,0,1,None,13-5,1,up 2.0,Willis,Pfiester,None,1:40,D,"26,000",-,1908-04-26 (Rain)
+"Tuesday, May 12",boxscore,CHC,None,PHI,L,2,6,None,13-6,1,up 1.5,McQuillan,Overall,None,1:55,D,"9,000",--,None
+"Friday, May 15",boxscore,CHC,None,BRO,L,3,5,None,13-7,1,up 1.0,McIntire,Fraser,None,1:50,D,"3,500",---,None
+"Saturday, May 16",boxscore,CHC,None,BRO,W,4,3,None,14-7,1,up 1.5,Reulbach,Wilhelm,None,1:42,D,"8,000",+,None
+"Sunday, May 17",boxscore,CHC,None,BRO,W,5,0,None,15-7,1,up 2.0,Brown,Rucker,None,1:34,D,"11,200",++,None
+"Wednesday, May 20",boxscore,CHC,None,BSN,W,5,3,None,16-7,1,up 3.0,Fraser,Dorner,None,1:50,D,"6,200",+++,None
+"Thursday, May 21",boxscore,CHC,None,BSN,L,3,11,None,16-8,1,up 2.5,Flaherty,Overall,None,1:55,D,"9,500",-,None
+"Friday, May 22",boxscore,CHC,None,BSN,W,7,1,None,17-8,1,up 3.5,Brown,Young,None,1:30,D,"2,500",+,None
+"Saturday, May 23",boxscore,CHC,None,BSN,W,6,4,None,18-8,1,up 4.0,Lundgren,Lindaman,None,1:54,D,"5,800",++,None
+"Sunday, May 24",boxscore,CHC,None,NYG,L,4,6,None,18-9,1,up 3.5,Taylor,Fraser,McGinnity,2:24,D,"17,000",-,None
+"Monday, May 25",boxscore,CHC,None,NYG,W,8,7,10,19-9,1,up 3.5,Brown,Wiltse,None,2:13,D,"5,000",+,None
+"Tuesday, May 26",boxscore,CHC,None,NYG,L,4,7,None,19-10,1,up 3.0,Crandall,Reulbach,None,2:15,D,"7,000",-,None
+"Wednesday, May 27",boxscore,CHC,None,NYG,L,0,1,None,19-11,1,up 2.5,Wiltse,Pfiester,None,1:50,D,None,--,None
+"Thursday, May 28",boxscore,CHC,@,STL,W,8,2,None,20-11,1,up 3.0,Fraser,Sallee,None,1:56,D,"6,200",+,None
+"Friday, May 29",boxscore,CHC,@,STL,L,3,4,11,20-12,1,up 2.0,Raymond,Brown,None,2:09,D,"4,500",-,None
+"Saturday, May 30",boxscore,CHC,@,STL,W,10,2,None,21-12,1,up 3.5,Brown,Fromme,None,1:50,D,"3,400",+,None
+"Saturday, May 30",boxscore,CHC,@,STL,W,11,2,None,22-12,1,up 3.5,Lundgren,Beebe,None,2:03,D,"9,800",++,None
+"Sunday, May 31",boxscore,CHC,None,PIT,W,6,3,None,23-12,1,up 3.5,Pfiester,Willis,None,1:55,D,None,+++,None
+"Sunday, May 31",boxscore,CHC,None,PIT,L,3,13,None,23-13,1,up 3.5,Camnitz,Fraser,None,2:12,D,None,-,1908-04-27 (Rain)
+"Monday, Jun 1",boxscore,CHC,None,PIT,L,6,8,None,23-14,1,up 2.5,Maddox,Fraser,None,2:10,D,None,--,None
+"Tuesday, Jun 2",boxscore,CHC,None,PIT,L,6,12,None,23-15,1,up 2.0,Willis,Lundgren,Leever,1:44,D,None,---,None
+"Thursday, Jun 4",boxscore,CHC,@,BSN,T,1,1,17,23-15,1,up 2.0,None,None,None,3:29,D,"4,517",---,None
+"Friday, Jun 5",boxscore,CHC,@,BSN,W,4,2,None,24-15,1,up 2.0,Brown,Ferguson,None,2:01,D,"6,482",+,None
+"Saturday, Jun 6",boxscore,CHC,@,BSN,W,14,0,None,25-15,1,up 2.0,Fraser,Dorner,Reulbach,2:05,D,"10,081",++,None
+"Monday, Jun 8",boxscore,CHC,@,BSN,W,5,2,None,26-15,1,up 2.0,Brown,Flaherty,None,1:29,D,"3,261",+++,None
+"Tuesday, Jun 9",boxscore,CHC,@,BRO,W,4,3,None,27-15,1,up 2.0,Pfiester,McIntire,None,1:50,D,"1,500",++++,None
+"Wednesday, Jun 10",boxscore,CHC,@,BRO,L,0,2,None,27-16,1,up 1.0,Rucker,Fraser,None,1:36,D,"1,000",-,None
+"Thursday, Jun 11",boxscore,CHC,@,BRO,W,2,1,11,28-16,1,up 2.0,Lundgren,Wilhelm,None,2:10,D,"1,500",+,None
+"Friday, Jun 12",boxscore,CHC,@,BRO,W,7,1,None,29-16,1,up 3.0,Reulbach,Pastorius,None,1:41,D,"2,000",++,None
+"Saturday, Jun 13",boxscore,CHC,@,PHI,W,1,0,None,30-16,1,up 4.0,Brown,McQuillan,None,None,D,None,+++,None
+"Tuesday, Jun 16",boxscore,CHC,@,PHI,L,1,2,None,30-17,1,up 2.5,Sparks,Pfiester,None,None,D,None,-,None
+"Wednesday, Jun 17",boxscore,CHC,@,PHI,W,3,2,None,31-17,1,up 2.0,Fraser,Corridon,None,None,D,None,+,None
+"Thursday, Jun 18",boxscore,CHC,@,NYG,W,7,5,None,32-17,1,up 2.0,Lundgren,Wiltse,None,None,D,None,++,None
+"Friday, Jun 19",boxscore,CHC,@,NYG,L,3,6,None,32-18,1,up 2.0,Crandall,Pfiester,None,1:40,D,"12,000",-,None
+"Saturday, Jun 20",boxscore,CHC,@,NYG,L,0,4,None,32-19,1,up 1.5,Mathewson,Fraser,None,1:50,D,"27,000",--,None
+"Monday, Jun 22",boxscore,CHC,@,NYG,L,1,7,None,32-20,1,up 1.0,Wiltse,Lundgren,None,1:45,D,"10,000",---,None
+"Wednesday, Jun 24",boxscore,CHC,None,STL,W,2,1,10,33-20,1,up 1.0,Reulbach,Fromme,None,None,D,None,+,None
+"Thursday, Jun 25",boxscore,CHC,None,CIN,W,7,0,None,34-20,1,up 1.0,Brown,Dubuc,None,None,D,None,++,None
+"Friday, Jun 26",boxscore,CHC,None,CIN,W,8,5,None,35-20,1,up 1.0,Fraser,Spade,None,None,D,None,+++,None
+"Saturday, Jun 27",boxscore,CHC,None,CIN,L,1,4,None,35-21,1, Tied,Coakley,Lundgren,None,None,D,None,-,None
+"Sunday, Jun 28",boxscore,CHC,None,CIN,W,3,1,None,36-21,1, Tied,Reulbach,Campbell,None,None,D,None,+,None
+"Sunday, Jun 28",boxscore,CHC,None,CIN,W,2,0,None,37-21,1, Tied,Pfiester,Weimer,None,None,D,None,++,1908-04-25 (Rain)
+"Monday, Jun 29",boxscore,CHC,@,CIN,L,3,5,None,37-22,2, 0.5,Doscher,Overall,None,None,D,None,-,None
+"Tuesday, Jun 30",boxscore,CHC,@,CIN,L,2,4,None,37-23,2, 1.0,Spade,Fraser,None,None,D,None,--,None
+"Wednesday, Jul 1",boxscore,CHC,@,CIN,W,5,1,None,38-23,2, 0.5,Reulbach,Coakley,None,None,D,None,+,None
+"Thursday, Jul 2",boxscore,CHC,@,PIT,W,3,0,None,39-23,2, 0.5,Brown,Young,None,None,D,None,++,None
+"Thursday, Jul 2",boxscore,CHC,@,PIT,L,4,9,None,39-24,2, 0.5,Maddox,Pfiester,Camnitz,None,D,None,-,1908-05-08 (Rain)
+"Friday, Jul 3",boxscore,CHC,@,PIT,L,0,7,None,39-25,2, 1.5,Willis,Overall,None,None,D,None,--,None
+"Saturday, Jul 4",boxscore,CHC,@,PIT,W,2,0,None,40-25,1,up 0.5,Brown,Leever,None,None,D,None,+,None
+"Saturday, Jul 4",boxscore,CHC,@,PIT,W,9,3,None,41-25,1,up 0.5,Reulbach,Camnitz,None,None,D,None,++,None
+"Sunday, Jul 5",boxscore,CHC,None,PIT,L,5,10,None,41-26,2, 0.5,Young,Pfiester,None,None,D,None,-,None
+"Monday, Jul 6",boxscore,CHC,None,BRO,L,4,5,None,41-27,2, 1.5,McIntire,Fraser,Bell,1:57,D,None,--,None
+"Wednesday, Jul 8",boxscore,CHC,None,BRO,W,6,3,None,42-27,1, Tied,Reulbach,Bell,Brown,1:40,D,"5,000",+,None
+"Thursday, Jul 9",boxscore,CHC,None,BRO,W,4,3,10,43-27,1,up 1.0,Brown,Rucker,None,2:00,D,"5,000",++,None
+"Friday, Jul 10",boxscore,CHC,None,PHI,W,3,2,11,44-27,1,up 1.0,Brown,Foxen,None,None,D,None,+++,None
+"Saturday, Jul 11",boxscore,CHC,None,PHI,L,2,6,None,44-28,1, Tied,McQuillan,Reulbach,None,None,D,None,-,None
+"Sunday, Jul 12",boxscore,CHC,None,PHI,W,3,0,None,45-28,1, Tied,Reulbach,Richie,None,None,D,None,+,None
+"Sunday, Jul 12",boxscore,CHC,None,PHI,L,0,2,None,45-29,1, Tied,Corridon,Pfiester,None,None,D,None,-,1908-05-14 (Rain)
+"Monday, Jul 13",boxscore,CHC,None,PHI,L,5,6,None,45-30,1,up 0.5,Sparks,Lundgren,None,None,D,None,--,None
+"Tuesday, Jul 14",boxscore,CHC,None,PHI,L,2,11,None,45-31,1, Tied,Foxen,Overall,None,None,D,None,---,1908-05-11 (Rain)
+"Wednesday, Jul 15",boxscore,CHC,None,NYG,L,0,11,None,45-32,3, 1.0,Wiltse,Brown,None,2:00,D,None,----,None
+"Thursday, Jul 16",boxscore,CHC,None,NYG,L,3,4,None,45-33,3, 2.0,Crandall,Reulbach,Mathewson,None,D,None,-----,None
+"Friday, Jul 17",boxscore,CHC,None,NYG,W,1,0,None,46-33,3, 1.0,Brown,Mathewson,None,1:26,D,"11,000",+,None
+"Saturday, Jul 18",boxscore,CHC,None,NYG,W,5,4,None,47-33,2, 1.0,Pfiester,Wiltse,Overall,2:10,D,None,++,None
+"Sunday, Jul 19",boxscore,CHC,None,BSN,L,2,3,None,47-34,3, 1.5,Flaherty,Overall,None,None,D,None,-,None
+"Monday, Jul 20",boxscore,CHC,None,BSN,W,5,2,None,48-34,2, 1.5,Reulbach,McCarthy,None,None,D,None,+,None
+"Tuesday, Jul 21",boxscore,CHC,None,BSN,L,0,5,None,48-35,3, 2.5,Lindaman,Brown,None,None,D,None,-,None
+"Wednesday, Jul 22",boxscore,CHC,None,BSN,T,2,2,11,48-35,3, 3.0,None,None,None,None,D,None,-,None
+"Friday, Jul 24",boxscore,CHC,@,BRO,W,2,1,11,49-35,3, 1.5,Reulbach,Wilhelm,None,2:05,D,"2,000",+,None
+"Monday, Jul 27",boxscore,CHC,@,BRO,W,3,1,None,50-35,2, 2.5,Reulbach,Pastorius,None,1:41,D,"4,000",++,None
+"Monday, Jul 27",boxscore,CHC,@,BRO,L,5,6,None,50-36,2, 2.5,Rucker,Lundgren,None,1:48,D,None,-,1908-07-25 (Rain)
+"Tuesday, Jul 28",boxscore,CHC,@,BRO,W,4,2,None,51-36,2, 2.0,Overall,McIntire,None,1:35,D,"6,000",+,None
+"Wednesday, Jul 29",boxscore,CHC,@,BSN,W,6,0,None,52-36,2, 2.0,Brown,Flaherty,None,1:37,D,"3,539",++,None
+"Thursday, Jul 30",boxscore,CHC,@,BSN,W,13,4,None,53-36,2, 0.5,Reulbach,Dorner,Fraser,2:12,D,"5,592",+++,None
+"Thursday, Jul 30",boxscore,CHC,@,BSN,W,6,3,None,54-36,2, 0.5,Pfiester,McCarthy,Overall,2:06,D,"5,592",++++,None
+"Friday, Jul 31",boxscore,CHC,@,BSN,W,3,1,None,55-36,2, 0.5,Overall,Lindaman,None,1:37,D,"1,856",+++++,None
+"Saturday, Aug 1",boxscore,CHC,@,BSN,L,0,14,None,55-37,2, 1.5,Ferguson,Lundgren,None,1:47,D,"4,286",-,None
+"Monday, Aug 3",boxscore,CHC,@,PHI,W,5,1,None,56-37,2, 1.5,Brown,McQuillan,None,None,D,None,+,None
+"Tuesday, Aug 4",boxscore,CHC,@,PHI,L,2,4,None,56-38,3, 1.5,Corridon,Reulbach,None,None,D,None,-,None
+"Thursday, Aug 6",boxscore,CHC,@,PHI,L,5,7,None,56-39,3, 3.0,Sparks,Overall,None,None,D,None,--,None
+"Thursday, Aug 6",boxscore,CHC,@,PHI,L,3,5,None,56-40,3, 3.0,Foxen,Reulbach,None,None,D,None,---,1908-06-15 (Rain)
+"Saturday, Aug 8",boxscore,CHC,@,NYG,L,1,4,None,56-41,3, 4.0,Wiltse,Brown,None,1:35,D,"27,000",----,None
+"Monday, Aug 10",boxscore,CHC,@,NYG,L,2,3,None,56-42,3, 4.0,Mathewson,Overall,None,1:25,D,"20,000",-----,None
+"Tuesday, Aug 11",boxscore,CHC,@,NYG,W,4,0,6,57-42,3, 4.0,Pfiester,Wiltse,None,1:05,D,"25,000",+,None
+"Wednesday, Aug 12",boxscore,CHC,@,PIT,W,3,0,None,58-42,3, 3.0,Brown,Willis,None,2:13,D,"10,000",++,1908-05-05 (Rain)
+"Thursday, Aug 13",boxscore,CHC,@,PIT,L,0,1,None,58-43,3, 4.0,Leifield,Reulbach,None,1:23,D,"4,000",-,1908-05-07 (Rain)
+"Saturday, Aug 15",boxscore,CHC,None,PHI,L,1,3,None,58-44,3, 5.5,Sparks,Brown,None,None,D,None,--,None
+"Sunday, Aug 16",boxscore,CHC,None,PHI,L,0,1,None,58-45,3, 6.0,McQuillan,Pfiester,None,None,D,None,---,None
+"Monday, Aug 17",boxscore,CHC,None,PHI,W,5,1,None,59-45,3, 5.5,Reulbach,Foxen,None,None,D,None,+,None
+"Tuesday, Aug 18",boxscore,CHC,None,PHI,L,3,8,None,59-46,3, 5.5,Sparks,Lundgren,None,None,D,None,-,1908-05-13 (Rain)
+"Wednesday, Aug 19",boxscore,CHC,None,BSN,W,5,1,None,60-46,3, 4.5,Brown,Flaherty,None,None,D,None,+,None
+"Thursday, Aug 20",boxscore,CHC,None,BSN,W,10,2,None,61-46,3, 3.5,Pfiester,Ferguson,None,None,D,None,++,None
+"Friday, Aug 21",boxscore,CHC,None,BSN,W,5,3,None,62-46,3, 3.5,Overall,Lindaman,None,None,D,None,+++,None
+"Saturday, Aug 22",boxscore,CHC,None,BSN,L,1,3,15,62-47,3, 4.5,Tuckey,Brown,None,None,D,None,-,None
+"Sunday, Aug 23",boxscore,CHC,None,BRO,W,2,0,None,63-47,3, 3.5,Overall,McIntire,None,None,D,None,+,None
+"Sunday, Aug 23",boxscore,CHC,None,BRO,W,2,0,None,64-47,3, 3.5,Reulbach,Rucker,None,None,D,None,++,1908-07-07 (Rain)
+"Monday, Aug 24",boxscore,CHC,None,BRO,W,4,2,None,65-47,3, 3.5,Fraser,Wilhelm,Overall,1:50,D,"7,000",+++,None
+"Tuesday, Aug 25",boxscore,CHC,None,BRO,W,10,2,None,66-47,3, 3.5,Reulbach,Bell,None,1:41,D,"7,500",++++,None
+"Wednesday, Aug 26",boxscore,CHC,None,BRO,W,6,4,None,67-47,2, 3.5,Overall,Pastorius,Brown,1:32,D,"7,500",+++++,1908-05-18 (Rain)
+"Thursday, Aug 27",boxscore,CHC,None,NYG,W,5,1,None,68-47,2, 2.5,Pfiester,Wiltse,None,2:00,D,"24,000",++++++,None
+"Saturday, Aug 29",boxscore,CHC,None,NYG,W,3,2,None,69-47,2, 1.5,Brown,Mathewson,None,1:35,D,"25,000",+++++++,None
+"Sunday, Aug 30",boxscore,CHC,None,NYG,W,2,1,None,70-47,2, 0.5,Pfiester,Crandall,None,None,D,None,++++++++,None
+"Monday, Aug 31",boxscore,CHC,None,STL,W,2,0,None,71-47,1, Tied,Overall,Raymond,None,None,D,None,+++++++++,None
+"Tuesday, Sep 1",boxscore,CHC,None,STL,L,4,5,10,71-48,3, 1.5,Lush,Reulbach,None,1:56,D,"5,000",-,None
+"Wednesday, Sep 2",boxscore,CHC,None,STL,W,8,0,None,72-48,3, 1.0,Fraser,Karger,None,1:50,D,"3,000",+,None
+"Thursday, Sep 3",boxscore,CHC,None,STL,W,5,0,None,73-48,3, 1.0,Overall,Lush,None,2:03,D,"4,000",++,None
+"Thursday, Sep 3",boxscore,CHC,None,STL,W,8,2,None,74-48,3, 1.0,Pfiester,Raymond,None,1:57,D,"4,000",+++,1908-05-04 (Rain)
+"Friday, Sep 4",boxscore,CHC,@,PIT,L,0,1,10,74-49,3, 2.0,Willis,Brown,None,1:48,D,"10,000",-,None
+"Saturday, Sep 5",boxscore,CHC,@,PIT,W,11,0,None,75-49,3, 2.0,Reulbach,Vail,None,1:42,D,"15,000",+,None
+"Sunday, Sep 6",boxscore,CHC,None,PIT,L,0,3,None,75-50,3, 2.0,Maddox,Overall,None,None,D,None,-,None
+"Sunday, Sep 6",boxscore,CHC,None,PIT,W,8,7,None,76-50,3, 2.0,Brown,Leifield,None,None,D,None,+,1908-04-28 (Cold)
+"Monday, Sep 7",boxscore,CHC,None,CIN,L,0,6,None,76-51,3, 2.0,Dubuc,Fraser,None,None,D,None,-,None
+"Monday, Sep 7",boxscore,CHC,None,CIN,W,4,0,None,77-51,3, 2.0,Coakley,Spade,None,1:54,D,"10,000",+,None
+"Tuesday, Sep 8",boxscore,CHC,None,CIN,W,3,2,None,78-51,3, 2.0,Reulbach,Rowan,None,None,D,None,++,None
+"Wednesday, Sep 9",boxscore,CHC,None,STL,W,5,3,None,79-51,3, 2.0,Overall,Higginbotham,None,None,D,None,+++,None
+"Thursday, Sep 10",boxscore,CHC,@,STL,W,7,2,None,80-51,3, 2.0,Brown,Baldwin,None,None,D,None,++++,None
+"Friday, Sep 11",boxscore,CHC,@,STL,W,8,3,None,81-51,3, 2.0,Pfiester,Fromme,None,None,D,None,+++++,None
+"Saturday, Sep 12",boxscore,CHC,@,STL,W,7,3,12,82-51,3, 2.0,Reulbach,Lush,None,None,D,None,++++++,None
+"Sunday, Sep 13",boxscore,CHC,@,STL,W,3,0,None,83-51,2, 1.5,Overall,Raymond,None,None,D,None,+++++++,None
+"Tuesday, Sep 15",boxscore,CHC,@,BSN,L,2,3,None,83-52,3, 3.0,Lindaman,Brown,None,1:23,D,"1,035",-,None
+"Wednesday, Sep 16",boxscore,CHC,@,BSN,W,5,0,None,84-52,2, 3.0,Pfiester,Mattern,None,1:45,D,"1,907",+,None
+"Thursday, Sep 17",boxscore,CHC,@,BSN,W,4,1,None,85-52,2, 3.0,Reulbach,Ferguson,None,1:41,D,"1,700",++,None
+"Friday, Sep 18",boxscore,CHC,@,PHI,L,1,2,10,85-53,2, 4.5,McQuillan,Overall,None,2:00,D,"3,000",-,None
+"Saturday, Sep 19",boxscore,CHC,@,PHI,W,4,2,None,86-53,2, 3.5,Brown,Corridon,None,None,D,None,+,None
+"Saturday, Sep 19",boxscore,CHC,@,PHI,T,0,0,10,86-53,2, 3.5,None,None,None,1:35,D,"11,227",+,1908-08-05 (Rain)
+"Monday, Sep 21",boxscore,CHC,@,PHI,W,3,1,10,87-53,2, 2.0,Overall,Sparks,None,1:50,D,"2,000",++,None
+"Monday, Sep 21",boxscore,CHC,@,PHI,W,3,2,None,88-53,2, 2.0,Coakley,McQuillan,None,1:23,D,"5,110",+++,None
+"Tuesday, Sep 22",boxscore,CHC,@,NYG,W,4,3,None,89-53,1, Tied,Brown,Ames,None,1:55,D,"35,000",++++,None
+"Tuesday, Sep 22",boxscore,CHC,@,NYG,W,3,1,None,90-53,1, Tied,Brown,Crandall,None,1:35,D,"35,000",+++++,1908-08-07 (Rain)
+"Wednesday, Sep 23",boxscore,CHC,@,NYG,T,1,1,None,90-53,1, Tied,None,None,None,1:30,D,"20,000",+++++,None
+"Thursday, Sep 24",boxscore,CHC,@,NYG,L,4,5,None,90-54,2, 1.0,Mathewson,Brown,None,2:00,D,"25,000",-,None
+"Friday, Sep 25",boxscore,CHC,@,BRO,W,5,1,None,91-54,1,up 0.5,Overall,Rucker,None,1:58,D,"2,500",+,None
+"Saturday, Sep 26",boxscore,CHC,@,BRO,W,5,0,None,92-54,1,up 0.5,Reulbach,Wilhelm,None,None,D,None,++,None
+"Saturday, Sep 26",boxscore,CHC,@,BRO,W,3,0,None,93-54,1,up 0.5,Reulbach,Pastorius,None,1:12,D,None,+++,None
+"Tuesday, Sep 29",boxscore,CHC,@,CIN,W,6,2,None,94-54,1,up 0.5,Brown,Ewing,None,1:44,D,"1,000",++++,None
+"Wednesday, Sep 30",boxscore,CHC,@,CIN,L,5,6,None,94-55,3, 0.5,Dubuc,Overall,None,1:47,D,800,-,None
+"Thursday, Oct 1",boxscore,CHC,@,CIN,W,6,0,None,95-55,1, Tied,Reulbach,Spade,None,1:25,D,"1,000",+,None
+"Friday, Oct 2",boxscore,CHC,@,CIN,W,5,0,None,96-55,2, 0.5,Brown,Rowan,None,1:35,D,400,++,1908-04-15 (Rain)
+"Saturday, Oct 3",boxscore,CHC,@,CIN,W,16,2,None,97-55,2, 0.5,Reulbach,Dubuc,Fraser,1:55,D,"4,000",+++,None
+"Sunday, Oct 4",boxscore,CHC,None,PIT,W,5,2,None,98-55,1,up 0.5,Brown,Willis,None,1:47,D,"30,247",++++,None
+"Thursday, Oct 8",boxscore,CHC,@,NYG,W,4,2,None,99-55,1,up 1.0,Brown,Mathewson,None,1:40,D,"40,000",+++++,None

@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 18",boxscore,BOS,@,WSH,W,7,0,None,2-0,1,up 0.5,Bagby,Hudson,None,1:56,D,"5,000",++,None
+"Friday, Apr 19",boxscore,BOS,None,PHA,W,7,6,None,3-0,1, Tied,Heving,Caster,None,None,D,None,+++,None
+"Friday, Apr 19",boxscore,BOS,None,PHA,L,1,3,None,3-1,1, Tied,Babich,Dickman,None,2:06,D,"26,500",-,None
+"Tuesday, Apr 23",boxscore,BOS,None,WSH,W,7,2,None,4-1,1,up 0.5,Harris,Leonard,None,None,D,None,+,None
+"Wednesday, Apr 24",boxscore,BOS,None,WSH,L,6,9,None,4-2,2, 0.5,Masterson,Hash,None,2:28,D,"2,700",-,None
+"Friday, Apr 26",boxscore,BOS,None,NYY,W,8,1,None,5-2,1, Tied,Dickman,Pearson,None,1:58,D,"23,200",+,None
+"Saturday, Apr 27",boxscore,BOS,@,PHA,L,3,8,None,5-3,2, 1.0,Babich,Bagby,Heusser,2:05,D,"8,400",-,None
+"Sunday, Apr 28",boxscore,BOS,@,PHA,W,5,4,12,6-3,2, 1.0,Hash,Heusser,None,2:55,D,"24,006",+,None
+"Monday, Apr 29",boxscore,BOS,@,PHA,W,11,3,None,7-3,1, Tied,Harris,Caster,None,None,D,None,++,None
+"Tuesday, Apr 30",boxscore,BOS,None,CHW,L,4,9,None,7-4,2, 1.0,Rigney,Dickman,None,None,D,None,-,None
+"Wednesday, May 1",boxscore,BOS,None,CHW,W,12,4,None,8-4,1, Tied,Hash,Eaves,None,2:14,D,"6,800",+,None
+"Friday, May 3",boxscore,BOS,None,SLB,W,9,8,10,9-4,1,up 0.5,Heving,Whitehead,None,2:37,D,"3,900",++,None
+"Saturday, May 4",boxscore,BOS,None,SLB,W,4,1,None,10-4,1,up 0.5,Galehouse,Harris,None,2:11,D,"5,300",+++,None
+"Sunday, May 5",boxscore,BOS,None,CLE,L,1,6,None,10-5,2, 0.5,Feller,Harris,None,2:16,None,"32,500",-,None
+"Monday, May 6",boxscore,BOS,None,CLE,W,8,5,None,11-5,1,up 0.5,Dickman,Hudlin,Wilson,1:58,None,"7,000",+,None
+"Tuesday, May 7",boxscore,BOS,None,CLE,W,6,4,None,12-5,1,up 1.0,Grove,Naymick,Hash,2:11,None,"8,500",++,None
+"Wednesday, May 8",boxscore,BOS,None,DET,W,5,4,None,13-5,1,up 1.5,Bagby,Pippen,Wilson,2:15,D,"3,800",+++,None
+"Thursday, May 9",boxscore,BOS,None,DET,W-wo,6,5,10,14-5,1,up 1.5,Hash,Benton,None,2:32,D,"7,700",++++,None
+"Friday, May 10",boxscore,BOS,@,NYY,W,3,2,10,15-5,1,up 1.5,Wilson,Chandler,None,2:35,D,"17,185",+++++,None
+"Saturday, May 11",boxscore,BOS,@,NYY,W,9,8,11,16-5,1,up 1.5,Heving,Murphy,Bagby,3:03,D,"25,426",++++++,None
+"Sunday, May 12",boxscore,BOS,@,NYY,L,0,4,None,16-6,1,up 1.5,Ruffing,Ostermueller,None,2:15,D,"41,376",-,None
+"Tuesday, May 14",boxscore,BOS,@,CHW,W,7,6,10,17-6,1,up 2.5,Dickman,Rigney,None,None,D,None,+,None
+"Thursday, May 16",boxscore,BOS,@,SLB,W,7,5,None,18-6,1,up 3.0,Galehouse,Kennedy,Hash,2:15,D,"2,235",++,None
+"Monday, May 20",boxscore,BOS,@,DET,L,7,10,None,18-7,1,up 1.5,Rowe,Hash,None,2:16,D,"7,931",-,None
+"Tuesday, May 21",boxscore,BOS,@,DET,W,11,8,None,19-7,1,up 2.5,Dickman,Trout,None,2:32,D,"6,908",+,None
+"Wednesday, May 22",boxscore,BOS,@,CLE,L,6,9,None,19-8,1,up 1.5,Harder,Bagby,Dobson,2:22,None,"5,000",-,None
+"Sunday, May 26",boxscore,BOS,None,NYY,L,2,7,None,19-9,1,up 0.5,Pearson,Hash,Murphy,2:10,D,"14,800",--,None
+"Tuesday, May 28",boxscore,BOS,@,PHA,W,4,1,None,20-9,1,up 2.0,Galehouse,Babich,None,2:10,N,"27,151",+,None
+"Wednesday, May 29",boxscore,BOS,@,PHA,W,8,3,None,21-9,1,up 2.0,Butland,Potter,None,2:10,D,"4,000",++,None
+"Thursday, May 30",boxscore,BOS,@,NYY,L,0,4,None,21-10,1,up 1.0,Ruffing,Grove,None,1:44,D,None,-,None
+"Thursday, May 30",boxscore,BOS,@,NYY,W,11,4,None,22-10,1,up 1.0,Hash,Sundra,None,2:10,D,"82,437",+,None
+"Saturday, Jun 1",boxscore,BOS,None,CHW,W,2,1,None,23-10,1,up 2.0,Harris,Knott,None,1:56,D,"9,500",++,None
+"Sunday, Jun 2",boxscore,BOS,None,CHW,L,0,6,None,23-11,1,up 2.0,Lyons,Butland,None,1:59,D,None,-,None
+"Sunday, Jun 2",boxscore,BOS,None,CHW,W,10,8,None,24-11,1,up 2.0,Bagby,Smith,None,2:25,D,"33,500",+,1940-05-02 (Rain)
+"Monday, Jun 3",boxscore,BOS,None,CHW,L,4,7,None,24-12,1,up 1.0,Dietrich,Ostermueller,Brown,2:11,D,"4,000",-,None
+"Tuesday, Jun 4",boxscore,BOS,None,SLB,L,3,5,None,24-13,1,up 0.5,Auker,Dickman,None,3:00,D,"3,100",--,None
+"Wednesday, Jun 5",boxscore,BOS,None,SLB,L,3,4,14,24-14,1,up 0.5,Harris,Bagby,None,3:20,D,"3,200",---,None
+"Thursday, Jun 6",boxscore,BOS,None,SLB,W,3,1,None,25-14,1,up 0.5,Grove,Bildilli,None,1:42,D,"3,100",+,None
+"Friday, Jun 7",boxscore,BOS,None,DET,L,1,7,None,25-15,1,up 0.5,Newhouser,Butland,None,2:14,D,"1,170",-,None
+"Saturday, Jun 8",boxscore,BOS,None,DET,L,2,4,None,25-16,2, 0.5,Gorsica,Galehouse,None,2:04,D,"10,900",--,None
+"Tuesday, Jun 11",boxscore,BOS,None,CLE,W,9,2,None,26-16,1,up 1.0,Wilson,Feller,None,2:20,None,None,+,None
+"Wednesday, Jun 12",boxscore,BOS,None,CLE,W,9,5,None,27-16,1,up 2.0,Bagby,Milnar,None,None,None,None,++,None
+"Friday, Jun 14",boxscore,BOS,@,CHW,W,5,1,None,28-16,1,up 1.5,Galehouse,Rigney,None,2:02,N,"40,104",+++,None
+"Saturday, Jun 15",boxscore,BOS,@,CHW,W,5,2,None,29-16,1,up 2.0,Hash,Dietrich,None,1:44,D,"4,835",++++,None
+"Sunday, Jun 16",boxscore,BOS,@,CHW,W,4,3,12,30-16,1,up 2.5,Bagby,Lyons,None,2:17,D,None,+++++,None
+"Sunday, Jun 16",boxscore,BOS,@,CHW,W,14,5,None,31-16,1,up 2.5,Wilson,Knott,None,None,D,None,++++++,1940-05-15 (Rain)
+"Tuesday, Jun 18",boxscore,BOS,@,SLB,L,7,11,10,31-17,1,up 1.5,Trotter,Bagby,None,2:32,D,"1,547",-,None
+"Wednesday, Jun 19",boxscore,BOS,@,SLB,L,4,6,None,31-18,1,up 0.5,Lawson,Hash,None,1:50,D,"1,768",--,None
+"Thursday, Jun 20",boxscore,BOS,@,SLB,L,1,2,None,31-19,2, 1.0,Niggeling,Galehouse,None,1:36,D,"4,058",---,None
+"Thursday, Jun 20",boxscore,BOS,@,SLB,L,4,11,None,31-20,2, 1.0,Kramer,Harris,None,2:36,D,"4,958",----,1940-05-17 (Rain)
+"Friday, Jun 21",boxscore,BOS,@,CLE,L,4,7,None,31-21,2, 2.0,Milnar,Wilson,None,1:55,None,"12,000",-----,None
+"Saturday, Jun 22",boxscore,BOS,@,CLE,L,5,7,None,31-22,3, 3.0,Harder,Bagby,Dobson,2:22,None,"8,000",------,None
+"Sunday, Jun 23",boxscore,BOS,@,CLE,L,1,4,None,31-23,3, 3.0,Smith,Grove,None,1:58,None,None,-------,None
+"Sunday, Jun 23",boxscore,BOS,@,CLE,W,2,0,None,32-23,3, 3.0,Hash,Dobson,None,1:50,None,"56,659",+,1940-05-23 (Rain)
+"Tuesday, Jun 25",boxscore,BOS,@,DET,W,11,7,None,33-23,3, 4.0,Wilson,Rowe,None,2:09,D,None,++,None
+"Tuesday, Jun 25",boxscore,BOS,@,DET,L,1,5,None,33-24,3, 4.0,Newhouser,Galehouse,None,1:58,D,"26,169",-,1940-05-19 (Rain)
+"Wednesday, Jun 26",boxscore,BOS,@,DET,W,3,1,None,34-24,3, 3.0,Hash,Gorsica,None,1:58,D,"8,329",+,None
+"Friday, Jun 28",boxscore,BOS,None,WSH,L,3,4,10,34-25,3, 3.5,Leonard,Heving,None,2:24,D,"6,100",-,None
+"Saturday, Jun 29",boxscore,BOS,None,WSH,L,7,9,None,34-26,3, 4.5,Hudson,Ostermueller,Krakauskas,2:20,D,"5,800",--,None
+"Sunday, Jun 30",boxscore,BOS,None,WSH,W,6,5,None,35-26,3, 3.5,Grove,Hudlin,Heving,None,D,None,+,None
+"Sunday, Jun 30",boxscore,BOS,None,WSH,W,5,4,None,36-26,3, 3.5,Wagner,Masterson,Heving,2:07,D,"23,000",++,1940-04-22 (Snow)
+"Monday, Jul 1",boxscore,BOS,None,PHA,L,1,9,None,36-27,3, 3.5,Potter,Bagby,None,2:00,D,"2,200",-,None
+"Tuesday, Jul 2",boxscore,BOS,None,PHA,L,3,4,None,36-28,3, 3.0,Heusser,Galehouse,Dean,2:10,D,"9,200",--,None
+"Tuesday, Jul 2",boxscore,BOS,None,PHA,W,15,9,None,37-28,3, 3.0,Harris,Caster,Hash,2:11,D,"9,200",+,1940-04-20 (Rain)
+"Wednesday, Jul 3",boxscore,BOS,None,PHA,W-wo,12,11,None,38-28,3, 3.0,Heving,Potter,None,2:20,D,"2,400",++,None
+"Thursday, Jul 4",boxscore,BOS,None,NYY,L,4,12,None,38-29,3, 4.0,Chandler,Hash,None,2:20,D,None,-,None
+"Thursday, Jul 4",boxscore,BOS,None,NYY,L,3,7,None,38-30,3, 4.0,Russo,Dickman,None,2:01,D,"29,000",--,None
+"Friday, Jul 5",boxscore,BOS,@,WSH,W,9,4,None,39-30,3, 3.5,Bagby,Masterson,None,2:14,D,"6,000",+,None
+"Saturday, Jul 6",boxscore,BOS,@,WSH,W,5,3,None,40-30,3, 3.5,Galehouse,Chase,Wilson,2:13,D,"3,500",++,None
+"Sunday, Jul 7",boxscore,BOS,@,WSH,W,7,1,None,41-30,3, 3.5,Grove,Leonard,None,1:47,D,None,+++,None
+"Sunday, Jul 7",boxscore,BOS,@,WSH,L,4,7,None,41-31,3, 3.5,Monteagudo,Mustaikis,None,2:05,D,"22,000",-,1940-04-17 (Wet grounds)
+"Thursday, Jul 11",boxscore,BOS,None,CHW,W-wo,3,2,13,42-31,3, 3.0,Dickman,Rigney,None,2:35,D,"3,700",+,None
+"Saturday, Jul 13",boxscore,BOS,None,CHW,L,0,5,None,42-32,3, 5.0,Lyons,Bagby,None,None,D,None,-,None
+"Saturday, Jul 13",boxscore,BOS,None,CHW,L,0,7,None,42-33,3, 5.0,Knott,Wilson,None,2:10,D,"16,700",--,1940-07-12 (Rain)
+"Sunday, Jul 14",boxscore,BOS,None,SLB,W,5,4,11,43-33,3, 3.5,Dickman,Kennedy,None,2:25,D,None,+,None
+"Sunday, Jul 14",boxscore,BOS,None,SLB,W,7,3,7,44-33,3, 3.5,Galehouse,Harris,None,2:00,D,"17,000",++,1940-07-16 (Schedule change)
+"Monday, Jul 15",boxscore,BOS,None,SLB,W,10,6,None,45-33,3, 2.5,Heving,Cox,None,2:13,D,"2,500",+++,None
+"Wednesday, Jul 17",boxscore,BOS,None,DET,W,8,3,None,46-33,2, 0.5,Ostermueller,Benton,None,2:32,D,"32,400",++++,None
+"Wednesday, Jul 17",boxscore,BOS,None,DET,W,8,5,None,47-33,2, 0.5,Bagby,Smith,Dickman,2:00,D,"32,400",+++++,1940-06-09 (Rain)
+"Thursday, Jul 18",boxscore,BOS,None,DET,L,8,10,11,47-34,3, 1.0,Seats,Wilson,Benton,3:12,D,"5,800",-,None
+"Friday, Jul 19",boxscore,BOS,None,DET,L,0,4,None,47-35,3, 2.0,Bridges,Galehouse,None,1:59,D,"13,300",--,None
+"Saturday, Jul 20",boxscore,BOS,None,CLE,L,6,9,None,47-36,3, 3.0,Harder,Johnson,Allen,2:17,None,"10,200",---,None
+"Sunday, Jul 21",boxscore,BOS,None,CLE,L,2,3,None,47-37,3, 5.0,Feller,Bagby,None,2:34,None,None,----,None
+"Sunday, Jul 21",boxscore,BOS,None,CLE,L,0,2,8,47-38,3, 5.0,Dobson,Ostermueller,None,1:50,None,"34,600",-----,1940-06-10 (Rain)
+"Tuesday, Jul 23",boxscore,BOS,@,CHW,L,7,8,None,47-39,3, 5.0,Appleton,Wilson,None,2:37,D,"4,810",------,None
+"Wednesday, Jul 24",boxscore,BOS,@,CHW,L,10,12,None,47-40,3, 6.0,Dietrich,Galehouse,Rigney,2:17,D,"4,000",-------,None
+"Thursday, Jul 25",boxscore,BOS,@,CHW,L,4,6,None,47-41,3, 7.0,Knott,Bagby,Brown,1:57,D,"4,581",--------,None
+"Friday, Jul 26",boxscore,BOS,@,SLB,W,14,7,None,48-41,3, 6.0,Wilson,Mills,None,2:43,D,"8,567",+,None
+"Saturday, Jul 27",boxscore,BOS,@,SLB,L,5,13,None,48-42,3, 7.5,Kennedy,Ostermueller,None,2:13,D,"1,382",-,None
+"Sunday, Jul 28",boxscore,BOS,@,SLB,W,3,1,None,49-42,3, 6.0,Johnson,Niggeling,Dickman,1:45,D,None,+,None
+"Sunday, Jul 28",boxscore,BOS,@,SLB,W,13,10,None,50-42,3, 6.0,Bagby,Harris,None,2:27,D,"6,811",++,1940-05-18 (Rain)
+"Tuesday, Jul 30",boxscore,BOS,@,CLE,L,1,2,None,50-43,3, 5.5,Feller,Bagby,None,2:04,None,"49,238",-,None
+"Wednesday, Jul 31",boxscore,BOS,@,CLE,L,11,12,None,50-44,3, 6.5,Zuber,Heving,Smith,2:14,None,None,--,None
+"Thursday, Aug 1",boxscore,BOS,@,CLE,W,5,2,None,51-44,3, 6.5,Ostermueller,Harder,None,2:44,None,"6,000",+,None
+"Friday, Aug 2",boxscore,BOS,@,DET,W,12,9,None,52-44,3, 5.5,Wilson,Seats,Heving,3:01,D,"8,693",++,None
+"Saturday, Aug 3",boxscore,BOS,@,DET,L,4,6,None,52-45,3, 7.5,Hutchinson,Bagby,Benton,2:16,D,None,-,None
+"Saturday, Aug 3",boxscore,BOS,@,DET,L,2,14,None,52-46,3, 7.5,Gorsica,Hash,None,2:04,D,"38,150",--,1940-06-24 (Rain)
+"Sunday, Aug 4",boxscore,BOS,@,DET,W,7,3,None,53-46,3, 6.5,Grove,Newhouser,None,2:23,D,"27,398",+,None
+"Monday, Aug 5",boxscore,BOS,None,NYY,W,4,1,None,54-46,3, 6.0,Ostermueller,Bonham,None,2:21,D,"5,100",++,1940-04-25 (Rain)
+"Tuesday, Aug 6",boxscore,BOS,None,NYY,W,8,3,None,55-46,3, 6.0,Heving,Chandler,None,2:16,D,"7,600",+++,None
+"Wednesday, Aug 7",boxscore,BOS,None,NYY,W,10,7,None,56-46,3, 6.5,Johnson,Hadley,Wilson,2:34,D,None,++++,None
+"Wednesday, Aug 7",boxscore,BOS,None,NYY,L,3,6,None,56-47,3, 6.5,Russo,Wilson,None,2:29,D,"32,500",-,1940-05-25 (Rain)
+"Thursday, Aug 8",boxscore,BOS,None,NYY,W,6,5,None,57-47,3, 6.0,Dickman,Hadley,None,2:05,D,"15,100",+,None
+"Friday, Aug 9",boxscore,BOS,@,WSH,L,5,6,None,57-48,3, 6.0,Carrasquel,Bagby,None,2:22,D,"10,000",-,None
+"Saturday, Aug 10",boxscore,BOS,@,WSH,W,3,0,None,58-48,3, 6.0,Johnson,Chase,Wilson,2:10,D,"8,000",+,None
+"Sunday, Aug 11",boxscore,BOS,@,WSH,L,1,2,None,58-49,3, 5.5,Hudson,Grove,None,1:45,D,"22,000",-,None
+"Tuesday, Aug 13",boxscore,BOS,@,NYY,L,1,9,None,58-50,3, 7.5,Russo,Bagby,None,2:55,D,None,--,None
+"Tuesday, Aug 13",boxscore,BOS,@,NYY,L,8,19,7,58-51,3, 7.5,Donald,Dickman,None,2:15,D,"32,172",---,1940-05-31 (Rain)
+"Wednesday, Aug 14",boxscore,BOS,@,NYY,L,3,8,None,58-52,3, 8.5,Ruffing,Johnson,None,2:10,D,"7,187",----,None
+"Thursday, Aug 15",boxscore,BOS,@,NYY,W,11,1,None,59-52,3, 8.5,Heving,Bonham,None,1:55,D,"7,344",+,None
+"Friday, Aug 16",boxscore,BOS,None,WSH,W,7,6,10,60-52,3, 8.5,Wilson,Krakauskas,None,2:44,D,"5,500",++,None
+"Saturday, Aug 17",boxscore,BOS,None,WSH,W,12,9,None,61-52,3, 7.5,Terry,Leonard,Bagby,2:35,D,"7,800",+++,None
+"Sunday, Aug 18",boxscore,BOS,None,WSH,W,4,2,None,62-52,3, 7.0,Johnson,Chase,None,1:46,D,"15,700",++++,None
+"Monday, Aug 19",boxscore,BOS,None,CLE,W,16,7,None,63-52,3, 6.0,Heving,Dobson,None,2:19,None,"7,830",+++++,None
+"Tuesday, Aug 20",boxscore,BOS,None,CLE,L,6,11,None,63-53,3, 7.0,Feller,Dickman,Allen,2:45,None,"20,200",-,None
+"Wednesday, Aug 21",boxscore,BOS,None,CLE,L,2,4,None,63-54,3, 8.0,Harder,Ostermueller,None,2:27,None,"10,600",--,None
+"Thursday, Aug 22",boxscore,BOS,None,DET,L,8,9,10,63-55,3, 8.0,Hutchinson,Bagby,None,2:32,D,"6,600",---,None
+"Saturday, Aug 24",boxscore,BOS,None,DET,L,1,12,None,63-56,4, 7.0,Bridges,Heving,None,2:12,D,None,----,None
+"Saturday, Aug 24",boxscore,BOS,None,DET,W,8,7,None,64-56,4, 7.0,Dickman,Trout,None,2:05,D,"29,209",+,1940-08-23 (Wet grounds)
+"Sunday, Aug 25",boxscore,BOS,None,SLB,L,2,7,None,64-57,4, 6.5,Niggeling,Ostermueller,None,2:30,D,None,-,None
+"Sunday, Aug 25",boxscore,BOS,None,SLB,W,17,3,7,65-57,4, 6.5,Wilson,Mills,None,1:56,D,"18,600",+,1940-08-27 (Schedule change)
+"Monday, Aug 26",boxscore,BOS,None,SLB,W,7,6,None,66-57,4, 6.5,Bagby,Harris,None,2:13,D,"2,400",++,None
+"Wednesday, Aug 28",boxscore,BOS,None,CHW,L,2,3,None,66-58,4, 7.0,Dietrich,Heving,None,1:43,D,"7,600",-,None
+"Thursday, Aug 29",boxscore,BOS,None,CHW,W,4,3,None,67-58,4, 6.5,Wilson,Rigney,None,2:17,D,"5,400",+,None
+"Friday, Aug 30",boxscore,BOS,@,PHA,W,5,4,None,68-58,4, 6.5,Heving,Heusser,None,2:10,D,"5,000",++,None
+"Saturday, Aug 31",boxscore,BOS,@,PHA,W,10,6,None,69-58,4, 6.5,Bagby,Caster,Dickman,2:10,D,"4,000",+++,None
+"Monday, Sep 2",boxscore,BOS,@,WSH,L,0,1,13,69-59,4, 7.0,Hudson,Grove,None,2:55,D,None,-,None
+"Monday, Sep 2",boxscore,BOS,@,WSH,L,4,5,6,69-60,4, 7.0,Chase,Fleming,None,1:30,D,"23,000",--,None
+"Wednesday, Sep 4",boxscore,BOS,None,PHA,W,6,5,10,70-60,4, 5.5,Heving,Heusser,None,2:33,D,"5,600",+,None
+"Wednesday, Sep 4",boxscore,BOS,None,PHA,W,5,4,11,71-60,4, 5.5,Ostermueller,Dean,None,2:41,D,"5,600",++,1940-04-21 (Rain)
+"Thursday, Sep 5",boxscore,BOS,None,PHA,W,9,7,None,72-60,4, 4.5,Johnson,Beckmann,None,2:08,D,"6,200",+++,None
+"Saturday, Sep 7",boxscore,BOS,None,NYY,L,3,4,None,72-61,4, 4.0,Russo,Heving,None,1:52,D,"19,000",-,None
+"Sunday, Sep 8",boxscore,BOS,None,NYY,L,4,9,None,72-62,4, 5.0,Chandler,Ostermueller,None,2:48,D,"33,800",--,None
+"Tuesday, Sep 10",boxscore,BOS,@,DET,W,6,5,13,73-62,4, 4.0,Grove,Benton,None,3:05,D,"6,634",+,None
+"Wednesday, Sep 11",boxscore,BOS,@,DET,L,7,11,None,73-63,4, 5.0,McKain,Heving,None,2:54,D,"3,966",-,None
+"Thursday, Sep 12",boxscore,BOS,@,CLE,L,1,8,None,73-64,4, 6.0,Harder,Ostermueller,None,2:00,None,"1,000",--,None
+"Friday, Sep 13",boxscore,BOS,@,CLE,L,0,1,None,73-65,5, 7.0,Milnar,Bagby,None,1:32,None,"8,000",---,None
+"Saturday, Sep 14",boxscore,BOS,@,CLE,W,6,1,None,74-65,5, 6.0,Johnson,Allen,None,1:50,None,"7,000",+,None
+"Sunday, Sep 15",boxscore,BOS,@,CHW,L,1,5,None,74-66,5, 7.5,Lyons,Heving,None,1:40,D,None,-,None
+"Sunday, Sep 15",boxscore,BOS,@,CHW,L,2,4,10,74-67,5, 7.5,Rigney,Hash,None,1:53,D,"39,191",--,1940-09-17 (Schedule change)
+"Monday, Sep 16",boxscore,BOS,@,CHW,W,6,2,None,75-67,5, 7.0,Wilson,Dietrich,None,1:53,D,"2,940",+,None
+"Wednesday, Sep 18",boxscore,BOS,@,SLB,L,2,11,None,75-68,5, 8.0,Harris,Grove,None,1:57,D,960,-,None
+"Thursday, Sep 19",boxscore,BOS,@,SLB,L,1,2,None,75-69,5, 9.0,Auker,Fleming,None,1:37,D,800,--,None
+"Saturday, Sep 21",boxscore,BOS,@,NYY,L,4,5,None,75-70,5, 10.5,Bonham,Wilson,None,2:02,D,"13,388",---,None
+"Sunday, Sep 22",boxscore,BOS,@,NYY,L,3,6,None,75-71,5, 10.5,Russo,Grove,None,1:50,D,"27,518",----,None
+"Tuesday, Sep 24",boxscore,BOS,@,PHA,W,16,8,None,76-71,5, 9.5,Heving,Heusser,None,1:55,D,None,+,None
+"Tuesday, Sep 24",boxscore,BOS,@,PHA,W,4,3,None,77-71,5, 9.5,Wilson,Beckmann,None,1:40,D,"1,500",++,1940-05-27 (Rain)
+"Thursday, Sep 26",boxscore,BOS,None,WSH,L,5,6,None,77-72,5, 11.0,Carrasquel,Bagby,None,2:01,D,"1,100",-,None
+"Friday, Sep 27",boxscore,BOS,None,WSH,W,24,4,None,78-72,5, 11.0,Ostermueller,Monteagudo,None,2:19,D,"2,200",+,None
+"Saturday, Sep 28",boxscore,BOS,None,PHA,W,16,4,None,79-72,5, 9.5,Heving,Dean,None,None,D,None,++,None
+"Saturday, Sep 28",boxscore,BOS,None,PHA,W,8,1,None,80-72,5, 9.5,Wilson,Heusser,None,1:37,D,"3,200",+++,1940-09-01 (Rain; Site change)
+"Sunday, Sep 29",boxscore,BOS,None,PHA,W,9,4,None,81-72,4, 8.0,Fleming,Vaughan,None,1:45,D,None,++++,None
+"Sunday, Sep 29",boxscore,BOS,None,PHA,W,4,1,8,82-72,4, 8.0,Rich,Marchildon,None,1:35,D,"6,800",+++++,1940-09-25 (Wet grounds; Site change)

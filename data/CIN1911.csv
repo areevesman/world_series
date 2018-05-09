@@ -1,0 +1,159 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Saturday, Apr 15",boxscore,CIN,None,PIT,W,3,2,None,1-1,3, 0.5,McQuillan,Leifield,None,1:41,D,None,+,None
+"Sunday, Apr 16",boxscore,CIN,None,STL,L,2,5,None,1-2,6, 1.5,Sallee,Gaspar,None,2:27,D,None,-,None
+"Monday, Apr 17",boxscore,CIN,None,STL,W,5,1,None,2-2,3, 1.0,Suggs,Steele,None,2:20,D,None,+,None
+"Tuesday, Apr 18",boxscore,CIN,None,STL,T,1,1,10,2-2,4, 1.5,None,None,None,2:28,D,None,+,None
+"Thursday, Apr 20",boxscore,CIN,@,PIT,L,1,9,None,2-3,6, 3.0,Camnitz,McQuillan,None,2:05,D,None,-,None
+"Sunday, Apr 23",boxscore,CIN,None,PIT,L,0,1,None,2-4,5, 4.0,Adams,Gaspar,None,1:48,D,None,--,None
+"Monday, Apr 24",boxscore,CIN,None,CHC,W,7,4,None,3-4,5, 4.0,Suggs,Pfiester,None,2:25,D,None,+,None
+"Tuesday, Apr 25",boxscore,CIN,None,CHC,L,4,5,None,3-5,5, 4.0,Foxen,Fromme,Brown,2:25,D,None,-,None
+"Wednesday, Apr 26",boxscore,CIN,None,CHC,L,8,10,None,3-6,5, 5.0,Reulbach,McQuillan,Brown,2:15,D,None,--,None
+"Thursday, Apr 27",boxscore,CIN,None,CHC,W,4,2,None,4-6,5, 5.0,Gaspar,Pfiester,None,2:19,D,None,+,None
+"Wednesday, May 3",boxscore,CIN,@,CHC,L,2,6,None,4-7,5, 6.0,Brown,Suggs,None,2:00,D,None,-,None
+"Thursday, May 4",boxscore,CIN,@,CHC,L,5,9,None,4-8,5, 7.0,McIntire,Gaspar,None,2:05,D,None,--,None
+"Friday, May 5",boxscore,CIN,@,CHC,W,13,2,None,5-8,5, 6.0,Keefe,Foxen,None,2:00,D,None,+,None
+"Saturday, May 6",boxscore,CIN,@,CHC,W,5,4,None,6-8,5, 6.0,Burns,Weaver,Gaspar,2:27,D,None,++,None
+"Sunday, May 7",boxscore,CIN,None,PIT,W,8,4,None,7-8,5, 5.5,Suggs,Camnitz,Gaspar,2:08,D,None,+++,None
+"Tuesday, May 9",boxscore,CIN,@,BSN,W,6,3,None,8-8,5, 5.0,Keefe,Tyler,None,1:47,D,None,++++,None
+"Wednesday, May 10",boxscore,CIN,@,BSN,W,8,7,15,9-8,4, 5.0,Gaspar,Curtis,None,2:55,D,None,+++++,None
+"Thursday, May 11",boxscore,CIN,@,BSN,W,13,10,None,10-8,4, 5.0,Fromme,Brown,None,2:31,D,None,++++++,None
+"Friday, May 12",boxscore,CIN,@,BSN,W,18,8,None,11-8,4, 5.0,Suggs,Pfeffer,Burns,2:25,D,None,+++++++,None
+"Saturday, May 13",boxscore,CIN,@,PHI,L,4,5,16,11-9,5, 6.0,Alexander,Smith,None,3:45,D,None,-,None
+"Monday, May 15",boxscore,CIN,@,PHI,L,5,21,None,11-10,5, 7.0,Humphries,Gaspar,None,2:42,D,None,--,None
+"Tuesday, May 16",boxscore,CIN,@,PHI,W,11,4,None,12-10,5, 6.0,Suggs,Brennan,None,2:05,D,None,+,None
+"Wednesday, May 17",boxscore,CIN,@,PHI,L,3,4,11,12-11,5, 7.0,Alexander,Fromme,None,2:20,D,None,-,None
+"Thursday, May 18",boxscore,CIN,@,BRO,L,1,2,None,12-12,5, 7.0,Scanlan,Gaspar,Rucker,1:38,D,None,--,None
+"Friday, May 19",boxscore,CIN,@,BRO,L,0,2,None,12-13,5, 7.0,Rucker,Smith,None,1:40,D,None,---,None
+"Saturday, May 20",boxscore,CIN,@,BRO,W,5,1,None,13-13,5, 6.0,Keefe,Barger,None,2:00,D,None,+,None
+"Monday, May 22",boxscore,CIN,@,BRO,L,3,4,None,13-14,5, 6.0,Rucker,Smith,None,2:10,D,None,-,None
+"Tuesday, May 23",boxscore,CIN,@,NYG,L,2,7,None,13-15,6, 6.0,Mathewson,Smith,None,1:45,D,None,--,1911-05-23 (Polo Grounds fire; Played at NYA; NY1 home team)
+"Wednesday, May 24",boxscore,CIN,@,NYG,L,1,2,None,13-16,6, 6.0,Marquard,Gaspar,None,1:45,D,None,---,1911-05-24 (Polo Grounds fire; Played at NYA; NY1 home team)
+"Thursday, May 25",boxscore,CIN,@,NYG,W,6,1,None,14-16,6, 6.0,Keefe,Drucke,None,1:46,D,None,+,1911-05-25 (Polo Grounds fire; Played at NYA; NY1 home team)
+"Friday, May 26",boxscore,CIN,@,PIT,W,4,3,None,15-16,5, 5.0,Smith,Adams,None,1:42,D,None,++,None
+"Saturday, May 27",boxscore,CIN,@,PIT,W,1,0,None,16-16,5, 5.0,Fromme,Camnitz,None,1:45,D,None,+++,None
+"Sunday, May 28",boxscore,CIN,None,PIT,L,5,7,None,16-17,5, 5.5,Leifield,Suggs,None,2:15,D,None,-,None
+"Monday, May 29",boxscore,CIN,@,STL,L,6,7,None,16-18,6, 6.0,Harmon,McQuillan,None,2:07,D,None,--,None
+"Monday, May 29",boxscore,CIN,@,STL,T,5,5,None,16-18,6, 6.0,None,None,None,2:22,D,None,--,1911-04-28 (Rain)
+"Tuesday, May 30",boxscore,CIN,@,STL,L,2,4,None,16-19,6, 6.5,Sallee,Smith,None,1:53,D,None,---,None
+"Tuesday, May 30",boxscore,CIN,@,STL,W,6,2,None,17-19,6, 6.5,Fromme,Steele,None,2:15,D,None,+,None
+"Wednesday, May 31",boxscore,CIN,@,STL,L,2,4,None,17-20,6, 7.5,Harmon,McQuillan,None,2:00,D,None,-,None
+"Wednesday, May 31",boxscore,CIN,@,STL,L,8,15,None,17-21,6, 7.5,Geyer,Suggs,None,2:20,D,None,--,1911-04-29 (Rain)
+"Thursday, Jun 1",boxscore,CIN,@,STL,L,5,6,None,17-22,6, 7.5,Zmich,Smith,None,2:10,D,None,---,None
+"Thursday, Jun 1",boxscore,CIN,@,STL,W,6,4,None,18-22,6, 7.5,Smith,Lowdermilk,None,2:20,D,None,+,1911-04-30 (Rain)
+"Friday, Jun 2",boxscore,CIN,None,BSN,L,5,8,None,18-23,6, 8.5,Mattern,McQuillan,Pfeffer,2:00,D,None,-,None
+"Saturday, Jun 3",boxscore,CIN,None,BSN,W,15,4,None,19-23,6, 7.5,Fromme,Brown,None,2:20,D,None,+,None
+"Sunday, Jun 4",boxscore,CIN,None,BSN,W,26,3,None,20-23,6, 7.0,Smith,Ferguson,Schreiber,2:05,D,None,++,None
+"Monday, Jun 5",boxscore,CIN,None,BSN,W,9,2,None,21-23,6, 6.5,Gaspar,Pfeffer,None,2:05,D,None,+++,None
+"Tuesday, Jun 6",boxscore,CIN,None,PHI,W,5,0,None,22-23,6, 6.0,Suggs,Chalmers,None,1:37,D,None,++++,None
+"Wednesday, Jun 7",boxscore,CIN,None,PHI,L,3,4,None,22-24,6, 6.5,Humphries,Keefe,Alexander,1:55,D,None,-,None
+"Thursday, Jun 8",boxscore,CIN,None,PHI,L,4,8,None,22-25,6, 7.5,Moore,Smith,None,2:00,D,None,--,None
+"Friday, Jun 9",boxscore,CIN,None,PHI,L,1,4,None,22-26,6, 8.5,Alexander,Suggs,None,2:05,D,None,---,None
+"Saturday, Jun 10",boxscore,CIN,None,NYG,W,5,2,None,23-26,6, 7.5,Gaspar,Marquard,None,1:48,D,None,+,None
+"Sunday, Jun 11",boxscore,CIN,None,NYG,L,0,5,None,23-27,6, 8.5,Wiltse,Fromme,None,2:15,D,None,-,None
+"Monday, Jun 12",boxscore,CIN,None,NYG,W,3,1,None,24-27,6, 8.0,Keefe,Ames,None,1:55,D,None,+,None
+"Tuesday, Jun 13",boxscore,CIN,None,NYG,L,2,5,None,24-28,6, 9.0,Mathewson,Fromme,None,1:55,D,None,-,None
+"Thursday, Jun 15",boxscore,CIN,None,BRO,L,0,1,None,24-29,6, 9.5,Rucker,Suggs,None,1:50,D,None,--,None
+"Saturday, Jun 17",boxscore,CIN,None,BRO,W,6,1,None,25-29,6, 9.5,Gaspar,Scanlan,None,1:50,D,None,+,None
+"Sunday, Jun 18",boxscore,CIN,None,BRO,L,1,3,None,25-30,6, 10.5,Rucker,Keefe,None,2:10,D,None,-,None
+"Tuesday, Jun 20",boxscore,CIN,None,STL,L,4,5,None,25-31,6, 10.5,Steele,Fromme,None,2:15,D,None,--,None
+"Wednesday, Jun 21",boxscore,CIN,None,STL,L,2,5,None,25-32,6, 11.5,Sallee,Suggs,None,2:00,D,None,---,None
+"Thursday, Jun 22",boxscore,CIN,None,STL,L,3,9,None,25-33,6, 11.5,Harmon,Smith,None,2:20,D,None,----,None
+"Friday, Jun 23",boxscore,CIN,None,STL,W,8,7,None,26-33,6, 10.5,Gaspar,Geyer,Keefe,2:10,D,None,+,1911-04-19 (Rain)
+"Sunday, Jun 25",boxscore,CIN,None,STL,W,5,1,None,27-33,6, 10.5,Suggs,Sallee,None,1:55,D,None,++,None
+"Sunday, Jun 25",boxscore,CIN,None,STL,L,1,2,None,27-34,6, 10.5,Golden,Keefe,None,2:05,D,None,-,1911-06-24 (Rain)
+"Monday, Jun 26",boxscore,CIN,@,PIT,W,6,3,10,28-34,6, 10.0,McQuillan,Steele,None,2:28,D,None,+,None
+"Tuesday, Jun 27",boxscore,CIN,@,PIT,L,1,4,None,28-35,6, 11.5,Camnitz,Fromme,None,1:30,D,None,-,None
+"Wednesday, Jun 28",boxscore,CIN,@,PIT,T,3,3,None,28-35,6, 12.0,None,None,None,2:00,D,None,-,None
+"Thursday, Jun 29",boxscore,CIN,None,CHC,W,5,4,None,29-35,6, 12.0,Smith,Brown,None,2:05,D,None,+,None
+"Friday, Jun 30",boxscore,CIN,None,CHC,L,2,3,None,29-36,6, 12.0,Brown,Keefe,None,1:45,D,None,-,None
+"Saturday, Jul 1",boxscore,CIN,None,CHC,L,0,3,None,29-37,6, 13.0,McIntire,Gaspar,None,1:50,D,None,--,None
+"Sunday, Jul 2",boxscore,CIN,@,CHC,L,3,13,None,29-38,6, 13.5,Reulbach,McQuillan,Richter,1:58,D,None,---,None
+"Tuesday, Jul 4",boxscore,CIN,@,CHC,L,3,8,None,29-39,6, 13.5,Richter,Keefe,Brown,2:00,D,None,----,None
+"Tuesday, Jul 4",boxscore,CIN,@,CHC,T,2,2,10,29-39,6, 13.5,None,None,None,2:05,D,None,----,None
+"Thursday, Jul 6",boxscore,CIN,@,BSN,W,12,11,12,30-39,6, 13.0,Smith,Weaver,None,3:22,D,None,+,None
+"Friday, Jul 7",boxscore,CIN,@,BSN,L,4,5,None,30-40,6, 13.0,Perdue,Suggs,None,1:55,D,None,-,None
+"Saturday, Jul 8",boxscore,CIN,@,BSN,W,11,7,None,31-40,6, 12.5,Keefe,McTigue,None,2:08,D,None,+,None
+"Monday, Jul 10",boxscore,CIN,@,BSN,L,2,6,None,31-41,6, 13.0,Weaver,Gaspar,None,1:38,D,None,-,None
+"Tuesday, Jul 11",boxscore,CIN,@,PHI,L,6,12,None,31-42,6, 14.0,Chalmers,Smith,None,2:18,D,None,--,None
+"Wednesday, Jul 12",boxscore,CIN,@,PHI,W,6,4,None,32-42,6, 13.0,Suggs,Burns,None,2:10,D,None,+,None
+"Thursday, Jul 13",boxscore,CIN,@,PHI,L,0,1,None,32-43,6, 13.5,Moore,Keefe,None,2:00,D,None,-,None
+"Friday, Jul 14",boxscore,CIN,@,PHI,L,4,5,None,32-44,6, 14.5,Alexander,Smith,None,2:00,D,None,--,None
+"Saturday, Jul 15",boxscore,CIN,@,NYG,L,3,4,None,32-45,6, 15.5,Mathewson,Gaspar,None,1:50,D,None,---,None
+"Tuesday, Jul 18",boxscore,CIN,@,NYG,W,8,2,None,33-45,6, 16.0,Keefe,Marquard,None,2:04,D,None,+,None
+"Wednesday, Jul 19",boxscore,CIN,@,NYG,L,2,4,None,33-46,6, 17.0,Ames,Humphries,None,1:50,D,None,-,None
+"Thursday, Jul 20",boxscore,CIN,@,BRO,W,4,3,None,34-46,6, 16.0,Suggs,Scanlan,None,1:45,D,None,+,None
+"Friday, Jul 21",boxscore,CIN,@,BRO,W,7,6,None,35-46,6, 15.5,Fromme,Knetzer,None,2:15,D,None,++,None
+"Saturday, Jul 22",boxscore,CIN,@,BRO,L,0,1,None,35-47,6, 16.0,Rucker,Smith,None,1:18,D,None,-,None
+"Sunday, Jul 23",boxscore,CIN,None,STL,L,2,3,None,35-48,6, 16.5,Sallee,Gaspar,None,1:54,D,None,--,None
+"Monday, Jul 24",boxscore,CIN,None,NYG,L,3,8,None,35-49,6, 17.0,Marquard,Keefe,None,2:10,D,None,---,None
+"Tuesday, Jul 25",boxscore,CIN,None,NYG,W,3,2,None,36-49,6, 16.5,Suggs,Ames,None,1:50,D,None,+,None
+"Wednesday, Jul 26",boxscore,CIN,None,NYG,L,3,5,None,36-50,6, 18.0,Mathewson,Gaspar,None,2:00,D,None,-,None
+"Thursday, Jul 27",boxscore,CIN,None,NYG,W,7,4,None,37-50,6, 18.0,Keefe,Drucke,Smith,2:14,D,None,+,None
+"Friday, Jul 28",boxscore,CIN,None,BRO,W,8,6,None,38-50,6, 18.0,Fromme,Barger,None,1:40,D,None,++,None
+"Saturday, Jul 29",boxscore,CIN,None,BRO,L,2,9,None,38-51,6, 18.0,Rucker,Smith,None,1:30,D,None,-,None
+"Sunday, Jul 30",boxscore,CIN,None,BRO,L,4,5,None,38-52,6, 18.5,Knetzer,Suggs,Scanlan,2:20,D,None,--,None
+"Sunday, Jul 30",boxscore,CIN,None,BRO,L,2,4,None,38-53,6, 18.5,Ragan,Gaspar,Schardt,1:45,D,None,---,1911-06-16 (Rain)
+"Monday, Jul 31",boxscore,CIN,None,BRO,W,2,1,None,39-53,6, 18.5,Keefe,Burk,None,1:45,D,None,+,None
+"Thursday, Aug 3",boxscore,CIN,None,PHI,W,7,1,None,40-53,6, 18.0,Smith,Chalmers,None,2:05,D,None,++,None
+"Sunday, Aug 6",boxscore,CIN,None,PHI,W,7,6,None,41-53,6, 16.0,Gaspar,Burns,None,2:30,D,None,+++,None
+"Sunday, Aug 6",boxscore,CIN,None,PHI,W,3,1,None,42-53,6, 16.0,Keefe,Moore,None,1:47,D,None,++++,1911-08-02 (Rain)
+"Monday, Aug 7",boxscore,CIN,None,BSN,W,8,2,None,43-53,6, 16.0,Smith,Mattern,None,1:50,D,None,+++++,None
+"Tuesday, Aug 8",boxscore,CIN,None,BSN,W,3,0,None,44-53,6, 16.0,Gaspar,Weaver,None,1:38,D,None,++++++,None
+"Wednesday, Aug 9",boxscore,CIN,None,BSN,W,5,3,None,45-53,6, 15.5,Smith,Griffin,None,2:00,D,None,+++++++,None
+"Friday, Aug 11",boxscore,CIN,None,PIT,L,1,5,None,45-54,6, 16.0,Adams,Suggs,None,1:55,D,None,-,None
+"Saturday, Aug 12",boxscore,CIN,None,PIT,L,0,3,None,45-55,6, 17.0,Steele,Keefe,None,1:37,D,None,--,None
+"Sunday, Aug 13",boxscore,CIN,None,PIT,W,4,0,None,46-55,6, 17.5,Gaspar,Camnitz,None,1:38,D,None,+,None
+"Sunday, Aug 13",boxscore,CIN,None,PIT,L,2,7,None,46-56,6, 17.5,Leifield,Smith,None,1:47,D,None,-,1911-04-13 (Rain)
+"Wednesday, Aug 16",boxscore,CIN,@,NYG,L,1,6,None,46-57,6, 18.5,Mathewson,Suggs,None,1:28,D,None,--,None
+"Thursday, Aug 17",boxscore,CIN,@,NYG,L,4,10,None,46-58,6, 19.0,Ames,Keefe,None,2:00,D,None,---,None
+"Thursday, Aug 17",boxscore,CIN,@,NYG,L,2,15,8,46-59,6, 19.0,Crandall,Smith,None,1:45,D,None,----,1911-07-17 (Rain)
+"Saturday, Aug 19",boxscore,CIN,@,NYG,L,4,5,None,46-60,6, 19.0,Wiltse,Suggs,Mathewson,2:22,D,None,-----,None
+"Saturday, Aug 19",boxscore,CIN,@,NYG,W,7,4,None,47-60,6, 19.0,Fromme,Mathewson,Keefe,2:00,D,None,+,1911-08-18 (Rain)
+"Monday, Aug 21",boxscore,CIN,@,BSN,W,7,6,None,48-60,6, 18.0,Gaspar,Perdue,Keefe,1:55,D,None,++,None
+"Tuesday, Aug 22",boxscore,CIN,@,BSN,W,11,9,None,49-60,6, 18.0,Keefe,Griffin,None,2:15,D,None,+++,None
+"Wednesday, Aug 23",boxscore,CIN,@,BSN,W,5,3,None,50-60,6, 17.0,Smith,Perdue,None,1:40,D,None,++++,None
+"Thursday, Aug 24",boxscore,CIN,@,PHI,W,4,1,14,51-60,6, 16.5,Suggs,Moore,Keefe,2:55,D,None,+++++,None
+"Friday, Aug 25",boxscore,CIN,@,PHI,W,8,4,10,52-60,6, 16.5,Smith,Alexander,None,2:35,D,None,++++++,None
+"Saturday, Aug 26",boxscore,CIN,@,PHI,L,1,3,None,52-61,6, 17.5,Stack,Fromme,None,1:52,D,None,-,None
+"Monday, Aug 28",boxscore,CIN,@,BRO,W,2,1,None,53-61,6, 17.5,Fromme,Rucker,Gaspar,1:44,D,None,+,None
+"Friday, Sep 1",boxscore,CIN,@,PIT,W,3,2,None,54-61,6, 19.0,Suggs,Leifield,None,2:00,D,None,++,1911-04-22 (Rain)
+"Friday, Sep 1",boxscore,CIN,@,PIT,L,4,14,None,54-62,6, 19.0,Adams,Keefe,None,1:51,D,None,-,1911-04-21 (Rain)
+"Saturday, Sep 2",boxscore,CIN,None,CHC,L,1,3,None,54-63,6, 20.0,Brown,Gaspar,None,1:55,D,None,--,None
+"Sunday, Sep 3",boxscore,CIN,None,PIT,W,3,1,None,55-63,6, 19.5,Fromme,Adams,None,1:40,D,None,+,None
+"Monday, Sep 4",boxscore,CIN,@,PIT,L,3,4,None,55-64,6, 19.5,Camnitz,Keefe,Steele,1:56,D,None,-,None
+"Monday, Sep 4",boxscore,CIN,@,PIT,W,3,1,None,56-64,6, 19.5,Humphries,Leifield,None,2:00,D,None,+,None
+"Wednesday, Sep 6",boxscore,CIN,@,PIT,L,3,4,None,56-65,6, 19.5,O'Toole,Gaspar,None,2:00,D,None,-,None
+"Wednesday, Sep 6",boxscore,CIN,@,PIT,W,6,1,6,57-65,6, 19.5,Keefe,Adams,None,1:20,D,None,+,1911-09-05 (Rain)
+"Thursday, Sep 7",boxscore,CIN,@,CHC,L,0,3,None,57-66,6, 20.0,Reulbach,Gaspar,None,1:40,D,None,-,None
+"Thursday, Sep 7",boxscore,CIN,@,CHC,L,2,4,None,57-67,6, 20.0,Cole,Fromme,Brown,1:41,D,None,--,None
+"Friday, Sep 8",boxscore,CIN,@,CHC,L,2,3,11,57-68,6, 21.0,Brown,Keefe,None,2:54,D,None,---,None
+"Saturday, Sep 9",boxscore,CIN,@,CHC,W,3,1,None,58-68,6, 20.5,Suggs,McIntire,None,1:50,D,None,+,None
+"Sunday, Sep 10",boxscore,CIN,@,CHC,W,8,3,None,59-68,6, 20.0,Gaspar,Richie,Compton,2:00,D,None,++,None
+"Monday, Sep 11",boxscore,CIN,None,CHC,L,0,2,None,59-69,6, 20.5,Reulbach,Fromme,None,1:45,D,None,-,None
+"Tuesday, Sep 12",boxscore,CIN,None,CHC,L,2,3,None,59-70,6, 22.0,Cole,Keefe,None,1:52,D,None,--,None
+"Wednesday, Sep 13",boxscore,CIN,None,PIT,L,4,5,None,59-71,6, 23.0,Adams,Humphries,Hendrix,2:20,D,None,---,1911-04-14 (Rain)
+"Thursday, Sep 14",boxscore,CIN,@,STL,L,5,6,11,59-72,6, 24.0,Lowdermilk,Compton,None,2:55,D,None,----,None
+"Thursday, Sep 14",boxscore,CIN,@,STL,T,5,5,5,59-72,6, 24.0,None,None,None,1:20,D,None,----,1911-05-01 (Wet grounds)
+"Friday, Sep 15",boxscore,CIN,@,STL,L,2,3,10,59-73,6, 25.0,Steele,Benton,None,2:23,D,None,-----,None
+"Friday, Sep 15",boxscore,CIN,@,STL,L,2,3,None,59-74,6, 25.0,Lowdermilk,Fromme,None,1:40,D,None,------,None
+"Saturday, Sep 16",boxscore,CIN,None,PHI,L,2,4,None,59-75,6, 26.0,Moore,Humphries,Chalmers,2:05,D,None,-------,None
+"Sunday, Sep 17",boxscore,CIN,None,PHI,L,0,6,None,59-76,6, 26.0,Alexander,Boyd,None,2:10,D,None,--------,None
+"Sunday, Sep 17",boxscore,CIN,None,PHI,W,7,1,None,60-76,6, 26.0,Suggs,Chalmers,None,2:00,D,None,+,1911-08-05 (Rain)
+"Monday, Sep 18",boxscore,CIN,None,PHI,W,3,1,None,61-76,6, 26.0,Benton,Curtis,None,1:40,D,None,++,None
+"Tuesday, Sep 19",boxscore,CIN,None,BRO,L,5,7,None,61-77,6, 27.0,Rucker,Gaspar,Ragan,2:20,D,None,-,1911-08-29 (Wet grounds; Site change)
+"Wednesday, Sep 20",boxscore,CIN,None,BRO,W,7,5,None,62-77,6, 27.0,Fromme,Schardt,None,2:18,D,None,+,None
+"Wednesday, Sep 20",boxscore,CIN,None,BRO,W,12,1,7,63-77,6, 27.0,Humphries,Miller,None,1:28,D,None,++,1911-08-30 (Rain; Site change)
+"Thursday, Sep 21",boxscore,CIN,None,BRO,W,4,3,15,64-77,6, 27.0,Suggs,Knetzer,None,3:05,D,None,+++,None
+"Thursday, Sep 21",boxscore,CIN,None,BRO,L,0,4,5,64-78,6, 27.0,Knetzer,Benton,None,0:50,D,None,-,1911-08-31 (Rain; Site change)
+"Friday, Sep 22",boxscore,CIN,None,BRO,W,5,3,None,65-78,6, 27.0,Boyd,Dent,None,1:35,D,None,+,1911-10-02 (Schedule change)
+"Saturday, Sep 23",boxscore,CIN,None,NYG,L,2,6,None,65-79,6, 28.0,Mathewson,Gaspar,None,2:15,D,None,-,None
+"Sunday, Sep 24",boxscore,CIN,None,NYG,W,6,5,None,66-79,6, 27.0,Benton,Wiltse,None,2:00,D,None,+,None
+"Monday, Sep 25",boxscore,CIN,None,NYG,L,0,2,None,66-80,6, 28.0,Crandall,Suggs,None,1:32,D,None,-,None
+"Wednesday, Sep 27",boxscore,CIN,None,BSN,W,8,4,None,67-80,6, 27.0,Boyd,Perdue,None,2:02,D,None,+,None
+"Friday, Sep 29",boxscore,CIN,None,BSN,T,4,4,11,67-80,6, 26.5,None,None,None,2:23,D,None,+,1911-09-28 (Rain)
+"Saturday, Sep 30",boxscore,CIN,None,BSN,L,2,9,None,67-81,6, 27.0,Donnelly,Suggs,None,1:55,D,None,-,None
+"Saturday, Sep 30",boxscore,CIN,None,BSN,W,4,1,None,68-81,6, 27.0,Benton,Young,None,1:55,D,None,+,None
+"Sunday, Oct 8",boxscore,CIN,None,STL,L,0,5,None,68-82,6, 30.5,Harmon,Benton,None,1:40,D,None,-,None
+"Monday, Oct 9",boxscore,CIN,None,STL,W,6,2,None,69-82,6, 31.0,Humphries,Steele,None,1:30,D,None,+,None
+"Monday, Oct 9",boxscore,CIN,None,STL,L,2,6,None,69-83,6, 31.0,Geyer,Boyd,None,1:40,D,None,-,1911-10-07 (Wet grounds)
+"Thursday, Oct 12",boxscore,CIN,None,CHC,W,4,3,None,70-83,6, 29.0,Humphries,Slapnicka,Boyd,1:35,D,None,+,None

@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 16",boxscore,STL,None,CHC,W,13,3,None,1-1,3, 0.5,Johnson,Root,None,None,D,None,+,None
+"Thursday, Apr 17",boxscore,STL,None,CHC,L,0,3,6,1-2,5, 1.0,Malone,Bell,None,None,D,None,-,None
+"Friday, Apr 18",boxscore,STL,None,CHC,W,11,1,None,2-2,4, 1.0,Hallahan,Bush,None,2:23,D,"6,000",+,None
+"Saturday, Apr 19",boxscore,STL,None,PIT,L,4,5,10,2-3,5, 2.0,Kremer,Sherdel,None,None,D,None,-,None
+"Monday, Apr 21",boxscore,STL,None,PIT,L,4,6,None,2-4,5, 3.0,Brame,Hill,None,None,D,None,--,None
+"Tuesday, Apr 22",boxscore,STL,@,CHC,W,8,3,None,3-4,5, 2.5,Hallahan,Malone,None,2:20,D,"40,000",+,None
+"Wednesday, Apr 23",boxscore,STL,@,CHC,L,5,6,None,3-5,6, 3.0,Root,Haid,None,None,D,None,-,None
+"Thursday, Apr 24",boxscore,STL,@,CHC,W,9,2,None,4-5,6, 2.5,Johnson,Blake,None,None,D,"3,000",+,None
+"Friday, Apr 25",boxscore,STL,@,PIT,L,1,6,None,4-6,6, 3.5,Kremer,Sherdel,None,1:33,D,None,-,None
+"Saturday, Apr 26",boxscore,STL,@,PIT,L,7,9,None,4-7,6, 4.5,Brame,Hallahan,None,2:16,D,None,--,None
+"Sunday, Apr 27",boxscore,STL,@,CIN,W,10,5,None,5-7,5, 4.5,Haines,McWeeny,Haid,2:10,D,"13,126",+,None
+"Monday, Apr 28",boxscore,STL,@,CIN,W,8,3,None,6-7,5, 3.5,Mitchell,Eckert,Bell,2:09,D,None,++,None
+"Wednesday, Apr 30",boxscore,STL,@,CIN,L,3,4,None,6-8,5, 4.0,Lucas,Johnson,None,1:43,D,None,-,None
+"Friday, May 2",boxscore,STL,None,BRO,L,4,8,None,6-9,6, 4.5,Clark,Rhem,None,2:17,D,"8,000",--,None
+"Saturday, May 3",boxscore,STL,None,BRO,L,10,11,10,6-10,6, 4.5,Moss,Frankhouse,Elliott,2:54,D,"4,000",---,None
+"Sunday, May 4",boxscore,STL,None,BRO,L,1,2,None,6-11,8, 5.5,Phelps,Hallahan,None,1:46,D,None,----,None
+"Sunday, May 4",boxscore,STL,None,BRO,L,10,11,13,6-12,8, 5.5,Clark,Grabowski,Morrison,3:01,D,"19,500",-----,1930-05-05 (Schedule change)
+"Wednesday, May 7",boxscore,STL,None,PHI,W,16,11,None,7-12,7, 5.0,Lindsey,Alexander,None,2:26,D,None,+,None
+"Thursday, May 8",boxscore,STL,None,PHI,W,6,5,None,8-12,7, 5.0,Hallahan,Sweetland,None,1:43,D,None,++,None
+"Friday, May 9",boxscore,STL,None,BSN,W,10,6,None,9-12,7, 5.0,Sherdel,Grimes,None,2:04,D,None,+++,None
+"Saturday, May 10",boxscore,STL,None,BSN,W,3,1,None,10-12,6, 4.0,Grabowski,Brandt,None,1:44,D,None,++++,None
+"Sunday, May 11",boxscore,STL,None,BSN,W,5,3,None,11-12,4, 3.0,Haines,Seibold,None,1:41,D,None,+++++,None
+"Sunday, May 11",boxscore,STL,None,BSN,W,7,6,None,12-12,4, 3.0,Hallahan,Smith,Lindsey,2:09,D,None,++++++,1930-05-12 (Schedule change)
+"Tuesday, May 13",boxscore,STL,None,NYG,W,6,4,None,13-12,3, 2.5,Lindsey,Walker,None,1:51,D,"3,000",+++++++,None
+"Wednesday, May 14",boxscore,STL,None,NYG,W,7,3,None,14-12,3, 1.5,Bell,Fitzsimmons,None,1:52,D,"1,000",++++++++,None
+"Friday, May 16",boxscore,STL,None,CHC,W,9,8,None,15-12,2, 1.0,Frankhouse,Malone,None,2:14,D,None,+++++++++,None
+"Sunday, May 18",boxscore,STL,None,CHC,L,6,9,None,15-13,2, 0.5,Root,Johnson,Osborn,2:14,D,None,-,None
+"Sunday, May 18",boxscore,STL,None,CHC,W,8,2,None,16-13,2, 0.5,Haines,Blake,None,2:04,D,None,+,1930-05-19 (Schedule change)
+"Tuesday, May 20",boxscore,STL,None,CHC,W,16,3,None,17-13,2, 0.5,Sherdel,Malone,None,2:06,D,None,++,1930-05-17 (Rain)
+"Wednesday, May 21",boxscore,STL,None,CIN,W,3,2,None,18-13,2, 0.5,Hallahan,May,Lindsey,1:33,D,None,+++,None
+"Thursday, May 22",boxscore,STL,None,CIN,W,4,2,None,19-13,1,up 0.5,Grabowski,Frey,Bell,1:36,D,None,++++,None
+"Saturday, May 24",boxscore,STL,None,CIN,W,5,1,None,20-13,1,up 0.5,Haines,Rixey,None,1:36,D,"18,000",+++++,None
+"Saturday, May 24",boxscore,STL,None,CIN,W,8,0,None,21-13,1,up 0.5,Johnson,McWeeny,None,1:51,D,"18,000",++++++,1930-05-23 (Rain)
+"Sunday, May 25",boxscore,STL,@,CHC,W,6,3,None,22-13,1,up 0.5,Haid,Root,Bell,2:23,D,25,+++++++,None
+"Monday, May 26",boxscore,STL,@,PIT,W,10,4,None,23-13,1,up 0.5,Sherdel,Petty,Lindsey,2:03,D,None,++++++++,None
+"Tuesday, May 27",boxscore,STL,@,PIT,L,5,8,None,23-14,1,up 0.5,French,Grabowski,None,1:56,D,None,-,None
+"Friday, May 30",boxscore,STL,@,CHC,L,0,2,None,23-15,2, 2.0,Root,Johnson,None,1:28,D,12,--,None
+"Friday, May 30",boxscore,STL,@,CHC,L,8,9,10,23-16,2, 2.0,Osborn,Johnson,None,2:41,D,None,---,None
+"Saturday, May 31",boxscore,STL,@,CHC,L,5,6,None,23-17,2, 2.0,Osborn,Haines,None,None,D,None,----,None
+"Sunday, Jun 1",boxscore,STL,@,CIN,L,4,5,None,23-18,3, 3.5,Benton,Lindsey,None,2:05,D,None,-----,None
+"Sunday, Jun 1",boxscore,STL,@,CIN,L,1,7,7,23-19,3, 3.5,Frey,Frankhouse,None,1:26,D,None,------,1930-04-29 (Wet grounds)
+"Monday, Jun 2",boxscore,STL,@,PHI,L,6,9,None,23-20,3, 4.0,Elliott,Hallahan,None,None,D,None,-------,None
+"Tuesday, Jun 3",boxscore,STL,@,PHI,W,11,10,None,24-20,3, 4.0,Johnson,Willoughby,Haid,2:28,D,None,+,None
+"Wednesday, Jun 4",boxscore,STL,@,PHI,L,1,2,None,24-21,3, 4.0,Benge,Frankhouse,None,1:48,D,None,-,None
+"Thursday, Jun 5",boxscore,STL,@,PHI,L,4,10,None,24-22,3, 5.0,Collard,Lindsey,None,1:48,D,None,--,None
+"Friday, Jun 6",boxscore,STL,@,NYG,L,7,10,None,24-23,3, 5.0,Fitzsimmons,Bell,None,None,D,"8,000",---,None
+"Saturday, Jun 7",boxscore,STL,@,NYG,L,7,9,None,24-24,4, 6.0,Pruett,Hallahan,Heving,None,D,None,----,None
+"Sunday, Jun 8",boxscore,STL,@,NYG,L,1,4,None,24-25,4, 7.0,Walker,Haines,None,1:45,D,None,-----,None
+"Tuesday, Jun 10",boxscore,STL,@,BSN,W,2,1,10,25-25,4, 6.5,Frankhouse,Smith,None,None,D,None,+,None
+"Friday, Jun 13",boxscore,STL,@,BSN,L,8,9,10,25-26,4, 7.5,Grimes,Bell,None,2:30,D,None,-,None
+"Saturday, Jun 14",boxscore,STL,@,BRO,L,5,6,12,25-27,4, 8.5,Clark,Rhem,None,3:15,D,"22,000",--,None
+"Sunday, Jun 15",boxscore,STL,@,BRO,W,9,4,None,26-27,4, 7.5,Grabowski,Vance,Haines,2:20,D,None,+,None
+"Monday, Jun 16",boxscore,STL,@,BRO,L,3,5,None,26-28,4, 8.5,Phelps,Johnson,None,None,D,"10,000",-,None
+"Friday, Jun 20",boxscore,STL,None,PHI,W,7,5,None,27-28,4, 7.0,Lindsey,Benge,None,2:28,D,None,+,None
+"Saturday, Jun 21",boxscore,STL,None,PHI,L,3,13,None,27-29,4, 8.5,Collins,Haines,Smythe,2:12,D,None,-,None
+"Sunday, Jun 22",boxscore,STL,None,PHI,W,12,3,None,28-29,4, 8.0,Rhem,Collard,None,1:50,D,None,+,None
+"Sunday, Jun 22",boxscore,STL,None,PHI,W,9,3,None,29-29,4, 8.0,Grimes,Nichols,None,2:30,D,None,++,1930-05-06 (Rain)
+"Monday, Jun 23",boxscore,STL,None,BSN,L,9,12,None,29-30,4, 9.0,Brandt,Johnson,None,2:50,D,None,-,None
+"Tuesday, Jun 24",boxscore,STL,None,BSN,W,11,3,None,30-30,4, 8.5,Hallahan,Cunningham,None,2:13,D,None,+,None
+"Thursday, Jun 26",boxscore,STL,None,NYG,L,4,12,None,30-31,4, 9.0,Mitchell,Haines,None,2:17,D,"3,000",-,None
+"Friday, Jun 27",boxscore,STL,None,NYG,L,4,9,None,30-32,4, 9.0,Fitzsimmons,Grimes,None,2:02,D,"9,000",--,None
+"Saturday, Jun 28",boxscore,STL,None,NYG,W,6,2,None,31-32,4, 8.0,Rhem,Hubbell,None,1:47,D,"2,500",+,None
+"Sunday, Jun 29",boxscore,STL,None,NYG,W,3,2,None,32-32,4, 7.5,Johnson,Heving,None,2:08,D,None,++,None
+"Sunday, Jun 29",boxscore,STL,None,NYG,W,5,4,None,33-32,4, 7.5,Hallahan,Donohue,None,2:10,D,"20,000",+++,1930-05-15 (Rain)
+"Tuesday, Jul 1",boxscore,STL,None,BRO,W,15,7,None,34-32,4, 7.0,Haines,Clark,None,1:55,D,"3,500",++++,None
+"Wednesday, Jul 2",boxscore,STL,None,BRO,L,5,6,None,34-33,4, 7.0,Phelps,Grimes,None,2:26,D,None,-,None
+"Friday, Jul 4",boxscore,STL,None,CIN,W,15,4,None,35-33,4, 6.0,Rhem,Benton,None,1:57,D,None,+,None
+"Friday, Jul 4",boxscore,STL,None,CIN,W,6,2,None,36-33,4, 6.0,Johnson,Kolp,None,1:35,D,None,++,None
+"Saturday, Jul 5",boxscore,STL,None,CIN,W,6,4,None,37-33,4, 6.0,Hallahan,Lucas,Bell,2:11,D,None,+++,None
+"Sunday, Jul 6",boxscore,STL,None,PIT,W,2,1,None,38-33,4, 4.0,Haines,Spencer,None,1:39,D,None,++++,None
+"Sunday, Jul 6",boxscore,STL,None,PIT,W,12,4,None,39-33,4, 4.0,Grimes,Brame,None,2:10,D,None,+++++,1930-04-20 (Rain)
+"Monday, Jul 7",boxscore,STL,None,PIT,L,5,9,None,39-34,4, 5.0,French,Haid,None,2:20,D,None,-,None
+"Tuesday, Jul 8",boxscore,STL,None,PIT,L,5,10,None,39-35,4, 5.0,Kremer,Rhem,None,2:07,D,None,--,None
+"Wednesday, Jul 9",boxscore,STL,None,PIT,W,7,6,None,40-35,4, 5.5,Haid,Meine,None,None,D,None,+,None
+"Friday, Jul 11",boxscore,STL,@,PIT,L,2,6,None,40-36,4, 6.0,Brame,Hallahan,None,1:58,D,None,-,None
+"Saturday, Jul 12",boxscore,STL,@,PIT,L,2,3,None,40-37,4, 7.0,Kremer,Haines,None,1:40,D,None,--,None
+"Tuesday, Jul 15",boxscore,STL,@,PHI,W,7,6,None,41-37,4, 7.0,Grimes,Hansen,None,2:11,D,None,+,None
+"Wednesday, Jul 16",boxscore,STL,@,PHI,L,5,10,None,41-38,4, 7.5,Collins,Rhem,None,None,D,None,-,None
+"Thursday, Jul 17",boxscore,STL,@,NYG,L,9,12,None,41-39,4, 7.5,Mitchell,Johnson,Hubbell,None,D,None,--,None
+"Friday, Jul 18",boxscore,STL,@,NYG,L,7,8,None,41-40,4, 7.5,Donohue,Grimes,Heving,None,D,None,---,None
+"Saturday, Jul 19",boxscore,STL,@,NYG,W,4,1,None,42-40,4, 6.0,Haines,Walker,None,1:50,D,None,+,None
+"Saturday, Jul 19",boxscore,STL,@,NYG,W,8,4,None,43-40,4, 6.0,Lindsey,Hubbell,None,None,D,None,++,1930-06-09 (Rain)
+"Sunday, Jul 20",boxscore,STL,@,BRO,W,15,6,None,44-40,4, 5.0,Haid,Clark,Johnson,1:35,D,None,+++,None
+"Monday, Jul 21",boxscore,STL,@,BRO,L,8,9,None,44-41,4, 5.5,Moss,Rhem,None,2:15,D,None,-,None
+"Monday, Jul 21",boxscore,STL,@,BRO,W,17,10,None,45-41,4, 5.5,Grabowski,Luque,Bell,None,D,None,+,1930-06-17 (Rain)
+"Tuesday, Jul 22",boxscore,STL,@,BRO,L,0,1,None,45-42,4, 6.0,Thurston,Hallahan,None,None,D,None,-,None
+"Wednesday, Jul 23",boxscore,STL,@,BRO,L,1,4,None,45-43,4, 7.0,Luque,Johnson,None,2:07,D,None,--,None
+"Thursday, Jul 24",boxscore,STL,@,BSN,L,4,5,None,45-44,4, 7.5,Smith,Haines,None,None,D,None,---,None
+"Friday, Jul 25",boxscore,STL,@,BSN,L,4,5,None,45-45,4, 8.5,Sherdel,Rhem,None,None,D,None,----,None
+"Saturday, Jul 26",boxscore,STL,@,BSN,W,5,4,None,46-45,4, 9.0,Grimes,Zachary,Grabowski,2:10,D,None,+,None
+"Saturday, Jul 26",boxscore,STL,@,BSN,L,5,6,None,46-46,4, 9.0,Smith,Hallahan,None,None,D,None,-,1930-06-11 (Rain)
+"Sunday, Jul 27",boxscore,STL,@,BSN,W,2,0,None,47-46,4, 9.0,Johnson,Seibold,None,1:37,D,None,+,None
+"Sunday, Jul 27",boxscore,STL,@,BSN,W,6,1,None,48-46,4, 9.0,Bell,Frankhouse,None,1:51,D,None,++,1930-06-12 (Wet grounds)
+"Tuesday, Jul 29",boxscore,STL,@,PIT,L,5,6,None,48-47,4, 9.5,Kremer,Grabowski,None,1:37,D,None,-,None
+"Wednesday, Jul 30",boxscore,STL,@,PIT,L,5,6,None,48-48,4, 11.0,Brame,Haines,None,1:42,D,"3,000",--,None
+"Thursday, Jul 31",boxscore,STL,@,PIT,L,3,4,None,48-49,4, 11.0,French,Lindsey,None,1:48,D,None,---,1930-05-28 (Wet grounds)
+"Friday, Aug 1",boxscore,STL,@,CIN,W,10,1,None,49-49,4, 11.0,Hallahan,Lucas,None,None,D,None,+,None
+"Saturday, Aug 2",boxscore,STL,@,CIN,W,9,8,11,50-49,4, 10.0,Johnson,Kolp,None,None,D,None,++,None
+"Sunday, Aug 3",boxscore,STL,@,CIN,W,11,6,None,51-49,4, 9.5,Rhem,Rixey,Bell,1:56,D,None,+++,None
+"Sunday, Aug 3",boxscore,STL,@,CIN,W,6,3,None,52-49,4, 9.5,Lindsey,Frey,Johnson,1:44,D,None,++++,1930-08-04 (Schedule change)
+"Tuesday, Aug 5",boxscore,STL,None,CHC,L,4,5,None,52-50,4, 10.0,Teachout,Rhem,None,None,D,None,-,None
+"Wednesday, Aug 6",boxscore,STL,None,CHC,W,4,3,None,53-50,4, 10.0,Grimes,Blake,Lindsey,None,D,None,+,None
+"Thursday, Aug 7",boxscore,STL,None,CHC,L,5,6,None,53-51,4, 11.0,Osborn,Johnson,Root,2:00,D,"5,000",-,None
+"Friday, Aug 8",boxscore,STL,None,BRO,L,5,11,None,53-52,4, 12.0,Phelps,Haines,None,2:05,D,"6,000",--,None
+"Saturday, Aug 9",boxscore,STL,None,BRO,W,4,3,None,54-52,4, 11.0,Rhem,Heimach,Hallahan,None,D,None,+,None
+"Sunday, Aug 10",boxscore,STL,None,BRO,W,8,2,None,55-52,4, 9.0,Grimes,Luque,None,2:03,D,None,++,None
+"Sunday, Aug 10",boxscore,STL,None,BRO,W,4,0,None,56-52,4, 9.0,Hallahan,Elliott,None,1:55,D,"21,000",+++,1930-06-30 (Wet grounds)
+"Monday, Aug 11",boxscore,STL,None,BRO,W,7,6,None,57-52,4, 8.0,Grabowski,Thurston,None,1:57,D,"4,000",++++,None
+"Tuesday, Aug 12",boxscore,STL,None,BSN,W,4,2,None,58-52,4, 8.0,Lindsey,Sherdel,None,None,D,None,+++++,1930-06-25 (Rain)
+"Thursday, Aug 14",boxscore,STL,None,BSN,W,4,3,None,59-52,4, 8.0,Bell,Seibold,None,None,D,None,++++++,None
+"Thursday, Aug 14",boxscore,STL,None,BSN,L,2,3,None,59-53,4, 8.0,Zachary,Grimes,None,None,D,"7,200",-,1930-08-13 (Rain)
+"Friday, Aug 15",boxscore,STL,None,BSN,W,8,4,None,60-53,4, 8.0,Haines,Frankhouse,None,None,D,None,+,None
+"Saturday, Aug 16",boxscore,STL,None,BSN,L,5,6,None,60-54,4, 9.0,Smith,Grabowski,None,None,D,None,-,None
+"Sunday, Aug 17",boxscore,STL,None,NYG,L,4,12,None,60-55,4, 9.5,Mitchell,Hallahan,Heving,2:11,D,"31,000",--,None
+"Sunday, Aug 17",boxscore,STL,None,NYG,W,14,4,None,61-55,4, 9.5,Grimes,Walker,None,2:13,D,None,+,1930-08-18 (Schedule change)
+"Tuesday, Aug 19",boxscore,STL,None,NYG,L,2,4,None,61-56,4, 10.0,Hubbell,Lindsey,None,None,D,None,-,None
+"Wednesday, Aug 20",boxscore,STL,None,NYG,W,5,4,None,62-56,4, 9.0,Bell,Fitzsimmons,Grabowski,None,D,None,+,None
+"Thursday, Aug 21",boxscore,STL,None,PHI,W,16,6,None,63-56,4, 8.0,Grimes,Willoughby,None,None,D,None,++,None
+"Friday, Aug 22",boxscore,STL,None,PHI,W,10,8,None,64-56,4, 8.0,Rhem,Benge,None,None,D,None,+++,None
+"Saturday, Aug 23",boxscore,STL,None,PHI,W,9,6,None,65-56,4, 8.0,Haines,Sweetland,None,None,D,None,++++,None
+"Sunday, Aug 24",boxscore,STL,None,PHI,W,9,4,None,66-56,4, 7.5,Lindsey,Willoughby,None,1:53,D,None,+++++,None
+"Sunday, Aug 24",boxscore,STL,None,PHI,W,6,4,None,67-56,4, 7.5,Grimes,Collins,None,1:56,D,None,++++++,1930-06-19 (Rain)
+"Tuesday, Aug 26",boxscore,STL,@,CIN,W,3,1,None,68-56,4, 7.5,Hallahan,Benton,None,None,D,None,+++++++,None
+"Wednesday, Aug 27",boxscore,STL,@,CIN,W,2,1,None,69-56,4, 6.5,Rhem,Rixey,None,None,D,None,++++++++,None
+"Thursday, Aug 28",boxscore,STL,@,CHC,W,8,7,20,70-56,3, 5.5,Johnson,Osborn,None,4:10,D,None,+++++++++,None
+"Friday, Aug 29",boxscore,STL,@,CHC,L,8,9,13,70-57,4, 6.5,Malone,Grimes,None,None,D,None,-,None
+"Saturday, Aug 30",boxscore,STL,@,CHC,L,4,16,None,70-58,4, 7.5,Teachout,Lindsey,None,None,D,"30,000",--,None
+"Sunday, Aug 31",boxscore,STL,@,CHC,W,8,3,None,71-58,4, 6.5,Hallahan,Petty,None,2:12,D,45,+,None
+"Monday, Sep 1",boxscore,STL,@,PIT,W,11,6,None,72-58,3, 4.5,Rhem,Swetonic,None,2:00,D,"8,000",++,None
+"Monday, Sep 1",boxscore,STL,@,PIT,W,5,1,None,73-58,3, 4.5,Grimes,Kremer,None,1:36,D,"12,000",+++,None
+"Thursday, Sep 4",boxscore,STL,None,CIN,W,13,2,None,74-58,2, 4.5,Johnson,Benton,None,1:50,D,None,++++,None
+"Saturday, Sep 6",boxscore,STL,None,CIN,W,9,4,None,75-58,2, 4.0,Hallahan,Rixey,None,1:56,D,"32,358",+++++,None
+"Sunday, Sep 7",boxscore,STL,None,CIN,W,11,6,None,76-58,2, 2.5,Rhem,Lucas,None,1:34,D,None,++++++,None
+"Sunday, Sep 7",boxscore,STL,None,CIN,W,4,2,None,77-58,2, 2.5,Haines,Frey,None,1:31,D,None,+++++++,1930-09-05 (Schedule change)
+"Tuesday, Sep 9",boxscore,STL,@,NYG,L,1,2,None,77-59,2, 2.5,Mitchell,Grimes,None,None,D,"25,000",-,None
+"Wednesday, Sep 10",boxscore,STL,@,NYG,W,5,3,None,78-59,2, 1.5,Johnson,Fitzsimmons,Bell,None,D,None,+,None
+"Thursday, Sep 11",boxscore,STL,@,NYG,W,5,4,None,79-59,2, 0.5,Hallahan,Heving,Lindsey,None,D,None,++,None
+"Friday, Sep 12",boxscore,STL,@,NYG,W,5,2,None,80-59,2, 0.5,Rhem,Chaplin,None,None,D,None,+++,None
+"Saturday, Sep 13",boxscore,STL,@,BSN,W,8,2,None,81-59,1, Tied,Haines,Smith,None,2:01,D,None,++++,None
+"Sunday, Sep 14",boxscore,STL,@,BSN,W,9,2,None,82-59,2, 0.5,Grimes,Brandt,None,2:00,D,None,+++++,None
+"Sunday, Sep 14",boxscore,STL,@,BSN,L,4,7,8,82-60,2, 0.5,Cantwell,Johnson,None,1:39,D,"30,000",-,1930-09-15 (Schedule change)
+"Tuesday, Sep 16",boxscore,STL,@,BRO,W,1,0,10,83-60,1, Tied,Hallahan,Vance,None,None,D,None,+,None
+"Wednesday, Sep 17",boxscore,STL,@,BRO,W,5,3,None,84-60,1,up 1.0,Grabowski,Luque,Lindsey,None,D,None,++,None
+"Thursday, Sep 18",boxscore,STL,@,BRO,W,4,3,None,85-60,1,up 2.0,Grimes,Phelps,None,None,D,None,+++,None
+"Friday, Sep 19",boxscore,STL,@,PHI,W,7,3,None,86-60,1,up 2.5,Haines,Collins,Grabowski,None,D,None,++++,None
+"Saturday, Sep 20",boxscore,STL,@,PHI,W,9,3,None,87-60,1,up 3.0,Rhem,Elliott,None,None,D,"25,000",+++++,None
+"Saturday, Sep 20",boxscore,STL,@,PHI,L,3,4,None,87-61,1,up 3.0,Benge,Hallahan,None,None,D,None,-,1930-07-14 (Rain)
+"Monday, Sep 22",boxscore,STL,@,PHI,W,15,7,None,88-61,1,up 2.5,Johnson,Willoughby,Bell,None,D,None,+,None
+"Tuesday, Sep 23",boxscore,STL,@,PHI,W,19,16,None,89-61,1,up 3.0,Rhem,Collins,Hallahan,None,D,None,++,None
+"Thursday, Sep 25",boxscore,STL,None,PIT,W,9,0,None,90-61,1,up 3.0,Grimes,Kremer,None,1:38,D,"20,000",+++,None
+"Friday, Sep 26",boxscore,STL,None,PIT,W,10,5,None,91-61,1,up 3.0,Haines,Brame,None,1:55,D,"10,000",++++,None
+"Saturday, Sep 27",boxscore,STL,None,PIT,L,8,11,None,91-62,1,up 2.0,Wood,Kaufmann,None,1:49,D,None,-,None
+"Sunday, Sep 28",boxscore,STL,None,PIT,W,3,1,None,92-62,1,up 2.0,Dean,French,None,1:21,D,None,+,None

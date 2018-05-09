@@ -1,0 +1,162 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 9",boxscore,OAK,None,CHW,L,5,7,None,1-1,2, 1.0,Kaat,Fingers,None,2:19,N,"4,543",-,None
+"Thursday, Apr 10",boxscore,OAK,None,CHW,W,9,0,None,2-1,1, Tied,Norris,Bahnsen,None,2:32,D,"4,730",+,None
+"Friday, Apr 11",boxscore,OAK,@,TEX,W,7,5,None,3-1,1,up 0.5,Lindblad,Hands,None,2:59,N,"14,979",++,None
+"Saturday, Apr 12",boxscore,OAK,@,TEX,W,5,4,None,4-1,1,up 0.5,Blue,Jenkins,Fingers,2:26,D,"20,598",+++,None
+"Monday, Apr 14",boxscore,OAK,@,KCR,W,3,2,None,5-1,1,up 1.0,Holtzman,Splittorff,Fingers,2:13,N,"8,219",++++,None
+"Tuesday, Apr 15",boxscore,OAK,@,KCR,L-wo,3,4,None,5-2,1, Tied,Fitzmorris,Fingers,None,2:51,N,"11,621",-,None
+"Wednesday, Apr 16",boxscore,OAK,@,KCR,L,2,6,None,5-3,2, 1.0,Briles,Blue,None,2:30,N,"13,080",--,None
+"Friday, Apr 18",boxscore,OAK,None,MIN,L,4,5,None,5-4,2, 2.0,Albury,Holtzman,Burgmeier,2:26,N,"5,714",---,None
+"Saturday, Apr 19",boxscore,OAK,None,MIN,W,4,1,None,6-4,2, 2.0,Blue,Corbin,Fingers,2:21,D,"4,970",+,None
+"Sunday, Apr 20",boxscore,OAK,None,MIN,W,4,1,None,7-4,2, 1.5,Abbott,Blyleven,None,2:10,D,None,++,None
+"Sunday, Apr 20",boxscore,OAK,None,MIN,W,5,1,None,8-4,2, 1.5,Hamilton,Hughes,Todd,2:33,D,"19,737",+++,None
+"Monday, Apr 21",boxscore,OAK,None,TEX,W,11,6,None,9-4,2, 1.0,Lindblad,Bibby,None,2:31,N,"25,865",++++,None
+"Tuesday, Apr 22",boxscore,OAK,None,TEX,L,1,2,None,9-5,2, 1.0,Jenkins,Holtzman,None,1:46,N,"2,607",-,None
+"Wednesday, Apr 23",boxscore,OAK,None,KCR,W,3,2,None,10-5,1, Tied,Blue,Busby,Todd,2:52,N,"2,754",+,None
+"Thursday, Apr 24",boxscore,OAK,None,KCR,W,3,2,None,11-5,1,up 1.0,Abbott,Splittorff,None,2:22,D,"3,112",++,None
+"Friday, Apr 25",boxscore,OAK,@,CAL,L,0,2,None,11-6,1,up 1.0,Hassler,Hamilton,None,2:10,N,"20,013",-,None
+"Saturday, Apr 26",boxscore,OAK,@,CAL,L,0,1,None,11-7,1, Tied,Tanana,Holtzman,Kirkwood,1:57,N,"26,188",--,None
+"Sunday, Apr 27",boxscore,OAK,@,CAL,W,7,1,None,12-7,1,up 0.5,Blue,Singer,None,2:27,D,None,+,None
+"Sunday, Apr 27",boxscore,OAK,@,CAL,L,1,9,None,12-8,1,up 0.5,Figueroa,Odom,None,2:28,D,"26,584",-,None
+"Friday, May 2",boxscore,OAK,@,CHW,W,4,3,12,13-8,1,up 1.5,Fingers,Forster,Lindblad,3:29,N,"12,113",+,None
+"Saturday, May 3",boxscore,OAK,@,CHW,L-wo,3,4,10,13-9,1,up 0.5,Gossage,Todd,None,2:46,N,"17,874",-,None
+"Sunday, May 4",boxscore,OAK,@,CHW,L,2,5,None,13-10,1,up 0.5,Kaat,Abbott,Forster,2:04,D,"12,931",--,None
+"Tuesday, May 6",boxscore,OAK,None,CAL,W,5,3,None,14-10,1,up 1.0,Lindblad,Kirkwood,None,2:36,N,"5,210",+,None
+"Wednesday, May 7",boxscore,OAK,None,CAL,W,9,1,None,15-10,1,up 1.5,Blue,Singer,None,2:31,N,"3,237",++,None
+"Thursday, May 8",boxscore,OAK,None,CAL,L,0,5,None,15-11,1,up 1.0,Ryan,Hamilton,None,2:30,N,"3,598",-,None
+"Friday, May 9",boxscore,OAK,None,NYY,W,4,3,None,16-11,1,up 1.0,Fingers,Dobson,None,2:28,N,"9,116",+,None
+"Saturday, May 10",boxscore,OAK,None,NYY,L,0,3,None,16-12,1, Tied,Hunter,Holtzman,None,1:37,D,"23,942",-,None
+"Sunday, May 11",boxscore,OAK,None,NYY,W,7,5,None,17-12,1, Tied,Blue,May,Todd,2:24,D,"12,253",+,None
+"Monday, May 12",boxscore,OAK,None,BOS,W,5,3,None,18-12,1,up 0.5,Fingers,Segui,Lindblad,2:01,N,"28,984",++,None
+"Tuesday, May 13",boxscore,OAK,None,BOS,W,9,5,None,19-12,1,up 0.5,Holtzman,Wise,Todd,2:25,N,"4,239",+++,None
+"Friday, May 16",boxscore,OAK,@,NYY,W,4,2,None,20-12,1,up 1.5,Blue,Dobson,None,2:34,N,"24,539",++++,None
+"Saturday, May 17",boxscore,OAK,@,NYY,W,6,1,None,21-12,1,up 2.5,Holtzman,Medich,None,2:12,N,"23,063",+++++,None
+"Sunday, May 18",boxscore,OAK,@,NYY,L,1,9,None,21-13,1,up 1.5,Hunter,Abbott,None,2:18,D,"53,248",-,None
+"Monday, May 19",boxscore,OAK,@,BOS,L,5,10,None,21-14,1,up 1.0,Tiant,Odom,None,2:30,N,"14,700",--,None
+"Tuesday, May 20",boxscore,OAK,@,BOS,L,0,7,None,21-15,1,up 1.0,Lee,Blue,None,1:51,N,"17,201",---,None
+"Wednesday, May 21",boxscore,OAK,@,BOS,L,3,7,None,21-16,1, Tied,Cleveland,Holtzman,None,1:56,N,"14,665",----,None
+"Friday, May 23",boxscore,OAK,@,CLE,W,3,0,None,22-16,1,up 0.5,Siebert,Perry,Todd,2:10,N,"15,608",+,None
+"Saturday, May 24",boxscore,OAK,@,CLE,W,10,5,None,23-16,1,up 1.5,Fingers,Hood,None,2:56,D,"25,801",++,None
+"Sunday, May 25",boxscore,OAK,@,CLE,L,0,6,None,23-17,1,up 1.0,Eckersley,Perry,None,2:23,D,None,-,None
+"Sunday, May 25",boxscore,OAK,@,CLE,W,6,3,None,24-17,1,up 1.0,Bosman,Kern,Todd,2:29,D,"48,978",+,None
+"Monday, May 26",boxscore,OAK,None,BAL,W-wo,6,5,11,25-17,1,up 1.0,Fingers,Alexander,None,2:51,D,"42,358",++,None
+"Tuesday, May 27",boxscore,OAK,None,BAL,W,4,2,None,26-17,1,up 1.0,Todd,Grimsley,None,2:39,N,"4,234",+++,None
+"Wednesday, May 28",boxscore,OAK,None,BAL,&V,5,0,None,27-17,1,up 2.0,Blue,Torrez,None,1:52,N,"4,094",++++,None
+"Friday, May 30",boxscore,OAK,None,CLE,W,6,2,None,28-17,1,up 2.5,Bosman,Kern,None,2:24,N,"7,554",+++++,None
+"Saturday, May 31",boxscore,OAK,None,CLE,L,1,4,None,28-18,1,up 1.5,Eckersley,Holtzman,None,2:15,D,"7,754",-,None
+"Sunday, Jun 1",boxscore,OAK,None,CLE,W,6,3,None,29-18,1,up 1.0,Siebert,Perry,Fingers,2:41,D,"7,644",+,None
+"Monday, Jun 2",boxscore,OAK,None,MIL,L,3,6,None,29-19,1,up 0.5,Castro,Blue,None,2:13,N,"28,235",-,None
+"Tuesday, Jun 3",boxscore,OAK,None,MIL,L,4,5,None,29-20,2, 0.5,Champion,Todd,Murphy,2:36,N,"4,129",--,None
+"Wednesday, Jun 4",boxscore,OAK,None,MIL,W,11,3,None,30-20,1,up 0.5,Holtzman,Broberg,None,2:28,N,"3,344",+,None
+"Friday, Jun 6",boxscore,OAK,None,DET,L,2,11,None,30-21,1,up 1.0,Lolich,Bosman,Hiller,2:32,N,"6,536",-,None
+"Saturday, Jun 7",boxscore,OAK,None,DET,L,0,3,None,30-22,1,up 1.0,LaGrow,Blue,None,2:26,D,"34,953",--,None
+"Sunday, Jun 8",boxscore,OAK,None,DET,W,4,0,None,31-22,1,up 2.0,Holtzman,Coleman,None,1:44,D,"9,780",+,None
+"Monday, Jun 9",boxscore,OAK,@,BAL,W,4,3,15,32-22,1,up 2.0,Lindblad,Miller,Blue,4:38,N,"13,211",++,None
+"Tuesday, Jun 10",boxscore,OAK,@,BAL,W,3,0,None,33-22,1,up 2.0,Perry,Grimsley,None,1:54,N,"12,985",+++,None
+"Wednesday, Jun 11",boxscore,OAK,@,MIL,W,5,3,None,34-22,1,up 2.0,Bosman,Slaton,Fingers,2:42,N,"15,382",++++,None
+"Thursday, Jun 12",boxscore,OAK,@,MIL,L,7,9,None,34-23,1,up 1.0,Castro,Blue,None,2:47,N,"14,243",-,None
+"Friday, Jun 13",boxscore,OAK,@,DET,W,7,5,None,35-23,1,up 1.5,Lindblad,Coleman,Fingers,2:06,N,"29,567",+,None
+"Saturday, Jun 14",boxscore,OAK,@,DET,L,2,3,None,35-24,1,up 1.5,Walker,Siebert,Hiller,2:17,D,"21,121",-,None
+"Monday, Jun 16",boxscore,OAK,@,MIN,L-wo,6,7,None,35-25,1,up 1.5,Burgmeier,Fingers,None,2:47,N,"11,058",--,None
+"Tuesday, Jun 17",boxscore,OAK,@,MIN,W,4,2,None,36-25,1,up 2.0,Blue,Goltz,None,2:00,N,None,+,None
+"Tuesday, Jun 17",boxscore,OAK,@,MIN,W,8,7,None,37-25,1,up 2.0,Holtzman,Butler,Todd,2:30,N,"16,752",++,1975-04-29 (Wet grounds)
+"Wednesday, Jun 18",boxscore,OAK,@,MIN,W,7,6,None,38-25,1,up 2.0,Todd,Albury,Fingers,3:05,N,"14,706",+++,None
+"Thursday, Jun 19",boxscore,OAK,@,MIN,W,5,2,10,39-25,1,up 2.5,Abbott,Hughes,Lindblad,3:02,D,"12,206",++++,None
+"Friday, Jun 20",boxscore,OAK,None,KCR,W,3,1,None,40-25,1,up 3.5,Bahnsen,Leonard,Fingers,2:38,N,"14,379",+++++,None
+"Saturday, Jun 21",boxscore,OAK,None,KCR,L,1,4,None,40-26,1,up 2.5,Busby,Holtzman,None,2:09,D,"11,505",-,None
+"Sunday, Jun 22",boxscore,OAK,None,KCR,W-wo,7,6,12,41-26,1,up 4.5,Todd,Mingori,None,3:42,D,None,+,None
+"Sunday, Jun 22",boxscore,OAK,None,KCR,W,8,1,None,42-26,1,up 4.5,Bosman,Pattin,None,2:18,D,"29,698",++,None
+"Monday, Jun 23",boxscore,OAK,None,MIN,W,5,2,None,43-26,1,up 5.0,Lindblad,Hughes,None,2:36,N,"29,410",+++,None
+"Tuesday, Jun 24",boxscore,OAK,None,MIN,W,6,4,None,44-26,1,up 5.0,Todd,Decker,None,3:02,N,"4,826",++++,None
+"Wednesday, Jun 25",boxscore,OAK,None,MIN,W,7,1,None,45-26,1,up 5.0,Holtzman,Corbin,None,1:53,N,"4,723",+++++,None
+"Friday, Jun 27",boxscore,OAK,@,CAL,W,12,4,None,46-26,1,up 5.5,Blue,Hassler,None,2:52,N,"17,473",++++++,None
+"Saturday, Jun 28",boxscore,OAK,@,CAL,W,10,4,None,47-26,1,up 6.5,Bosman,Singer,Lindblad,2:54,N,"26,465",+++++++,None
+"Sunday, Jun 29",boxscore,OAK,@,CAL,W,7,1,None,48-26,1,up 7.5,Holtzman,Ryan,Fingers,2:28,D,"16,954",++++++++,None
+"Monday, Jun 30",boxscore,OAK,@,CHW,L,1,6,None,48-27,1,up 7.0,Wood,Bahnsen,None,2:25,N,"21,536",-,None
+"Tuesday, Jul 1",boxscore,OAK,@,CHW,W,10,1,None,49-27,1,up 8.0,Blue,Jefferson,None,2:40,N,"19,458",+,None
+"Wednesday, Jul 2",boxscore,OAK,@,CHW,&V,4,5,None,49-28,1,up 7.0,Gossage,Fingers,None,2:31,N,"16,750",-,None
+"Thursday, Jul 3",boxscore,OAK,@,CHW,L,2,3,None,49-29,1,up 6.0,Kaat,Todd,Gossage,2:30,D,"13,359",--,None
+"Friday, Jul 4",boxscore,OAK,None,CAL,W,6,0,None,50-29,1,up 6.0,Holtzman,Tanana,None,2:21,N,"40,879",+,None
+"Saturday, Jul 5",boxscore,OAK,None,CAL,L,0,2,None,50-30,1,up 5.0,Figueroa,Bahnsen,None,2:36,D,"30,442",-,None
+"Sunday, Jul 6",boxscore,OAK,None,CAL,L,0,2,None,50-31,1,up 5.0,Lange,Blue,Kirkwood,2:35,D,"9,234",--,None
+"Monday, Jul 7",boxscore,OAK,None,CLE,W,7,3,None,51-31,1,up 6.0,Perry,Eckersley,None,2:23,N,"27,702",+,None
+"Tuesday, Jul 8",boxscore,OAK,None,CLE,W,15,5,None,52-31,1,up 6.0,Holtzman,Hood,None,2:30,N,"4,041",++,None
+"Wednesday, Jul 9",boxscore,OAK,None,CLE,W,3,1,None,53-31,1,up 7.0,Bosman,Raich,Fingers,2:35,D,"7,673",+++,None
+"Friday, Jul 11",boxscore,OAK,None,BAL,L,0,4,None,53-32,1,up 6.5,Torrez,Blue,None,2:15,N,"11,718",-,None
+"Saturday, Jul 12",boxscore,OAK,None,BAL,W,7,1,None,54-32,1,up 7.5,Perry,Palmer,None,2:09,D,"33,454",+,None
+"Sunday, Jul 13",boxscore,OAK,None,BAL,W,4,3,None,55-32,1,up 8.5,Holtzman,Grimsley,Fingers,2:08,D,"11,550",++,None
+"Thursday, Jul 17",boxscore,OAK,@,CLE,W,6,3,None,56-32,1,up 9.5,Holtzman,Raich,Lindblad,2:32,N,"15,085",+++,None
+"Friday, Jul 18",boxscore,OAK,@,CLE,W,7,6,None,57-32,1,up10.5,Abbott,Bibby,Fingers,3:00,N,"33,251",++++,None
+"Saturday, Jul 19",boxscore,OAK,@,BAL,L,2,3,None,57-33,1,up10.0,Mitchell,Blue,None,1:48,N,None,-,None
+"Saturday, Jul 19",boxscore,OAK,@,BAL,L,1,5,None,57-34,1,up10.0,Grimsley,Perry,Palmer,2:18,N,"35,567",--,None
+"Sunday, Jul 20",boxscore,OAK,@,BAL,W,5,2,None,58-34,1,up11.0,Fingers,Alexander,None,2:31,D,"16,028",+,None
+"Monday, Jul 21",boxscore,OAK,@,BAL,L,2,6,None,58-35,1,up10.0,Torrez,Holtzman,Garland,2:19,N,"16,992",-,None
+"Tuesday, Jul 22",boxscore,OAK,@,DET,W,11,0,None,59-35,1,up11.0,Abbott,Walker,None,2:12,N,None,+,None
+"Tuesday, Jul 22",boxscore,OAK,@,DET,W,16,4,None,60-35,1,up11.0,Bahnsen,LaGrow,None,2:48,N,"29,089",++,1975-06-15 (Rain)
+"Wednesday, Jul 23",boxscore,OAK,@,DET,W,3,0,None,61-35,1,up11.0,Blue,Ruhle,None,2:12,N,"20,251",+++,None
+"Thursday, Jul 24",boxscore,OAK,@,DET,L,2,5,None,61-36,1,up10.5,Coleman,Perry,Hiller,1:55,D,"14,255",-,None
+"Friday, Jul 25",boxscore,OAK,None,CHW,W-wo,8,6,13,62-36,1,up10.0,Lindblad,Upshaw,None,3:56,N,"10,500",+,None
+"Saturday, Jul 26",boxscore,OAK,None,CHW,L,2,5,None,62-37,1,up 9.0,Kaat,Fingers,None,1:51,D,"11,168",-,None
+"Sunday, Jul 27",boxscore,OAK,None,CHW,W,10,1,None,63-37,1,up 9.5,Blue,Jefferson,None,2:24,D,None,+,None
+"Sunday, Jul 27",boxscore,OAK,None,CHW,W,7,1,None,64-37,1,up 9.5,Bahnsen,Allen,None,2:24,D,"21,254",++,None
+"Monday, Jul 28",boxscore,OAK,None,TEX,W,12,6,None,65-37,1,up10.5,Lindblad,Moore,None,2:46,N,"39,061",+++,None
+"Tuesday, Jul 29",boxscore,OAK,None,TEX,L,1,6,None,65-38,1,up 9.5,Hargan,Perry,None,2:44,N,"6,522",-,None
+"Wednesday, Jul 30",boxscore,OAK,None,TEX,W,1,0,None,66-38,1,up 9.5,Holtzman,Jenkins,Lindblad,1:44,N,"6,631",+,None
+"Friday, Aug 1",boxscore,OAK,@,KCR,L,0,6,None,66-39,1,up 9.0,Busby,Bahnsen,None,2:56,N,"32,958",-,None
+"Saturday, Aug 2",boxscore,OAK,@,KCR,W,6,5,None,67-39,1,up10.0,Fingers,Mingori,None,2:37,N,"39,333",+,None
+"Sunday, Aug 3",boxscore,OAK,@,KCR,L,0,5,None,67-40,1,up 9.0,Splittorff,Abbott,None,2:08,D,"26,833",-,None
+"Monday, Aug 4",boxscore,OAK,@,TEX,L,0,12,None,67-41,1,up 8.0,Jenkins,Holtzman,None,2:28,N,"14,668",--,None
+"Tuesday, Aug 5",boxscore,OAK,@,TEX,W,3,2,None,68-41,1,up 7.5,Bosman,Perzanowski,Fingers,2:16,N,None,+,None
+"Tuesday, Aug 5",boxscore,OAK,@,TEX,L,2,15,None,68-42,1,up 7.5,Wright,Siebert,None,2:29,N,"22,380",-,1975-04-13 (Rain)
+"Wednesday, Aug 6",boxscore,OAK,@,TEX,L,2,5,None,68-43,1,up 6.5,Perry,Bahnsen,None,2:37,N,"17,909",--,None
+"Thursday, Aug 7",boxscore,OAK,@,TEX,W,10,1,None,69-43,1,up 6.5,Blue,Umbarger,None,2:25,N,"20,373",+,None
+"Friday, Aug 8",boxscore,OAK,None,BOS,W,3,2,None,70-43,1,up 7.5,Holtzman,Cleveland,Fingers,1:39,N,"20,575",++,None
+"Saturday, Aug 9",boxscore,OAK,None,BOS,L,2,7,None,70-44,1,up 6.5,Lee,Siebert,None,2:31,D,"16,828",-,None
+"Sunday, Aug 10",boxscore,OAK,None,BOS,L,3,5,None,70-45,1,up 5.5,Tiant,Bosman,Willoughby,2:20,D,"18,806",--,None
+"Monday, Aug 11",boxscore,OAK,None,BOS,W,4,3,None,71-45,1,up 6.5,Blue,Moret,Todd,2:50,N,"46,376",+,None
+"Tuesday, Aug 12",boxscore,OAK,None,NYY,L,2,7,None,71-46,1,up 5.5,Medich,Holtzman,None,2:32,N,"10,244",-,None
+"Wednesday, Aug 13",boxscore,OAK,None,NYY,L,1,3,None,71-47,1,up 5.5,Hunter,Bahnsen,None,2:02,N,"17,326",--,None
+"Thursday, Aug 14",boxscore,OAK,None,NYY,W,5,1,None,72-47,1,up 6.0,Bosman,May,None,2:19,D,"14,140",+,None
+"Friday, Aug 15",boxscore,OAK,None,MIL,L,4,8,None,72-48,1,up 6.0,Colborn,Blue,None,2:19,N,"7,279",-,None
+"Saturday, Aug 16",boxscore,OAK,None,MIL,W-wo,2,1,None,73-48,1,up 6.0,Fingers,Slaton,None,2:32,D,"11,104",+,None
+"Sunday, Aug 17",boxscore,OAK,None,MIL,W,3,1,None,74-48,1,up 6.0,Bahnsen,Broberg,Fingers,2:26,D,"9,436",++,None
+"Monday, Aug 18",boxscore,OAK,None,DET,L,3,5,None,74-49,1,up 5.5,Coleman,Blue,None,2:21,N,"24,488",-,None
+"Tuesday, Aug 19",boxscore,OAK,None,DET,L,1,3,None,74-50,1,up 5.5,Lolich,Bosman,None,2:06,N,"5,016",--,None
+"Wednesday, Aug 20",boxscore,OAK,None,DET,W,2,1,None,75-50,1,up 5.5,Siebert,Bare,Todd,1:59,D,"6,255",+,None
+"Thursday, Aug 21",boxscore,OAK,@,MIL,W,5,2,None,76-50,1,up 6.5,Holtzman,Broberg,None,2:39,N,"13,346",++,None
+"Saturday, Aug 23",boxscore,OAK,@,MIL,W,6,3,None,77-50,1,up 8.5,Todd,Murphy,Fingers,3:02,N,None,+++,None
+"Saturday, Aug 23",boxscore,OAK,@,MIL,W,9,3,None,78-50,1,up 8.5,Bahnsen,Hausman,Todd,2:35,N,"21,036",++++,1975-08-22 (Rain)
+"Sunday, Aug 24",boxscore,OAK,@,MIL,L,6,7,None,78-51,1,up 7.5,Rodriguez,Fingers,Murphy,2:56,D,"17,231",-,None
+"Tuesday, Aug 26",boxscore,OAK,@,NYY,L,1,7,None,78-52,1,up 7.0,Hunter,Siebert,None,2:27,N,"20,927",--,None
+"Wednesday, Aug 27",boxscore,OAK,@,NYY,W,3,2,None,79-52,1,up 8.0,Blue,Medich,Fingers,2:23,N,"20,471",+,None
+"Thursday, Aug 28",boxscore,OAK,@,NYY,L,2,3,None,79-53,1,up 7.5,Dobson,Holtzman,Martinez,2:02,N,"16,477",-,None
+"Friday, Aug 29",boxscore,OAK,@,BOS,L,1,6,None,79-54,1,up 7.5,Wise,Bahnsen,None,2:39,N,"34,341",--,None
+"Saturday, Aug 30",boxscore,OAK,@,BOS,W,7,6,10,80-54,1,up 7.5,Fingers,Drago,None,3:22,N,"28,171",+,None
+"Sunday, Aug 31",boxscore,OAK,@,BOS,W,8,6,None,81-54,1,up 7.5,Fingers,Segui,None,3:49,D,"32,753",++,None
+"Monday, Sep 1",boxscore,OAK,@,CAL,W,6,3,None,82-54,1,up 8.0,Blue,Figueroa,None,2:06,D,"22,920",+++,None
+"Tuesday, Sep 2",boxscore,OAK,@,CAL,L,1,4,None,82-55,1,up 7.0,Tanana,Holtzman,None,2:16,N,"10,952",-,None
+"Friday, Sep 5",boxscore,OAK,None,TEX,L,2,4,None,82-56,1,up 5.0,Perry,Blue,None,2:29,N,"10,958",--,None
+"Saturday, Sep 6",boxscore,OAK,None,TEX,W,2,1,None,83-56,1,up 4.5,Lindblad,Jenkins,Fingers,1:59,D,"7,624",+,None
+"Sunday, Sep 7",boxscore,OAK,None,TEX,W,4,1,None,84-56,1,up 5.0,Bosman,Wright,Todd,2:38,D,None,++,None
+"Sunday, Sep 7",boxscore,OAK,None,TEX,W,7,3,None,85-56,1,up 5.0,Siebert,Hargan,Fingers,3:01,D,"15,705",+++,None
+"Monday, Sep 8",boxscore,OAK,None,KCR,W,8,2,None,86-56,1,up 6.0,Holtzman,Leonard,None,2:30,N,"38,735",++++,None
+"Tuesday, Sep 9",boxscore,OAK,None,KCR,W-wo,2,1,14,87-56,1,up 7.0,Todd,Pattin,None,3:48,N,"11,124",+++++,None
+"Wednesday, Sep 10",boxscore,OAK,None,KCR,W,9,1,None,88-56,1,up 8.0,Blue,Busby,None,2:34,N,"11,172",++++++,None
+"Friday, Sep 12",boxscore,OAK,@,MIN,W,11,4,None,89-56,1,up 7.0,Bosman,Hughes,Todd,2:38,N,None,+++++++,None
+"Friday, Sep 12",boxscore,OAK,@,MIN,L,6,7,None,89-57,1,up 7.0,Bane,Lindblad,Burgmeier,2:57,N,"6,837",-,1975-04-30 (Wet grounds)
+"Saturday, Sep 13",boxscore,OAK,@,MIN,W,8,5,None,90-57,1,up 8.0,Holtzman,Goltz,Fingers,2:30,D,"9,360",+,None
+"Sunday, Sep 14",boxscore,OAK,@,MIN,L,8,10,None,90-58,1,up 7.0,Butler,Abbott,Burgmeier,2:43,D,"22,772",-,None
+"Tuesday, Sep 16",boxscore,OAK,@,TEX,W,11,5,None,91-58,1,up 8.0,Todd,Perry,None,2:53,N,None,+,None
+"Tuesday, Sep 16",boxscore,OAK,@,TEX,W,6,4,None,92-58,1,up 8.0,Bahnsen,Jenkins,Fingers,3:00,N,"12,684",++,1975-09-15 (Rain)
+"Wednesday, Sep 17",boxscore,OAK,@,CHW,L,2,3,None,92-59,1,up 8.0,Wood,Holtzman,Hamilton,1:56,N,"4,761",-,None
+"Thursday, Sep 18",boxscore,OAK,@,CHW,W,7,6,None,93-59,1,up 8.0,Todd,Kaat,Fingers,2:55,N,"5,781",+,None
+"Friday, Sep 19",boxscore,OAK,@,KCR,L,4,5,None,93-60,1,up 7.0,Busby,Abbott,Pattin,2:56,N,"19,393",-,None
+"Saturday, Sep 20",boxscore,OAK,@,KCR,W,16,4,None,94-60,1,up 8.0,Blue,Splittorff,None,3:20,N,"26,951",+,None
+"Sunday, Sep 21",boxscore,OAK,@,KCR,L,1,2,None,94-61,1,up 7.0,Leonard,Bosman,Pattin,2:34,D,"21,023",-,None
+"Monday, Sep 22",boxscore,OAK,None,MIN,L,1,2,None,94-62,1,up 6.0,Bane,Holtzman,Burgmeier,2:18,N,"20,497",--,None
+"Tuesday, Sep 23",boxscore,OAK,None,MIN,L,3,4,None,94-63,1,up 5.0,Blyleven,Bahnsen,None,2:34,D,"3,979",---,None
+"Wednesday, Sep 24",boxscore,OAK,None,CHW,W,13,2,None,95-63,1,up 5.0,Blue,Jefferson,None,2:38,N,"7,412",+,None
+"Thursday, Sep 25",boxscore,OAK,None,CHW,L,2,8,None,95-64,1,up 5.0,Wood,Mitchell,None,2:31,D,"2,663",-,None
+"Friday, Sep 26",boxscore,OAK,None,CAL,W,4,2,None,96-64,1,up 5.0,Bosman,Figueroa,Fingers,2:02,N,"3,474",+,None
+"Saturday, Sep 27",boxscore,OAK,None,CAL,W,6,3,None,97-64,1,up 6.0,Holtzman,Tanana,Lindblad,2:20,D,"5,177",++,None
+"Sunday, Sep 28",boxscore,OAK,None,CAL,W,5,0,None,98-64,1,up 7.0,Blue,Ross,None,1:59,D,"22,131",+++,None

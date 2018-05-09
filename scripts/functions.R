@@ -6,24 +6,39 @@ library(ggplot2)
 
 
 
-get_data <- function(table_name, years){
+get_data <- function(table_name, years = NULL, extention = "csv"){
   
   #get all urls to all table_name data on github
   data_all_years_urls <- getURL(
     paste("https://raw.githubusercontent.com/areevesman/world_series/master/data/",
           table_name,
           as.character(years),
-          ".csv",
+          ".",
+          extention,
           sep = ""))
   
   data_all_years_list <- list()
   for (i in 1:length(data_all_years_urls)){
     
-    data_all_years_list[[i]] <- read.csv(text = data_all_years_urls[i], 
-                                         stringsAsFactors = FALSE) %>%
-      as_tibble() 
-    #%>% 
-     # mutate(year = ifelse(years = NULL, NULL,years[i]))
+    if (extention == "csv"){
+      
+      data_all_years_list[[i]] <- read.csv(text = data_all_years_urls[i], 
+                                           stringsAsFactors = FALSE) %>%
+        as_tibble() 
+      
+    }
+    
+    if (extention == "txt"){
+      
+      #print(data_all_years_urls[i])
+      
+      data_all_years_list[[i]] <- read.table(text = data_all_years_urls[i],
+                                             sep = '*',
+                                             header = TRUE,
+                                             stringsAsFactors = FALSE) %>%
+        as_tibble()
+      
+    }
     
   }
   
@@ -35,7 +50,8 @@ get_data <- function(table_name, years){
 
 
 
-#get_data("cubs", 2016)
+
+d <- get_data("CHC", 1959, extention = "txt")$CHC1959
 
 
 

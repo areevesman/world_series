@@ -1,0 +1,156 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Saturday, Apr 15",boxscore,NYY,None,WSH,W,3,1,None,1-1,4, 1.5,Fisher,Harper,None,None,D,None,+,None
+"Tuesday, Apr 18",boxscore,NYY,None,PHA,W,4,2,None,2-1,3, 1.0,Shawkey,Nabors,None,None,D,None,++,None
+"Wednesday, Apr 19",boxscore,NYY,None,PHA,W,2,1,None,3-1,2, 0.5,Markle,Crowell,None,None,D,None,+++,None
+"Thursday, Apr 20",boxscore,NYY,@,WSH,L,4,12,None,3-2,2, 1.5,Johnson,Keating,None,None,D,None,-,None
+"Friday, Apr 21",boxscore,NYY,@,WSH,W,5,3,7,4-2,2, 0.5,Caldwell,Dumont,None,None,D,None,+,None
+"Saturday, Apr 22",boxscore,NYY,@,WSH,W,3,2,11,5-2,1,up 0.5,Fisher,Harper,None,None,D,None,++,None
+"Monday, Apr 24",boxscore,NYY,@,WSH,L,2,8,None,5-3,2, 0.5,Johnson,Shawkey,None,None,D,None,-,None
+"Tuesday, Apr 25",boxscore,NYY,None,BOS,L,3,4,10,5-4,2, 1.5,Ruth,Caldwell,None,None,D,None,--,None
+"Wednesday, Apr 26",boxscore,NYY,None,BOS,W,9,0,None,6-4,2, 0.5,Markle,McHale,None,None,D,None,+,None
+"Friday, Apr 28",boxscore,NYY,None,BOS,L,2,3,11,6-5,3, 1.5,Gregg,Keating,None,None,D,None,-,None
+"Saturday, Apr 29",boxscore,NYY,@,PHA,W,4,2,10,7-5,3, 1.0,Cullop,Myers,None,None,D,None,+,None
+"Monday, May 1",boxscore,NYY,@,PHA,L,2,4,None,7-6,5, 1.0,Bush,Russell,None,1:47,D,None,-,None
+"Tuesday, May 2",boxscore,NYY,@,PHA,W,9,4,None,8-6,3, 1.0,Shawkey,Bressler,None,None,D,None,+,None
+"Wednesday, May 3",boxscore,NYY,@,PHA,L,2,3,None,8-7,3, 1.5,Bush,Shocker,None,None,D,None,-,None
+"Thursday, May 4",boxscore,NYY,@,BOS,L,0,3,None,8-8,4, 2.5,Leonard,Caldwell,None,None,D,None,--,None
+"Friday, May 5",boxscore,NYY,@,BOS,W,8,4,13,9-8,3, 2.0,Shawkey,Gregg,None,2:56,D,None,+,None
+"Saturday, May 6",boxscore,NYY,@,BOS,W,5,4,None,10-8,3, 2.0,Markle,Foster,Cullop,None,D,None,++,None
+"Monday, May 8",boxscore,NYY,@,BOS,W,4,0,None,11-8,2, 2.5,Mogridge,Gregg,None,None,D,None,+++,None
+"Tuesday, May 9",boxscore,NYY,None,CHW,L,4,5,None,11-9,2, 2.5,Cicotte,Caldwell,None,None,D,None,-,None
+"Wednesday, May 10",boxscore,NYY,None,CHW,L,2,5,None,11-10,3, 3.5,Russell,Keating,None,None,D,None,--,None
+"Thursday, May 11",boxscore,NYY,None,CHW,W,2,1,None,12-10,3, 2.5,Cullop,Faber,None,None,D,None,+,None
+"Friday, May 12",boxscore,NYY,None,CHW,W,2,0,None,13-10,3, 2.5,Mogridge,Danforth,Shawkey,None,D,None,++,None
+"Saturday, May 13",boxscore,NYY,None,CLE,L,2,4,None,13-11,3, 3.5,Coveleski,Fisher,None,None,D,None,-,None
+"Monday, May 15",boxscore,NYY,None,CLE,L,4,6,None,13-12,3, 4.5,Morton,Markle,Bagby,None,D,None,--,None
+"Friday, May 19",boxscore,NYY,None,DET,T,2,2,16,13-12,3, 5.5,None,None,None,None,D,None,--,None
+"Saturday, May 20",boxscore,NYY,None,DET,W,2,1,None,14-12,3, 4.5,Caldwell,Cunningham,Fisher,None,D,None,+,None
+"Monday, May 22",boxscore,NYY,None,SLB,L,5,9,None,14-13,3, 4.5,Plank,Keating,Groom,2:30,D,None,-,None
+"Wednesday, May 24",boxscore,NYY,None,SLB,W,10,1,None,15-13,3, 4.0,Shawkey,Weilman,None,None,D,None,+,None
+"Thursday, May 25",boxscore,NYY,None,SLB,W,7,5,None,16-13,3, 3.5,Cullop,Groom,None,None,D,None,++,None
+"Friday, May 26",boxscore,NYY,None,BOS,W,2,1,None,17-13,3, 3.0,Fisher,Leonard,None,None,D,None,+++,None
+"Friday, May 26",boxscore,NYY,None,BOS,W,6,5,10,18-13,3, 3.0,Shawkey,Jones,None,None,D,None,++++,1916-04-27 (Wet grounds)
+"Saturday, May 27",boxscore,NYY,None,BOS,W,4,2,None,19-13,3, 3.0,Keating,Ruth,None,None,D,None,+++++,None
+"Monday, May 29",boxscore,NYY,None,BOS,L,0,3,None,19-14,3, 3.5,Mays,Caldwell,None,None,D,None,-,None
+"Tuesday, May 30",boxscore,NYY,None,PHA,W,7,2,None,20-14,3, 2.5,Fisher,Crowell,None,None,D,None,+,None
+"Tuesday, May 30",boxscore,NYY,None,PHA,L,0,1,None,20-15,3, 2.5,Myers,Shawkey,None,None,D,None,-,None
+"Wednesday, May 31",boxscore,NYY,None,PHA,W,8,7,None,21-15,3, 1.0,Keating,Bush,Russell,None,D,None,+,None
+"Wednesday, May 31",boxscore,NYY,None,PHA,W,9,5,None,22-15,3, 1.0,Markle,Wyckoff,None,None,D,None,++,1916-04-17 (Rain)
+"Thursday, Jun 1",boxscore,NYY,None,PHA,L,0,5,None,22-16,3, 1.5,Bush,Caldwell,None,None,D,None,-,None
+"Saturday, Jun 3",boxscore,NYY,@,CHW,W,5,0,None,23-16,2, 1.0,Mogridge,Scott,None,None,D,None,+,None
+"Sunday, Jun 4",boxscore,NYY,@,CHW,L,4,12,None,23-17,2, 2.0,Faber,Fisher,None,None,D,None,-,None
+"Monday, Jun 5",boxscore,NYY,@,CHW,W,3,2,None,24-17,2, 1.0,Cullop,Benz,None,None,D,None,+,None
+"Wednesday, Jun 7",boxscore,NYY,@,SLB,L,5,6,12,24-18,2, 1.5,Weilman,Keating,None,None,D,None,-,None
+"Friday, Jun 9",boxscore,NYY,@,SLB,L,2,3,13,24-19,3, 1.5,Weilman,Shawkey,None,None,D,None,--,None
+"Sunday, Jun 11",boxscore,NYY,@,DET,L,1,4,None,24-20,2, 3.0,Coveleski,Caldwell,None,None,D,None,---,None
+"Monday, Jun 12",boxscore,NYY,@,DET,L,6,8,None,24-21,2, 4.0,Boland,Fisher,Dauss,None,D,None,----,None
+"Tuesday, Jun 13",boxscore,NYY,@,DET,W,4,2,None,25-21,2, 4.0,Cullop,Hamilton,Shawkey,None,D,None,+,None
+"Wednesday, Jun 14",boxscore,NYY,@,DET,L,2,6,None,25-22,2, 4.5,Coveleski,Mogridge,None,None,D,None,-,1916-06-10 (Rain)
+"Thursday, Jun 15",boxscore,NYY,@,CLE,L,2,3,10,25-23,4, 5.5,Coveleski,Shawkey,None,2:25,D,None,--,None
+"Saturday, Jun 17",boxscore,NYY,@,CLE,W,5,3,None,26-23,4, 4.5,Shawkey,Bagby,None,None,D,None,+,None
+"Sunday, Jun 18",boxscore,NYY,@,CLE,W,19,3,None,27-23,4, 3.5,Cullop,Coumbe,Russell,None,D,None,++,None
+"Monday, Jun 19",boxscore,NYY,@,CLE,W,7,6,None,28-23,4, 2.5,Fisher,Coveleski,None,None,D,None,+++,1916-06-16 (Rain)
+"Tuesday, Jun 20",boxscore,NYY,@,BOS,W,4,1,None,29-23,4, 1.5,Keating,Leonard,None,None,D,None,++++,None
+"Wednesday, Jun 21",boxscore,NYY,@,BOS,L,0,2,None,29-24,4, 1.5,Foster,Shawkey,None,None,D,None,-,None
+"Thursday, Jun 22",boxscore,NYY,@,BOS,L,0,1,None,29-25,4, 2.5,Ruth,Fisher,None,None,D,None,--,None
+"Friday, Jun 23",boxscore,NYY,None,WSH,W,6,5,None,30-25,3, 1.5,Russell,Johnson,None,2:06,D,None,+,None
+"Friday, Jun 23",boxscore,NYY,None,WSH,W,5,1,None,31-25,3, 1.5,Cullop,Harper,None,None,D,None,++,1916-04-13 (Wet grounds)
+"Saturday, Jun 24",boxscore,NYY,None,WSH,W,2,1,None,32-25,2, 1.0,Caldwell,Boehling,None,None,D,None,+++,None
+"Saturday, Jun 24",boxscore,NYY,None,WSH,W,4,3,None,33-25,2, 1.0,Shawkey,Ayers,None,1:59,D,None,++++,1916-04-14 (Wet grounds)
+"Monday, Jun 26",boxscore,NYY,None,WSH,L,8,9,11,33-26,2, 1.5,Johnson,Shawkey,None,None,D,None,-,None
+"Tuesday, Jun 27",boxscore,NYY,None,WSH,W,3,2,None,34-26,2, 0.5,Caldwell,Boehling,None,None,D,None,+,None
+"Wednesday, Jun 28",boxscore,NYY,@,PHA,W,9,7,None,35-26,1,up 0.5,Keating,Myers,Russell,None,D,None,++,None
+"Thursday, Jun 29",boxscore,NYY,@,PHA,W,5,0,None,36-26,1,up 1.5,Shawkey,Nabors,None,None,D,None,+++,None
+"Friday, Jun 30",boxscore,NYY,@,PHA,W,7,0,None,37-26,1,up 1.5,Fisher,Bush,None,None,D,None,++++,None
+"Saturday, Jul 1",boxscore,NYY,@,PHA,W,5,4,None,38-26,1,up 1.5,Mogridge,Myers,None,None,D,None,+++++,None
+"Monday, Jul 3",boxscore,NYY,@,WSH,W,1,0,11,39-26,1,up 1.0,Caldwell,Johnson,None,None,D,None,++++++,None
+"Tuesday, Jul 4",boxscore,NYY,@,WSH,W,1,0,None,40-26,1,up 1.0,Shawkey,Harper,None,None,D,None,+++++++,None
+"Tuesday, Jul 4",boxscore,NYY,@,WSH,L,4,6,None,40-27,1,up 1.0,Gallia,Fisher,None,None,D,None,-,None
+"Wednesday, Jul 5",boxscore,NYY,@,WSH,W,9,1,None,41-27,1,up 1.5,Keating,Ayers,None,None,D,None,+,None
+"Thursday, Jul 6",boxscore,NYY,None,CHW,W,4,3,None,42-27,1,up 2.5,Cullop,Benz,None,None,D,None,++,None
+"Friday, Jul 7",boxscore,NYY,None,CHW,W,4,3,12,43-27,1,up 3.5,Mogridge,Scott,None,None,D,None,+++,None
+"Saturday, Jul 8",boxscore,NYY,None,CHW,L,1,2,None,43-28,1,up 2.5,Cicotte,Caldwell,None,None,D,None,-,None
+"Monday, Jul 10",boxscore,NYY,None,CLE,L,2,3,None,43-29,1,up 1.5,Klepfer,Shawkey,Coveleski,None,D,None,--,None
+"Tuesday, Jul 11",boxscore,NYY,None,CLE,W,8,2,None,44-29,1,up 1.5,Cullop,Beebe,Russell,None,D,None,+,None
+"Tuesday, Jul 11",boxscore,NYY,None,CLE,L,2,4,None,44-30,1,up 1.5,Lowdermilk,Keating,None,None,D,None,-,1916-05-16 (Rain)
+"Wednesday, Jul 12",boxscore,NYY,None,CLE,L,0,1,None,44-31,2, 0.5,Bagby,Caldwell,None,None,D,None,--,None
+"Wednesday, Jul 12",boxscore,NYY,None,CLE,L,3,6,None,44-32,2, 0.5,Gould,Fisher,Coveleski,None,D,None,---,1916-05-17 (Wet grounds)
+"Thursday, Jul 13",boxscore,NYY,None,CLE,W,6,3,8,45-32,1,up 0.5,Shawkey,Klepfer,None,1:48,D,None,+,None
+"Friday, Jul 14",boxscore,NYY,None,DET,L,2,6,12,45-33,1,up 1.0,Mitchell,Cullop,None,None,D,None,-,None
+"Friday, Jul 14",boxscore,NYY,None,DET,W,4,3,12,46-33,1,up 1.0,Russell,Cunningham,None,None,D,None,+,1916-05-18 (Rain)
+"Saturday, Jul 15",boxscore,NYY,None,DET,L,7,9,None,46-34,1,up 1.0,Dauss,Caldwell,Boland,2:47,D,None,-,None
+"Monday, Jul 17",boxscore,NYY,None,DET,W,2,0,None,47-34,1,up 2.0,Shawkey,Coveleski,None,None,D,None,+,None
+"Monday, Jul 17",boxscore,NYY,None,DET,W,3,2,None,48-34,1,up 2.0,Love,James,Russell,None,D,None,++,None
+"Tuesday, Jul 18",boxscore,NYY,None,DET,L,0,4,None,48-35,1,up 1.0,Mitchell,Markle,None,2:03,D,None,-,None
+"Wednesday, Jul 19",boxscore,NYY,None,SLB,W,5,0,None,49-35,1,up 1.0,Russell,Koob,None,None,D,None,+,None
+"Wednesday, Jul 19",boxscore,NYY,None,SLB,W,5,4,None,50-35,1,up 1.0,Fisher,Hamilton,Shawkey,None,D,None,++,1916-05-23 (Rain)
+"Thursday, Jul 20",boxscore,NYY,None,SLB,L,2,4,None,50-36,1,up 1.0,Groom,Markle,None,None,D,None,-,None
+"Saturday, Jul 22",boxscore,NYY,None,SLB,W,1,0,None,51-36,1,up 1.5,Shawkey,Davenport,None,1:49,D,None,+,None
+"Tuesday, Jul 25",boxscore,NYY,@,CHW,L,8,13,None,51-37,1,up 1.5,Cicotte,Caldwell,Scott,None,D,None,-,None
+"Wednesday, Jul 26",boxscore,NYY,@,CHW,L,0,2,None,51-38,1,up 0.5,Cicotte,Mogridge,None,1:39,D,None,--,None
+"Thursday, Jul 27",boxscore,NYY,@,CHW,W,8,6,None,52-38,1,up 0.5,Love,Wolfgang,Shawkey,None,D,None,+,None
+"Friday, Jul 28",boxscore,NYY,@,CHW,W,5,3,None,53-38,1,up 0.5,Shawkey,Williams,None,None,D,None,++,None
+"Saturday, Jul 29",boxscore,NYY,@,SLB,L,1,3,None,53-39,1,up 0.5,Davenport,Caldwell,None,None,D,None,-,None
+"Saturday, Jul 29",boxscore,NYY,@,SLB,L,2,3,None,53-40,1,up 0.5,Davenport,Russell,None,None,D,None,--,1916-06-06 (Rain)
+"Sunday, Jul 30",boxscore,NYY,@,SLB,L,1,2,None,53-41,3, 1.0,Koob,Mogridge,None,None,D,None,---,None
+"Sunday, Jul 30",boxscore,NYY,@,SLB,L,0,2,None,53-42,3, 1.0,Plank,Fisher,None,None,D,None,----,1916-06-08 (Rain)
+"Monday, Jul 31",boxscore,NYY,@,SLB,L,2,4,None,53-43,3, 2.0,Hamilton,Shawkey,Davenport,None,D,None,-----,None
+"Tuesday, Aug 1",boxscore,NYY,@,SLB,L,2,3,14,53-44,3, 3.0,Weilman,Mogridge,None,None,D,None,------,None
+"Thursday, Aug 3",boxscore,NYY,@,DET,L,1,2,None,53-45,4, 4.0,Boland,Russell,None,None,D,None,-------,None
+"Friday, Aug 4",boxscore,NYY,@,DET,L,2,5,None,53-46,4, 4.5,Dubuc,Shawkey,Boland,None,D,None,--------,None
+"Saturday, Aug 5",boxscore,NYY,@,DET,L,2,3,14,53-47,4, 5.5,James,Mogridge,None,None,D,None,---------,None
+"Sunday, Aug 6",boxscore,NYY,@,DET,W,4,2,None,54-47,4, 4.5,Cullop,Dauss,Russell,None,D,None,+,None
+"Monday, Aug 7",boxscore,NYY,@,CLE,W,3,2,None,55-47,4, 4.5,Shawkey,Bagby,None,None,D,None,++,None
+"Tuesday, Aug 8",boxscore,NYY,@,CLE,L,4,9,None,55-48,4, 4.5,Gould,Russell,None,None,D,None,-,None
+"Wednesday, Aug 9",boxscore,NYY,@,CLE,L,3,5,None,55-49,4, 5.0,Coveleski,Shawkey,Klepfer,None,D,None,--,None
+"Thursday, Aug 10",boxscore,NYY,@,CLE,L,2,3,None,55-50,6, 6.0,Lambeth,Russell,None,None,D,None,---,None
+"Saturday, Aug 12",boxscore,NYY,None,PHA,L,3,9,None,55-51,6, 7.5,Myers,Mogridge,None,None,D,None,----,None
+"Saturday, Aug 12",boxscore,NYY,None,PHA,L,0,2,None,55-52,6, 7.5,Bush,Shocker,None,1:50,D,None,-----,None
+"Monday, Aug 14",boxscore,NYY,None,PHA,W,4,3,None,56-52,6, 6.5,Cullop,Nabors,Fisher,None,D,None,+,None
+"Tuesday, Aug 15",boxscore,NYY,None,PHA,W,6,2,None,57-52,6, 6.5,Shawkey,Williams,None,None,D,None,++,None
+"Wednesday, Aug 16",boxscore,NYY,None,CLE,W,5,3,None,58-52,6, 7.0,Russell,Gould,None,None,D,None,+++,None
+"Thursday, Aug 17",boxscore,NYY,None,CLE,W,5,4,None,59-52,6, 6.0,Shawkey,Morton,None,None,D,None,++++,None
+"Friday, Aug 18",boxscore,NYY,None,CLE,W,4,3,13,60-52,5, 5.0,Shocker,Lambeth,None,None,D,None,+++++,None
+"Saturday, Aug 19",boxscore,NYY,None,CHW,L,1,3,None,60-53,6, 6.0,Cicotte,Mogridge,None,None,D,None,-,None
+"Monday, Aug 21",boxscore,NYY,None,CHW,W,6,2,None,61-53,6, 6.0,Cullop,Scott,None,2:00,D,None,+,None
+"Tuesday, Aug 22",boxscore,NYY,None,CHW,W,7,6,None,62-53,3, 6.0,Shawkey,Cicotte,None,None,D,None,++,None
+"Wednesday, Aug 23",boxscore,NYY,None,CHW,W,5,4,None,63-53,3, 6.0,Fisher,Russell,None,None,D,None,+++,None
+"Thursday, Aug 24",boxscore,NYY,None,SLB,L,4,5,None,63-54,2, 6.5,McCabe,Shawkey,Davenport,None,D,None,-,None
+"Thursday, Aug 24",boxscore,NYY,None,SLB,W,4,2,None,64-54,2, 6.5,Russell,Hamilton,Shawkey,None,D,None,+,1916-07-21 (Wet grounds)
+"Friday, Aug 25",boxscore,NYY,None,SLB,L,2,5,None,64-55,4, 6.5,Weilman,Cullop,None,2:10,D,None,-,None
+"Saturday, Aug 26",boxscore,NYY,None,SLB,W,10,6,None,65-55,3, 5.5,Fisher,Plank,Shawkey,None,D,None,+,None
+"Sunday, Aug 27",boxscore,NYY,@,CLE,L,1,5,None,65-56,4, 6.0,Lambeth,Russell,None,None,D,None,-,1916-09-18 (Schedule change)
+"Tuesday, Aug 29",boxscore,NYY,None,DET,L,1,9,None,65-57,6, 6.0,Coveleski,Cullop,None,None,D,None,--,None
+"Tuesday, Aug 29",boxscore,NYY,None,DET,L,1,4,None,65-58,6, 6.0,Dauss,Mogridge,None,None,D,None,---,1916-08-28 (Rain)
+"Wednesday, Aug 30",boxscore,NYY,None,DET,W,5,2,None,66-58,5, 6.0,Shawkey,James,None,None,D,None,+,None
+"Thursday, Aug 31",boxscore,NYY,None,DET,L,3,7,None,66-59,5, 6.0,Mitchell,Russell,None,None,D,None,-,None
+"Friday, Sep 1",boxscore,NYY,None,BOS,W,7,3,None,67-59,5, 5.0,Cullop,Mays,None,None,D,None,+,None
+"Saturday, Sep 2",boxscore,NYY,None,BOS,L,3,5,None,67-60,6, 6.0,Foster,Mogridge,Leonard,None,D,None,-,None
+"Monday, Sep 4",boxscore,NYY,None,BOS,L,1,7,None,67-61,4, 6.0,Ruth,Russell,None,None,D,None,--,None
+"Monday, Sep 4",boxscore,NYY,None,BOS,W,4,3,None,68-61,4, 6.0,Shawkey,Mays,None,2:27,D,None,+,None
+"Tuesday, Sep 5",boxscore,NYY,@,WSH,L,0,2,None,68-62,5, 6.5,Johnson,Cullop,None,None,D,None,-,None
+"Thursday, Sep 7",boxscore,NYY,@,WSH,L,1,5,None,68-63,5, 7.5,Gallia,Mogridge,None,None,D,None,--,None
+"Thursday, Sep 7",boxscore,NYY,@,WSH,W,3,2,None,69-63,5, 7.5,Fisher,Ayers,Shawkey,None,D,None,+,1916-09-06 (Rain)
+"Friday, Sep 8",boxscore,NYY,@,PHA,L,2,8,None,69-64,5, 8.0,Myers,Russell,None,None,D,None,-,None
+"Saturday, Sep 9",boxscore,NYY,@,PHA,W,4,1,None,70-64,4, 7.0,Shawkey,Johnson,None,None,D,None,+,None
+"Saturday, Sep 9",boxscore,NYY,@,PHA,W,4,0,None,71-64,4, 7.0,Shocker,Bush,None,None,D,None,++,1916-09-11 (Schedule change)
+"Wednesday, Sep 13",boxscore,NYY,@,DET,L,1,4,None,71-65,4, 7.5,Coveleski,Shawkey,Dauss,1:35,D,None,-,None
+"Thursday, Sep 14",boxscore,NYY,@,DET,W,4,2,None,72-65,4, 6.5,Shocker,Mitchell,None,None,D,None,+,None
+"Friday, Sep 15",boxscore,NYY,@,DET,L,2,4,None,72-66,4, 7.5,Dauss,Mogridge,None,None,D,None,-,None
+"Saturday, Sep 16",boxscore,NYY,@,CLE,W,4,3,None,73-66,4, 7.5,Fisher,Bagby,Shawkey,None,D,None,+,None
+"Sunday, Sep 17",boxscore,NYY,@,CLE,L,7,9,None,73-67,4, 8.5,Boehling,Shawkey,None,None,D,None,-,None
+"Tuesday, Sep 19",boxscore,NYY,@,SLB,W,4,3,15,74-67,4, 8.0,Shawkey,Koob,None,None,D,None,+,None
+"Wednesday, Sep 20",boxscore,NYY,@,SLB,L,3,7,None,74-68,4, 9.0,Groom,Fisher,None,None,D,None,-,None
+"Thursday, Sep 21",boxscore,NYY,@,SLB,W,5,4,None,75-68,4, 9.0,Shawkey,Davenport,None,None,D,None,+,None
+"Friday, Sep 22",boxscore,NYY,@,CHW,L,3,6,None,75-69,4, 10.0,Cicotte,Mogridge,None,None,D,None,-,None
+"Saturday, Sep 23",boxscore,NYY,@,CHW,W,7,2,None,76-69,4, 10.0,Shawkey,Russell,None,None,D,None,+,None
+"Sunday, Sep 24",boxscore,NYY,@,CHW,L,1,2,None,76-70,4, 10.0,Williams,Cullop,None,None,D,None,-,None
+"Monday, Sep 25",boxscore,NYY,@,CHW,L,1,5,None,76-71,4, 11.0,Cicotte,Russell,None,None,D,None,--,None
+"Wednesday, Sep 27",boxscore,NYY,@,BOS,L,2,3,10,76-72,5, 12.0,Mays,Shocker,None,None,D,None,---,None
+"Thursday, Sep 28",boxscore,NYY,@,BOS,W,4,2,10,77-72,4, 11.0,Mogridge,Mays,None,None,D,None,+,None
+"Friday, Sep 29",boxscore,NYY,@,BOS,L,0,3,None,77-73,4, 12.0,Ruth,Shawkey,None,None,D,None,-,None
+"Saturday, Sep 30",boxscore,NYY,@,BOS,L,0,1,10,77-74,4, 13.0,Leonard,Cullop,None,None,D,None,--,None
+"Monday, Oct 2",boxscore,NYY,None,WSH,W,5,1,None,78-74,4, 13.0,Shawkey,Thomas,None,None,D,None,+,None
+"Tuesday, Oct 3",boxscore,NYY,None,WSH,T,9,9,11,78-74,4, 12.0,None,None,None,None,D,None,+,None
+"Wednesday, Oct 4",boxscore,NYY,None,WSH,W,4,3,None,79-74,4, 11.0,Russell,Shaw,None,None,D,None,++,None
+"Wednesday, Oct 4",boxscore,NYY,None,WSH,W,5,1,None,80-74,4, 11.0,Shocker,Ayers,None,None,D,None,+++,None

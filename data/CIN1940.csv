@@ -1,0 +1,155 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 18",boxscore,CIN,None,CHC,W,2,1,None,2-0,1,up 0.5,Thompson,Passeau,None,1:48,D,"1,536",++,None
+"Monday, Apr 22",boxscore,CIN,None,STL,W,6,1,None,3-0,1,up 0.5,Walters,McGee,None,1:56,D,"5,197",+++,None
+"Thursday, Apr 25",boxscore,CIN,@,CHC,L,2,4,None,3-1,2, 1.5,Dean,Derringer,None,1:36,D,"5,965",-,None
+"Friday, Apr 26",boxscore,CIN,@,CHC,L,2,6,None,3-2,4, 2.5,Passeau,Thompson,None,2:02,D,"4,895",--,None
+"Saturday, Apr 27",boxscore,CIN,None,PIT,W,3,0,None,4-2,2, 2.5,Walters,Bowman,None,1:56,D,"5,950",+,None
+"Sunday, Apr 28",boxscore,CIN,None,PIT,W,8,2,None,5-2,2, 2.5,Thompson,MacFayden,None,2:12,D,"19,337",++,None
+"Monday, Apr 29",boxscore,CIN,None,PIT,W,3,2,None,6-2,2, 2.0,Derringer,Butcher,None,1:31,D,"1,549",+++,None
+"Tuesday, Apr 30",boxscore,CIN,None,BRO,L,0,3,None,6-3,2, 3.0,Carleton,Turner,None,1:47,D,"10,544",-,None
+"Wednesday, May 1",boxscore,CIN,None,BRO,W,9,2,None,7-3,2, 2.0,Walters,Casey,None,1:44,D,"3,672",+,None
+"Saturday, May 4",boxscore,CIN,None,PHI,W-wo,3,2,11,8-3,2, 1.5,Beggs,Higbe,None,1:30,D,"4,530",++,None
+"Sunday, May 5",boxscore,CIN,None,NYG,W,3,2,None,9-3,2, 1.5,Walters,Schumacher,None,1:49,D,"25,390",+++,None
+"Monday, May 6",boxscore,CIN,None,NYG,W,9,1,None,10-3,2, 1.5,Thompson,Gumbert,None,1:42,D,"4,668",++++,None
+"Tuesday, May 7",boxscore,CIN,None,NYG,W,7,6,None,11-3,2, 0.5,Barrett,Brown,Riddle,2:08,D,"5,667",+++++,None
+"Wednesday, May 8",boxscore,CIN,None,BSN,L,4,10,None,11-4,2, 1.0,Posedel,Derringer,None,1:49,D,"4,301",-,None
+"Thursday, May 9",boxscore,CIN,None,BSN,W,4,1,None,12-4,2, 1.0,Walters,Sullivan,None,2:01,D,"3,450",+,None
+"Saturday, May 11",boxscore,CIN,@,STL,W,12,5,None,13-4,1,up 0.5,Thompson,Lanier,None,2:30,D,"4,079",++,None
+"Sunday, May 12",boxscore,CIN,@,STL,W,7,1,None,14-4,1,up 1.0,Derringer,McGee,None,1:50,D,None,+++,None
+"Sunday, May 12",boxscore,CIN,@,STL,W,13,4,None,15-4,1,up 1.0,Turner,Warneke,None,2:24,D,"18,507",++++,1940-05-10 (Schedule change)
+"Monday, May 13",boxscore,CIN,None,STL,T,8,8,14,15-4,1,up 0.5,None,None,None,3:35,D,"6,606",++++,1940-04-23 (Field flooded)
+"Tuesday, May 14",boxscore,CIN,@,BRO,L-wo,5,6,13,15-5,2, 0.5,Pressnell,Beggs,None,3:11,D,"21,533",-,None
+"Wednesday, May 15",boxscore,CIN,@,BRO,W,5,2,None,16-5,1,up 0.5,Thompson,Wyatt,None,2:14,D,"18,403",+,None
+"Friday, May 17",boxscore,CIN,@,PHI,W,7,2,11,17-5,1,up 0.5,Moore,Brown,Riddle,2:35,D,"1,731",++,None
+"Saturday, May 18",boxscore,CIN,@,PHI,L,3,8,None,17-6,1,up 0.5,Mulcahy,Derringer,None,1:48,D,"8,000",-,None
+"Sunday, May 19",boxscore,CIN,@,BSN,W,8,4,None,18-6,1,up 1.5,Walters,Strincevich,None,1:47,D,"12,983",+,None
+"Monday, May 20",boxscore,CIN,@,BSN,L,4,13,None,18-7,1,up 1.5,Errickson,Thompson,None,1:52,D,"1,512",-,None
+"Wednesday, May 22",boxscore,CIN,@,NYG,L,4,6,None,18-8,1, Tied,Hubbell,Derringer,None,1:32,D,"4,997",--,None
+"Saturday, May 25",boxscore,CIN,None,STL,W,7,2,None,19-8,1, Tied,Walters,Warneke,None,1:55,D,None,+,None
+"Saturday, May 25",boxscore,CIN,None,STL,L,1,5,None,19-9,1, Tied,McGee,Thompson,None,1:58,D,"19,730",-,1940-04-24 (Field flooded)
+"Sunday, May 26",boxscore,CIN,None,STL,W,4,0,None,20-9,1, Tied,Derringer,Cooper,None,1:37,D,"19,490",+,None
+"Monday, May 27",boxscore,CIN,@,PIT,W,2,1,None,21-9,1,up 0.5,Beggs,Brown,None,2:00,D,None,++,None
+"Monday, May 27",boxscore,CIN,@,PIT,W,7,3,None,22-9,1,up 0.5,Turner,Bauers,None,1:53,D,"6,258",+++,1940-04-19 (Rain)
+"Tuesday, May 28",boxscore,CIN,@,PIT,L,2,5,None,22-10,2, 0.5,Butcher,Thompson,None,1:49,D,"1,359",-,None
+"Wednesday, May 29",boxscore,CIN,@,PIT,W,4,0,None,23-10,1, Tied,Walters,Bowman,None,1:40,D,"2,259",+,None
+"Thursday, May 30",boxscore,CIN,@,CHC,W,4,2,None,24-10,1,up 2.0,Derringer,Lee,None,1:38,D,None,++,None
+"Thursday, May 30",boxscore,CIN,@,CHC,W,9,8,12,25-10,1,up 2.0,Beggs,Passeau,None,3:00,D,"30,828",+++,None
+"Saturday, Jun 1",boxscore,CIN,None,BSN,W,3,2,None,26-10,1,up 3.0,Thompson,Posedel,None,1:48,D,"4,616",++++,None
+"Sunday, Jun 2",boxscore,CIN,None,BSN,W,11,1,None,27-10,1,up 2.0,Walters,Piechota,None,1:50,D,None,+++++,None
+"Sunday, Jun 2",boxscore,CIN,None,BSN,L,0,2,None,27-11,1,up 2.0,Errickson,Turner,None,1:50,D,"28,067",-,None
+"Monday, Jun 3",boxscore,CIN,None,BSN,W,3,2,None,28-11,1,up 2.0,Derringer,Sullivan,None,1:20,D,"3,006",+,None
+"Tuesday, Jun 4",boxscore,CIN,None,NYG,L,4,5,None,28-12,1,up 1.0,Hubbell,Moore,None,2:14,D,"6,422",-,None
+"Wednesday, Jun 5",boxscore,CIN,None,NYG,W,7,2,None,29-12,1,up 1.5,Thompson,Gumbert,None,1:59,N,"25,150",+,None
+"Friday, Jun 7",boxscore,CIN,None,BRO,L,2,4,11,29-13,1, Tied,Casey,Walters,None,2:31,D,"8,601",-,None
+"Saturday, Jun 8",boxscore,CIN,None,BRO,W,23,2,None,30-13,1,up 1.0,Derringer,Fitzsimmons,None,2:19,D,"10,075",+,None
+"Sunday, Jun 9",boxscore,CIN,None,BRO,L,1,9,None,30-14,1,up 1.0,Carleton,Turner,None,1:58,D,None,-,None
+"Sunday, Jun 9",boxscore,CIN,None,BRO,W,6,2,None,31-14,1,up 1.0,Thompson,Wyatt,None,2:09,D,"34,909",+,None
+"Tuesday, Jun 11",boxscore,CIN,None,PHI,L,1,4,None,31-15,1, Tied,Beck,Walters,None,1:52,D,"3,623",-,None
+"Wednesday, Jun 12",boxscore,CIN,None,PHI,W,2,1,None,32-15,1, Tied,Derringer,Higbe,None,1:37,N,"17,289",+,None
+"Friday, Jun 14",boxscore,CIN,@,BRO,L,0,2,None,32-16,2, 1.0,Hamlin,Thompson,None,1:31,D,"17,757",-,None
+"Saturday, Jun 15",boxscore,CIN,@,BRO,L,6,11,None,32-17,2, 2.0,Pressnell,Walters,None,2:00,D,"16,155",--,None
+"Sunday, Jun 16",boxscore,CIN,@,BRO,W,1,0,None,33-17,1, Tied,Derringer,Wyatt,None,1:46,D,None,+,None
+"Sunday, Jun 16",boxscore,CIN,@,BRO,W,5,2,None,34-17,1, Tied,Turner,Davis,None,1:43,None,"30,005",++,None
+"Monday, Jun 17",boxscore,CIN,@,PHI,W,6,2,None,35-17,1,up 1.0,Moore,Beck,None,1:55,D,"1,000",+++,None
+"Tuesday, Jun 18",boxscore,CIN,@,PHI,L-wo,1,3,None,35-18,1,up 1.0,Mulcahy,Walters,None,1:43,D,"10,381",-,None
+"Thursday, Jun 20",boxscore,CIN,@,PHI,L-wo,3,4,12,35-19,1, Tied,Higbe,Beggs,None,2:31,D,"7,421",--,None
+"Friday, Jun 21",boxscore,CIN,@,NYG,L,3,4,None,35-20,2, 1.0,Gumbert,Derringer,None,1:37,D,"7,481",---,None
+"Saturday, Jun 22",boxscore,CIN,@,NYG,W,3,1,None,36-20,1, Tied,Turner,Lohrman,None,1:43,D,"15,075",+,None
+"Sunday, Jun 23",boxscore,CIN,@,NYG,W,7,4,None,37-20,1,up 1.5,Shoffner,Hubbell,Beggs,2:05,D,None,++,None
+"Sunday, Jun 23",boxscore,CIN,@,NYG,W,2,0,None,38-20,1,up 1.5,Thompson,Dean,None,1:44,D,"52,657",+++,1940-05-23 (Wet grounds)
+"Friday, Jun 28",boxscore,CIN,None,CHC,L,2,3,None,38-21,1,up 0.5,Mooty,Derringer,None,1:31,N,"26,834",-,None
+"Saturday, Jun 29",boxscore,CIN,None,CHC,W,4,1,None,39-21,1,up 0.5,Turner,Passeau,None,1:45,D,"6,428",+,None
+"Sunday, Jun 30",boxscore,CIN,None,CHC,W,7,4,None,40-21,1,up 1.5,Walters,Page,None,2:09,D,None,++,None
+"Sunday, Jun 30",boxscore,CIN,None,CHC,W,7,6,None,41-21,1,up 1.5,Riddle,French,None,2:07,D,"26,960",+++,1940-04-17 (Rain)
+"Monday, Jul 1",boxscore,CIN,@,STL,L,2,3,None,41-22,1,up 0.5,Warneke,Moore,None,2:00,D,"1,706",-,None
+"Tuesday, Jul 2",boxscore,CIN,@,STL,L,0,4,None,41-23,2, 0.5,McGee,Derringer,None,1:53,N,"14,944",--,None
+"Thursday, Jul 4",boxscore,CIN,None,PIT,W,9,1,None,42-23,2, 1.0,Walters,Klinger,None,1:47,D,None,+,None
+"Thursday, Jul 4",boxscore,CIN,None,PIT,W,3,1,None,43-23,2, 1.0,Thompson,Butcher,None,1:54,D,"19,399",++,None
+"Friday, Jul 5",boxscore,CIN,None,PIT,W-wo,5,4,None,44-23,2, 1.0,Beggs,MacFayden,None,2:10,D,"5,682",+++,None
+"Saturday, Jul 6",boxscore,CIN,@,CHC,W,4,0,None,45-23,2, 1.0,Derringer,Mooty,None,1:35,D,"12,939",++++,None
+"Sunday, Jul 7",boxscore,CIN,@,CHC,W,4,3,None,46-23,1,up 0.5,Beggs,Lee,None,2:07,D,"23,193",+++++,None
+"Thursday, Jul 11",boxscore,CIN,None,BRO,W,6,5,None,47-23,1,up 1.5,Walters,Pressnell,None,2:35,N,"28,465",++++++,None
+"Saturday, Jul 13",boxscore,CIN,None,BRO,W,7,6,None,48-23,1,up 1.5,Derringer,Carleton,None,2:09,D,None,+++++++,None
+"Saturday, Jul 13",boxscore,CIN,None,BRO,L,1,3,None,48-24,1,up 1.5,Davis,Thompson,None,2:03,D,"27,466",-,1940-05-02 (Cold)
+"Sunday, Jul 14",boxscore,CIN,None,PHI,W,3,2,None,49-24,1,up 2.5,Turner,Higbe,None,1:50,D,None,+,None
+"Sunday, Jul 14",boxscore,CIN,None,PHI,W,7,1,None,50-24,1,up 2.5,Moore,Beck,None,2:04,D,"17,251",++,1940-05-03 (Rain)
+"Monday, Jul 15",boxscore,CIN,None,PHI,W,3,2,None,51-24,1,up 3.0,Walters,Pearson,None,1:44,D,"3,015",+++,None
+"Wednesday, Jul 17",boxscore,CIN,None,BSN,W,4,3,None,52-24,1,up 3.5,Derringer,Salvo,None,1:49,N,"21,361",++++,None
+"Friday, Jul 19",boxscore,CIN,None,BSN,L,7,8,None,52-25,1,up 3.0,Sullivan,Thompson,Javery,2:24,D,"4,802",-,None
+"Saturday, Jul 20",boxscore,CIN,None,NYG,W,5,1,None,53-25,1,up 4.0,Walters,Lohrman,None,1:41,D,"8,567",+,None
+"Sunday, Jul 21",boxscore,CIN,None,NYG,W,6,1,None,54-25,1,up 5.0,Derringer,Hudlin,None,1:39,D,None,++,None
+"Sunday, Jul 21",boxscore,CIN,None,NYG,W,4,2,None,55-25,1,up 5.0,Turner,Gumbert,None,1:51,D,"33,356",+++,None
+"Tuesday, Jul 23",boxscore,CIN,@,BRO,W,4,3,11,56-25,1,up 7.0,Beggs,Wyatt,None,2:50,D,None,++++,None
+"Tuesday, Jul 23",boxscore,CIN,@,BRO,W,9,2,None,57-25,1,up 7.0,Moore,Davis,None,2:25,None,None,+++++,1940-05-16 (Rain)
+"Wednesday, Jul 24",boxscore,CIN,@,BRO,W,6,3,None,58-25,1,up 8.0,Walters,Carleton,None,1:49,N,"30,102",++++++,None
+"Friday, Jul 26",boxscore,CIN,@,PHI,W,9,5,None,59-25,1,up 8.5,Derringer,Higbe,Beggs,2:12,D,"6,211",+++++++,None
+"Saturday, Jul 27",boxscore,CIN,@,PHI,L,3,5,None,59-26,1,up 9.0,Mulcahy,Moore,None,1:44,D,None,-,None
+"Sunday, Jul 28",boxscore,CIN,@,PHI,W,7,2,None,60-26,1,up 8.0,Turner,Beck,None,2:00,D,None,+,None
+"Sunday, Jul 28",boxscore,CIN,@,PHI,L,1,4,None,60-27,1,up 8.0,Blanton,Walters,None,1:50,D,"10,160",-,1940-07-16 (Rain; Site change)
+"Monday, Jul 29",boxscore,CIN,@,NYG,L-wo,3,4,None,60-28,1,up 7.0,Lynn,Moore,None,2:18,D,"4,521",--,None
+"Tuesday, Jul 30",boxscore,CIN,@,NYG,W,6,3,None,61-28,1,up 8.0,Derringer,Schumacher,Beggs,2:20,D,"5,887",+,None
+"Wednesday, Jul 31",boxscore,CIN,@,NYG,L,4,5,None,61-29,1,up 7.5,Dean,Walters,None,1:53,N,"30,334",-,None
+"Friday, Aug 2",boxscore,CIN,@,BSN,L,3,10,None,61-30,1,up 6.0,Strincevich,Turner,None,2:07,D,None,--,None
+"Friday, Aug 2",boxscore,CIN,@,BSN,L-wo,3,4,12,61-31,1,up 6.0,Salvo,Moore,None,3:04,D,"4,069",---,1940-05-21 (Cold)
+"Saturday, Aug 3",boxscore,CIN,@,BSN,W,3,1,None,62-31,1,up 6.5,Derringer,Posedel,None,1:33,D,None,+,None
+"Saturday, Aug 3",boxscore,CIN,@,BSN,L,2,5,None,62-32,1,up 6.5,Sullivan,Hutchings,None,1:39,D,"7,895",-,1940-06-24 (Rain)
+"Sunday, Aug 4",boxscore,CIN,@,BSN,L,3,5,None,62-33,1,up 6.5,Errickson,Walters,None,1:43,D,None,--,None
+"Sunday, Aug 4",boxscore,CIN,@,BSN,W,12,9,None,63-33,1,up 6.5,Turner,Strincevich,None,2:30,D,"14,909",+,1940-06-25 (Rain)
+"Wednesday, Aug 7",boxscore,CIN,None,CHC,L,3,5,10,63-34,1,up 5.0,Lee,Derringer,Passeau,2:04,D,"8,582",-,None
+"Thursday, Aug 8",boxscore,CIN,None,CHC,W,3,1,None,64-34,1,up 5.0,Walters,French,None,1:42,D,"7,848",+,None
+"Friday, Aug 9",boxscore,CIN,None,STL,W,7,2,None,65-34,1,up 5.0,Thompson,McGee,None,2:04,N,"28,325",++,None
+"Saturday, Aug 10",boxscore,CIN,None,STL,W,5,0,None,66-34,1,up 6.0,Moore,Bowman,None,1:59,D,"9,091",+++,None
+"Sunday, Aug 11",boxscore,CIN,None,STL,L,2,3,None,66-35,1,up 5.0,Cooper,Derringer,None,1:34,D,None,-,None
+"Sunday, Aug 11",boxscore,CIN,None,STL,L,1,3,None,66-36,1,up 5.0,Warneke,Turner,None,2:05,D,"28,762",--,None
+"Monday, Aug 12",boxscore,CIN,@,PIT,L,2,4,None,66-37,1,up 4.5,Butcher,Walters,None,1:47,N,"42,254",---,None
+"Tuesday, Aug 13",boxscore,CIN,@,PIT,W,4,3,10,67-37,1,up 5.0,Beggs,Heintzelman,None,2:38,D,"6,810",+,None
+"Thursday, Aug 15",boxscore,CIN,@,CHC,L,0,1,None,67-38,1,up 5.0,Passeau,Derringer,None,1:35,D,"6,944",-,None
+"Friday, Aug 16",boxscore,CIN,@,CHC,W,9,4,None,68-38,1,up 6.5,Moore,Olsen,None,2:27,D,None,+,None
+"Friday, Aug 16",boxscore,CIN,@,CHC,W,6,3,None,69-38,1,up 6.5,Hutchings,Lee,None,2:01,D,"19,001",++,1940-08-14 (Rain)
+"Sunday, Aug 18",boxscore,CIN,@,STL,L,1,3,None,69-39,1,up 4.5,Cooper,Walters,None,2:00,D,None,-,None
+"Sunday, Aug 18",boxscore,CIN,@,STL,L,4,5,None,69-40,1,up 4.5,McGee,Turner,Shoun,2:27,D,"15,836",--,1940-07-03 (Schedule change)
+"Monday, Aug 19",boxscore,CIN,None,NYG,L,2,9,None,69-41,1,up 4.0,Hubbell,Derringer,None,2:13,D,"7,447",---,None
+"Tuesday, Aug 20",boxscore,CIN,None,NYG,W,3,2,None,70-41,1,up 5.5,Thompson,Lohrman,None,1:51,D,"6,360",+,None
+"Wednesday, Aug 21",boxscore,CIN,None,NYG,L,4,5,11,70-42,1,up 5.5,Brown,Moore,None,2:38,D,"7,647",-,None
+"Thursday, Aug 22",boxscore,CIN,None,BSN,W,3,2,None,71-42,1,up 6.5,Walters,Strincevich,None,1:59,D,"5,179",+,None
+"Friday, Aug 23",boxscore,CIN,None,BSN,L,2,7,None,71-43,1,up 6.5,Tobin,Derringer,None,1:54,D,"4,519",-,None
+"Saturday, Aug 24",boxscore,CIN,None,BSN,W,5,0,None,72-43,1,up 6.5,Thompson,Errickson,None,2:00,D,"7,246",+,None
+"Sunday, Aug 25",boxscore,CIN,None,PHI,W,3,2,None,73-43,1,up 7.5,Turner,Beck,None,2:01,D,None,++,None
+"Sunday, Aug 25",boxscore,CIN,None,PHI,W,6,5,None,74-43,1,up 7.5,Hutchings,Mulcahy,None,1:53,D,"23,544",+++,None
+"Monday, Aug 26",boxscore,CIN,None,PHI,W,3,2,None,75-43,1,up 7.5,Walters,Smoll,None,1:36,D,None,++++,None
+"Monday, Aug 26",boxscore,CIN,None,PHI,L,1,6,None,75-44,1,up 7.5,Johnson,Moore,None,2:08,D,"7,024",-,1940-08-27 (Rain)
+"Thursday, Aug 29",boxscore,CIN,None,BRO,W,9,3,None,76-44,1,up 8.5,Derringer,Wyatt,None,1:41,D,"11,768",+,None
+"Friday, Aug 30",boxscore,CIN,None,BRO,L,2,6,None,76-45,1,up 7.5,Hamlin,Thompson,None,2:13,D,"10,652",-,1940-08-28 (Rain)
+"Saturday, Aug 31",boxscore,CIN,None,CHC,W-wo,5,4,None,77-45,1,up 7.5,Beggs,Page,None,1:54,D,"7,549",+,None
+"Sunday, Sep 1",boxscore,CIN,None,CHC,W,6,5,None,78-45,1,up 7.5,Turner,Lee,Beggs,1:59,D,None,++,None
+"Sunday, Sep 1",boxscore,CIN,None,CHC,W,2,1,None,79-45,1,up 7.5,Moore,French,Beggs,1:59,D,"29,778",+++,1940-08-06 (Rain)
+"Monday, Sep 2",boxscore,CIN,None,STL,W,2,1,None,80-45,1,up 7.5,Derringer,Cooper,None,1:52,D,None,++++,None
+"Monday, Sep 2",boxscore,CIN,None,STL,L,4,7,None,80-46,1,up 7.5,Warneke,Thompson,None,2:23,D,"27,863",-,None
+"Tuesday, Sep 3",boxscore,CIN,None,STL,W,4,3,None,81-46,1,up 8.0,Beggs,Shoun,None,2:18,D,"8,250",+,None
+"Wednesday, Sep 4",boxscore,CIN,None,PIT,W-wo,3,2,12,82-46,1,up 8.0,Beggs,Lanahan,None,2:48,D,"30,543",++,None
+"Thursday, Sep 5",boxscore,CIN,None,PIT,W,6,3,None,83-46,1,up 8.0,Vander Meer,Lanning,None,2:12,D,"7,661",+++,None
+"Saturday, Sep 7",boxscore,CIN,@,CHC,W,7,6,None,84-46,1,up 8.0,Thompson,Root,None,2:09,D,"7,605",++++,None
+"Sunday, Sep 8",boxscore,CIN,@,CHC,L,1,3,None,84-47,1,up 6.5,Olsen,Turner,None,1:48,D,"20,613",-,None
+"Wednesday, Sep 11",boxscore,CIN,@,BSN,W,8,0,None,85-47,1,up 9.0,Walters,Salvo,None,1:35,D,None,+,None
+"Wednesday, Sep 11",boxscore,CIN,@,BSN,W,3,1,None,86-47,1,up 9.0,Derringer,Strincevich,None,1:57,D,"4,042",++,1940-06-26 (Rain)
+"Thursday, Sep 12",boxscore,CIN,@,NYG,W,9,4,None,87-47,1,up 8.5,Thompson,Lohrman,None,2:02,D,"3,966",+++,None
+"Friday, Sep 13",boxscore,CIN,@,NYG,W,5,2,None,88-47,1,up 8.5,Beggs,Hubbell,None,2:06,D,"3,576",++++,None
+"Saturday, Sep 14",boxscore,CIN,@,NYG,W,3,2,None,89-47,1,up 8.0,Turner,Schumacher,Beggs,1:42,D,"5,758",+++++,None
+"Sunday, Sep 15",boxscore,CIN,@,BRO,W,13,3,None,90-47,1,up 9.0,Walters,Davis,None,2:04,D,None,++++++,None
+"Sunday, Sep 15",boxscore,CIN,@,BRO,T,1,1,11,90-47,1,up 9.0,None,None,None,2:20,D,"33,339",++++++,None
+"Monday, Sep 16",boxscore,CIN,@,BRO,W,4,3,10,91-47,1,up10.0,Beggs,Davis,None,2:22,D,"6,782",+++++++,None
+"Tuesday, Sep 17",boxscore,CIN,@,PHI,W,2,1,None,92-47,1,up11.0,Moore,Higbe,None,1:54,D,"1,197",++++++++,None
+"Wednesday, Sep 18",boxscore,CIN,@,PHI,W,4,3,13,93-47,1,up12.0,Vander Meer,Mulcahy,Beggs,2:51,D,"2,093",+++++++++,None
+"Thursday, Sep 19",boxscore,CIN,@,PHI,W,4,1,None,94-47,1,up12.5,Derringer,Podgajny,None,1:24,D,"1,094",++++++++++,None
+"Saturday, Sep 21",boxscore,CIN,@,PIT,W,8,1,None,95-47,1,up13.0,Walters,Butcher,None,1:50,D,None,+++++++++++,None
+"Saturday, Sep 21",boxscore,CIN,@,PIT,L,7,8,10,95-48,1,up13.0,MacFayden,Riddle,None,2:33,D,"6,395",-,1940-04-20 (Rain)
+"Sunday, Sep 22",boxscore,CIN,@,PIT,W,2,1,None,96-48,1,up12.0,Turner,Swigart,None,2:01,D,None,+,None
+"Sunday, Sep 22",boxscore,CIN,@,PIT,L,1,8,None,96-49,1,up12.0,Lanning,Vander Meer,None,1:59,D,"14,865",-,1940-04-21 (Rain)
+"Monday, Sep 23",boxscore,CIN,@,PIT,L,9,12,None,96-50,1,up11.0,Heintzelman,Beggs,Brown,2:19,D,"2,098",--,None
+"Wednesday, Sep 25",boxscore,CIN,@,STL,W,5,0,None,97-50,1,up10.5,Thompson,McGee,None,1:52,D,None,+,None
+"Wednesday, Sep 25",boxscore,CIN,@,STL,L,3,4,None,97-51,1,up10.5,Hutchinson,Walters,Cooper,1:55,D,"1,898",-,1940-08-17 (Rain)
+"Thursday, Sep 26",boxscore,CIN,@,STL,W,4,3,None,98-51,1,up11.5,Vander Meer,Doyle,None,1:53,D,None,+,None
+"Thursday, Sep 26",boxscore,CIN,@,STL,L,1,5,None,98-52,1,up11.5,Kimball,Riddle,None,1:42,D,"1,418",-,1940-09-24 (Rain)
+"Friday, Sep 27",boxscore,CIN,None,PIT,L,3,4,10,98-53,1,up11.0,Sewell,Moore,None,2:14,D,"3,173",--,None
+"Saturday, Sep 28",boxscore,CIN,None,PIT,W,6,5,None,99-53,1,up12.0,Turner,Dietz,Moore,1:51,D,"6,603",+,None
+"Sunday, Sep 29",boxscore,CIN,None,PIT,W,11,3,None,100-53,1,up12.0,Walters,Rambert,Vander Meer,2:07,D,"13,860",++,None

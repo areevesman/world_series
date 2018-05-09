@@ -1,0 +1,155 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 15",boxscore,STL,None,CHC,W,3,2,None,1-1,3, 1.0,Parmelee,Lee,None,2:01,D,None,+,None
+"Thursday, Apr 16",boxscore,STL,None,CHC,L,3,5,None,1-2,5, 2.0,French,Dean,None,1:53,D,None,-,None
+"Sunday, Apr 19",boxscore,STL,@,PIT,W,7,3,None,2-2,2, 2.5,Hallahan,Lucas,None,2:33,D,"17,500",+,None
+"Monday, Apr 20",boxscore,STL,None,CIN,W,8,7,None,3-2,2, 1.5,Dean,Derringer,None,1:57,D,"2,350",++,None
+"Wednesday, Apr 22",boxscore,STL,@,CIN,L,6,7,None,3-3,3, 3.0,Hollingsworth,Parmelee,Schott,2:47,D,"1,318",-,None
+"Thursday, Apr 23",boxscore,STL,@,CIN,L,6,8,10,3-4,6, 3.0,Derringer,Ryba,None,2:22,D,"3,347",--,None
+"Saturday, Apr 25",boxscore,STL,None,PIT,L,5,12,None,3-5,7, 3.5,Weaver,Hallahan,None,2:20,D,None,---,None
+"Sunday, Apr 26",boxscore,STL,None,PIT,W,3,2,10,4-5,5, 3.0,Dean,Swift,None,1:57,D,"5,500",+,None
+"Wednesday, Apr 29",boxscore,STL,None,NYG,W,2,1,17,5-5,4, 2.0,Parmelee,Hubbell,None,3:41,D,None,++,None
+"Thursday, Apr 30",boxscore,STL,None,NYG,W,3,2,None,6-5,3, 1.0,Dean,Smith,None,1:37,D,None,+++,None
+"Friday, May 1",boxscore,STL,None,BRO,W,12,0,None,7-5,2, 0.5,Dean,Earnshaw,None,1:47,D,"3,500",++++,None
+"Saturday, May 2",boxscore,STL,None,BRO,W,4,0,None,8-5,1, Tied,Walker,Frankhouse,None,1:44,D,"3,000",+++++,None
+"Sunday, May 3",boxscore,STL,None,BSN,W,6,2,None,9-5,1,up 0.5,Hallahan,Brown,Winford,1:56,D,"7,500",++++++,None
+"Monday, May 4",boxscore,STL,None,BSN,L,6,7,None,9-6,1,up 0.5,Benge,Parmelee,Smith,2:21,D,"1,500",-,None
+"Tuesday, May 5",boxscore,STL,None,BSN,L,0,1,None,9-7,2, 0.5,MacFayden,Dean,None,1:40,D,"1,500",--,None
+"Wednesday, May 6",boxscore,STL,None,PHI,W,3,2,None,10-7,2, 0.5,Dean,Walters,None,1:32,D,None,+,None
+"Thursday, May 7",boxscore,STL,None,PHI,W,3,2,None,11-7,2, 0.5,Walker,Jorgens,None,1:56,D,None,++,None
+"Friday, May 8",boxscore,STL,@,CHC,W,11,9,None,12-7,1,up 0.5,Ryba,Kowalik,Dean,2:34,D,None,+++,None
+"Saturday, May 9",boxscore,STL,@,CHC,W,4,2,10,13-7,1,up 1.0,Parmelee,Root,Walker,2:24,D,"15,096",++++,None
+"Sunday, May 10",boxscore,STL,@,CHC,W,5,1,5,14-7,1,up 2.0,Dean,Carleton,None,1:07,D,"29,500",+++++,None
+"Tuesday, May 12",boxscore,STL,@,BRO,L,2,5,None,14-8,1,up 1.5,Brandt,Dean,Butcher,1:50,D,"7,500",-,None
+"Thursday, May 14",boxscore,STL,@,BRO,W,12,4,None,15-8,1,up 1.5,Walker,Frankhouse,None,2:17,D,"6,700",+,None
+"Friday, May 15",boxscore,STL,@,BSN,L,5,7,None,15-9,1,up 0.5,Chaplin,Parmelee,Smith,2:02,D,"7,594",-,None
+"Saturday, May 16",boxscore,STL,@,BSN,W,7,5,None,16-9,1,up 0.5,Heusser,Lanning,None,1:50,D,"6,610",+,None
+"Sunday, May 17",boxscore,STL,@,PHI,W,10,3,None,17-9,1,up 0.5,Dean,Davis,None,1:50,D,None,++,None
+"Monday, May 18",boxscore,STL,@,PHI,W,11,6,None,18-9,1,up 0.5,Ryba,Jorgens,Dean,2:13,D,None,+++,None
+"Wednesday, May 20",boxscore,STL,@,NYG,L,7,10,None,18-10,2, 0.5,Schumacher,Parmelee,None,2:38,D,"17,000",-,None
+"Thursday, May 21",boxscore,STL,@,NYG,W,4,2,None,19-10,1,up 0.5,Dean,Smith,None,1:51,D,"20,000",+,None
+"Friday, May 22",boxscore,STL,@,PIT,W,11,4,None,20-10,1,up 1.5,Dean,Tising,None,2:03,D,None,++,1936-04-17 (Cold)
+"Saturday, May 23",boxscore,STL,None,CHC,L,2,7,None,20-11,1,up 0.5,Warneke,Walker,Lee,2:33,D,None,-,None
+"Sunday, May 24",boxscore,STL,None,CHC,W,7,1,None,21-11,1,up 0.5,Parmelee,Davis,None,2:03,D,"22,500",+,None
+"Monday, May 25",boxscore,STL,None,CHC,W,2,1,None,22-11,1,up 0.5,Dean,Lee,None,1:33,D,None,++,None
+"Tuesday, May 26",boxscore,STL,None,PIT,W,6,2,None,23-11,1,up 1.0,Dean,Blanton,None,1:50,D,None,+++,None
+"Tuesday, May 26",boxscore,STL,None,PIT,W,6,2,None,24-11,1,up 1.0,Winford,Birkofer,None,1:51,D,None,++++,1936-04-27 (Rain)
+"Wednesday, May 27",boxscore,STL,None,PIT,L,2,11,None,24-12,1, Tied,Swift,Hallahan,None,2:04,D,None,-,None
+"Thursday, May 28",boxscore,STL,None,PIT,L,2,7,None,24-13,1,up 0.5,Weaver,Walker,None,2:06,D,None,--,None
+"Friday, May 29",boxscore,STL,None,PIT,W,9,7,None,25-13,1,up 0.5,Dean,Bush,None,2:31,D,None,+,None
+"Saturday, May 30",boxscore,STL,None,CIN,L,1,10,None,25-14,1,up 1.5,Hollingsworth,Dean,None,2:06,D,None,-,None
+"Saturday, May 30",boxscore,STL,None,CIN,W,7,4,None,26-14,1,up 1.5,Winford,Derringer,None,1:53,D,None,+,None
+"Sunday, May 31",boxscore,STL,None,CIN,W,8,7,12,27-14,1,up 2.5,Dean,Hilcher,None,3:05,D,None,++,None
+"Tuesday, Jun 2",boxscore,STL,None,BRO,W,5,4,None,28-14,1,up 3.0,Dean,Baker,Heusser,2:15,D,"2,600",+++,None
+"Wednesday, Jun 3",boxscore,STL,None,BRO,W,7,3,None,29-14,1,up 3.0,Parmelee,Earnshaw,None,2:15,D,None,++++,None
+"Thursday, Jun 4",boxscore,STL,None,BRO,L,3,4,None,29-15,1,up 3.0,Brandt,Dean,None,2:27,D,"2,300",-,None
+"Friday, Jun 5",boxscore,STL,None,NYG,W,9,2,None,30-15,1,up 4.0,Dean,Gumbert,None,1:55,D,"15,000",+,None
+"Saturday, Jun 6",boxscore,STL,None,NYG,L,3,4,None,30-16,1,up 2.0,Hubbell,Munns,None,2:07,D,None,-,None
+"Saturday, Jun 6",boxscore,STL,None,NYG,L,0,7,7,30-17,1,up 2.0,Smith,Parmelee,None,1:42,D,"27,000",--,1936-04-28 (Rain)
+"Sunday, Jun 7",boxscore,STL,None,NYG,W,6,3,None,31-17,1,up 3.0,Dean,Schumacher,None,2:05,D,None,+,None
+"Tuesday, Jun 9",boxscore,STL,None,BSN,W,7,5,None,32-17,1,up 4.5,Walker,Lanning,Heusser,2:04,D,None,++,None
+"Thursday, Jun 11",boxscore,STL,None,PHI,L,4,12,None,32-18,1,up 3.5,Passeau,Munns,None,2:30,D,None,-,None
+"Friday, Jun 12",boxscore,STL,None,PHI,W,3,2,11,33-18,1,up 3.5,Parmelee,Walters,None,2:21,D,None,+,None
+"Saturday, Jun 13",boxscore,STL,None,PHI,W,7,1,None,34-18,1,up 3.5,Dean,Kelleher,None,1:48,D,None,++,None
+"Sunday, Jun 14",boxscore,STL,None,PHI,W,12,10,None,35-18,1,up 3.5,Walker,Passeau,Dean,2:25,D,None,+++,None
+"Tuesday, Jun 16",boxscore,STL,@,BSN,L,4,10,None,35-19,1,up 2.5,Chaplin,Winford,None,1:55,D,"3,000",-,None
+"Wednesday, Jun 17",boxscore,STL,@,BSN,L,6,9,None,35-20,1,up 2.0,Cantwell,Dean,None,2:06,D,"17,711",--,None
+"Wednesday, Jun 17",boxscore,STL,@,BSN,W,10,2,None,36-20,1,up 2.0,Parmelee,Benge,Munns,2:20,D,"17,711",+,None
+"Thursday, Jun 18",boxscore,STL,@,BSN,L,0,4,None,36-21,1,up 1.5,Smith,Walker,None,1:41,D,"2,000",-,None
+"Friday, Jun 19",boxscore,STL,@,NYG,W,7,5,None,37-21,1,up 2.0,Dean,Schumacher,None,2:36,D,"12,000",+,None
+"Saturday, Jun 20",boxscore,STL,@,NYG,L,6,7,None,37-22,1,up 1.0,Hubbell,Munns,Coffman,2:16,D,None,-,None
+"Sunday, Jun 21",boxscore,STL,@,NYG,L,4,6,None,37-23,1,up 0.5,Smith,Heusser,Fitzsimmons,2:25,D,"30,333",--,None
+"Monday, Jun 22",boxscore,STL,@,PHI,W,8,6,None,38-23,1,up 1.5,Haines,Passeau,Dean,2:36,D,None,+,None
+"Tuesday, Jun 23",boxscore,STL,@,PHI,W,3,2,None,39-23,1,up 1.5,Heusser,Bowman,Dean,2:05,D,None,++,None
+"Thursday, Jun 25",boxscore,STL,@,PHI,L,4,13,None,39-24,1,up 0.5,Kowalik,Dean,Johnson,2:09,D,None,-,None
+"Thursday, Jun 25",boxscore,STL,@,PHI,W,13,4,None,40-24,1,up 0.5,Haines,Jorgens,None,2:00,D,"14,000",+,1936-05-19 (Rain)
+"Friday, Jun 26",boxscore,STL,@,BRO,W,6,1,None,41-24,1,up 0.5,Winford,Butcher,None,2:30,D,"2,500",++,None
+"Sunday, Jun 28",boxscore,STL,@,BRO,L,1,5,None,41-25,2, 0.5,Frankhouse,Dean,None,1:54,D,"6,000",-,None
+"Tuesday, Jun 30",boxscore,STL,@,PIT,W,2,1,None,42-25,1,up 1.0,Haines,Brown,None,2:05,D,None,+,None
+"Tuesday, Jun 30",boxscore,STL,@,PIT,W,4,3,None,43-25,1,up 1.0,Rhem,Blanton,Dean,2:18,D,"20,000",++,1936-04-18 (Cold)
+"Wednesday, Jul 1",boxscore,STL,@,PIT,L,4,9,None,43-26,1,up 0.5,Lucas,Walker,Swift,2:15,D,None,-,None
+"Thursday, Jul 2",boxscore,STL,@,PIT,W,4,2,None,44-26,1,up 0.5,Dean,Weaver,None,2:13,D,None,+,None
+"Saturday, Jul 4",boxscore,STL,@,CIN,L,2,3,None,44-27,2, 0.5,Schott,Winford,Brennan,2:01,D,None,-,None
+"Saturday, Jul 4",boxscore,STL,@,CIN,L,9,10,10,44-28,2, 0.5,Frey,Dean,None,2:26,D,"28,411",--,None
+"Sunday, Jul 5",boxscore,STL,@,CIN,W,8,6,None,45-28,1,up 1.0,Heusser,Derringer,Winford,2:32,D,None,+,None
+"Sunday, Jul 5",boxscore,STL,@,CIN,W,17,7,None,46-28,1,up 1.0,Rhem,Stine,Heusser,2:23,D,"30,130",++,1936-04-24 (Schedule change)
+"Thursday, Jul 9",boxscore,STL,None,NYG,W,6,3,None,47-28,1,up 0.5,Parmelee,Smith,None,2:05,D,None,+++,None
+"Friday, Jul 10",boxscore,STL,None,NYG,W,5,4,13,48-28,1,up 0.5,Winford,Fitzsimmons,None,3:28,D,"10,000",++++,None
+"Saturday, Jul 11",boxscore,STL,None,NYG,W,9,3,None,49-28,1,up 1.5,Heusser,Castleman,None,2:18,D,None,+++++,None
+"Sunday, Jul 12",boxscore,STL,None,BRO,L,3,6,None,49-29,1,up 0.5,Jeffcoat,Walker,None,2:25,D,None,-,None
+"Sunday, Jul 12",boxscore,STL,None,BRO,L,4,11,None,49-30,1,up 0.5,Clark,Winford,Baker,2:30,D,"17,000",--,1936-07-13 (Schedule change)
+"Tuesday, Jul 14",boxscore,STL,None,BRO,W,11,7,None,50-30,1, Tied,Haines,Jeffcoat,None,2:44,D,None,+,None
+"Wednesday, Jul 15",boxscore,STL,None,PHI,L,4,5,None,50-31,2, 1.0,Passeau,Heusser,Johnson,None,D,None,-,None
+"Thursday, Jul 16",boxscore,STL,None,PHI,L,2,6,None,50-32,2, 2.0,Passeau,Dean,None,2:14,D,None,--,None
+"Friday, Jul 17",boxscore,STL,None,PHI,W,5,4,None,51-32,2, 1.0,Dean,Johnson,None,2:41,D,None,+,None
+"Saturday, Jul 18",boxscore,STL,None,BSN,L,5,6,11,51-33,2, 2.0,Lanning,Dean,None,2:38,D,"3,500",-,None
+"Sunday, Jul 19",boxscore,STL,None,BSN,W,8,1,None,52-33,2, 1.0,Winford,MacFayden,None,2:09,D,None,+,None
+"Sunday, Jul 19",boxscore,STL,None,BSN,W,7,2,None,53-33,2, 1.0,Haines,Benge,None,1:51,D,None,++,1936-06-08 (Schedule change)
+"Tuesday, Jul 21",boxscore,STL,@,NYG,L,1,2,10,53-34,2, 2.0,Hubbell,Dean,None,2:27,D,"8,000",-,None
+"Wednesday, Jul 22",boxscore,STL,@,NYG,L,2,8,None,53-35,2, 3.0,Gabler,Earnshaw,None,1:50,D,None,--,None
+"Thursday, Jul 23",boxscore,STL,@,NYG,W,4,2,None,54-35,2, 2.0,Parmelee,Fitzsimmons,Dean,2:06,D,"8,000",+,None
+"Saturday, Jul 25",boxscore,STL,@,BSN,L,2,3,None,54-36,2, 3.0,MacFayden,Winford,None,1:44,D,None,-,None
+"Sunday, Jul 26",boxscore,STL,@,BSN,L,3,4,None,54-37,2, 3.0,Chaplin,Haines,None,2:09,D,None,--,None
+"Sunday, Jul 26",boxscore,STL,@,BSN,W,8,5,None,55-37,2, 3.0,Dean,Cantwell,None,1:53,D,"41,598",+,1936-07-28 (Schedule change)
+"Wednesday, Jul 29",boxscore,STL,@,BRO,L,7,22,None,55-38,2, 2.0,Mungo,Parmelee,Baker,2:30,D,"12,000",-,None
+"Wednesday, Jul 29",boxscore,STL,@,BRO,W,5,4,None,56-38,2, 2.0,Earnshaw,Clark,Haines,2:02,D,"12,000",+,1936-05-13 (Rain)
+"Thursday, Jul 30",boxscore,STL,@,BRO,W,7,0,None,57-38,2, 1.0,Winford,Frankhouse,None,2:05,D,None,++,None
+"Friday, Jul 31",boxscore,STL,@,BRO,W,8,6,10,58-38,2, 1.0,Dean,Baker,None,2:26,D,"6,000",+++,None
+"Saturday, Aug 1",boxscore,STL,@,PHI,L,3,11,None,58-39,2, 2.0,Passeau,Parmelee,None,2:03,D,None,-,None
+"Sunday, Aug 2",boxscore,STL,@,PHI,W,13,4,None,59-39,1, Tied,Haines,Walters,None,2:25,D,"25,000",+,None
+"Sunday, Aug 2",boxscore,STL,@,PHI,W,11,8,None,60-39,1, Tied,Earnshaw,Bowman,Dean,2:15,D,"25,000",++,1936-06-24 (Wet grounds)
+"Tuesday, Aug 4",boxscore,STL,@,CHC,W,6,1,None,61-39,1,up 1.0,Heusser,Davis,None,None,D,None,+++,None
+"Wednesday, Aug 5",boxscore,STL,@,CHC,W,4,1,None,62-39,1,up 2.0,Parmelee,Carleton,None,1:55,D,"24,000",++++,None
+"Thursday, Aug 6",boxscore,STL,@,CHC,W,3,2,11,63-39,1,up 3.0,Dean,Root,None,2:18,D,None,+++++,None
+"Friday, Aug 7",boxscore,STL,@,CHC,L,5,14,None,63-40,1,up 2.0,Carleton,Parmelee,None,2:31,D,None,-,None
+"Saturday, Aug 8",boxscore,STL,None,CIN,W,11,4,None,64-40,1,up 2.0,Haines,Derringer,None,2:10,D,None,+,None
+"Sunday, Aug 9",boxscore,STL,None,CIN,L,2,10,None,64-41,1, Tied,Davis,Winford,None,2:15,D,None,-,None
+"Sunday, Aug 9",boxscore,STL,None,CIN,L,5,12,None,64-42,1, Tied,Frey,Rhem,None,2:22,D,"27,500",--,1936-04-21 (Cold)
+"Monday, Aug 10",boxscore,STL,None,CHC,W,7,3,None,65-42,1,up 1.0,Dean,Warneke,None,2:06,D,"30,000",+,None
+"Tuesday, Aug 11",boxscore,STL,None,CHC,L,4,6,10,65-43,1, Tied,Lee,Winford,None,2:58,D,"22,855",-,None
+"Wednesday, Aug 12",boxscore,STL,None,CHC,W,5,3,None,66-43,1,up 1.0,Johnson,French,None,1:56,D,None,+,None
+"Saturday, Aug 15",boxscore,STL,@,PIT,L,1,7,None,66-44,1,up 0.5,Weaver,Haines,None,2:12,D,None,-,None
+"Sunday, Aug 16",boxscore,STL,@,PIT,W,4,3,None,67-44,1,up 2.0,Winford,Lucas,Parmelee,2:29,D,None,+,None
+"Sunday, Aug 16",boxscore,STL,@,PIT,W,7,2,None,68-44,1,up 2.0,Dean,Swift,None,1:49,D,"35,000",++,1936-08-14 (Rain)
+"Tuesday, Aug 18",boxscore,STL,@,CIN,W,4,1,None,69-44,1,up 1.5,Johnson,Davis,None,2:04,N,"23,742",+++,None
+"Thursday, Aug 20",boxscore,STL,@,CIN,W,4,2,None,70-44,1,up 1.5,Dean,Frey,None,1:56,D,"2,854",++++,None
+"Friday, Aug 21",boxscore,STL,None,PIT,L,4,5,None,70-45,1,up 0.5,Lucas,Haines,None,2:00,D,None,-,None
+"Saturday, Aug 22",boxscore,STL,None,PIT,W,4,3,None,71-45,1,up 1.0,Winford,Swift,None,1:45,D,None,+,None
+"Sunday, Aug 23",boxscore,STL,None,PIT,W,7,3,None,72-45,1,up 0.5,Heusser,Blanton,None,2:30,D,None,++,None
+"Sunday, Aug 23",boxscore,STL,None,PIT,T,6,6,10,72-45,1,up 0.5,None,None,None,2:25,D,None,++,None
+"Monday, Aug 24",boxscore,STL,None,PIT,L,5,17,None,72-46,1, Tied,Brown,Heusser,None,2:17,D,None,-,None
+"Tuesday, Aug 25",boxscore,STL,None,BSN,L,3,20,None,72-47,2, 1.5,Chaplin,Johnson,None,2:16,D,"3,000",--,None
+"Tuesday, Aug 25",boxscore,STL,None,BSN,L,4,5,None,72-48,2, 1.5,Lanning,Johnson,None,1:54,D,None,---,1936-06-10 (Wet grounds)
+"Wednesday, Aug 26",boxscore,STL,None,BSN,L,4,10,None,72-49,2, 2.5,Bush,Winford,None,2:12,D,"2,500",----,None
+"Thursday, Aug 27",boxscore,STL,None,BSN,L,0,1,10,72-50,2, 3.0,MacFayden,Parmelee,None,1:52,D,"2,000",-----,None
+"Friday, Aug 28",boxscore,STL,None,PHI,L,0,8,None,72-51,3, 4.0,Walters,Pippen,None,1:53,D,None,------,None
+"Saturday, Aug 29",boxscore,STL,None,PHI,W,4,0,None,73-51,2, 3.0,Johnson,Benge,None,1:50,D,None,+,None
+"Sunday, Aug 30",boxscore,STL,None,BRO,W,6,3,None,74-51,2, 4.0,Dean,Brandt,None,1:45,D,None,++,None
+"Sunday, Aug 30",boxscore,STL,None,BRO,L,2,3,13,74-52,2, 4.0,Mungo,Winford,None,2:38,D,"21,000",-,1936-08-31 (Schedule change)
+"Wednesday, Sep 2",boxscore,STL,None,NYG,W,4,3,None,75-52,2, 3.0,Johnson,Smith,None,2:29,D,"13,500",+,None
+"Thursday, Sep 3",boxscore,STL,None,NYG,L,1,2,None,75-53,2, 4.0,Hubbell,Dean,None,2:08,D,"22,000",-,None
+"Saturday, Sep 5",boxscore,STL,@,CIN,W,3,2,None,76-53,2, 2.5,Winford,Frey,Parmelee,2:03,D,None,+,None
+"Sunday, Sep 6",boxscore,STL,@,CIN,L,3,5,None,76-54,2, 3.0,Hallahan,Johnson,Davis,2:11,D,None,-,None
+"Sunday, Sep 6",boxscore,STL,@,CIN,L,4,8,None,76-55,2, 3.0,Davis,Pippen,None,1:51,D,"25,556",--,1936-08-19 (Schedule change)
+"Monday, Sep 7",boxscore,STL,@,PIT,L,1,4,None,76-56,2, 5.0,Hoyt,Dean,None,1:45,D,None,---,None
+"Monday, Sep 7",boxscore,STL,@,PIT,L,1,14,None,76-57,2, 5.0,Brown,Parmelee,None,1:58,D,None,----,None
+"Wednesday, Sep 9",boxscore,STL,@,BSN,W,3,1,15,77-57,2, 4.5,Winford,MacFayden,None,2:45,D,"3,000",+,None
+"Thursday, Sep 10",boxscore,STL,@,BSN,W,3,2,None,78-57,2, 3.5,Heusser,Chaplin,Dean,1:49,D,"2,521",++,None
+"Friday, Sep 11",boxscore,STL,@,BRO,W,12,8,None,79-57,2, 4.0,Ryba,Butcher,Earnshaw,2:24,D,None,+++,None
+"Friday, Sep 11",boxscore,STL,@,BRO,L,4,5,None,79-58,2, 4.0,Mungo,Haines,None,2:24,D,"10,000",-,1936-06-27 (Rain)
+"Saturday, Sep 12",boxscore,STL,@,BRO,L,8,9,None,79-59,2, 3.5,Baker,Dean,Jeffcoat,2:07,D,None,--,None
+"Saturday, Sep 12",boxscore,STL,@,BRO,W,10,3,None,80-59,2, 3.5,Dean,Eisenstat,None,1:58,D,"17,000",+,1936-09-01 (Rain; Site change)
+"Sunday, Sep 13",boxscore,STL,@,NYG,L,4,8,None,80-60,2, 3.5,Fitzsimmons,Winford,None,2:03,D,"64,417",-,None
+"Sunday, Sep 13",boxscore,STL,@,NYG,W,4,3,None,81-60,2, 3.5,Parmelee,Smith,Dean,2:24,D,"64,417",+,1936-07-24 (Rain)
+"Monday, Sep 14",boxscore,STL,@,NYG,L,5,7,None,81-61,2, 4.5,Hubbell,Walker,None,2:20,D,"25,000",-,None
+"Wednesday, Sep 16",boxscore,STL,@,PHI,L,3,7,None,81-62,2, 4.5,Walters,Haines,None,2:00,D,None,--,None
+"Wednesday, Sep 16",boxscore,STL,@,PHI,W,5,2,None,82-62,2, 4.5,Johnson,Passeau,Dean,2:08,D,"6,000",+,1936-09-15 (Rain)
+"Friday, Sep 18",boxscore,STL,@,CHC,L,0,3,None,82-63,3, 5.5,Warneke,Parmelee,None,2:06,D,None,-,None
+"Saturday, Sep 19",boxscore,STL,@,CHC,W,9,6,None,83-63,2, 5.5,McGee,French,Heusser,2:18,D,"12,866",+,None
+"Sunday, Sep 20",boxscore,STL,@,CHC,L,3,4,None,83-64,3, 6.5,Lee,Dean,None,1:43,D,"32,342",-,None
+"Monday, Sep 21",boxscore,STL,@,CHC,W,5,4,None,84-64,2, 6.0,Winford,Warneke,Dean,2:22,D,"10,116",+,None
+"Tuesday, Sep 22",boxscore,STL,None,CIN,W,6,3,None,85-64,2, 4.5,Ryba,Frey,None,1:46,D,None,++,None
+"Thursday, Sep 24",boxscore,STL,None,CIN,W,5,4,12,86-64,2, 4.0,Ryba,Schott,None,2:41,D,None,+++,None
+"Thursday, Sep 24",boxscore,STL,None,CIN,W,2,0,6,87-64,2, 4.0,Dean,Derringer,None,1:20,D,None,++++,1936-09-23 (Rain)
+"Friday, Sep 25",boxscore,STL,None,CIN,L,2,3,None,87-65,2, 5.0,Davis,McGee,None,2:07,D,None,-,None
+"Saturday, Sep 26",boxscore,STL,None,CHC,L,2,12,None,87-66,2, 5.0,Lee,Winford,None,2:03,D,None,--,None
+"Sunday, Sep 27",boxscore,STL,None,CHC,L,3,6,None,87-67,2, 5.0,Warneke,Dean,None,2:13,D,None,---,None

@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 13",boxscore,BOS,None,WSH,L,6,7,None,0-2,7, 2.0,Brown,Russell,Fischer,1:58,D,"5,000",--,None
+"Friday, Apr 15",boxscore,BOS,None,WSH,L,0,2,None,0-3,8, 3.0,Weaver,Lisenbee,None,1:49,D,None,---,None
+"Saturday, Apr 16",boxscore,BOS,None,NYY,L,4,14,None,0-4,8, 3.5,Pennock,MacFayden,None,None,D,None,----,None
+"Tuesday, Apr 19",boxscore,BOS,None,NYY,W,6,5,None,1-4,7, 3.5,Moore,Andrews,None,1:58,D,None,+,None
+"Tuesday, Apr 19",boxscore,BOS,None,NYY,L,3,6,None,1-5,7, 3.5,Rhodes,Lisenbee,None,None,D,None,-,None
+"Wednesday, Apr 20",boxscore,BOS,@,WSH,L,3,4,None,1-6,8, 4.5,Burke,MacFayden,None,1:43,D,None,--,None
+"Thursday, Apr 21",boxscore,BOS,@,WSH,W,1,0,None,2-6,8, 4.5,Russell,Crowder,Moore,1:46,D,None,+,None
+"Saturday, Apr 23",boxscore,BOS,@,WSH,L,0,5,None,2-7,8, 5.0,Fischer,Weiland,None,1:52,D,None,-,1932-04-22 (Schedule change)
+"Sunday, Apr 24",boxscore,BOS,@,NYY,L,2,9,None,2-8,8, 6.0,Pipgras,Moore,None,2:05,D,"31,000",--,None
+"Tuesday, Apr 26",boxscore,BOS,@,PHA,W,10,2,None,3-8,8, 5.5,Durham,Grove,None,1:55,D,None,+,None
+"Thursday, Apr 28",boxscore,BOS,@,NYY,L,1,5,None,3-9,8, 5.5,Gomez,MacFayden,None,None,D,None,-,None
+"Friday, Apr 29",boxscore,BOS,@,NYY,L,7,8,None,3-10,8, 6.5,Andrews,Russell,None,None,D,None,--,None
+"Saturday, Apr 30",boxscore,BOS,@,NYY,L,3,6,None,3-11,8, 7.5,Pipgras,Lisenbee,None,None,D,None,---,None
+"Monday, May 2",boxscore,BOS,None,PHA,L,2,3,11,3-12,8, 9.0,Grove,Moore,None,2:21,D,None,----,None
+"Tuesday, May 3",boxscore,BOS,None,PHA,L,1,6,None,3-13,8, 10.0,Earnshaw,MacFayden,None,None,D,None,-----,None
+"Thursday, May 5",boxscore,BOS,None,SLB,L,3,11,None,3-14,8, 10.5,Hadley,Lisenbee,None,None,D,None,------,None
+"Friday, May 6",boxscore,BOS,None,SLB,L,5,6,None,3-15,8, 10.5,Stewart,Donohue,Kimsey,None,D,None,-------,None
+"Saturday, May 7",boxscore,BOS,None,SLB,L,0,4,None,3-16,8, 11.5,Blaeholder,Russell,None,1:56,D,None,--------,None
+"Sunday, May 8",boxscore,BOS,None,SLB,W,7,5,None,4-16,8, 11.5,MacFayden,Hebert,None,2:00,D,None,+,None
+"Tuesday, May 10",boxscore,BOS,None,DET,L,0,11,None,4-17,8, 12.5,Sorrell,Weiland,None,1:56,D,None,-,None
+"Thursday, May 12",boxscore,BOS,None,CLE,L,4,5,None,4-18,8, 13.0,Connally,Russell,None,None,D,None,--,None
+"Saturday, May 14",boxscore,BOS,None,CLE,L,0,6,None,4-19,8, 14.5,Brown,MacFayden,None,2:04,D,None,---,None
+"Sunday, May 15",boxscore,BOS,None,CHW,L,2,9,None,4-20,8, 14.5,Frazier,Moore,None,1:31,D,None,----,None
+"Monday, May 16",boxscore,BOS,None,CHW,L,3,4,10,4-21,8, 14.5,Lyons,Russell,None,None,D,None,-----,None
+"Tuesday, May 17",boxscore,BOS,None,CHW,L,3,7,None,4-22,8, 15.0,Gaston,MacFayden,None,None,D,None,------,None
+"Wednesday, May 18",boxscore,BOS,None,CHW,W,13,10,None,5-22,8, 15.0,Weiland,Faber,Kline,None,D,None,+,None
+"Thursday, May 19",boxscore,BOS,@,PHA,L,2,4,None,5-23,8, 15.0,Mahaffey,Kline,None,1:43,D,None,-,None
+"Friday, May 20",boxscore,BOS,@,PHA,L,1,6,None,5-24,8, 15.5,Walberg,Durham,Grove,2:05,D,None,--,None
+"Saturday, May 21",boxscore,BOS,@,PHA,L,6,18,None,5-25,8, 17.5,Earnshaw,Kline,Rommel,2:15,D,None,---,None
+"Saturday, May 21",boxscore,BOS,@,PHA,L,3,6,None,5-26,8, 17.5,Cain,MacFayden,None,1:34,D,None,----,1932-04-25 (Rain)
+"Sunday, May 22",boxscore,BOS,@,WSH,L,1,7,None,5-27,8, 17.5,Weaver,Russell,None,1:55,D,None,-----,None
+"Monday, May 23",boxscore,BOS,@,WSH,W,6,2,None,6-27,8, 17.5,Weiland,Burke,None,2:11,D,None,+,None
+"Thursday, May 26",boxscore,BOS,None,PHA,L,1,7,6,6-28,8, 19.0,Earnshaw,Durham,None,1:20,D,None,-,None
+"Saturday, May 28",boxscore,BOS,None,PHA,L,2,8,None,6-29,8, 18.5,Mahaffey,MacFayden,None,1:42,D,None,--,None
+"Sunday, May 29",boxscore,BOS,None,PHA,W,6,4,None,7-29,8, 19.0,Weiland,Cain,None,2:03,D,None,+,None
+"Sunday, May 29",boxscore,BOS,None,PHA,L,0,3,None,7-30,8, 19.0,Walberg,Durham,None,1:42,D,None,-,1932-05-01 (Rain)
+"Monday, May 30",boxscore,BOS,@,NYY,L,5,7,None,7-31,8, 21.0,Pennock,Moore,None,2:05,D,"45,000",--,None
+"Monday, May 30",boxscore,BOS,@,NYY,L,3,13,None,7-32,8, 21.0,Johnson,Russell,None,None,D,None,---,None
+"Wednesday, Jun 1",boxscore,BOS,None,WSH,L,1,2,None,7-33,8, 20.5,Brown,Weiland,None,2:00,D,None,----,None
+"Thursday, Jun 2",boxscore,BOS,None,WSH,L,4,6,None,7-34,8, 22.0,Weaver,MacFayden,Marberry,2:20,D,None,-----,None
+"Thursday, Jun 2",boxscore,BOS,None,WSH,L,1,8,None,7-35,8, 22.0,Burke,Durham,None,1:48,D,None,------,1932-04-12 (Rain)
+"Saturday, Jun 4",boxscore,BOS,None,WSH,W,4,2,None,8-35,8, 21.5,Kline,Crowder,None,1:57,D,None,+,None
+"Saturday, Jun 4",boxscore,BOS,None,WSH,W,9,8,None,9-35,8, 21.5,Durham,Fischer,Moore,2:20,D,None,++,1932-04-14 (Cold)
+"Sunday, Jun 5",boxscore,BOS,@,NYY,L,1,12,None,9-36,8, 22.5,Pipgras,Weiland,None,1:57,D,"10,000",-,None
+"Tuesday, Jun 7",boxscore,BOS,@,SLB,L,1,6,None,9-37,8, 23.5,Stewart,Moore,None,None,D,None,--,None
+"Wednesday, Jun 8",boxscore,BOS,@,SLB,L,4,11,None,9-38,8, 24.5,Gray,Kline,None,None,D,None,---,None
+"Thursday, Jun 9",boxscore,BOS,@,SLB,L,1,2,None,9-39,8, 24.5,Blaeholder,Weiland,None,None,D,None,----,None
+"Friday, Jun 10",boxscore,BOS,@,SLB,L,3,4,None,9-40,8, 25.5,Hadley,Michaels,Kimsey,None,D,None,-----,None
+"Saturday, Jun 11",boxscore,BOS,@,CHW,W,4,1,None,10-40,8, 24.5,Andrews,Gaston,None,None,D,None,+,None
+"Sunday, Jun 12",boxscore,BOS,@,CHW,L,1,4,None,10-41,8, 25.5,Frazier,Appleton,Faber,1:43,D,None,-,None
+"Monday, Jun 13",boxscore,BOS,@,CHW,L,6,7,None,10-42,8, 26.5,Gregory,Moore,Faber,None,D,None,--,None
+"Tuesday, Jun 14",boxscore,BOS,@,CHW,W,5,4,11,11-42,8, 26.5,Kline,Lyons,None,None,D,None,+,None
+"Wednesday, Jun 15",boxscore,BOS,@,CLE,L,3,9,None,11-43,8, 26.5,Ferrell,Michaels,None,1:43,D,None,-,None
+"Saturday, Jun 18",boxscore,BOS,@,CLE,L,2,9,None,11-44,8, 28.0,Harder,Andrews,None,2:12,D,None,--,None
+"Sunday, Jun 19",boxscore,BOS,@,CLE,L,3,9,None,11-45,8, 29.5,Connally,Weiland,None,2:19,D,None,---,None
+"Sunday, Jun 19",boxscore,BOS,@,CLE,L,3,6,None,11-46,8, 29.5,Brown,Kline,None,None,D,None,----,1932-06-16 (Rain)
+"Monday, Jun 20",boxscore,BOS,@,DET,L,4,6,None,11-47,8, 30.5,Whitehill,Andrews,None,2:14,D,None,-----,None
+"Tuesday, Jun 21",boxscore,BOS,@,DET,L,2,3,None,11-48,8, 31.5,Hogsett,Michaels,None,2:03,D,None,------,None
+"Wednesday, Jun 22",boxscore,BOS,@,DET,L,5,6,None,11-49,8, 31.5,Uhle,Durham,None,1:59,D,None,-------,None
+"Thursday, Jun 23",boxscore,BOS,@,DET,L,3,6,None,11-50,8, 31.5,Bridges,Weiland,Hogsett,2:12,D,None,--------,None
+"Saturday, Jun 25",boxscore,BOS,@,WSH,W,7,6,None,12-50,8, 31.5,Kline,Crowder,Moore,2:31,D,None,+,None
+"Sunday, Jun 26",boxscore,BOS,@,WSH,L,4,8,None,12-51,8, 32.5,Brown,Appleton,None,1:45,D,None,-,None
+"Monday, Jun 27",boxscore,BOS,@,PHA,L,8,15,None,12-52,8, 33.5,Earnshaw,Andrews,None,1:56,D,None,--,None
+"Monday, Jun 27",boxscore,BOS,@,PHA,L,4,9,None,12-53,8, 33.5,Freitas,Kline,None,None,D,None,---,1932-04-27 (Cold)
+"Tuesday, Jun 28",boxscore,BOS,@,PHA,L,4,5,None,12-54,8, 34.5,Krausse,Moore,None,1:41,D,None,----,None
+"Thursday, Jun 30",boxscore,BOS,None,NYY,L,4,15,None,12-55,8, 36.0,MacFayden,Michaels,None,None,D,"15,000",-----,None
+"Friday, Jul 1",boxscore,BOS,None,NYY,W,11,6,None,13-55,8, 35.0,Moore,Brown,None,None,D,None,+,None
+"Saturday, Jul 2",boxscore,BOS,None,NYY,L,5,8,None,13-56,8, 35.0,Pennock,Weiland,None,None,D,None,-,None
+"Saturday, Jul 2",boxscore,BOS,None,NYY,W,6,5,None,14-56,8, 35.0,Michaels,Ruffing,None,None,D,None,+,1932-04-17 (Cold)
+"Sunday, Jul 3",boxscore,BOS,None,NYY,L,2,13,None,14-57,8, 36.0,Pipgras,Andrews,None,2:28,D,"9,000",-,None
+"Wednesday, Jul 6",boxscore,BOS,None,SLB,W,5,4,None,15-57,8, 34.5,Weiland,Blaeholder,None,None,D,None,+,None
+"Thursday, Jul 7",boxscore,BOS,None,SLB,L,2,8,None,15-58,8, 34.5,Hadley,Michaels,None,2:04,D,None,-,None
+"Friday, Jul 8",boxscore,BOS,None,SLB,L,4,8,None,15-59,8, 35.5,Stewart,Gallagher,None,None,D,None,--,None
+"Saturday, Jul 9",boxscore,BOS,None,SLB,W,4,2,None,16-59,8, 36.0,Andrews,Fischer,None,None,D,None,+,None
+"Sunday, Jul 10",boxscore,BOS,None,DET,L,5,7,None,16-60,8, 35.0,Wyatt,Durham,Marrow,2:20,D,None,-,None
+"Sunday, Jul 10",boxscore,BOS,None,DET,W,13,2,None,17-60,8, 35.0,Weiland,Goldstein,None,1:58,D,None,+,1932-05-09 (Cold)
+"Monday, Jul 11",boxscore,BOS,None,DET,L,3,5,None,17-61,8, 36.0,Uhle,Appleton,None,None,D,None,-,None
+"Tuesday, Jul 12",boxscore,BOS,None,DET,W,3,2,None,18-61,8, 36.0,Kline,Sorrell,None,1:50,D,None,+,None
+"Wednesday, Jul 13",boxscore,BOS,None,DET,W,8,7,None,19-61,8, 36.0,Durham,Whitehill,Moore,2:03,D,None,++,None
+"Thursday, Jul 14",boxscore,BOS,None,CHW,L,8,9,11,19-62,8, 36.0,Jones,Moore,None,None,D,None,-,None
+"Friday, Jul 15",boxscore,BOS,None,CHW,L,2,4,11,19-63,8, 37.0,Faber,Boerner,Lyons,None,D,None,--,None
+"Saturday, Jul 16",boxscore,BOS,None,CHW,W,3,0,None,20-63,8, 36.0,Kline,Daglia,None,None,D,None,+,None
+"Sunday, Jul 17",boxscore,BOS,None,CLE,L,4,5,None,20-64,8, 38.0,Connally,Michaels,None,1:52,D,None,-,None
+"Sunday, Jul 17",boxscore,BOS,None,CLE,L,6,8,11,20-65,8, 38.0,Hudlin,Moore,None,2:17,D,None,--,1932-05-13 (Rain)
+"Monday, Jul 18",boxscore,BOS,None,CLE,W,4,2,None,21-65,8, 38.0,Andrews,Russell,None,None,D,None,+,None
+"Tuesday, Jul 19",boxscore,BOS,None,CLE,L,0,7,None,21-66,8, 39.0,Ferrell,Weiland,None,None,D,None,-,None
+"Wednesday, Jul 20",boxscore,BOS,None,CLE,L,1,8,None,21-67,8, 40.0,Harder,Kline,None,None,D,None,--,None
+"Thursday, Jul 21",boxscore,BOS,@,NYY,W,3,2,None,22-67,8, 39.0,Moore,Wells,None,None,D,None,+,None
+"Saturday, Jul 23",boxscore,BOS,@,NYY,L,3,4,15,22-68,8, 41.0,Ruffing,Moore,None,None,D,None,-,None
+"Saturday, Jul 23",boxscore,BOS,@,NYY,L,4,5,None,22-69,8, 41.0,Pipgras,Durham,Allen,2:10,D,"20,000",--,1932-07-22 (Rain)
+"Sunday, Jul 24",boxscore,BOS,@,WSH,L,6,12,None,22-70,8, 42.0,Thomas,Boerner,None,2:02,D,None,---,None
+"Tuesday, Jul 26",boxscore,BOS,@,CHW,W,6,1,None,23-70,8, 41.0,Welch,Frazier,None,1:50,D,None,+,None
+"Wednesday, Jul 27",boxscore,BOS,@,CHW,W,15,5,None,24-70,8, 39.5,Kline,Daglia,None,2:06,D,None,++,None
+"Thursday, Jul 28",boxscore,BOS,@,CHW,W,2,1,None,25-70,8, 39.5,Durham,Lyons,None,None,D,None,+++,None
+"Friday, Jul 29",boxscore,BOS,@,CHW,L,3,4,None,25-71,8, 39.5,Jones,Andrews,None,None,D,None,-,None
+"Saturday, Jul 30",boxscore,BOS,@,SLB,W,3,2,12,26-71,8, 39.5,Moore,Gray,None,2:32,D,None,+,None
+"Sunday, Jul 31",boxscore,BOS,@,SLB,L,2,13,None,26-72,8, 41.0,Hadley,Welch,None,1:50,D,None,-,None
+"Sunday, Jul 31",boxscore,BOS,@,SLB,L,3,7,None,26-73,8, 41.0,Cooney,Boerner,None,1:33,D,None,--,1932-08-01 (Schedule change)
+"Tuesday, Aug 2",boxscore,BOS,@,SLB,L,4,6,None,26-74,8, 41.5,Blaeholder,Weiland,None,None,D,None,---,None
+"Thursday, Aug 4",boxscore,BOS,@,CLE,L,2,8,None,26-75,8, 42.5,Hildebrand,Kline,None,1:30,D,None,----,None
+"Thursday, Aug 4",boxscore,BOS,@,CLE,L,7,8,13,26-76,8, 42.5,Connally,Weiland,None,2:43,D,None,-----,1932-08-03 (Rain)
+"Friday, Aug 5",boxscore,BOS,@,CLE,L,2,7,None,26-77,8, 43.0,Harder,Welch,None,2:00,D,None,------,None
+"Saturday, Aug 6",boxscore,BOS,@,CLE,L,0,3,None,26-78,8, 43.5,Ferrell,Rhodes,None,1:31,D,None,-------,None
+"Sunday, Aug 7",boxscore,BOS,@,DET,L,1,3,None,26-79,8, 45.0,Sorrell,Durham,None,2:11,D,None,--------,None
+"Tuesday, Aug 9",boxscore,BOS,@,DET,L,2,5,None,26-80,8, 46.5,Hogsett,Kline,None,1:53,D,None,---------,None
+"Tuesday, Aug 9",boxscore,BOS,@,DET,L,7,9,None,26-81,8, 46.5,Marrow,Welch,Uhle,2:12,D,None,----------,1932-08-08 (Wet grounds)
+"Wednesday, Aug 10",boxscore,BOS,@,DET,L,2,6,None,26-82,8, 47.5,Bridges,Rhodes,None,2:09,D,None,-----------,None
+"Friday, Aug 12",boxscore,BOS,None,PHA,W,2,1,None,27-82,8, 47.0,Andrews,Earnshaw,None,None,D,None,+,None
+"Saturday, Aug 13",boxscore,BOS,None,PHA,L,2,13,None,27-83,8, 48.5,Grove,Boerner,None,2:08,D,None,-,1932-07-04 (Rain)
+"Saturday, Aug 13",boxscore,BOS,None,PHA,L,2,8,None,27-84,8, 48.5,Freitas,Kline,None,1:59,D,None,--,None
+"Sunday, Aug 14",boxscore,BOS,None,PHA,L,1,6,None,27-85,8, 49.0,Walberg,Rhodes,None,1:36,D,None,---,None
+"Sunday, Aug 14",boxscore,BOS,None,PHA,W,2,0,None,28-85,8, 49.0,Welch,Mahaffey,None,1:32,D,None,+,1932-07-04 (Rain)
+"Tuesday, Aug 16",boxscore,BOS,None,SLB,L,2,3,None,28-86,8, 50.5,Stewart,Durham,None,None,D,None,-,None
+"Wednesday, Aug 17",boxscore,BOS,None,SLB,W,7,3,None,29-86,8, 50.5,Andrews,Fischer,None,1:47,D,None,+,None
+"Thursday, Aug 18",boxscore,BOS,None,SLB,W,7,6,15,30-86,8, 50.0,Welch,Hadley,None,None,D,None,++,None
+"Saturday, Aug 20",boxscore,BOS,None,DET,L,1,4,10,30-87,8, 51.0,Whitehill,Rhodes,None,2:00,D,None,-,None
+"Sunday, Aug 21",boxscore,BOS,None,DET,W,3,1,None,31-87,8, 51.5,Weiland,Wyatt,None,1:50,D,None,+,None
+"Sunday, Aug 21",boxscore,BOS,None,DET,L,2,4,None,31-88,8, 51.5,Sorrell,Durham,None,1:50,D,None,-,1932-05-11 (Cold)
+"Monday, Aug 22",boxscore,BOS,None,DET,W,6,5,None,32-88,8, 50.5,Kline,Hogsett,None,1:54,D,None,+,None
+"Tuesday, Aug 23",boxscore,BOS,None,DET,L,4,5,None,32-89,8, 51.5,Bridges,Welch,Uhle,2:25,D,None,-,None
+"Wednesday, Aug 24",boxscore,BOS,None,CHW,L,3,7,None,32-90,8, 52.5,Lyons,Kline,None,None,D,None,--,None
+"Thursday, Aug 25",boxscore,BOS,None,CHW,W,5,4,None,33-90,8, 52.5,Rhodes,Frazier,None,None,D,None,+,None
+"Friday, Aug 26",boxscore,BOS,None,CHW,W,11,8,None,34-90,8, 52.5,Kline,Gaston,None,None,D,None,++,None
+"Saturday, Aug 27",boxscore,BOS,None,CHW,W,13,10,None,35-90,8, 52.5,Kline,Faber,None,None,D,None,+++,None
+"Sunday, Aug 28",boxscore,BOS,None,CLE,L,1,10,None,35-91,8, 52.5,Hudlin,Weiland,None,1:55,D,None,-,None
+"Sunday, Aug 28",boxscore,BOS,None,CLE,W,4,3,11,36-91,8, 52.5,Durham,Connally,None,2:20,D,None,+,1932-08-31 (Eclipse)
+"Monday, Aug 29",boxscore,BOS,None,CLE,L,3,6,None,36-92,8, 54.0,Hildebrand,Rhodes,None,1:48,D,None,-,None
+"Tuesday, Aug 30",boxscore,BOS,None,CLE,W,6,2,None,37-92,8, 54.0,Welch,Ferrell,None,1:52,D,None,+,None
+"Friday, Sep 2",boxscore,BOS,@,PHA,L,3,7,None,37-93,8, 54.0,Mahaffey,Weiland,None,1:42,D,None,-,None
+"Friday, Sep 2",boxscore,BOS,@,PHA,L,0,15,None,37-94,8, 54.0,Krausse,Kline,None,1:55,D,None,--,None
+"Saturday, Sep 3",boxscore,BOS,@,PHA,L,3,4,None,37-95,8, 55.0,Grove,Rhodes,None,1:34,D,None,---,None
+"Sunday, Sep 4",boxscore,BOS,@,NYY,L,2,8,None,37-96,8, 56.0,MacFayden,Welch,None,2:02,D,"10,000",----,None
+"Monday, Sep 5",boxscore,BOS,@,WSH,L,2,6,None,37-97,8, 58.0,Crowder,Durham,None,1:54,D,None,-----,None
+"Monday, Sep 5",boxscore,BOS,@,WSH,L,3,9,None,37-98,8, 58.0,Marberry,Weiland,None,2:01,D,None,------,None
+"Thursday, Sep 8",boxscore,BOS,@,CHW,L,3,4,10,37-99,8, 59.0,Lyons,Kline,None,None,D,None,-------,None
+"Friday, Sep 9",boxscore,BOS,@,CHW,W,9,6,10,38-99,8, 57.5,Kline,Gaston,None,None,D,None,+,None
+"Saturday, Sep 10",boxscore,BOS,@,CHW,W,6,3,None,39-99,8, 58.0,Durham,Kimsey,None,None,D,None,++,None
+"Sunday, Sep 11",boxscore,BOS,@,SLB,L,1,7,None,39-100,8, 57.5,Stewart,Weiland,None,None,D,None,-,None
+"Sunday, Sep 11",boxscore,BOS,@,SLB,W,8,3,None,40-100,8, 57.5,Andrews,Hebert,None,None,D,None,+,1932-09-12 (Schedule change)
+"Tuesday, Sep 13",boxscore,BOS,@,SLB,L,4,9,None,40-101,8, 59.0,Hadley,Welch,None,None,D,None,-,None
+"Wednesday, Sep 14",boxscore,BOS,@,CLE,L,0,9,None,40-102,8, 60.0,Harder,Rhodes,None,1:40,D,None,--,None
+"Thursday, Sep 15",boxscore,BOS,@,CLE,L,2,7,None,40-103,8, 60.0,Hudlin,Durham,None,1:48,D,None,---,None
+"Friday, Sep 16",boxscore,BOS,@,CLE,W,6,2,None,41-103,8, 60.0,Andrews,Brown,None,1:51,D,None,+,None
+"Saturday, Sep 17",boxscore,BOS,@,DET,L,0,5,None,41-104,8, 61.0,Uhle,Gallagher,None,1:37,D,None,-,None
+"Sunday, Sep 18",boxscore,BOS,@,DET,L,5,6,None,41-105,8, 61.5,Whitehill,McNaughton,None,1:59,D,None,--,None
+"Monday, Sep 19",boxscore,BOS,@,DET,W,5,4,None,42-105,8, 61.0,Kline,Bridges,Weiland,1:51,D,None,+,None
+"Tuesday, Sep 20",boxscore,BOS,None,WSH,L,1,4,None,42-106,8, 61.5,Weaver,Andrews,None,1:38,D,None,-,None
+"Wednesday, Sep 21",boxscore,BOS,None,WSH,L,0,1,10,42-107,8, 62.0,Coffman,Rhodes,Brown,1:58,D,None,--,None
+"Wednesday, Sep 21",boxscore,BOS,None,WSH,L,2,3,None,42-108,8, 62.0,Marberry,Weiland,Brown,1:50,D,None,---,1932-06-03 (Rain)
+"Thursday, Sep 22",boxscore,BOS,None,WSH,L,2,4,None,42-109,8, 63.0,Crowder,Durham,None,1:37,D,None,----,None
+"Friday, Sep 23",boxscore,BOS,None,NYY,L,0,3,None,42-110,8, 64.0,Brown,Kline,None,None,D,None,-----,None
+"Saturday, Sep 24",boxscore,BOS,None,NYY,L,2,8,None,42-111,8, 65.0,Devens,Gallagher,None,None,D,None,------,None
+"Sunday, Sep 25",boxscore,BOS,None,NYY,W,8,3,None,43-111,8, 64.0,Andrews,Allen,None,1:47,D,"8,000",+,None

@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 13",boxscore,PHI,None,BSN,W,4,2,None,2-0,1, Tied,Ring,Fillingim,None,None,D,None,++,None
+"Friday, Apr 14",boxscore,PHI,None,BSN,L,2,6,None,2-1,3, 0.5,Marquard,Weinert,None,2:10,D,None,-,None
+"Saturday, Apr 15",boxscore,PHI,None,BSN,W,14,5,None,3-1,2, 0.5,Hubbell,Watson,None,2:00,D,None,+,None
+"Sunday, Apr 16",boxscore,PHI,@,BRO,L,2,10,None,3-2,3, 1.5,Ruether,Smith,None,None,D,"16,000",-,None
+"Friday, Apr 21",boxscore,PHI,@,BSN,L,4,6,None,3-3,5, 2.5,Fillingim,Meadows,None,1:55,D,None,--,None
+"Saturday, Apr 22",boxscore,PHI,@,BSN,W,9,2,None,4-3,4, 2.0,Ring,Marquard,None,2:00,D,None,+,None
+"Monday, Apr 24",boxscore,PHI,None,NYG,L,2,3,None,4-4,5, 3.0,Causey,Hubbell,None,2:15,D,None,-,None
+"Tuesday, Apr 25",boxscore,PHI,None,NYG,L,3,9,None,4-5,5, 4.0,Jonnard,Meadows,None,None,D,None,--,None
+"Wednesday, Apr 26",boxscore,PHI,None,NYG,W,6,4,None,5-5,5, 3.0,Ring,Barnes,None,None,D,"4,000",+,None
+"Thursday, Apr 27",boxscore,PHI,None,NYG,L,5,10,None,5-6,5, 4.0,Ryan,Winters,None,None,D,None,-,None
+"Friday, Apr 28",boxscore,PHI,@,BRO,W,10,7,None,6-6,4, 4.0,Hubbell,Grimes,None,None,D,"2,500",+,None
+"Saturday, Apr 29",boxscore,PHI,@,BRO,L,2,3,None,6-7,5, 5.0,Ruether,Meadows,None,None,D,"8,000",-,None
+"Sunday, Apr 30",boxscore,PHI,@,BRO,L,0,4,None,6-8,6, 5.5,Vance,Ring,None,None,D,"17,000",--,None
+"Monday, May 1",boxscore,PHI,@,BRO,L,0,2,None,6-9,6, 6.5,Shriver,Smith,None,None,D,None,---,None
+"Saturday, May 6",boxscore,PHI,@,NYG,L,2,3,14,6-10,6, 7.5,Douglas,Hubbell,None,2:45,D,"18,000",----,None
+"Sunday, May 7",boxscore,PHI,@,NYG,L,0,6,None,6-11,6, 8.5,Barnes,Meadows,None,None,D,"32,000",-----,None
+"Tuesday, May 9",boxscore,PHI,@,CHC,W,9,4,None,7-11,6, 8.5,Ring,Freeman,None,None,D,None,+,None
+"Wednesday, May 10",boxscore,PHI,@,CHC,W,4,0,None,8-11,6, 8.5,Meadows,Alexander,None,None,D,None,++,None
+"Thursday, May 11",boxscore,PHI,@,CHC,W,11,9,10,9-11,5, 7.5,Winters,Keen,None,None,D,None,+++,None
+"Friday, May 12",boxscore,PHI,@,CHC,W,7,4,None,10-11,5, 6.5,Smith,Jones,None,None,D,None,++++,None
+"Saturday, May 13",boxscore,PHI,@,STL,L,5,6,None,10-12,5, 6.5,Pertica,Ring,None,None,D,"10,000",-,None
+"Sunday, May 14",boxscore,PHI,@,STL,W,5,1,None,11-12,5, 6.5,Meadows,Pfeffer,None,1:50,D,None,+,None
+"Monday, May 15",boxscore,PHI,@,STL,L,7,19,None,11-13,5, 7.5,Doak,Hubbell,Barfoot,None,D,"7,000",-,None
+"Wednesday, May 17",boxscore,PHI,@,CIN,L,0,1,None,11-14,5, 7.5,Donohue,Smith,None,1:27,D,"1,900",--,None
+"Friday, May 19",boxscore,PHI,@,CIN,L,1,9,None,11-15,5, 8.0,Couch,Ring,None,1:31,D,"1,548",---,None
+"Saturday, May 20",boxscore,PHI,@,CIN,L,1,2,12,11-16,6, 8.0,Luque,Meadows,None,2:13,D,"3,195",----,None
+"Monday, May 22",boxscore,PHI,@,PIT,L,0,5,None,11-17,7, 7.5,Cooper,Hubbell,None,1:25,D,None,-----,None
+"Tuesday, May 23",boxscore,PHI,@,PIT,L,3,10,None,11-18,7, 7.5,Morrison,Smith,None,1:45,D,None,------,None
+"Wednesday, May 24",boxscore,PHI,@,PIT,L,4,11,8,11-19,8, 8.5,Carlson,Ring,None,1:43,D,None,-------,None
+"Thursday, May 25",boxscore,PHI,None,BRO,L,7,8,None,11-20,8, 9.5,Smith,Winters,None,None,D,"2,500",--------,None
+"Thursday, May 25",boxscore,PHI,None,BRO,L,6,9,None,11-21,8, 9.5,Cadore,Baumgartner,None,None,D,None,---------,1922-04-17 (Rain)
+"Friday, May 26",boxscore,PHI,None,BRO,L,5,7,None,11-22,8, 11.5,Ruether,Smith,Decatur,1:45,D,None,----------,None
+"Friday, May 26",boxscore,PHI,None,BRO,L,0,7,None,11-23,8, 11.5,Vance,Ring,None,1:50,D,"3,000",-----------,1922-04-18 (Wet grounds)
+"Saturday, May 27",boxscore,PHI,None,BRO,L,3,7,10,11-24,8, 12.0,Smith,Smith,None,None,D,"3,000",------------,None
+"Saturday, May 27",boxscore,PHI,None,BRO,W,3,2,None,12-24,8, 12.0,Weinert,Decatur,None,None,D,"2,500",+,1922-04-19 (Rain)
+"Sunday, May 28",boxscore,PHI,@,NYG,L,1,8,None,12-25,8, 13.0,Toney,Winters,Causey,None,D,"22,000",-,None
+"Monday, May 29",boxscore,PHI,None,NYG,W,5,3,None,13-25,8, 12.0,Betts,Shea,None,None,D,"8,000",+,None
+"Tuesday, May 30",boxscore,PHI,None,NYG,W,9,8,10,14-25,8, 12.0,Baumgartner,Causey,None,None,D,"6,000",++,None
+"Tuesday, May 30",boxscore,PHI,None,NYG,L,7,16,None,14-26,8, 12.0,Nehf,Weinert,None,None,D,"20,000",-,None
+"Wednesday, May 31",boxscore,PHI,None,NYG,W,3,1,None,15-26,7, 11.0,Meadows,Ryan,None,None,D,None,+,None
+"Saturday, Jun 3",boxscore,PHI,@,BRO,L,4,6,None,15-27,8, 10.5,Ruether,Ring,None,None,D,"10,000",-,None
+"Saturday, Jun 3",boxscore,PHI,@,BRO,L,2,4,None,15-28,8, 10.5,Shriver,Smith,Smith,1:40,D,None,--,1922-06-01 (Rain)
+"Wednesday, Jun 7",boxscore,PHI,None,PIT,L,0,5,None,15-29,8, 12.0,Morrison,Meadows,None,1:35,D,None,---,None
+"Thursday, Jun 8",boxscore,PHI,None,PIT,L,5,7,None,15-30,8, 13.0,Carlson,Ring,None,1:46,D,None,----,None
+"Friday, Jun 9",boxscore,PHI,None,STL,L,3,4,None,15-31,8, 13.0,Pfeffer,Smith,None,1:25,D,"1,000",-----,None
+"Saturday, Jun 10",boxscore,PHI,None,STL,L,1,5,None,15-32,8, 14.0,Haines,Weinert,None,1:53,D,"6,000",------,None
+"Monday, Jun 12",boxscore,PHI,None,STL,L,8,14,None,15-33,8, 15.5,Walker,Meadows,Barfoot,None,D,"1,000",-------,None
+"Tuesday, Jun 13",boxscore,PHI,None,STL,W,14,0,None,16-33,8, 15.5,Singleton,Doak,None,None,D,"1,000",+,None
+"Thursday, Jun 15",boxscore,PHI,None,CIN,W,7,0,None,17-33,8, 16.0,Smith,Keck,None,1:24,D,None,++,None
+"Friday, Jun 16",boxscore,PHI,None,CIN,W,7,2,None,18-33,8, 16.0,Ring,Luque,None,1:59,D,None,+++,None
+"Saturday, Jun 17",boxscore,PHI,None,CIN,L,4,8,None,18-34,8, 17.0,Rixey,Singleton,None,None,D,None,-,None
+"Monday, Jun 19",boxscore,PHI,None,CHC,W,8,6,None,19-34,8, 15.5,Winters,Kaufmann,None,None,D,None,+,None
+"Wednesday, Jun 21",boxscore,PHI,None,CHC,L,3,6,6,19-35,8, 16.0,Aldridge,Smith,None,None,D,None,-,None
+"Thursday, Jun 22",boxscore,PHI,None,BSN,W,5,4,None,20-35,8, 15.0,Ring,Miller,None,1:48,D,None,+,None
+"Friday, Jun 23",boxscore,PHI,None,BSN,W,10,9,10,21-35,8, 15.0,Weinert,Marquard,None,2:20,D,None,++,None
+"Saturday, Jun 24",boxscore,PHI,None,BSN,W,6,1,None,22-35,8, 13.5,Meadows,McQuillan,None,None,D,None,+++,None
+"Saturday, Jun 24",boxscore,PHI,None,BSN,W,4,1,None,23-35,8, 13.5,Winters,Fillingim,None,None,D,None,++++,None
+"Sunday, Jun 25",boxscore,PHI,@,BRO,L,2,3,11,23-36,8, 14.5,Cadore,Smith,None,2:04,D,"10,000",-,None
+"Monday, Jun 26",boxscore,PHI,None,BSN,W,9,5,None,24-36,7, 14.0,Ring,Miller,None,1:58,D,None,+,None
+"Tuesday, Jun 27",boxscore,PHI,@,NYG,L,1,7,6,24-37,7, 15.0,Douglas,Hubbell,None,None,D,"7,500",-,None
+"Wednesday, Jun 28",boxscore,PHI,@,NYG,W,8,5,None,25-37,7, 15.0,Meadows,Causey,Winters,None,D,"5,000",+,None
+"Wednesday, Jun 28",boxscore,PHI,@,NYG,L,3,8,None,25-38,7, 15.0,Ryan,Singleton,None,None,D,"12,000",-,1922-05-04 (Rain)
+"Thursday, Jun 29",boxscore,PHI,@,NYG,L,2,6,None,25-39,7, 16.0,Toney,Smith,None,None,D,"5,000",--,None
+"Friday, Jun 30",boxscore,PHI,@,NYG,L,4,6,None,25-40,8, 17.0,Nehf,Ring,None,None,D,"6,000",---,None
+"Tuesday, Jul 4",boxscore,PHI,@,BSN,W,5,3,None,26-40,7, 17.0,Hubbell,Miller,Weinert,2:08,D,None,+,None
+"Friday, Jul 7",boxscore,PHI,@,CIN,W,3,1,None,27-40,7, 17.5,Meadows,Luque,None,1:34,D,"1,508",++,None
+"Saturday, Jul 8",boxscore,PHI,@,CIN,L,1,7,None,27-41,7, 18.0,Donohue,Weinert,None,1:40,D,None,-,None
+"Saturday, Jul 8",boxscore,PHI,@,CIN,L,3,5,None,27-42,7, 18.0,Couch,Singleton,None,1:29,D,"4,989",--,1922-05-18 (Rain)
+"Sunday, Jul 9",boxscore,PHI,@,CIN,L,3,9,None,27-43,7, 18.5,Rixey,Hubbell,None,1:57,D,"7,467",---,None
+"Monday, Jul 10",boxscore,PHI,@,CIN,L,7,11,None,27-44,7, 19.0,Gillespie,Pinto,None,1:53,D,"1,841",----,None
+"Tuesday, Jul 11",boxscore,PHI,@,STL,L,0,3,None,27-45,7, 20.0,Haines,Weinert,None,1:35,D,None,-----,None
+"Wednesday, Jul 12",boxscore,PHI,@,STL,W,8,2,None,28-45,7, 19.5,Meadows,North,None,2:00,D,None,+,None
+"Wednesday, Jul 12",boxscore,PHI,@,STL,W,3,2,None,29-45,7, 19.5,Ring,Sherdel,None,1:35,D,None,++,1922-05-16 (Rain)
+"Thursday, Jul 13",boxscore,PHI,@,STL,L,0,1,None,29-46,7, 19.5,Doak,Singleton,None,1:45,D,None,-,None
+"Friday, Jul 14",boxscore,PHI,@,STL,L,5,9,None,29-47,7, 19.5,North,Hubbell,None,2:07,D,None,--,None
+"Saturday, Jul 15",boxscore,PHI,@,CHC,W,2,1,None,30-47,7, 18.5,Weinert,Kaufmann,None,None,D,None,+,None
+"Sunday, Jul 16",boxscore,PHI,@,CHC,W,10,7,None,31-47,7, 17.5,Smith,Alexander,Hubbell,None,D,None,++,None
+"Monday, Jul 17",boxscore,PHI,@,CHC,L,2,3,None,31-48,7, 18.5,Jones,Meadows,None,None,D,None,-,None
+"Tuesday, Jul 18",boxscore,PHI,@,CHC,L,3,6,None,31-49,7, 18.5,Aldridge,Singleton,None,None,D,None,--,None
+"Wednesday, Jul 19",boxscore,PHI,@,PIT,L,0,2,None,31-50,7, 19.5,Cooper,Hubbell,None,1:27,D,None,---,None
+"Thursday, Jul 20",boxscore,PHI,@,PIT,L,1,2,12,31-51,7, 20.5,Glazner,Weinert,None,2:00,D,None,----,None
+"Friday, Jul 21",boxscore,PHI,@,PIT,L,0,6,None,31-52,7, 21.0,Morrison,Ring,None,1:35,D,None,-----,None
+"Saturday, Jul 22",boxscore,PHI,@,PIT,L,7,8,None,31-53,7, 22.0,Hamilton,Meadows,None,1:47,D,None,------,None
+"Tuesday, Jul 25",boxscore,PHI,None,CIN,L,11,15,10,31-54,7, 22.0,Gillespie,Singleton,None,2:21,D,None,-------,None
+"Wednesday, Jul 26",boxscore,PHI,None,CIN,W,12,7,None,32-54,7, 21.5,Ring,Rixey,None,2:47,D,None,+,None
+"Wednesday, Jul 26",boxscore,PHI,None,CIN,W,5,4,13,33-54,7, 21.5,Smith,Gillespie,None,2:17,D,None,++,1922-06-14 (Rain)
+"Thursday, Jul 27",boxscore,PHI,None,CIN,W,6,5,None,34-54,7, 21.5,Meadows,Luque,None,1:40,D,None,+++,None
+"Friday, Jul 28",boxscore,PHI,None,CIN,L,7,11,None,34-55,7, 22.0,Donohue,Singleton,None,2:15,D,None,-,None
+"Saturday, Jul 29",boxscore,PHI,None,CHC,W,6,2,None,35-55,7, 21.5,Ring,Osborne,None,None,D,None,+,None
+"Saturday, Jul 29",boxscore,PHI,None,CHC,L,5,7,12,35-56,7, 21.5,Kaufmann,Singleton,None,None,D,None,-,None
+"Monday, Jul 31",boxscore,PHI,None,CHC,L,5,13,None,35-57,7, 21.0,Stueland,Hubbell,None,None,D,None,--,None
+"Wednesday, Aug 2",boxscore,PHI,None,CHC,T,7,7,15,35-57,7, 20.5,None,None,None,3:35,D,None,--,None
+"Thursday, Aug 3",boxscore,PHI,None,STL,L,1,7,None,35-58,7, 21.5,Haines,Meadows,None,1:55,D,None,---,None
+"Friday, Aug 4",boxscore,PHI,None,STL,L,7,9,None,35-59,7, 22.5,Sherdel,Singleton,None,1:55,D,None,----,None
+"Saturday, Aug 5",boxscore,PHI,None,STL,W,9,1,None,36-59,7, 22.0,Ring,Pfeffer,None,None,D,None,+,None
+"Monday, Aug 7",boxscore,PHI,None,PIT,L,10,17,None,36-60,7, 22.0,Glazner,Singleton,None,None,D,None,-,None
+"Tuesday, Aug 8",boxscore,PHI,None,PIT,L,8,19,None,36-61,7, 22.5,Hamilton,Meadows,None,None,D,None,--,None
+"Tuesday, Aug 8",boxscore,PHI,None,PIT,L,3,7,None,36-62,7, 22.5,Morrison,Winters,None,None,D,None,---,1922-06-05 (Rain)
+"Thursday, Aug 10",boxscore,PHI,None,PIT,L,4,14,None,36-63,7, 23.5,Carlson,Ring,None,1:51,D,None,----,None
+"Friday, Aug 11",boxscore,PHI,None,BSN,W,5,3,None,37-63,7, 23.0,Hubbell,Watson,None,1:42,D,None,+,None
+"Sunday, Aug 13",boxscore,PHI,@,BRO,L,2,3,None,37-64,7, 24.0,Ruether,Weinert,None,None,D,"7,000",-,None
+"Monday, Aug 14",boxscore,PHI,@,PIT,W,10,1,None,38-64,7, 23.5,Winters,Glazner,None,1:36,D,None,+,None
+"Tuesday, Aug 15",boxscore,PHI,@,CIN,L,0,3,None,38-65,7, 23.5,Donohue,Meadows,None,1:29,D,None,-,None
+"Wednesday, Aug 16",boxscore,PHI,@,CIN,L,1,3,None,38-66,7, 24.5,Rixey,Smith,None,1:35,D,"2,500",--,None
+"Thursday, Aug 17",boxscore,PHI,@,CIN,W,1,0,None,39-66,7, 24.5,Hubbell,Couch,None,1:28,D,"2,050",+,None
+"Friday, Aug 18",boxscore,PHI,@,STL,L,2,3,14,39-67,7, 25.5,North,Ring,None,3:00,D,None,-,None
+"Saturday, Aug 19",boxscore,PHI,@,STL,W,8,7,None,40-67,7, 24.5,Smith,Sherdel,Weinert,2:22,D,None,+,None
+"Sunday, Aug 20",boxscore,PHI,@,STL,L,6,9,None,40-68,7, 25.5,Pfeffer,Weinert,None,2:45,D,None,-,None
+"Tuesday, Aug 22",boxscore,PHI,@,PIT,L,3,4,None,40-69,7, 26.5,Morrison,Meadows,None,1:40,D,None,--,None
+"Wednesday, Aug 23",boxscore,PHI,@,PIT,L,3,11,None,40-70,7, 27.0,Cooper,Hubbell,None,1:42,D,None,---,None
+"Thursday, Aug 24",boxscore,PHI,@,PIT,L,4,10,None,40-71,7, 28.0,Brown,Winters,None,1:36,D,None,----,None
+"Friday, Aug 25",boxscore,PHI,@,CHC,L,23,26,None,40-72,7, 29.0,Kaufmann,Ring,Osborne,3:01,D,"7,000",-----,None
+"Saturday, Aug 26",boxscore,PHI,@,CHC,W,3,0,11,41-72,7, 29.0,Meadows,Aldridge,None,None,D,None,+,None
+"Sunday, Aug 27",boxscore,PHI,@,CHC,L,1,3,None,41-73,7, 30.0,Cheeves,Ring,Osborne,None,D,None,-,None
+"Wednesday, Aug 30",boxscore,PHI,@,BSN,L,1,2,None,41-74,7, 29.5,Miller,Hubbell,None,1:31,D,None,--,None
+"Wednesday, Aug 30",boxscore,PHI,@,BSN,W,6,4,None,42-74,7, 29.5,Weinert,McNamara,None,1:59,D,"3,500",+,1922-04-20 (Rain)
+"Thursday, Aug 31",boxscore,PHI,@,BSN,L,4,5,None,42-75,7, 30.0,Marquard,Meadows,None,1:45,D,None,-,None
+"Thursday, Aug 31",boxscore,PHI,@,BSN,L,2,7,None,42-76,7, 30.0,Oeschger,Winters,None,1:55,D,None,--,1922-07-03 (Wet grounds)
+"Friday, Sep 1",boxscore,PHI,@,BSN,L,0,2,None,42-77,7, 30.5,Watson,Ring,None,1:32,D,None,---,None
+"Friday, Sep 1",boxscore,PHI,@,BSN,L,1,10,None,42-78,7, 30.5,Hulihan,Smith,None,2:02,D,None,----,1922-07-04 (Wet grounds)
+"Saturday, Sep 2",boxscore,PHI,@,BSN,L,2,3,None,42-79,7, 30.5,Cooney,Hubbell,None,1:34,D,None,-----,None
+"Saturday, Sep 2",boxscore,PHI,@,BSN,W,6,2,None,43-79,7, 30.5,Weinert,McNamara,None,1:52,D,None,+,1922-07-05 (Rain)
+"Sunday, Sep 3",boxscore,PHI,@,NYG,L,7,8,None,43-80,7, 31.5,Jonnard,Ring,None,None,D,"18,000",-,None
+"Monday, Sep 4",boxscore,PHI,None,BRO,W,5,4,None,44-80,7, 30.5,Meadows,Shriver,None,None,D,"8,000",+,None
+"Monday, Sep 4",boxscore,PHI,None,BRO,W,7,6,16,45-80,7, 30.5,Behan,Decatur,None,None,D,None,++,None
+"Tuesday, Sep 5",boxscore,PHI,None,BRO,W,11,3,None,46-80,7, 29.5,Ring,Vance,None,None,D,"3,000",+++,None
+"Tuesday, Sep 5",boxscore,PHI,None,BRO,L,7,8,None,46-81,7, 29.5,Ruether,Weinert,Grimes,None,D,"5,000",-,None
+"Wednesday, Sep 6",boxscore,PHI,None,BRO,W,6,4,None,47-81,7, 29.0,Hubbell,Cadore,Winters,None,D,"2,000",+,None
+"Thursday, Sep 7",boxscore,PHI,None,NYG,L,6,13,None,47-82,7, 30.0,Scott,Weinert,None,None,D,"2,000",-,None
+"Friday, Sep 8",boxscore,PHI,None,NYG,W,8,4,None,48-82,7, 29.0,Meadows,Nehf,None,None,D,"1,500",+,None
+"Saturday, Sep 9",boxscore,PHI,None,NYG,L,2,3,None,48-83,7, 30.0,McQuillan,Ring,None,None,D,"8,000",-,None
+"Wednesday, Sep 13",boxscore,PHI,None,STL,L,4,13,None,48-84,7, 33.0,Pfeffer,Meadows,None,1:45,D,None,--,None
+"Wednesday, Sep 13",boxscore,PHI,None,STL,L,1,11,None,48-85,7, 33.0,North,Hubbell,None,1:59,D,"2,000",---,1922-09-12 (Rain)
+"Thursday, Sep 14",boxscore,PHI,None,STL,L,4,9,None,48-86,7, 34.0,Haines,Behan,Barfoot,1:45,D,None,----,None
+"Friday, Sep 15",boxscore,PHI,None,STL,W,10,9,None,49-86,7, 34.0,Weinert,Sherdel,None,2:25,D,None,+,None
+"Saturday, Sep 16",boxscore,PHI,None,PIT,L,6,11,None,49-87,7, 34.0,Cooper,Meadows,None,None,D,None,-,None
+"Saturday, Sep 16",boxscore,PHI,None,PIT,W,8,6,None,50-87,7, 34.0,Behan,Carlson,None,1:45,D,None,+,1922-06-06 (Rain)
+"Monday, Sep 18",boxscore,PHI,None,PIT,L,3,11,None,50-88,7, 34.0,Morrison,Hubbell,None,1:42,D,None,-,None
+"Monday, Sep 18",boxscore,PHI,None,PIT,W,5,2,None,51-88,7, 34.0,Weinert,Hamilton,None,1:25,D,None,+,1922-08-09 (Wet grounds)
+"Tuesday, Sep 19",boxscore,PHI,None,PIT,L,1,6,None,51-89,7, 34.5,Glazner,Ring,None,1:45,D,"1,000",-,None
+"Wednesday, Sep 20",boxscore,PHI,None,CHC,W,9,8,None,52-89,7, 33.0,Winters,Osborne,None,2:11,D,None,+,None
+"Wednesday, Sep 20",boxscore,PHI,None,CHC,W,11,1,None,53-89,7, 33.0,Behan,Aldridge,None,None,D,None,++,1922-06-20 (Rain)
+"Thursday, Sep 21",boxscore,PHI,None,CHC,L,6,8,None,53-90,7, 32.5,Keen,Weinert,None,1:45,D,None,-,None
+"Thursday, Sep 21",boxscore,PHI,None,CHC,W,4,2,None,54-90,7, 32.5,Hubbell,Kaufmann,None,None,D,None,+,1922-08-01 (Rain)
+"Friday, Sep 22",boxscore,PHI,None,CHC,L,5,7,11,54-91,7, 33.0,Cheeves,Smith,None,2:04,D,None,-,None
+"Friday, Sep 22",boxscore,PHI,None,CHC,W,9,5,None,55-91,7, 33.0,Winters,Osborne,None,None,D,None,+,None
+"Saturday, Sep 23",boxscore,PHI,None,CIN,L,4,5,None,55-92,7, 34.0,Donohue,Meadows,None,1:35,D,None,-,None
+"Monday, Sep 25",boxscore,PHI,None,CIN,L,3,10,None,55-93,7, 34.5,Rixey,Behan,None,1:42,D,None,--,None
+"Tuesday, Sep 26",boxscore,PHI,None,CIN,L,8,15,None,55-94,7, 35.5,Luque,Hubbell,None,1:56,D,None,---,None
+"Wednesday, Sep 27",boxscore,PHI,@,NYG,W,5,3,10,56-94,7, 35.5,Weinert,Johnson,None,None,D,"2,000",+,1922-07-01 (Rain)
+"Wednesday, Sep 27",boxscore,PHI,@,NYG,L,2,3,None,56-95,7, 35.5,Scott,Ring,None,None,D,"2,500",-,1922-05-05 (Wet grounds)
+"Saturday, Sep 30",boxscore,PHI,@,BRO,L,4,6,None,56-96,7, 36.0,Ruether,Meadows,None,1:30,D,None,--,None
+"Sunday, Oct 1",boxscore,PHI,@,BRO,W,6,0,None,57-96,7, 35.5,Behan,Grimes,None,None,D,"4,000",+,None

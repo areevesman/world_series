@@ -1,0 +1,162 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 11",boxscore,NYM,None,PIT,W,3,0,None,1-1,3, 0.5,Viola,Smiley,Franco,2:03,D,"16,880",+,None
+"Thursday, Apr 12",boxscore,NYM,None,PIT,L,2,6,None,1-2,4, 1.0,Heaton,Fernandez,None,3:04,D,"16,544",-,None
+"Friday, Apr 13",boxscore,NYM,@,MON,W,4,1,10,2-2,3, 1.0,Machado,Hall,Franco,3:00,D,"44,183",+,None
+"Saturday, Apr 14",boxscore,NYM,@,MON,L,5,6,None,2-3,3, 2.0,Martinez,Gooden,Frey,2:49,D,"16,165",-,None
+"Sunday, Apr 15",boxscore,NYM,@,MON,L,1,3,None,2-4,6, 2.0,Smith,Darling,Burke,2:28,N,"10,187",--,None
+"Monday, Apr 16",boxscore,NYM,@,CHC,W,10,1,None,3-4,4, 1.0,Viola,Wilson,Pena,2:48,D,"13,813",+,1990-04-06 (Strike)
+"Tuesday, Apr 17",boxscore,NYM,None,CHC,L,6,8,13,3-5,5, 2.0,Assenmacher,Innis,Wilkins,4:38,N,"13,964",-,None
+"Wednesday, Apr 18",boxscore,NYM,None,CHC,L,5,8,None,3-6,6, 3.0,Maddux,Cone,None,2:58,N,"21,561",--,None
+"Thursday, Apr 19",boxscore,NYM,None,CHC,W,4,1,None,4-6,5, 2.0,Gooden,Harkey,Franco,2:43,D,"18,780",+,None
+"Friday, Apr 20",boxscore,NYM,None,MON,L,1,2,None,4-7,6, 3.0,Smith,Darling,Burke,2:35,N,"24,130",-,None
+"Saturday, Apr 21",boxscore,NYM,None,MON,W,5,4,None,5-7,5, 2.0,Viola,Boyd,Franco,2:41,D,"20,748",+,None
+"Sunday, Apr 22",boxscore,NYM,None,MON,W,5,0,None,6-7,4, 2.0,Fernandez,Gardner,None,2:40,D,"32,843",++,None
+"Tuesday, Apr 24",boxscore,NYM,None,ATL,W-wo,2,1,None,7-7,4, 1.5,Machado,Stanton,None,2:32,N,"22,553",+++,None
+"Wednesday, Apr 25",boxscore,NYM,None,ATL,W,8,5,None,8-7,3, 1.5,Darling,Stanton,Franco,3:01,N,"19,935",++++,None
+"Friday, Apr 27",boxscore,NYM,@,HOU,W,1,0,None,9-7,2, 2.0,Viola,Portugal,Franco,2:21,N,"15,862",+++++,None
+"Saturday, Apr 28",boxscore,NYM,@,HOU,L,4,8,None,9-8,3, 3.0,Gullickson,Fernandez,Smith,2:54,N,"30,217",-,None
+"Sunday, Apr 29",boxscore,NYM,@,HOU,L-wo,1,2,10,9-9,4, 4.0,Darwin,Machado,None,3:04,D,"20,158",--,None
+"Monday, Apr 30",boxscore,NYM,@,ATL,L,4,7,None,9-10,4, 4.5,Smoltz,Cone,Boever,2:20,N,"8,232",---,None
+"Tuesday, May 1",boxscore,NYM,@,ATL,L,2,5,None,9-11,5, 4.5,Lilliquist,Darling,Kerfeld,2:28,N,"8,324",----,None
+"Wednesday, May 2",boxscore,NYM,None,CIN,W,5,0,None,10-11,4, 3.5,Viola,Browning,None,2:10,N,"22,668",+,None
+"Thursday, May 3",boxscore,NYM,None,CIN,L,0,5,None,10-12,5, 4.0,Armstrong,Fernandez,Myers,2:50,N,"26,899",-,None
+"Saturday, May 5",boxscore,NYM,None,HOU,L,5,9,None,10-13,5, 4.5,Scott,Gooden,Andersen,2:58,D,"23,409",--,None
+"Sunday, May 6",boxscore,NYM,None,HOU,W-wo,7,4,11,11-13,4, 4.5,Franco,Smith,None,3:26,D,None,+,None
+"Sunday, May 6",boxscore,NYM,None,HOU,W,7,6,None,12-13,4, 4.5,Pena,Schatzeder,None,2:44,N,"32,431",++,1990-05-04 (Rain)
+"Monday, May 7",boxscore,NYM,None,HOU,W,7,1,None,13-13,4, 4.5,Viola,Clancy,Whitehurst,2:51,N,"22,719",+++,None
+"Tuesday, May 8",boxscore,NYM,None,SFG,W,4,1,None,14-13,4, 4.5,Fernandez,Reuschel,Franco,3:00,N,"28,228",++++,None
+"Wednesday, May 9",boxscore,NYM,None,SFG,L,2,4,None,14-14,4, 5.5,Knepper,Ojeda,Bedrosian,2:35,N,"27,682",-,None
+"Friday, May 11",boxscore,NYM,None,LAD,W,9,4,None,15-14,4, 5.0,Gooden,Morgan,None,3:08,N,"34,817",+,None
+"Saturday, May 12",boxscore,NYM,None,LAD,W,7,0,None,16-14,4, 5.0,Viola,Wetteland,None,2:25,D,"41,935",++,None
+"Monday, May 14",boxscore,NYM,@,SFG,L,2,4,None,16-15,4, 5.5,Knepper,Fernandez,Bedrosian,3:04,N,"16,264",-,None
+"Tuesday, May 15",boxscore,NYM,@,SFG,L,5,6,None,16-16,4, 5.5,Thurmond,Ojeda,Bedrosian,2:58,N,"16,143",--,None
+"Wednesday, May 16",boxscore,NYM,@,SFG,L-wo,3,4,10,16-17,4, 6.0,Brantley,Pena,None,3:01,D,"18,985",---,None
+"Friday, May 18",boxscore,NYM,@,SDP,L,3,6,None,16-18,4, 6.5,Hurst,Viola,Lefferts,2:35,N,"26,905",----,None
+"Saturday, May 19",boxscore,NYM,@,SDP,W,6,4,None,17-18,4, 5.5,Cone,Benes,Franco,2:35,N,"36,577",+,None
+"Sunday, May 20",boxscore,NYM,@,SDP,L,1,3,None,17-19,5, 5.5,Harris,Darling,Lefferts,3:16,D,"25,233",-,None
+"Monday, May 21",boxscore,NYM,@,LAD,W,12,3,None,18-19,4, 4.5,Gooden,Morgan,Whitehurst,3:01,N,"39,876",+,None
+"Tuesday, May 22",boxscore,NYM,@,LAD,W,8,3,None,19-19,4, 4.5,Ojeda,Crews,Pena,3:16,D,"29,064",++,None
+"Thursday, May 24",boxscore,NYM,None,SDP,L,4,5,None,19-20,4, 4.5,Benes,Viola,Lefferts,3:06,N,"31,659",-,None
+"Friday, May 25",boxscore,NYM,None,SDP,L,4,5,None,19-21,4, 5.0,Rasmussen,Cone,Lefferts,3:06,N,"31,098",--,None
+"Saturday, May 26",boxscore,NYM,None,SDP,W,11,0,None,20-21,4, 4.5,Fernandez,Dunne,None,3:25,N,"26,498",+,None
+"Sunday, May 27",boxscore,NYM,None,SDP,L,4,8,None,20-22,4, 5.5,Whitson,Gooden,Lefferts,2:49,D,"47,876",-,None
+"Tuesday, May 29",boxscore,NYM,@,CIN,L,1,2,None,20-23,4, 7.0,Browning,Ojeda,Myers,1:59,N,"29,156",--,None
+"Friday, Jun 1",boxscore,NYM,@,PHI,W,4,0,None,21-23,4, 6.5,Viola,Cook,None,2:35,N,"34,457",+,None
+"Saturday, Jun 2",boxscore,NYM,@,PHI,L,4,5,None,21-24,4, 7.5,Howell,Gooden,McDowell,2:48,N,"41,950",-,None
+"Sunday, Jun 3",boxscore,NYM,@,PHI,L,3,8,None,21-25,4, 7.5,Combs,Fernandez,None,2:35,D,"43,643",--,None
+"Monday, Jun 4",boxscore,NYM,None,MON,L,3,5,None,21-26,4, 8.5,Sampen,Cone,Schmidt,3:13,N,"24,433",---,None
+"Tuesday, Jun 5",boxscore,NYM,None,MON,W-wo,6,5,11,22-26,4, 8.5,Franco,Mohorcic,None,3:41,N,"26,670",+,None
+"Wednesday, Jun 6",boxscore,NYM,None,MON,W,4,3,None,23-26,4, 8.5,Viola,Gross,Franco,2:47,N,"26,238",++,None
+"Thursday, Jun 7",boxscore,NYM,None,PIT,L,4,5,None,23-27,4, 9.5,Ruskin,Musselman,Kipper,2:49,N,"28,443",-,None
+"Friday, Jun 8",boxscore,NYM,None,PIT,W,7,1,None,24-27,4, 8.5,Fernandez,Walk,None,2:38,N,"29,710",+,None
+"Saturday, Jun 9",boxscore,NYM,None,PIT,W,9,3,None,25-27,4, 7.5,Cone,Patterson,None,3:06,N,"38,379",++,None
+"Sunday, Jun 10",boxscore,NYM,None,PIT,W,8,3,None,26-27,4, 6.5,Ojeda,Terrell,None,2:27,D,"46,868",+++,None
+"Monday, Jun 11",boxscore,NYM,@,CHC,L,5,8,None,26-28,4, 7.5,Williams,Pena,Assenmacher,2:27,N,"33,059",-,None
+"Tuesday, Jun 12",boxscore,NYM,@,CHC,W,19,8,None,27-28,4, 7.5,Gooden,Bielecki,None,3:12,D,"34,893",+,None
+"Wednesday, Jun 13",boxscore,NYM,@,CHC,W,15,10,None,28-28,3, 7.0,Franco,Lancaster,None,3:20,D,None,++,None
+"Wednesday, Jun 13",boxscore,NYM,@,CHC,W,9,6,None,29-28,3, 7.0,Darling,Harkey,None,3:08,D,"34,241",+++,1990-04-07 (Strike)
+"Friday, Jun 15",boxscore,NYM,@,PIT,W,7,5,None,30-28,3, 6.0,Ojeda,Terrell,Franco,3:04,N,"35,935",++++,None
+"Saturday, Jun 16",boxscore,NYM,@,PIT,L,6,11,None,30-29,4, 7.0,Kipper,Viola,None,2:41,N,"43,653",-,None
+"Sunday, Jun 17",boxscore,NYM,@,PIT,W,4,3,None,31-29,3, 6.0,Gooden,Heaton,Franco,3:10,D,"35,652",+,None
+"Tuesday, Jun 19",boxscore,NYM,None,STL,W,6,0,None,32-29,3, 5.0,Cone,Tudor,None,2:30,N,"27,668",++,None
+"Wednesday, Jun 20",boxscore,NYM,None,STL,W,6,3,None,33-29,3, 4.0,Fernandez,Smith,Franco,3:00,D,"35,237",+++,None
+"Friday, Jun 22",boxscore,NYM,None,PHI,W,5,1,None,34-29,3, 3.0,Viola,Howell,None,2:40,N,"43,587",++++,None
+"Saturday, Jun 23",boxscore,NYM,None,PHI,W,3,0,None,35-29,3, 2.5,Gooden,Combs,None,2:41,N,"45,661",+++++,None
+"Sunday, Jun 24",boxscore,NYM,None,PHI,W-wo,6,5,None,36-29,3, 2.0,Innis,McDowell,None,3:25,D,"47,836",++++++,None
+"Monday, Jun 25",boxscore,NYM,@,STL,W,3,2,None,37-29,3, 2.0,Cone,Smith,Franco,2:39,N,"33,598",+++++++,None
+"Tuesday, Jun 26",boxscore,NYM,@,STL,W,8,6,11,38-29,3, 2.0,Pena,Dayley,None,4:19,N,"32,220",++++++++,None
+"Wednesday, Jun 27",boxscore,NYM,@,STL,W,5,2,None,39-29,3, 2.0,Viola,Magrane,None,2:48,N,"31,705",+++++++++,None
+"Thursday, Jun 28",boxscore,NYM,None,CIN,W,5,4,None,40-29,2, 1.0,Gooden,Rijo,Franco,2:40,N,"43,647",++++++++++,None
+"Friday, Jun 29",boxscore,NYM,None,CIN,W,4,2,None,41-29,1, Tied,Ojeda,Mahler,Innis,2:18,N,"43,555",+++++++++++,None
+"Saturday, Jun 30",boxscore,NYM,None,CIN,L,4,7,None,41-30,2, 1.0,Charlton,Musselman,Myers,3:10,D,"49,128",-,None
+"Sunday, Jul 1",boxscore,NYM,None,CIN,W-wo,3,2,None,42-30,2, 1.0,Franco,Charlton,None,2:46,D,"42,907",+,None
+"Tuesday, Jul 3",boxscore,NYM,None,HOU,W,12,0,None,43-30,2, 1.5,Viola,Portugal,None,2:26,N,"39,938",++,None
+"Wednesday, Jul 4",boxscore,NYM,None,HOU,W,7,4,None,44-30,2, 0.5,Gooden,Agosto,Franco,2:46,N,"48,072",+++,None
+"Thursday, Jul 5",boxscore,NYM,@,ATL,W,9,8,None,45-30,2, 0.5,Whitehurst,Hesketh,Franco,3:04,N,"34,312",++++,None
+"Friday, Jul 6",boxscore,NYM,@,ATL,W,10,7,None,46-30,2, 0.5,Cone,Avery,None,3:13,N,"26,513",+++++,None
+"Saturday, Jul 7",boxscore,NYM,@,ATL,L,3,4,None,46-31,2, 0.5,Mercker,Innis,None,2:35,N,"38,267",-,None
+"Sunday, Jul 8",boxscore,NYM,@,ATL,W,2,1,None,47-31,2, 0.5,Viola,Clary,Franco,2:47,D,"15,866",+,None
+"Thursday, Jul 12",boxscore,NYM,@,CIN,W,10,3,None,48-31,2, 1.0,Gooden,Charlton,None,3:23,N,None,++,None
+"Thursday, Jul 12",boxscore,NYM,@,CIN,L,2,3,None,48-32,2, 1.0,Jackson,Darling,Myers,2:33,N,"37,540",-,1990-05-28 (Rain)
+"Friday, Jul 13",boxscore,NYM,@,CIN,L,2,4,None,48-33,2, 2.0,Browning,Viola,Myers,2:27,N,"35,336",--,None
+"Saturday, Jul 14",boxscore,NYM,@,CIN,W,6,3,None,49-33,2, 2.0,Cone,Armstrong,Franco,3:04,N,"48,494",+,None
+"Sunday, Jul 15",boxscore,NYM,@,CIN,L,1,2,None,49-34,2, 2.0,Charlton,Fernandez,Myers,2:40,D,"40,533",-,None
+"Monday, Jul 16",boxscore,NYM,@,HOU,L,1,4,None,49-35,2, 2.0,Portugal,Ojeda,Andersen,2:35,N,"16,942",--,None
+"Tuesday, Jul 17",boxscore,NYM,@,HOU,W,6,2,None,50-35,2, 1.0,Gooden,Gullickson,Franco,3:20,N,"18,981",+,None
+"Wednesday, Jul 18",boxscore,NYM,@,HOU,L,0,1,None,50-36,2, 2.0,Scott,Pena,None,2:10,N,"18,891",-,None
+"Thursday, Jul 19",boxscore,NYM,None,ATL,W,6,2,None,51-36,2, 1.5,Cone,Leibrandt,Franco,2:42,N,"39,678",+,None
+"Friday, Jul 20",boxscore,NYM,None,ATL,W,6,1,None,52-36,2, 1.5,Fernandez,Avery,Pena,2:49,N,"36,096",++,None
+"Saturday, Jul 21",boxscore,NYM,None,ATL,W,4,2,None,53-36,2, 0.5,Darling,Clary,Franco,2:32,N,"37,779",+++,None
+"Sunday, Jul 22",boxscore,NYM,None,ATL,L,2,3,10,53-37,2, 1.5,Mercker,Innis,None,3:05,D,"48,050",-,None
+"Monday, Jul 23",boxscore,NYM,@,PHI,L,4,7,None,53-38,2, 1.5,Akerfelds,Viola,McDowell,3:09,N,"39,260",--,None
+"Tuesday, Jul 24",boxscore,NYM,@,PHI,W,7,4,None,54-38,2, 1.5,Machado,McDowell,Franco,2:49,N,"43,235",+,None
+"Wednesday, Jul 25",boxscore,NYM,@,PHI,W,10,9,None,55-38,2, 0.5,Fernandez,Parrett,Franco,3:38,N,"40,079",++,None
+"Thursday, Jul 26",boxscore,NYM,None,STL,W,6,1,None,56-38,1, Tied,Darling,Tewksbury,None,2:24,N,None,+++,None
+"Thursday, Jul 26",boxscore,NYM,None,STL,L,1,3,None,56-39,1, Tied,Hill,Ojeda,Smith,2:41,N,"45,936",-,1990-06-18 (Rain)
+"Friday, Jul 27",boxscore,NYM,None,STL,W,10,1,None,57-39,1,up 1.0,Viola,Smith,None,2:37,N,"43,184",+,None
+"Saturday, Jul 28",boxscore,NYM,None,STL,L,0,1,None,57-40,1,up 1.0,Magrane,Cone,Smith,2:51,D,"45,870",-,None
+"Sunday, Jul 29",boxscore,NYM,None,STL,W,6,0,None,58-40,1,up 1.0,Gooden,DeLeon,None,2:32,N,"41,946",+,None
+"Tuesday, Jul 31",boxscore,NYM,@,MON,L,4,7,None,58-41,1, Tied,Boyd,Fernandez,Burke,3:11,N,"24,386",-,None
+"Wednesday, Aug 1",boxscore,NYM,@,MON,W,6,4,12,59-41,1,up 1.0,Ojeda,Sampen,None,3:33,N,"28,556",+,None
+"Thursday, Aug 2",boxscore,NYM,@,MON,W,5,1,None,60-41,1,up 1.0,Viola,Martinez,None,2:45,D,"32,507",++,None
+"Friday, Aug 3",boxscore,NYM,@,STL,W,5,4,None,61-41,1,up 1.0,Machado,Smith,Franco,3:28,N,"38,087",+++,None
+"Saturday, Aug 4",boxscore,NYM,@,STL,L,5,7,None,61-42,1, Tied,Hill,Gooden,DiPino,2:49,D,"41,874",-,None
+"Sunday, Aug 5",boxscore,NYM,@,STL,L,3,8,None,61-43,1, Tied,Tudor,Fernandez,None,2:55,D,"35,997",--,None
+"Monday, Aug 6",boxscore,NYM,@,STL,L,1,5,None,61-44,2, 1.5,Magrane,Darling,Smith,2:47,N,"37,130",---,None
+"Tuesday, Aug 7",boxscore,NYM,None,PHI,L,0,9,None,61-45,2, 2.5,de Jesus,Viola,None,2:44,N,"33,120",----,None
+"Wednesday, Aug 8",boxscore,NYM,None,PHI,W,8,4,None,62-45,2, 1.5,Cone,Carman,None,2:47,D,"41,204",+,None
+"Thursday, Aug 9",boxscore,NYM,None,PHI,W,5,4,None,63-45,2, 0.5,Ojeda,Akerfelds,Franco,3:34,N,"39,240",++,None
+"Friday, Aug 10",boxscore,NYM,None,CHC,W,5,1,None,64-45,1,up 0.5,Fernandez,Maddux,None,2:33,N,"34,090",+++,None
+"Saturday, Aug 11",boxscore,NYM,None,CHC,L,3,6,None,64-46,1,up 0.5,Wilson,Darling,Assenmacher,2:57,N,"45,710",-,None
+"Sunday, Aug 12",boxscore,NYM,None,CHC,L,2,10,None,64-47,1,up 0.5,Harkey,Viola,None,2:34,D,"46,538",--,None
+"Tuesday, Aug 14",boxscore,NYM,None,LAD,W,9,8,None,65-47,2, 0.5,Gooden,Martinez,Franco,3:38,N,None,+,None
+"Tuesday, Aug 14",boxscore,NYM,None,LAD,L,1,2,None,65-48,2, 0.5,Hartley,Cone,Howell,2:39,N,"46,004",-,1990-05-13 (Rain)
+"Wednesday, Aug 15",boxscore,NYM,None,LAD,L,2,3,None,65-49,2, 0.5,Morgan,Fernandez,Howell,2:31,N,"43,139",--,None
+"Thursday, Aug 16",boxscore,NYM,None,LAD,W,4,1,None,66-49,2, 0.5,Darling,Belcher,Franco,2:32,D,"41,715",+,None
+"Friday, Aug 17",boxscore,NYM,@,SFG,L,2,3,None,66-50,2, 2.0,Garrelts,Viola,Bedrosian,2:44,N,"28,099",-,None
+"Saturday, Aug 18",boxscore,NYM,@,SFG,W,9,2,None,67-50,2, 2.0,Cone,Wilson,None,2:44,D,"39,061",+,None
+"Sunday, Aug 19",boxscore,NYM,@,SFG,W,10,9,None,68-50,2, 2.0,Gooden,LaCoss,Franco,3:48,N,"33,251",++,None
+"Monday, Aug 20",boxscore,NYM,@,SDP,L,1,3,None,68-51,2, 3.0,Hurst,Fernandez,Lefferts,2:48,N,"22,497",-,None
+"Tuesday, Aug 21",boxscore,NYM,@,SDP,L,0,7,None,68-52,2, 3.0,Whitson,Darling,None,2:01,N,"23,006",--,None
+"Wednesday, Aug 22",boxscore,NYM,@,SDP,W,4,1,None,69-52,2, 3.0,Viola,Schiraldi,Franco,3:02,D,"18,547",+,None
+"Thursday, Aug 23",boxscore,NYM,@,LAD,L,2,4,None,69-53,2, 4.0,Valenzuela,Cone,Howell,2:53,N,"44,997",-,None
+"Friday, Aug 24",boxscore,NYM,@,LAD,W,3,2,None,70-53,2, 3.0,Gooden,Gott,Franco,2:58,N,"48,358",+,None
+"Saturday, Aug 25",boxscore,NYM,@,LAD,L-wo,2,3,14,70-54,2, 3.0,Aase,Darling,None,4:33,D,"38,269",-,None
+"Sunday, Aug 26",boxscore,NYM,@,LAD,L,1,2,None,70-55,2, 3.0,Hartley,Viola,Howell,2:50,D,"45,313",--,None
+"Tuesday, Aug 28",boxscore,NYM,None,SDP,W,4,0,None,71-55,2, 2.0,Cone,Schiraldi,None,2:26,N,"32,744",+,None
+"Wednesday, Aug 29",boxscore,NYM,None,SDP,W-wo,2,1,None,72-55,2, 2.0,Ojeda,Harris,None,2:55,N,"30,020",++,None
+"Thursday, Aug 30",boxscore,NYM,None,SFG,W,12,2,None,73-55,2, 1.5,Fernandez,LaCoss,None,2:51,N,"38,630",+++,None
+"Friday, Aug 31",boxscore,NYM,None,SFG,W-wo,4,3,None,74-55,2, 0.5,Viola,Bedrosian,None,2:30,N,"41,239",++++,None
+"Saturday, Sep 1",boxscore,NYM,None,SFG,W,6,5,None,75-55,1,up 0.5,Valera,Burkett,Franco,2:44,D,"40,082",+++++,None
+"Sunday, Sep 2",boxscore,NYM,None,SFG,W,10,6,None,76-55,1,up 0.5,Cone,McClellan,Pena,3:33,D,"43,686",++++++,None
+"Monday, Sep 3",boxscore,NYM,@,STL,W,9,3,None,77-55,1,up 0.5,Gooden,Tewksbury,None,2:58,D,"27,156",+++++++,None
+"Tuesday, Sep 4",boxscore,NYM,@,STL,L,0,1,None,77-56,2, 0.5,Magrane,Fernandez,Smith,2:33,N,"19,873",-,None
+"Wednesday, Sep 5",boxscore,NYM,@,PIT,L-wo,0,1,None,77-57,2, 2.5,Smith,Franco,None,2:32,N,None,--,None
+"Wednesday, Sep 5",boxscore,NYM,@,PIT,L,1,3,None,77-58,2, 2.5,Heaton,Ojeda,Power,2:34,N,"49,793",---,1990-06-14 (Rain)
+"Thursday, Sep 6",boxscore,NYM,@,PIT,L,1,7,None,77-59,2, 3.5,Tomlin,Valera,None,2:40,N,"32,528",----,None
+"Friday, Sep 7",boxscore,NYM,@,PHI,L,1,4,None,77-60,2, 3.5,de Jesus,Cone,None,2:49,N,"29,744",-----,None
+"Saturday, Sep 8",boxscore,NYM,@,PHI,W,12,2,None,78-60,2, 3.5,Gooden,Ruffin,None,3:14,N,"37,489",+,None
+"Sunday, Sep 9",boxscore,NYM,@,PHI,L,2,6,None,78-61,2, 3.5,Combs,Fernandez,Boever,2:58,D,"36,502",-,None
+"Monday, Sep 10",boxscore,NYM,None,STL,W,10,1,None,79-61,2, 3.5,Viola,DeLeon,None,2:50,N,"26,577",+,None
+"Tuesday, Sep 11",boxscore,NYM,None,STL,W-wo,10,8,None,80-61,2, 3.5,Franco,Smith,None,3:14,N,"25,126",++,None
+"Wednesday, Sep 12",boxscore,NYM,None,PIT,W,2,1,None,81-61,2, 2.5,Cone,Smiley,None,2:11,N,"48,375",+++,None
+"Thursday, Sep 13",boxscore,NYM,None,PIT,W,6,3,None,82-61,2, 1.5,Gooden,Drabek,Franco,2:52,N,"51,079",++++,None
+"Friday, Sep 14",boxscore,NYM,None,PHI,L,1,4,None,82-62,2, 1.5,Combs,Fernandez,None,2:58,N,"36,339",-,None
+"Saturday, Sep 15",boxscore,NYM,None,PHI,W,4,2,None,83-62,2, 0.5,Viola,Mulholland,Franco,2:32,D,"45,202",+,None
+"Sunday, Sep 16",boxscore,NYM,None,PHI,L,3,8,None,83-63,2, 0.5,de Jesus,Cone,None,2:55,D,"44,813",-,None
+"Tuesday, Sep 18",boxscore,NYM,None,MON,L,3,4,None,83-64,2, 0.5,Burke,Franco,None,3:10,N,"29,435",--,None
+"Thursday, Sep 20",boxscore,NYM,None,MON,L,4,6,None,83-65,2, 2.5,Rojas,Viola,Burke,3:07,D,None,---,None
+"Thursday, Sep 20",boxscore,NYM,None,MON,L,0,2,None,83-66,2, 2.5,Nabholz,Fernandez,None,2:34,D,"33,711",----,1990-09-19 (Rain)
+"Friday, Sep 21",boxscore,NYM,@,CHC,L,3,4,None,83-67,2, 3.5,Assenmacher,Cone,None,2:19,D,"19,291",-----,None
+"Saturday, Sep 22",boxscore,NYM,@,CHC,W,11,5,None,84-67,2, 2.5,Darling,Nunez,None,3:05,D,"31,066",+,None
+"Sunday, Sep 23",boxscore,NYM,@,CHC,W,7,3,None,85-67,2, 2.5,Gooden,Maddux,None,2:53,D,"24,385",++,None
+"Monday, Sep 24",boxscore,NYM,@,CHC,L,3,4,None,85-68,2, 3.0,Assenmacher,Viola,None,2:54,D,"12,489",-,1990-04-08 (Strike)
+"Tuesday, Sep 25",boxscore,NYM,@,MON,W,3,1,None,86-68,2, 3.0,Pena,Nabholz,None,3:08,N,"11,959",+,None
+"Wednesday, Sep 26",boxscore,NYM,@,MON,W,4,0,None,87-68,2, 3.0,Cone,Martinez,None,2:58,N,"10,116",++,None
+"Thursday, Sep 27",boxscore,NYM,@,MON,W,6,0,None,88-68,2, 3.0,Darling,Gross,None,2:46,N,"10,123",+++,None
+"Friday, Sep 28",boxscore,NYM,None,CHC,W,7,1,None,89-68,2, 3.0,Gooden,Maddux,None,2:44,N,"37,586",++++,None
+"Saturday, Sep 29",boxscore,NYM,None,CHC,L,2,3,None,89-69,2, 4.0,Lancaster,Viola,Assenmacher,2:49,D,"38,664",-,None
+"Sunday, Sep 30",boxscore,NYM,None,CHC,L,5,6,None,89-70,2, 5.0,Nunez,Franco,Williams,3:16,D,"39,195",--,None
+"Monday, Oct 1",boxscore,NYM,@,PIT,W,4,1,None,90-70,2, 4.0,Cone,Smith,None,2:40,N,"50,393",+,1990-04-03 (Strike)
+"Tuesday, Oct 2",boxscore,NYM,@,PIT,L,4,9,None,90-71,2, 5.0,Landrum,Gooden,None,2:58,N,"50,028",-,1990-04-04 (Strike)
+"Wednesday, Oct 3",boxscore,NYM,@,PIT,W,6,3,None,91-71,2, 4.0,Viola,York,Pena,2:26,D,"27,641",+,1990-04-05 (Strike)

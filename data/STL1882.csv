@@ -1,0 +1,80 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, May 3",None,STL,None,LOU,W,6,4,None,2-0,1, Tied,None,None,None,None,None,None,++,None
+"Thursday, May 4",None,STL,None,LOU,W,14,5,None,3-0,1,up 1.0,None,None,None,None,None,None,+++,None
+"Friday, May 5",None,STL,@,LOU,L,1,2,None,3-1,1,up 0.5,None,None,None,None,None,None,-,None
+"Saturday, May 6",None,STL,@,LOU,L,0,3,None,3-2,1, Tied,None,None,None,None,None,None,--,None
+"Sunday, May 7",None,STL,@,LOU,L,3,10,None,3-3,3, 0.5,None,None,None,None,None,None,---,None
+"Wednesday, May 10",None,STL,@,PIT,L,5,9,None,3-4,5, 1.5,None,None,None,None,None,None,----,None
+"Wednesday, May 17",None,STL,@,BAL,W,5,3,None,4-4,2, 2.0,None,None,None,None,None,None,+,1882-05-16 (Unknown reason)
+"Thursday, May 18",None,STL,@,BAL,W,4,3,None,5-4,2, 2.0,None,None,None,None,None,None,++,None
+"Friday, May 19",None,STL,@,BAL,W,9,3,None,6-4,2, 1.0,None,None,None,None,None,None,+++,None
+"Saturday, May 20",None,STL,@,BAL,W,10,7,None,7-4,2, 0.5,None,None,None,None,None,None,++++,None
+"Tuesday, May 23",None,STL,@,PHA,W,12,8,None,8-4,1,up 0.5,None,None,None,None,None,None,+++++,None
+"Wednesday, May 24",None,STL,@,PHA,L,5,16,None,8-5,2, 0.5,None,None,None,None,None,None,-,None
+"Friday, May 26",None,STL,@,PHA,L,0,5,None,8-6,2, 1.5,None,None,None,None,None,None,--,None
+"Saturday, May 27",None,STL,@,PHA,W,10,9,None,9-6,2, 0.5,None,None,None,None,None,None,+,None
+"Tuesday, May 30",None,STL,@,BAL,W,12,0,None,10-6,1, Tied,None,None,None,None,None,None,++,None
+"Wednesday, May 31",None,STL,@,BAL,L,1,2,None,10-7,2, 1.0,None,None,None,None,None,None,-,None
+"Thursday, Jun 1",None,STL,@,PIT,L,4,11,None,10-8,2, 2.0,None,None,None,None,None,None,--,1882-05-09 (Unknown reason)
+"Sunday, Jun 4",None,STL,None,PIT,W,7,3,None,11-8,2, 0.5,None,None,None,None,None,None,+,1882-06-05 (Unknown reason)
+"Tuesday, Jun 6",None,STL,None,PIT,L,6,15,None,11-9,2, 2.0,None,None,None,None,None,None,-,None
+"Thursday, Jun 8",None,STL,None,PIT,W,6,5,None,12-9,2, 1.0,None,None,None,None,None,None,+,None
+"Saturday, Jun 10",None,STL,None,PIT,L,3,9,None,12-10,3, 1.5,None,None,None,None,None,None,-,None
+"Sunday, Jun 11",None,STL,None,BAL,W,7,1,None,13-10,3, 1.0,None,None,None,None,None,None,+,1882-06-12 (Unknown reason)
+"Tuesday, Jun 13",None,STL,None,BAL,W,12,5,None,14-10,2, 0.5,None,None,None,None,None,None,++,None
+"Thursday, Jun 15",None,STL,None,BAL,W,7,3,None,15-10,2, 0.5,None,None,None,None,None,None,+++,None
+"Saturday, Jun 17",None,STL,None,BAL,W,10,5,None,16-10,2, 0.5,None,None,None,None,None,None,++++,None
+"Sunday, Jun 18",None,STL,None,PHA,L,2,6,None,16-11,2, 1.0,None,None,None,None,None,None,-,1882-06-19 (Unknown reason)
+"Tuesday, Jun 20",None,STL,None,PHA,W,11,9,None,17-11,2, 1.0,None,None,None,None,None,None,+,None
+"Thursday, Jun 22",None,STL,None,PHA,W,10,4,None,18-11,2, 1.0,None,None,None,None,None,None,++,None
+"Saturday, Jun 24",None,STL,None,PHA,L,5,7,None,18-12,2, 1.5,None,None,None,None,None,None,-,None
+"Sunday, Jun 25",None,STL,None,LOU,W,3,0,None,19-12,2, 1.0,None,None,None,None,None,None,+,1882-06-26 (Unknown reason)
+"Tuesday, Jun 27",None,STL,None,LOU,W,8,5,None,20-12,2, 0.5,None,None,None,None,None,None,++,None
+"Thursday, Jun 29",None,STL,None,LOU,*H,0,0,None,21-12,2, 0.5,None,None,None,None,None,None,+++,None
+"Tuesday, Jul 4",None,STL,None,PIT,L,5,6,None,21-13,2, 1.5,None,None,None,None,None,None,-,None
+"Wednesday, Jul 5",None,STL,None,LOU,L,4,7,None,21-14,2, 2.0,None,None,None,None,None,None,--,1882-06-30 (Unknown reason)
+"Thursday, Jul 6",None,STL,None,LOU,W,21,17,None,22-14,2, 2.0,None,None,None,None,None,None,+,1882-07-06 (Site change)
+"Friday, Jul 7",None,STL,@,LOU,L,3,8,None,22-15,2, 3.0,None,None,None,None,None,None,-,1882-07-05 (Unknown reason)
+"Saturday, Jul 8",None,STL,@,LOU,L,3,8,None,22-16,2, 3.0,None,None,None,None,None,None,--,None
+"Sunday, Jul 9",None,STL,@,LOU,L,4,11,None,22-17,3, 3.5,None,None,None,None,None,None,---,1882-07-10 (Unknown reason)
+"Tuesday, Jul 11",None,STL,@,PIT,L,1,6,None,22-18,3, 3.5,None,None,None,None,None,None,----,None
+"Wednesday, Jul 12",None,STL,@,PIT,L,1,6,None,22-19,4, 4.0,None,None,None,None,None,None,-----,1882-05-11 (Rain)
+"Thursday, Jul 13",None,STL,@,PIT,W,3,1,None,23-19,3, 4.0,None,None,None,None,None,None,+,None
+"Saturday, Jul 15",None,STL,@,PIT,L,1,10,None,23-20,3, 5.5,None,None,None,None,None,None,-,None
+"Tuesday, Jul 18",None,STL,@,PHA,W,6,2,None,24-20,3, 5.0,None,None,None,None,None,None,+,None
+"Thursday, Jul 20",None,STL,@,PHA,L,5,17,None,24-21,3, 5.5,None,None,None,None,None,None,-,None
+"Friday, Jul 21",None,STL,@,PHA,L,3,8,None,24-22,4, 6.5,None,None,None,None,None,None,--,None
+"Saturday, Jul 22",None,STL,@,PHA,L,8,9,None,24-23,4, 7.5,None,None,None,None,None,None,---,None
+"Tuesday, Jul 25",None,STL,@,BAL,W,7,2,None,25-23,3, 7.0,None,None,None,None,None,None,+,None
+"Wednesday, Jul 26",None,STL,@,BAL,L,4,7,None,25-24,4, 7.5,None,None,None,None,None,None,-,None
+"Saturday, Jul 29",None,STL,@,CIN,L,3,5,None,25-25,4, 8.5,None,None,None,None,None,None,--,1882-08-04 (Unknown reason)
+"Tuesday, Aug 1",None,STL,@,CIN,W,1,0,None,26-25,4, 7.5,None,None,None,None,None,None,+,None
+"Wednesday, Aug 2",None,STL,@,CIN,L,0,13,None,26-26,4, 8.5,None,None,None,None,None,None,-,None
+"Thursday, Aug 3",None,STL,@,CIN,L,3,8,None,26-27,4, 9.5,None,None,None,None,None,None,--,None
+"Saturday, Aug 5",None,STL,@,CIN,L,1,13,None,26-28,4, 10.5,None,None,None,None,None,None,---,None
+"Sunday, Aug 6",None,STL,None,CIN,W,6,3,None,27-28,4, 9.5,None,None,None,None,None,None,+,1882-08-07 (Unknown reason)
+"Tuesday, Aug 8",None,STL,None,CIN,L,2,5,None,27-29,4, 10.5,None,None,None,None,None,None,-,None
+"Thursday, Aug 10",None,STL,None,CIN,W,4,3,None,28-29,4, 9.5,None,None,None,None,None,None,+,None
+"Saturday, Aug 12",None,STL,None,CIN,L,1,19,None,28-30,4, 10.5,None,None,None,None,None,None,-,None
+"Tuesday, Aug 15",None,STL,None,PHA,L,1,3,None,28-31,4, 11.5,None,None,None,None,None,None,--,None
+"Thursday, Aug 17",None,STL,None,PHA,L,5,6,None,28-32,4, 12.0,None,None,None,None,None,None,---,None
+"Saturday, Aug 19",None,STL,None,PHA,L,6,14,None,28-33,4, 13.0,None,None,None,None,None,None,----,None
+"Sunday, Aug 20",None,STL,None,PHA,L,5,10,None,28-34,5, 13.5,None,None,None,None,None,None,-----,1882-08-14 (Unknown reason)
+"Tuesday, Aug 22",None,STL,None,PIT,W,7,6,None,29-34,4, 13.5,None,None,None,None,None,None,+,None
+"Wednesday, Aug 23",None,STL,None,PIT,L,3,10,None,29-35,5, 14.5,None,None,None,None,None,None,-,1882-08-21 (Unknown reason)
+"Thursday, Aug 24",None,STL,None,PIT,L,2,7,None,29-36,5, 15.0,None,None,None,None,None,None,--,None
+"Saturday, Aug 26",None,STL,None,PIT,W,4,1,None,30-36,5, 14.5,None,None,None,None,None,None,+,1882-05-13 (Rain; Site change)
+"Sunday, Aug 27",None,STL,None,PIT,W,3,2,None,31-36,4, 14.5,None,None,None,None,None,None,++,1882-07-14 (Unknown reason; Site change)
+"Tuesday, Aug 29",None,STL,None,BAL,W,3,2,None,32-36,4, 13.5,None,None,None,None,None,None,+++,None
+"Thursday, Aug 31",None,STL,None,BAL,L,5,6,None,32-37,4, 13.5,None,None,None,None,None,None,-,None
+"Saturday, Sep 2",None,STL,None,BAL,W,11,4,None,33-37,4, 13.5,None,None,None,None,None,None,+,None
+"Sunday, Sep 3",None,STL,None,BAL,W,10,2,None,34-37,4, 13.0,None,None,None,None,None,None,++,1882-08-28 (Unknown reason)
+"Tuesday, Sep 5",None,STL,None,CIN,L,3,7,None,34-38,5, 14.0,None,None,None,None,None,None,-,None
+"Thursday, Sep 7",None,STL,None,CIN,L,1,4,None,34-39,5, 15.0,None,None,None,None,None,None,--,None
+"Saturday, Sep 9",None,STL,None,CIN,W,4,3,None,35-39,5, 14.0,None,None,None,None,None,None,+,None
+"Sunday, Sep 10",None,STL,None,CIN,L,1,9,None,35-40,5, 15.0,None,None,None,None,None,None,-,1882-09-04 (Unknown reason)
+"Tuesday, Sep 19",None,STL,@,CIN,W,7,3,None,36-40,5, 15.0,None,None,None,None,None,None,+,1882-09-17 (Unknown reason)
+"Friday, Sep 22",None,STL,@,CIN,W,5,4,None,37-40,5, 14.0,None,None,None,None,None,None,++,1882-09-20 (Unknown reason)
+"Saturday, Sep 23",None,STL,@,CIN,L,1,4,None,37-41,5, 15.0,None,None,None,None,None,None,-,None
+"Saturday, Sep 30",None,STL,None,LOU,L,3,6,None,37-42,5, 17.5,None,None,None,None,None,None,--,1882-09-30 (Site change)
+"Sunday, Oct 1",None,STL,None,LOU,L,1,5,None,37-43,5, 18.0,None,None,None,None,None,None,---,1882-07-01 (Unknown reason)

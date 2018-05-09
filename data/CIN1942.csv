@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 15",boxscore,CIN,None,PIT,L,2,6,None,0-2,7, 2.0,Dietz,Riddle,None,2:16,D,"3,628",--,None
+"Thursday, Apr 16",boxscore,CIN,None,PIT,W,8,7,12,1-2,5, 2.0,Beggs,Wilkie,None,3:27,D,"2,421",+,None
+"Friday, Apr 17",boxscore,CIN,@,CHC,L,2,3,None,1-3,6, 3.0,Lee,Vander Meer,None,1:58,D,"10,149",-,None
+"Sunday, Apr 19",boxscore,CIN,@,CHC,W,2,1,14,2-3,6, 1.5,Beggs,Passeau,None,2:57,D,"11,230",+,None
+"Tuesday, Apr 21",boxscore,CIN,@,STL,L,0,8,None,2-4,7, 3.0,Cooper,Walters,None,1:46,D,"2,915",-,None
+"Wednesday, Apr 22",boxscore,CIN,@,STL,L,1,6,None,2-5,7, 4.0,Gumbert,Riddle,None,1:50,D,"2,471",--,None
+"Thursday, Apr 23",boxscore,CIN,@,PIT,W,5,3,None,3-5,6, 4.0,Vander Meer,Lanning,None,2:10,D,"4,533",+,None
+"Friday, Apr 24",boxscore,CIN,@,PIT,W,9,5,None,4-5,6, 3.0,Starr,Dietz,Beggs,2:24,D,"4,971",++,None
+"Saturday, Apr 25",boxscore,CIN,None,CHC,L,4,5,11,4-6,6, 4.0,Passeau,Derringer,None,2:25,D,"4,872",-,None
+"Sunday, Apr 26",boxscore,CIN,None,CHC,W,9,5,None,5-6,5, 4.5,Thompson,Mooty,None,2:18,D,"12,858",+,None
+"Monday, Apr 27",boxscore,CIN,None,CHC,L,3,4,11,5-7,6, 5.0,Erickson,Vander Meer,None,3:03,D,"2,168",-,None
+"Tuesday, Apr 28",boxscore,CIN,None,BRO,L,3,7,None,5-8,7, 6.0,Casey,Riddle,None,None,D,None,--,None
+"Wednesday, Apr 29",boxscore,CIN,None,BRO,L,2,5,10,5-9,7, 7.0,Kimball,Walters,Allen,None,D,None,---,None
+"Thursday, Apr 30",boxscore,CIN,None,BRO,L,8,11,None,5-10,7, 8.0,French,Beggs,None,2:34,D,"2,620",----,None
+"Friday, May 1",boxscore,CIN,None,PHI,W,6,5,None,6-10,7, 7.0,Riddle,Podgajny,None,2:07,D,805,+,None
+"Saturday, May 2",boxscore,CIN,None,PHI,W,4,3,None,7-10,7, 6.0,Vander Meer,Blanton,None,2:10,D,"2,013",++,None
+"Sunday, May 3",boxscore,CIN,None,NYG,L,4,5,None,7-11,7, 5.5,Carpenter,Walters,None,1:50,D,"13,309",-,None
+"Monday, May 4",boxscore,CIN,None,NYG,W,15,4,None,8-11,7, 5.0,Starr,McGee,None,2:03,D,"1,202",+,None
+"Tuesday, May 5",boxscore,CIN,None,NYG,W-wo,2,1,10,9-11,6, 5.0,Walters,Schumacher,None,1:51,None,"1,737",++,None
+"Friday, May 8",boxscore,CIN,None,STL,L,2,5,None,9-12,6, 6.0,Warneke,Riddle,None,2:11,D,"1,163",-,None
+"Saturday, May 9",boxscore,CIN,None,STL,W,5,2,None,10-12,5, 5.5,Vander Meer,Gumbert,None,2:03,D,"3,262",+,None
+"Sunday, May 10",boxscore,CIN,None,STL,W,1,0,None,11-12,4, 5.0,Starr,Cooper,None,2:00,D,None,++,None
+"Sunday, May 10",boxscore,CIN,None,STL,W,3,0,None,12-12,4, 5.0,Walters,Beazley,None,1:47,D,"20,232",+++,None
+"Tuesday, May 12",boxscore,CIN,@,BRO,W,5,1,None,13-12,4, 4.0,Thompson,Allen,None,None,D,None,++++,None
+"Wednesday, May 13",boxscore,CIN,@,BRO,L,0,4,None,13-13,4, 5.0,Davis,Vander Meer,None,None,D,None,-,None
+"Thursday, May 14",boxscore,CIN,@,NYG,L,6,12,None,13-14,5, 6.0,Feldman,Beggs,Adams,2:41,D,"5,470",--,None
+"Friday, May 15",boxscore,CIN,@,NYG,L,5,13,None,13-15,7, 7.0,Carpenter,Starr,None,2:30,D,"4,390",---,None
+"Saturday, May 16",boxscore,CIN,@,NYG,L,2,7,None,13-16,7, 8.0,Lohrman,Thompson,None,1:55,D,"6,491",----,None
+"Sunday, May 17",boxscore,CIN,@,BSN,W,9,3,None,14-16,6, 8.5,Walters,Tobin,None,2:00,D,"24,908",+,None
+"Tuesday, May 19",boxscore,CIN,@,BSN,L,1,2,None,14-17,6, 10.0,Sain,Riddle,None,2:03,D,"1,931",-,None
+"Wednesday, May 20",boxscore,CIN,@,PHI,W,10,3,None,15-17,5, 9.0,Starr,Hughes,None,1:44,D,"1,145",+,None
+"Thursday, May 21",boxscore,CIN,@,PHI,L,2,3,None,15-18,5, 9.5,Johnson,Derringer,None,1:50,D,"1,068",-,None
+"Saturday, May 23",boxscore,CIN,@,STL,L,3,6,None,15-19,6, 9.0,Krist,Thompson,None,2:21,D,"3,160",--,None
+"Sunday, May 24",boxscore,CIN,@,STL,W,3,2,None,16-19,5, 8.5,Vander Meer,Beazley,None,2:04,D,None,+,None
+"Sunday, May 24",boxscore,CIN,@,STL,W,2,0,None,17-19,5, 8.5,Starr,Gumbert,None,1:57,D,"18,074",++,None
+"Monday, May 25",boxscore,CIN,None,PIT,W,6,1,None,18-19,4, 8.5,Derringer,Butcher,None,2:01,N,"16,205",+++,None
+"Wednesday, May 27",boxscore,CIN,@,CHC,W,10,1,None,19-19,4, 8.5,Walters,Erickson,None,2:14,D,"9,966",++++,None
+"Thursday, May 28",boxscore,CIN,@,CHC,L,1,2,12,19-20,4, 9.5,Lee,Starr,None,2:26,D,"2,544",-,None
+"Friday, May 29",boxscore,CIN,@,CHC,L,5,6,11,19-21,4, 9.5,Passeau,Beggs,None,2:49,D,"4,660",--,None
+"Saturday, May 30",boxscore,CIN,None,STL,W,3,2,None,20-21,4, 9.5,Vander Meer,Gumbert,None,1:57,D,None,+,None
+"Saturday, May 30",boxscore,CIN,None,STL,L,5,10,None,20-22,4, 9.5,Warneke,Thompson,Beazley,2:33,D,"16,017",-,None
+"Sunday, May 31",boxscore,CIN,None,PIT,W,8,2,None,21-22,4, 9.5,Walters,Sewell,None,1:57,D,None,+,None
+"Sunday, May 31",boxscore,CIN,None,PIT,W,3,0,None,22-22,4, 9.5,Starr,Butcher,None,1:48,D,"16,721",++,None
+"Tuesday, Jun 2",boxscore,CIN,None,PHI,L,0,1,10,22-23,5, 10.5,Johnson,Riddle,None,1:55,D,"1,486",-,None
+"Wednesday, Jun 3",boxscore,CIN,None,PHI,L,1,2,10,22-24,5, 11.0,Melton,Derringer,None,2:21,N,"11,047",--,None
+"Friday, Jun 5",boxscore,CIN,None,BSN,W-wo,3,2,None,23-24,4, 10.0,Vander Meer,Javery,None,2:04,D,None,+,None
+"Friday, Jun 5",boxscore,CIN,None,BSN,W,6,1,None,24-24,4, 10.0,Starr,Earley,None,2:03,D,"3,590",++,1942-05-06 (Rain)
+"Saturday, Jun 6",boxscore,CIN,None,BSN,W,8,2,None,25-24,4, 10.0,Walters,Tobin,None,1:42,D,"2,549",+++,None
+"Sunday, Jun 7",boxscore,CIN,None,BSN,W,6,2,None,26-24,3, 10.0,Shoun,Sain,None,2:06,D,None,++++,None
+"Sunday, Jun 7",boxscore,CIN,None,BSN,W,3,2,None,27-24,3, 10.0,Beggs,Javery,None,2:08,D,"16,392",+++++,None
+"Monday, Jun 8",boxscore,CIN,None,BSN,W,3,1,None,28-24,3, 9.5,Derringer,Earley,None,1:40,D,"1,370",++++++,None
+"Tuesday, Jun 9",boxscore,CIN,None,NYG,L,1,3,None,28-25,3, 10.0,Lohrman,Thompson,None,1:50,D,"2,296",-,None
+"Wednesday, Jun 10",boxscore,CIN,None,NYG,L,1,6,None,28-26,3, 10.5,Schumacher,Vander Meer,Adams,2:18,N,"14,183",--,None
+"Sunday, Jun 14",boxscore,CIN,None,BRO,L,1,4,None,28-27,3, 10.5,Wyatt,Walters,None,1:58,D,None,---,None
+"Sunday, Jun 14",boxscore,CIN,None,BRO,W,2,1,None,29-27,3, 10.5,Starr,Davis,None,1:42,D,"27,258",+,None
+"Tuesday, Jun 16",boxscore,CIN,@,BSN,W,5,0,None,30-27,3, 9.5,Vander Meer,Javery,None,1:47,D,"1,557",++,None
+"Wednesday, Jun 17",boxscore,CIN,@,BSN,W,4,2,None,31-27,3, 9.0,Derringer,Earley,None,2:00,None,"3,000",+++,None
+"Wednesday, Jun 17",boxscore,CIN,@,BSN,W,4,3,11,32-27,3, 9.0,Starr,Tobin,None,2:21,None,"3,122",++++,None
+"Friday, Jun 19",boxscore,CIN,@,PHI,W,6,4,None,33-27,3, 9.5,Walters,Johnson,Beggs,None,None,None,+++++,None
+"Saturday, Jun 20",boxscore,CIN,@,PHI,W,7,0,None,34-27,3, 9.5,Riddle,Melton,None,None,None,None,++++++,None
+"Sunday, Jun 21",boxscore,CIN,@,PHI,L,2,3,None,34-28,3, 9.5,Hughes,Vander Meer,None,None,None,None,-,None
+"Sunday, Jun 21",boxscore,CIN,@,PHI,W,2,1,None,35-28,3, 9.5,Starr,Podgajny,None,None,None,None,+,None
+"Tuesday, Jun 23",boxscore,CIN,@,NYG,L,0,7,None,35-29,3, 10.5,Lohrman,Derringer,None,1:55,D,"5,625",-,None
+"Wednesday, Jun 24",boxscore,CIN,@,NYG,W,4,3,10,36-29,3, 10.0,Walters,Schumacher,None,2:07,N,"12,915",+,None
+"Thursday, Jun 25",boxscore,CIN,@,BRO,L,0,4,None,36-30,3, 11.0,Allen,Starr,None,2:01,N,"24,020",-,None
+"Friday, Jun 26",boxscore,CIN,@,BRO,L-wo,4,5,10,36-31,3, 12.0,French,Shoun,None,2:36,D,"16,616",--,1942-09-14 (Schedule change)
+"Saturday, Jun 27",boxscore,CIN,@,BRO,W,3,1,None,37-31,3, 11.0,Vander Meer,Davis,None,None,D,None,+,None
+"Sunday, Jun 28",boxscore,CIN,@,BRO,W,6,3,None,38-31,3, 11.0,Derringer,Wyatt,None,2:09,D,None,++,None
+"Sunday, Jun 28",boxscore,CIN,@,BRO,L,1,2,None,38-32,3, 11.0,French,Walters,None,1:39,D,"31,165",-,None
+"Tuesday, Jun 30",boxscore,CIN,None,CHC,W,4,1,None,39-32,3, 10.5,Starr,Lee,None,1:57,N,"29,541",+,None
+"Wednesday, Jul 1",boxscore,CIN,None,CHC,L,2,5,None,39-33,3, 11.0,Passeau,Vander Meer,None,2:02,N,"7,098",-,None
+"Saturday, Jul 4",boxscore,CIN,@,PIT,W,2,0,None,40-33,3, 12.0,Walters,Butcher,None,1:41,None,"18,000",+,None
+"Sunday, Jul 5",boxscore,CIN,@,PIT,L,3,4,None,40-34,3, 12.0,Sewell,Derringer,None,2:16,D,None,-,None
+"Sunday, Jul 5",boxscore,CIN,@,PIT,W,5,2,None,41-34,3, 12.0,Starr,Hamlin,None,2:05,D,"11,365",+,1942-07-04 (Rain)
+"Thursday, Jul 9",boxscore,CIN,None,BRO,L,2,3,None,41-35,3, 13.0,Wyatt,Vander Meer,None,2:13,N,"18,034",-,None
+"Friday, Jul 10",boxscore,CIN,None,BRO,W-wo,2,1,10,42-35,3, 12.0,Walters,Higbe,None,2:18,D,"9,379",+,1942-06-12 (Inclement weather)
+"Saturday, Jul 11",boxscore,CIN,None,BRO,L,0,5,None,42-36,3, 14.0,Davis,Starr,None,1:58,D,None,-,None
+"Saturday, Jul 11",boxscore,CIN,None,BRO,L,2,3,15,42-37,3, 14.0,Casey,Shoun,None,3:45,D,"13,712",--,1942-06-13 (Inclement weather)
+"Sunday, Jul 12",boxscore,CIN,None,PHI,W,2,0,None,43-37,3, 13.0,Vander Meer,Hughes,None,1:42,D,None,+,None
+"Sunday, Jul 12",boxscore,CIN,None,PHI,W,2,1,None,44-37,3, 13.0,Riddle,Johnson,None,2:00,D,"9,185",++,None
+"Tuesday, Jul 14",boxscore,CIN,None,PHI,L,1,2,None,44-38,3, 14.0,Melton,Starr,None,1:59,D,"1,375",-,None
+"Wednesday, Jul 15",boxscore,CIN,None,BSN,W,6,2,None,45-38,3, 14.5,Walters,Tobin,None,1:54,D,None,+,None
+"Wednesday, Jul 15",boxscore,CIN,None,BSN,L,2,7,None,45-39,3, 14.5,Salvo,Derringer,None,1:55,D,"3,008",-,1942-05-07 (Inclement weather)
+"Thursday, Jul 16",boxscore,CIN,None,BSN,W,7,6,None,46-39,3, 14.0,Riddle,Earley,Beggs,2:21,N,"9,063",+,None
+"Saturday, Jul 18",boxscore,CIN,None,NYG,L,1,3,None,46-40,3, 15.0,Lohrman,Starr,None,1:50,D,"2,845",-,None
+"Sunday, Jul 19",boxscore,CIN,None,NYG,W,6,3,None,47-40,3, 14.0,Walters,Carpenter,None,2:03,D,None,+,None
+"Sunday, Jul 19",boxscore,CIN,None,NYG,L,3,4,None,47-41,3, 14.0,Adams,Vander Meer,None,2:34,D,"17,335",-,None
+"Tuesday, Jul 21",boxscore,CIN,@,BRO,L,4,8,None,47-42,3, 15.5,Allen,Derringer,None,2:08,D,"12,556",--,None
+"Wednesday, Jul 22",boxscore,CIN,@,BRO,L,1,5,None,47-43,3, 16.5,Higbe,Starr,None,1:49,N,"20,956",---,None
+"Friday, Jul 24",boxscore,CIN,@,NYG,L,2,3,11,47-44,4, 17.5,Feldman,Walters,None,2:25,D,"5,233",----,None
+"Saturday, Jul 25",boxscore,CIN,@,NYG,W,8,6,None,48-44,4, 16.5,Thompson,Lohrman,Beggs,2:24,D,"8,696",+,None
+"Sunday, Jul 26",boxscore,CIN,@,NYG,W,6,2,None,49-44,3, 16.5,Riddle,Carpenter,Beggs,2:17,D,None,++,None
+"Sunday, Jul 26",boxscore,CIN,@,NYG,W,2,1,None,50-44,3, 16.5,Derringer,Feldman,None,2:10,D,"37,159",+++,None
+"Tuesday, Jul 28",boxscore,CIN,@,PHI,W,8,1,None,51-44,3, 15.5,Vander Meer,Johnson,None,2:21,D,None,++++,None
+"Tuesday, Jul 28",boxscore,CIN,@,PHI,W,3,1,None,52-44,3, 15.5,Starr,Melton,None,1:36,D,"2,789",+++++,1942-07-27 (Rain)
+"Thursday, Jul 30",boxscore,CIN,@,PHI,L,2,4,None,52-45,3, 17.0,Pearson,Walters,None,None,None,None,-,1942-07-29 (Unknown reason)
+"Friday, Jul 31",boxscore,CIN,@,BSN,W,5,2,None,53-45,3, 16.5,Thompson,Earley,Beggs,2:05,D,"1,949",+,None
+"Saturday, Aug 1",boxscore,CIN,@,BSN,L,1,2,10,53-46,3, 17.5,Salvo,Starr,None,2:17,D,"2,669",-,None
+"Sunday, Aug 2",boxscore,CIN,@,BSN,L,0,7,None,53-47,3, 17.5,Javery,Riddle,None,1:48,D,None,--,None
+"Sunday, Aug 2",boxscore,CIN,@,BSN,W,4,2,None,54-47,3, 17.5,Derringer,Sain,None,2:03,D,"10,554",+,1942-05-18 (Inclement weather)
+"Tuesday, Aug 4",boxscore,CIN,None,STL,W,4,3,None,55-47,3, 17.5,Vander Meer,Krist,Beggs,2:07,D,"2,598",++,None
+"Wednesday, Aug 5",boxscore,CIN,None,STL,L,0,5,None,55-48,3, 18.5,Beazley,Walters,None,1:37,N,"15,079",-,None
+"Saturday, Aug 8",boxscore,CIN,None,CHC,W,2,1,12,56-48,3, 17.0,Beggs,Warneke,None,2:22,D,None,+,None
+"Saturday, Aug 8",boxscore,CIN,None,CHC,L,0,3,None,56-49,3, 17.0,Lee,Starr,None,1:41,D,"3,332",-,1942-08-07 (Inclement weather)
+"Sunday, Aug 9",boxscore,CIN,None,CHC,L,8,10,18,56-50,3, 17.0,Bithorn,Riddle,None,4:58,D,None,--,None
+"Sunday, Aug 9",boxscore,CIN,None,CHC,W,2,1,5,57-50,3, 17.0,Vander Meer,Bithorn,None,1:01,N,"15,326",+,None
+"Tuesday, Aug 11",boxscore,CIN,@,PIT,L,1,3,None,57-51,4, 18.0,Gornicki,Thompson,None,1:47,D,"2,108",-,None
+"Wednesday, Aug 12",boxscore,CIN,@,PIT,W,3,0,None,58-51,3, 18.0,Vander Meer,Sewell,None,1:55,N,"8,114",+,None
+"Friday, Aug 14",boxscore,CIN,@,STL,L,0,4,None,58-52,4, 19.5,Cooper,Derringer,None,1:31,N,"7,019",-,None
+"Sunday, Aug 16",boxscore,CIN,@,STL,L,5,10,None,58-53,4, 20.5,Lanier,Beggs,None,2:38,D,None,--,None
+"Sunday, Aug 16",boxscore,CIN,@,STL,L,3,6,None,58-54,4, 20.5,Beazley,Vander Meer,None,2:12,D,"13,838",---,None
+"Monday, Aug 17",boxscore,CIN,@,STL,L,2,5,None,58-55,4, 21.0,Krist,Starr,None,2:03,D,"1,792",----,1942-08-15 (Unknown reason)
+"Tuesday, Aug 18",boxscore,CIN,None,PIT,L,0,3,None,58-56,4, 21.0,Lanning,Walters,None,1:45,N,"6,475",-----,None
+"Wednesday, Aug 19",boxscore,CIN,None,PIT,L,2,9,None,58-57,4, 22.0,Gornicki,Derringer,None,2:18,D,"1,338",------,None
+"Thursday, Aug 20",boxscore,CIN,None,PIT,W,5,3,None,59-57,4, 22.0,Vander Meer,Sewell,None,1:57,D,"1,324",+,None
+"Friday, Aug 21",boxscore,CIN,@,CHC,L,3,6,None,59-58,4, 22.5,Lee,Starr,None,2:02,D,"5,704",-,None
+"Saturday, Aug 22",boxscore,CIN,@,CHC,L,4,5,11,59-59,4, 23.5,Errickson,Thompson,None,2:48,D,"5,616",--,None
+"Sunday, Aug 23",boxscore,CIN,@,CHC,L,0,3,None,59-60,4, 25.5,Passeau,Walters,None,1:45,D,None,---,None
+"Sunday, Aug 23",boxscore,CIN,@,CHC,L,0,3,None,59-61,4, 25.5,Warneke,Derringer,None,1:28,D,"30,936",----,1942-04-18 (Rain)
+"Tuesday, Aug 25",boxscore,CIN,None,NYG,W,3,1,None,60-61,4, 24.0,Vander Meer,Hubbell,None,2:13,N,"6,010",+,None
+"Wednesday, Aug 26",boxscore,CIN,None,NYG,L,2,11,None,60-62,4, 24.0,Lohrman,Riddle,None,2:06,D,"1,672",-,None
+"Thursday, Aug 27",boxscore,CIN,None,NYG,L,0,2,11,60-63,4, 25.0,Feldman,Starr,None,2:50,D,"1,119",--,None
+"Friday, Aug 28",boxscore,CIN,None,BSN,L,2,4,None,60-64,4, 26.0,Javery,Walters,None,1:49,N,"3,936",---,None
+"Saturday, Aug 29",boxscore,CIN,None,BSN,W,1,0,None,61-64,4, 25.0,Derringer,Salvo,None,1:33,D,"1,187",+,None
+"Sunday, Aug 30",boxscore,CIN,None,PHI,W,2,0,None,62-64,4, 24.0,Vander Meer,Hughes,None,1:49,D,None,++,None
+"Sunday, Aug 30",boxscore,CIN,None,PHI,W,8,5,None,63-64,4, 24.0,Starr,Podgajny,Beggs,2:21,D,"6,437",+++,None
+"Monday, Aug 31",boxscore,CIN,None,PHI,W,8,1,None,64-64,4, 24.0,Riddle,Melton,None,1:58,N,"4,108",++++,None
+"Tuesday, Sep 1",boxscore,CIN,None,PHI,W,4,3,11,65-64,4, 24.0,Beggs,Johnson,None,2:24,D,"1,030",+++++,1942-07-13 (Inclement weather)
+"Wednesday, Sep 2",boxscore,CIN,None,BRO,L,2,3,12,65-65,4, 25.0,Wyatt,Walters,None,3:06,D,"3,997",-,None
+"Thursday, Sep 3",boxscore,CIN,None,BRO,L,0,2,None,65-66,4, 26.0,Newsom,Vander Meer,None,2:15,D,"4,469",--,None
+"Friday, Sep 4",boxscore,CIN,None,STL,L,3,5,None,65-67,4, 26.5,Beazley,Derringer,Krist,2:08,N,"8,113",---,None
+"Saturday, Sep 5",boxscore,CIN,None,STL,L,2,3,None,65-68,4, 26.5,Krist,Thompson,None,2:08,D,"2,143",----,None
+"Sunday, Sep 6",boxscore,CIN,None,STL,L,2,10,None,65-69,4, 27.0,Cooper,Riddle,None,2:05,D,"9,083",-----,None
+"Monday, Sep 7",boxscore,CIN,None,CHC,W,3,1,None,66-69,4, 27.0,Walters,Lee,None,1:37,D,None,+,None
+"Monday, Sep 7",boxscore,CIN,None,CHC,L,3,5,None,66-70,4, 27.0,Wyse,Vander Meer,Bithorn,2:17,D,"7,785",-,None
+"Thursday, Sep 10",boxscore,CIN,@,BSN,W,6,2,None,67-70,4, 26.5,Derringer,Salvo,None,1:48,D,None,+,None
+"Thursday, Sep 10",boxscore,CIN,@,BSN,T,0,0,None,67-70,4, 26.5,None,None,None,1:50,D,"1,157",+,1942-09-09 (Inclement weather)
+"Friday, Sep 11",boxscore,CIN,@,PHI,W,8,5,11,68-70,4, 25.5,Beggs,Melton,None,2:43,D,393,++,None
+"Saturday, Sep 12",boxscore,CIN,@,PHI,W,4,1,None,69-70,4, 24.5,Riddle,Lapihuska,None,None,None,None,+++,None
+"Sunday, Sep 13",boxscore,CIN,@,BRO,W,6,3,None,70-70,4, 23.5,Walters,Newsom,None,1:52,D,None,++++,None
+"Sunday, Sep 13",boxscore,CIN,@,BRO,W,4,1,None,71-70,4, 23.5,Starr,Davis,None,1:52,D,"32,665",+++++,None
+"Wednesday, Sep 16",boxscore,CIN,@,NYG,W,3,1,None,72-70,4, 24.5,Derringer,Lohrman,None,1:36,D,"2,493",++++++,None
+"Thursday, Sep 17",boxscore,CIN,@,NYG,L,1,11,None,72-71,4, 25.5,Feldman,Riddle,None,2:00,D,"2,090",-,None
+"Friday, Sep 18",boxscore,CIN,@,PIT,W,5,1,None,73-71,4, 25.0,Vander Meer,Hallett,None,2:16,N,"5,154",+,None
+"Saturday, Sep 19",boxscore,CIN,@,PIT,W,4,3,None,74-71,4, 24.5,Walters,Brandt,None,1:46,D,"1,485",++,None
+"Sunday, Sep 20",boxscore,CIN,@,PIT,L,1,2,13,74-72,4, 25.0,Lanning,Shoun,None,2:46,D,None,-,None
+"Sunday, Sep 20",boxscore,CIN,@,PIT,T,3,3,7,74-72,4, 25.0,None,None,None,1:45,D,"4,161",-,1942-08-13 (Rain)
+"Tuesday, Sep 22",boxscore,CIN,@,CHC,W,4,1,None,75-72,4, 25.0,Derringer,Hanyzewski,None,1:46,D,None,+,None
+"Tuesday, Sep 22",boxscore,CIN,@,CHC,W,4,1,None,76-72,4, 25.0,Vander Meer,Wyse,None,2:01,D,"3,019",++,1942-09-21 (Schedule change)
+"Wednesday, Sep 23",boxscore,CIN,@,STL,L,2,4,None,76-73,4, 26.0,Beazley,Walters,None,1:43,N,"26,514",-,None
+"Thursday, Sep 24",boxscore,CIN,@,STL,L,0,6,None,76-74,4, 27.0,Cooper,Starr,None,1:51,D,"6,000",--,None
+"Sunday, Sep 27",boxscore,CIN,None,PIT,L,7,8,12,76-75,4, 29.0,Lanning,Beggs,Gornicki,2:30,D,None,---,None
+"Sunday, Sep 27",boxscore,CIN,None,PIT,L,4,7,None,76-76,4, 29.0,Brandt,Vander Meer,Gornicki,2:00,D,"2,070",----,1942-09-26 (Inclement weather)

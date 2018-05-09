@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 18",boxscore,CLE,None,SLB,L,0,2,None,1-1,3, 1.0,Hadley,Pearson,None,1:43,D,None,-,None
+"Thursday, Apr 19",boxscore,CLE,None,SLB,W,3,2,None,2-1,1, Tied,Winegarner,Wells,Connally,2:02,D,None,+,None
+"Friday, Apr 20",boxscore,CLE,None,DET,L,0,4,None,2-2,3, 1.0,Fischer,Brown,None,1:57,D,None,-,None
+"Tuesday, Apr 24",boxscore,CLE,@,SLB,W,15,2,None,3-2,3, 1.0,Hildebrand,Hadley,None,2:18,D,None,+,None
+"Wednesday, Apr 25",boxscore,CLE,@,SLB,W,5,1,None,4-2,2, 0.5,Pearson,Blaeholder,None,1:45,D,None,++,None
+"Saturday, Apr 28",boxscore,CLE,@,DET,L,1,4,None,4-3,2, 1.5,Bridges,Harder,None,1:59,D,None,-,None
+"Sunday, Apr 29",boxscore,CLE,@,DET,W,7,1,None,5-3,2, 0.5,Hildebrand,Marberry,Brown,2:10,D,"30,500",+,None
+"Monday, Apr 30",boxscore,CLE,@,CHW,L,10,20,None,5-4,3, 1.0,Jones,Pearson,Heving,2:25,D,None,-,None
+"Tuesday, May 1",boxscore,CLE,@,CHW,W,12,1,None,6-4,3, 1.0,Hudlin,Gaston,None,1:55,D,None,+,None
+"Friday, May 4",boxscore,CLE,@,WSH,W,5,3,None,7-4,2, 0.5,Brown,Whitehill,None,2:00,D,None,++,None
+"Saturday, May 5",boxscore,CLE,@,WSH,L,1,9,None,7-5,2, 1.5,Stewart,Hildebrand,None,1:46,D,None,-,None
+"Sunday, May 6",boxscore,CLE,@,PHA,W,4,3,None,8-5,2, 1.5,Hudlin,Mahaffey,None,2:03,D,None,+,None
+"Monday, May 7",boxscore,CLE,@,PHA,L,3,7,None,8-6,2, 2.5,Cain,Harder,None,1:55,D,None,-,None
+"Tuesday, May 8",boxscore,CLE,@,PHA,L,0,2,None,8-7,3, 3.5,Cascarella,Brown,None,1:30,D,None,--,None
+"Wednesday, May 9",boxscore,CLE,@,PHA,L,4,5,10,8-8,5, 3.5,Kline,Brown,None,2:41,D,None,---,None
+"Thursday, May 10",boxscore,CLE,@,BOS,W,11,10,None,9-8,4, 3.5,Brown,Weiland,None,3:00,D,None,+,None
+"Friday, May 11",boxscore,CLE,@,BOS,W,6,5,11,10-8,2, 3.5,Pearson,Ostermueller,None,3:03,D,None,++,None
+"Saturday, May 12",boxscore,CLE,@,BOS,W,7,2,None,11-8,2, 3.5,Brown,Weiland,Hudlin,2:26,D,None,+++,None
+"Sunday, May 13",boxscore,CLE,@,NYY,L,0,8,None,11-9,2, 4.5,Gomez,Brown,None,1:41,D,"35,000",-,None
+"Thursday, May 17",boxscore,CLE,None,WSH,W,14,6,None,12-9,2, 3.5,Pearson,Whitehill,Hildebrand,None,D,None,+,None
+"Friday, May 18",boxscore,CLE,None,WSH,L,1,3,None,12-10,3, 3.5,Stewart,Brown,None,1:50,D,"12,000",-,None
+"Saturday, May 19",boxscore,CLE,None,WSH,L,2,3,None,12-11,3, 4.5,Weaver,Harder,None,2:10,D,None,--,None
+"Sunday, May 20",boxscore,CLE,None,NYY,W,8,5,None,13-11,2, 3.5,Pearson,MacFayden,None,2:18,D,"27,000",+,None
+"Monday, May 21",boxscore,CLE,None,NYY,W,9,5,None,14-11,2, 2.5,Hudlin,Uhle,None,None,D,None,++,None
+"Tuesday, May 22",boxscore,CLE,None,NYY,W,5,1,None,15-11,2, 1.5,Brown,Murphy,None,None,D,None,+++,None
+"Wednesday, May 23",boxscore,CLE,None,BOS,L,5,7,None,15-12,2, 1.5,Grove,Harder,None,2:15,D,None,-,None
+"Friday, May 25",boxscore,CLE,None,BOS,W,18,3,None,16-12,2, 1.0,Pearson,Rhodes,None,2:00,D,None,+,None
+"Saturday, May 26",boxscore,CLE,None,PHA,W,7,0,None,17-12,2, 1.0,Hudlin,Cascarella,None,None,D,None,++,None
+"Sunday, May 27",boxscore,CLE,None,PHA,W,7,6,None,18-12,1, Tied,Bean,Benton,Harder,2:21,D,None,+++,None
+"Monday, May 28",boxscore,CLE,None,PHA,W,6,5,10,19-12,1, Tied,Pearson,Marcum,None,2:43,D,None,++++,None
+"Tuesday, May 29",boxscore,CLE,None,CHW,W,5,0,None,20-12,1,up 0.5,Harder,Gaston,None,1:43,D,None,+++++,None
+"Wednesday, May 30",boxscore,CLE,None,CHW,L,7,8,12,20-13,1,up 0.5,Wyatt,Brown,Heving,3:02,D,None,-,None
+"Wednesday, May 30",boxscore,CLE,None,CHW,W,5,4,None,21-13,1,up 0.5,Hudlin,Gallivan,None,1:55,D,None,+,None
+"Thursday, May 31",boxscore,CLE,None,CHW,L,5,12,None,21-14,1,up 0.5,Jones,Bean,None,2:19,D,None,-,None
+"Saturday, Jun 2",boxscore,CLE,@,SLB,L,2,3,None,21-15,1, Tied,Blaeholder,Pearson,None,1:51,D,None,--,None
+"Sunday, Jun 3",boxscore,CLE,@,SLB,L,8,12,None,21-16,3, 1.0,Andrews,Hudlin,Coffman,2:38,D,None,---,None
+"Tuesday, Jun 5",boxscore,CLE,@,DET,L,2,20,None,21-17,3, 0.5,Sorrell,Brown,None,2:11,D,None,----,None
+"Tuesday, Jun 5",boxscore,CLE,@,DET,W,5,4,None,22-17,3, 0.5,Harder,Hogsett,Hudlin,1:50,D,None,+,1934-04-27 (Cold)
+"Wednesday, Jun 6",boxscore,CLE,@,DET,L,1,2,None,22-18,3, 1.5,Rowe,Weiland,None,1:45,D,None,-,None
+"Thursday, Jun 7",boxscore,CLE,@,DET,L,6,11,None,22-19,3, 2.5,Bridges,Hildebrand,None,2:17,D,None,--,None
+"Friday, Jun 8",boxscore,CLE,None,SLB,L,6,8,None,22-20,4, 3.5,Blaeholder,Harder,Newsom,2:43,D,None,---,None
+"Saturday, Jun 9",boxscore,CLE,None,SLB,W,3,1,None,23-20,3, 3.5,Pearson,Andrews,None,1:57,D,None,+,None
+"Sunday, Jun 10",boxscore,CLE,None,SLB,W,6,1,None,24-20,3, 2.5,Weiland,Coffman,None,1:55,D,None,++,None
+"Wednesday, Jun 13",boxscore,CLE,@,PHA,L,2,11,None,24-21,3, 3.0,Cain,Pearson,None,2:08,D,None,-,None
+"Thursday, Jun 14",boxscore,CLE,@,PHA,W,11,7,None,25-21,3, 2.5,Harder,Dietrich,None,2:21,D,None,+,None
+"Friday, Jun 15",boxscore,CLE,@,PHA,W,12,6,None,26-21,3, 2.5,Hildebrand,Mahaffey,None,2:00,D,None,++,None
+"Saturday, Jun 16",boxscore,CLE,@,WSH,L,1,7,None,26-22,4, 4.0,Thomas,Weiland,None,1:54,D,None,-,None
+"Saturday, Jun 16",boxscore,CLE,@,WSH,L,3,5,None,26-23,4, 4.0,Burke,Brown,None,2:00,D,None,--,1934-05-03 (Rain)
+"Sunday, Jun 17",boxscore,CLE,@,WSH,W,8,5,None,27-23,4, 3.5,Pearson,Whitehill,None,2:19,D,None,+,None
+"Tuesday, Jun 19",boxscore,CLE,@,WSH,L,2,6,None,27-24,4, 3.0,Stewart,Hildebrand,None,1:36,D,None,-,None
+"Tuesday, Jun 19",boxscore,CLE,@,WSH,W,3,0,None,28-24,4, 3.0,Harder,Weaver,None,2:08,D,None,+,1934-06-18 (Rain)
+"Wednesday, Jun 20",boxscore,CLE,@,NYY,L,2,3,None,28-25,5, 5.0,Gomez,Weiland,None,None,D,None,-,None
+"Wednesday, Jun 20",boxscore,CLE,@,NYY,L,0,3,None,28-26,5, 5.0,Ruffing,Brown,None,None,D,None,--,1934-05-14 (Wet grounds)
+"Thursday, Jun 21",boxscore,CLE,@,NYY,W,9,5,None,29-26,4, 4.0,Hudlin,MacFayden,None,None,D,None,+,None
+"Friday, Jun 22",boxscore,CLE,@,NYY,W,4,1,None,30-26,3, 3.5,Pearson,Gomez,None,None,D,None,++,None
+"Saturday, Jun 23",boxscore,CLE,@,NYY,L,3,6,None,30-27,4, 5.0,Murphy,Hildebrand,None,None,D,None,-,None
+"Sunday, Jun 24",boxscore,CLE,@,BOS,W,6,2,None,31-27,3, 5.0,Harder,Ferrell,None,2:22,D,None,+,None
+"Monday, Jun 25",boxscore,CLE,@,BOS,L,3,6,None,31-28,5, 5.0,Rhodes,Weiland,None,2:16,D,None,-,None
+"Tuesday, Jun 26",boxscore,CLE,@,BOS,W,10,2,None,32-28,4, 5.0,Hudlin,Ostermueller,None,1:53,D,None,+,None
+"Wednesday, Jun 27",boxscore,CLE,@,BOS,L,0,6,None,32-29,5, 6.0,Johnson,Pearson,None,1:49,D,None,-,None
+"Friday, Jun 29",boxscore,CLE,@,CHW,W,5,2,11,33-29,3, 6.0,Harder,Tietje,Brown,2:47,D,None,+,None
+"Saturday, Jun 30",boxscore,CLE,@,CHW,L,1,2,None,33-30,4, 6.5,Earnshaw,Hudlin,None,1:37,D,None,-,None
+"Sunday, Jul 1",boxscore,CLE,@,CHW,L,5,12,None,33-31,4, 7.0,Lyons,Pearson,None,2:04,D,None,--,None
+"Sunday, Jul 1",boxscore,CLE,@,CHW,W,4,3,11,34-31,4, 7.0,Hildebrand,Gaston,None,2:04,D,None,+,1934-08-09 (Schedule change)
+"Monday, Jul 2",boxscore,CLE,None,DET,L,2,9,None,34-32,4, 7.5,Bridges,Brown,None,2:15,D,None,-,None
+"Monday, Jul 2",boxscore,CLE,None,DET,W,6,5,None,35-32,4, 7.5,Harder,Fischer,None,2:35,D,None,+,1934-04-21 (Cold)
+"Tuesday, Jul 3",boxscore,CLE,None,DET,L,2,7,None,35-33,5, 7.5,Hamlin,Pearson,None,2:05,D,None,-,None
+"Wednesday, Jul 4",boxscore,CLE,@,DET,W,8,6,None,36-33,5, 7.5,Harder,Auker,None,2:29,D,None,+,None
+"Wednesday, Jul 4",boxscore,CLE,@,DET,L,2,5,8,36-34,5, 7.5,Rowe,Hudlin,None,2:00,D,None,-,None
+"Thursday, Jul 5",boxscore,CLE,None,CHW,W,8,0,None,37-34,3, 7.5,Hildebrand,Earnshaw,None,1:45,D,None,+,None
+"Friday, Jul 6",boxscore,CLE,None,CHW,L,5,7,None,37-35,5, 7.5,Gaston,Winegarner,Heving,2:25,D,None,-,None
+"Sunday, Jul 8",boxscore,CLE,None,CHW,W,5,1,None,38-35,4, 7.5,Hudlin,Jones,None,1:29,D,None,+,None
+"Sunday, Jul 8",boxscore,CLE,None,CHW,W,10,5,None,39-35,4, 7.5,Pearson,Wyatt,None,2:31,D,None,++,1934-07-07 (Wet grounds)
+"Wednesday, Jul 11",boxscore,CLE,None,NYY,L,4,9,None,39-36,4, 8.5,Murphy,Brown,None,None,D,None,-,None
+"Friday, Jul 13",boxscore,CLE,None,WSH,L,2,3,None,39-37,4, 9.0,Stewart,Hildebrand,None,2:02,D,None,--,None
+"Saturday, Jul 14",boxscore,CLE,None,WSH,W,2,0,None,40-37,4, 8.5,Harder,Whitehill,None,1:35,D,None,+,None
+"Sunday, Jul 15",boxscore,CLE,None,WSH,W,10,8,None,41-37,4, 8.0,Hudlin,Weaver,Brown,2:24,D,None,++,None
+"Sunday, Jul 15",boxscore,CLE,None,WSH,W,10,8,None,42-37,4, 8.0,Bean,Russell,Brown,2:42,D,None,+++,1934-07-12 (Rain)
+"Monday, Jul 16",boxscore,CLE,None,NYY,L,4,7,None,42-38,4, 8.0,Allen,Winegarner,Ruffing,None,D,None,-,None
+"Tuesday, Jul 17",boxscore,CLE,None,NYY,W,13,5,None,43-38,4, 8.0,Hildebrand,Broaca,Hudlin,2:33,D,None,+,None
+"Wednesday, Jul 18",boxscore,CLE,None,NYY,W,15,14,None,44-38,4, 8.0,Bean,Gomez,None,3:09,D,"10,000",++,None
+"Thursday, Jul 19",boxscore,CLE,None,BOS,W,6,5,None,45-38,4, 7.5,Brown,Rhodes,None,2:17,D,None,+++,None
+"Friday, Jul 20",boxscore,CLE,None,BOS,W,5,3,None,46-38,3, 6.5,Pearson,Walberg,Harder,2:02,D,None,++++,None
+"Saturday, Jul 21",boxscore,CLE,None,BOS,L,6,7,None,46-39,4, 7.5,Ferrell,Hudlin,None,2:28,D,None,-,None
+"Sunday, Jul 22",boxscore,CLE,None,BOS,W,4,2,None,47-39,3, 6.5,Harder,Johnson,None,2:17,D,None,+,None
+"Sunday, Jul 22",boxscore,CLE,None,BOS,W,6,5,None,48-39,3, 6.5,Bean,Welch,Pearson,2:15,D,None,++,1934-05-24 (Rain)
+"Monday, Jul 23",boxscore,CLE,None,PHA,L,9,11,None,48-40,3, 7.5,Benton,Brown,Cascarella,2:09,D,None,-,None
+"Tuesday, Jul 24",boxscore,CLE,None,PHA,W,10,6,None,49-40,3, 7.5,Pearson,Marcum,None,1:55,D,None,+,None
+"Wednesday, Jul 25",boxscore,CLE,None,PHA,W,8,3,None,50-40,3, 6.5,Hildebrand,Cascarella,None,2:23,D,None,++,None
+"Saturday, Jul 28",boxscore,CLE,@,SLB,W,10,8,None,51-40,3, 6.5,Harder,Andrews,Brown,2:44,D,None,+++,None
+"Saturday, Jul 28",boxscore,CLE,@,SLB,L,2,3,None,51-41,3, 6.5,Hadley,Hudlin,None,1:50,D,None,-,1934-06-01 (Rain)
+"Sunday, Jul 29",boxscore,CLE,@,SLB,W,11,5,None,52-41,3, 5.5,Hildebrand,Blaeholder,Brown,2:22,D,None,+,None
+"Sunday, Jul 29",boxscore,CLE,@,SLB,W,6,3,None,53-41,3, 5.5,Pearson,Newsom,None,1:52,D,None,++,1934-07-27 (Rain)
+"Tuesday, Jul 31",boxscore,CLE,None,DET,W,9,7,None,54-41,3, 5.5,Brown,Sorrell,Harder,2:25,D,None,+++,None
+"Tuesday, Jul 31",boxscore,CLE,None,DET,L,2,4,None,54-42,3, 5.5,Bridges,Weiland,None,1:58,D,None,-,1934-04-22 (Rain)
+"Wednesday, Aug 1",boxscore,CLE,None,DET,L,7,10,None,54-43,3, 6.5,Hamlin,Hudlin,Rowe,2:41,D,None,--,None
+"Thursday, Aug 2",boxscore,CLE,None,DET,L,0,3,None,54-44,3, 7.5,Auker,Harder,None,1:59,D,None,---,None
+"Friday, Aug 3",boxscore,CLE,None,SLB,W,6,4,None,55-44,3, 7.5,Pearson,Blaeholder,None,2:02,D,None,+,None
+"Saturday, Aug 4",boxscore,CLE,None,SLB,L,7,8,None,55-45,3, 8.5,Knott,Hildebrand,None,2:41,D,None,-,None
+"Sunday, Aug 5",boxscore,CLE,None,SLB,W,5,2,None,56-45,3, 8.5,Hudlin,Newsom,Harder,2:04,D,None,+,None
+"Tuesday, Aug 7",boxscore,CLE,@,CHW,L,2,8,None,56-46,3, 9.5,Earnshaw,Harder,None,2:08,D,None,-,None
+"Wednesday, Aug 8",boxscore,CLE,@,CHW,W,11,4,None,57-46,3, 9.5,Brown,Jones,None,2:02,D,None,+,None
+"Friday, Aug 10",boxscore,CLE,@,DET,L,5,6,11,57-47,3, 11.0,Rowe,Harder,None,2:58,D,None,-,None
+"Saturday, Aug 11",boxscore,CLE,@,DET,L,0,7,None,57-48,3, 12.0,Auker,Hudlin,None,2:00,D,None,--,None
+"Sunday, Aug 12",boxscore,CLE,@,DET,L,5,6,10,57-49,3, 13.0,Marberry,Pearson,None,2:38,D,None,---,None
+"Tuesday, Aug 14",boxscore,CLE,@,WSH,W,5,1,None,58-49,3, 13.5,Harder,Stewart,None,1:51,D,None,+,None
+"Friday, Aug 17",boxscore,CLE,@,WSH,L,3,4,10,58-50,3, 14.0,Whitehill,Hildebrand,None,1:46,D,None,-,None
+"Friday, Aug 17",boxscore,CLE,@,WSH,L,0,1,None,58-51,3, 14.0,Burke,Pearson,None,1:36,D,None,--,1934-08-15 (Rain)
+"Saturday, Aug 18",boxscore,CLE,@,PHA,L,1,2,None,58-52,4, 13.5,Marcum,Hudlin,None,1:47,D,None,---,None
+"Saturday, Aug 18",boxscore,CLE,@,PHA,W,10,0,None,59-52,4, 13.5,Harder,Mahaffey,None,1:55,D,None,+,1934-06-12 (Rain)
+"Sunday, Aug 19",boxscore,CLE,@,PHA,L,5,9,None,59-53,3, 15.0,Cain,Brown,None,2:04,D,None,-,None
+"Tuesday, Aug 21",boxscore,CLE,@,PHA,W,12,11,None,60-53,3, 15.0,Bean,Cain,Hudlin,2:36,D,None,+,None
+"Wednesday, Aug 22",boxscore,CLE,@,NYY,L,0,9,None,60-54,3, 14.5,Gomez,Pearson,None,None,D,None,-,None
+"Wednesday, Aug 22",boxscore,CLE,@,NYY,W,10,4,None,61-54,3, 14.5,Harder,DeShong,None,None,D,None,+,1934-05-15 (Rain)
+"Thursday, Aug 23",boxscore,CLE,@,NYY,L,2,9,None,61-55,3, 14.5,Ruffing,Hudlin,None,None,D,None,-,None
+"Saturday, Aug 25",boxscore,CLE,@,NYY,W,5,3,None,62-55,3, 15.5,Pearson,Murphy,None,2:00,D,None,+,None
+"Saturday, Aug 25",boxscore,CLE,@,NYY,L,3,9,None,62-56,3, 15.5,Broaca,Lee,None,None,D,None,-,1934-08-24 (Rain)
+"Sunday, Aug 26",boxscore,CLE,@,BOS,W,3,2,None,63-56,3, 16.0,Hildebrand,Ferrell,None,1:54,D,None,+,None
+"Sunday, Aug 26",boxscore,CLE,@,BOS,L,2,5,None,63-57,3, 16.0,Ostermueller,Harder,None,1:50,D,"17,900",-,1934-08-29 (Schedule change)
+"Monday, Aug 27",boxscore,CLE,@,BOS,W,6,5,None,64-57,3, 16.0,Brown,Walberg,None,2:20,D,None,+,None
+"Tuesday, Aug 28",boxscore,CLE,@,BOS,L,2,8,None,64-58,3, 16.5,Grove,Winegarner,None,1:56,D,None,-,None
+"Thursday, Aug 30",boxscore,CLE,None,DET,L,1,6,None,64-59,3, 17.5,Fischer,Pearson,Hogsett,None,D,None,--,None
+"Saturday, Sep 1",boxscore,CLE,None,DET,L,4,6,11,64-60,3, 18.5,Bridges,Hudlin,None,2:38,D,None,---,None
+"Sunday, Sep 2",boxscore,CLE,None,DET,W,1,0,None,65-60,3, 17.5,Harder,Auker,None,1:26,D,"18,000",+,None
+"Monday, Sep 3",boxscore,CLE,@,SLB,W,9,5,None,66-60,3, 16.5,Pearson,Blaeholder,None,None,D,None,++,None
+"Monday, Sep 3",boxscore,CLE,@,SLB,W,6,4,None,67-60,3, 16.5,Hudlin,Wells,None,2:03,D,"2,000",+++,None
+"Tuesday, Sep 4",boxscore,CLE,@,SLB,W,8,4,None,68-60,3, 16.0,Brown,Knott,None,None,D,None,++++,1934-04-26 (Rain)
+"Wednesday, Sep 5",boxscore,CLE,None,BOS,W,11,2,None,69-60,3, 16.0,Winegarner,Grove,None,2:03,D,None,+++++,None
+"Thursday, Sep 6",boxscore,CLE,None,BOS,L,1,6,None,69-61,3, 16.5,Rhodes,Harder,None,1:51,D,None,-,None
+"Saturday, Sep 8",boxscore,CLE,None,BOS,W,5,1,None,70-61,3, 14.5,Pearson,Ferrell,None,1:45,D,None,+,None
+"Saturday, Sep 8",boxscore,CLE,None,BOS,W,3,2,None,71-61,3, 14.5,Hudlin,Ostermueller,None,1:46,D,None,++,1934-09-07 (Wet grounds)
+"Sunday, Sep 9",boxscore,CLE,None,PHA,W,8,3,None,72-61,3, 14.0,Hildebrand,Wilson,None,1:45,D,None,+++,None
+"Sunday, Sep 9",boxscore,CLE,None,PHA,W,6,5,10,73-61,3, 14.0,Harder,Marcum,None,1:59,D,None,++++,1934-07-26 (Rain)
+"Monday, Sep 10",boxscore,CLE,None,PHA,L,6,9,None,73-62,3, 15.0,Caster,Winegarner,Mahaffey,1:58,D,None,-,None
+"Tuesday, Sep 11",boxscore,CLE,None,PHA,L,4,6,None,73-63,3, 15.0,Cascarella,Harder,None,1:53,D,None,--,None
+"Wednesday, Sep 12",boxscore,CLE,None,PHA,W,3,2,None,74-63,3, 14.0,Hudlin,Dietrich,Pearson,1:47,D,None,+,None
+"Thursday, Sep 13",boxscore,CLE,None,NYY,L,1,3,None,74-64,3, 15.0,Gomez,Hildebrand,None,None,D,None,-,None
+"Friday, Sep 14",boxscore,CLE,None,NYY,W,12,5,None,75-64,3, 15.0,Lee,Ruffing,Harder,None,D,None,+,None
+"Saturday, Sep 15",boxscore,CLE,None,NYY,L,1,2,None,75-65,3, 16.0,Murphy,Pearson,None,None,D,None,-,None
+"Sunday, Sep 16",boxscore,CLE,None,NYY,W,5,2,None,76-65,3, 16.0,Harder,Broaca,None,1:58,D,"15,000",+,None
+"Monday, Sep 17",boxscore,CLE,None,WSH,L,6,13,None,76-66,3, 17.0,Diggs,Hildebrand,None,2:12,D,None,-,None
+"Tuesday, Sep 18",boxscore,CLE,None,WSH,W,5,4,12,77-66,3, 16.5,Harder,Stewart,None,2:03,D,None,+,None
+"Tuesday, Sep 18",boxscore,CLE,None,WSH,W,9,6,None,78-66,3, 16.5,Winegarner,Thomas,None,1:53,D,None,++,1934-08-16 (Rain; Site change)
+"Wednesday, Sep 19",boxscore,CLE,None,WSH,L,2,5,None,78-67,3, 16.5,Burke,Pearson,None,1:50,D,None,-,None
+"Thursday, Sep 20",boxscore,CLE,None,WSH,W,6,1,None,79-67,3, 15.5,Harder,Cohen,None,1:30,D,None,+,None
+"Saturday, Sep 22",boxscore,CLE,@,CHW,W,9,8,None,80-67,3, 16.0,Hudlin,Earnshaw,Brown,None,D,None,++,None
+"Sunday, Sep 23",boxscore,CLE,@,CHW,W,2,1,None,81-67,3, 15.0,Pearson,Kennedy,None,1:40,D,None,+++,None
+"Sunday, Sep 23",boxscore,CLE,@,CHW,W,5,1,None,82-67,3, 15.0,Winegarner,Tietje,None,1:55,D,"10,000",++++,1934-09-21 (Schedule change)
+"Tuesday, Sep 25",boxscore,CLE,None,SLB,L,0,3,None,82-68,3, 15.5,Hadley,Harder,None,None,D,None,-,None
+"Wednesday, Sep 26",boxscore,CLE,None,SLB,W,6,2,None,83-68,3, 16.0,Hudlin,Newsom,None,None,D,None,+,None
+"Saturday, Sep 29",boxscore,CLE,None,CHW,W,4,0,None,84-68,3, 15.0,Harder,Tietje,None,1:49,D,None,++,None
+"Sunday, Sep 30",boxscore,CLE,None,CHW,L,5,9,None,84-69,3, 16.0,Lyons,Perrin,None,1:46,D,None,-,None
+"Sunday, Sep 30",boxscore,CLE,None,CHW,W,5,3,5,85-69,3, 16.0,Winegarner,Heving,None,1:10,D,None,+,1934-09-28 (Schedule change)

@@ -1,0 +1,162 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 9",boxscore,PIT,None,NYM,W,2,1,None,1-1,3, 1.0,Ellis,Koosman,None,2:04,N,"9,884",+,None
+"Friday, Apr 10",boxscore,PIT,@,PHI,L,0,2,None,1-2,3, 2.0,Fryman,Veale,None,1:52,D,"3,663",-,None
+"Saturday, Apr 11",boxscore,PIT,@,PHI,W,4,0,None,2-2,3, 1.0,Walker,Jackson,Hartenstein,2:01,D,"7,673",+,None
+"Sunday, Apr 12",boxscore,PIT,@,PHI,W,3,1,10,3-2,1, Tied,Blass,Bunning,None,2:38,D,"22,395",++,None
+"Tuesday, Apr 14",boxscore,PIT,@,NYM,W,6,4,10,4-2,1, Tied,Hartenstein,McGraw,None,2:47,D,"41,679",+++,None
+"Thursday, Apr 16",boxscore,PIT,@,NYM,W,7,4,None,5-2,1, Tied,Dal Canton,Cardwell,None,2:30,D,"8,623",++++,None
+"Friday, Apr 17",boxscore,PIT,None,STL,L,2,5,None,5-3,2, 1.0,Culver,Blass,None,2:20,N,"14,369",-,None
+"Saturday, Apr 18",boxscore,PIT,None,STL,L,1,6,None,5-4,3, 2.0,Carlton,Walker,None,2:14,D,"8,465",--,None
+"Monday, Apr 20",boxscore,PIT,None,HOU,W,3,1,None,6-4,3, 1.5,Ellis,Bouton,Giusti,1:57,N,"4,051",+,None
+"Tuesday, Apr 21",boxscore,PIT,None,HOU,W,9,8,None,7-4,3, 0.5,Veale,Dierker,Gibbon,2:38,N,"3,589",++,None
+"Wednesday, Apr 22",boxscore,PIT,None,HOU,W,6,1,None,8-4,2, 0.5,Blass,Lemaster,None,2:20,N,"6,178",+++,None
+"Thursday, Apr 23",boxscore,PIT,None,ATL,W,8,6,None,9-4,1, Tied,Walker,Jarvis,Giusti,2:42,N,"4,987",++++,None
+"Friday, Apr 24",boxscore,PIT,None,ATL,L,0,9,None,9-5,2, 1.0,Nash,Moose,None,2:45,N,"5,413",-,None
+"Saturday, Apr 25",boxscore,PIT,None,ATL,W,8,7,None,10-5,2, 1.0,Giusti,Wilhelm,McBean,2:37,D,"7,125",+,None
+"Sunday, Apr 26",boxscore,PIT,None,ATL,L,0,2,None,10-6,2, 2.0,Niekro,Veale,None,2:01,D,"15,307",-,None
+"Monday, Apr 27",boxscore,PIT,None,CHC,L,0,1,None,10-7,3, 3.0,Decker,Blass,Regan,2:07,N,"6,635",--,None
+"Tuesday, Apr 28",boxscore,PIT,None,CHC,W,6,1,None,11-7,2, 2.0,Walker,Holtzman,Giusti,2:36,N,"6,717",+,None
+"Wednesday, Apr 29",boxscore,PIT,None,CHC,L,5,10,None,11-8,2, 3.0,Hands,Moose,Regan,2:37,N,"7,900",-,None
+"Friday, May 1",boxscore,PIT,@,CIN,L,4,6,None,11-9,2, 2.5,Simpson,Ellis,Gullett,2:29,N,"19,470",--,None
+"Saturday, May 2",boxscore,PIT,@,CIN,L,2,7,None,11-10,2, 2.5,McGlothlin,Veale,None,2:34,D,"7,721",---,None
+"Sunday, May 3",boxscore,PIT,@,CIN,L,7,11,None,11-11,4, 3.0,Merritt,Blass,Carroll,2:29,D,"15,219",----,None
+"Monday, May 4",boxscore,PIT,@,ATL,L,3,5,None,11-12,4, 3.0,Nash,Walker,Priddy,2:38,N,"7,457",-----,None
+"Tuesday, May 5",boxscore,PIT,@,ATL,L,6,12,None,11-13,4, 3.0,Stone,Moose,Wilhelm,2:24,N,"9,199",------,None
+"Wednesday, May 6",boxscore,PIT,@,ATL,L,0,3,None,11-14,5, 3.5,Niekro,Ellis,None,2:07,N,"9,782",-------,None
+"Thursday, May 7",boxscore,PIT,@,HOU,W,9,5,None,12-14,4, 2.5,Walker,Bouton,Giusti,3:06,N,"11,678",+,None
+"Friday, May 8",boxscore,PIT,@,HOU,L,5,7,None,12-15,4, 3.5,Ray,Blass,None,2:31,N,"13,383",-,None
+"Saturday, May 9",boxscore,PIT,@,HOU,W,6,3,None,13-15,3, 3.5,Moose,Griffin,None,2:37,D,"15,137",+,None
+"Sunday, May 10",boxscore,PIT,@,HOU,L,2,9,None,13-16,3, 3.5,Dierker,Ellis,None,2:34,D,"16,768",-,None
+"Monday, May 11",boxscore,PIT,None,CIN,W,4,1,None,14-16,2, 2.5,Veale,McGlothlin,None,1:57,N,"7,722",+,None
+"Tuesday, May 12",boxscore,PIT,None,CIN,L,3,5,None,14-17,4, 3.5,Merritt,Blass,None,2:10,N,"7,502",-,None
+"Wednesday, May 13",boxscore,PIT,@,STL,W,5,1,None,15-17,3, 2.5,Moose,Gibson,Giusti,2:05,N,"12,677",+,None
+"Thursday, May 14",boxscore,PIT,@,STL,L,7,11,None,15-18,4, 3.0,Johnson,Garber,None,2:25,D,"10,840",-,None
+"Friday, May 15",boxscore,PIT,None,MON,L,1,2,None,15-19,4, 3.0,McGinn,Veale,None,2:20,N,"7,883",--,None
+"Saturday, May 16",boxscore,PIT,None,MON,W-wo,4,3,None,16-19,4, 3.0,Walker,Raymond,None,2:19,D,"4,237",+,None
+"Sunday, May 17",boxscore,PIT,None,MON,L,7,8,None,16-20,4, 3.0,Strohmayer,Garber,Raymond,3:05,D,"8,604",-,None
+"Monday, May 18",boxscore,PIT,None,PHI,W,2,1,None,17-20,4, 3.0,Moose,Bunning,None,2:14,N,"5,796",+,None
+"Tuesday, May 19",boxscore,PIT,None,PHI,L,0,2,None,17-21,4, 3.0,Short,Ellis,None,2:00,N,"6,251",-,None
+"Wednesday, May 20",boxscore,PIT,None,PHI,W-wo,3,2,14,18-21,4, 2.5,Dal Canton,Selma,None,3:30,N,"5,977",+,None
+"Thursday, May 21",boxscore,PIT,@,MON,L-wo,6,7,None,18-22,4, 3.0,Dillman,Walker,None,2:52,N,"13,346",-,None
+"Friday, May 22",boxscore,PIT,@,MON,L,3,6,None,18-23,4, 4.0,Stoneman,Moose,None,2:16,N,"10,576",--,None
+"Saturday, May 23",boxscore,PIT,@,MON,W,8,4,None,19-23,4, 4.0,Ellis,McGinn,Giusti,2:35,N,"28,702",+,None
+"Sunday, May 24",boxscore,PIT,@,MON,W,3,0,None,20-23,4, 3.5,Veale,Morton,None,2:22,D,"29,306",++,None
+"Tuesday, May 26",boxscore,PIT,@,CHC,L,3,6,None,20-24,4, 4.5,Holtzman,Blass,None,2:06,D,"12,440",-,None
+"Wednesday, May 27",boxscore,PIT,@,CHC,W,4,0,None,21-24,4, 3.5,Moose,Jenkins,None,2:06,D,"11,002",+,None
+"Thursday, May 28",boxscore,PIT,@,CHC,L-wo,7,8,None,21-25,4, 4.5,Colborn,Garber,None,2:41,D,"10,805",-,None
+"Friday, May 29",boxscore,PIT,None,SFG,W,6,3,None,22-25,4, 4.0,Veale,Robertson,Giusti,2:30,N,"11,497",+,None
+"Saturday, May 30",boxscore,PIT,None,SFG,L,11,13,None,22-26,4, 4.5,Bryant,Blass,Faul,3:41,D,"10,658",-,None
+"Sunday, May 31",boxscore,PIT,None,SFG,W,7,3,None,23-26,3, 4.5,Moose,Marichal,Giusti,2:35,D,"9,515",+,None
+"Monday, Jun 1",boxscore,PIT,None,SDP,W,5,1,None,24-26,3, 3.5,Ellis,Coombs,None,2:13,N,"5,036",++,None
+"Tuesday, Jun 2",boxscore,PIT,None,SDP,L,8,14,None,24-27,4, 4.0,Herbel,Veale,Dukes,2:30,N,"4,747",-,None
+"Thursday, Jun 4",boxscore,PIT,None,LAD,L,0,5,None,24-28,4, 5.0,Osteen,Blass,None,2:09,N,"5,423",--,None
+"Friday, Jun 5",boxscore,PIT,None,LAD,W,3,0,None,25-28,4, 5.0,Moose,Moeller,None,2:07,N,"7,691",+,None
+"Saturday, Jun 6",boxscore,PIT,None,LAD,W-wo,7,6,12,26-28,2, 4.0,Giusti,Pena,None,3:13,N,"13,153",++,None
+"Sunday, Jun 7",boxscore,PIT,None,LAD,W,3,1,None,27-28,2, 4.0,Veale,Foster,None,1:48,D,"11,243",+++,None
+"Tuesday, Jun 9",boxscore,PIT,@,SFG,W,5,1,None,28-28,2, 4.0,Blass,Marichal,None,2:25,N,"4,250",++++,None
+"Wednesday, Jun 10",boxscore,PIT,@,SFG,L,2,4,None,28-29,2, 4.0,Perry,Moose,None,2:00,D,"3,732",-,None
+"Friday, Jun 12",boxscore,PIT,@,SDP,W,2,0,None,29-29,2, 5.0,Ellis,Roberts,None,2:13,N,None,+,None
+"Friday, Jun 12",boxscore,PIT,@,SDP,L,2,5,None,29-30,2, 5.0,Coombs,Veale,None,2:08,N,"9,903",-,1970-08-24 (NFL: Chargers had priority at stadium)
+"Saturday, Jun 13",boxscore,PIT,@,SDP,W,7,2,None,30-30,2, 5.0,Blass,Santorini,None,2:41,N,"7,105",+,None
+"Sunday, Jun 14",boxscore,PIT,@,SDP,L-wo,1,2,None,30-31,3, 5.0,Kirby,Moose,None,2:31,D,"15,781",-,None
+"Monday, Jun 15",boxscore,PIT,@,LAD,W,5,2,None,31-31,3, 4.5,Nelson,Moeller,Giusti,2:31,N,"14,490",+,None
+"Tuesday, Jun 16",boxscore,PIT,@,LAD,L,0,1,None,31-32,3, 4.5,Sutton,Veale,None,2:09,N,"20,069",-,None
+"Wednesday, Jun 17",boxscore,PIT,@,LAD,L,0,4,None,31-33,3, 5.5,Osteen,Ellis,None,2:01,N,"17,327",--,None
+"Friday, Jun 19",boxscore,PIT,None,MON,W,8,4,None,32-33,3, 5.0,Dal Canton,Dillman,Walker,2:27,N,"9,707",+,None
+"Saturday, Jun 20",boxscore,PIT,None,MON,W,4,2,None,33-33,3, 5.0,Blass,Morton,Giusti,2:23,D,"5,148",++,None
+"Sunday, Jun 21",boxscore,PIT,None,MON,L,2,3,None,33-34,3, 4.5,Nye,Veale,None,2:24,D,"12,325",-,None
+"Monday, Jun 22",boxscore,PIT,None,STL,L,1,6,None,33-35,3, 4.0,Reuss,Ellis,None,2:18,N,None,--,None
+"Monday, Jun 22",boxscore,PIT,None,STL,W-wo,1,0,10,34-35,3, 4.0,Nelson,Linzy,None,2:21,N,"15,158",+,1970-04-19 (Rain)
+"Tuesday, Jun 23",boxscore,PIT,None,STL,W,7,2,None,35-35,3, 3.0,Moose,Taylor,None,2:13,N,"7,654",++,None
+"Wednesday, Jun 24",boxscore,PIT,None,STL,W-wo,4,3,11,36-35,3, 2.0,Walker,McCool,None,3:05,N,"8,095",+++,None
+"Thursday, Jun 25",boxscore,PIT,None,STL,W-wo,3,2,None,37-35,3, 2.0,Giusti,Carlton,None,2:14,N,"9,910",++++,None
+"Saturday, Jun 27",boxscore,PIT,None,CHC,W-wo,2,1,None,38-35,2, 1.5,Ellis,Jenkins,None,1:57,D,"10,188",+++++,None
+"Sunday, Jun 28",boxscore,PIT,None,CHC,W,3,2,None,39-35,1, Tied,Giusti,Hands,Walker,2:35,D,None,++++++,None
+"Sunday, Jun 28",boxscore,PIT,None,CHC,W,4,1,None,40-35,1, Tied,Nelson,Pappas,Giusti,2:14,D,"40,918",+++++++,None
+"Monday, Jun 29",boxscore,PIT,@,NYM,L-wo,2,3,None,40-36,2, 1.0,Seaver,Blass,None,2:13,N,"42,416",-,None
+"Tuesday, Jun 30",boxscore,PIT,@,NYM,L,6,7,None,40-37,2, 2.0,Koosman,Veale,Taylor,2:28,N,"38,681",--,None
+"Wednesday, Jul 1",boxscore,PIT,@,NYM,W,4,3,None,41-37,2, 1.0,Ellis,McAndrew,Giusti,2:28,D,"34,316",+,None
+"Friday, Jul 3",boxscore,PIT,@,CHC,W,16,14,None,42-37,1, Tied,Giusti,Regan,None,3:45,D,"26,602",++,None
+"Saturday, Jul 4",boxscore,PIT,@,CHC,W,10,6,None,43-37,2, 0.5,Blass,Holtzman,Walker,2:40,D,None,+++,None
+"Saturday, Jul 4",boxscore,PIT,@,CHC,L,2,7,None,43-38,2, 0.5,Pappas,Veale,Gura,2:33,D,"26,634",-,None
+"Sunday, Jul 5",boxscore,PIT,@,CHC,W,5,2,None,44-38,2, 0.5,Ellis,Jenkins,None,2:42,D,"25,569",+,None
+"Monday, Jul 6",boxscore,PIT,@,PHI,W,7,5,None,45-38,2, 0.5,Nelson,Bunning,Giusti,2:26,N,"6,145",++,None
+"Tuesday, Jul 7",boxscore,PIT,@,PHI,W,4,2,None,46-38,2, 0.5,Veale,Short,Giusti,2:21,N,"6,938",+++,None
+"Wednesday, Jul 8",boxscore,PIT,@,PHI,L-wo,0,2,None,46-39,2, 1.5,Wise,Blass,None,2:01,N,"7,038",-,None
+"Thursday, Jul 9",boxscore,PIT,@,STL,W,6,0,None,47-39,2, 1.5,Ellis,Carlton,None,2:09,N,"22,345",+,None
+"Friday, Jul 10",boxscore,PIT,@,STL,W,6,2,None,48-39,2, 0.5,Giusti,Gibson,None,2:11,N,"23,920",++,None
+"Saturday, Jul 11",boxscore,PIT,@,STL,W,8,7,None,49-39,1,up 0.5,Dal Canton,Taylor,Pena,2:40,N,"25,686",+++,None
+"Sunday, Jul 12",boxscore,PIT,@,STL,W,7,6,10,50-39,1,up 1.5,Giusti,Hrabosky,Dal Canton,3:21,D,"45,776",++++,None
+"Thursday, Jul 16",boxscore,PIT,None,CIN,L,2,3,None,50-40,1,up 1.5,Carroll,Ellis,None,2:34,N,"48,846",-,None
+"Friday, Jul 17",boxscore,PIT,None,CIN,W,4,3,None,51-40,1,up 2.5,Giusti,Simpson,None,2:12,N,"23,298",+,None
+"Saturday, Jul 18",boxscore,PIT,None,CIN,L,1,3,10,51-41,1,up 1.5,Merritt,Giusti,Granger,2:46,N,"27,906",-,None
+"Sunday, Jul 19",boxscore,PIT,None,CIN,W,7,3,None,52-41,1,up 2.0,Walker,Gullett,Gibbon,2:33,D,"32,294",+,None
+"Monday, Jul 20",boxscore,PIT,@,HOU,L-wo,4,5,12,52-42,1,up 2.0,Cook,Dal Canton,None,3:13,N,"17,934",-,None
+"Tuesday, Jul 21",boxscore,PIT,@,HOU,L,1,3,None,52-43,1,up 1.0,Wilson,Nelson,Cook,2:13,N,"17,741",--,None
+"Wednesday, Jul 22",boxscore,PIT,None,ATL,W,5,3,None,53-43,1,up 2.0,Dal Canton,Stone,Giusti,2:18,N,"19,145",+,None
+"Thursday, Jul 23",boxscore,PIT,None,ATL,W,6,5,None,54-43,1,up 2.5,Colpaert,McQueen,Giusti,2:28,N,"14,377",++,None
+"Friday, Jul 24",boxscore,PIT,None,HOU,W,11,0,None,55-43,1,up 2.5,Ellis,Griffin,None,2:20,N,"43,290",+++,None
+"Saturday, Jul 25",boxscore,PIT,None,HOU,L,4,8,None,55-44,1,up 1.5,Cook,Veale,Dierker,2:49,D,"14,069",-,None
+"Sunday, Jul 26",boxscore,PIT,None,HOU,L,4,6,10,55-45,1,up 1.5,Lemaster,Giusti,Gladding,2:42,D,"40,131",--,None
+"Tuesday, Jul 28",boxscore,PIT,@,CIN,W,4,3,None,56-45,1,up 1.0,Dal Canton,McGlothlin,Giusti,2:32,N,"25,807",+,None
+"Wednesday, Jul 29",boxscore,PIT,@,CIN,L,3,4,None,56-46,1,up 1.0,Nolan,Ellis,Granger,2:25,N,"25,788",-,None
+"Thursday, Jul 30",boxscore,PIT,@,CIN,L,4,8,None,56-47,1,up 0.5,Cloninger,Veale,Gullett,2:34,N,"26,298",--,None
+"Friday, Jul 31",boxscore,PIT,@,ATL,L,3,4,None,56-48,2, 0.5,Jarvis,Nelson,Wilhelm,2:31,N,"12,196",---,None
+"Saturday, Aug 1",boxscore,PIT,@,ATL,W,20,10,None,57-48,2, 0.5,Pena,Stone,Giusti,3:10,D,"28,333",+,None
+"Sunday, Aug 2",boxscore,PIT,@,ATL,W,10,7,None,58-48,1,up 1.0,Ellis,Nash,Giusti,2:57,D,"15,227",++,None
+"Monday, Aug 3",boxscore,PIT,@,MON,L,0,8,None,58-49,1,up 1.0,McGinn,Moose,None,2:33,N,"18,110",-,None
+"Tuesday, Aug 4",boxscore,PIT,@,MON,W,4,2,None,59-49,1,up 1.0,Veale,Marshall,None,2:28,N,"27,112",+,None
+"Wednesday, Aug 5",boxscore,PIT,None,PHI,W,4,0,None,60-49,1,up 1.0,Walker,Wise,None,2:03,N,"12,915",++,None
+"Thursday, Aug 6",boxscore,PIT,None,PHI,W,4,0,None,61-49,1,up 2.5,Ellis,Bunning,None,1:47,N,None,+++,None
+"Thursday, Aug 6",boxscore,PIT,None,PHI,W,8,3,None,62-49,1,up 2.5,Dal Canton,Champion,None,2:23,N,"26,664",++++,None
+"Friday, Aug 7",boxscore,PIT,None,NYM,W,6,1,None,63-49,1,up 3.5,Moose,McAndrew,None,2:10,N,"37,556",+++++,None
+"Saturday, Aug 8",boxscore,PIT,None,NYM,L,9,12,None,63-50,1,up 2.5,Koosman,Veale,Gentry,3:44,D,"27,843",-,None
+"Sunday, Aug 9",boxscore,PIT,None,NYM,W,8,3,None,64-50,1,up 3.5,Walker,Ryan,Pena,2:50,D,"41,772",+,None
+"Monday, Aug 10",boxscore,PIT,None,NYM,L,2,10,None,64-51,1,up 2.5,Seaver,Ellis,None,2:50,N,"47,148",-,None
+"Tuesday, Aug 11",boxscore,PIT,None,LAD,L,4,5,None,64-52,1,up 2.5,Osteen,Dal Canton,Brewer,2:30,N,"16,708",--,None
+"Wednesday, Aug 12",boxscore,PIT,None,LAD,L,4,11,None,64-53,1,up 1.5,Mikkelsen,Moose,Hough,2:59,N,"34,551",---,None
+"Friday, Aug 14",boxscore,PIT,None,SDP,W,2,1,None,65-53,1,up 3.0,Pena,Roberts,None,1:50,N,None,+,None
+"Friday, Aug 14",boxscore,PIT,None,SDP,W,10,1,None,66-53,1,up 3.0,Walker,Dobson,None,2:17,N,"26,979",++,1970-06-03 (Wet grounds)
+"Saturday, Aug 15",boxscore,PIT,None,SDP,W,9,3,None,67-53,1,up 4.0,Veale,Wilson,None,2:24,D,"14,110",+++,None
+"Sunday, Aug 16",boxscore,PIT,None,SDP,L,6,8,None,67-54,1,up 3.0,Herbel,Pena,Dukes,2:40,D,"18,969",-,None
+"Monday, Aug 17",boxscore,PIT,None,SFG,L,4,5,None,67-55,1,up 2.5,Perry,Dal Canton,None,2:32,N,"21,148",--,None
+"Tuesday, Aug 18",boxscore,PIT,None,SFG,W,6,2,None,68-55,1,up 2.5,Blass,Pitlock,Giusti,2:36,N,"25,325",+,None
+"Wednesday, Aug 19",boxscore,PIT,None,SFG,L,4,7,None,68-56,1,up 2.5,Marichal,Walker,None,2:49,N,"24,655",-,None
+"Friday, Aug 21",boxscore,PIT,@,LAD,L,1,2,None,68-57,1,up 1.5,Osteen,Veale,None,2:23,N,"24,372",--,None
+"Saturday, Aug 22",boxscore,PIT,@,LAD,W,2,1,16,69-57,1,up 2.5,Dal Canton,Mikkelsen,None,4:21,N,"39,829",+,None
+"Sunday, Aug 23",boxscore,PIT,@,LAD,W,11,0,None,70-57,1,up 3.0,Blass,Foster,None,2:21,D,"20,678",++,None
+"Tuesday, Aug 25",boxscore,PIT,@,SDP,L-wo,3,4,None,70-58,1,up 3.0,Dukes,Walker,None,2:01,N,"4,876",-,None
+"Wednesday, Aug 26",boxscore,PIT,@,SDP,L,1,2,None,70-59,1,up 3.0,Dobson,Cambria,Dukes,2:22,N,"6,067",--,None
+"Friday, Aug 28",boxscore,PIT,@,SFG,L,1,5,None,70-60,1,up 2.5,Marichal,Moose,None,2:25,N,"6,174",---,None
+"Saturday, Aug 29",boxscore,PIT,@,SFG,L-wo,9,10,10,70-61,1,up 2.5,McMahon,Dal Canton,None,3:19,D,"8,188",----,None
+"Sunday, Aug 30",boxscore,PIT,@,SFG,L,3,7,None,70-62,1,up 1.0,Johnson,Walker,Robertson,2:42,D,None,-----,None
+"Sunday, Aug 30",boxscore,PIT,@,SFG,L,1,2,None,70-63,1,up 1.0,Bryant,Giusti,None,2:26,D,"15,963",------,None
+"Tuesday, Sep 1",boxscore,PIT,@,MON,W,8,4,None,71-63,1,up 1.5,Veale,Stoneman,Giusti,2:41,N,"20,123",+,None
+"Wednesday, Sep 2",boxscore,PIT,@,MON,L-wo,7,10,None,71-64,1,up 0.5,Marshall,Gibbon,None,2:44,N,"15,461",-,None
+"Friday, Sep 4",boxscore,PIT,None,PHI,W,4,3,None,72-64,1,up 0.5,Blass,Wise,Lamb,2:19,N,"22,547",+,None
+"Saturday, Sep 5",boxscore,PIT,None,PHI,W,6,4,None,73-64,1,up 1.5,Cambria,Lersch,Giusti,2:30,N,"22,925",++,None
+"Sunday, Sep 6",boxscore,PIT,None,PHI,W-wo,4,3,10,74-64,1,up 2.0,Walker,Selma,None,2:33,D,"19,049",+++,None
+"Monday, Sep 7",boxscore,PIT,None,CHC,W,8,3,None,75-64,1,up 1.5,Moose,Pappas,None,2:08,D,None,++++,None
+"Monday, Sep 7",boxscore,PIT,None,CHC,L,2,9,None,75-65,1,up 1.5,Jenkins,Veale,None,2:15,D,"42,556",-,None
+"Tuesday, Sep 8",boxscore,PIT,None,CHC,L,3,10,None,75-66,1,up 0.5,Hands,Blass,None,2:57,D,"6,777",--,1970-06-26 (Rain)
+"Wednesday, Sep 9",boxscore,PIT,None,STL,L,4,6,None,75-67,1, Tied,Bertaina,Cambria,Hilgendorf,2:38,N,"14,927",---,None
+"Thursday, Sep 10",boxscore,PIT,None,STL,W,2,0,None,76-67,1, Tied,Walker,Briles,None,1:48,N,"14,386",+,None
+"Saturday, Sep 12",boxscore,PIT,@,CHC,W,5,4,None,77-67,1,up 0.5,Moose,Jenkins,Giusti,2:37,D,"33,199",++,None
+"Sunday, Sep 13",boxscore,PIT,@,CHC,L-wo,2,3,None,77-68,1,up 0.5,Hands,Blass,None,2:33,D,"22,567",-,None
+"Tuesday, Sep 15",boxscore,PIT,@,PHI,W,8,3,None,78-68,1,up 1.0,Walker,Lersch,Giusti,3:00,N,"4,802",+,None
+"Wednesday, Sep 16",boxscore,PIT,@,PHI,W,5,3,None,79-68,1,up 2.0,Moose,Bunning,Lamb,2:32,N,"4,418",++,None
+"Thursday, Sep 17",boxscore,PIT,@,PHI,L,2,3,None,79-69,1,up 1.5,Short,Lamb,Selma,2:27,N,"4,199",-,None
+"Friday, Sep 18",boxscore,PIT,@,NYM,W,3,2,None,80-69,1,up 1.5,Blass,McAndrew,Giusti,2:23,N,"42,225",+,None
+"Saturday, Sep 19",boxscore,PIT,@,NYM,W,2,1,None,81-69,1,up 1.5,Walker,Gentry,Gibbon,2:31,D,"41,323",++,None
+"Sunday, Sep 20",boxscore,PIT,@,NYM,L,1,4,None,81-70,1,up 2.0,Koosman,Moose,None,2:04,D,None,-,None
+"Sunday, Sep 20",boxscore,PIT,@,NYM,W,9,5,10,82-70,1,up 2.0,Giusti,McGraw,None,3:23,D,"54,806",+,None
+"Tuesday, Sep 22",boxscore,PIT,None,MON,L,0,1,None,82-71,1,up 2.0,Stoneman,Ellis,None,2:20,N,None,-,None
+"Tuesday, Sep 22",boxscore,PIT,None,MON,W,3,1,None,83-71,1,up 2.0,Veale,Wegener,Gibbon,2:08,N,"19,524",+,1970-09-03 (Rain; Site change)
+"Wednesday, Sep 23",boxscore,PIT,None,MON,L,2,3,None,83-72,1,up 2.0,Morton,Brunet,Marshall,2:34,N,"12,420",-,None
+"Thursday, Sep 24",boxscore,PIT,None,MON,W,8,0,None,84-72,1,up 2.5,Walker,Renko,None,2:18,N,"14,026",+,None
+"Friday, Sep 25",boxscore,PIT,None,NYM,W,4,3,None,85-72,1,up 3.5,Grant,Chance,Gibbon,3:06,N,"41,484",++,None
+"Saturday, Sep 26",boxscore,PIT,None,NYM,W,4,3,None,86-72,1,up 4.5,Grant,Herbel,None,2:37,D,"34,311",+++,None
+"Sunday, Sep 27",boxscore,PIT,None,NYM,W,2,1,None,87-72,1,up 4.5,Ellis,McAndrew,Giusti,2:30,D,"50,469",++++,None
+"Tuesday, Sep 29",boxscore,PIT,@,STL,W,7,2,None,88-72,1,up 5.0,Dal Canton,Gibson,Lamb,2:16,N,"13,232",+++++,None
+"Wednesday, Sep 30",boxscore,PIT,@,STL,L-wo,3,4,None,88-73,1,up 5.0,Briles,Grant,None,2:22,N,"8,084",-,None
+"Thursday, Oct 1",boxscore,PIT,@,STL,W,9,5,None,89-73,1,up 5.0,Brunet,Cleveland,Acosta,2:14,N,"8,457",+,None

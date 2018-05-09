@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Saturday, Apr 14",boxscore,PHI,@,BRO,W,11,3,None,2-0,1, Tied,Rixey,Smith,None,2:10,D,None,++,None
+"Monday, Apr 16",boxscore,PHI,@,BSN,L,1,3,None,2-1,3, 1.0,Barnes,Alexander,None,None,D,None,-,None
+"Thursday, Apr 19",boxscore,PHI,@,BSN,L,3,7,None,2-2,6, 2.5,Rudolph,Rixey,None,None,D,None,--,None
+"Thursday, Apr 19",boxscore,PHI,@,BSN,L,2,4,None,2-3,6, 2.5,Barnes,Oeschger,None,None,D,None,---,None
+"Friday, Apr 20",boxscore,PHI,None,BRO,W,4,3,None,3-3,5, 1.5,Alexander,Cheney,None,None,D,None,+,None
+"Saturday, Apr 21",boxscore,PHI,None,BRO,L,1,4,None,3-4,5, 2.5,Pfeffer,Rixey,None,None,D,None,-,None
+"Monday, Apr 23",boxscore,PHI,None,BRO,L,1,3,None,3-5,6, 3.0,Cadore,Oeschger,None,None,D,None,--,None
+"Wednesday, Apr 25",boxscore,PHI,None,NYG,L,8,9,None,3-6,6, 4.5,Middleton,Alexander,Sallee,None,D,None,---,None
+"Friday, Apr 27",boxscore,PHI,None,NYG,W,5,1,None,4-6,6, 3.5,Lavender,Tesreau,None,None,D,None,+,None
+"Saturday, Apr 28",boxscore,PHI,None,NYG,W,2,1,None,5-6,6, 2.5,Rixey,Anderson,None,None,D,None,++,None
+"Monday, Apr 30",boxscore,PHI,None,BSN,W,3,2,None,6-6,4, 2.0,Alexander,Rudolph,None,None,D,None,+++,None
+"Wednesday, May 2",boxscore,PHI,None,BSN,W,2,1,None,7-6,4, 1.5,Oeschger,Barnes,None,None,D,None,++++,None
+"Thursday, May 3",boxscore,PHI,None,BSN,W,7,2,None,8-6,4, 1.0,Mayer,Ragan,None,None,D,None,+++++,None
+"Monday, May 7",boxscore,PHI,@,NYG,L,1,2,None,8-7,4, 2.0,Tesreau,Lavender,None,None,D,None,-,None
+"Tuesday, May 8",boxscore,PHI,@,NYG,L,1,5,None,8-8,4, 2.5,Anderson,Rixey,None,None,D,None,--,None
+"Thursday, May 10",boxscore,PHI,None,STL,W,1,0,None,9-8,4, 3.0,Alexander,Meadows,None,None,D,None,+,None
+"Friday, May 11",boxscore,PHI,None,STL,W,4,0,None,10-8,4, 3.0,Oeschger,Doak,None,None,D,None,++,None
+"Saturday, May 12",boxscore,PHI,None,STL,W,3,1,None,11-8,3, 3.0,Rixey,Watson,None,None,D,None,+++,None
+"Monday, May 14",boxscore,PHI,None,PIT,W,3,2,None,12-8,3, 3.0,Alexander,Jacobs,None,1:48,D,None,++++,None
+"Tuesday, May 15",boxscore,PHI,None,PIT,W,8,2,None,13-8,3, 3.0,Mayer,Grimes,None,1:46,D,None,+++++,None
+"Wednesday, May 16",boxscore,PHI,None,PIT,L,4,12,None,13-9,3, 4.0,Cooper,Oeschger,None,1:51,D,None,-,None
+"Thursday, May 17",boxscore,PHI,None,PIT,W,8,6,None,14-9,3, 4.0,Rixey,Carlson,Lavender,1:27,D,None,+,None
+"Friday, May 18",boxscore,PHI,None,CHC,W,3,1,None,15-9,3, 3.0,Alexander,Prendergast,None,None,D,None,++,None
+"Saturday, May 19",boxscore,PHI,None,CHC,W,5,4,11,16-9,2, 2.0,Lavender,Vaughn,None,None,D,None,+++,None
+"Monday, May 21",boxscore,PHI,None,CHC,W,4,3,None,17-9,2, 1.0,Rixey,Douglas,None,None,D,None,++++,None
+"Tuesday, May 22",boxscore,PHI,None,CHC,W,8,6,None,18-9,1, Tied,Oeschger,Seaton,None,None,D,None,+++++,None
+"Wednesday, May 23",boxscore,PHI,None,CIN,W,5,1,None,19-9,1,up 1.0,Alexander,Toney,None,None,D,None,++++++,None
+"Thursday, May 24",boxscore,PHI,None,CIN,L,9,19,None,19-10,1, Tied,Ring,Mayer,None,None,D,None,-,None
+"Friday, May 25",boxscore,PHI,None,CIN,W,5,2,None,20-10,1, Tied,Rixey,Schneider,None,None,D,None,+,None
+"Saturday, May 26",boxscore,PHI,None,CIN,W,7,4,None,21-10,1,up 1.0,Oeschger,Mitchell,None,None,D,None,++,None
+"Wednesday, May 30",boxscore,PHI,@,NYG,L,2,3,None,21-11,1, Tied,Anderson,Lavender,Perritt,None,D,None,-,None
+"Wednesday, May 30",boxscore,PHI,@,NYG,L,1,5,None,21-12,1, Tied,Schupp,Alexander,None,None,D,None,--,None
+"Thursday, May 31",boxscore,PHI,@,PIT,L,2,3,None,21-13,3, 0.5,Mamaux,Rixey,Jacobs,None,D,None,---,None
+"Friday, Jun 1",boxscore,PHI,@,PIT,W,9,1,None,22-13,2, 0.5,Mayer,Miller,None,1:44,D,None,+,None
+"Saturday, Jun 2",boxscore,PHI,@,PIT,W,9,1,None,23-13,2, 0.5,Alexander,Grimes,None,1:49,D,None,++,None
+"Monday, Jun 4",boxscore,PHI,@,PIT,L,1,5,None,23-14,3, 1.0,Jacobs,Lavender,None,1:39,D,None,-,None
+"Wednesday, Jun 6",boxscore,PHI,@,CHC,W,4,0,None,24-14,1, Tied,Alexander,Seaton,None,1:38,D,"5,000",+,None
+"Friday, Jun 8",boxscore,PHI,@,CHC,W,1,0,None,25-14,1,up 1.0,Rixey,Douglas,None,1:42,D,550,++,None
+"Sunday, Jun 10",boxscore,PHI,@,STL,W,4,1,None,26-14,1,up 1.5,Alexander,Watson,None,2:06,D,"12,000",+++,None
+"Monday, Jun 11",boxscore,PHI,@,STL,L,4,5,15,26-15,1,up 0.5,Doak,Oeschger,None,3:00,D,"3,000",-,None
+"Tuesday, Jun 12",boxscore,PHI,@,STL,W,4,0,None,27-15,1,up 0.5,Rixey,Ames,None,2:00,D,"2,000",+,None
+"Wednesday, Jun 13",boxscore,PHI,@,CIN,W,3,2,None,28-15,1,up 0.5,Alexander,Regan,None,1:37,D,None,++,None
+"Thursday, Jun 14",boxscore,PHI,@,CIN,L,5,6,None,28-16,2, 0.5,Toney,Mayer,None,1:50,D,None,-,None
+"Friday, Jun 15",boxscore,PHI,@,CIN,W,12,8,None,29-16,1, Tied,Lavender,Eller,None,2:02,D,None,+,None
+"Saturday, Jun 16",boxscore,PHI,@,CIN,L,1,2,11,29-17,2, 1.0,Mitchell,Rixey,None,2:20,D,None,-,None
+"Sunday, Jun 17",boxscore,PHI,@,CIN,L,4,5,12,29-18,2, 1.5,Regan,Alexander,None,2:20,D,None,--,None
+"Tuesday, Jun 19",boxscore,PHI,None,BRO,L,5,12,None,29-19,2, 2.5,Cadore,Oeschger,None,None,D,None,---,None
+"Wednesday, Jun 20",boxscore,PHI,None,BRO,W,7,3,None,30-19,2, 1.5,Rixey,Smith,None,None,D,None,+,None
+"Wednesday, Jun 20",boxscore,PHI,None,BRO,W,9,2,None,31-19,2, 1.5,Mayer,Coombs,None,None,D,None,++,1917-04-24 (Wet grounds)
+"Thursday, Jun 21",boxscore,PHI,None,BRO,L,2,4,None,31-20,2, 2.5,Marquard,Alexander,None,None,D,None,-,None
+"Friday, Jun 22",boxscore,PHI,None,BRO,W,5,3,None,32-20,2, 1.5,Oeschger,Dell,None,None,D,None,+,None
+"Saturday, Jun 23",boxscore,PHI,None,NYG,W,8,2,None,33-20,2, 0.5,Lavender,Schupp,None,None,D,None,++,None
+"Monday, Jun 25",boxscore,PHI,None,NYG,W,2,0,None,34-20,1,up 0.5,Rixey,Anderson,None,None,D,None,+++,None
+"Tuesday, Jun 26",boxscore,PHI,None,NYG,L,3,4,None,34-21,1,up 0.5,Tesreau,Alexander,Sallee,None,D,None,-,None
+"Tuesday, Jun 26",boxscore,PHI,None,NYG,W,6,5,10,35-21,1,up 0.5,Oeschger,Schupp,None,None,D,None,+,1917-04-26 (Rain)
+"Wednesday, Jun 27",boxscore,PHI,None,NYG,L,2,4,None,35-22,2, 0.5,Perritt,Lavender,None,None,D,None,-,None
+"Thursday, Jun 28",boxscore,PHI,@,BRO,L,3,5,None,35-23,2, 1.0,Marquard,Rixey,None,1:40,D,None,--,None
+"Thursday, Jun 28",boxscore,PHI,@,BRO,W,1,0,None,36-23,2, 1.0,Oeschger,Cheney,None,2:06,D,None,+,1917-04-12 (Wet grounds)
+"Saturday, Jun 30",boxscore,PHI,@,BRO,W,6,2,None,37-23,2, 1.5,Alexander,Coombs,None,1:40,D,None,++,None
+"Saturday, Jun 30",boxscore,PHI,@,BRO,L,8,9,None,37-24,2, 1.5,Cadore,Mayer,Cheney,2:00,D,None,-,1917-04-13 (Wet grounds)
+"Sunday, Jul 1",boxscore,PHI,@,BRO,L,2,3,None,37-25,2, 2.0,Pfeffer,Lavender,None,2:00,D,"12,000",--,1917-06-29 (Rain)
+"Monday, Jul 2",boxscore,PHI,@,BRO,L,3,7,None,37-26,2, 3.0,Smith,Oeschger,None,1:50,D,None,---,None
+"Wednesday, Jul 4",boxscore,PHI,None,BSN,W,5,3,None,38-26,2, 4.0,Alexander,Rudolph,None,None,D,None,+,None
+"Wednesday, Jul 4",boxscore,PHI,None,BSN,L,2,4,None,38-27,2, 4.0,Ragan,Rixey,None,None,D,None,-,None
+"Thursday, Jul 5",boxscore,PHI,None,BSN,L,0,3,None,38-28,2, 4.0,Nehf,Lavender,None,None,D,None,--,None
+"Friday, Jul 6",boxscore,PHI,None,PIT,L,5,8,None,38-29,2, 5.0,Mamaux,Oeschger,Carlson,2:10,D,None,---,None
+"Saturday, Jul 7",boxscore,PHI,None,PIT,L,1,4,None,38-30,2, 6.5,Miller,Alexander,Jacobs,None,D,None,----,None
+"Friday, Jul 13",boxscore,PHI,None,CHC,W,7,0,None,39-30,2, 6.5,Alexander,Douglas,None,None,D,None,+,None
+"Friday, Jul 13",boxscore,PHI,None,CHC,L,0,1,10,39-31,2, 6.5,Demaree,Rixey,None,None,D,None,-,1917-07-11 (Rain)
+"Saturday, Jul 14",boxscore,PHI,None,CHC,L,2,3,None,39-32,2, 7.0,Hendrix,Oeschger,None,None,D,None,--,None
+"Saturday, Jul 14",boxscore,PHI,None,CHC,T,3,3,None,39-32,2, 7.0,None,None,None,None,D,None,--,1917-07-12 (Wet grounds)
+"Monday, Jul 16",boxscore,PHI,None,CIN,W,1,0,None,40-32,2, 7.0,Alexander,Regan,None,None,D,None,+,None
+"Tuesday, Jul 17",boxscore,PHI,None,CIN,L,1,3,None,40-33,2, 8.0,Schneider,Rixey,None,None,D,None,-,None
+"Wednesday, Jul 18",boxscore,PHI,None,CIN,W,3,1,None,41-33,2, 8.0,Mayer,Toney,None,None,D,None,+,None
+"Friday, Jul 20",boxscore,PHI,None,STL,W,4,3,None,42-33,2, 8.0,Alexander,Meadows,None,None,D,None,++,None
+"Saturday, Jul 21",boxscore,PHI,None,STL,L,5,7,None,42-34,2, 9.5,Horstmann,Rixey,Ames,None,D,None,-,None
+"Saturday, Jul 21",boxscore,PHI,None,STL,L,3,5,None,42-35,2, 9.5,Horstmann,Oeschger,None,None,D,None,--,1917-05-09 (Rain)
+"Monday, Jul 23",boxscore,PHI,None,STL,L,3,5,None,42-36,4, 9.5,Ames,Mayer,None,None,D,None,---,None
+"Tuesday, Jul 24",boxscore,PHI,None,STL,L,0,3,None,42-37,4, 10.5,Meadows,Alexander,None,None,D,None,----,None
+"Thursday, Jul 26",boxscore,PHI,@,CIN,L,2,5,None,42-38,4, 10.5,Schneider,Rixey,None,1:52,D,None,-----,None
+"Friday, Jul 27",boxscore,PHI,@,CIN,L,4,6,None,42-39,4, 11.5,Toney,Mayer,None,1:41,D,None,------,None
+"Saturday, Jul 28",boxscore,PHI,@,CIN,W,6,3,10,43-39,4, 10.5,Alexander,Mitchell,None,1:56,D,None,+,None
+"Sunday, Jul 29",boxscore,PHI,@,CIN,W,1,0,None,44-39,4, 10.5,Oeschger,Schneider,None,1:55,D,None,++,None
+"Monday, Jul 30",boxscore,PHI,@,STL,W,3,2,None,45-39,4, 9.5,Rixey,Doak,None,2:12,D,"3,500",+++,None
+"Tuesday, Jul 31",boxscore,PHI,@,STL,W,6,0,None,46-39,4, 10.5,Alexander,Meadows,None,1:42,D,None,++++,None
+"Tuesday, Jul 31",boxscore,PHI,@,STL,L,2,4,None,46-40,4, 10.5,Horstmann,Bender,None,1:53,D,"7,000",-,1917-06-09 (Rain)
+"Wednesday, Aug 1",boxscore,PHI,@,STL,W,2,1,10,47-40,3, 10.5,Lavender,Ames,Oeschger,1:52,D,"2,500",+,None
+"Thursday, Aug 2",boxscore,PHI,@,STL,W,6,0,None,48-40,2, 10.5,Oeschger,Goodwin,None,1:55,D,"3,000",++,None
+"Friday, Aug 3",boxscore,PHI,@,CHC,L,0,2,None,48-41,2, 11.5,Douglas,Alexander,None,1:37,D,"2,000",-,None
+"Saturday, Aug 4",boxscore,PHI,@,CHC,L,1,5,None,48-42,3, 11.5,Carter,Rixey,None,2:00,D,"6,000",--,None
+"Sunday, Aug 5",boxscore,PHI,@,CHC,W,6,2,None,49-42,2, 11.5,Bender,Prendergast,None,1:40,D,"9,000",+,None
+"Monday, Aug 6",boxscore,PHI,@,CHC,W,3,2,None,50-42,2, 11.0,Oeschger,Hendrix,None,1:53,D,"1,500",++,None
+"Thursday, Aug 9",boxscore,PHI,@,PIT,L,1,5,None,50-43,2, 13.0,Jacobs,Alexander,None,1:39,D,None,-,None
+"Friday, Aug 10",boxscore,PHI,@,PIT,L,0,1,None,50-44,2, 14.0,Cooper,Rixey,None,1:26,D,None,--,None
+"Saturday, Aug 11",boxscore,PHI,@,PIT,W,4,3,None,51-44,2, 12.5,Alexander,Miller,None,1:42,D,None,+,None
+"Saturday, Aug 11",boxscore,PHI,@,PIT,W,3,2,None,52-44,2, 12.5,Oeschger,Evans,None,2:01,D,None,++,1917-08-08 (Rain)
+"Monday, Aug 13",boxscore,PHI,@,BSN,W,3,0,None,53-44,2, 12.0,Bender,Barnes,None,None,D,None,+++,None
+"Tuesday, Aug 14",boxscore,PHI,@,BSN,L,1,2,10,53-45,2, 12.5,Ragan,Rixey,None,None,D,None,-,None
+"Wednesday, Aug 15",boxscore,PHI,@,BSN,L,0,3,None,53-46,2, 13.0,Hughes,Alexander,None,None,D,None,--,None
+"Thursday, Aug 16",boxscore,PHI,None,PIT,W,5,3,None,54-46,2, 12.5,Oeschger,Jacobs,None,1:35,D,None,+,None
+"Thursday, Aug 16",boxscore,PHI,None,PIT,W,3,0,None,55-46,2, 12.5,Mayer,Evans,None,1:45,D,None,++,1917-07-09 (Rain)
+"Friday, Aug 17",boxscore,PHI,None,PIT,W,3,0,None,56-46,2, 11.0,Bender,Jacobs,None,2:05,D,None,+++,None
+"Friday, Aug 17",boxscore,PHI,None,PIT,W,7,3,None,57-46,2, 11.0,Rixey,Carlson,None,1:40,D,None,++++,1917-07-10 (Rain)
+"Saturday, Aug 18",boxscore,PHI,None,PIT,W,3,2,14,58-46,2, 10.5,Alexander,Cooper,None,2:25,D,None,+++++,None
+"Monday, Aug 20",boxscore,PHI,None,CHC,L,2,4,None,58-47,2, 10.5,Douglas,Oeschger,None,None,D,None,-,None
+"Tuesday, Aug 21",boxscore,PHI,None,CHC,W,6,0,None,59-47,2, 10.0,Bender,Vaughn,None,None,D,None,+,None
+"Tuesday, Aug 21",boxscore,PHI,None,CHC,L,2,4,None,59-48,2, 10.0,Carter,Rixey,None,None,D,None,-,None
+"Wednesday, Aug 22",boxscore,PHI,None,CHC,W,5,0,None,60-48,2, 10.0,Alexander,Prendergast,None,None,D,None,+,None
+"Friday, Aug 24",boxscore,PHI,None,CIN,W,6,5,None,61-48,2, 9.0,Rixey,Ring,None,None,D,None,++,None
+"Friday, Aug 24",boxscore,PHI,None,CIN,W,7,6,None,62-48,2, 9.0,Rixey,Eller,Bender,None,D,None,+++,1917-07-19 (Rain)
+"Saturday, Aug 25",boxscore,PHI,None,CIN,W,4,3,10,63-48,2, 9.0,Mayer,Toney,None,None,D,None,++++,None
+"Saturday, Aug 25",boxscore,PHI,None,CIN,W,3,1,None,64-48,2, 9.0,Bender,Schneider,None,None,D,None,+++++,1917-08-23 (Rain)
+"Monday, Aug 27",boxscore,PHI,None,STL,W,6,4,None,65-48,2, 8.0,Mayer,Horstmann,Bender,None,D,None,++++++,None
+"Tuesday, Aug 28",boxscore,PHI,None,STL,L,5,6,None,65-49,2, 9.0,Watson,Oeschger,None,None,D,None,-,None
+"Wednesday, Aug 29",boxscore,PHI,None,STL,L,3,5,None,65-50,2, 10.0,Watson,Alexander,None,None,D,None,--,None
+"Thursday, Aug 30",boxscore,PHI,None,BSN,W,4,3,None,66-50,2, 10.0,Bender,Ragan,None,1:35,D,None,+,None
+"Thursday, Aug 30",boxscore,PHI,None,BSN,L,0,3,None,66-51,2, 10.0,Hughes,Rixey,None,1:38,D,"4,000",-,1917-05-01 (Wet grounds)
+"Friday, Aug 31",boxscore,PHI,None,BSN,W,4,3,None,67-51,2, 9.0,Mayer,Barnes,None,1:42,D,"7,173",+,None
+"Monday, Sep 3",boxscore,PHI,@,BRO,W,5,0,None,68-51,2, 8.5,Alexander,Marquard,None,1:17,D,None,++,None
+"Monday, Sep 3",boxscore,PHI,@,BRO,W,9,3,None,69-51,2, 8.5,Alexander,Coombs,None,1:40,D,"18,000",+++,None
+"Tuesday, Sep 4",boxscore,PHI,@,BRO,T,0,0,14,69-51,2, 8.0,None,None,None,2:16,D,None,+++,None
+"Wednesday, Sep 5",boxscore,PHI,@,NYG,L,2,3,None,69-52,2, 10.0,Anderson,Bender,None,None,D,None,-,None
+"Wednesday, Sep 5",boxscore,PHI,@,NYG,L,1,5,None,69-53,2, 10.0,Sallee,Rixey,None,None,D,None,--,1917-05-04 (Rain)
+"Thursday, Sep 6",boxscore,PHI,@,NYG,W,5,2,None,70-53,2, 10.0,Lavender,Benton,None,None,D,None,+,None
+"Thursday, Sep 6",boxscore,PHI,@,NYG,L,0,7,None,70-54,2, 10.0,Perritt,Mayer,None,1:43,D,None,-,1917-05-05 (Wet grounds)
+"Friday, Sep 7",boxscore,PHI,@,NYG,W,4,1,None,71-54,2, 10.0,Alexander,Tesreau,None,None,D,None,+,None
+"Friday, Sep 7",boxscore,PHI,@,NYG,L,1,2,None,71-55,2, 10.0,Schupp,Rixey,None,None,D,None,-,1917-05-28 (Rain)
+"Saturday, Sep 8",boxscore,PHI,@,BSN,L,3,4,10,71-56,2, 10.0,Barnes,Oeschger,None,None,D,None,--,None
+"Saturday, Sep 8",boxscore,PHI,@,BSN,W,5,3,None,72-56,2, 10.0,Mayer,Nehf,None,None,D,None,+,1917-04-17 (Game thrown out)
+"Monday, Sep 10",boxscore,PHI,@,BSN,W,5,2,None,73-56,2, 9.0,Alexander,Tyler,None,None,D,None,++,None
+"Monday, Sep 10",boxscore,PHI,@,BSN,L,2,12,None,73-57,2, 9.0,Ragan,Lavender,None,None,D,None,-,1917-04-18 (Rain)
+"Tuesday, Sep 11",boxscore,PHI,@,BSN,L,1,3,None,73-58,2, 10.0,Barnes,Rixey,None,None,D,None,--,None
+"Tuesday, Sep 11",boxscore,PHI,@,BSN,W,5,1,None,74-58,2, 10.0,Oeschger,Allen,None,None,D,None,+,1917-07-03 (Rain; Site change)
+"Wednesday, Sep 12",boxscore,PHI,@,BSN,W,6,3,None,75-58,2, 10.5,Mayer,Hughes,None,None,D,None,++,1917-09-01 (Wet grounds; Site change)
+"Thursday, Sep 13",boxscore,PHI,None,BRO,W,1,0,11,76-58,2, 10.5,Alexander,Pfeffer,None,None,D,None,+++,None
+"Thursday, Sep 13",boxscore,PHI,None,BRO,L,3,7,None,76-59,2, 10.5,Marquard,Fittery,None,None,D,None,-,1917-09-14 (Schedule change)
+"Monday, Sep 17",boxscore,PHI,@,CIN,W,4,1,None,77-59,2, 11.5,Alexander,Mitchell,None,1:31,D,None,+,None
+"Tuesday, Sep 18",boxscore,PHI,@,CIN,L,0,1,None,77-60,2, 12.5,Toney,Rixey,None,1:06,D,None,-,None
+"Friday, Sep 21",boxscore,PHI,@,CHC,W,4,2,None,78-60,2, 12.0,Alexander,Douglas,None,1:36,D,"1,500",+,1917-06-05 (Rain)
+"Saturday, Sep 22",boxscore,PHI,@,CHC,W,2,1,None,79-60,2, 11.0,Rixey,Hendrix,None,1:48,D,None,++,None
+"Saturday, Sep 22",boxscore,PHI,@,CHC,W,4,1,None,80-60,2, 11.0,Oeschger,Walker,None,2:13,D,"5,000",+++,1917-06-07 (Cold)
+"Sunday, Sep 23",boxscore,PHI,@,CHC,W,4,1,None,81-60,2, 10.0,Alexander,Douglas,None,1:46,D,None,++++,None
+"Sunday, Sep 23",boxscore,PHI,@,CHC,W,11,4,None,82-60,2, 10.0,Fittery,Carter,None,2:11,D,"11,000",+++++,1917-09-20 (Rain)
+"Monday, Sep 24",boxscore,PHI,@,PIT,W,2,0,None,83-60,2, 10.0,Bender,Jacobs,None,1:43,D,None,++++++,None
+"Tuesday, Sep 25",boxscore,PHI,@,PIT,L,0,3,None,83-61,2, 10.0,Miller,Oeschger,None,1:40,D,None,-,None
+"Wednesday, Sep 26",boxscore,PHI,@,PIT,W,5,0,None,84-61,2, 9.0,Rixey,Carlson,None,1:32,D,None,+,None
+"Saturday, Sep 29",boxscore,PHI,@,STL,L,2,7,None,84-62,2, 10.0,Horstmann,Alexander,None,1:35,D,"3,500",-,None
+"Sunday, Sep 30",boxscore,PHI,@,STL,W,11,2,None,85-62,2, 8.0,Bender,Goodwin,Rixey,1:40,D,None,+,None
+"Sunday, Sep 30",boxscore,PHI,@,STL,W,10,6,None,86-62,2, 8.0,Oeschger,Doak,None,1:40,D,"10,000",++,1917-09-28 (Schedule change)
+"Tuesday, Oct 2",boxscore,PHI,None,NYG,L,2,5,12,86-63,2, 8.0,Perritt,Rixey,None,None,D,None,-,None
+"Tuesday, Oct 2",boxscore,PHI,None,NYG,W,8,2,None,87-63,2, 8.0,Alexander,Benton,None,None,D,None,+,1917-05-29 (Rain; Site change)
+"Wednesday, Oct 3",boxscore,PHI,None,NYG,L,1,11,None,87-64,2, 10.0,Schupp,Lavender,Smith,None,D,None,-,None
+"Wednesday, Oct 3",boxscore,PHI,None,NYG,L,0,6,None,87-65,2, 10.0,Kelly,Oeschger,None,None,D,None,--,1917-10-04 (Schedule change)

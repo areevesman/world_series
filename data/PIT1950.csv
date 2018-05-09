@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 19",boxscore,PIT,@,STL,W,4,3,None,1-1,3, 1.0,Chambers,Munger,None,2:01,N,"5,648",+,None
+"Thursday, Apr 20",boxscore,PIT,@,STL,W,8,4,None,2-1,2, 0.5,Dickson,Pollet,None,2:48,D,"4,235",++,None
+"Friday, Apr 21",boxscore,PIT,None,CIN,W,7,5,None,3-1,1, Tied,Werle,Wehmeier,Lombardi,2:26,D,"32,685",+++,None
+"Saturday, Apr 22",boxscore,PIT,None,CIN,W,9,2,None,4-1,1, Tied,Chesnes,Hetki,None,2:15,D,"14,533",++++,None
+"Sunday, Apr 23",boxscore,PIT,None,CIN,W,5,3,None,5-1,1,up 0.5,Chambers,Smith,None,2:09,D,"18,049",+++++,None
+"Thursday, Apr 27",boxscore,PIT,None,STL,L,2,5,None,5-2,2, 0.5,Munger,Dickson,None,2:31,N,"34,995",-,None
+"Friday, Apr 28",boxscore,PIT,None,STL,W,4,3,None,6-2,2, 0.5,Werle,Staley,Main,2:31,D,"10,102",+,None
+"Saturday, Apr 29",boxscore,PIT,@,CIN,L,6,14,None,6-3,2, 1.0,Erautt,Chesnes,None,2:38,D,"4,895",-,None
+"Sunday, Apr 30",boxscore,PIT,@,CIN,L,2,4,None,6-4,2, 2.0,Fox,Chambers,Wehmeier,2:02,D,None,--,None
+"Sunday, Apr 30",boxscore,PIT,@,CIN,L,1,2,None,6-5,2, 2.0,Blackwell,Queen,None,1:53,D,"10,759",---,None
+"Tuesday, May 2",boxscore,PIT,None,BSN,W,6,1,None,7-5,2, 1.5,Dickson,Spahn,None,2:01,N,"24,115",+,None
+"Wednesday, May 3",boxscore,PIT,None,BSN,L,4,15,None,7-6,2, 1.5,Sain,Lombardi,None,2:38,D,"9,389",-,None
+"Thursday, May 4",boxscore,PIT,None,NYG,W-wo,3,1,None,8-6,2, 1.5,Chambers,Jansen,None,1:53,D,"6,680",+,None
+"Friday, May 5",boxscore,PIT,None,NYG,W,5,4,None,9-6,2, 0.5,Queen,Jones,Werle,2:33,N,"31,785",++,None
+"Saturday, May 6",boxscore,PIT,None,NYG,L,8,9,None,9-7,3, 0.5,Maglie,Lombardi,Hansen,3:19,D,"13,577",-,None
+"Sunday, May 7",boxscore,PIT,None,BRO,L,2,3,None,9-8,4, 1.5,Barney,Dickson,Erskine,2:39,D,"33,734",--,None
+"Monday, May 8",boxscore,PIT,None,BRO,L,5,7,None,9-9,5, 2.5,Podbielan,Chambers,Banta,2:28,D,"9,476",---,None
+"Tuesday, May 9",boxscore,PIT,None,BRO,W,10,5,None,10-9,4, 1.5,Werle,Palica,None,2:35,N,"26,734",+,None
+"Thursday, May 11",boxscore,PIT,None,PHI,L,2,3,None,10-10,6, 2.5,Roberts,Dickson,None,1:46,N,"28,452",-,None
+"Friday, May 12",boxscore,PIT,@,CHC,L,3,6,None,10-11,6, 3.0,Rush,Gregg,None,2:18,D,"8,763",--,None
+"Saturday, May 13",boxscore,PIT,@,CHC,L,3,4,None,10-12,6, 4.0,Hiller,Chambers,Dubiel,1:54,D,"25,453",---,None
+"Sunday, May 14",boxscore,PIT,@,CHC,W,6,5,None,11-12,6, 3.0,Chesnes,Leonard,Werle,2:35,D,None,+,None
+"Sunday, May 14",boxscore,PIT,@,CHC,W,16,9,None,12-12,6, 3.0,Main,Lade,Werle,2:44,D,"34,659",++,1950-09-26 (Schedule change)
+"Tuesday, May 16",boxscore,PIT,@,BSN,L,0,3,None,12-13,6, 4.0,Sain,Dickson,None,1:43,N,"10,273",-,None
+"Wednesday, May 17",boxscore,PIT,@,BSN,W,4,1,None,13-13,6, 4.0,Chambers,Bickford,None,2:13,N,"13,384",+,None
+"Saturday, May 20",boxscore,PIT,@,BRO,L,2,3,None,13-14,6, 5.0,Banta,Queen,None,2:15,D,None,-,None
+"Saturday, May 20",boxscore,PIT,@,BRO,L-wo,3,4,11,13-15,6, 5.0,Bankhead,Werle,None,3:00,D,"20,311",--,1950-05-19 (Rain)
+"Sunday, May 21",boxscore,PIT,@,NYG,W,4,2,None,14-15,5, 3.5,Chesnes,Jansen,None,2:13,D,None,+,None
+"Sunday, May 21",boxscore,PIT,@,NYG,W,8,6,None,15-15,5, 3.5,Chambers,Jones,Werle,2:53,D,"34,972",++,None
+"Tuesday, May 23",boxscore,PIT,@,PHI,W,6,0,None,16-15,4, 3.0,Macdonald,Meyer,None,2:08,N,"12,428",+++,None
+"Wednesday, May 24",boxscore,PIT,@,PHI,L,3,6,None,16-16,5, 4.0,Konstanty,Werle,None,2:09,N,"18,993",-,None
+"Thursday, May 25",boxscore,PIT,@,PHI,L,0,3,None,16-17,5, 5.0,Miller,Chambers,None,2:00,D,"5,265",--,None
+"Friday, May 26",boxscore,PIT,None,CHC,L,0,4,None,16-18,6, 6.0,Hiller,Queen,None,2:18,N,"22,526",---,None
+"Saturday, May 27",boxscore,PIT,None,CHC,L,5,7,None,16-19,6, 6.5,Minner,Chesnes,Leonard,2:17,D,"10,220",----,None
+"Sunday, May 28",boxscore,PIT,None,CHC,L,0,6,None,16-20,6, 7.5,Schmitz,Dickson,None,1:59,D,None,-----,None
+"Sunday, May 28",boxscore,PIT,None,CHC,L,1,5,None,16-21,6, 7.5,Rush,Lombardi,None,1:51,N,"23,873",------,None
+"Tuesday, May 30",boxscore,PIT,None,STL,L,13,17,None,16-22,6, 8.5,Staley,Werle,Brazle,3:05,D,None,-------,None
+"Tuesday, May 30",boxscore,PIT,None,STL,L,5,8,None,16-23,6, 8.5,Staley,Dickson,None,2:28,D,"33,182",--------,None
+"Thursday, Jun 1",boxscore,PIT,None,BSN,L,2,14,None,16-24,6, 8.5,Bickford,Queen,None,2:24,D,"5,468",---------,None
+"Friday, Jun 2",boxscore,PIT,None,BSN,W,5,4,None,17-24,6, 8.5,Macdonald,Spahn,None,1:50,N,"23,549",+,None
+"Saturday, Jun 3",boxscore,PIT,None,BSN,L,6,10,None,17-25,6, 9.0,Sain,Lombardi,Hogue,2:33,D,"5,737",-,None
+"Sunday, Jun 4",boxscore,PIT,None,NYG,L,3,4,None,17-26,7, 9.0,Maglie,Chambers,Kennedy,2:48,D,"14,534",--,None
+"Monday, Jun 5",boxscore,PIT,None,NYG,L,4,5,10,17-27,7, 10.0,Koslo,Walsh,Hansen,2:37,N,"16,733",---,None
+"Tuesday, Jun 6",boxscore,PIT,None,NYG,L,4,10,None,17-28,7, 10.0,Kramer,Queen,None,2:30,D,"5,111",----,None
+"Wednesday, Jun 7",boxscore,PIT,None,BRO,L,0,9,None,17-29,7, 11.0,Newcombe,Macdonald,None,2:19,N,"30,904",-----,None
+"Thursday, Jun 8",boxscore,PIT,None,BRO,W,4,3,None,18-29,7, 10.0,Chambers,Branca,Werle,1:56,N,"22,697",+,None
+"Friday, Jun 9",boxscore,PIT,None,BRO,L,7,9,None,18-30,7, 11.0,Podbielan,Werle,Newcombe,2:39,D,"9,510",-,None
+"Sunday, Jun 11",boxscore,PIT,None,PHI,L,6,7,None,18-31,7, 12.5,Konstanty,Law,None,2:06,D,None,--,None
+"Sunday, Jun 11",boxscore,PIT,None,PHI,W-wo,5,4,12,19-31,7, 12.5,Werle,Donnelly,None,2:56,D,"33,217",+,None
+"Tuesday, Jun 13",boxscore,PIT,@,NYG,L,0,7,None,19-32,7, 13.5,Jansen,Chambers,None,2:16,D,"15,088",-,None
+"Friday, Jun 16",boxscore,PIT,@,BSN,L-wo,5,6,None,19-33,7, 14.0,Sain,Queen,None,2:07,N,"15,866",--,None
+"Saturday, Jun 17",boxscore,PIT,@,BSN,L,6,15,None,19-34,7, 14.0,Hogue,Borowy,None,2:24,D,"6,272",---,None
+"Sunday, Jun 18",boxscore,PIT,@,BSN,L,6,8,None,19-35,7, 14.0,Roy,Dickson,None,2:10,D,None,----,None
+"Sunday, Jun 18",boxscore,PIT,@,BSN,T,8,8,None,19-35,7, 14.0,None,None,None,2:30,D,"22,817",----,None
+"Monday, Jun 19",boxscore,PIT,@,BSN,W,1,0,None,20-35,7, 13.5,Chambers,Spahn,None,1:52,N,"5,578",+,1950-05-18 (Rain)
+"Tuesday, Jun 20",boxscore,PIT,@,PHI,L,3,7,None,20-36,7, 14.5,Meyer,Law,None,2:01,N,"13,597",-,None
+"Wednesday, Jun 21",boxscore,PIT,@,PHI,W,5,3,None,21-36,7, 13.5,Macdonald,Roberts,Werle,2:24,N,"18,632",+,None
+"Thursday, Jun 22",boxscore,PIT,@,PHI,L,4,7,None,21-37,7, 13.5,Miller,Borowy,None,2:28,D,"5,326",-,None
+"Friday, Jun 23",boxscore,PIT,@,BRO,L,3,15,None,21-38,7, 14.5,Podbielan,Dickson,None,2:58,N,"25,519",--,None
+"Saturday, Jun 24",boxscore,PIT,@,BRO,L,12,21,None,21-39,7, 15.5,Roe,Werle,None,3:24,N,"22,010",---,None
+"Sunday, Jun 25",boxscore,PIT,@,BRO,W,16,11,None,22-39,7, 14.5,Chambers,Branca,Macdonald,3:11,D,"20,196",+,None
+"Tuesday, Jun 27",boxscore,PIT,None,CIN,L,3,8,None,22-40,7, 15.0,Wehmeier,Macdonald,Blackwell,2:45,N,"13,500",-,None
+"Wednesday, Jun 28",boxscore,PIT,None,CIN,W,6,5,None,23-40,7, 14.5,Dickson,Smith,None,2:18,N,"12,040",+,None
+"Friday, Jun 30",boxscore,PIT,@,STL,L,4,9,None,23-41,7, 14.5,Staley,Chambers,None,2:26,N,"12,631",-,None
+"Saturday, Jul 1",boxscore,PIT,@,STL,L,4,5,None,23-42,7, 15.5,Pollet,Queen,Brazle,2:34,N,"15,795",--,None
+"Sunday, Jul 2",boxscore,PIT,@,STL,L,1,2,None,23-43,7, 16.5,Munger,Werle,Brazle,2:22,D,"25,630",---,None
+"Monday, Jul 3",boxscore,PIT,@,CIN,L,5,8,None,23-44,8, 16.5,Ramsdell,Dickson,Blackwell,2:46,D,"3,405",----,None
+"Tuesday, Jul 4",boxscore,PIT,@,CIN,L,4,8,None,23-45,8, 18.5,Wehmeier,Chambers,None,2:37,D,None,-----,None
+"Tuesday, Jul 4",boxscore,PIT,@,CIN,L-wo,4,5,None,23-46,8, 18.5,Fox,Macdonald,None,2:37,D,"10,728",------,None
+"Wednesday, Jul 5",boxscore,PIT,@,CHC,W,4,1,None,24-46,8, 18.5,Queen,Lade,None,1:47,D,"10,815",+,None
+"Thursday, Jul 6",boxscore,PIT,@,CHC,L,2,4,None,24-47,8, 19.5,Minner,Werle,None,2:15,D,"12,953",-,None
+"Friday, Jul 7",boxscore,PIT,None,STL,W,9,1,None,25-47,8, 18.5,Law,Staley,None,2:19,N,"28,468",+,None
+"Saturday, Jul 8",boxscore,PIT,None,STL,W-wo,7,6,None,26-47,8, 18.5,Dickson,Brecheen,None,2:02,D,"15,224",++,None
+"Sunday, Jul 9",boxscore,PIT,None,STL,W,3,2,None,27-47,8, 17.5,Queen,Lanier,Werle,2:07,D,"21,431",+++,None
+"Friday, Jul 14",boxscore,PIT,None,NYG,L,5,7,None,27-48,8, 18.0,Maglie,Chambers,None,2:39,D,"29,323",-,None
+"Saturday, Jul 15",boxscore,PIT,None,NYG,W,2,1,None,28-48,8, 17.0,Werle,Jansen,None,1:57,D,"11,958",+,None
+"Sunday, Jul 16",boxscore,PIT,None,BSN,L,5,9,None,28-49,8, 16.5,Bickford,Law,None,2:22,D,None,-,None
+"Sunday, Jul 16",boxscore,PIT,None,BSN,W,6,5,None,29-49,8, 16.5,Borowy,Hogue,None,2:31,D,"29,363",+,None
+"Monday, Jul 17",boxscore,PIT,None,BSN,L,6,8,None,29-50,8, 16.5,Johnson,Borowy,Hogue,2:40,N,"21,450",-,None
+"Tuesday, Jul 18",boxscore,PIT,None,BSN,L,3,11,None,29-51,8, 17.0,Spahn,Dickson,None,2:26,D,"5,445",--,None
+"Wednesday, Jul 19",boxscore,PIT,None,PHI,L,2,3,11,29-52,8, 18.0,Simmons,Werle,Konstanty,2:34,D,None,---,None
+"Wednesday, Jul 19",boxscore,PIT,None,PHI,W,4,2,None,30-52,8, 18.0,Macdonald,Meyer,None,2:18,N,"18,953",+,1950-06-10 (Rain)
+"Thursday, Jul 20",boxscore,PIT,None,PHI,W,10,8,None,31-52,8, 17.0,Dickson,Donnelly,None,2:44,D,"7,291",++,None
+"Friday, Jul 21",boxscore,PIT,None,PHI,L,1,4,None,31-53,8, 17.0,Church,Queen,None,2:23,N,"34,016",-,None
+"Saturday, Jul 22",boxscore,PIT,None,BRO,L,3,12,None,31-54,8, 17.5,Branca,Pierro,None,2:25,D,"18,103",--,None
+"Sunday, Jul 23",boxscore,PIT,None,BRO,L,6,11,None,31-55,8, 19.0,Barney,Chambers,Newcombe,2:56,D,"25,889",---,None
+"Monday, Jul 24",boxscore,PIT,None,PHI,W,2,1,6,32-55,8, 18.0,Macdonald,Miller,None,1:11,N,"15,431",+,1950-05-10 (Rain)
+"Tuesday, Jul 25",boxscore,PIT,@,BSN,L,2,7,None,32-56,8, 19.5,Sain,Pierro,None,2:10,N,"18,461",-,None
+"Wednesday, Jul 26",boxscore,PIT,@,BSN,W,8,4,None,33-56,8, 19.5,Queen,Bickford,Dickson,2:17,N,"12,689",+,None
+"Thursday, Jul 27",boxscore,PIT,@,BSN,L,3,5,None,33-57,8, 20.5,Spahn,Chambers,None,1:50,N,"8,302",-,None
+"Friday, Jul 28",boxscore,PIT,@,PHI,L,1,4,None,33-58,8, 21.5,Miller,Macdonald,None,2:15,N,"7,343",--,None
+"Saturday, Jul 29",boxscore,PIT,@,PHI,W,7,4,None,34-58,8, 20.5,Werle,Church,None,2:11,D,"10,252",+,None
+"Sunday, Jul 30",boxscore,PIT,@,PHI,L,0,10,None,34-59,8, 22.5,Roberts,Queen,None,2:08,D,None,-,None
+"Sunday, Jul 30",boxscore,PIT,@,PHI,L,2,4,None,34-60,8, 22.5,Konstanty,Dickson,Meyer,2:13,D,"21,411",--,None
+"Tuesday, Aug 1",boxscore,PIT,@,BRO,L,1,3,None,34-61,8, 23.0,Palica,Chambers,None,2:02,N,"16,691",---,None
+"Wednesday, Aug 2",boxscore,PIT,@,BRO,L-wo,4,5,10,34-62,8, 24.0,Branca,Dickson,None,2:18,D,"6,361",----,None
+"Friday, Aug 4",boxscore,PIT,@,NYG,L,2,3,None,34-63,8, 25.0,Jones,Law,Koslo,2:24,D,"14,238",-----,None
+"Saturday, Aug 5",boxscore,PIT,@,NYG,L,0,5,None,34-64,8, 26.0,Hearn,Queen,None,2:25,D,"9,264",------,None
+"Sunday, Aug 6",boxscore,PIT,@,NYG,L,0,5,None,34-65,8, 26.0,Jansen,Werle,None,1:50,D,"17,182",-------,None
+"Sunday, Aug 6",boxscore,PIT,@,NYG,L,0,3,None,34-66,8, 26.0,Maglie,Dickson,None,2:01,D,"17,182",--------,1950-06-14 (Rain)
+"Tuesday, Aug 8",boxscore,PIT,None,STL,L,4,6,None,34-67,8, 27.5,Martin,Chambers,None,2:15,N,"18,243",---------,None
+"Thursday, Aug 10",boxscore,PIT,None,CHC,W,7,4,None,35-67,8, 28.0,Law,Minner,Dickson,2:02,N,"10,087",+,1950-04-25 (Rain)
+"Friday, Aug 11",boxscore,PIT,None,CHC,L,1,3,None,35-68,8, 28.0,Hiller,Werle,None,1:47,N,"11,082",-,None
+"Saturday, Aug 12",boxscore,PIT,None,CHC,L,2,7,None,35-69,8, 29.0,Rush,Macdonald,None,1:54,D,"6,770",--,None
+"Sunday, Aug 13",boxscore,PIT,None,CHC,W,7,4,None,36-69,8, 27.5,Chambers,Schmitz,None,2:00,D,None,+,None
+"Sunday, Aug 13",boxscore,PIT,None,CHC,W,2,0,None,37-69,8, 27.5,Queen,Dubiel,None,1:42,D,"18,162",++,None
+"Monday, Aug 14",boxscore,PIT,None,CIN,L,8,13,None,37-70,8, 28.0,Smith,Lombardi,None,2:55,D,"4,306",-,None
+"Tuesday, Aug 15",boxscore,PIT,None,CIN,W-wo,10,9,None,38-70,8, 28.0,Macdonald,Hetki,None,2:48,D,"5,495",+,None
+"Wednesday, Aug 16",boxscore,PIT,@,STL,W,5,3,None,39-70,8, 28.0,Law,Boyer,Dickson,2:41,N,"12,134",++,None
+"Friday, Aug 18",boxscore,PIT,@,CHC,W,9,3,None,40-70,8, 27.0,Chambers,Dubiel,None,1:58,D,"3,823",+++,None
+"Saturday, Aug 19",boxscore,PIT,@,CHC,W,13,8,None,41-70,8, 26.5,Dickson,Rush,Werle,2:29,D,"13,290",++++,None
+"Sunday, Aug 20",boxscore,PIT,@,CHC,L,2,4,None,41-71,8, 27.5,Minner,Law,None,2:05,D,None,-,None
+"Sunday, Aug 20",boxscore,PIT,@,CHC,L,2,5,None,41-72,8, 27.5,Hiller,Macdonald,None,1:48,D,"29,589",--,1950-09-28 (Schedule change)
+"Monday, Aug 21",boxscore,PIT,None,BRO,L,2,3,None,41-73,8, 28.5,Newcombe,Werle,None,2:01,D,"7,666",---,None
+"Tuesday, Aug 22",boxscore,PIT,None,BRO,L,8,10,None,41-74,8, 29.5,Palica,Queen,Branca,2:57,N,"19,526",----,None
+"Wednesday, Aug 23",boxscore,PIT,None,BRO,L,5,7,17,41-75,8, 30.5,Branca,Queen,None,4:09,N,"16,382",-----,None
+"Thursday, Aug 24",boxscore,PIT,None,PHI,L,2,4,None,41-76,8, 31.5,Church,Law,None,2:05,D,"9,096",------,None
+"Friday, Aug 25",boxscore,PIT,None,PHI,L,7,9,15,41-77,8, 32.5,Konstanty,Chambers,None,3:42,N,"25,686",-------,None
+"Saturday, Aug 26",boxscore,PIT,None,PHI,W,14,4,None,42-77,8, 31.5,Dickson,Roberts,None,2:28,N,"12,157",+,None
+"Sunday, Aug 27",boxscore,PIT,None,BSN,L,3,7,13,42-78,8, 33.0,Surkont,Werle,None,3:35,D,None,-,None
+"Sunday, Aug 27",boxscore,PIT,None,BSN,L,1,4,None,42-79,8, 33.0,Roy,Queen,None,2:03,D,"24,279",--,None
+"Tuesday, Aug 29",boxscore,PIT,None,NYG,L,5,10,None,42-80,8, 34.0,Jansen,Law,None,2:34,N,"13,850",---,None
+"Wednesday, Aug 30",boxscore,PIT,None,NYG,L,0,4,None,42-81,8, 35.0,Maglie,Chambers,None,2:09,N,"7,794",----,None
+"Thursday, Aug 31",boxscore,PIT,None,NYG,L,1,2,None,42-82,8, 35.5,Hearn,Macdonald,None,2:11,D,"3,552",-----,1950-07-13 (Rain)
+"Friday, Sep 1",boxscore,PIT,None,STL,W,10,4,None,43-82,8, 35.5,Werle,Boyer,None,2:29,N,"12,589",+,1950-08-09 (Wet grounds)
+"Saturday, Sep 2",boxscore,PIT,None,STL,W,6,0,None,44-82,8, 35.5,Law,Staley,None,1:58,D,"5,638",++,None
+"Sunday, Sep 3",boxscore,PIT,None,STL,W-wo,12,11,10,45-82,8, 35.0,Werle,Brecheen,None,3:06,D,"12,736",+++,None
+"Monday, Sep 4",boxscore,PIT,None,CHC,W,5,3,None,46-82,8, 33.0,Barrett,Dubiel,Walsh,1:45,D,None,++++,None
+"Monday, Sep 4",boxscore,PIT,None,CHC,W,3,0,None,47-82,8, 33.0,Macdonald,Rush,None,1:48,D,"20,695",+++++,None
+"Wednesday, Sep 6",boxscore,PIT,@,CIN,W,3,2,None,48-82,8, 31.5,Law,Blackwell,None,1:50,N,"7,079",++++++,None
+"Thursday, Sep 7",boxscore,PIT,@,CIN,L-wo,4,6,10,48-83,8, 31.5,Erautt,Barrett,None,2:13,D,"1,176",-,None
+"Saturday, Sep 9",boxscore,PIT,@,STL,W,5,4,None,49-83,8, 32.0,Dickson,Pollet,None,2:33,N,"13,527",+,None
+"Sunday, Sep 10",boxscore,PIT,@,STL,L-wo,5,6,10,49-84,8, 31.5,Wilks,Barrett,None,2:26,D,None,-,None
+"Sunday, Sep 10",boxscore,PIT,@,STL,W,6,2,None,50-84,8, 31.5,Macdonald,Dusak,None,1:53,D,"12,436",+,1950-08-17 (Rain)
+"Tuesday, Sep 12",boxscore,PIT,@,NYG,L,0,3,None,50-85,8, 32.5,Jones,Werle,None,2:15,D,"4,112",-,None
+"Wednesday, Sep 13",boxscore,PIT,@,NYG,L,1,3,7,50-86,8, 33.0,Maglie,Law,None,1:48,D,"11,684",--,None
+"Thursday, Sep 14",boxscore,PIT,@,NYG,W,7,1,None,51-86,8, 33.5,Dickson,Jansen,None,2:13,D,"4,272",+,None
+"Thursday, Sep 14",boxscore,PIT,@,NYG,L,1,6,None,51-87,8, 33.5,Hearn,Macdonald,None,1:57,D,None,-,1950-06-15 (Rain)
+"Friday, Sep 15",boxscore,PIT,@,BSN,L,4,7,None,51-88,8, 35.0,Surkont,Queen,None,2:13,N,"9,168",--,None
+"Saturday, Sep 16",boxscore,PIT,@,BSN,W,4,0,12,52-88,8, 34.0,Chambers,Bickford,None,2:27,D,"4,606",+,None
+"Sunday, Sep 17",boxscore,PIT,@,PHI,L,3,5,None,52-89,8, 35.0,Meyer,Werle,Konstanty,1:50,D,"20,031",-,None
+"Tuesday, Sep 19",boxscore,PIT,@,BRO,L,3,14,None,52-90,8, 35.5,Newcombe,Law,None,2:13,D,None,--,None
+"Tuesday, Sep 19",boxscore,PIT,@,BRO,L,2,3,None,52-91,8, 35.5,Palica,Dickson,None,2:02,D,"2,637",---,1950-08-03 (Rain)
+"Wednesday, Sep 20",boxscore,PIT,@,BRO,L,2,7,None,52-92,8, 36.5,Erskine,Macdonald,None,1:55,D,"1,011",----,None
+"Thursday, Sep 21",boxscore,PIT,@,BRO,L,8,10,None,52-93,8, 37.0,Palica,Werle,None,2:40,D,"5,241",-----,None
+"Friday, Sep 22",boxscore,PIT,None,CIN,W,8,7,10,53-93,8, 36.5,Walsh,Smith,None,2:30,N,"12,979",+,None
+"Saturday, Sep 23",boxscore,PIT,None,CIN,W,8,7,None,54-93,8, 35.5,Law,Wehmeier,Walsh,2:25,D,"4,009",++,None
+"Sunday, Sep 24",boxscore,PIT,None,CIN,L,1,7,None,54-94,8, 35.0,Blackwell,Macdonald,None,1:57,D,None,-,None
+"Sunday, Sep 24",boxscore,PIT,None,CIN,W,3,2,None,55-94,8, 35.0,Dickson,Raffensberger,None,1:59,D,"25,233",+,None
+"Wednesday, Sep 27",boxscore,PIT,@,CHC,W,7,4,None,56-94,8, 34.0,Law,Dubiel,None,1:46,D,"4,783",++,None
+"Saturday, Sep 30",boxscore,PIT,@,CIN,L,2,5,None,56-95,8, 33.0,Fox,Werle,None,1:45,D,"1,719",-,None
+"Sunday, Oct 1",boxscore,PIT,@,CIN,L,2,3,None,56-96,8, 33.5,Erautt,Dickson,None,2:02,D,None,--,None
+"Sunday, Oct 1",boxscore,PIT,@,CIN,W,3,1,None,57-96,8, 33.5,Chambers,Byerly,None,1:45,D,"8,390",+,1950-09-29 (Schedule change)

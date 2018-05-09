@@ -1,0 +1,125 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 17",boxscore,PHI,None,BSN,L,2,14,None,1-1,3, 1.0,Nehf,Tincup,None,None,D,"4,000",-,None
+"Friday, Apr 19",boxscore,PHI,None,BSN,W,4,3,10,2-1,2, 1.0,Prendergast,Hughes,None,None,D,"2,000",+,None
+"Saturday, Apr 20",boxscore,PHI,None,BRO,W,9,2,None,3-1,2, 1.0,Mayer,Marquard,None,None,D,"2,000",++,None
+"Monday, Apr 22",boxscore,PHI,None,BRO,W,3,0,None,4-1,2, 1.0,Oeschger,Grimes,None,None,D,"2,000",+++,None
+"Tuesday, Apr 23",boxscore,PHI,None,BRO,W,7,2,None,5-1,2, 1.0,Hogg,Mamaux,None,None,D,"1,000",++++,None
+"Wednesday, Apr 24",boxscore,PHI,@,BSN,W,4,1,None,6-1,2, 1.0,Mayer,Hughes,None,1:58,D,"2,500",+++++,None
+"Thursday, Apr 25",boxscore,PHI,@,BSN,L,5,6,None,6-2,2, 2.0,Nehf,Prendergast,None,2:20,D,"1,000",-,None
+"Friday, Apr 26",boxscore,PHI,@,BSN,W,3,0,None,7-2,2, 2.0,Main,Hearn,None,1:40,D,"2,500",+,None
+"Saturday, Apr 27",boxscore,PHI,@,BSN,W,4,1,None,8-2,2, 1.0,Hogg,Ragan,None,2:04,D,"3,000",++,None
+"Monday, Apr 29",boxscore,PHI,None,NYG,L,0,6,None,8-3,2, 2.0,Tesreau,Mayer,None,None,D,"7,000",-,None
+"Tuesday, Apr 30",boxscore,PHI,None,NYG,L,0,15,None,8-4,2, 3.0,Barnes,Prendergast,Causey,None,D,"3,500",--,None
+"Thursday, May 2",boxscore,PHI,None,NYG,L,0,6,None,8-5,3, 4.0,Perritt,Main,None,None,D,"3,000",---,None
+"Friday, May 3",boxscore,PHI,@,BRO,L,2,5,None,8-6,3, 5.0,Coombs,Mayer,None,None,D,None,----,None
+"Saturday, May 4",boxscore,PHI,@,BRO,L,0,3,None,8-7,3, 6.0,Grimes,Prendergast,None,None,D,None,-----,None
+"Monday, May 6",boxscore,PHI,@,BRO,L,0,2,None,8-8,4, 7.0,Griner,Oeschger,None,None,D,None,------,None
+"Tuesday, May 7",boxscore,PHI,@,NYG,L,3,7,None,8-9,4, 8.0,Barnes,Hogg,None,None,D,"8,000",-------,None
+"Wednesday, May 8",boxscore,PHI,@,NYG,L,2,3,None,8-10,4, 9.0,Perritt,Prendergast,None,None,D,"10,000",--------,None
+"Thursday, May 9",boxscore,PHI,@,NYG,L,1,4,None,8-11,4, 10.0,Tesreau,Mayer,None,None,D,None,---------,None
+"Monday, May 13",boxscore,PHI,@,STL,T,3,3,10,8-11,5, 9.0,None,None,None,None,D,None,---------,None
+"Tuesday, May 14",boxscore,PHI,@,STL,W,5,4,None,9-11,5, 9.0,Hogg,Doak,None,None,D,None,+,None
+"Wednesday, May 15",boxscore,PHI,@,CHC,W,5,3,None,10-11,5, 8.0,Prendergast,Walker,None,None,D,None,++,None
+"Thursday, May 16",boxscore,PHI,@,CHC,W,6,5,None,11-11,5, 7.0,Mayer,Carter,Oeschger,None,D,None,+++,None
+"Friday, May 17",boxscore,PHI,@,CHC,L,0,2,None,11-12,5, 7.0,Vaughn,Main,None,None,D,None,-,None
+"Saturday, May 18",boxscore,PHI,@,CHC,L,1,7,None,11-13,5, 8.0,Hendrix,Oeschger,None,None,D,None,--,None
+"Sunday, May 19",boxscore,PHI,@,CHC,L,0,3,None,11-14,5, 8.0,Tyler,Hogg,None,None,D,None,---,None
+"Monday, May 20",boxscore,PHI,@,PIT,L,1,5,None,11-15,5, 9.0,Cooper,Prendergast,None,1:43,D,None,----,None
+"Wednesday, May 22",boxscore,PHI,@,PIT,L,5,6,12,11-16,5, 10.0,Cooper,Oeschger,None,2:45,D,None,-----,None
+"Thursday, May 23",boxscore,PHI,@,PIT,W,3,2,None,12-16,5, 10.0,Mayer,Miller,None,2:19,D,None,+,None
+"Friday, May 24",boxscore,PHI,@,CIN,L,1,2,11,12-17,5, 10.5,Toney,Watson,None,None,D,None,-,None
+"Saturday, May 25",boxscore,PHI,@,CIN,L,0,3,None,12-18,5, 10.5,Smith,Oeschger,None,None,D,None,--,None
+"Sunday, May 26",boxscore,PHI,@,CIN,W,4,3,None,13-18,5, 9.5,Hogg,Schneider,Prendergast,None,D,None,+,None
+"Monday, May 27",boxscore,PHI,@,CIN,W,2,1,None,14-18,5, 8.5,Mayer,Eller,None,None,D,None,++,None
+"Wednesday, May 29",boxscore,PHI,None,NYG,W,5,2,None,15-18,5, 7.5,Prendergast,Tesreau,None,None,D,"3,500",+++,None
+"Thursday, May 30",boxscore,PHI,None,NYG,L,3,6,None,15-19,6, 8.5,Demaree,Oeschger,None,None,D,"8,000",-,None
+"Friday, May 31",boxscore,PHI,None,NYG,L,1,2,None,15-20,6, 9.5,Sallee,Hogg,None,None,D,"3,000",--,None
+"Saturday, Jun 1",boxscore,PHI,None,CIN,W,5,2,None,16-20,6, 9.5,Mayer,Smith,None,None,D,"2,000",+,None
+"Sunday, Jun 2",boxscore,PHI,@,CIN,W,6,3,None,17-20,5, 9.0,Prendergast,Toney,None,None,D,None,++,1918-07-31 (Rain; Site change)
+"Tuesday, Jun 4",boxscore,PHI,None,CIN,L,4,5,None,17-21,5, 9.0,Schneider,Oeschger,Toney,None,D,"8,000",-,None
+"Tuesday, Jun 4",boxscore,PHI,None,CIN,W,5,0,None,18-21,5, 9.0,Hogg,Eller,None,None,D,"8,000",+,1918-06-03 (Inclement weather)
+"Wednesday, Jun 5",boxscore,PHI,None,CIN,L,4,7,None,18-22,5, 10.0,Bressler,Mayer,None,None,D,"4,000",-,None
+"Thursday, Jun 6",boxscore,PHI,None,CHC,L,0,3,None,18-23,5, 10.5,Douglas,Prendergast,None,None,D,"2,500",--,None
+"Saturday, Jun 8",boxscore,PHI,None,CHC,L,0,6,None,18-24,6, 11.5,Tyler,Hogg,None,None,D,None,---,None
+"Monday, Jun 10",boxscore,PHI,None,CHC,L,1,6,None,18-25,6, 12.5,Vaughn,Oeschger,None,None,D,"2,000",----,None
+"Thursday, Jun 13",boxscore,PHI,None,STL,T,8,8,19,18-25,6, 13.0,None,None,None,4:30,D,"3,500",----,None
+"Friday, Jun 14",boxscore,PHI,None,STL,W,2,1,10,19-25,6, 12.5,Prendergast,Doak,None,None,D,"2,000",+,None
+"Friday, Jun 14",boxscore,PHI,None,STL,L,3,6,None,19-26,6, 12.5,May,Davis,None,None,D,"2,000",-,1918-06-11 (Rain)
+"Saturday, Jun 15",boxscore,PHI,None,PIT,W,6,1,None,20-26,5, 12.5,Oeschger,Sanders,None,None,D,None,+,None
+"Monday, Jun 17",boxscore,PHI,None,PIT,W,9,8,10,21-26,5, 11.5,Watson,Steele,None,None,D,None,++,None
+"Tuesday, Jun 18",boxscore,PHI,None,PIT,W,1,0,None,22-26,4, 11.5,Hogg,Cooper,None,None,D,None,+++,None
+"Wednesday, Jun 19",boxscore,PHI,None,BSN,L,2,3,None,22-27,4, 12.5,Rudolph,Oeschger,None,None,D,"4,000",-,None
+"Thursday, Jun 20",boxscore,PHI,None,BSN,L,4,6,10,22-28,4, 12.0,Nehf,Prendergast,None,None,D,"7,500",--,None
+"Thursday, Jun 20",boxscore,PHI,None,BSN,W,5,4,None,23-28,4, 12.0,Watson,Ragan,None,None,D,None,+,1918-04-18 (Rain)
+"Friday, Jun 21",boxscore,PHI,None,BSN,W,10,6,None,24-28,4, 11.0,Main,Upham,Oeschger,None,D,"2,500",++,None
+"Saturday, Jun 22",boxscore,PHI,None,BSN,L,4,8,None,24-29,4, 12.0,Fillingim,Hogg,None,None,D,"5,000",-,None
+"Monday, Jun 24",boxscore,PHI,None,BRO,W,7,1,None,25-29,4, 12.5,Oeschger,Cheney,None,None,D,"2,500",+,None
+"Tuesday, Jun 25",boxscore,PHI,None,BRO,W,3,2,None,26-29,4, 12.5,Prendergast,Coombs,None,1:17,D,"2,500",++,None
+"Wednesday, Jun 26",boxscore,PHI,None,BRO,W,1,0,None,27-29,3, 12.5,Jacobs,Marquard,None,None,D,"2,000",+++,None
+"Thursday, Jun 27",boxscore,PHI,None,BRO,L,2,5,None,27-30,3, 13.5,Grimes,Watson,None,None,D,"3,500",-,None
+"Friday, Jun 28",boxscore,PHI,@,NYG,L,1,6,None,27-31,4, 14.0,Demaree,Hogg,None,None,D,"5,000",--,None
+"Saturday, Jun 29",boxscore,PHI,@,NYG,L,1,2,None,27-32,4, 14.5,Perritt,Prendergast,None,None,D,None,---,None
+"Saturday, Jun 29",boxscore,PHI,@,NYG,W,2,1,None,28-32,4, 14.5,Oeschger,Causey,None,None,D,"18,000",+,1918-07-01 (Rain)
+"Tuesday, Jul 2",boxscore,PHI,@,NYG,W,5,2,None,29-32,3, 15.0,Jacobs,Sallee,None,None,D,None,++,None
+"Wednesday, Jul 3",boxscore,PHI,@,BSN,W,5,0,None,30-32,3, 14.0,Hogg,Rudolph,None,1:50,D,"1,800",+++,None
+"Thursday, Jul 4",boxscore,PHI,@,BSN,W,2,1,None,31-32,3, 14.0,Prendergast,Nehf,None,1:50,D,"3,000",++++,None
+"Thursday, Jul 4",boxscore,PHI,@,BSN,W,3,2,12,32-32,3, 14.0,Oeschger,Ragan,None,2:10,D,"10,000",+++++,None
+"Saturday, Jul 6",boxscore,PHI,@,CIN,L,9,10,None,32-33,4, 14.5,Schneider,Jacobs,Toney,None,D,None,-,None
+"Sunday, Jul 7",boxscore,PHI,@,CIN,L,2,5,None,32-34,4, 15.0,Ring,Hogg,None,None,D,None,--,None
+"Sunday, Jul 7",boxscore,PHI,@,CIN,W,4,3,None,33-34,4, 15.0,Watson,Toney,Oeschger,None,D,None,+,1918-07-09 (Schedule change)
+"Monday, Jul 8",boxscore,PHI,@,CIN,L,3,4,None,33-35,4, 15.5,Eller,Oeschger,None,None,D,None,-,None
+"Wednesday, Jul 10",boxscore,PHI,@,STL,L,3,4,None,33-36,4, 15.5,Ames,Oeschger,None,None,D,None,--,None
+"Wednesday, Jul 10",boxscore,PHI,@,STL,L,4,7,None,33-37,4, 15.5,Meadows,Hogg,None,None,D,None,---,1918-05-11 (Rain)
+"Thursday, Jul 11",boxscore,PHI,@,STL,W,5,2,None,34-37,4, 16.0,Prendergast,Sherdel,None,None,D,None,+,None
+"Friday, Jul 12",boxscore,PHI,@,STL,L,2,8,None,34-38,4, 17.0,May,Jacobs,Doak,None,D,None,-,None
+"Saturday, Jul 13",boxscore,PHI,@,STL,L,5,11,None,34-39,4, 17.5,Packard,Davis,None,None,D,None,--,None
+"Saturday, Jul 13",boxscore,PHI,@,STL,W,4,1,None,35-39,4, 17.5,Watson,Meadows,None,None,D,None,+,1918-05-12 (Rain)
+"Sunday, Jul 14",boxscore,PHI,@,CHC,L,5,9,None,35-40,4, 18.5,Tyler,Oeschger,None,None,D,None,-,None
+"Tuesday, Jul 16",boxscore,PHI,@,CHC,W,7,5,None,36-40,4, 16.5,Hogg,Vaughn,Jacobs,None,D,None,+,None
+"Tuesday, Jul 16",boxscore,PHI,@,CHC,W,4,3,None,37-40,4, 16.5,Prendergast,Hendrix,None,None,D,None,++,1918-07-15 (Rain)
+"Wednesday, Jul 17",boxscore,PHI,@,CHC,L,1,2,21,37-41,4, 17.5,Tyler,Watson,None,None,D,None,-,None
+"Thursday, Jul 18",boxscore,PHI,@,PIT,W,1,0,13,38-41,4, 16.5,Jacobs,Slapnicka,None,2:54,D,None,+,None
+"Friday, Jul 19",boxscore,PHI,@,PIT,L,2,3,None,38-42,4, 16.5,Comstock,Oeschger,None,1:56,D,None,-,None
+"Saturday, Jul 20",boxscore,PHI,@,PIT,L,0,1,None,38-43,4, 16.0,Mayer,Hogg,None,1:33,D,None,--,None
+"Saturday, Jul 20",boxscore,PHI,@,PIT,W,3,2,None,39-43,4, 16.0,Prendergast,Cooper,None,1:44,D,None,+,1918-05-21 (Rain)
+"Wednesday, Jul 24",boxscore,PHI,None,CHC,L,4,5,None,39-44,4, 16.5,Vaughn,Prendergast,None,None,D,None,-,None
+"Thursday, Jul 25",boxscore,PHI,None,CHC,W,10,5,None,40-44,4, 16.5,Hogg,Douglas,None,None,D,None,+,None
+"Thursday, Jul 25",boxscore,PHI,None,CHC,L,6,12,None,40-45,4, 16.5,Hendrix,Oeschger,Douglas,None,D,None,-,None
+"Friday, Jul 26",boxscore,PHI,None,CHC,W,3,2,None,41-45,4, 15.5,Jacobs,Tyler,None,None,D,None,+,None
+"Saturday, Jul 27",boxscore,PHI,None,CIN,L,5,14,None,41-46,4, 17.0,Ring,Watson,None,None,D,None,-,None
+"Saturday, Jul 27",boxscore,PHI,None,CIN,L,0,3,None,41-47,4, 17.0,Regan,Prendergast,None,None,D,None,--,1918-07-30 (Rain)
+"Monday, Jul 29",boxscore,PHI,None,CIN,W,5,4,11,42-47,4, 16.0,Hogg,Schneider,None,None,D,None,+,None
+"Thursday, Aug 1",boxscore,PHI,None,STL,W,7,0,None,43-47,4, 17.0,Jacobs,Meadows,None,None,D,None,++,None
+"Thursday, Aug 1",boxscore,PHI,None,STL,L,1,3,10,43-48,4, 17.0,Doak,Prendergast,None,None,D,None,-,1918-06-12 (Rain)
+"Friday, Aug 2",boxscore,PHI,None,STL,L,1,2,None,43-49,4, 18.0,Sherdel,Watson,None,None,D,None,--,None
+"Saturday, Aug 3",boxscore,PHI,None,STL,L,12,16,None,43-50,4, 19.0,Packard,Oeschger,Meadows,None,D,None,---,None
+"Saturday, Aug 3",boxscore,PHI,None,STL,L,1,7,None,43-51,4, 19.0,Ames,Hogg,None,None,D,None,----,None
+"Monday, Aug 5",boxscore,PHI,None,STL,W,3,1,None,44-51,4, 19.0,Jacobs,Doak,None,None,D,None,+,None
+"Tuesday, Aug 6",boxscore,PHI,None,PIT,L,2,10,None,44-52,4, 20.0,Cooper,Prendergast,None,None,D,None,-,None
+"Wednesday, Aug 7",boxscore,PHI,None,PIT,L,2,4,None,44-53,5, 20.0,Mayer,Watson,None,2:00,D,"1,000",--,None
+"Thursday, Aug 8",boxscore,PHI,None,PIT,W,6,1,None,45-53,5, 18.5,Hogg,Comstock,None,1:44,D,None,+,None
+"Thursday, Aug 8",boxscore,PHI,None,PIT,W,8,2,None,46-53,5, 18.5,Jacobs,Slapnicka,None,1:43,D,None,++,1918-08-09 (Schedule change)
+"Saturday, Aug 10",boxscore,PHI,@,BRO,L,0,4,None,46-54,5, 19.0,Grimes,Oeschger,None,None,D,None,-,None
+"Saturday, Aug 10",boxscore,PHI,@,BRO,W,3,2,None,47-54,5, 19.0,Prendergast,Coombs,None,None,D,None,+,1918-09-30 (World War I)
+"Tuesday, Aug 13",boxscore,PHI,@,BRO,L,1,2,None,47-55,6, 19.5,Cheney,Hogg,None,None,D,None,-,None
+"Tuesday, Aug 13",boxscore,PHI,@,BRO,L,3,4,12,47-56,6, 19.5,Coombs,Oeschger,None,None,D,None,--,1918-08-12 (Rain)
+"Wednesday, Aug 14",boxscore,PHI,@,BRO,L,2,4,None,47-57,6, 20.5,Grimes,Prendergast,None,None,D,None,---,None
+"Saturday, Aug 17",boxscore,PHI,@,CHC,L,0,3,None,47-58,6, 22.5,Hendrix,Jacobs,None,None,D,None,----,None
+"Saturday, Aug 17",boxscore,PHI,@,CHC,L,0,2,None,47-59,6, 22.5,Tyler,Oeschger,None,None,D,None,-----,1918-08-16 (Rain)
+"Sunday, Aug 18",boxscore,PHI,@,STL,L,0,4,None,47-60,6, 23.5,Sherdel,Hogg,None,None,D,None,------,None
+"Sunday, Aug 18",boxscore,PHI,@,STL,L,1,5,None,47-61,6, 23.5,Meadows,Watson,None,None,D,None,-------,None
+"Monday, Aug 19",boxscore,PHI,@,STL,W,7,1,None,48-61,6, 23.5,Prendergast,Ames,None,None,D,None,+,None
+"Tuesday, Aug 20",boxscore,PHI,@,STL,W,3,0,None,49-61,6, 23.5,Jacobs,Packard,None,None,D,None,++,None
+"Wednesday, Aug 21",boxscore,PHI,@,CIN,L,3,4,10,49-62,6, 24.5,Eller,Hogg,None,None,D,None,-,None
+"Thursday, Aug 22",boxscore,PHI,@,CIN,L,6,9,None,49-63,6, 24.5,Schneider,Fortune,None,None,D,None,--,None
+"Friday, Aug 23",boxscore,PHI,@,CIN,L,7,8,None,49-64,6, 25.5,Luque,Jacobs,None,None,D,None,---,None
+"Saturday, Aug 24",boxscore,PHI,@,PIT,L,3,4,None,49-65,6, 26.5,Cooper,Jacobs,None,1:34,D,None,----,None
+"Saturday, Aug 24",boxscore,PHI,@,PIT,W,7,4,None,50-65,6, 26.5,Hogg,Mayer,None,1:39,D,None,+,1918-08-26 (Wet grounds)
+"Tuesday, Aug 27",boxscore,PHI,@,PIT,W,7,6,None,51-65,6, 25.5,Prendergast,Comstock,Hogg,2:16,D,None,++,None
+"Tuesday, Aug 27",boxscore,PHI,@,PIT,W,8,2,None,52-65,6, 25.5,Watson,Miller,None,1:48,D,None,+++,1918-08-28 (Rain)
+"Friday, Aug 30",boxscore,PHI,None,BSN,W,1,0,None,53-65,6, 26.0,Oeschger,Rudolph,None,None,D,None,++++,None
+"Friday, Aug 30",boxscore,PHI,None,BSN,L,3,8,None,53-66,6, 26.0,Ragan,Fortune,None,None,D,None,-,1918-08-29 (Rain)
+"Saturday, Aug 31",boxscore,PHI,None,BSN,L,2,5,11,53-67,6, 25.5,Nehf,Prendergast,None,None,D,None,--,None
+"Saturday, Aug 31",boxscore,PHI,None,BSN,W,6,2,None,54-67,6, 25.5,Hogg,Crandall,None,None,D,None,+,1918-09-10 (World War I; Site change)
+"Monday, Sep 2",boxscore,PHI,None,BRO,W,4,2,None,55-67,6, 26.0,Jacobs,Cheney,None,None,D,None,++,None
+"Monday, Sep 2",boxscore,PHI,None,BRO,L,3,5,None,55-68,6, 26.0,Smith,Oeschger,None,None,D,None,-,None

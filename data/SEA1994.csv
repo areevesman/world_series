@@ -1,0 +1,112 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 7",boxscore,SEA,@,CLE,L,2,6,None,0-2,2, 1.5,Morris,Bosio,None,3:04,N,"34,087",--,None
+"Friday, Apr 8",boxscore,SEA,@,TOR,L,2,8,None,0-3,4, 1.5,Leiter,Fleming,None,2:48,N,"48,152",---,None
+"Saturday, Apr 9",boxscore,SEA,@,TOR,L-wo,6,8,None,0-4,4, 2.5,Castillo,Thigpen,None,2:48,D,"49,179",----,None
+"Sunday, Apr 10",boxscore,SEA,@,TOR,L,6,12,None,0-5,4, 3.5,Stewart,Johnson,None,2:46,D,"50,471",-----,None
+"Monday, Apr 11",boxscore,SEA,None,MIN,W-wo,9,8,10,1-5,4, 2.5,Ayala,Willis,None,3:21,N,"57,806",+,None
+"Tuesday, Apr 12",boxscore,SEA,None,MIN,W,12,0,None,2-5,4, 2.0,Fleming,Erickson,None,2:44,N,"13,489",++,None
+"Wednesday, Apr 13",boxscore,SEA,None,MIN,L,6,9,None,2-6,4, 3.0,Mahomes,Hibbard,Aguilera,3:03,D,"16,207",-,None
+"Friday, Apr 15",boxscore,SEA,None,MIL,W,9,1,None,3-6,4, 2.0,Johnson,Higuera,None,2:27,N,"16,969",+,None
+"Saturday, Apr 16",boxscore,SEA,None,MIL,L,0,1,None,3-7,4, 2.5,Eldred,Bosio,Lloyd,2:30,N,"32,990",-,None
+"Sunday, Apr 17",boxscore,SEA,None,MIL,W,8,3,None,4-7,3, 2.5,Fleming,Navarro,None,2:55,D,"18,307",+,None
+"Tuesday, Apr 19",boxscore,SEA,@,NYY,W,7,1,None,5-7,2, 1.5,Hibbard,Abbott,None,2:25,N,"21,148",++,None
+"Wednesday, Apr 20",boxscore,SEA,@,NYY,L,4,7,None,5-8,3, 1.5,Reardon,Ayala,Hernandez,3:03,N,"16,849",-,None
+"Thursday, Apr 21",boxscore,SEA,@,NYY,L,2,4,None,5-9,3, 2.0,Perez,Bosio,None,2:19,D,"15,949",--,None
+"Friday, Apr 22",boxscore,SEA,@,BAL,L,4,6,None,5-10,4, 2.0,McDonald,Fleming,Smith,2:52,N,"47,051",---,None
+"Saturday, Apr 23",boxscore,SEA,@,BAL,L,3,4,None,5-11,4, 2.0,Poole,Thigpen,Smith,3:03,D,"45,059",----,None
+"Sunday, Apr 24",boxscore,SEA,@,BAL,W,7,6,None,6-11,3, 1.0,Cummings,Pennington,Ayala,2:47,D,"46,640",+,None
+"Monday, Apr 25",boxscore,SEA,None,BOS,W,4,2,None,7-11,1, Tied,Johnson,Clemens,None,2:33,N,"35,468",++,None
+"Tuesday, Apr 26",boxscore,SEA,None,BOS,W-wo,4,3,10,8-11,1, Tied,Ayala,Harris,None,2:48,N,"14,093",+++,None
+"Wednesday, Apr 27",boxscore,SEA,None,NYY,L,2,12,None,8-12,1, Tied,Kamieniecki,Fleming,None,3:04,N,"22,697",-,None
+"Thursday, Apr 28",boxscore,SEA,None,NYY,W,6,0,None,9-12,1, Tied,Salkeld,Mulholland,Davis,2:32,N,"13,477",+,None
+"Friday, Apr 29",boxscore,SEA,None,BAL,W,5,4,None,10-12,1,up 1.0,Risley,Mills,Ayala,2:32,N,"21,203",++,None
+"Saturday, Apr 30",boxscore,SEA,None,BAL,L,4,6,None,10-13,1, Tied,Mussina,Johnson,Smith,2:46,N,"50,006",-,None
+"Sunday, May 1",boxscore,SEA,None,BAL,W,6,0,None,11-13,1, Tied,Bosio,Rhodes,None,3:02,D,"20,962",+,None
+"Tuesday, May 3",boxscore,SEA,@,BOS,L,6,7,None,11-14,2, 0.5,Bankhead,Fleming,Ryan,3:35,N,"23,309",-,None
+"Wednesday, May 4",boxscore,SEA,@,BOS,L,2,4,None,11-15,2, 0.5,Darwin,Hibbard,Frohwirth,2:30,N,"24,807",--,None
+"Friday, May 6",boxscore,SEA,@,DET,L,4,9,None,11-16,2, 1.5,Doherty,Johnson,None,2:44,N,"14,256",---,None
+"Saturday, May 7",boxscore,SEA,@,DET,L,4,10,6,11-17,2, 1.5,Moore,Bosio,None,2:11,D,"21,855",----,None
+"Sunday, May 8",boxscore,SEA,@,DET,W,4,3,None,12-17,2, 0.5,Fleming,Belcher,Ayala,2:48,D,"15,610",+,None
+"Monday, May 9",boxscore,SEA,@,CHW,W,3,2,None,13-17,2, 0.5,Risley,DeLeon,Ayala,2:34,N,"25,979",++,None
+"Tuesday, May 10",boxscore,SEA,@,CHW,L,2,16,None,13-18,2, 0.5,Sanderson,Salkeld,None,2:58,N,"25,041",-,None
+"Wednesday, May 11",boxscore,SEA,@,CHW,L,6,14,None,13-19,3, 0.5,Bere,Bosio,None,3:13,N,"24,076",--,None
+"Friday, May 13",boxscore,SEA,None,CAL,L,1,11,None,13-20,3, 1.5,Finley,Fleming,None,2:45,N,"17,256",---,None
+"Saturday, May 14",boxscore,SEA,None,CAL,W,10,7,None,14-20,3, 1.5,Risley,Grahe,Ayala,3:20,N,"33,579",+,None
+"Sunday, May 15",boxscore,SEA,None,CAL,W,9,5,None,15-20,2, 0.5,Johnson,Magrane,Ayala,3:42,D,"33,193",++,None
+"Monday, May 16",boxscore,SEA,None,KCR,L,4,6,None,15-21,2, 1.5,Gordon,Bosio,Montgomery,2:38,N,"23,290",-,None
+"Tuesday, May 17",boxscore,SEA,None,KCR,L,0,4,None,15-22,2, 2.5,Cone,Salkeld,None,2:39,D,"18,815",--,None
+"Wednesday, May 18",boxscore,SEA,None,KCR,L,6,7,10,15-23,3, 3.5,Belinda,Risley,Montgomery,3:13,N,"11,976",---,None
+"Thursday, May 19",boxscore,SEA,None,TEX,W-wo,5,4,None,16-23,3, 2.5,Gossage,Carpenter,None,3:17,N,"16,283",+,None
+"Friday, May 20",boxscore,SEA,None,TEX,W,19,2,None,17-23,3, 1.5,Johnson,Pavlik,None,3:03,N,"22,406",++,None
+"Saturday, May 21",boxscore,SEA,None,TEX,W,13,2,None,18-23,3, 0.5,Bosio,Helling,None,3:13,N,"37,870",+++,None
+"Sunday, May 22",boxscore,SEA,None,TEX,W,8,2,None,19-23,1,up 0.5,Salkeld,Hurst,None,3:02,N,"19,617",++++,None
+"Monday, May 23",boxscore,SEA,@,OAK,L,5,7,None,19-24,1, Tied,Witt,Fleming,Eckersley,2:56,N,"11,337",-,None
+"Tuesday, May 24",boxscore,SEA,@,OAK,L,1,10,None,19-25,3, 1.0,Jimenez,Hibbard,None,2:48,N,"13,087",--,None
+"Wednesday, May 25",boxscore,SEA,@,OAK,W,1,0,None,20-25,1, Tied,Johnson,Darling,None,2:36,D,"18,943",+,None
+"Friday, May 27",boxscore,SEA,@,MIL,L,2,5,None,20-26,3, 1.5,Eldred,Risley,Fetters,2:40,N,"35,495",-,None
+"Saturday, May 28",boxscore,SEA,@,MIL,L,5,7,None,20-27,3, 1.5,Bones,Cummings,Fetters,2:46,N,"28,011",--,None
+"Sunday, May 29",boxscore,SEA,@,MIL,L,8,9,None,20-28,3, 1.5,Henry,Davis,Scanlan,2:59,D,"47,119",---,None
+"Monday, May 30",boxscore,SEA,@,MIN,W,12,0,None,21-28,3, 1.5,Johnson,Pulido,None,2:38,D,"28,439",+,None
+"Tuesday, May 31",boxscore,SEA,@,MIN,L,2,6,None,21-29,3, 2.5,Erickson,Fleming,Willis,2:33,N,"14,482",-,None
+"Wednesday, Jun 1",boxscore,SEA,@,MIN,L,1,2,None,21-30,3, 2.5,Tapani,Bosio,Aguilera,2:10,D,"16,359",--,None
+"Friday, Jun 3",boxscore,SEA,None,TOR,L,6,9,None,21-31,3, 3.5,Guzman,Salkeld,Hall,2:55,N,"23,310",---,None
+"Saturday, Jun 4",boxscore,SEA,None,TOR,W,2,0,None,22-31,2, 3.5,Johnson,Stottlemyre,None,2:40,N,"37,127",+,None
+"Sunday, Jun 5",boxscore,SEA,None,TOR,L,4,5,None,22-32,3, 4.5,Stewart,Fleming,Hall,2:59,D,"26,339",-,None
+"Monday, Jun 6",boxscore,SEA,None,CLE,W,5,4,None,23-32,2, 3.5,Risley,Lilliquist,Ayala,2:47,N,"12,815",+,None
+"Tuesday, Jun 7",boxscore,SEA,None,CLE,W,9,5,None,24-32,2, 3.5,Risley,Lilliquist,None,2:59,N,"14,159",++,None
+"Wednesday, Jun 8",boxscore,SEA,None,CLE,L,3,5,None,24-33,2, 4.5,Clark,Cummings,Shuey,3:11,N,"13,129",-,None
+"Friday, Jun 10",boxscore,SEA,None,OAK,L,3,4,10,24-34,2, 6.0,Eckersley,Risley,Briscoe,3:25,N,"17,943",--,None
+"Saturday, Jun 11",boxscore,SEA,None,OAK,W,6,3,None,25-34,2, 5.0,Bosio,Darling,Ayala,2:23,N,"42,802",+,None
+"Sunday, Jun 12",boxscore,SEA,None,OAK,L,2,11,None,25-35,2, 5.0,Van Poppel,Fleming,None,3:04,D,"29,849",-,None
+"Monday, Jun 13",boxscore,SEA,@,TEX,L,9,17,None,25-36,2, 6.0,Hurst,Hibbard,None,3:10,N,"38,363",--,None
+"Tuesday, Jun 14",boxscore,SEA,@,TEX,W,7,6,13,26-36,2, 5.0,Gossage,Smith,None,4:42,N,"37,483",+,None
+"Wednesday, Jun 15",boxscore,SEA,@,TEX,W,5,2,None,27-36,2, 4.0,Johnson,Brown,Davis,3:00,D,"35,450",++,None
+"Thursday, Jun 16",boxscore,SEA,@,KCR,L,1,4,None,27-37,2, 4.0,Magnante,Bosio,Montgomery,2:55,N,"27,245",-,None
+"Friday, Jun 17",boxscore,SEA,@,KCR,W,5,1,None,28-37,2, 3.0,Fleming,Cone,None,2:37,N,"24,470",+,None
+"Saturday, Jun 18",boxscore,SEA,@,KCR,W,3,1,None,29-37,2, 2.0,Hill,Montgomery,Ayala,2:28,N,"32,899",++,None
+"Sunday, Jun 19",boxscore,SEA,@,KCR,L,9,12,None,29-38,2, 2.0,Pichardo,Risley,None,3:09,D,"28,898",-,None
+"Monday, Jun 20",boxscore,SEA,@,CAL,W,5,0,None,30-38,2, 2.0,Johnson,Magrane,None,2:31,N,"22,196",+,None
+"Tuesday, Jun 21",boxscore,SEA,@,CAL,L,2,7,None,30-39,2, 2.0,Springer,Bosio,None,3:02,N,"20,662",-,None
+"Wednesday, Jun 22",boxscore,SEA,@,CAL,W,12,3,None,31-39,2, 1.0,Fleming,Anderson,None,3:06,N,"22,305",+,None
+"Thursday, Jun 23",boxscore,SEA,None,CHW,L,2,13,None,31-40,2, 1.5,DeLeon,Hibbard,None,3:02,N,"20,074",-,None
+"Friday, Jun 24",boxscore,SEA,None,CHW,L,2,6,None,31-41,2, 2.5,Sanderson,Salkeld,None,2:53,N,"29,031",--,None
+"Saturday, Jun 25",boxscore,SEA,None,CHW,L,1,2,None,31-42,2, 2.5,McDowell,Johnson,None,2:22,N,"44,257",---,None
+"Sunday, Jun 26",boxscore,SEA,None,CHW,L,7,8,None,31-43,3, 2.5,Fernandez,Davis,DeLeon,3:26,D,"25,682",----,None
+"Monday, Jun 27",boxscore,SEA,None,DET,L,1,11,None,31-44,3, 3.0,Belcher,Fleming,None,2:49,N,"29,696",-----,None
+"Tuesday, Jun 28",boxscore,SEA,None,DET,W,6,4,None,32-44,2, 3.0,Risley,Doherty,Ayala,2:31,D,"19,210",+,None
+"Wednesday, Jun 29",boxscore,SEA,None,DET,W,9,4,None,33-44,2, 3.0,Davis,Davis,Ayala,3:43,N,"16,012",++,None
+"Friday, Jul 1",boxscore,SEA,@,NYY,W,4,3,None,34-44,2, 3.0,Ayala,Hernandez,None,3:32,N,"36,313",+++,None
+"Saturday, Jul 2",boxscore,SEA,@,NYY,W,12,6,None,35-44,2, 2.0,Fleming,Key,None,3:07,D,"32,717",++++,None
+"Sunday, Jul 3",boxscore,SEA,@,NYY,L,2,5,None,35-45,2, 3.0,Perez,Cummings,Howe,2:31,D,"30,742",-,None
+"Monday, Jul 4",boxscore,SEA,@,BAL,L,3,9,None,35-46,2, 4.0,Fernandez,Bosio,Eichhorn,2:59,N,"47,336",--,None
+"Tuesday, Jul 5",boxscore,SEA,@,BAL,L,2,5,None,35-47,3, 5.0,Moyer,Converse,Smith,2:57,N,"47,842",---,None
+"Wednesday, Jul 6",boxscore,SEA,@,BAL,L,4,5,None,35-48,3, 5.0,Oquist,Salkeld,Smith,2:59,N,"47,697",----,None
+"Thursday, Jul 7",boxscore,SEA,@,BOS,W,4,3,10,36-48,3, 5.0,Johnson,Ryan,Ayala,2:41,N,"33,249",+,None
+"Friday, Jul 8",boxscore,SEA,@,BOS,L,3,4,None,36-49,3, 5.0,Nabholz,Risley,Ryan,2:51,N,"33,355",-,None
+"Saturday, Jul 9",boxscore,SEA,@,BOS,W,7,4,None,37-49,3, 5.0,Bosio,Valdez,Ayala,3:04,D,"33,092",+,None
+"Sunday, Jul 10",boxscore,SEA,@,BOS,L,2,9,None,37-50,3, 5.0,Hesketh,Converse,None,2:56,D,"33,555",-,None
+"Thursday, Jul 14",boxscore,SEA,None,NYY,L,8,13,None,37-51,3, 6.0,Howe,Ayala,None,3:31,N,"21,165",--,None
+"Friday, Jul 15",boxscore,SEA,None,NYY,L,8,10,11,37-52,3, 6.0,Ausanio,Risley,None,4:02,N,"22,979",---,None
+"Saturday, Jul 16",boxscore,SEA,None,NYY,L,3,9,None,37-53,4, 7.0,Key,Johnson,None,3:14,N,"40,149",----,None
+"Sunday, Jul 17",boxscore,SEA,None,NYY,L,4,14,None,37-54,4, 7.0,Kamieniecki,Cummings,None,3:00,D,"25,907",-----,None
+"Monday, Jul 18",boxscore,SEA,None,BAL,W,7,5,None,38-54,4, 7.0,Risley,Eichhorn,Ayala,3:45,N,"22,694",+,None
+"Friday, Jul 22",boxscore,SEA,@,BOS,W,6,3,None,39-54,4, 5.5,Johnson,Sele,Ayala,3:40,N,"11,776",++,1994-07-22 (Stadium damage (Roof); Site change)
+"Saturday, Jul 23",boxscore,SEA,@,BOS,L,5,6,None,39-55,3, 5.0,Hesketh,Fleming,Ryan,3:07,D,None,-,1994-07-23 (Stadium damage (Roof); Site change)
+"Saturday, Jul 23",boxscore,SEA,@,BOS,W,6,3,11,40-55,3, 5.0,Ayala,Melendez,None,3:13,N,"17,168",+,1994-07-21 (Stadium damage (Roof); Site change)
+"Sunday, Jul 24",boxscore,SEA,@,BOS,L,2,8,None,40-56,3, 5.0,Clemens,Glinatsis,None,3:07,D,"22,411",-,1994-07-24 (Stadium damage (Roof); Site change)
+"Tuesday, Jul 26",boxscore,SEA,@,DET,L,1,9,None,40-57,3, 6.5,Wells,Converse,None,2:54,N,"20,590",--,None
+"Wednesday, Jul 27",boxscore,SEA,@,DET,L,1,3,None,40-58,3, 6.5,Moore,Johnson,Cadaret,2:37,N,"20,150",---,None
+"Thursday, Jul 28",boxscore,SEA,@,DET,L-wo,2,4,11,40-59,3, 7.5,Boever,Ayala,None,3:26,D,"22,946",----,None
+"Friday, Jul 29",boxscore,SEA,@,CHW,L,4,5,None,40-60,3, 8.5,Fernandez,King,Hernandez,3:03,N,"41,218",-----,None
+"Saturday, Jul 30",boxscore,SEA,@,CHW,L,2,4,None,40-61,4, 8.5,McDowell,Boskie,None,2:43,N,"42,300",------,None
+"Sunday, Jul 31",boxscore,SEA,@,CHW,L,1,8,None,40-62,4, 8.5,Alvarez,Converse,None,2:33,D,"42,507",-------,None
+"Tuesday, Aug 2",boxscore,SEA,@,CAL,W,10,2,None,41-62,4, 7.5,Johnson,Leftwich,None,2:47,N,"11,478",+,1994-08-02 (Stadium damage (Roof); Site change)
+"Wednesday, Aug 3",boxscore,SEA,@,CAL,W,8,4,None,42-62,3, 7.5,Fleming,Langston,None,3:05,N,"15,549",++,1994-08-03 (Stadium damage (Roof); Site change)
+"Thursday, Aug 4",boxscore,SEA,@,CAL,W,4,2,None,43-62,3, 7.5,Gossage,Leiter,Ayala,2:55,N,"12,222",+++,1994-08-04 (Stadium damage (Roof); Site change)
+"Friday, Aug 5",boxscore,SEA,@,KCR,L,0,8,None,43-63,3, 7.5,Gordon,Converse,None,2:35,N,"25,663",-,1994-08-05 (Stadium damage (Roof); Site change)
+"Saturday, Aug 6",boxscore,SEA,@,KCR,W,11,2,None,44-63,3, 6.5,Davis,Gubicza,None,2:45,N,"32,702",+,1994-08-06 (Stadium damage (Roof); Site change)
+"Sunday, Aug 7",boxscore,SEA,@,KCR,W,10,6,None,45-63,3, 5.5,Risley,Cone,None,2:59,D,"26,483",++,1994-08-07 (Stadium damage (Roof); Site change)
+"Monday, Aug 8",boxscore,SEA,@,TEX,W,14,4,None,46-63,3, 4.5,Wells,Dettmer,Gossage,3:18,N,"32,708",+++,1994-08-08 (Stadium damage (Roof); Site change)
+"Tuesday, Aug 9",boxscore,SEA,@,TEX,W,8,5,None,47-63,3, 3.5,Cummings,Bohanon,Ayala,3:05,N,"36,397",++++,1994-08-09 (Stadium damage (Roof); Site change)
+"Wednesday, Aug 10",boxscore,SEA,@,TEX,W,3,2,10,48-63,3, 2.5,Risley,Henke,Ayala,3:10,N,"38,892",+++++,1994-08-10 (Stadium damage (Roof); Site change)
+"Thursday, Aug 11",boxscore,SEA,@,OAK,W,8,1,None,49-63,3, 2.0,Johnson,Darling,None,2:38,N,"26,808",++++++,None

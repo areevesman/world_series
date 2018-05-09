@@ -1,0 +1,140 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 24",boxscore,CHW,@,SLB,W,5,2,None,2-0,1,up 0.5,Cicotte,Sothoron,None,None,D,None,++,None
+"Friday, Apr 25",boxscore,CHW,@,SLB,L,2,7,None,2-1,1, Tied,Gallia,Danforth,None,None,D,None,-,None
+"Saturday, Apr 26",boxscore,CHW,@,SLB,W,9,4,None,3-1,1,up 0.5,Faber,Davenport,None,None,D,None,+,None
+"Sunday, Apr 27",boxscore,CHW,@,DET,W,6,4,None,4-1,1,up 0.5,Williams,Dauss,None,None,D,"24,000",++,None
+"Tuesday, Apr 29",boxscore,CHW,@,DET,W,3,1,None,5-1,1,up 1.0,Cicotte,Ehmke,None,None,D,"5,000",+++,None
+"Wednesday, Apr 30",boxscore,CHW,@,DET,W,9,7,None,6-1,1,up 1.0,Kerr,Erickson,None,None,D,None,++++,None
+"Friday, May 2",boxscore,CHW,None,SLB,L,4,11,None,6-2,1,up 1.0,Gallia,Williams,None,None,D,"12,000",-,None
+"Sunday, May 4",boxscore,CHW,None,SLB,W,4,2,5,7-2,1,up 1.5,Cicotte,Sothoron,None,None,D,None,+,None
+"Tuesday, May 6",boxscore,CHW,None,DET,W,3,1,None,8-2,1,up 2.0,Williams,Boland,None,None,D,None,++,None
+"Wednesday, May 7",boxscore,CHW,None,DET,W,9,3,None,9-2,1,up 2.5,Faber,Erickson,None,None,D,None,+++,None
+"Thursday, May 8",boxscore,CHW,@,CLE,W,4,1,None,10-2,1,up 2.5,Cicotte,Coveleski,None,None,D,None,++++,None
+"Saturday, May 10",boxscore,CHW,@,CLE,L,5,6,11,10-3,1,up 2.0,Phillips,Cicotte,None,None,D,"4,000",-,None
+"Sunday, May 11",boxscore,CHW,@,CLE,W,10,2,None,11-3,1,up 2.5,Williams,Uhle,None,None,D,None,+,None
+"Monday, May 12",boxscore,CHW,None,SLB,W,4,3,None,12-3,1,up 3.0,Shellenback,Gallia,None,None,D,None,++,1919-05-01 (Wet grounds)
+"Tuesday, May 13",boxscore,CHW,None,SLB,L,1,2,None,12-4,1,up 2.5,Davenport,Robertson,None,None,D,None,-,1919-05-03 (Rain)
+"Wednesday, May 14",boxscore,CHW,None,BOS,W,1,0,None,13-4,1,up 2.5,Cicotte,Mays,None,None,D,"8,000",+,None
+"Thursday, May 15",boxscore,CHW,None,BOS,L,5,6,12,13-5,1,up 1.5,Ruth,Shellenback,None,None,D,None,-,None
+"Friday, May 16",boxscore,CHW,None,BOS,W,7,4,None,14-5,1,up 2.0,Faber,Caldwell,None,None,D,None,+,None
+"Saturday, May 17",boxscore,CHW,None,PHA,L,0,1,None,14-6,1,up 1.5,Rogers,Williams,None,None,D,None,-,None
+"Sunday, May 18",boxscore,CHW,None,PHA,W,1,0,None,15-6,1,up 2.0,Cicotte,Perry,None,None,D,"20,000",+,None
+"Tuesday, May 20",boxscore,CHW,None,PHA,W,2,1,None,16-6,1,up 2.5,Faber,Johnson,None,None,D,None,++,None
+"Thursday, May 22",boxscore,CHW,None,NYY,W,1,0,None,17-6,1,up 2.5,Williams,Quinn,None,None,D,None,+++,None
+"Friday, May 23",boxscore,CHW,None,NYY,W,5,0,None,18-6,1,up 3.0,Cicotte,Shawkey,None,None,D,None,++++,None
+"Saturday, May 24",boxscore,CHW,None,NYY,L,1,2,None,18-7,1,up 2.0,Thormahlen,Faber,None,None,D,"15,000",-,None
+"Sunday, May 25",boxscore,CHW,None,WSH,W,6,5,None,19-7,1,up 2.0,Kerr,Johnson,Danforth,None,D,None,+,None
+"Monday, May 26",boxscore,CHW,None,WSH,W,3,2,None,20-7,1,up 2.0,Williams,Thompson,None,None,D,None,++,None
+"Tuesday, May 27",boxscore,CHW,None,WSH,W,4,3,None,21-7,1,up 2.0,Cicotte,Johnson,None,None,D,None,+++,None
+"Friday, May 30",boxscore,CHW,None,CLE,W,4,1,None,22-7,1,up 4.0,Faber,Bagby,None,None,D,"10,000",++++,None
+"Friday, May 30",boxscore,CHW,None,CLE,W,3,2,None,23-7,1,up 4.0,Williams,Uhle,None,None,D,"30,000",+++++,None
+"Saturday, May 31",boxscore,CHW,None,CLE,W,5,2,None,24-7,1,up 5.0,Cicotte,Phillips,None,None,D,None,++++++,None
+"Sunday, Jun 1",boxscore,CHW,None,CLE,L,3,5,None,24-8,1,up 4.0,Bagby,Danforth,None,None,D,None,-,None
+"Monday, Jun 2",boxscore,CHW,@,DET,L,3,5,None,24-9,1,up 2.5,Ehmke,Faber,None,None,D,None,--,None
+"Monday, Jun 2",boxscore,CHW,@,DET,L,1,2,None,24-10,1,up 2.5,Boland,Williams,None,None,D,None,---,1919-04-28 (Wet grounds)
+"Tuesday, Jun 3",boxscore,CHW,@,DET,L,3,7,None,24-11,1,up 2.0,Dauss,Lowdermilk,None,None,D,None,----,None
+"Thursday, Jun 5",boxscore,CHW,@,NYY,W,5,1,None,25-11,1,up 3.0,Cicotte,Shore,None,None,D,"12,000",+,None
+"Saturday, Jun 7",boxscore,CHW,@,NYY,L,4,6,None,25-12,1,up 2.0,Quinn,Williams,None,None,D,None,-,None
+"Sunday, Jun 8",boxscore,CHW,@,NYY,L,0,4,None,25-13,1,up 1.0,Shawkey,Faber,None,None,D,"12,000",--,1919-06-06 (Rain)
+"Tuesday, Jun 10",boxscore,CHW,@,BOS,W,5,3,None,26-13,1,up 1.5,Cicotte,Ruth,None,None,D,None,+,None
+"Wednesday, Jun 11",boxscore,CHW,@,BOS,W,3,0,None,27-13,1,up 1.5,Williams,Mays,None,None,D,None,++,None
+"Thursday, Jun 12",boxscore,CHW,@,BOS,L,0,4,None,27-14,1,up 0.5,Pennock,Faber,None,None,D,None,-,None
+"Friday, Jun 13",boxscore,CHW,@,BOS,L,1,6,None,27-15,1,up 0.5,Jones,Shellenback,None,None,D,None,--,None
+"Saturday, Jun 14",boxscore,CHW,@,PHA,W,6,3,14,28-15,1,up 0.5,Cicotte,Rogers,None,None,D,None,+,None
+"Monday, Jun 16",boxscore,CHW,@,PHA,W,5,1,None,29-15,1,up 1.0,Williams,Seibold,None,None,D,None,++,None
+"Tuesday, Jun 17",boxscore,CHW,@,PHA,W,7,6,None,30-15,1,up 1.0,Kerr,Johnson,None,None,D,None,+++,None
+"Wednesday, Jun 18",boxscore,CHW,@,WSH,L,0,2,None,30-16,1, Tied,Shaw,Cicotte,None,None,D,None,-,None
+"Thursday, Jun 19",boxscore,CHW,@,WSH,W,5,4,None,31-16,1, Tied,Lowdermilk,Whitehouse,None,None,D,None,+,None
+"Friday, Jun 20",boxscore,CHW,@,WSH,W,5,2,None,32-16,1,up 0.5,Williams,Harper,None,None,D,None,++,None
+"Saturday, Jun 21",boxscore,CHW,@,WSH,L,3,6,None,32-17,1,up 0.5,Johnson,Faber,None,None,D,"10,000",-,None
+"Sunday, Jun 22",boxscore,CHW,@,DET,L,4,5,None,32-18,1,up 0.5,Dauss,Shellenback,None,None,D,"15,000",--,None
+"Monday, Jun 23",boxscore,CHW,None,CLE,L,2,3,None,32-19,3, 0.5,Bagby,Cicotte,None,None,D,None,---,None
+"Tuesday, Jun 24",boxscore,CHW,None,CLE,L,0,2,None,32-20,3, 1.5,Coveleski,Williams,None,None,D,None,----,None
+"Wednesday, Jun 25",boxscore,CHW,None,CLE,W,7,1,None,33-20,3, 1.5,Lowdermilk,Morton,None,None,D,None,+,None
+"Thursday, Jun 26",boxscore,CHW,@,SLB,L,2,3,13,33-21,3, 2.0,Sothoron,Kerr,None,None,D,None,-,None
+"Friday, Jun 27",boxscore,CHW,@,SLB,L,1,4,None,33-22,3, 2.5,Weilman,Cicotte,None,None,D,None,--,None
+"Saturday, Jun 28",boxscore,CHW,@,SLB,W,3,2,None,34-22,2, 2.0,Williams,Shocker,None,None,D,"10,000",+,None
+"Sunday, Jun 29",boxscore,CHW,@,SLB,L,3,5,None,34-23,2, 2.0,Gallia,Lowdermilk,Sothoron,None,D,None,-,None
+"Monday, Jun 30",boxscore,CHW,@,CLE,W,5,2,None,35-23,2, 2.5,Cicotte,Bagby,None,None,D,None,+,1919-05-09 (Rain)
+"Tuesday, Jul 1",boxscore,CHW,@,CLE,L,9,14,None,35-24,2, 3.5,Jasper,Williams,None,None,D,None,-,None
+"Wednesday, Jul 2",boxscore,CHW,@,CLE,W,6,4,None,36-24,2, 2.5,Danforth,Uhle,None,None,D,None,+,None
+"Thursday, Jul 3",boxscore,CHW,@,CLE,W,17,1,None,37-24,2, 1.5,Williams,Morton,None,None,D,None,++,None
+"Friday, Jul 4",boxscore,CHW,None,DET,W,8,1,None,38-24,2, 1.5,Cicotte,Boland,None,None,D,None,+++,None
+"Friday, Jul 4",boxscore,CHW,None,DET,W,2,1,None,39-24,2, 1.5,Kerr,Love,None,None,D,None,++++,None
+"Saturday, Jul 5",boxscore,CHW,None,DET,L,3,6,None,39-25,2, 2.0,Dauss,Faber,None,None,D,None,-,None
+"Sunday, Jul 6",boxscore,CHW,None,DET,W,4,1,None,40-25,2, 1.0,Williams,Leonard,None,None,D,None,+,None
+"Monday, Jul 7",boxscore,CHW,None,DET,W,8,3,None,41-25,2, 1.0,Cicotte,Ehmke,None,None,D,None,++,1919-05-05 (Cold)
+"Wednesday, Jul 9",boxscore,CHW,None,PHA,W,8,7,None,42-25,1,up 0.5,Faber,Rogers,None,None,D,None,+++,None
+"Wednesday, Jul 9",boxscore,CHW,None,PHA,W,6,2,None,43-25,1,up 0.5,Faber,Johnson,None,None,D,None,++++,1919-05-19 (Rain)
+"Thursday, Jul 10",boxscore,CHW,None,PHA,W,9,2,None,44-25,1,up 1.0,Williams,Naylor,None,None,D,None,+++++,None
+"Friday, Jul 11",boxscore,CHW,None,PHA,W,7,1,None,45-25,1,up 2.0,Cicotte,Perry,None,None,D,None,++++++,None
+"Saturday, Jul 12",boxscore,CHW,None,BOS,L,4,12,None,45-26,1,up 2.0,Pennock,Kerr,None,None,D,None,-,None
+"Sunday, Jul 13",boxscore,CHW,None,BOS,W,14,9,None,46-26,1,up 3.0,Faber,Mays,Cicotte,None,D,None,+,None
+"Monday, Jul 14",boxscore,CHW,None,BOS,W,9,3,None,47-26,1,up 4.0,Williams,Jones,None,None,D,None,++,None
+"Tuesday, Jul 15",boxscore,CHW,None,BOS,W,3,1,None,48-26,1,up 4.5,Cicotte,James,None,None,D,None,+++,None
+"Wednesday, Jul 16",boxscore,CHW,None,WSH,L,1,11,None,48-27,1,up 4.5,Erickson,Lowdermilk,None,None,D,None,-,None
+"Thursday, Jul 17",boxscore,CHW,None,WSH,L,4,9,None,48-28,1,up 4.5,Shaw,Faber,None,None,D,None,--,None
+"Friday, Jul 18",boxscore,CHW,None,WSH,W,3,0,None,49-28,1,up 4.5,Williams,Harper,None,None,D,"10,000",+,None
+"Saturday, Jul 19",boxscore,CHW,None,WSH,W,6,5,11,50-28,1,up 4.5,Kerr,Johnson,None,None,D,None,++,None
+"Sunday, Jul 20",boxscore,CHW,None,NYY,W,2,1,10,51-28,1,up 5.5,Cicotte,Shore,None,None,D,"30,000",+++,None
+"Monday, Jul 21",boxscore,CHW,None,NYY,W,7,6,None,52-28,1,up 6.0,Kerr,Quinn,None,None,D,None,++++,None
+"Monday, Jul 21",boxscore,CHW,None,NYY,W,5,4,10,53-28,1,up 6.0,Kerr,Thormahlen,None,None,D,"18,000",+++++,1919-05-21 (Rain)
+"Tuesday, Jul 22",boxscore,CHW,None,NYY,L,1,6,None,53-29,1,up 5.0,Quinn,Kerr,None,None,D,None,-,None
+"Thursday, Jul 24",boxscore,CHW,None,SLB,W,1,0,10,54-29,1,up 6.0,Cicotte,Sothoron,None,None,D,None,+,None
+"Friday, Jul 25",boxscore,CHW,None,SLB,W,6,4,None,55-29,1,up 7.0,Kerr,Gallia,None,None,D,None,++,None
+"Saturday, Jul 26",boxscore,CHW,None,SLB,L,2,5,None,55-30,1,up 6.0,Shocker,Faber,None,None,D,None,-,None
+"Sunday, Jul 27",boxscore,CHW,None,SLB,L,5,11,None,55-31,1,up 6.0,Sothoron,Lowdermilk,None,2:15,D,"20,000",--,None
+"Tuesday, Jul 29",boxscore,CHW,@,NYY,L,1,10,None,55-32,1,up 5.5,Thormahlen,Cicotte,None,None,D,"4,500",---,None
+"Wednesday, Jul 30",boxscore,CHW,@,NYY,L,5,6,10,55-33,1,up 5.5,Shawkey,Lowdermilk,None,None,D,None,----,None
+"Wednesday, Jul 30",boxscore,CHW,@,NYY,W,5,3,10,56-33,1,up 5.5,Faber,Quinn,None,None,D,"25,000",+,1919-06-09 (Wet grounds)
+"Thursday, Jul 31",boxscore,CHW,@,NYY,W,7,2,None,57-33,1,up 6.5,Kerr,Shore,None,None,D,"5,000",++,None
+"Saturday, Aug 2",boxscore,CHW,@,BOS,L,3,5,None,57-34,1,up 6.5,Russell,Cicotte,None,None,D,None,-,None
+"Saturday, Aug 2",boxscore,CHW,@,BOS,W,10,1,None,58-34,1,up 6.5,Williams,Pennock,None,None,D,"31,500",+,1919-08-01 (Rain)
+"Monday, Aug 4",boxscore,CHW,@,BOS,L,1,2,None,58-35,1,up 5.5,Jones,Faber,None,None,D,None,-,None
+"Thursday, Aug 7",boxscore,CHW,@,PHA,W,2,1,None,59-35,1,up 5.0,Cicotte,Perry,None,None,D,None,+,None
+"Thursday, Aug 7",boxscore,CHW,@,PHA,L,2,3,None,59-36,1,up 5.0,Naylor,Williams,None,None,D,None,-,1919-08-05 (Rain)
+"Friday, Aug 8",boxscore,CHW,@,PHA,L,4,5,13,59-37,1,up 5.0,Kinney,Kerr,None,None,D,None,--,None
+"Friday, Aug 8",boxscore,CHW,@,PHA,W,6,2,None,60-37,1,up 5.0,Lowdermilk,Rogers,None,None,D,None,+,1919-08-06 (Wet grounds)
+"Saturday, Aug 9",boxscore,CHW,@,WSH,L,6,11,None,60-38,1,up 4.0,Johnson,Mayer,None,None,D,None,-,None
+"Sunday, Aug 10",boxscore,CHW,@,WSH,W,1,0,12,61-38,1,up 4.5,Cicotte,Shaw,None,None,D,None,+,None
+"Monday, Aug 11",boxscore,CHW,@,WSH,W,7,4,None,62-38,1,up 4.5,Williams,Harper,None,None,D,None,++,None
+"Thursday, Aug 14",boxscore,CHW,None,BOS,L,6,15,None,62-39,1,up 4.0,Russell,Cicotte,None,None,D,None,-,None
+"Friday, Aug 15",boxscore,CHW,None,BOS,W,6,5,11,63-39,1,up 4.0,Cicotte,Jones,None,None,D,None,+,None
+"Saturday, Aug 16",boxscore,CHW,None,BOS,W,7,6,None,64-39,1,up 4.0,Faber,Jones,None,None,D,None,++,None
+"Sunday, Aug 17",boxscore,CHW,None,PHA,W,3,1,6,65-39,1,up 5.0,Lowdermilk,Naylor,None,0:55,D,"20,000",+++,None
+"Monday, Aug 18",boxscore,CHW,None,PHA,W,11,6,None,66-39,1,up 5.0,Kerr,Noyes,None,1:43,D,None,++++,None
+"Tuesday, Aug 19",boxscore,CHW,None,PHA,W,8,7,None,67-39,1,up 5.0,Mayer,Kinney,Williams,2:02,D,None,+++++,None
+"Wednesday, Aug 20",boxscore,CHW,None,WSH,W,10,3,None,68-39,1,up 5.0,Cicotte,Erickson,None,2:00,D,None,++++++,None
+"Thursday, Aug 21",boxscore,CHW,None,WSH,W,11,4,None,69-39,1,up 5.0,Williams,Zachary,None,1:55,D,None,+++++++,None
+"Friday, Aug 22",boxscore,CHW,None,WSH,W,3,0,None,70-39,1,up 5.0,James,Shaw,None,1:45,D,None,++++++++,None
+"Saturday, Aug 23",boxscore,CHW,None,NYY,W,10,2,None,71-39,1,up 5.0,Cicotte,Shawkey,None,None,D,"20,000",+++++++++,None
+"Sunday, Aug 24",boxscore,CHW,None,NYY,W,4,1,None,72-39,1,up 6.0,Williams,Quinn,None,1:35,D,"22,000",++++++++++,None
+"Monday, Aug 25",boxscore,CHW,None,NYY,L,5,6,None,72-40,1,up 6.0,Thormahlen,James,None,None,D,None,-,None
+"Tuesday, Aug 26",boxscore,CHW,@,SLB,W,4,3,10,73-40,1,up 7.0,Cicotte,Sothoron,None,None,D,None,+,None
+"Wednesday, Aug 27",boxscore,CHW,@,SLB,W,6,5,None,74-40,1,up 7.0,Williams,Gallia,None,None,D,None,++,None
+"Friday, Aug 29",boxscore,CHW,@,CLE,W,3,2,None,75-40,1,up 8.0,Cicotte,Caldwell,None,None,D,None,+++,None
+"Saturday, Aug 30",boxscore,CHW,@,CLE,L,0,4,None,75-41,1,up 7.0,Myers,James,None,None,D,None,-,None
+"Sunday, Aug 31",boxscore,CHW,@,CLE,L,1,6,None,75-42,1,up 6.0,Coveleski,Williams,None,None,D,None,--,None
+"Monday, Sep 1",boxscore,CHW,@,DET,W,6,0,None,76-42,1,up 7.0,Williams,Dauss,None,None,D,"24,000",+,None
+"Monday, Sep 1",boxscore,CHW,@,DET,W,5,1,None,77-42,1,up 7.0,Cicotte,Boland,None,None,D,"21,000",++,None
+"Tuesday, Sep 2",boxscore,CHW,@,DET,L,3,4,16,77-43,1,up 6.0,Ehmke,Kerr,None,None,D,None,-,None
+"Friday, Sep 5",boxscore,CHW,None,CLE,W,9,1,None,78-43,1,up 7.0,Cicotte,Myers,None,None,D,"25,000",+,None
+"Saturday, Sep 6",boxscore,CHW,None,CLE,L,2,11,None,78-44,1,up 6.5,Bagby,Williams,None,2:05,D,None,-,None
+"Sunday, Sep 7",boxscore,CHW,None,CLE,W,8,3,None,79-44,1,up 7.5,Kerr,Coveleski,None,None,D,"34,000",+,None
+"Tuesday, Sep 9",boxscore,CHW,@,WSH,W,2,0,None,80-44,1,up 8.0,James,Johnson,None,None,D,None,++,None
+"Thursday, Sep 11",boxscore,CHW,@,WSH,L,3,4,None,80-45,1,up 7.5,Shaw,Kerr,None,None,D,None,-,None
+"Thursday, Sep 11",boxscore,CHW,@,WSH,W,5,0,None,81-45,1,up 7.5,Williams,Zachary,None,None,D,None,+,1919-09-10 (Rain)
+"Friday, Sep 12",boxscore,CHW,@,PHA,W,7,0,None,82-45,1,up 7.5,Wilkinson,York,None,None,D,None,++,None
+"Saturday, Sep 13",boxscore,CHW,@,PHA,W,8,2,None,83-45,1,up 7.5,Lowdermilk,Zinn,None,None,D,None,+++,None
+"Monday, Sep 15",boxscore,CHW,@,PHA,W,11,10,None,84-45,1,up 8.0,Faber,York,None,None,D,None,++++,None
+"Wednesday, Sep 17",boxscore,CHW,@,NYY,W,2,0,None,85-45,1,up 7.5,Kerr,Quinn,None,None,D,None,+++++,None
+"Wednesday, Sep 17",boxscore,CHW,@,NYY,W,11,2,None,86-45,1,up 7.5,James,Thormahlen,None,None,D,"15,000",++++++,1919-09-16 (Wet grounds)
+"Thursday, Sep 18",boxscore,CHW,@,NYY,L,4,6,None,86-46,1,up 6.5,Mays,Mayer,None,None,D,"5,000",-,None
+"Friday, Sep 19",boxscore,CHW,@,BOS,W,3,2,None,87-46,1,up 6.5,Cicotte,Hoyt,None,None,D,None,+,None
+"Saturday, Sep 20",boxscore,CHW,@,BOS,L,3,4,None,87-47,1,up 4.5,Russell,Williams,None,None,D,None,-,None
+"Saturday, Sep 20",boxscore,CHW,@,BOS,L,4,5,None,87-48,1,up 4.5,Pennock,Kerr,Russell,None,D,None,--,1919-09-22 (Schedule change)
+"Wednesday, Sep 24",boxscore,CHW,None,SLB,W,6,5,None,88-48,1,up 5.0,Kerr,Sothoron,None,None,D,None,+,None
+"Thursday, Sep 25",boxscore,CHW,None,SLB,L,1,3,None,88-49,1,up 5.0,Vangilder,Williams,None,None,D,None,-,None
+"Friday, Sep 26",boxscore,CHW,None,DET,L,7,10,None,88-50,1,up 4.5,Dauss,Sullivan,None,None,D,None,--,None
+"Saturday, Sep 27",boxscore,CHW,None,DET,L,5,7,10,88-51,1,up 3.5,Love,Mayer,None,None,D,None,---,None
+"Sunday, Sep 28",boxscore,CHW,None,DET,L,9,10,None,88-52,1,up 3.5,Love,Wilkinson,None,None,D,None,----,None

@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 15",boxscore,CIN,None,CHC,W,4,3,None,2-0,1, Tied,Ring,Vaughn,None,1:45,D,None,++,None
+"Saturday, Apr 17",boxscore,CIN,None,CHC,W,11,6,None,3-0,1,up 0.5,Eller,Martin,None,2:25,D,None,+++,None
+"Sunday, Apr 18",boxscore,CIN,None,PIT,L,1,2,None,3-1,2, 0.5,Adams,Ruether,None,1:40,D,None,-,None
+"Wednesday, Apr 21",boxscore,CIN,None,PIT,L,3,5,None,3-2,3, 1.5,Cooper,Ring,None,2:00,D,None,--,1920-04-19 (Rain)
+"Thursday, Apr 22",boxscore,CIN,@,CHC,L,3,4,11,3-3,4, 2.0,Alexander,Ruether,None,2:13,D,None,---,None
+"Friday, Apr 23",boxscore,CIN,@,CHC,W,5,3,None,4-3,3, 1.0,Eller,Newkirk,None,1:41,D,None,+,None
+"Saturday, Apr 24",boxscore,CIN,@,CHC,W,1,0,None,5-3,2, 1.0,Fisher,Vaughn,None,1:43,D,None,++,None
+"Sunday, Apr 25",boxscore,CIN,None,STL,W,7,5,None,6-3,1, Tied,Ring,Goodwin,None,2:01,D,None,+++,None
+"Tuesday, Apr 27",boxscore,CIN,None,STL,W,3,2,None,7-3,1, Tied,Ruether,Haines,None,1:39,D,None,++++,None
+"Thursday, Apr 29",boxscore,CIN,@,PIT,W,8,2,None,8-3,1, Tied,Ring,Carlson,None,2:00,D,None,+++++,None
+"Saturday, May 1",boxscore,CIN,@,PIT,W,7,1,None,9-3,1,up 1.0,Ruether,Adams,None,1:41,D,None,++++++,None
+"Sunday, May 2",boxscore,CIN,None,PIT,L,0,3,None,9-4,1,up 1.0,Cooper,Sallee,None,1:18,D,None,-,None
+"Monday, May 3",boxscore,CIN,None,CHC,L,1,2,None,9-5,2, 0.5,Vaughn,Eller,None,1:41,D,None,--,None
+"Monday, May 3",boxscore,CIN,None,CHC,L,0,5,None,9-6,2, 0.5,Alexander,Fisher,None,1:38,D,None,---,1920-04-16 (Rain)
+"Tuesday, May 4",boxscore,CIN,None,CHC,W,5,4,None,10-6,1,up 0.5,Ring,Carter,Ruether,1:04,D,None,+,None
+"Wednesday, May 5",boxscore,CIN,@,STL,W,3,1,None,11-6,1,up 1.0,Ruether,Doak,None,2:07,D,None,++,None
+"Thursday, May 6",boxscore,CIN,@,STL,L,0,6,None,11-7,1,up 0.5,Haines,Eller,None,1:36,D,None,-,None
+"Friday, May 7",boxscore,CIN,@,STL,W,15,11,None,12-7,1,up 1.0,Fisher,Schupp,Sallee,2:35,D,None,+,None
+"Saturday, May 8",boxscore,CIN,@,STL,L,4,5,11,12-8,1,up 0.5,Jacobs,Ring,None,2:20,D,None,-,None
+"Sunday, May 9",boxscore,CIN,@,STL,W,5,0,None,13-8,1,up 0.5,Ruether,Doak,None,1:47,D,None,+,None
+"Tuesday, May 11",boxscore,CIN,None,NYG,W,9,4,None,14-8,1,up 0.5,Eller,Barnes,None,None,D,None,++,None
+"Thursday, May 13",boxscore,CIN,None,NYG,L,0,6,None,14-9,1,up 0.5,Benton,Fisher,None,None,D,"1,500",-,None
+"Friday, May 14",boxscore,CIN,None,PHI,W,4,3,None,15-9,1,up 1.5,Ring,Cantwell,None,2:15,D,None,+,None
+"Saturday, May 15",boxscore,CIN,None,PHI,W,9,2,None,16-9,1,up 2.0,Sallee,Causey,None,1:37,D,None,++,None
+"Sunday, May 16",boxscore,CIN,None,PHI,L,2,3,15,16-10,1,up 1.5,Rixey,Ring,None,3:16,D,None,-,None
+"Thursday, May 20",boxscore,CIN,None,BRO,W,7,0,None,17-10,1,up 1.0,Ruether,Smith,None,None,D,"2,000",+,None
+"Friday, May 21",boxscore,CIN,None,BRO,L,0,3,None,17-11,1, Tied,Cadore,Eller,None,None,D,None,-,None
+"Saturday, May 22",boxscore,CIN,None,BSN,L,1,2,None,17-12,1, Tied,Rudolph,Sallee,None,1:36,D,None,--,None
+"Sunday, May 23",boxscore,CIN,None,BSN,L,0,7,None,17-13,2, 1.0,Scott,Ring,None,1:43,D,None,---,None
+"Monday, May 24",boxscore,CIN,None,BSN,W,4,2,None,18-13,1, Tied,Ruether,McQuillan,None,1:40,D,None,+,None
+"Tuesday, May 25",boxscore,CIN,None,BSN,W,11,2,None,19-13,1, Tied,Bressler,Fillingim,Luque,1:44,D,None,++,None
+"Wednesday, May 26",boxscore,CIN,@,STL,L,8,10,None,19-14,1, Tied,Sherdel,Eller,None,2:30,D,None,-,None
+"Thursday, May 27",boxscore,CIN,@,STL,L,9,16,None,19-15,2, 0.5,Doak,Sallee,Sherdel,2:15,D,None,--,None
+"Friday, May 28",boxscore,CIN,None,PIT,W,6,1,None,20-15,2, 0.5,Ruether,Cooper,None,1:38,D,None,+,None
+"Saturday, May 29",boxscore,CIN,None,PIT,W,3,2,None,21-15,2, 0.5,Luque,Carlson,None,1:33,D,None,++,None
+"Sunday, May 30",boxscore,CIN,None,PIT,W,5,3,None,22-15,2, 0.5,Sallee,Wisner,None,1:38,D,None,+++,None
+"Monday, May 31",boxscore,CIN,@,CHC,L,2,3,10,22-16,2, 0.5,Alexander,Fisher,None,2:00,D,None,-,None
+"Monday, May 31",boxscore,CIN,@,CHC,W,4,2,None,23-16,2, 0.5,Ring,Martin,None,1:52,D,None,+,None
+"Tuesday, Jun 1",boxscore,CIN,@,CHC,W,6,5,None,24-16,1, Tied,Ruether,Hendrix,None,2:02,D,None,++,None
+"Wednesday, Jun 2",boxscore,CIN,@,CHC,W,5,3,None,25-16,1,up 1.0,Luque,Tyler,Sallee,1:50,D,None,+++,None
+"Sunday, Jun 6",boxscore,CIN,None,PIT,L,1,3,10,25-17,2, 1.0,Cooper,Ruether,None,1:59,D,None,-,None
+"Tuesday, Jun 8",boxscore,CIN,@,NYG,L,4,5,None,25-18,2, 1.5,Barnes,Luque,None,None,D,"12,000",--,None
+"Wednesday, Jun 9",boxscore,CIN,@,NYG,L,4,6,None,25-19,2, 2.5,Nehf,Ring,None,None,D,None,---,None
+"Thursday, Jun 10",boxscore,CIN,@,NYG,W,2,1,11,26-19,2, 1.5,Ruether,Benton,None,None,D,"10,000",+,None
+"Friday, Jun 11",boxscore,CIN,@,NYG,L,2,6,None,26-20,2, 1.5,Toney,Sallee,None,None,D,"10,000",-,None
+"Saturday, Jun 12",boxscore,CIN,@,BRO,W,4,3,None,27-20,2, 0.5,Luque,Mamaux,None,None,D,"10,000",+,None
+"Sunday, Jun 13",boxscore,CIN,@,BRO,W,1,0,None,28-20,1,up 0.5,Ring,Marquard,None,None,D,None,++,None
+"Monday, Jun 14",boxscore,CIN,@,BRO,L,7,9,None,28-21,2, 0.5,Grimes,Fisher,None,None,D,"6,000",-,None
+"Tuesday, Jun 15",boxscore,CIN,@,BRO,W,10,5,None,29-21,1,up 0.5,Ruether,Pfeffer,None,None,D,"7,000",+,None
+"Saturday, Jun 19",boxscore,CIN,@,BSN,W,3,2,None,30-21,1,up 1.5,Ring,Fillingim,Ruether,1:50,D,None,++,None
+"Monday, Jun 21",boxscore,CIN,@,PHI,L,1,5,None,30-22,1,up 1.5,Rixey,Ruether,None,1:47,D,None,-,None
+"Tuesday, Jun 22",boxscore,CIN,@,PHI,W,3,1,11,31-22,1,up 2.0,Luque,Gallia,None,2:05,D,None,+,None
+"Wednesday, Jun 23",boxscore,CIN,@,PHI,L,0,3,None,31-23,1,up 1.5,Meadows,Ring,None,1:39,D,None,-,None
+"Thursday, Jun 24",boxscore,CIN,@,PHI,W,5,3,None,32-23,1,up 1.5,Sallee,Smith,None,1:39,D,None,+,None
+"Saturday, Jun 26",boxscore,CIN,None,STL,L,0,5,None,32-24,1,up 1.0,Haines,Ruether,None,None,D,None,-,None
+"Saturday, Jun 26",boxscore,CIN,None,STL,L,3,4,None,32-25,1,up 1.0,Doak,Luque,Sherdel,2:10,D,None,--,1920-04-28 (Wet grounds)
+"Sunday, Jun 27",boxscore,CIN,None,STL,L,2,3,None,32-26,1, Tied,Schupp,Ring,None,1:48,D,None,---,None
+"Monday, Jun 28",boxscore,CIN,None,STL,W,7,5,None,33-26,1,up 1.0,Sallee,Goodwin,None,1:49,D,None,+,None
+"Tuesday, Jun 29",boxscore,CIN,None,STL,W,5,1,None,34-26,1,up 2.0,Fisher,Jacobs,None,2:00,D,None,++,None
+"Wednesday, Jun 30",boxscore,CIN,None,STL,W,2,0,None,35-26,1,up 3.0,Ruether,Haines,None,2:25,D,None,+++,1920-04-26 (Rain)
+"Thursday, Jul 1",boxscore,CIN,None,CHC,L,0,1,None,35-27,1,up 2.0,Alexander,Luque,None,1:29,D,None,-,None
+"Friday, Jul 2",boxscore,CIN,None,CHC,W,6,5,11,36-27,1,up 2.0,Ring,Carter,None,2:09,D,None,+,None
+"Saturday, Jul 3",boxscore,CIN,None,CHC,W,5,3,None,37-27,1,up 3.0,Sallee,Martin,None,2:05,D,None,++,None
+"Sunday, Jul 4",boxscore,CIN,None,PIT,W,5,0,None,38-27,1,up 2.5,Ruether,Adams,None,1:28,D,None,+++,None
+"Monday, Jul 5",boxscore,CIN,@,PIT,L,1,4,None,38-28,1,up 0.5,Carlson,Fisher,None,1:46,D,None,-,None
+"Monday, Jul 5",boxscore,CIN,@,PIT,L,5,6,11,38-29,1,up 0.5,Hamilton,Luque,None,2:05,D,None,--,None
+"Tuesday, Jul 6",boxscore,CIN,@,PIT,W,7,2,None,39-29,1,up 0.5,Ring,Meador,None,1:27,D,None,+,None
+"Friday, Jul 9",boxscore,CIN,None,BSN,L,1,3,None,39-30,2, 0.5,McQuillan,Ruether,None,1:43,D,None,-,None
+"Saturday, Jul 10",boxscore,CIN,None,BSN,L,0,1,None,39-31,2, 1.0,Oeschger,Luque,None,1:50,D,None,--,None
+"Saturday, Jul 10",boxscore,CIN,None,BSN,W,5,2,None,40-31,2, 1.0,Ring,Scott,None,1:33,D,None,+,1920-07-08 (Rain)
+"Sunday, Jul 11",boxscore,CIN,None,BSN,W,6,3,None,41-31,2, 1.0,Eller,McQuillan,None,1:45,D,None,++,None
+"Monday, Jul 12",boxscore,CIN,None,PHI,W,4,3,10,42-31,2, 1.5,Fisher,Causey,None,1:42,D,None,+++,None
+"Tuesday, Jul 13",boxscore,CIN,None,PHI,W,8,2,None,43-31,2, 0.5,Ring,Meadows,None,1:48,D,None,++++,None
+"Wednesday, Jul 14",boxscore,CIN,None,PHI,W,3,2,10,44-31,2, 1.0,Luque,Rixey,None,2:12,D,None,+++++,None
+"Thursday, Jul 15",boxscore,CIN,None,PHI,L,5,7,None,44-32,2, 2.0,Hubbell,Ring,Gallia,2:00,D,None,-,None
+"Friday, Jul 16",boxscore,CIN,None,BRO,L,4,6,None,44-33,2, 3.0,Grimes,Ruether,None,None,D,"7,000",--,None
+"Saturday, Jul 17",boxscore,CIN,None,BRO,L,2,3,None,44-34,2, 4.0,Cadore,Ring,Mamaux,None,D,"15,000",---,None
+"Sunday, Jul 18",boxscore,CIN,None,BRO,W,4,1,None,45-34,2, 3.0,Luque,Smith,None,None,D,"26,000",+,None
+"Monday, Jul 19",boxscore,CIN,None,BRO,W,5,4,None,46-34,2, 2.0,Ruether,Mamaux,None,None,D,"4,000",++,None
+"Tuesday, Jul 20",boxscore,CIN,None,BRO,L,2,3,None,46-35,2, 3.0,Grimes,Eller,None,None,D,"5,000",-,1920-05-18 (Rain)
+"Wednesday, Jul 21",boxscore,CIN,None,NYG,L,3,5,None,46-36,2, 3.0,Toney,Fisher,Douglas,None,D,"3,500",--,None
+"Thursday, Jul 22",boxscore,CIN,None,NYG,L,1,2,None,46-37,2, 3.0,Barnes,Luque,None,None,D,"2,500",---,None
+"Friday, Jul 23",boxscore,CIN,None,NYG,W,1,0,None,47-37,2, 3.0,Ruether,Benton,None,None,D,"2,000",+,None
+"Saturday, Jul 24",boxscore,CIN,None,NYG,W,5,3,None,48-37,2, 2.0,Eller,Nehf,None,1:43,D,None,++,None
+"Sunday, Jul 25",boxscore,CIN,None,NYG,L,2,5,None,48-38,2, 2.0,Toney,Sallee,None,1:58,D,None,-,None
+"Tuesday, Jul 27",boxscore,CIN,@,BRO,W,8,3,None,49-38,2, 1.5,Ruether,Marquard,None,None,D,None,+,None
+"Wednesday, Jul 28",boxscore,CIN,@,BRO,L,0,9,None,49-39,2, 2.5,Grimes,Ring,None,None,D,"6,000",-,None
+"Thursday, Jul 29",boxscore,CIN,@,BRO,W,3,2,None,50-39,2, 1.5,Luque,Cadore,None,None,D,None,+,None
+"Friday, Jul 30",boxscore,CIN,@,BRO,W,11,0,None,51-39,2, 0.5,Eller,Mamaux,None,None,D,"8,000",++,None
+"Saturday, Jul 31",boxscore,CIN,@,NYG,W,6,2,None,52-39,2, 0.5,Ring,Benton,None,None,D,"25,000",+++,None
+"Sunday, Aug 1",boxscore,CIN,@,NYG,L,2,3,None,52-40,2, 1.5,Toney,Luque,None,None,D,"35,000",-,None
+"Monday, Aug 2",boxscore,CIN,@,NYG,L,2,5,None,52-41,2, 1.5,Nehf,Ruether,None,None,D,"15,000",--,None
+"Tuesday, Aug 3",boxscore,CIN,@,NYG,L,1,11,None,52-42,2, 2.5,Toney,Eller,None,None,D,"15,000",---,None
+"Thursday, Aug 5",boxscore,CIN,@,PHI,W,7,0,None,53-42,2, 1.5,Luque,Hubbell,None,1:49,D,None,+,None
+"Friday, Aug 6",boxscore,CIN,@,PHI,W,8,2,None,54-42,2, 1.0,Ring,Smith,None,1:59,D,None,++,None
+"Saturday, Aug 7",boxscore,CIN,@,PHI,L,1,6,None,54-43,2, 0.5,Meadows,Ruether,None,1:44,D,None,-,None
+"Saturday, Aug 7",boxscore,CIN,@,PHI,W,4,3,None,55-43,2, 0.5,Eller,Rixey,None,1:50,D,None,+,None
+"Monday, Aug 9",boxscore,CIN,@,BSN,W,10,5,None,56-43,2, 0.5,Luque,McQuillan,Ring,2:05,D,None,++,1920-06-17 (Rain)
+"Monday, Aug 9",boxscore,CIN,@,BSN,W,8,2,None,57-43,2, 0.5,Fisher,Fillingim,None,1:35,D,None,+++,None
+"Tuesday, Aug 10",boxscore,CIN,@,BSN,L,3,4,11,57-44,2, 0.5,Watson,Sallee,None,2:05,D,None,-,None
+"Tuesday, Aug 10",boxscore,CIN,@,BSN,W,13,10,None,58-44,2, 0.5,Bressler,Rudolph,None,2:05,D,None,+,1920-06-17 (Rain)
+"Thursday, Aug 12",boxscore,CIN,@,BSN,W,6,5,11,59-44,1,up 0.5,Luque,Oeschger,None,2:03,D,None,++,None
+"Saturday, Aug 14",boxscore,CIN,@,CHC,L,0,5,None,59-45,1, Tied,Alexander,Ruether,None,1:20,D,None,-,None
+"Sunday, Aug 15",boxscore,CIN,@,CHC,L,0,1,None,59-46,2, 1.0,Tyler,Ring,None,1:45,D,None,--,None
+"Monday, Aug 16",boxscore,CIN,@,CHC,W,9,1,None,60-46,2, 0.5,Fisher,Hendrix,None,2:06,D,None,+,None
+"Tuesday, Aug 17",boxscore,CIN,@,CHC,W,3,2,None,61-46,1, Tied,Eller,Vaughn,None,1:46,D,None,++,None
+"Thursday, Aug 19",boxscore,CIN,None,BRO,W,3,2,13,62-46,1,up 1.0,Ring,Cadore,None,2:37,D,"8,000",+++,1920-05-19 (Rain)
+"Friday, Aug 20",boxscore,CIN,None,BRO,W,10,3,None,63-46,1,up 2.0,Luque,Mamaux,Fisher,None,D,"10,000",++++,None
+"Saturday, Aug 21",boxscore,CIN,None,BRO,L,0,4,None,63-47,1,up 1.0,Marquard,Eller,None,None,D,"15,000",-,None
+"Sunday, Aug 22",boxscore,CIN,None,BRO,L,3,6,None,63-48,1, Tied,Cadore,Ring,Mamaux,None,D,"22,000",--,None
+"Monday, Aug 23",boxscore,CIN,None,PHI,W,5,3,None,64-48,1, Tied,Fisher,Meadows,None,1:55,D,None,+,None
+"Tuesday, Aug 24",boxscore,CIN,None,PHI,W,7,2,None,65-48,1,up 1.0,Napier,Smith,None,1:47,D,None,++,None
+"Wednesday, Aug 25",boxscore,CIN,None,PHI,W,5,1,None,66-48,1,up 1.0,Eller,Rixey,None,1:43,D,None,+++,None
+"Thursday, Aug 26",boxscore,CIN,None,PHI,L,0,7,None,66-49,1, Tied,Hubbell,Ring,None,1:42,D,None,-,1920-05-17 (Rain)
+"Friday, Aug 27",boxscore,CIN,None,NYG,L,4,6,17,66-50,2, 1.0,Nehf,Fisher,None,4:01,D,"18,000",--,None
+"Friday, Aug 27",boxscore,CIN,None,NYG,T,0,0,5,66-50,2, 1.0,None,None,None,0:54,D,None,--,1920-05-12 (Rain)
+"Saturday, Aug 28",boxscore,CIN,None,NYG,L,0,4,None,66-51,2, 1.0,Benton,Eller,None,None,D,"25,000",---,None
+"Sunday, Aug 29",boxscore,CIN,None,NYG,L,1,4,None,66-52,2, 1.0,Barnes,Ring,None,None,D,"18,000",----,None
+"Monday, Aug 30",boxscore,CIN,None,BSN,W,8,2,None,67-52,1,up 0.5,Napier,Scott,None,1:43,D,None,+,None
+"Tuesday, Aug 31",boxscore,CIN,None,BSN,L,1,3,10,67-53,2, 0.5,McQuillan,Eller,None,2:09,D,None,-,None
+"Wednesday, Sep 1",boxscore,CIN,None,BSN,W,6,3,None,68-53,1, Tied,Fisher,Scott,Luque,1:50,D,None,+,None
+"Thursday, Sep 2",boxscore,CIN,@,STL,W,3,2,None,69-53,1,up 0.5,Ring,Haines,None,1:48,D,None,++,None
+"Friday, Sep 3",boxscore,CIN,@,STL,W,12,5,None,70-53,1,up 0.5,Luque,Schupp,Brenton,2:02,D,None,+++,None
+"Saturday, Sep 4",boxscore,CIN,@,STL,L,2,4,None,70-54,2, 0.5,Doak,Ruether,None,1:43,D,None,-,None
+"Sunday, Sep 5",boxscore,CIN,@,STL,W,6,4,12,71-54,2, 0.5,Eller,Sherdel,None,2:15,D,None,+,None
+"Monday, Sep 6",boxscore,CIN,None,STL,W,5,3,None,72-54,1,up 1.5,Ring,Haines,None,1:44,D,None,++,None
+"Monday, Sep 6",boxscore,CIN,None,STL,W,4,2,None,73-54,1,up 1.5,Fisher,Schupp,Ruether,1:57,D,None,+++,None
+"Thursday, Sep 9",boxscore,CIN,@,BSN,W,6,4,None,74-54,2, 0.5,Eller,Scott,None,1:50,D,None,++++,None
+"Thursday, Sep 9",boxscore,CIN,@,BSN,L,7,11,None,74-55,2, 0.5,Townsend,Brenton,None,2:05,D,None,-,1920-06-18 (Rain)
+"Saturday, Sep 11",boxscore,CIN,@,BSN,L,4,5,None,74-56,2, 3.0,Townsend,Luque,None,1:43,D,None,--,None
+"Saturday, Sep 11",boxscore,CIN,@,BSN,L,0,2,None,74-57,2, 3.0,Oeschger,Fisher,None,1:41,D,None,---,1920-08-11 (Rain)
+"Monday, Sep 13",boxscore,CIN,@,PHI,L,2,6,None,74-58,2, 5.0,Rixey,Eller,None,1:26,D,None,----,None
+"Tuesday, Sep 14",boxscore,CIN,@,PHI,L,10,21,None,74-59,2, 5.0,Smith,Ring,None,2:10,D,None,-----,None
+"Wednesday, Sep 15",boxscore,CIN,@,PHI,W,3,2,None,75-59,2, 5.0,Luque,Meadows,None,1:58,D,None,+,None
+"Thursday, Sep 16",boxscore,CIN,@,BRO,L,3,5,None,75-60,2, 6.0,Grimes,Fisher,None,None,D,None,-,None
+"Friday, Sep 17",boxscore,CIN,@,BRO,L,2,3,None,75-61,3, 7.0,Cadore,Eller,None,None,D,"7,000",--,None
+"Saturday, Sep 18",boxscore,CIN,@,BRO,W,11,5,None,76-61,3, 6.0,Napier,Smith,None,None,D,"25,000",+,None
+"Sunday, Sep 19",boxscore,CIN,@,NYG,L,6,7,11,76-62,3, 7.0,Douglas,Coumbe,None,2:35,D,"38,000",-,None
+"Monday, Sep 20",boxscore,CIN,@,NYG,L,2,5,None,76-63,3, 7.5,Nehf,Fisher,None,None,D,None,--,None
+"Monday, Sep 20",boxscore,CIN,@,NYG,W,9,3,None,77-63,3, 7.5,Eller,Benton,None,None,D,"15,000",+,None
+"Tuesday, Sep 21",boxscore,CIN,@,NYG,L,0,1,None,77-64,3, 8.0,Toney,Napier,None,None,D,"6,000",-,None
+"Wednesday, Sep 22",boxscore,CIN,@,PIT,L,0,2,None,77-65,3, 9.5,Adams,Luque,None,1:25,D,None,--,1920-06-03 (Wet grounds)
+"Wednesday, Sep 22",boxscore,CIN,@,PIT,L,1,3,None,77-66,3, 9.5,Ponder,Ruether,None,1:42,D,None,---,1920-04-30 (Rain)
+"Thursday, Sep 23",boxscore,CIN,@,PIT,L,0,4,None,77-67,3, 10.0,Cooper,Eller,None,1:26,D,None,----,1920-06-04 (Rain)
+"Saturday, Sep 25",boxscore,CIN,None,CHC,L,0,2,None,77-68,3, 10.5,Alexander,Fisher,None,1:34,D,None,-----,None
+"Saturday, Sep 25",boxscore,CIN,None,CHC,L,1,7,None,77-69,3, 10.5,Vaughn,Ring,None,1:45,D,None,------,1920-09-24 (Rain)
+"Sunday, Sep 26",boxscore,CIN,None,PIT,W,8,0,None,78-69,3, 10.5,Napier,Adams,None,1:32,D,None,+,None
+"Tuesday, Sep 28",boxscore,CIN,None,PIT,W,2,0,None,79-69,3, 9.5,Eller,Cooper,None,1:17,D,None,++,1920-09-27 (Rain)
+"Tuesday, Sep 28",boxscore,CIN,None,PIT,W,5,3,None,80-69,3, 9.5,Brenton,Hamilton,None,1:35,D,None,+++,1920-04-20 (Rain)
+"Saturday, Oct 2",boxscore,CIN,@,PIT,W,13,4,None,81-69,3, 9.5,Fisher,Cooper,None,2:03,D,None,++++,1920-10-01 (Rain)
+"Saturday, Oct 2",boxscore,CIN,@,PIT,W,7,3,None,82-69,3, 9.5,Brenton,Zinn,None,1:56,D,None,+++++,1920-06-05 (Rain)
+"Saturday, Oct 2",boxscore,CIN,@,PIT,L,0,6,6,82-70,3, 9.5,Morrison,Napier,None,1:01,D,None,-,None
+"Sunday, Oct 3",boxscore,CIN,None,STL,L,3,6,12,82-71,3, 10.5,Sherdel,Swartz,None,1:59,D,None,--,None

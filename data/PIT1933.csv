@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 13",boxscore,PIT,@,CIN,W,5,2,None,2-0,1,up 0.5,French,Rixey,None,1:43,D,None,++,None
+"Saturday, Apr 15",boxscore,PIT,@,CHC,W,6,4,10,3-0,1,up 1.0,Harris,Grimes,None,None,D,None,+++,None
+"Tuesday, Apr 18",boxscore,PIT,@,CHC,L,1,3,None,3-1,1,up 0.5,Warneke,Swetonic,None,None,D,None,-,None
+"Friday, Apr 21",boxscore,PIT,None,CIN,W,5,1,None,4-1,1,up 1.0,Swift,Johnson,Harris,None,D,None,+,None
+"Saturday, Apr 22",boxscore,PIT,None,CIN,W,6,5,10,5-1,1,up 1.0,French,Smith,None,None,D,None,++,None
+"Sunday, Apr 23",boxscore,PIT,@,STL,W,4,0,None,6-1,1,up 2.5,Meine,Vance,None,1:56,D,None,+++,None
+"Sunday, Apr 23",boxscore,PIT,@,STL,W,6,2,None,7-1,1,up 2.5,Hoyt,Walker,None,2:05,D,None,++++,1933-04-24 (Schedule change)
+"Tuesday, Apr 25",boxscore,PIT,@,STL,L,3,10,None,7-2,1,up 1.0,Hallahan,Swetonic,None,1:48,D,None,-,None
+"Thursday, Apr 27",boxscore,PIT,None,CHC,L,2,3,None,7-3,2, 0.5,Bush,Swift,None,None,D,None,--,None
+"Friday, Apr 28",boxscore,PIT,None,STL,W,2,0,None,8-3,1, Tied,French,Mooney,None,None,D,None,+,None
+"Saturday, Apr 29",boxscore,PIT,None,STL,W,6,4,None,9-3,1, Tied,Meine,Walker,None,None,D,None,++,None
+"Sunday, Apr 30",boxscore,PIT,@,CIN,W,8,1,None,10-3,1,up 1.5,Hoyt,Johnson,None,1:41,D,None,+++,None
+"Monday, May 1",boxscore,PIT,@,PHI,W,10,0,None,11-3,1,up 2.0,Swift,Collins,None,None,D,None,++++,None
+"Tuesday, May 2",boxscore,PIT,@,PHI,L,5,6,None,11-4,1,up 2.0,Rhem,French,None,1:44,D,None,-,None
+"Thursday, May 4",boxscore,PIT,@,BRO,W,2,1,10,12-4,1,up 1.5,Meine,Clark,None,None,D,None,+,None
+"Friday, May 5",boxscore,PIT,@,BRO,W,4,2,None,13-4,1,up 2.5,Swift,Mungo,None,None,D,None,++,None
+"Monday, May 8",boxscore,PIT,@,BSN,W,3,0,None,14-4,1,up 2.5,French,Zachary,None,1:28,D,None,+++,None
+"Tuesday, May 9",boxscore,PIT,@,BSN,L,0,7,None,14-5,1,up 2.0,Frankhouse,Hoyt,None,None,D,None,-,None
+"Thursday, May 11",boxscore,PIT,@,NYG,W,7,6,None,15-5,1,up 3.0,Meine,Hubbell,Harris,None,D,None,+,None
+"Friday, May 12",boxscore,PIT,@,NYG,L,3,11,None,15-6,1,up 2.0,Schumacher,Swift,None,None,D,None,-,None
+"Saturday, May 13",boxscore,PIT,@,NYG,L,1,2,11,15-7,1,up 1.0,Luque,French,None,None,D,"6,000",--,None
+"Sunday, May 14",boxscore,PIT,@,NYG,L,1,5,None,15-8,1, Tied,Parmelee,Hoyt,None,None,D,None,---,None
+"Monday, May 15",boxscore,PIT,None,PHI,W,5,4,None,16-8,1,up 0.5,Meine,Elliott,None,None,D,None,+,None
+"Tuesday, May 16",boxscore,PIT,None,PHI,W,8,4,None,17-8,1,up 0.5,Swift,Moore,None,None,D,None,++,None
+"Wednesday, May 17",boxscore,PIT,None,PHI,W,6,4,None,18-8,1,up 1.0,Smith,Collins,None,None,D,None,+++,None
+"Thursday, May 18",boxscore,PIT,None,PHI,W,6,2,None,19-8,1,up 1.5,Swetonic,Rhem,None,None,D,None,++++,None
+"Friday, May 19",boxscore,PIT,None,BSN,L,3,5,None,19-9,1,up 1.5,Zachary,Hoyt,Seibold,None,D,None,-,None
+"Saturday, May 20",boxscore,PIT,None,BSN,L,2,4,None,19-10,1,up 2.0,Cantwell,Meine,None,1:55,D,None,--,None
+"Saturday, May 20",boxscore,PIT,None,BSN,W,7,6,None,20-10,1,up 2.0,Harris,Betts,None,2:02,D,None,+,1933-05-29 (Schedule change)
+"Monday, May 22",boxscore,PIT,None,BRO,L,0,3,None,20-11,1,up 2.0,Clark,French,None,None,D,None,-,None
+"Tuesday, May 23",boxscore,PIT,None,BRO,W,3,0,None,21-11,1,up 2.0,Swetonic,Carroll,None,None,D,None,+,None
+"Wednesday, May 24",boxscore,PIT,None,BRO,W,6,5,10,22-11,1,up 3.0,Chagnon,Mungo,None,2:10,D,"2,000",++,None
+"Friday, May 26",boxscore,PIT,None,NYG,L,5,6,None,22-12,1,up 2.0,Bell,Harris,None,None,D,None,-,None
+"Sunday, May 28",boxscore,PIT,@,CIN,W,4,2,None,23-12,1,up 1.5,French,Lucas,None,1:45,D,None,+,None
+"Sunday, May 28",boxscore,PIT,@,CIN,L,0,4,None,23-13,1,up 1.5,Rixey,Swetonic,None,1:58,D,"19,975",-,1933-04-14 (Rain)
+"Tuesday, May 30",boxscore,PIT,None,CHC,W,2,1,None,24-13,1,up 0.5,Swift,Grimes,None,1:49,D,None,+,None
+"Tuesday, May 30",boxscore,PIT,None,CHC,L,2,6,None,24-14,1,up 0.5,Malone,Meine,None,None,D,None,-,None
+"Wednesday, May 31",boxscore,PIT,None,CHC,L,1,5,None,24-15,1, Tied,Root,Swetonic,None,None,D,None,--,None
+"Saturday, Jun 3",boxscore,PIT,None,CIN,L,5,9,None,24-16,2, 1.0,Benton,Harris,None,2:02,D,None,---,None
+"Saturday, Jun 3",boxscore,PIT,None,CIN,L,4,5,None,24-17,2, 1.0,Kolp,Swift,Quinn,1:41,D,None,----,1933-04-20 (Rain)
+"Sunday, Jun 4",boxscore,PIT,@,CHC,W,9,3,None,25-17,3, 1.0,Swetonic,Grimes,Harris,None,D,None,+,None
+"Sunday, Jun 4",boxscore,PIT,@,CHC,L,2,9,None,25-18,3, 1.0,Malone,Meine,None,None,D,None,-,1933-04-16 (Rain)
+"Tuesday, Jun 6",boxscore,PIT,@,CHC,L,3,5,None,25-19,3, 2.0,Tinning,Chagnon,Bush,None,D,None,--,None
+"Wednesday, Jun 7",boxscore,PIT,@,CHC,L,2,7,None,25-20,3, 2.5,Bush,Swift,None,None,D,None,---,None
+"Thursday, Jun 8",boxscore,PIT,None,CIN,L,2,8,None,25-21,3, 3.5,Rixey,French,None,None,D,None,----,None
+"Friday, Jun 9",boxscore,PIT,None,CIN,W,2,0,None,26-21,3, 3.5,Swetonic,Derringer,None,None,D,None,+,None
+"Saturday, Jun 10",boxscore,PIT,None,CIN,W,4,3,None,27-21,3, 3.0,Swift,Kolp,None,1:45,D,None,++,None
+"Sunday, Jun 11",boxscore,PIT,@,STL,W,11,7,None,28-21,3, 1.5,Kremer,Carleton,Harris,None,D,None,+++,None
+"Sunday, Jun 11",boxscore,PIT,@,STL,W,3,0,None,29-21,3, 1.5,French,Walker,None,None,D,None,++++,1933-06-12 (Schedule change)
+"Tuesday, Jun 13",boxscore,PIT,@,STL,L,3,4,None,29-22,3, 2.5,Dean,Swetonic,None,1:55,D,None,-,None
+"Wednesday, Jun 14",boxscore,PIT,@,STL,L,2,3,None,29-23,3, 3.5,Hallahan,Meine,None,None,D,None,--,None
+"Thursday, Jun 15",boxscore,PIT,@,CHC,L,0,5,None,29-24,3, 3.5,Tinning,Smith,None,None,D,None,---,None
+"Friday, Jun 16",boxscore,PIT,@,CHC,L,1,9,None,29-25,3, 3.5,Bush,Swift,None,None,D,"26,000",----,None
+"Saturday, Jun 17",boxscore,PIT,None,CHC,W,4,3,None,30-25,3, 3.5,Swetonic,Malone,None,None,D,None,+,None
+"Sunday, Jun 18",boxscore,PIT,@,BSN,W,5,3,None,31-25,3, 3.0,Meine,Brandt,None,None,D,None,++,None
+"Sunday, Jun 18",boxscore,PIT,@,BSN,W,4,3,8,32-25,3, 3.0,French,Betts,None,None,D,None,+++,1933-05-10 (Rain)
+"Tuesday, Jun 20",boxscore,PIT,@,BSN,W,6,2,None,33-25,3, 2.5,Swift,Zachary,None,None,D,None,++++,None
+"Wednesday, Jun 21",boxscore,PIT,@,BSN,L,5,6,None,33-26,3, 4.0,Cantwell,Harris,Zachary,None,D,None,-,None
+"Wednesday, Jun 21",boxscore,PIT,@,BSN,L,3,5,None,33-27,3, 4.0,Mangum,Swetonic,None,None,D,None,--,1933-06-19 (Schedule change)
+"Thursday, Jun 22",boxscore,PIT,@,BRO,L,0,9,None,33-28,3, 5.0,Benge,Meine,None,None,D,"4,000",---,None
+"Friday, Jun 23",boxscore,PIT,@,BRO,L,4,5,None,33-29,3, 5.0,Carroll,French,Shaute,None,D,None,----,None
+"Saturday, Jun 24",boxscore,PIT,@,BRO,W,15,3,None,34-29,3, 5.0,Swift,Thurston,None,None,D,"10,000",+,None
+"Sunday, Jun 25",boxscore,PIT,@,BRO,W,5,2,None,35-29,3, 6.0,Chagnon,Mungo,None,1:45,D,None,++,None
+"Sunday, Jun 25",boxscore,PIT,@,BRO,L,1,9,None,35-30,3, 6.0,Beck,Hoyt,None,1:30,D,"25,000",-,1933-05-06 (Rain)
+"Wednesday, Jun 28",boxscore,PIT,@,NYG,W,5,2,None,36-30,3, 6.0,Swetonic,Hubbell,None,None,D,None,+,None
+"Wednesday, Jun 28",boxscore,PIT,@,NYG,L,4,7,10,36-31,3, 6.0,Uhle,French,None,None,D,"15,000",-,1933-06-26 (Rain)
+"Thursday, Jun 29",boxscore,PIT,@,PHI,L,4,6,None,36-32,3, 6.0,Elliott,Meine,Rhem,1:42,D,None,--,None
+"Friday, Jun 30",boxscore,PIT,@,PHI,L,4,5,None,36-33,3, 6.0,Pickrel,French,None,1:49,D,None,---,None
+"Saturday, Jul 1",boxscore,PIT,@,PHI,L,8,13,None,36-34,3, 6.5,Hansen,Chagnon,None,1:48,D,None,----,None
+"Saturday, Jul 1",boxscore,PIT,@,PHI,W,4,3,None,37-34,3, 6.5,Smith,Collins,None,2:12,D,None,+,1933-05-03 (Rain)
+"Tuesday, Jul 4",boxscore,PIT,None,STL,L,1,5,None,37-35,3, 7.0,Hallahan,Swetonic,None,None,D,None,-,None
+"Tuesday, Jul 4",boxscore,PIT,None,STL,W,4,2,None,38-35,3, 7.0,French,Mooney,None,None,D,None,+,None
+"Wednesday, Jul 5",boxscore,PIT,None,STL,W,7,6,None,39-35,3, 6.5,Hoyt,Johnson,French,None,D,"7,000",++,None
+"Saturday, Jul 8",boxscore,PIT,None,PHI,L,7,8,None,39-36,3, 5.5,Liska,Swetonic,Rhem,2:07,D,None,-,None
+"Saturday, Jul 8",boxscore,PIT,None,PHI,W,3,0,None,40-36,3, 5.5,Smith,Jackson,None,1:36,D,None,+,1933-07-07 (Schedule change)
+"Monday, Jul 10",boxscore,PIT,None,PHI,W,3,2,None,41-36,3, 4.0,French,Holley,None,None,D,None,++,None
+"Tuesday, Jul 11",boxscore,PIT,None,BSN,L,3,5,None,41-37,4, 4.0,Zachary,Swetonic,None,None,D,None,-,None
+"Wednesday, Jul 12",boxscore,PIT,None,BSN,W,9,8,10,42-37,4, 4.0,French,Betts,None,None,D,None,+,None
+"Thursday, Jul 13",boxscore,PIT,None,BSN,W,8,3,None,43-37,3, 4.0,Smith,Cantwell,None,None,D,None,++,None
+"Friday, Jul 14",boxscore,PIT,None,BSN,L,3,4,10,43-38,3, 5.0,Frankhouse,French,None,None,D,None,-,None
+"Monday, Jul 17",boxscore,PIT,None,BRO,W,14,2,None,44-38,3, 4.0,Swift,Carroll,None,None,D,"7,500",+,None
+"Monday, Jul 17",boxscore,PIT,None,BRO,W,7,0,None,45-38,3, 4.0,Swetonic,Benge,None,None,D,None,++,None
+"Tuesday, Jul 18",boxscore,PIT,None,BRO,W,11,8,None,46-38,3, 4.0,Hoyt,Thurston,None,None,D,"2,500",+++,None
+"Wednesday, Jul 19",boxscore,PIT,None,NYG,W,4,1,None,47-38,3, 4.0,French,Fitzsimmons,None,None,D,None,++++,None
+"Wednesday, Jul 19",boxscore,PIT,None,NYG,L,3,7,None,47-39,3, 4.0,Hubbell,Smith,None,None,D,"20,000",-,1933-05-25 (Wet grounds)
+"Thursday, Jul 20",boxscore,PIT,None,NYG,W,6,5,None,48-39,3, 3.0,Meine,Luque,None,None,D,None,+,None
+"Friday, Jul 21",boxscore,PIT,None,NYG,L,5,6,None,48-40,3, 4.0,Clark,Hoyt,None,None,D,"3,000",-,None
+"Saturday, Jul 22",boxscore,PIT,None,NYG,L,0,1,None,48-41,3, 4.0,Hubbell,French,None,None,D,"25,000",--,None
+"Saturday, Jul 22",boxscore,PIT,None,NYG,W,7,2,None,49-41,3, 4.0,Meine,Parmelee,None,2:05,D,"27,000",+,1933-05-27 (Wet grounds)
+"Sunday, Jul 23",boxscore,PIT,@,CIN,L,1,6,None,49-42,3, 5.5,Lucas,Swift,None,None,D,None,-,None
+"Sunday, Jul 23",boxscore,PIT,@,CIN,L,4,6,None,49-43,3, 5.5,Rixey,Chagnon,Kolp,None,D,None,--,1933-07-24 (Schedule change)
+"Tuesday, Jul 25",boxscore,PIT,None,CHC,W,4,3,None,50-43,3, 4.5,Swetonic,Bush,Hoyt,None,D,"8,000",+,None
+"Tuesday, Jul 25",boxscore,PIT,None,CHC,W,4,1,None,51-43,3, 4.5,Smith,Tinning,None,None,D,"10,000",++,1933-04-26 (Cold)
+"Thursday, Jul 27",boxscore,PIT,None,CHC,W,2,0,None,52-43,3, 5.5,French,Root,None,None,D,None,+++,None
+"Saturday, Jul 29",boxscore,PIT,None,CIN,W,9,8,None,53-43,2, 5.0,Harris,Benton,None,2:23,D,None,++++,None
+"Saturday, Jul 29",boxscore,PIT,None,CIN,W,6,4,None,54-43,2, 5.0,Chagnon,Rixey,Harris,1:50,D,None,+++++,1933-06-02 (Schedule change)
+"Sunday, Jul 30",boxscore,PIT,@,CIN,W,5,4,None,55-43,2, 3.5,Chagnon,Derringer,None,None,D,None,++++++,None
+"Sunday, Jul 30",boxscore,PIT,@,CIN,W,8,6,None,56-43,2, 3.5,Harris,Benton,Chagnon,None,D,None,+++++++,1933-09-30 (Schedule change)
+"Tuesday, Aug 1",boxscore,PIT,None,STL,W,9,3,None,57-43,2, 2.5,Swetonic,Walker,Hoyt,None,D,None,++++++++,None
+"Wednesday, Aug 2",boxscore,PIT,None,STL,L,3,4,12,57-44,2, 3.0,Haines,French,None,None,D,None,-,None
+"Thursday, Aug 3",boxscore,PIT,None,STL,L,1,4,6,57-45,2, 3.5,Dean,Swift,None,None,D,None,--,None
+"Friday, Aug 4",boxscore,PIT,None,STL,W,5,4,None,58-45,2, 3.5,Meine,Walker,None,None,D,None,+,None
+"Saturday, Aug 5",boxscore,PIT,@,CHC,W,6,2,None,59-45,2, 3.0,Smith,Warneke,None,None,D,None,++,None
+"Sunday, Aug 6",boxscore,PIT,@,CHC,L,0,6,None,59-46,2, 3.5,Malone,Swetonic,None,None,D,None,-,None
+"Friday, Aug 11",boxscore,PIT,None,CHC,L,2,8,None,59-47,3, 4.0,Bush,French,None,None,D,None,--,1933-07-26 (Threatening weather)
+"Saturday, Aug 12",boxscore,PIT,None,CHC,W,5,2,None,60-47,2, 3.5,Smith,Malone,None,None,D,None,+,None
+"Saturday, Aug 12",boxscore,PIT,None,CHC,W,3,2,None,61-47,2, 3.5,Meine,Root,None,None,D,None,++,1933-08-10 (Rain)
+"Sunday, Aug 13",boxscore,PIT,@,CHC,L,2,3,None,61-48,2, 3.5,Warneke,Swift,None,None,D,None,-,None
+"Wednesday, Aug 16",boxscore,PIT,@,BRO,L,1,2,11,61-49,2, 4.0,Mungo,French,None,None,D,"14,000",--,None
+"Wednesday, Aug 16",boxscore,PIT,@,BRO,W,11,7,None,62-49,2, 4.0,Swetonic,Carroll,Smith,None,D,None,+,1933-07-16 (Rain)
+"Saturday, Aug 19",boxscore,PIT,@,BSN,L,2,5,None,62-50,2, 6.0,Brandt,Meine,None,2:00,D,None,-,None
+"Sunday, Aug 20",boxscore,PIT,@,BSN,L,4,5,11,62-51,2, 7.5,Smith,Swetonic,None,None,D,None,--,None
+"Sunday, Aug 20",boxscore,PIT,@,BSN,L,1,8,None,62-52,2, 7.5,Cantwell,Swift,None,None,D,None,---,1933-08-21 (Rain)
+"Tuesday, Aug 22",boxscore,PIT,@,BSN,L,4,5,14,62-53,4, 8.0,Frankhouse,Hoyt,None,None,D,None,----,None
+"Friday, Aug 25",boxscore,PIT,@,NYG,L,5,8,11,62-54,5, 10.0,Luque,Swetonic,None,None,D,None,-----,None
+"Friday, Aug 25",boxscore,PIT,@,NYG,L,2,6,None,62-55,5, 10.0,Parmelee,Meine,None,None,D,None,------,1933-06-27 (Wet grounds)
+"Saturday, Aug 26",boxscore,PIT,@,NYG,L,1,2,None,62-56,4, 10.0,Hubbell,Smith,None,None,D,None,-------,None
+"Saturday, Aug 26",boxscore,PIT,@,NYG,W,7,2,None,63-56,4, 10.0,Birkofer,Clark,Hoyt,None,D,"45,000",+,1933-08-23 (Rain)
+"Monday, Aug 28",boxscore,PIT,@,PHI,W,9,5,None,64-56,4, 8.0,Chagnon,Elliott,None,None,D,None,++,None
+"Monday, Aug 28",boxscore,PIT,@,PHI,W,9,1,None,65-56,4, 8.0,French,Holley,None,None,D,None,+++,1933-07-03 (Schedule change)
+"Tuesday, Aug 29",boxscore,PIT,@,PHI,W,4,1,None,66-56,4, 7.5,Meine,Hansen,None,None,D,None,++++,None
+"Wednesday, Aug 30",boxscore,PIT,@,PHI,W,5,1,None,67-56,3, 7.5,Birkofer,Ragland,None,None,D,None,+++++,None
+"Thursday, Aug 31",boxscore,PIT,@,PHI,W,13,11,None,68-56,3, 6.5,Swetonic,Rhem,Hoyt,None,D,None,++++++,None
+"Friday, Sep 1",boxscore,PIT,None,STL,W,2,1,11,69-56,2, 7.0,French,Hallahan,None,None,D,None,+++++++,None
+"Saturday, Sep 2",boxscore,PIT,None,STL,W,4,1,None,70-56,2, 7.0,Meine,Walker,None,None,D,None,++++++++,None
+"Sunday, Sep 3",boxscore,PIT,@,CIN,L,3,9,None,70-57,2, 8.0,Lucas,Birkofer,None,None,D,None,-,None
+"Monday, Sep 4",boxscore,PIT,None,CIN,W,1,0,None,71-57,2, 7.5,Smith,Johnson,None,None,D,None,+,None
+"Tuesday, Sep 5",boxscore,PIT,None,NYG,W,6,1,None,72-57,2, 6.5,French,Hubbell,None,None,D,"5,000",++,None
+"Wednesday, Sep 6",boxscore,PIT,None,NYG,W,6,5,10,73-57,2, 6.5,Swift,Bell,None,None,D,None,+++,None
+"Wednesday, Sep 6",boxscore,PIT,None,NYG,L,1,9,None,73-58,2, 6.5,Schumacher,Birkofer,None,1:34,D,"20,000",-,1933-08-24 (Rain; Site change)
+"Thursday, Sep 7",boxscore,PIT,None,NYG,W,14,2,None,74-58,2, 5.5,Meine,Parmelee,None,None,D,"9,000",+,None
+"Friday, Sep 8",boxscore,PIT,None,NYG,L,1,2,None,74-59,2, 6.5,Hubbell,Smith,None,None,D,None,-,None
+"Saturday, Sep 9",boxscore,PIT,None,BRO,W,6,2,None,75-59,2, 7.0,French,Benge,None,None,D,None,+,None
+"Saturday, Sep 9",boxscore,PIT,None,BRO,L,7,8,None,75-60,2, 7.0,Carroll,Chagnon,Ryan,2:18,D,"9,000",-,1933-07-06 (Schedule change (All-Star Game))
+"Sunday, Sep 10",boxscore,PIT,@,BRO,W,2,1,None,76-60,3, 8.0,Swift,Beck,None,1:45,D,None,+,None
+"Sunday, Sep 10",boxscore,PIT,@,BRO,L,2,3,None,76-61,3, 8.0,Mungo,Harris,None,2:00,D,"15,000",-,1933-08-17 (Wet grounds)
+"Tuesday, Sep 12",boxscore,PIT,None,BRO,W,1,0,None,77-61,2, 7.5,Meine,Thurston,None,1:48,D,None,+,None
+"Tuesday, Sep 12",boxscore,PIT,None,BRO,W,2,0,None,78-61,2, 7.5,Hoyt,Leonard,None,None,D,"2,000",++,1933-07-15 (Rain)
+"Wednesday, Sep 13",boxscore,PIT,None,BSN,W,1,0,None,79-61,2, 6.5,French,Cantwell,None,1:25,D,None,+++,None
+"Friday, Sep 15",boxscore,PIT,None,BSN,L,1,10,None,79-62,2, 7.5,Brandt,Smith,None,None,D,None,-,None
+"Saturday, Sep 16",boxscore,PIT,None,BSN,L,4,6,None,79-63,2, 8.5,Betts,Swift,None,1:50,D,None,--,None
+"Saturday, Sep 16",boxscore,PIT,None,BSN,W,10,0,None,80-63,2, 8.5,Birkofer,Zachary,None,1:51,D,None,+,1933-09-14 (Rain)
+"Monday, Sep 18",boxscore,PIT,None,PHI,W,2,1,None,81-63,2, 8.5,Meine,Ragland,None,None,D,None,++,None
+"Monday, Sep 18",boxscore,PIT,None,PHI,L,0,6,None,81-64,2, 8.5,Holley,Hoyt,None,None,D,None,-,1933-09-20 (Schedule change)
+"Tuesday, Sep 19",boxscore,PIT,None,PHI,W,2,1,None,82-64,2, 8.0,French,Grabowski,None,None,D,None,+,None
+"Tuesday, Sep 19",boxscore,PIT,None,PHI,L,2,3,None,82-65,2, 8.0,Collins,Smith,None,None,D,None,-,1933-09-21 (Schedule change)
+"Wednesday, Sep 20",boxscore,PIT,None,BRO,W,3,0,None,83-65,2, 7.5,Swift,Beck,None,None,D,None,+,1933-09-11 (Rain)
+"Saturday, Sep 23",boxscore,PIT,@,STL,W,9,3,None,84-65,2, 6.0,Birkofer,Hallahan,None,2:10,D,None,++,None
+"Sunday, Sep 24",boxscore,PIT,@,STL,L,4,5,None,84-66,2, 6.0,Carleton,French,None,2:03,D,None,-,None
+"Sunday, Sep 24",boxscore,PIT,@,STL,W,5,4,10,85-66,2, 6.0,Chagnon,Dean,None,2:08,D,None,+,1933-09-22 (Rain)
+"Monday, Sep 25",boxscore,PIT,@,STL,L,3,6,None,85-67,2, 6.5,Walker,Smith,None,None,D,None,-,1933-09-26 (Schedule change)
+"Sunday, Oct 1",boxscore,PIT,@,CIN,W,7,5,None,86-67,2, 5.0,Swift,Lucas,None,1:44,D,None,+,None
+"Sunday, Oct 1",boxscore,PIT,@,CIN,W,6,5,10,87-67,2, 5.0,Swetonic,Kolp,None,1:56,D,None,++,1933-09-04 (Rain; Site change)

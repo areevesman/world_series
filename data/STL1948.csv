@@ -1,0 +1,155 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 21",boxscore,STL,None,CIN,W,5,2,None,2-0,1, Tied,Munger,Vander Meer,None,2:04,D,"4,045",++,None
+"Thursday, Apr 22",boxscore,STL,None,CIN,L,3,4,None,2-1,1, Tied,Gumbert,Hearn,None,2:08,D,"3,673",-,None
+"Friday, Apr 23",boxscore,STL,@,CHC,W,1,0,None,3-1,1, Tied,Brecheen,Schmitz,None,2:05,D,"26,591",+,None
+"Saturday, Apr 24",boxscore,STL,@,CHC,L,2,6,None,3-2,1, Tied,Chambers,Brazle,None,1:53,D,"28,862",-,None
+"Sunday, Apr 25",boxscore,STL,@,CHC,L,1,3,None,3-3,3, 1.5,Meyer,Dickson,None,1:49,D,"43,476",--,None
+"Thursday, Apr 29",boxscore,STL,@,CIN,L-wo,4,5,14,3-4,5, 2.5,Gumbert,Wilks,None,3:01,D,"2,232",---,None
+"Friday, Apr 30",boxscore,STL,@,CIN,W,13,7,None,4-4,3, 1.5,Brazle,Gumbert,None,2:38,D,"4,478",+,None
+"Saturday, May 1",boxscore,STL,None,CHC,W,4,0,None,5-4,3, 1.0,Brecheen,Chambers,None,1:49,N,"28,027",++,None
+"Sunday, May 2",boxscore,STL,None,CHC,L,4,13,None,5-5,4, 2.0,Chipman,Staley,None,2:49,D,"15,071",-,None
+"Monday, May 3",boxscore,STL,None,CHC,W,3,1,None,6-5,3, 1.5,Hearn,Schmitz,None,2:00,D,"3,755",+,None
+"Tuesday, May 4",boxscore,STL,None,BRO,W,5,4,None,7-5,3, 1.0,Brazle,Branca,None,2:27,N,"27,768",++,None
+"Friday, May 7",boxscore,STL,None,PHI,W,7,4,None,8-5,3, 0.5,Pollet,Judd,None,2:35,N,"11,329",+++,None
+"Saturday, May 8",boxscore,STL,None,PHI,W,5,0,None,9-5,2, 0.5,Brecheen,Donnelly,None,1:49,N,"15,471",++++,None
+"Sunday, May 9",boxscore,STL,None,BSN,W,6,4,None,10-5,1,up 0.5,Dickson,Spahn,Wilks,2:29,D,"14,212",+++++,None
+"Monday, May 10",boxscore,STL,None,BSN,L,0,6,None,10-6,1, Tied,Sain,Hearn,None,2:26,N,"10,226",-,None
+"Thursday, May 13",boxscore,STL,None,NYG,L,0,5,None,10-7,3, 1.0,Poat,Munger,None,2:08,D,"4,894",--,None
+"Friday, May 14",boxscore,STL,None,PIT,W,2,1,None,11-7,2, 0.5,Pollet,Ostermueller,None,2:08,N,"14,839",+,None
+"Saturday, May 15",boxscore,STL,None,PIT,W,8,3,None,12-7,1,up 0.5,Brecheen,Riddle,None,2:12,N,"10,086",++,None
+"Sunday, May 16",boxscore,STL,None,PIT,W-wo,6,5,10,13-7,1,up 1.0,Pollet,Gregg,None,2:12,D,"20,484",+++,None
+"Tuesday, May 18",boxscore,STL,@,BRO,W,4,3,None,14-7,1,up 1.5,Munger,Branca,None,2:02,D,"10,532",++++,None
+"Wednesday, May 19",boxscore,STL,@,BRO,W,14,7,None,15-7,1,up 1.5,Wilks,King,None,3:28,N,"32,888",+++++,None
+"Thursday, May 20",boxscore,STL,@,BRO,W,13,4,None,16-7,1,up 2.5,Pollet,Hatten,None,2:53,D,"11,953",++++++,None
+"Friday, May 21",boxscore,STL,@,BSN,L,1,3,None,16-8,1,up 2.5,Spahn,Brecheen,None,None,N,"22,917",-,None
+"Saturday, May 22",boxscore,STL,@,BSN,W,6,4,None,17-8,1,up 2.5,Dickson,Sain,None,2:00,D,"11,443",+,None
+"Sunday, May 23",boxscore,STL,@,PHI,W,18,3,None,18-8,1,up 3.0,Wilks,Donnelly,Burkhart,2:42,D,None,++,None
+"Sunday, May 23",boxscore,STL,@,PHI,W,4,1,None,19-8,1,up 3.0,Hearn,Leonard,None,2:07,D,"35,152",+++,None
+"Monday, May 24",boxscore,STL,@,PHI,L,2,6,None,19-9,1,up 2.5,Dubiel,Brazle,None,1:47,N,"13,968",-,None
+"Wednesday, May 26",boxscore,STL,@,NYG,L,7,10,None,19-10,1,up 1.5,Jones,Munger,Jansen,2:51,N,"44,128",--,None
+"Thursday, May 27",boxscore,STL,@,NYG,W,9,6,None,20-10,1,up 2.5,Hearn,Hartung,Wilks,3:22,D,"21,277",+,None
+"Friday, May 28",boxscore,STL,@,PIT,T,1,1,6,20-10,1,up 3.0,None,None,None,1:28,N,"24,029",+,None
+"Saturday, May 29",boxscore,STL,@,PIT,L,3,7,None,20-11,1,up 2.0,Chesnes,Munger,None,2:02,N,"15,336",-,None
+"Sunday, May 30",boxscore,STL,@,PIT,L,3,9,None,20-12,1,up 0.5,Higbe,Pollet,None,2:21,D,None,--,None
+"Sunday, May 30",boxscore,STL,@,PIT,L,6,7,None,20-13,1,up 0.5,Lombardi,Staley,None,2:35,D,"33,584",---,None
+"Monday, May 31",boxscore,STL,@,CIN,L,3,4,None,20-14,2, 0.5,Fox,Wilks,None,2:01,D,None,----,None
+"Monday, May 31",boxscore,STL,@,CIN,L,0,7,None,20-15,2, 0.5,Raffensberger,Dickson,None,1:44,D,"24,009",-----,None
+"Wednesday, Jun 2",boxscore,STL,None,BRO,L,3,5,None,20-16,2, 1.5,Hatten,Munger,None,2:25,N,"24,520",------,None
+"Thursday, Jun 3",boxscore,STL,None,BRO,W,4,1,None,21-16,2, 0.5,Brecheen,Roe,None,2:32,N,"18,849",+,None
+"Friday, Jun 4",boxscore,STL,None,BRO,L,0,1,None,21-17,2, 1.5,Branca,Pollet,None,2:29,N,"23,023",-,None
+"Saturday, Jun 5",boxscore,STL,None,BRO,W,9,6,None,22-17,2, 0.5,Dickson,Taylor,Wilks,2:27,D,"14,892",+,None
+"Sunday, Jun 6",boxscore,STL,None,PHI,W,11,1,None,23-17,1,up 0.5,Hearn,Heintzelman,None,2:06,D,None,++,None
+"Sunday, Jun 6",boxscore,STL,None,PHI,W,2,0,None,24-17,1,up 0.5,Brazle,Strincevich,None,1:48,D,"22,450",+++,1948-05-06 (Rain)
+"Monday, Jun 7",boxscore,STL,None,PHI,L,1,5,None,24-18,2, 0.5,Leonard,Munger,None,1:53,N,"10,091",-,None
+"Tuesday, Jun 8",boxscore,STL,None,PHI,W,7,5,None,25-18,1, Tied,Brecheen,Nahem,Wilks,2:16,N,"12,484",+,None
+"Wednesday, Jun 9",boxscore,STL,None,BSN,L,5,11,None,25-19,2, 0.5,Spahn,Pollet,None,2:53,N,"14,234",-,None
+"Thursday, Jun 10",boxscore,STL,None,BSN,L,2,10,None,25-20,2, 0.5,Sain,Dickson,None,2:14,N,"13,388",--,None
+"Friday, Jun 11",boxscore,STL,None,BSN,L,3,7,None,25-21,3, 1.0,Voiselle,Brazle,White,2:27,N,"16,143",---,None
+"Saturday, Jun 12",boxscore,STL,None,NYG,L,5,7,None,25-22,4, 1.5,Jones,Dickson,None,2:29,D,"13,228",----,None
+"Sunday, Jun 13",boxscore,STL,None,NYG,L,7,8,None,25-23,4, 1.5,Jansen,Brecheen,Hartung,3:05,D,None,-----,None
+"Sunday, Jun 13",boxscore,STL,None,NYG,W,3,2,None,26-23,4, 1.5,Munger,Koslo,Brecheen,2:07,D,"32,168",+,None
+"Tuesday, Jun 15",boxscore,STL,@,PHI,W,2,1,None,27-23,4, 1.5,Wilks,Leonard,None,2:17,N,"23,013",++,None
+"Thursday, Jun 17",boxscore,STL,@,PHI,W,4,1,None,28-23,3, 1.5,Brecheen,Simmons,Wilks,2:28,N,"17,119",+++,1948-06-16 (Rain)
+"Friday, Jun 18",boxscore,STL,@,NYG,W,12,8,None,29-23,3, 1.5,Pollet,Hansen,Wilks,3:07,D,"14,279",++++,None
+"Saturday, Jun 19",boxscore,STL,@,NYG,L,1,10,None,29-24,3, 2.5,Hartung,Munger,None,2:17,D,"19,538",-,None
+"Sunday, Jun 20",boxscore,STL,@,NYG,W,7,2,None,30-24,3, 3.5,Dickson,Kennedy,None,2:01,D,None,+,None
+"Sunday, Jun 20",boxscore,STL,@,NYG,L,4,6,None,30-25,3, 3.5,Koslo,Dickson,Jansen,2:29,D,"50,623",-,None
+"Monday, Jun 21",boxscore,STL,@,BSN,W,1,0,None,31-25,3, 2.5,Brazle,Spahn,None,2:06,D,"30,308",+,None
+"Tuesday, Jun 22",boxscore,STL,@,BSN,W,5,2,None,32-25,3, 1.5,Brecheen,Voiselle,None,2:25,N,"29,064",++,None
+"Thursday, Jun 24",boxscore,STL,@,BSN,W,11,2,None,33-25,2, 0.5,Pollet,Sain,None,2:27,N,"10,122",+++,None
+"Friday, Jun 25",boxscore,STL,@,BRO,L,2,3,None,33-26,2, 1.5,Branca,Munger,None,2:23,N,"25,828",-,None
+"Saturday, Jun 26",boxscore,STL,@,BRO,W,6,3,None,34-26,2, 0.5,Dickson,Hatten,None,2:33,D,"19,760",+,None
+"Sunday, Jun 27",boxscore,STL,@,BRO,W,6,4,8,35-26,2, 0.5,Brazle,Roe,Wilks,2:54,D,"22,871",++,None
+"Tuesday, Jun 29",boxscore,STL,@,CHC,L,1,3,None,35-27,2, 0.5,Schmitz,Brecheen,None,2:12,N,"17,156",-,None
+"Wednesday, Jun 30",boxscore,STL,@,CHC,L,1,9,None,35-28,2, 1.5,Hamner,Hearn,None,2:24,D,"19,140",--,None
+"Thursday, Jul 1",boxscore,STL,@,CHC,L,3,4,None,35-29,2, 2.5,Dobernic,Dickson,None,2:26,D,"17,256",---,None
+"Friday, Jul 2",boxscore,STL,@,CIN,L,3,7,None,35-30,2, 3.5,Vander Meer,Pollet,None,1:50,N,"26,636",----,None
+"Sunday, Jul 4",boxscore,STL,@,CIN,L,6,8,None,35-31,3, 3.0,Blackwell,Wilks,Gumbert,2:21,D,None,-----,None
+"Sunday, Jul 4",boxscore,STL,@,CIN,W,8,1,None,36-31,3, 3.0,Brecheen,Raffensberger,None,2:06,D,"29,564",+,None
+"Monday, Jul 5",boxscore,STL,None,CHC,W,6,3,None,37-31,2, 2.0,Staley,Schmitz,None,2:04,D,None,++,None
+"Monday, Jul 5",boxscore,STL,None,CHC,W,5,2,6,38-31,2, 2.0,Staley,Hamner,None,1:26,N,"30,534",+++,None
+"Tuesday, Jul 6",boxscore,STL,None,CHC,L,10,12,8,38-32,2, 3.0,Dobernic,Papai,Schmitz,2:56,N,"13,033",-,None
+"Wednesday, Jul 7",boxscore,STL,None,PIT,L,1,2,None,38-33,3, 3.0,Chesnes,Brazle,None,2:07,N,"14,255",--,None
+"Thursday, Jul 8",boxscore,STL,None,PIT,L,4,6,None,38-34,3, 4.0,Ostermueller,Staley,Higbe,2:29,N,"15,035",---,None
+"Friday, Jul 9",boxscore,STL,None,CIN,W,6,4,None,39-34,3, 4.0,Staley,Peterson,None,2:17,N,"14,651",+,None
+"Saturday, Jul 10",boxscore,STL,None,CIN,L,3,4,None,39-35,3, 5.0,Vander Meer,Dickson,None,2:32,N,"15,632",-,None
+"Sunday, Jul 11",boxscore,STL,None,CIN,L,0,1,None,39-36,3, 6.0,Raffensberger,Brazle,None,1:45,D,"13,009",--,None
+"Thursday, Jul 15",boxscore,STL,None,PHI,L,1,3,None,39-37,3, 7.0,Leonard,Brecheen,None,1:52,N,"11,550",---,None
+"Friday, Jul 16",boxscore,STL,None,PHI,W,8,2,None,40-37,3, 7.0,Munger,Simmons,Wilks,2:02,N,"11,000",+,None
+"Saturday, Jul 17",boxscore,STL,None,PHI,L,10,11,None,40-38,3, 7.0,Heintzelman,Staley,Dubiel,2:39,D,"6,498",-,None
+"Sunday, Jul 18",boxscore,STL,None,BRO,W-wo,6,3,11,41-38,2, 8.0,Brazle,Palica,None,2:51,D,None,+,None
+"Sunday, Jul 18",boxscore,STL,None,BRO,L,4,13,None,41-39,2, 8.0,Behrman,Hearn,None,2:18,D,"32,761",-,None
+"Wednesday, Jul 21",boxscore,STL,None,NYG,W,8,4,None,42-39,3, 7.0,Brecheen,Poat,None,2:26,N,"19,354",+,None
+"Thursday, Jul 22",boxscore,STL,None,NYG,L,3,6,None,42-40,3, 7.0,Jones,Dickson,None,2:10,D,None,-,None
+"Thursday, Jul 22",boxscore,STL,None,NYG,W-wo,7,6,11,43-40,3, 7.0,Wilks,Trinkle,None,3:08,D,"15,006",+,1948-05-12 (Rain)
+"Friday, Jul 23",boxscore,STL,None,BSN,W,7,5,None,44-40,3, 6.0,Brazle,Sain,None,2:15,N,"19,571",++,None
+"Saturday, Jul 24",boxscore,STL,None,BSN,W,4,3,10,45-40,2, 5.0,Dickson,Voiselle,None,2:33,N,"23,989",+++,None
+"Sunday, Jul 25",boxscore,STL,None,BSN,W-wo,6,5,None,46-40,2, 5.0,Hearn,Hogue,None,2:29,D,None,++++,None
+"Sunday, Jul 25",boxscore,STL,None,BSN,L,6,8,None,46-41,2, 5.0,Sain,Dickson,None,2:24,D,"31,150",-,1948-05-11 (Rain)
+"Tuesday, Jul 27",boxscore,STL,@,BRO,L-wo,2,3,None,46-42,3, 6.0,Erskine,Pollet,None,2:24,D,"21,918",--,None
+"Wednesday, Jul 28",boxscore,STL,@,BRO,L,4,12,None,46-43,3, 7.0,Roe,Johnson,Behrman,2:35,D,"19,491",---,None
+"Thursday, Jul 29",boxscore,STL,@,BRO,L,6,9,None,46-44,4, 8.0,Barney,Dickson,Behrman,2:53,D,"22,144",----,None
+"Friday, Jul 30",boxscore,STL,@,BSN,W,6,2,None,47-44,4, 7.0,Brecheen,Sain,None,2:11,N,"37,071",+,None
+"Saturday, Jul 31",boxscore,STL,@,BSN,L-wo,6,7,None,47-45,4, 8.0,Hogue,Hearn,None,2:45,N,"31,841",-,None
+"Sunday, Aug 1",boxscore,STL,@,BSN,W,9,6,None,48-45,4, 7.0,Pollet,Potter,Wilks,2:11,D,"26,324",+,None
+"Monday, Aug 2",boxscore,STL,@,NYG,W,21,5,None,49-45,3, 6.0,Dickson,Poat,None,2:47,D,"20,466",++,1948-05-25 (Rain)
+"Wednesday, Aug 4",boxscore,STL,@,NYG,W,7,2,None,50-45,2, 4.0,Munger,Jones,None,2:34,D,"15,361",+++,None
+"Wednesday, Aug 4",boxscore,STL,@,NYG,W,3,0,None,51-45,2, 4.0,Brecheen,Jansen,None,1:56,N,"31,529",++++,1948-08-03 (Rain)
+"Friday, Aug 6",boxscore,STL,@,PHI,W,6,2,None,52-45,2, 3.5,Pollet,Leonard,None,2:20,D,"18,176",+++++,None
+"Saturday, Aug 7",boxscore,STL,@,PHI,L,2,6,None,52-46,2, 4.5,Roberts,Brazle,None,2:22,D,"2,871",-,None
+"Sunday, Aug 8",boxscore,STL,@,PHI,W,4,1,None,53-46,2, 4.0,Dickson,Simmons,None,2:05,D,None,+,None
+"Sunday, Aug 8",boxscore,STL,@,PHI,W,4,3,None,54-46,2, 4.0,Munger,Heintzelman,Wilks,1:52,D,"27,457",++,None
+"Monday, Aug 9",boxscore,STL,@,CIN,W,6,2,None,55-46,2, 3.5,Brecheen,Raffensberger,None,2:11,N,"22,718",+++,None
+"Wednesday, Aug 11",boxscore,STL,@,CIN,W,9,4,None,56-46,2, 3.0,Pollet,Vander Meer,Wilks,2:26,D,"6,428",++++,None
+"Thursday, Aug 12",boxscore,STL,@,PIT,L-wo,2,3,None,56-47,2, 4.0,Lombardi,Dickson,None,2:12,N,"26,004",-,1948-04-27 (Rain)
+"Friday, Aug 13",boxscore,STL,@,PIT,L,4,5,None,56-48,3, 4.0,Chesnes,Wilks,None,2:28,N,"34,893",--,None
+"Saturday, Aug 14",boxscore,STL,@,PIT,W,6,3,None,57-48,2, 4.0,Brecheen,Ostermueller,None,2:20,D,"22,283",+,None
+"Sunday, Aug 15",boxscore,STL,@,PIT,W,8,3,None,58-48,3, 3.5,Wilks,Higbe,None,2:15,D,None,++,None
+"Sunday, Aug 15",boxscore,STL,@,PIT,L,4,5,None,58-49,3, 3.5,Bonham,Dickson,None,2:34,D,"37,767",-,None
+"Monday, Aug 16",boxscore,STL,@,CHC,W,9,7,None,59-49,3, 2.5,Johnson,Hamner,Wilks,2:38,D,"16,447",+,None
+"Tuesday, Aug 17",boxscore,STL,@,CHC,L,2,4,None,59-50,3, 3.5,Schmitz,Munger,None,2:00,D,"12,003",-,None
+"Wednesday, Aug 18",boxscore,STL,None,CIN,W-wo,4,3,None,60-50,3, 2.5,Dickson,Peterson,None,2:14,N,"16,776",+,None
+"Thursday, Aug 19",boxscore,STL,None,CIN,W,4,0,None,61-50,3, 2.0,Brecheen,Raffensberger,None,1:48,D,"9,483",++,None
+"Friday, Aug 20",boxscore,STL,None,PIT,W,7,4,None,62-50,3, 1.5,Staley,Ostermueller,Brazle,2:00,N,"21,580",+++,None
+"Saturday, Aug 21",boxscore,STL,None,PIT,W,9,2,None,63-50,2, 1.0,Munger,Bonham,None,2:33,N,"22,387",++++,None
+"Sunday, Aug 22",boxscore,STL,None,PIT,L,1,4,10,63-51,2, 2.0,Riddle,Dickson,Lombardi,2:39,D,"18,578",-,None
+"Tuesday, Aug 24",boxscore,STL,None,BSN,L,3,9,None,63-52,2, 3.5,Sain,Brecheen,None,2:30,N,"31,434",--,None
+"Wednesday, Aug 25",boxscore,STL,None,BSN,L,0,2,None,63-53,2, 4.5,Spahn,Pollet,None,2:22,N,"22,765",---,None
+"Thursday, Aug 26",boxscore,STL,None,NYG,W,7,2,None,64-53,2, 2.5,Dickson,Jansen,None,2:00,D,"10,231",+,None
+"Thursday, Aug 26",boxscore,STL,None,NYG,W,7,5,None,65-53,2, 2.5,Johnson,Trinkle,None,2:41,N,"13,139",++,1948-07-20 (Rain)
+"Saturday, Aug 28",boxscore,STL,None,NYG,W,5,4,12,66-53,2, 1.5,Hearn,Kennedy,None,3:12,D,None,+++,None
+"Saturday, Aug 28",boxscore,STL,None,NYG,W-wo,7,6,None,67-53,2, 1.5,Hearn,Jones,None,2:26,D,"22,179",++++,1948-08-27 (Rain)
+"Sunday, Aug 29",boxscore,STL,None,BRO,L,7,12,None,67-54,3, 1.5,Minner,Brecheen,Behrman,2:32,D,None,-,None
+"Sunday, Aug 29",boxscore,STL,None,BRO,L,4,6,10,67-55,3, 1.5,Casey,Munger,None,2:51,D,"33,826",--,1948-05-05 (Rain)
+"Monday, Aug 30",boxscore,STL,None,BRO,L,5,6,None,67-56,4, 3.0,Palica,Wilks,Casey,2:33,D,None,---,None
+"Monday, Aug 30",boxscore,STL,None,BRO,L,1,6,None,67-57,4, 3.0,Hatten,Johnson,None,2:33,D,None,----,1948-07-19 (Rain)
+"Tuesday, Aug 31",boxscore,STL,None,PHI,W,5,0,None,68-57,4, 2.0,Munger,Heintzelman,None,1:47,N,"20,998",+,None
+"Wednesday, Sep 1",boxscore,STL,None,PHI,W,4,2,None,69-57,3, 1.5,Hearn,Roberts,Dickson,2:02,N,"14,071",++,None
+"Saturday, Sep 4",boxscore,STL,@,CIN,L,1,3,None,69-58,2, 2.5,Raffensberger,Brecheen,None,1:56,D,"5,361",-,None
+"Sunday, Sep 5",boxscore,STL,@,CIN,W,5,1,None,70-58,2, 2.5,Pollet,Peterson,None,2:09,D,"10,880",+,None
+"Monday, Sep 6",boxscore,STL,@,PIT,L,1,2,None,70-59,3, 4.5,Chesnes,Dickson,None,1:44,D,None,-,None
+"Monday, Sep 6",boxscore,STL,@,PIT,L,1,4,None,70-60,3, 4.5,Lombardi,Munger,None,1:44,D,None,--,None
+"Tuesday, Sep 7",boxscore,STL,@,PIT,L,2,6,None,70-61,4, 5.0,Ostermueller,Hearn,None,2:14,N,"36,136",---,None
+"Wednesday, Sep 8",boxscore,STL,None,CHC,L,2,4,None,70-62,4, 5.5,Schmitz,Johnson,None,1:46,N,"10,546",----,None
+"Thursday, Sep 9",boxscore,STL,None,CHC,W,4,0,None,71-62,4, 5.0,Brecheen,Borowy,None,2:05,N,"11,403",+,None
+"Friday, Sep 10",boxscore,STL,None,CIN,W,6,5,None,72-62,4, 4.5,Pollet,Gumbert,None,2:17,N,"10,683",++,None
+"Saturday, Sep 11",boxscore,STL,None,CIN,L,2,3,None,72-63,3, 6.0,Vander Meer,Johnson,Gumbert,2:15,N,"15,577",-,None
+"Sunday, Sep 12",boxscore,STL,None,CIN,W,7,6,None,73-63,3, 5.5,Pollet,Blackburn,Wilks,2:08,D,"18,391",+,None
+"Tuesday, Sep 14",boxscore,STL,@,PHI,W,8,0,None,74-63,3, 5.5,Brecheen,Heintzelman,None,1:57,D,"10,345",++,None
+"Wednesday, Sep 15",boxscore,STL,@,PHI,W,2,0,None,75-63,3, 5.5,Munger,Roberts,None,1:46,D,"3,887",+++,None
+"Friday, Sep 17",boxscore,STL,@,BRO,W,4,2,None,76-63,3, 5.5,Pollet,Barney,None,2:29,D,"9,315",++++,None
+"Saturday, Sep 18",boxscore,STL,@,BRO,L-wo,2,3,None,76-64,3, 6.5,Minner,Wilks,None,2:08,D,"19,566",-,None
+"Sunday, Sep 19",boxscore,STL,@,NYG,W,4,3,None,77-64,2, 6.0,Dickson,Kennedy,None,2:02,D,None,+,None
+"Sunday, Sep 19",boxscore,STL,@,NYG,W,3,1,7,78-64,2, 6.0,Brecheen,Poat,None,1:35,D,"34,113",++,1948-08-05 (Rain)
+"Tuesday, Sep 21",boxscore,STL,@,BSN,L,3,11,None,78-65,3, 8.0,Sain,Munger,None,2:12,D,"24,321",-,None
+"Tuesday, Sep 21",boxscore,STL,@,BSN,L,0,4,None,78-66,3, 8.0,Bickford,Pollet,None,1:47,D,"24,321",--,1948-06-23 (Rain)
+"Wednesday, Sep 22",boxscore,STL,@,BSN,W,8,2,None,79-66,2, 7.0,Brazle,Spahn,None,1:54,D,"10,937",+,None
+"Friday, Sep 24",boxscore,STL,@,CHC,W,4,1,None,80-66,2, 6.5,Brecheen,Chambers,None,1:50,D,"5,480",++,None
+"Saturday, Sep 25",boxscore,STL,@,CHC,L-wo,2,3,None,80-67,3, 6.5,Lade,Pollet,None,2:02,D,"14,750",-,None
+"Sunday, Sep 26",boxscore,STL,@,CHC,W,5,2,None,81-67,3, 6.5,Brazle,Rush,None,1:43,D,"31,876",+,None
+"Wednesday, Sep 29",boxscore,STL,None,PIT,L,1,2,None,81-68,4, 7.0,Lombardi,Dickson,None,2:06,D,"5,977",-,None
+"Thursday, Sep 30",boxscore,STL,None,PIT,W,6,1,None,82-68,2, 6.0,Munger,Chesnes,None,1:31,D,"2,060",+,None
+"Thursday, Sep 30",boxscore,STL,None,PIT,W,4,1,None,83-68,2, 6.0,Brecheen,Ostermueller,None,1:59,N,"8,597",++,1948-09-28 (Rain)
+"Friday, Oct 1",boxscore,STL,None,CHC,W,6,4,None,84-68,2, 6.0,Wilks,Lade,None,2:04,N,"8,090",+++,None
+"Saturday, Oct 2",boxscore,STL,None,CHC,W,9,0,None,85-68,2, 5.5,Brazle,Borowy,Hearn,1:56,N,"10,618",++++,None
+"Sunday, Oct 3",boxscore,STL,None,CHC,L,3,4,None,85-69,2, 6.5,McCall,Dickson,Chipman,2:00,D,"18,086",-,None

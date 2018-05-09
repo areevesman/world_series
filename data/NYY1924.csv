@@ -1,0 +1,153 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 16",boxscore,NYY,@,BOS,L,6,9,None,1-1,2, 1.0,Quinn,Jones,None,2:00,D,None,-,None
+"Thursday, Apr 17",boxscore,NYY,@,BOS,L,1,9,None,1-2,5, 1.5,Ferguson,Hoyt,None,2:05,D,"3,000",--,None
+"Saturday, Apr 19",boxscore,NYY,@,WSH,L,2,7,None,1-3,7, 2.0,Martina,Pennock,None,2:05,D,"7,000",---,None
+"Sunday, Apr 20",boxscore,NYY,@,WSH,L,3,12,None,1-4,7, 3.0,Johnson,Shawkey,None,2:12,D,"20,000",----,None
+"Monday, Apr 21",boxscore,NYY,@,WSH,W,4,2,None,2-4,6, 2.5,Bush,Mogridge,None,2:03,D,"7,500",+,None
+"Tuesday, Apr 22",boxscore,NYY,@,WSH,W,6,3,None,3-4,5, 2.5,Hoyt,Zahniser,None,2:05,D,"2,500",++,None
+"Wednesday, Apr 23",boxscore,NYY,None,BOS,W,13,4,None,4-4,4, 1.5,Pennock,Ehmke,None,2:12,D,"46,584",+++,None
+"Thursday, Apr 24",boxscore,NYY,None,BOS,W,6,3,None,5-4,3, 1.5,Shawkey,Ferguson,None,2:12,D,"7,000",++++,None
+"Friday, Apr 25",boxscore,NYY,None,BOS,W,5,2,None,6-4,3, 0.5,Bush,Piercy,None,1:50,D,"6,000",+++++,None
+"Saturday, Apr 26",boxscore,NYY,None,BOS,W,4,3,11,7-4,2, 0.5,Hoyt,Quinn,None,2:15,D,"25,000",++++++,None
+"Sunday, Apr 27",boxscore,NYY,None,PHA,W,11,2,None,8-4,2, 0.5,Pennock,Burns,None,1:45,D,"50,000",+++++++,None
+"Monday, Apr 28",boxscore,NYY,@,PHA,W,11,6,None,9-4,2, 0.5,Shawkey,Heimach,Jones,2:10,D,"10,000",++++++++,None
+"Thursday, May 1",boxscore,NYY,None,WSH,L,2,3,None,9-5,1, Tied,Johnson,Hoyt,Marberry,2:08,D,None,-,None
+"Friday, May 2",boxscore,NYY,None,WSH,L,4,6,None,9-6,1, Tied,Mogridge,Pennock,None,2:07,D,None,--,None
+"Saturday, May 3",boxscore,NYY,None,WSH,W,5,4,None,10-6,1,up 0.5,Bush,Martina,None,1:52,D,"20,000",+,None
+"Monday, May 5",boxscore,NYY,None,PHA,W,10,5,None,11-6,1,up 1.5,Shawkey,Hasty,None,2:04,D,"6,000",++,None
+"Tuesday, May 6",boxscore,NYY,None,PHA,W,3,2,None,12-6,1,up 1.5,Hoyt,Rommel,None,1:45,D,"6,000",+++,None
+"Wednesday, May 7",boxscore,NYY,None,PHA,W,7,4,None,13-6,1,up 2.0,Pennock,Naylor,Hoyt,2:05,D,"6,000",++++,None
+"Saturday, May 10",boxscore,NYY,None,CHW,W,2,1,10,14-6,1,up 3.0,Jones,Thurston,None,1:57,D,"5,000",+++++,None
+"Tuesday, May 13",boxscore,NYY,None,CHW,L,5,7,None,14-7,1,up 2.5,Lyons,Shawkey,Blankenship,2:21,D,"7,000",-,None
+"Wednesday, May 14",boxscore,NYY,None,SLB,L,1,11,None,14-8,1,up 1.5,Shocker,Hoyt,None,2:00,D,"25,000",--,None
+"Thursday, May 15",boxscore,NYY,None,SLB,L,1,2,None,14-9,1,up 0.5,Wingard,Pennock,None,1:45,D,"10,000",---,None
+"Saturday, May 17",boxscore,NYY,None,SLB,W,7,2,None,15-9,1,up 1.5,Jones,Danforth,None,1:46,D,"42,000",+,None
+"Sunday, May 18",boxscore,NYY,None,CLE,W,8,0,None,16-9,1,up 1.5,Shawkey,Uhle,None,2:00,D,"40,000",++,None
+"Thursday, May 22",boxscore,NYY,None,CLE,W,6,3,None,17-9,1,up 1.5,Hoyt,Edwards,None,1:38,D,"15,000",+++,None
+"Friday, May 23",boxscore,NYY,None,DET,W,7,6,None,18-9,1,up 1.5,Shawkey,Cole,None,2:38,D,"14,000",++++,None
+"Saturday, May 24",boxscore,NYY,None,DET,L,3,7,None,18-10,1,up 0.5,Holloway,Pennock,None,2:05,D,"23,000",-,None
+"Sunday, May 25",boxscore,NYY,None,DET,L,5,6,None,18-11,1, Tied,Holloway,Shawkey,None,2:54,D,"45,000",--,None
+"Monday, May 26",boxscore,NYY,None,DET,W,8,2,None,19-11,1, Tied,Bush,Stoner,None,1:55,D,"12,000",+,None
+"Wednesday, May 28",boxscore,NYY,@,WSH,W,7,4,None,20-11,1, Tied,Hoyt,Russell,None,2:15,D,"2,500",++,None
+"Wednesday, May 28",boxscore,NYY,@,WSH,L,1,6,None,20-12,1, Tied,Zachary,Shawkey,None,1:58,D,"4,000",-,1924-05-27 (Rain)
+"Friday, May 30",boxscore,NYY,None,PHA,W,6,0,None,21-12,1, Tied,Pennock,Harriss,None,1:35,D,"15,000",+,None
+"Friday, May 30",boxscore,NYY,None,PHA,L,4,5,None,21-13,1, Tied,Baumgartner,Jones,None,1:55,D,"50,000",-,None
+"Saturday, May 31",boxscore,NYY,None,PHA,W,5,0,None,22-13,1,up 0.5,Bush,Naylor,None,1:31,D,"13,000",+,None
+"Saturday, May 31",boxscore,NYY,None,PHA,L,3,5,None,22-14,1,up 0.5,Gray,Hoyt,None,2:05,D,"26,000",-,1924-05-08 (Rain)
+"Tuesday, Jun 3",boxscore,NYY,@,CHW,W,6,3,None,23-14,1,up 0.5,Pennock,Thurston,None,1:57,D,"13,000",+,None
+"Wednesday, Jun 4",boxscore,NYY,@,CHW,L,3,4,None,23-15,2, 0.5,Lyons,Bush,None,2:02,D,"9,000",-,None
+"Friday, Jun 6",boxscore,NYY,@,CHW,W,5,3,None,24-15,1,up 1.0,Jones,McWeeny,Pennock,1:46,D,"20,000",+,None
+"Saturday, Jun 7",boxscore,NYY,@,SLB,L,3,6,None,24-16,1, Tied,Shocker,Shawkey,None,1:42,D,"20,000",-,None
+"Sunday, Jun 8",boxscore,NYY,@,SLB,L,0,5,None,24-17,1, Tied,Danforth,Pennock,None,1:58,D,"25,000",--,None
+"Monday, Jun 9",boxscore,NYY,@,SLB,L,3,5,None,24-18,2, 1.0,Wingard,Jones,None,1:44,D,"15,000",---,None
+"Tuesday, Jun 10",boxscore,NYY,@,SLB,W,5,0,None,25-18,1, Tied,Hoyt,Davis,None,1:32,D,"24,000",+,None
+"Wednesday, Jun 11",boxscore,NYY,@,DET,L,2,7,None,25-19,1, Tied,Whitehill,Bush,None,2:13,D,"18,000",-,None
+"Thursday, Jun 12",boxscore,NYY,@,DET,W,10,4,None,26-19,1, Tied,Pennock,Cole,None,2:18,D,"18,000",+,None
+"Friday, Jun 13",boxscore,NYY,@,DET,*V,10,6,9,27-19,1, Tied,Gaston,Cole,None,2:06,D,"18,000",++,None
+"Saturday, Jun 14",boxscore,NYY,@,DET,W,6,2,None,28-19,1,up 1.0,Hoyt,Collins,None,2:05,D,"40,000",+++,None
+"Sunday, Jun 15",boxscore,NYY,@,CLE,L,3,10,None,28-20,1,up 1.0,Shaute,Shawkey,None,2:00,D,"30,000",-,None
+"Monday, Jun 16",boxscore,NYY,@,CLE,L,1,2,None,28-21,1,up 1.0,Coveleski,Bush,None,1:50,D,"10,000",--,None
+"Tuesday, Jun 17",boxscore,NYY,@,CLE,W,7,5,None,29-21,1,up 1.0,Jones,Shaute,None,1:55,D,"8,000",+,None
+"Wednesday, Jun 18",boxscore,NYY,@,CLE,L,5,6,None,29-22,1, Tied,Smith,Bush,None,1:55,D,"8,000",-,None
+"Saturday, Jun 21",boxscore,NYY,None,BOS,W,5,3,None,30-22,1,up 0.5,Shawkey,Quinn,None,1:45,D,"20,000",+,None
+"Saturday, Jun 21",boxscore,NYY,None,BOS,T,3,3,5,30-22,1,up 0.5,None,None,None,1:35,D,"40,000",+,1924-06-20 (Rain)
+"Sunday, Jun 22",boxscore,NYY,None,BOS,L,2,6,None,30-23,1,up 0.5,Ehmke,Bush,None,1:45,D,"30,000",-,None
+"Monday, Jun 23",boxscore,NYY,None,WSH,L,3,5,None,30-24,2, 0.5,Mogridge,Jones,None,1:50,D,"10,000",--,None
+"Monday, Jun 23",boxscore,NYY,None,WSH,L,2,4,None,30-25,2, 0.5,Zachary,Shawkey,None,1:50,D,"20,000",---,1924-05-09 (Rain)
+"Tuesday, Jun 24",boxscore,NYY,None,WSH,L,3,4,10,30-26,2, 1.0,Russell,Pennock,None,2:20,D,"10,000",----,None
+"Wednesday, Jun 25",boxscore,NYY,None,WSH,L,2,3,7,30-27,3, 2.0,Marberry,Bush,None,1:33,D,"8,000",-----,None
+"Thursday, Jun 26",boxscore,NYY,@,BOS,L,5,8,None,30-28,4, 2.5,Ehmke,Markle,None,2:05,D,"5,000",------,None
+"Friday, Jun 27",boxscore,NYY,@,BOS,W,12,7,None,31-28,3, 1.5,Shawkey,Murray,Jones,2:25,D,"10,000",+,None
+"Friday, Jun 27",boxscore,NYY,@,BOS,W,10,5,None,32-28,3, 1.5,Hoyt,Ross,None,1:49,D,"16,000",++,1924-04-18 (Cold)
+"Saturday, Jun 28",boxscore,NYY,@,BOS,W,4,3,12,33-28,3, 2.0,Pennock,Ferguson,None,2:49,D,"22,000",+++,None
+"Monday, Jun 30",boxscore,NYY,@,PHA,W,10,4,None,34-28,2, 2.5,Bush,Meeker,None,1:50,D,"8,000",++++,None
+"Monday, Jun 30",boxscore,NYY,@,PHA,L,3,10,None,34-29,2, 2.5,Rommel,Markle,None,1:58,D,"20,000",-,1924-04-29 (Rain)
+"Tuesday, Jul 1",boxscore,NYY,@,PHA,W,7,0,None,35-29,2, 3.0,Hoyt,Burns,None,1:40,D,None,+,None
+"Wednesday, Jul 2",boxscore,NYY,@,PHA,L,8,9,None,35-30,3, 3.5,Rommel,Bush,None,2:52,D,"10,000",-,None
+"Wednesday, Jul 2",boxscore,NYY,@,PHA,W,10,1,None,36-30,3, 3.5,Pennock,Heimach,None,2:34,D,"15,000",+,1924-04-30 (Rain)
+"Thursday, Jul 3",boxscore,NYY,@,PHA,L,5,10,None,36-31,3, 4.0,Gray,Pipgras,None,1:50,D,"7,000",-,None
+"Friday, Jul 4",boxscore,NYY,@,WSH,W,4,2,None,37-31,2, 2.0,Bush,Zachary,None,1:47,D,"12,000",+,None
+"Friday, Jul 4",boxscore,NYY,@,WSH,W,2,0,None,38-31,2, 2.0,Jones,Mogridge,None,1:37,D,"20,000",++,None
+"Saturday, Jul 5",boxscore,NYY,@,WSH,W,2,0,None,39-31,2, 2.0,Pennock,Johnson,None,1:57,D,"20,000",+++,None
+"Saturday, Jul 5",boxscore,NYY,@,WSH,L,2,7,None,39-32,2, 2.0,Marberry,Hoyt,None,1:59,D,"25,000",-,1924-05-29 (Rain)
+"Sunday, Jul 6",boxscore,NYY,@,WSH,W,7,4,None,40-32,2, 1.0,Shawkey,Martina,Bush,2:05,D,"12,000",+,None
+"Tuesday, Jul 8",boxscore,NYY,None,CHW,L,2,10,None,40-33,2, 1.0,Thurston,Bush,None,1:55,D,"10,000",-,None
+"Tuesday, Jul 8",boxscore,NYY,None,CHW,W,8,5,None,41-33,2, 1.0,Hoyt,Lyons,Pennock,2:05,D,"20,000",+,1924-05-11 (Wet grounds)
+"Wednesday, Jul 9",boxscore,NYY,None,CHW,L,6,8,None,41-34,2, 1.5,Faber,Markle,Connally,2:03,D,"8,000",-,None
+"Thursday, Jul 10",boxscore,NYY,None,CHW,W,6,1,None,42-34,1, Tied,Pennock,Connally,None,1:50,D,"10,000",+,None
+"Thursday, Jul 10",boxscore,NYY,None,CHW,W,18,5,None,43-34,1, Tied,Shawkey,Cvengros,Pipgras,2:07,D,"15,000",++,1924-05-12 (Rain)
+"Friday, Jul 11",boxscore,NYY,None,CHW,W,12,9,None,44-34,1,up 1.0,Gaston,Lyons,None,2:12,D,"8,000",+++,None
+"Saturday, Jul 12",boxscore,NYY,None,SLB,W,4,2,None,45-34,1,up 1.5,Hoyt,Shocker,None,1:40,D,"25,000",++++,None
+"Sunday, Jul 13",boxscore,NYY,None,SLB,W,6,2,None,46-34,1,up 1.5,Bush,Davis,None,1:37,D,"20,000",+++++,None
+"Monday, Jul 14",boxscore,NYY,None,SLB,W,7,3,None,47-34,1,up 1.0,Pennock,Danforth,None,1:46,D,"15,000",++++++,None
+"Monday, Jul 14",boxscore,NYY,None,SLB,L,4,9,None,47-35,1,up 1.0,Wingard,Shawkey,None,1:55,D,"25,000",-,1924-05-16 (Rain)
+"Tuesday, Jul 15",boxscore,NYY,None,SLB,W,5,4,None,48-35,1,up 1.0,Gaston,Shocker,None,2:05,D,"10,000",+,None
+"Wednesday, Jul 16",boxscore,NYY,None,CLE,L,3,4,None,48-36,1,up 0.5,Shaute,Hoyt,None,2:07,D,"8,000",-,1924-05-20 (Rain)
+"Friday, Jul 18",boxscore,NYY,None,CLE,L,2,9,None,48-37,1,up 1.0,Smith,Bush,None,2:05,D,"15,000",--,None
+"Friday, Jul 18",boxscore,NYY,None,CLE,W,7,2,None,49-37,1,up 1.0,Pennock,Uhle,None,2:05,D,"20,000",+,1924-05-21 (Rain)
+"Saturday, Jul 19",boxscore,NYY,None,CLE,W,10,5,None,50-37,1,up 0.5,Shawkey,Coveleski,None,2:10,D,"20,000",++,None
+"Sunday, Jul 20",boxscore,NYY,None,CLE,W,4,1,None,51-37,1,up 1.5,Jones,Shaute,None,1:40,D,None,+++,None
+"Sunday, Jul 20",boxscore,NYY,None,CLE,W,10,4,None,52-37,1,up 1.5,Mamaux,Dawson,Gaston,2:10,D,"50,000",++++,1924-07-17 (Rain)
+"Monday, Jul 21",boxscore,NYY,None,DET,L,7,9,None,52-38,1,up 0.5,Whitehill,Bush,None,2:42,D,"20,000",-,None
+"Tuesday, Jul 22",boxscore,NYY,None,DET,L,1,3,None,52-39,2, 0.5,Wells,Pennock,None,2:02,D,"20,000",--,None
+"Wednesday, Jul 23",boxscore,NYY,None,DET,W,4,3,11,53-39,1,up 0.5,Gaston,Dauss,None,2:45,D,"20,000",+,None
+"Thursday, Jul 24",boxscore,NYY,None,DET,L,4,5,8,53-40,2, 0.5,Holloway,Mamaux,Wells,2:20,D,"18,000",-,None
+"Saturday, Jul 26",boxscore,NYY,@,CHW,W,5,4,14,54-40,2, 0.5,Pennock,Connally,None,3:25,D,"23,000",+,None
+"Sunday, Jul 27",boxscore,NYY,@,CHW,L,6,7,None,54-41,2, 0.5,Robertson,Shawkey,None,2:19,D,"40,000",-,None
+"Monday, Jul 28",boxscore,NYY,@,CHW,W,8,3,None,55-41,1,up 1.0,Bush,Faber,None,2:02,D,None,+,None
+"Monday, Jul 28",boxscore,NYY,@,CHW,W,12,10,None,56-41,1,up 1.0,Shawkey,Mangum,Hoyt,2:18,D,"33,000",++,1924-06-05 (Rain)
+"Tuesday, Jul 29",boxscore,NYY,@,CHW,W,9,4,None,57-41,1,up 1.0,Pennock,Thurston,None,1:47,D,"5,000",+++,None
+"Thursday, Jul 31",boxscore,NYY,@,SLB,L,1,2,None,57-42,1,up 0.5,Wingard,Hoyt,None,1:26,D,"10,000",-,None
+"Thursday, Jul 31",boxscore,NYY,@,SLB,L,4,5,None,57-43,1,up 0.5,Danforth,Gaston,None,2:05,D,"17,000",--,1924-07-30 (Rain)
+"Friday, Aug 1",boxscore,NYY,@,SLB,W,3,2,None,58-43,1,up 0.5,Bush,Shocker,None,1:45,D,"8,000",+,None
+"Saturday, Aug 2",boxscore,NYY,@,SLB,L,8,12,None,58-44,1,up 0.5,Pruett,Jones,Danforth,2:25,D,"15,000",-,None
+"Sunday, Aug 3",boxscore,NYY,@,DET,L,2,5,None,58-45,1, Tied,Whitehill,Pennock,None,2:25,D,"42,712",--,None
+"Monday, Aug 4",boxscore,NYY,@,DET,W,9,8,11,59-45,1,up 1.0,Gaston,Dauss,None,2:51,D,"16,000",+,None
+"Tuesday, Aug 5",boxscore,NYY,@,DET,W,9,2,None,60-45,1,up 2.0,Hoyt,Wells,None,2:21,D,"20,000",++,None
+"Wednesday, Aug 6",boxscore,NYY,@,DET,L,2,5,5,60-46,1,up 1.0,Whitehill,Bush,None,1:14,D,"10,000",-,None
+"Thursday, Aug 7",boxscore,NYY,@,CLE,W,7,5,None,61-46,1,up 2.0,Pennock,Smith,None,1:52,D,"12,000",+,None
+"Friday, Aug 8",boxscore,NYY,@,CLE,L,8,10,None,61-47,1,up 1.0,Shaute,Shawkey,None,2:00,D,"20,000",-,None
+"Saturday, Aug 9",boxscore,NYY,@,CLE,W,5,1,None,62-47,1,up 1.0,Hoyt,Coveleski,None,1:35,D,"20,000",+,None
+"Sunday, Aug 10",boxscore,NYY,@,CLE,L,1,7,None,62-48,1, Tied,Shaute,Gaston,None,1:43,D,"25,000",-,None
+"Wednesday, Aug 13",boxscore,NYY,None,SLB,W,1,0,None,63-48,1,up 1.0,Pennock,Wingard,None,1:26,D,"20,000",+,None
+"Wednesday, Aug 13",boxscore,NYY,None,SLB,W,2,1,None,64-48,1,up 1.0,Bush,Shocker,None,1:27,D,"30,000",++,1924-08-12 (Rain)
+"Thursday, Aug 14",boxscore,NYY,None,SLB,L,5,8,None,64-49,1,up 1.0,Danforth,Hoyt,None,2:27,D,"8,000",-,None
+"Saturday, Aug 16",boxscore,NYY,None,CHW,W,3,2,None,65-49,1,up 0.5,Hoyt,Cvengros,None,2:16,D,"25,000",+,None
+"Sunday, Aug 17",boxscore,NYY,None,CHW,W,2,1,None,66-49,1,up 1.5,Pennock,Thurston,None,2:05,D,"25,000",++,None
+"Monday, Aug 18",boxscore,NYY,None,CHW,W,2,0,None,67-49,1,up 2.5,Bush,Robertson,None,1:45,D,"8,000",+++,None
+"Friday, Aug 22",boxscore,NYY,None,DET,L,6,8,12,67-50,1,up 1.0,Johnson,Hoyt,None,3:05,D,"30,000",-,1924-08-21 (Schedule change)
+"Saturday, Aug 23",boxscore,NYY,None,DET,W,8,1,None,68-50,1,up 1.0,Pennock,Whitehill,None,2:10,D,"35,000",+,None
+"Sunday, Aug 24",boxscore,NYY,None,DET,L,2,7,None,68-51,1, Tied,Leonard,Bush,None,1:50,D,"50,000",-,None
+"Monday, Aug 25",boxscore,NYY,None,CLE,W,8,3,None,69-51,1, Tied,Hoyt,Uhle,None,1:45,D,None,+,None
+"Wednesday, Aug 27",boxscore,NYY,None,CLE,L,0,1,None,69-52,1,up 0.5,Coveleski,Jones,None,1:40,D,"15,000",-,None
+"Wednesday, Aug 27",boxscore,NYY,None,CLE,W,5,4,None,70-52,1,up 0.5,Shawkey,Shaute,Hoyt,2:00,D,"25,000",+,1924-08-26 (Rain)
+"Thursday, Aug 28",boxscore,NYY,None,WSH,L,6,11,None,70-53,2, 0.5,Russell,Gaston,Marberry,2:35,D,"25,000",-,None
+"Friday, Aug 29",boxscore,NYY,None,WSH,L,1,5,None,70-54,2, 1.5,Johnson,Bush,Marberry,2:10,D,"25,000",--,None
+"Saturday, Aug 30",boxscore,NYY,None,WSH,W,2,1,None,71-54,2, 0.5,Hoyt,Ogden,None,1:45,D,"40,000",+,None
+"Sunday, Aug 31",boxscore,NYY,None,WSH,L,2,4,10,71-55,2, 1.5,Marberry,Bush,None,2:30,D,"45,000",-,None
+"Monday, Sep 1",boxscore,NYY,None,BOS,W,3,0,None,72-55,2, 1.5,Pennock,Fullerton,None,1:42,D,None,+,None
+"Monday, Sep 1",boxscore,NYY,None,BOS,W,12,2,None,73-55,2, 1.5,Shawkey,Piercy,None,2:10,D,"40,000",++,None
+"Tuesday, Sep 2",boxscore,NYY,None,BOS,L,6,14,None,73-56,2, 1.5,Ehmke,Hoyt,None,2:00,D,"6,000",-,None
+"Tuesday, Sep 2",boxscore,NYY,None,BOS,W,5,2,None,74-56,2, 1.5,Bush,Ferguson,None,1:45,D,"12,000",+,None
+"Wednesday, Sep 3",boxscore,NYY,None,BOS,W,11,6,None,75-56,2, 1.0,Beall,Quinn,Jones,2:05,D,"5,000",++,None
+"Thursday, Sep 4",boxscore,NYY,None,PHA,L,3,8,None,75-57,2, 2.0,Gray,Hoyt,None,1:40,D,"8,000",-,None
+"Saturday, Sep 6",boxscore,NYY,None,PHA,W,10,7,None,76-57,2, 2.0,Beall,Heimach,None,1:55,D,"12,000",+,None
+"Sunday, Sep 7",boxscore,NYY,None,PHA,L,1,2,None,76-58,2, 2.0,Rommel,Shawkey,None,1:54,D,"30,000",-,None
+"Monday, Sep 8",boxscore,NYY,@,BOS,W,2,0,None,77-58,2, 2.0,Bush,Fullerton,None,1:32,D,"5,000",+,None
+"Tuesday, Sep 9",boxscore,NYY,@,BOS,W,5,4,None,78-58,2, 1.5,Pennock,Quinn,Hoyt,1:58,D,"5,000",++,None
+"Thursday, Sep 11",boxscore,NYY,@,BOS,W,4,3,None,79-58,2, 1.0,Jones,Ehmke,None,2:07,D,"5,000",+++,None
+"Thursday, Sep 11",boxscore,NYY,@,BOS,W,8,3,None,80-58,2, 1.0,Shawkey,Ferguson,None,1:53,D,None,++++,1924-09-10 (Rain)
+"Saturday, Sep 13",boxscore,NYY,@,CHW,W,16,1,None,81-58,2, 1.0,Bush,Cvengros,None,1:43,D,"15,000",+++++,None
+"Sunday, Sep 14",boxscore,NYY,@,CHW,L,2,5,None,81-59,2, 1.0,Thurston,Pennock,None,1:42,D,"20,000",-,None
+"Monday, Sep 15",boxscore,NYY,@,CHW,W,2,0,None,82-59,1, Tied,Jones,Faber,None,1:34,D,"7,500",+,None
+"Wednesday, Sep 17",boxscore,NYY,@,SLB,W,7,3,None,83-59,1, Tied,Hoyt,Shocker,None,1:50,D,"7,500",++,None
+"Wednesday, Sep 17",boxscore,NYY,@,SLB,W,8,7,None,84-59,1, Tied,Bush,Davis,Pennock,2:06,D,None,+++,1924-09-16 (Rain)
+"Thursday, Sep 18",boxscore,NYY,@,SLB,W,2,1,10,85-59,1, Tied,Shawkey,Wingard,None,1:52,D,None,++++,None
+"Friday, Sep 19",boxscore,NYY,@,DET,L,5,6,None,85-60,2, 1.0,Wells,Hoyt,None,2:13,D,"10,000",-,None
+"Saturday, Sep 20",boxscore,NYY,@,DET,L,5,6,None,85-61,2, 1.0,Holloway,Bush,None,2:30,D,"6,000",--,None
+"Sunday, Sep 21",boxscore,NYY,@,DET,L,3,4,None,85-62,2, 2.0,Whitehill,Hoyt,Dauss,2:22,D,40,---,None
+"Monday, Sep 22",boxscore,NYY,@,CLE,W,10,4,None,86-62,2, 2.0,Bush,Coveleski,None,1:55,D,"6,000",+,None
+"Tuesday, Sep 23",boxscore,NYY,@,CLE,W,8,2,None,87-62,2, 2.0,Shawkey,Smith,None,1:55,D,"5,000",++,None
+"Wednesday, Sep 24",boxscore,NYY,@,CLE,W,2,0,None,88-62,2, 2.0,Jones,Uhle,None,1:50,D,None,+++,None
+"Friday, Sep 26",boxscore,NYY,@,PHA,W,7,1,None,89-62,2, 1.0,Pennock,Gray,None,1:43,D,"12,000",++++,None
+"Saturday, Sep 27",boxscore,NYY,@,PHA,L,3,4,None,89-63,2, 2.0,Rommel,Bush,None,1:35,D,"25,000",-,None

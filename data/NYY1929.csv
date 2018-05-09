@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Friday, Apr 19",boxscore,NYY,None,PHA,W,2,1,None,2-0,1, Tied,Hoyt,Quinn,None,1:46,D,"22,000",++,None
+"Sunday, Apr 21",boxscore,NYY,None,PHA,L,4,7,5,2-1,4, 0.5,Grove,Johnson,None,1:35,D,"50,000",-,None
+"Tuesday, Apr 23",boxscore,NYY,@,BOS,L,2,4,None,2-2,4, 1.0,Morris,Pipgras,None,1:55,D,"17,000",--,None
+"Wednesday, Apr 24",boxscore,NYY,@,BOS,W,9,3,None,3-2,3, 0.5,Hoyt,Ruffing,None,2:13,D,"9,000",+,None
+"Friday, Apr 26",boxscore,NYY,@,PHA,L,2,5,None,3-3,4, 2.0,Quinn,Pennock,None,1:57,D,"30,000",-,None
+"Saturday, Apr 27",boxscore,NYY,@,PHA,W,9,7,None,4-3,3, 1.0,Moore,Orwoll,None,2:25,D,"42,000",+,None
+"Sunday, Apr 28",boxscore,NYY,@,WSH,W,7,2,None,5-3,3, 1.0,Hoyt,Hadley,None,2:00,D,"4,000",++,None
+"Monday, Apr 29",boxscore,NYY,@,PHA,L,1,10,None,5-4,3, 2.0,Walberg,Johnson,None,2:00,D,"15,000",-,None
+"Tuesday, Apr 30",boxscore,NYY,None,WSH,W,10,9,10,6-4,3, 2.0,Heimach,Liska,None,2:50,D,"10,000",+,None
+"Saturday, May 4",boxscore,NYY,@,CHW,W,11,9,None,7-4,3, 2.0,Moore,McKain,None,None,D,"30,000",++,None
+"Sunday, May 5",boxscore,NYY,@,CHW,W,8,3,None,8-4,3, 1.0,Pipgras,Adkins,None,None,D,None,+++,None
+"Monday, May 6",boxscore,NYY,@,CHW,W,7,6,10,9-4,3, 0.5,Heimach,Weiland,Hoyt,2:35,D,None,++++,None
+"Tuesday, May 7",boxscore,NYY,@,SLB,W,6,5,None,10-4,1,up 0.5,Zachary,Crowder,None,2:15,D,"8,000",+++++,None
+"Wednesday, May 8",boxscore,NYY,@,SLB,W,8,1,None,11-4,1,up 0.5,Hoyt,Stewart,None,1:44,D,"1,500",++++++,None
+"Thursday, May 9",boxscore,NYY,@,SLB,W,7,3,None,12-4,1,up 0.5,Johnson,Gray,None,2:10,D,"3,000",+++++++,None
+"Friday, May 10",boxscore,NYY,@,DET,W,10,5,None,13-4,1,up 1.5,Pipgras,Sorrell,None,2:00,D,"20,000",++++++++,None
+"Saturday, May 11",boxscore,NYY,@,DET,L,7,13,None,13-5,1,up 0.5,Smith,Rhodes,None,2:13,D,"35,000",-,None
+"Sunday, May 12",boxscore,NYY,@,DET,L,7,9,None,13-6,1, Tied,Whitehill,Hoyt,Stoner,2:06,D,"42,036",--,None
+"Monday, May 13",boxscore,NYY,@,CLE,L,3,4,None,13-7,1, Tied,Hudlin,Heimach,None,1:45,D,None,---,None
+"Wednesday, May 15",boxscore,NYY,@,CLE,L,1,7,None,13-8,2, 0.5,Shaute,Pipgras,None,2:05,D,"10,000",----,None
+"Friday, May 17",boxscore,NYY,None,BOS,L,3,5,12,13-9,3, 1.5,Morris,Hoyt,None,2:50,D,"10,000",-----,None
+"Saturday, May 18",boxscore,NYY,None,BOS,W,5,2,None,14-9,2, 1.5,Pennock,MacFayden,None,2:02,D,None,+,None
+"Saturday, May 18",boxscore,NYY,None,BOS,W,5,0,None,15-9,2, 1.5,Pipgras,Gaston,None,1:49,D,None,++,1929-04-16 (Rain)
+"Sunday, May 19",boxscore,NYY,None,BOS,W,3,0,5,16-9,2, 1.5,Heimach,Russell,None,None,D,None,+++,None
+"Wednesday, May 22",boxscore,NYY,None,WSH,L,2,10,None,16-10,3, 3.5,Marberry,Johnson,None,None,D,None,-,None
+"Wednesday, May 22",boxscore,NYY,None,WSH,L,2,3,None,16-11,3, 3.5,Braxton,Hoyt,None,1:53,D,"25,000",--,1929-05-01 (Rain)
+"Thursday, May 23",boxscore,NYY,@,BOS,W,7,6,None,17-11,3, 4.0,Heimach,Gaston,Moore,2:17,D,None,+,None
+"Friday, May 24",boxscore,NYY,@,BOS,L,0,5,None,17-12,3, 5.0,MacFayden,Pennock,None,None,D,None,-,None
+"Saturday, May 25",boxscore,NYY,@,BOS,L,8,10,None,17-13,4, 5.5,Bayne,Thomas,None,None,D,None,--,None
+"Saturday, May 25",boxscore,NYY,@,BOS,W,8,3,None,18-13,4, 5.5,Zachary,Ruffing,None,2:02,D,"28,000",+,1929-04-25 (Rain)
+"Sunday, May 26",boxscore,NYY,@,BOS,W,15,4,None,19-13,3, 5.5,Hoyt,Morris,Sherid,None,D,None,++,None
+"Tuesday, May 28",boxscore,NYY,@,WSH,W,12,7,None,20-13,3, 4.5,Wells,Hadley,Heimach,2:22,D,None,+++,None
+"Wednesday, May 29",boxscore,NYY,@,WSH,L,3,8,None,20-14,3, 5.5,Marberry,Pipgras,None,1:43,D,None,-,None
+"Thursday, May 30",boxscore,NYY,@,WSH,L,5,8,None,20-15,3, 7.5,Braxton,Pennock,None,None,D,None,--,None
+"Thursday, May 30",boxscore,NYY,@,WSH,L,3,4,None,20-16,3, 7.5,Brown,Moore,None,2:15,D,"25,000",---,None
+"Saturday, Jun 1",boxscore,NYY,None,CHW,W,8,1,None,21-16,3, 8.0,Hoyt,Dugan,None,None,D,None,+,None
+"Sunday, Jun 2",boxscore,NYY,None,CHW,W,6,1,None,22-16,3, 7.5,Pipgras,Walsh,None,None,D,None,++,None
+"Monday, Jun 3",boxscore,NYY,None,CHW,W,1,0,None,23-16,3, 7.5,Wells,Lyons,None,None,D,None,+++,None
+"Tuesday, Jun 4",boxscore,NYY,None,CHW,W,4,2,None,24-16,3, 6.5,Johnson,Faber,None,1:48,D,None,++++,None
+"Wednesday, Jun 5",boxscore,NYY,None,CLE,W,6,5,12,25-16,2, 6.5,Heimach,Miljus,None,None,D,None,+++++,None
+"Thursday, Jun 6",boxscore,NYY,None,CLE,L,7,9,None,25-17,2, 7.5,Miller,Pipgras,Ferrell,2:24,D,None,-,None
+"Friday, Jun 7",boxscore,NYY,None,CLE,L,3,7,None,25-18,3, 7.5,Hudlin,Wells,Zinn,2:13,D,None,--,None
+"Sunday, Jun 9",boxscore,NYY,None,SLB,W,17,2,None,26-18,2, 7.0,Johnson,Collins,Moore,2:40,D,"40,000",+,None
+"Monday, Jun 10",boxscore,NYY,None,SLB,W,3,2,None,27-18,2, 7.0,Hoyt,Crowder,None,1:46,D,"7,000",++,None
+"Tuesday, Jun 11",boxscore,NYY,None,SLB,W,11,5,None,28-18,2, 7.0,Pipgras,Gray,None,2:19,D,"6,500",+++,None
+"Wednesday, Jun 12",boxscore,NYY,None,SLB,L,4,9,None,28-19,2, 8.0,Blaeholder,Thomas,None,2:03,D,"6,000",-,None
+"Thursday, Jun 13",boxscore,NYY,None,DET,W,8,5,None,29-19,2, 8.0,Wells,Whitehill,None,None,D,None,+,None
+"Friday, Jun 14",boxscore,NYY,None,DET,W,15,4,None,30-19,2, 8.0,Hoyt,Uhle,None,None,D,None,++,None
+"Saturday, Jun 15",boxscore,NYY,None,DET,L,2,9,None,30-20,2, 9.0,Sorrell,Pipgras,None,None,D,None,-,None
+"Sunday, Jun 16",boxscore,NYY,None,DET,W,11,7,None,31-20,2, 8.0,Moore,Whitehill,Hoyt,None,D,None,+,None
+"Tuesday, Jun 18",boxscore,NYY,None,BOS,W,9,0,None,32-20,2, 8.0,Heimach,Morris,None,None,D,None,++,None
+"Tuesday, Jun 18",boxscore,NYY,None,BOS,L,4,7,None,32-21,2, 8.0,Bayne,Pipgras,None,2:12,D,None,-,1929-04-17 (Wet grounds)
+"Wednesday, Jun 19",boxscore,NYY,None,BOS,W,13,2,None,33-21,2, 7.5,Wells,Russell,Moore,1:42,D,None,+,None
+"Friday, Jun 21",boxscore,NYY,None,PHA,L,1,11,None,33-22,2, 7.5,Grove,Pennock,None,None,D,"65,000",-,None
+"Friday, Jun 21",boxscore,NYY,None,PHA,W,8,3,None,34-22,2, 7.5,Hoyt,Earnshaw,None,None,D,"66,145",+,1929-04-20 (Rain)
+"Saturday, Jun 22",boxscore,NYY,None,PHA,L,3,7,None,34-23,2, 7.5,Walberg,Heimach,None,None,D,"70,000",-,None
+"Saturday, Jun 22",boxscore,NYY,None,PHA,W,4,3,14,35-23,2, 7.5,Pipgras,Quinn,None,2:53,D,"70,000",+,1929-04-22 (Rain)
+"Sunday, Jun 23",boxscore,NYY,None,PHA,L,4,7,None,35-24,2, 8.5,Ehmke,Wells,Earnshaw,None,D,None,-,None
+"Wednesday, Jun 26",boxscore,NYY,@,WSH,W,7,0,None,36-24,2, 10.5,Pennock,Marberry,None,1:57,D,None,+,None
+"Wednesday, Jun 26",boxscore,NYY,@,WSH,L,3,4,None,36-25,2, 10.5,Brown,Heimach,None,1:40,D,None,-,1929-06-25 (Rain)
+"Thursday, Jun 27",boxscore,NYY,@,PHA,L,3,6,None,36-26,3, 11.5,Walberg,Hoyt,None,None,D,"35,000",--,None
+"Saturday, Jun 29",boxscore,NYY,@,PHA,W,7,5,None,37-26,3, 10.5,Pipgras,Grove,None,None,D,None,+,None
+"Sunday, Jun 30",boxscore,NYY,@,BOS,W,6,4,None,38-26,3, 9.5,Wells,MacFayden,Moore,None,D,None,++,None
+"Monday, Jul 1",boxscore,NYY,None,BOS,W,3,2,None,39-26,3, 9.0,Pennock,Bayne,Heimach,None,D,None,+++,None
+"Tuesday, Jul 2",boxscore,NYY,None,BOS,W,4,3,10,40-26,2, 9.5,Moore,Morris,None,None,D,None,++++,None
+"Wednesday, Jul 3",boxscore,NYY,None,BOS,W,6,5,None,41-26,2, 9.5,Heimach,Ruffing,None,None,D,None,+++++,None
+"Thursday, Jul 4",boxscore,NYY,None,WSH,W,8,4,None,42-26,2, 9.5,Pipgras,Marberry,Heimach,None,D,None,++++++,None
+"Thursday, Jul 4",boxscore,NYY,None,WSH,W,14,4,None,43-26,2, 9.5,Wells,Brown,None,2:20,D,"55,000",+++++++,None
+"Saturday, Jul 6",boxscore,NYY,@,SLB,W,3,1,None,44-26,2, 8.5,Pennock,Gray,None,2:10,D,"6,000",++++++++,None
+"Sunday, Jul 7",boxscore,NYY,@,SLB,L,2,7,None,44-27,2, 8.5,Crowder,Hoyt,Kimsey,2:11,D,"18,000",-,None
+"Monday, Jul 8",boxscore,NYY,@,SLB,W,10,3,None,45-27,2, 8.5,Pipgras,Collins,None,2:27,D,"4,000",+,None
+"Tuesday, Jul 9",boxscore,NYY,@,SLB,W,8,7,None,46-27,2, 7.5,Zachary,Ogden,Pennock,2:37,D,"4,000",++,None
+"Wednesday, Jul 10",boxscore,NYY,@,CHW,L,3,6,None,46-28,2, 8.0,Thomas,Heimach,None,None,D,None,-,None
+"Friday, Jul 12",boxscore,NYY,@,CHW,W,12,2,None,47-28,2, 8.5,Pennock,Lyons,None,2:04,D,None,+,None
+"Saturday, Jul 13",boxscore,NYY,@,CHW,W,4,2,None,48-28,2, 7.5,Zachary,Faber,None,None,D,None,++,None
+"Saturday, Jul 13",boxscore,NYY,@,CHW,W,6,5,14,49-28,2, 7.5,Moore,Lyons,None,3:03,D,"30,000",+++,1929-07-11 (Rain)
+"Sunday, Jul 14",boxscore,NYY,@,DET,L,3,7,None,49-29,2, 8.5,Uhle,Pipgras,None,None,D,None,-,None
+"Monday, Jul 15",boxscore,NYY,@,DET,W,7,6,None,50-29,2, 8.0,Heimach,Carroll,None,2:13,D,"15,000",+,None
+"Tuesday, Jul 16",boxscore,NYY,@,DET,W,11,7,None,51-29,2, 8.0,Wells,Sorrell,Moore,2:20,D,"15,000",++,None
+"Wednesday, Jul 17",boxscore,NYY,@,DET,L,8,9,10,51-30,2, 8.0,Sorrell,Pipgras,None,2:54,D,"9,500",-,None
+"Friday, Jul 19",boxscore,NYY,@,CLE,W,7,2,None,52-30,2, 9.0,Zachary,Hudlin,None,2:05,D,None,+,None
+"Friday, Jul 19",boxscore,NYY,@,CLE,L,3,11,None,52-31,2, 9.0,Ferrell,Pipgras,None,2:20,D,"16,000",-,1929-05-14 (Rain)
+"Saturday, Jul 20",boxscore,NYY,@,CLE,L,4,8,None,52-32,2, 9.5,Shaute,Pennock,None,2:03,D,"28,000",--,None
+"Saturday, Jul 20",boxscore,NYY,@,CLE,W,11,6,None,53-32,2, 9.5,Heimach,Miljus,None,2:03,D,"29,000",+,1929-07-18 (Rain)
+"Sunday, Jul 21",boxscore,NYY,@,CLE,L,4,6,None,53-33,2, 10.5,Miller,Hoyt,Ferrell,2:12,D,None,-,None
+"Tuesday, Jul 23",boxscore,NYY,None,DET,W,7,5,None,54-33,2, 10.0,Pipgras,Whitehill,None,None,D,None,+,None
+"Wednesday, Jul 24",boxscore,NYY,None,DET,W,7,5,None,55-33,2, 10.0,Pennock,Uhle,None,2:11,D,None,++,None
+"Friday, Jul 26",boxscore,NYY,None,SLB,W,9,0,None,56-33,2, 10.5,Wells,Gray,None,1:37,D,"10,000",+++,None
+"Saturday, Jul 27",boxscore,NYY,None,SLB,W,5,3,None,57-33,2, 10.5,Pipgras,Blaeholder,Pennock,2:15,D,"12,000",++++,None
+"Sunday, Jul 28",boxscore,NYY,None,SLB,W,7,6,12,58-33,2, 10.0,Zachary,Collins,None,2:45,D,"35,000",+++++,None
+"Tuesday, Jul 30",boxscore,NYY,None,CHW,W,7,3,None,59-33,2, 9.5,Pennock,Thomas,None,None,D,None,++++++,None
+"Wednesday, Jul 31",boxscore,NYY,None,CHW,W,16,2,None,60-33,2, 9.5,Wells,Walsh,None,None,D,None,+++++++,None
+"Thursday, Aug 1",boxscore,NYY,None,CHW,L,2,3,None,60-34,2, 10.5,Lyons,Sherid,None,None,D,None,-,None
+"Friday, Aug 2",boxscore,NYY,None,CLE,L,8,9,None,60-35,2, 11.5,Hudlin,Heimach,None,None,D,None,--,None
+"Sunday, Aug 4",boxscore,NYY,None,CLE,W,12,0,None,61-35,2, 11.5,Zachary,Miller,None,None,D,None,+,None
+"Sunday, Aug 4",boxscore,NYY,None,CLE,L,6,14,None,61-36,2, 11.5,Miljus,Moore,None,None,D,None,-,1929-06-08 (Rain)
+"Tuesday, Aug 6",boxscore,NYY,None,WSH,L,9,13,None,61-37,2, 11.5,Hadley,Wells,Marberry,None,D,"18,000",--,None
+"Tuesday, Aug 6",boxscore,NYY,None,WSH,W,8,0,None,62-37,2, 11.5,Heimach,Burke,None,None,D,"20,000",+,1929-05-02 (Rain)
+"Wednesday, Aug 7",boxscore,NYY,@,PHA,W,13,1,None,63-37,2, 11.5,Pipgras,Ehmke,None,None,D,"40,000",++,None
+"Wednesday, Aug 7",boxscore,NYY,@,PHA,L,2,4,None,63-38,2, 11.5,Earnshaw,Sherid,Grove,None,D,None,-,1929-06-28 (Rain)
+"Thursday, Aug 8",boxscore,NYY,@,PHA,W,6,4,None,64-38,2, 10.5,Pennock,Walberg,Moore,None,D,None,+,None
+"Saturday, Aug 10",boxscore,NYY,@,CLE,W,4,2,None,65-38,2, 10.5,Zachary,Miller,Moore,None,D,"12,000",++,None
+"Sunday, Aug 11",boxscore,NYY,@,CLE,L,5,6,None,65-39,2, 10.5,Hudlin,Wells,None,None,D,None,-,None
+"Monday, Aug 12",boxscore,NYY,@,CLE,L,7,11,None,65-40,2, 11.5,Shoffner,Pennock,None,None,D,"10,000",--,None
+"Tuesday, Aug 13",boxscore,NYY,@,CLE,L,2,3,None,65-41,2, 12.5,Ferrell,Heimach,None,None,D,None,---,None
+"Wednesday, Aug 14",boxscore,NYY,@,DET,L,13,17,None,65-42,2, 13.5,Carroll,Moore,None,2:15,D,"8,000",----,None
+"Thursday, Aug 15",boxscore,NYY,@,DET,L,0,3,None,65-43,2, 14.0,Whitehill,Sherid,None,1:56,D,"15,000",-----,None
+"Friday, Aug 16",boxscore,NYY,@,DET,W,12,2,None,66-43,2, 14.0,Wells,Uhle,None,2:03,D,"7,000",+,None
+"Saturday, Aug 17",boxscore,NYY,@,DET,W,7,2,None,67-43,2, 13.0,Hoyt,Sorrell,None,3:33,D,"18,000",++,None
+"Sunday, Aug 18",boxscore,NYY,@,CHW,L,2,3,None,67-44,2, 13.0,Lyons,Pennock,None,None,D,None,-,None
+"Monday, Aug 19",boxscore,NYY,@,CHW,W,3,2,None,68-44,2, 13.0,Sherid,McKain,None,None,D,None,+,None
+"Tuesday, Aug 20",boxscore,NYY,@,CHW,W,5,4,None,69-44,2, 12.0,Zachary,Faber,Moore,2:08,D,"15,000",++,None
+"Wednesday, Aug 21",boxscore,NYY,@,CHW,L,3,4,None,69-45,2, 12.0,Thomas,Wells,None,1:41,D,None,-,None
+"Thursday, Aug 22",boxscore,NYY,@,SLB,L,0,10,None,69-46,2, 12.0,Gray,Hoyt,None,1:38,D,"5,000",--,None
+"Friday, Aug 23",boxscore,NYY,@,SLB,L,0,5,None,69-47,2, 12.0,Blaeholder,Pennock,None,1:37,D,"2,500",---,None
+"Saturday, Aug 24",boxscore,NYY,@,SLB,L,0,4,None,69-48,2, 13.0,Crowder,Sherid,None,1:38,D,"7,000",----,None
+"Sunday, Aug 25",boxscore,NYY,@,SLB,L,2,3,None,69-49,2, 13.0,Stewart,Wells,None,None,D,None,-----,None
+"Tuesday, Aug 27",boxscore,NYY,None,PHA,W,2,0,None,70-49,2, 12.0,Pipgras,Earnshaw,None,None,D,"25,000",+,None
+"Wednesday, Aug 28",boxscore,NYY,None,PHA,L,7,9,None,70-50,2, 13.0,Rommel,Moore,Grove,2:27,D,"20,000",-,None
+"Thursday, Aug 29",boxscore,NYY,None,WSH,W,5,4,None,71-50,2, 13.5,Pennock,Marberry,Zachary,1:58,D,None,+,None
+"Thursday, Aug 29",boxscore,NYY,None,WSH,L,4,8,None,71-51,2, 13.5,Hadley,Hoyt,None,2:03,D,"15,000",-,1929-05-21 (Rain)
+"Saturday, Aug 31",boxscore,NYY,None,WSH,W,4,0,None,72-51,2, 12.5,Wells,Braxton,None,None,D,None,+,None
+"Saturday, Aug 31",boxscore,NYY,None,WSH,W,13,3,None,73-51,2, 12.5,Sherid,Burke,None,None,D,None,++,1929-08-30 (Wet grounds)
+"Sunday, Sep 1",boxscore,NYY,@,BOS,W,6,4,None,74-51,2, 11.5,Zachary,Bayne,None,None,D,None,+++,None
+"Monday, Sep 2",boxscore,NYY,@,PHA,L,3,10,None,74-52,2, 13.5,Quinn,Pipgras,None,None,D,None,-,None
+"Monday, Sep 2",boxscore,NYY,@,PHA,L,5,6,None,74-53,2, 13.5,Ehmke,Pennock,None,None,D,None,--,None
+"Tuesday, Sep 3",boxscore,NYY,@,PHA,L,2,10,None,74-54,2, 14.5,Earnshaw,Pipgras,None,None,D,None,---,None
+"Saturday, Sep 7",boxscore,NYY,None,DET,L,4,5,None,74-55,2, 14.5,Uhle,Wells,None,None,D,None,----,None
+"Saturday, Sep 7",boxscore,NYY,None,DET,W,11,7,None,75-55,2, 14.5,Pipgras,Carroll,None,2:18,D,"20,000",+,1929-07-25 (Rain)
+"Sunday, Sep 8",boxscore,NYY,None,DET,W,9,3,None,76-55,2, 14.0,Sherid,Sorrell,None,None,D,None,++,None
+"Tuesday, Sep 10",boxscore,NYY,None,DET,L,4,8,None,76-56,2, 14.5,Whitehill,Pennock,None,2:12,D,None,-,None
+"Tuesday, Sep 10",boxscore,NYY,None,DET,W,10,9,None,77-56,2, 14.5,Moore,Carroll,None,2:48,D,"7,500",+,1929-09-09 (Wet grounds)
+"Wednesday, Sep 11",boxscore,NYY,None,SLB,L,0,5,None,77-57,2, 15.5,Crowder,Wells,None,1:57,D,"1,500",-,None
+"Thursday, Sep 12",boxscore,NYY,None,SLB,W,5,2,None,78-57,2, 15.5,Sherid,Gray,None,1:40,D,None,+,None
+"Saturday, Sep 14",boxscore,NYY,None,SLB,L,3,12,None,78-58,2, 16.5,Blaeholder,Rhodes,None,2:00,D,"12,000",-,None
+"Saturday, Sep 14",boxscore,NYY,None,SLB,W,4,2,None,79-58,2, 16.5,Pipgras,Ogden,None,2:11,D,"12,000",+,1929-09-13 (Rain)
+"Sunday, Sep 15",boxscore,NYY,None,CLE,W,1,0,None,80-58,2, 16.5,Zachary,Holloway,None,None,D,None,++,None
+"Sunday, Sep 15",boxscore,NYY,None,CLE,L,0,10,None,80-59,2, 16.5,Hudlin,Hoyt,None,None,D,None,-,1929-08-03 (Rain)
+"Monday, Sep 16",boxscore,NYY,None,CLE,L,2,4,None,80-60,2, 16.5,Miljus,Wells,Ferrell,None,D,None,--,None
+"Wednesday, Sep 18",boxscore,NYY,None,CLE,W,9,7,None,81-60,2, 15.5,Heimach,Miller,Zachary,None,D,None,+,None
+"Wednesday, Sep 18",boxscore,NYY,None,CLE,W,12,2,None,82-60,2, 15.5,Sherid,Ferrell,None,None,D,"6,000",++,1929-09-17 (Rain)
+"Thursday, Sep 19",boxscore,NYY,None,CHW,L,0,7,None,82-61,2, 16.5,McKain,Pipgras,None,None,D,None,-,None
+"Saturday, Sep 21",boxscore,NYY,None,CHW,W,8,5,None,83-61,2, 17.0,Wells,Lyons,None,None,D,None,+,None
+"Sunday, Sep 22",boxscore,NYY,None,CHW,L,4,7,None,83-62,2, 16.5,Faber,Pennock,None,None,D,None,-,None
+"Sunday, Sep 22",boxscore,NYY,None,CHW,W,3,1,None,84-62,2, 16.5,Sherid,Thomas,None,None,D,None,+,1929-09-20 (Cold)
+"Tuesday, Sep 24",boxscore,NYY,@,BOS,W,5,3,None,85-62,2, 16.0,Zachary,Bayne,None,None,D,None,++,None
+"Wednesday, Sep 25",boxscore,NYY,@,BOS,W,11,10,11,86-62,2, 15.5,Pipgras,Gaston,None,None,D,None,+++,None
+"Thursday, Sep 26",boxscore,NYY,@,WSH,W,10,3,None,87-62,2, 15.5,Wells,Hadley,Moore,2:13,D,"3,000",++++,None
+"Saturday, Sep 28",boxscore,NYY,@,WSH,L,4,6,None,87-63,2, 17.0,Jones,Sherid,None,None,D,None,-,None
+"Saturday, Sep 28",boxscore,NYY,@,WSH,L,3,6,None,87-64,2, 17.0,Marberry,Rhodes,None,1:57,D,"8,000",--,1929-09-27 (Funeral of Miller Huggins)
+"Sunday, Sep 29",boxscore,NYY,@,WSH,W,3,0,None,88-64,2, 16.0,Pipgras,Brown,None,None,D,None,+,None
+"Saturday, Oct 5",boxscore,NYY,None,PHA,L,4,8,None,88-65,2, 17.0,Earnshaw,Sherid,Quinn,None,D,None,-,None
+"Sunday, Oct 6",boxscore,NYY,None,PHA,L,2,5,None,88-66,2, 18.0,Rommel,Rhodes,None,1:50,D,"18,000",--,None

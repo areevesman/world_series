@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 16",boxscore,DET,@,CHW,W,4,2,10,1-1,4, 1.0,Summers,Smith,None,1:45,D,None,+,None
+"Friday, Apr 17",boxscore,DET,None,CLE,L,8,12,12,1-2,4, 2.0,Joss,Mullin,None,2:52,D,None,-,None
+"Monday, Apr 20",boxscore,DET,None,CLE,L,2,6,None,1-3,6, 2.5,Rhoads,Malloy,None,1:50,D,None,--,None
+"Tuesday, Apr 21",boxscore,DET,None,SLB,L,5,8,None,1-4,7, 3.5,Grahame,Suggs,Howell,2:10,D,"3,581",---,None
+"Wednesday, Apr 22",boxscore,DET,None,SLB,L,3,7,None,1-5,7, 4.0,Bailey,Summers,None,1:40,D,"4,705",----,None
+"Thursday, Apr 23",boxscore,DET,None,SLB,W,5,2,None,2-5,7, 3.5,Killian,Howell,None,1:35,D,"3,657",+,None
+"Friday, Apr 24",boxscore,DET,@,CLE,L,1,2,None,2-6,7, 4.0,Joss,Mullin,None,1:40,D,"3,251",-,None
+"Saturday, Apr 25",boxscore,DET,@,CLE,W,3,2,10,3-6,7, 3.0,Summers,Liebhardt,None,2:03,D,None,+,None
+"Monday, Apr 27",boxscore,DET,@,CLE,L,1,3,None,3-7,7, 3.5,Chech,Malloy,None,1:36,D,"1,912",-,None
+"Tuesday, Apr 28",boxscore,DET,@,CLE,L,5,11,None,3-8,8, 4.5,Joss,Killian,None,2:02,D,"1,386",--,None
+"Wednesday, Apr 29",boxscore,DET,None,CHW,L,3,6,None,3-9,8, 5.0,White,Siever,None,1:40,D,"1,263",---,None
+"Friday, May 1",boxscore,DET,None,CHW,W,4,2,None,4-9,7, 4.5,Mullin,Smith,None,1:40,D,"2,346",+,None
+"Monday, May 4",boxscore,DET,@,SLB,W,1,0,6,5-9,7, 4.0,Summers,Waddell,None,1:19,D,"2,000",++,None
+"Tuesday, May 5",boxscore,DET,@,SLB,L,1,2,None,5-10,7, 5.0,Grahame,Killian,None,1:42,D,"4,000",-,None
+"Saturday, May 9",boxscore,DET,@,CLE,L,3,4,None,5-11,7, 5.0,Joss,Summers,None,1:44,D,None,--,None
+"Saturday, May 9",boxscore,DET,@,CLE,W,5,2,6,6-11,7, 5.0,Mullin,Rhoads,None,1:18,D,"9,398",+,1908-05-08 (Rain)
+"Sunday, May 10",boxscore,DET,@,SLB,W,6,2,None,7-11,6, 4.0,Donovan,Waddell,None,1:40,D,None,++,None
+"Sunday, May 10",boxscore,DET,@,SLB,W,11,4,None,8-11,6, 4.0,Killian,Grahame,None,2:10,D,None,+++,1908-05-03 (Rain)
+"Tuesday, May 12",boxscore,DET,@,BOS,W,4,2,None,9-11,6, 3.5,Siever,Cicotte,None,1:54,D,"6,472",++++,None
+"Wednesday, May 13",boxscore,DET,@,BOS,W,10,3,None,10-11,6, 3.5,Mullin,Winter,None,2:07,D,"4,647",+++++,None
+"Friday, May 15",boxscore,DET,@,BOS,W,6,4,None,11-11,5, 3.5,Killian,Young,None,1:50,D,"4,433",++++++,None
+"Saturday, May 16",boxscore,DET,@,NYY,L,6,7,None,11-12,6, 4.5,Lake,Siever,None,2:26,D,"20,000",-,None
+"Monday, May 18",boxscore,DET,@,NYY,W,11,6,None,12-12,4, 3.5,Mullin,Chesbro,None,2:10,D,"6,000",+,None
+"Tuesday, May 19",boxscore,DET,@,NYY,L,1,6,None,12-13,6, 4.5,Manning,Killian,None,1:55,D,"3,500",-,None
+"Thursday, May 21",boxscore,DET,@,WSH,L,0,1,None,12-14,6, 4.5,Burns,Siever,None,1:15,D,"3,200",--,None
+"Friday, May 22",boxscore,DET,@,WSH,W,4,1,None,13-14,6, 4.0,Summers,Patten,Killian,1:45,D,"3,600",+,None
+"Saturday, May 23",boxscore,DET,@,WSH,W,3,2,None,14-14,4, 4.0,Killian,Hughes,None,1:40,D,"4,300",++,None
+"Monday, May 25",boxscore,DET,@,WSH,W,1,0,None,15-14,4, 3.0,Siever,Burns,None,1:35,D,"4,500",+++,None
+"Tuesday, May 26",boxscore,DET,@,PHA,W,1,0,None,16-14,3, 2.0,Donovan,Plank,None,1:37,D,"4,960",++++,None
+"Wednesday, May 27",boxscore,DET,@,PHA,L,4,5,None,16-15,4, 2.0,Krause,Mullin,None,2:05,D,"4,659",-,None
+"Thursday, May 28",boxscore,DET,@,PHA,W,10,2,None,17-15,3, 1.0,Summers,Dygert,None,1:50,D,"5,051",+,None
+"Saturday, May 30",boxscore,DET,None,CHW,W,6,3,None,18-15,1, Tied,Killian,White,None,None,D,None,++,None
+"Saturday, May 30",boxscore,DET,None,CHW,W,9,5,None,19-15,1, Tied,Mullin,Smith,None,None,D,None,+++,None
+"Sunday, May 31",boxscore,DET,@,CHW,L,0,1,None,19-16,1, Tied,Walsh,Willett,None,None,D,None,-,None
+"Sunday, May 31",boxscore,DET,@,CHW,W,2,1,None,20-16,1, Tied,Suggs,White,None,None,D,None,+,1908-04-15 (Rain)
+"Monday, Jun 1",boxscore,DET,None,CLE,L,1,9,None,20-17,2, 1.0,Rhoads,Summers,None,None,D,None,-,None
+"Tuesday, Jun 2",boxscore,DET,None,CLE,L,5,6,None,20-18,5, 1.5,Chech,Mullin,None,None,D,None,--,None
+"Tuesday, Jun 2",boxscore,DET,None,CLE,L,1,6,None,20-19,5, 1.5,Liebhardt,Summers,None,None,D,None,---,1908-04-18 (Rain)
+"Wednesday, Jun 3",boxscore,DET,None,CLE,W,2,1,None,21-19,3, 0.5,Willett,Joss,None,None,D,None,+,None
+"Thursday, Jun 4",boxscore,DET,None,BOS,L,1,2,None,21-20,4, 1.5,Young,Siever,None,None,D,None,-,None
+"Friday, Jun 5",boxscore,DET,None,BOS,W,8,7,None,22-20,3, 1.5,Killian,Winter,None,None,D,None,+,None
+"Saturday, Jun 6",boxscore,DET,None,BOS,L,5,10,None,22-21,3, 1.5,Morgan,Willett,Young,2:30,D,None,-,None
+"Sunday, Jun 7",boxscore,DET,None,BOS,L,5,9,None,22-22,6, 2.0,Burchell,Summers,Pruiett,None,D,None,--,1908-08-03 (Schedule change)
+"Tuesday, Jun 9",boxscore,DET,None,NYY,L,3,5,None,22-23,6, 2.5,Manning,Killian,None,1:50,D,"3,000",---,None
+"Wednesday, Jun 10",boxscore,DET,None,NYY,W,7,6,12,23-23,5, 2.5,Mullin,Lake,None,2:45,D,"2,500",+,None
+"Thursday, Jun 11",boxscore,DET,None,NYY,W,3,1,None,24-23,4, 2.5,Willett,Chesbro,None,2:20,D,"4,000",++,None
+"Friday, Jun 12",boxscore,DET,None,NYY,W,5,2,None,25-23,4, 2.5,Donovan,Manning,None,1:40,D,"12,500",+++,None
+"Saturday, Jun 13",boxscore,DET,None,PHA,W,2,1,None,26-23,4, 2.5,Summers,Dygert,None,None,D,None,++++,None
+"Sunday, Jun 14",boxscore,DET,None,PHA,L,3,5,None,26-24,4, 3.5,Vickers,Killian,None,None,D,None,-,1908-06-15 (Schedule change)
+"Tuesday, Jun 16",boxscore,DET,None,PHA,W,7,3,None,27-24,4, 4.0,Willett,Plank,None,None,D,None,+,None
+"Wednesday, Jun 17",boxscore,DET,None,PHA,W,4,3,None,28-24,4, 3.0,Donovan,Dygert,None,None,D,None,++,None
+"Thursday, Jun 18",boxscore,DET,None,WSH,L,0,5,None,28-25,4, 4.0,Burns,Siever,None,None,D,None,-,None
+"Saturday, Jun 20",boxscore,DET,None,WSH,W,4,2,None,29-25,4, 4.5,Killian,Hughes,None,None,D,None,+,None
+"Sunday, Jun 21",boxscore,DET,None,WSH,W,5,2,None,30-25,4, 4.5,Summers,Burns,None,None,D,None,++,1908-06-19 (Rain)
+"Monday, Jun 22",boxscore,DET,None,CHW,W,4,1,None,31-25,4, 3.5,Willett,White,None,None,D,None,+++,1908-04-30 (Rain)
+"Tuesday, Jun 23",boxscore,DET,None,CHW,W,6,1,None,32-25,3, 2.5,Donovan,Walsh,None,None,D,None,++++,1908-05-02 (Rain)
+"Wednesday, Jun 24",boxscore,DET,None,SLB,L,1,7,None,32-26,4, 2.5,Waddell,Mullin,None,None,D,None,-,None
+"Thursday, Jun 25",boxscore,DET,None,SLB,L,1,4,None,32-27,4, 3.5,Powell,Summers,None,None,D,None,--,None
+"Friday, Jun 26",boxscore,DET,None,SLB,L,2,4,None,32-28,4, 4.5,Howell,Willett,None,None,D,None,---,None
+"Saturday, Jun 27",boxscore,DET,None,SLB,W,1,0,None,33-28,4, 3.5,Donovan,Grahame,None,None,D,None,+,None
+"Sunday, Jun 28",boxscore,DET,@,CHW,W,10,5,None,34-28,4, 3.5,Summers,Altrock,None,None,D,None,++,None
+"Tuesday, Jun 30",boxscore,DET,@,CHW,L,1,2,None,34-29,4, 3.5,White,Mullin,None,None,D,None,-,None
+"Wednesday, Jul 1",boxscore,DET,@,CHW,W,3,1,None,35-29,4, 3.0,Killian,Altrock,None,None,D,None,+,None
+"Thursday, Jul 2",boxscore,DET,@,CLE,W,11,1,None,36-29,3, 2.0,Willett,Chech,None,None,D,None,++,None
+"Friday, Jul 3",boxscore,DET,@,CLE,W,6,0,None,37-29,3, 1.5,Donovan,Liebhardt,None,None,D,None,+++,None
+"Saturday, Jul 4",boxscore,DET,@,CLE,W,1,0,None,38-29,3, 1.5,Summers,Joss,None,None,D,None,++++,None
+"Saturday, Jul 4",boxscore,DET,@,CLE,L,3,5,None,38-30,3, 1.5,Rhoads,Mullin,None,None,D,None,-,None
+"Sunday, Jul 5",boxscore,DET,@,CHW,W,5,3,None,39-30,2, 1.5,Summers,Altrock,None,None,D,None,+,None
+"Tuesday, Jul 7",boxscore,DET,@,NYY,W,8,3,None,40-30,2, 1.0,Willett,Newton,None,2:00,D,"2,000",++,None
+"Tuesday, Jul 7",boxscore,DET,@,NYY,W,11,4,None,41-30,2, 1.0,Donovan,Lake,None,1:57,D,"4,000",+++,1908-05-20 (Rain)
+"Wednesday, Jul 8",boxscore,DET,@,NYY,W,6,3,None,42-30,1, Tied,Mullin,Chesbro,None,1:45,D,"2,000",++++,None
+"Thursday, Jul 9",boxscore,DET,@,NYY,W,10,8,None,43-30,1, Tied,Summers,Manning,Willett,2:00,D,"2,000",+++++,None
+"Friday, Jul 10",boxscore,DET,@,NYY,W,8,2,None,44-30,1, Tied,Willett,Chesbro,None,1:55,D,"1,500",++++++,None
+"Saturday, Jul 11",boxscore,DET,@,BOS,L,3,7,None,44-31,1, Tied,Burchell,Donovan,None,1:40,D,"15,153",-,None
+"Monday, Jul 13",boxscore,DET,@,BOS,W,6,2,None,45-31,2, 1.0,Killian,Pruiett,None,1:40,D,"20,738",+,None
+"Monday, Jul 13",boxscore,DET,@,BOS,L,2,4,None,45-32,2, 1.0,Morgan,Summers,None,1:45,D,"20,738",-,1908-05-14 (Rain)
+"Tuesday, Jul 14",boxscore,DET,@,BOS,W,5,3,10,46-32,1, Tied,Mullin,Winter,None,1:59,D,"4,116",+,None
+"Wednesday, Jul 15",boxscore,DET,@,BOS,W,5,1,None,47-32,1,up 1.0,Willett,Burchell,None,1:46,D,"6,860",++,None
+"Thursday, Jul 16",boxscore,DET,@,PHA,L,3,5,None,47-33,1,up 1.0,Plank,Donovan,None,None,D,None,-,None
+"Friday, Jul 17",boxscore,DET,@,PHA,W,21,2,None,48-33,1,up 2.0,Summers,Vickers,Suggs,None,D,None,+,None
+"Saturday, Jul 18",boxscore,DET,@,PHA,L,5,11,None,48-34,1,up 1.0,Dygert,Mullin,None,None,D,None,-,None
+"Monday, Jul 20",boxscore,DET,@,PHA,W,4,1,None,49-34,1,up 1.0,Donovan,Plank,None,None,D,None,+,None
+"Tuesday, Jul 21",boxscore,DET,@,WSH,W,4,1,None,50-34,1,up 2.5,Killian,Burns,None,None,D,None,++,None
+"Wednesday, Jul 22",boxscore,DET,@,WSH,W,6,0,None,51-34,1,up 2.5,Mullin,Hughes,None,None,D,None,+++,None
+"Thursday, Jul 23",boxscore,DET,@,WSH,W,4,2,None,52-34,1,up 2.5,Willett,Johnson,None,None,D,None,++++,None
+"Friday, Jul 24",boxscore,DET,@,CLE,W,4,0,None,53-34,1,up 3.0,Summers,Joss,None,None,D,None,+++++,None
+"Saturday, Jul 25",boxscore,DET,None,NYY,W,5,3,None,54-34,1,up 3.0,Donovan,Chesbro,None,1:50,D,"10,000",++++++,None
+"Sunday, Jul 26",boxscore,DET,None,NYY,W,6,2,None,55-34,1,up 3.0,Mullin,Manning,None,None,D,None,+++++++,1908-07-28 (Schedule change)
+"Monday, Jul 27",boxscore,DET,None,NYY,W,4,2,None,56-34,1,up 3.0,Willett,Hogg,None,1:45,D,"6,300",++++++++,None
+"Thursday, Jul 30",boxscore,DET,None,BOS,W,3,2,None,57-34,1,up 3.0,Killian,Young,None,None,D,None,+++++++++,None
+"Friday, Jul 31",boxscore,DET,None,BOS,L,5,9,None,57-35,1,up 2.0,Steele,Summers,None,None,D,None,-,None
+"Saturday, Aug 1",boxscore,DET,None,BOS,W,3,0,None,58-35,1,up 3.0,Willett,Morgan,None,None,D,None,+,None
+"Sunday, Aug 2",boxscore,DET,None,BOS,L,4,8,None,58-36,1,up 2.0,Cicotte,Killian,None,None,D,None,-,1908-06-08 (Rain)
+"Tuesday, Aug 4",boxscore,DET,None,PHA,W,4,3,None,59-36,1,up 2.5,Summers,Vickers,None,None,D,None,+,None
+"Wednesday, Aug 5",boxscore,DET,None,PHA,W,5,3,None,60-36,1,up 2.0,Mullin,Dygert,None,None,D,None,++,None
+"Friday, Aug 7",boxscore,DET,None,PHA,L,0,3,None,60-37,1,up 1.0,Plank,Donovan,None,None,D,None,-,None
+"Saturday, Aug 8",boxscore,DET,None,WSH,W,18,1,None,61-37,1,up 2.0,Willett,Keeley,Winter,None,D,None,+,None
+"Sunday, Aug 9",boxscore,DET,None,WSH,W,5,2,None,62-37,1,up 2.0,Summers,Hughes,None,None,D,None,++,1908-08-12 (Rain)
+"Monday, Aug 10",boxscore,DET,None,WSH,L,2,3,None,62-38,1,up 2.0,Johnson,Mullin,Smith,None,D,None,-,None
+"Tuesday, Aug 11",boxscore,DET,None,WSH,L,2,3,None,62-39,1,up 2.0,Smith,Donovan,None,None,D,None,--,None
+"Friday, Aug 14",boxscore,DET,@,BOS,W,5,2,None,63-39,1,up 3.0,Willett,Morgan,None,1:42,D,"4,592",+,None
+"Saturday, Aug 15",boxscore,DET,@,BOS,L,3,4,10,63-40,1,up 3.0,Young,Mullin,None,2:13,D,"14,145",-,None
+"Monday, Aug 17",boxscore,DET,@,BOS,W,1,0,None,64-40,1,up 3.5,Willett,Steele,None,1:33,D,"2,665",+,None
+"Tuesday, Aug 18",boxscore,DET,@,NYY,W,7,3,None,65-40,1,up 4.0,Summers,Hogg,None,1:50,D,"2,000",++,None
+"Wednesday, Aug 19",boxscore,DET,@,NYY,L,0,8,None,65-41,1,up 3.5,Chesbro,Mullin,None,1:50,D,"2,000",-,None
+"Thursday, Aug 20",boxscore,DET,@,NYY,L,3,4,None,65-42,1,up 3.5,Manning,Winter,None,1:50,D,"2,500",--,None
+"Friday, Aug 21",boxscore,DET,@,WSH,L,1,3,None,65-43,1,up 2.5,Johnson,Willett,None,None,D,None,---,None
+"Saturday, Aug 22",boxscore,DET,@,WSH,W,6,4,None,66-43,1,up 3.0,Summers,Cates,None,None,D,None,+,None
+"Monday, Aug 24",boxscore,DET,@,WSH,W,1,0,None,67-43,1,up 3.5,Donovan,Johnson,None,None,D,None,++,None
+"Friday, Aug 28",boxscore,DET,@,PHA,W,1,0,11,68-43,1,up 3.5,Summers,Plank,None,None,D,None,+++,None
+"Friday, Aug 28",boxscore,DET,@,PHA,L,2,11,None,68-44,1,up 3.5,Bender,Willett,None,None,D,None,-,1908-08-26 (Rain)
+"Saturday, Aug 29",boxscore,DET,@,PHA,L,0,4,None,68-45,1,up 3.0,Coombs,Donovan,None,None,D,None,--,None
+"Saturday, Aug 29",boxscore,DET,@,PHA,L,3,4,None,68-46,1,up 3.0,Vickers,Winter,None,None,D,None,---,1908-08-27 (Rain)
+"Sunday, Aug 30",boxscore,DET,None,CLE,L,1,9,None,68-47,1,up 2.5,Rhoads,Willett,None,None,D,None,----,1908-09-01 (Schedule change)
+"Monday, Aug 31",boxscore,DET,None,CLE,L,3,7,None,68-48,1,up 1.5,Chech,Summers,None,None,D,None,-----,None
+"Tuesday, Sep 1",boxscore,DET,None,CLE,L,0,1,None,68-49,1,up 1.5,Joss,Winter,None,None,D,None,------,None
+"Wednesday, Sep 2",boxscore,DET,None,CLE,W,5,3,None,69-49,1,up 2.0,Donovan,Berger,None,None,D,None,+,None
+"Thursday, Sep 3",boxscore,DET,None,CLE,W,2,1,None,70-49,1,up 2.5,Mullin,Rhoads,None,None,D,None,++,None
+"Friday, Sep 4",boxscore,DET,@,SLB,L,2,4,None,70-50,1,up 1.5,Powell,Willett,None,None,D,None,-,None
+"Saturday, Sep 5",boxscore,DET,@,SLB,L,1,2,10,70-51,1,up 0.5,Howell,Summers,None,None,D,None,--,None
+"Sunday, Sep 6",boxscore,DET,@,SLB,W,6,4,None,71-51,1,up 1.0,Donovan,Waddell,None,None,D,None,+,None
+"Monday, Sep 7",boxscore,DET,None,SLB,W,4,3,None,72-51,1,up 3.0,Winter,Powell,None,None,D,None,++,None
+"Monday, Sep 7",boxscore,DET,None,SLB,W,9,3,None,73-51,1,up 3.0,Mullin,Howell,None,None,D,None,+++,None
+"Tuesday, Sep 8",boxscore,DET,None,CHW,L,2,5,None,73-52,1,up 2.0,White,Killian,None,None,D,None,-,None
+"Wednesday, Sep 9",boxscore,DET,None,CHW,W,7,6,12,74-52,1,up 3.0,Summers,Smith,None,None,D,None,+,None
+"Thursday, Sep 10",boxscore,DET,None,CHW,W,6,5,10,75-52,1,up 4.0,Donovan,Walsh,None,None,D,None,++,None
+"Friday, Sep 11",boxscore,DET,None,CHW,L,2,4,11,75-53,1,up 3.0,Walsh,Mullin,None,None,D,None,-,None
+"Saturday, Sep 12",boxscore,DET,None,CHW,L,1,2,10,75-54,1,up 2.0,Smith,Winter,None,None,D,None,--,None
+"Sunday, Sep 13",boxscore,DET,@,SLB,L,1,2,11,75-55,1,up 1.5,Waddell,Summers,None,None,D,None,---,None
+"Monday, Sep 14",boxscore,DET,@,SLB,L,2,5,None,75-56,1,up 1.5,Powell,Donovan,None,None,D,None,----,None
+"Tuesday, Sep 15",boxscore,DET,@,SLB,W,8,7,None,76-56,1,up 2.0,Mullin,Howell,Summers,None,D,None,+,None
+"Wednesday, Sep 16",boxscore,DET,@,SLB,W,4,1,None,77-56,1,up 2.0,Summers,Waddell,None,None,D,None,++,None
+"Thursday, Sep 17",boxscore,DET,None,NYY,W,7,4,None,78-56,1,up 2.0,Donovan,Hogg,None,2:07,D,"5,000",+++,None
+"Friday, Sep 18",boxscore,DET,None,NYY,L,1,5,None,78-57,1,up 1.0,Chesbro,Winter,None,1:35,D,"5,000",-,None
+"Saturday, Sep 19",boxscore,DET,None,NYY,L,5,6,None,78-58,1, Tied,Manning,Mullin,None,1:40,D,"6,000",--,None
+"Sunday, Sep 20",boxscore,DET,None,NYY,W,2,1,None,79-58,1,up 0.5,Summers,Wilson,None,None,D,None,+,1908-07-29 (Schedule change)
+"Monday, Sep 21",boxscore,DET,None,BOS,L,3,4,None,79-59,2, 0.5,Burchell,Killian,None,1:32,D,"3,850",-,None
+"Tuesday, Sep 22",boxscore,DET,None,BOS,L,1,4,None,79-60,2, 1.5,Cicotte,Willett,None,1:40,D,"3,915",--,None
+"Wednesday, Sep 23",boxscore,DET,None,BOS,L,1,4,None,79-61,3, 2.5,Young,Donovan,None,1:40,D,"2,710",---,None
+"Thursday, Sep 24",boxscore,DET,None,PHA,T,4,4,10,79-61,3, 2.0,None,None,None,None,D,None,---,None
+"Friday, Sep 25",boxscore,DET,None,PHA,W,7,2,None,80-61,2, 0.5,Summers,Kellogg,None,None,D,None,+,None
+"Friday, Sep 25",boxscore,DET,None,PHA,W,1,0,10,81-61,2, 0.5,Summers,Schlitzer,None,None,D,None,++,1908-08-06 (Rain)
+"Saturday, Sep 26",boxscore,DET,None,PHA,W,3,2,None,82-61,2, 0.5,Donovan,Plank,None,None,D,None,+++,None
+"Sunday, Sep 27",boxscore,DET,None,PHA,W,5,2,None,83-61,1, Tied,Mullin,Coombs,None,None,D,None,++++,None
+"Monday, Sep 28",boxscore,DET,None,WSH,W,4,1,None,84-61,1,up 0.5,Killian,Hughes,None,None,D,None,+++++,None
+"Tuesday, Sep 29",boxscore,DET,None,WSH,W,4,1,None,85-61,1,up 0.5,Willett,Witherup,None,None,D,None,++++++,None
+"Tuesday, Sep 29",boxscore,DET,None,WSH,W,7,3,None,86-61,1,up 0.5,Summers,Johnson,None,None,D,None,+++++++,1908-08-12 (Rain)
+"Wednesday, Sep 30",boxscore,DET,None,WSH,W,7,5,None,87-61,1,up 0.5,Mullin,Tannehill,None,None,D,None,++++++++,None
+"Friday, Oct 2",boxscore,DET,None,SLB,W,7,6,None,88-61,1,up 0.5,Mullin,Howell,None,None,D,None,+++++++++,None
+"Saturday, Oct 3",boxscore,DET,None,SLB,W,6,0,None,89-61,1,up 1.5,Donovan,Powell,None,None,D,None,++++++++++,None
+"Sunday, Oct 4",boxscore,DET,@,CHW,L,1,3,None,89-62,1,up 1.0,White,Killian,None,None,D,None,-,None
+"Monday, Oct 5",boxscore,DET,@,CHW,L,1,6,None,89-63,1,up 0.5,Walsh,Summers,None,None,D,None,--,None
+"Tuesday, Oct 6",boxscore,DET,@,CHW,W,7,0,None,90-63,1,up 0.5,Donovan,White,None,1:50,D,"25,000",+,None

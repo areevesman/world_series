@@ -1,0 +1,162 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 11",boxscore,STL,None,ATL,W,10,3,None,2-0,1, Tied,Briles,Kelley,Hoerner,2:40,N,"16,214",++,None
+"Saturday, Apr 13",boxscore,STL,@,CHC,W,8,5,None,3-0,2, 0.5,Carlton,Hands,Willis,2:48,D,"33,875",+++,None
+"Sunday, Apr 14",boxscore,STL,@,CHC,L,6,7,None,3-1,2, 0.5,Niekro,Hughes,Tiefenauer,2:32,D,"8,343",-,None
+"Monday, Apr 15",boxscore,STL,@,ATL,W,4,3,10,4-1,2, 0.5,Hoerner,Jarvis,Hughes,2:40,N,"11,738",+,None
+"Tuesday, Apr 16",boxscore,STL,@,ATL,W,6,2,None,5-1,1, Tied,Briles,Cloninger,Hoerner,2:39,N,"8,412",++,None
+"Wednesday, Apr 17",boxscore,STL,@,CIN,L-wo,3,4,12,5-2,1, Tied,Lee,Willis,None,3:15,N,"3,374",-,None
+"Thursday, Apr 18",boxscore,STL,@,CIN,L-wo,3,4,12,5-3,2, 0.5,Lee,Jaster,None,3:00,N,"6,728",--,None
+"Friday, Apr 19",boxscore,STL,None,CHC,W,9,2,None,6-3,1,up 0.5,Torrez,Nye,Gilson,2:32,N,"13,129",+,None
+"Saturday, Apr 20",boxscore,STL,None,CHC,L,1,5,None,6-4,2, 0.5,Jenkins,Gibson,None,2:03,N,"29,348",-,None
+"Sunday, Apr 21",boxscore,STL,None,CHC,W,9,2,None,7-4,1,up 0.5,Briles,Holtzman,None,2:10,D,"26,942",+,None
+"Tuesday, Apr 23",boxscore,STL,None,CIN,W-wo,4,2,10,8-4,1,up 1.0,Hoerner,McCool,None,2:18,N,"8,706",++,None
+"Wednesday, Apr 24",boxscore,STL,None,CIN,W,7,0,None,9-4,1,up 1.5,Washburn,Tsitouris,None,2:15,N,"9,666",+++,None
+"Friday, Apr 26",boxscore,STL,None,PIT,W,2,1,None,10-4,1,up 2.0,Gibson,Veale,None,2:04,N,"39,866",++++,None
+"Saturday, Apr 27",boxscore,STL,None,PIT,W,7,5,None,11-4,1,up 2.5,Briles,McBean,Hoerner,2:37,D,"20,863",+++++,None
+"Sunday, Apr 28",boxscore,STL,None,PIT,W,4,2,None,12-4,1,up 2.5,Carlton,Sisk,None,2:15,D,"20,562",++++++,None
+"Monday, Apr 29",boxscore,STL,@,LAD,L,2,3,None,12-5,1,up 2.5,Sutton,Torrez,Brewer,2:28,N,"21,562",-,None
+"Tuesday, Apr 30",boxscore,STL,@,LAD,W,2,1,None,13-5,1,up 2.5,Washburn,Singer,Hoerner,2:08,N,"20,901",+,None
+"Wednesday, May 1",boxscore,STL,@,HOU,W,3,1,12,14-5,1,up 3.5,Gibson,Blasingame,None,2:55,N,"14,726",++,None
+"Thursday, May 2",boxscore,STL,@,HOU,L,0,4,None,14-6,1,up 3.5,Lemaster,Briles,None,2:14,N,"11,431",-,None
+"Friday, May 3",boxscore,STL,@,SFG,L-wo,4,5,None,14-7,1,up 2.5,Marichal,Carlton,None,2:35,N,"15,935",--,None
+"Saturday, May 4",boxscore,STL,@,SFG,W,11,6,None,15-7,1,up 3.5,Torrez,Sadecki,Hoerner,3:06,D,"17,485",+,None
+"Sunday, May 5",boxscore,STL,@,SFG,L,4,8,None,15-8,1,up 2.5,McCormick,Washburn,None,3:00,D,"28,007",-,None
+"Monday, May 6",boxscore,STL,None,NYM,W-wo,2,1,11,16-8,1,up 2.5,Gibson,Seaver,None,2:10,N,"12,741",+,None
+"Tuesday, May 7",boxscore,STL,None,NYM,L,1,4,None,16-9,1,up 2.5,Ryan,Briles,None,2:27,N,"9,687",-,None
+"Wednesday, May 8",boxscore,STL,None,NYM,W,2,0,None,17-9,1,up 3.5,Carlton,Jackson,None,2:03,N,"11,282",+,None
+"Saturday, May 11",boxscore,STL,None,HOU,W-wo,4,3,13,18-9,1,up 3.5,Jaster,Cuellar,None,3:26,N,"16,093",++,None
+"Sunday, May 12",boxscore,STL,None,HOU,L,2,3,None,18-10,1,up 3.5,Dierker,Gibson,None,2:02,D,"19,085",-,None
+"Monday, May 13",boxscore,STL,@,PIT,W,1,0,None,19-10,1,up 4.0,Briles,Bunning,None,2:23,N,"10,082",+,None
+"Wednesday, May 15",boxscore,STL,@,PIT,W,1,0,None,20-10,1,up 3.5,Carlton,Blass,None,2:08,N,"9,461",++,None
+"Thursday, May 16",boxscore,STL,@,PIT,L,0,3,None,20-11,1,up 2.5,Veale,Washburn,None,2:16,N,"9,595",-,None
+"Friday, May 17",boxscore,STL,@,PHI,L-wo,0,1,10,20-12,1,up 1.5,Fryman,Gibson,None,2:30,D,"17,034",--,None
+"Saturday, May 18",boxscore,STL,@,PHI,L,2,3,None,20-13,1,up 1.5,Jackson,Briles,None,1:52,N,"12,941",---,None
+"Sunday, May 19",boxscore,STL,@,PHI,L-wo,3,4,None,20-14,1,up 1.0,Farrell,Hoerner,None,2:13,D,"27,725",----,None
+"Monday, May 20",boxscore,STL,None,LAD,W,2,1,None,21-14,1,up 1.0,Jaster,Sutton,None,2:08,N,"12,764",+,None
+"Tuesday, May 21",boxscore,STL,None,LAD,L,2,9,None,21-15,1,up 1.0,Singer,Washburn,None,2:21,N,"13,633",-,None
+"Wednesday, May 22",boxscore,STL,None,LAD,L,0,2,None,21-16,1, Tied,Drysdale,Gibson,None,1:51,N,"9,560",--,None
+"Thursday, May 23",boxscore,STL,None,LAD,L,2,3,11,21-17,2, 1.0,Purdin,Hughes,None,2:55,D,"11,065",---,None
+"Friday, May 24",boxscore,STL,None,PHI,W,5,1,None,22-17,2, 1.0,Carlton,Short,None,1:52,N,"34,515",+,None
+"Saturday, May 25",boxscore,STL,None,PHI,L,0,1,None,22-18,2, 1.0,Jackson,Jaster,Farrell,2:13,N,"19,432",-,None
+"Sunday, May 26",boxscore,STL,None,PHI,L,3,9,None,22-19,2, 1.0,Fryman,Gilson,None,2:48,D,"42,446",--,None
+"Tuesday, May 28",boxscore,STL,None,SFG,L,1,3,8,22-20,3, 2.0,Perry,Gibson,None,1:51,N,"19,392",---,None
+"Wednesday, May 29",boxscore,STL,None,SFG,L,1,2,None,22-21,4, 3.0,Marichal,Briles,None,2:33,N,"25,412",----,None
+"Thursday, May 30",boxscore,STL,None,SFG,W,6,0,None,23-21,3, 2.0,Carlton,Sadecki,None,2:19,N,"23,246",+,None
+"Friday, May 31",boxscore,STL,@,NYM,W,2,0,None,24-21,3, 1.0,Jaster,Seaver,None,2:10,N,"41,075",++,None
+"Saturday, Jun 1",boxscore,STL,@,NYM,W,6,5,10,25-21,1, Tied,Hoerner,Koonce,None,3:02,D,"28,006",+++,None
+"Sunday, Jun 2",boxscore,STL,@,NYM,W,6,3,None,26-21,1,up 0.5,Gibson,Jackson,None,2:30,D,None,++++,None
+"Sunday, Jun 2",boxscore,STL,@,NYM,W,3,2,None,27-21,1,up 0.5,Hughes,Cardwell,Willis,2:29,D,"32,520",+++++,None
+"Monday, Jun 3",boxscore,STL,@,HOU,W,7,2,None,28-21,1,up 1.0,Briles,Lemaster,None,2:55,N,"17,970",++++++,None
+"Tuesday, Jun 4",boxscore,STL,@,HOU,W,3,2,None,29-21,1,up 2.0,Carlton,Buzhardt,Hoerner,2:37,N,"18,867",+++++++,None
+"Wednesday, Jun 5",boxscore,STL,@,HOU,W,3,1,None,30-21,1,up 2.5,Jaster,Dierker,Granger,2:28,N,"18,475",++++++++,None
+"Thursday, Jun 6",boxscore,STL,@,HOU,W,4,0,None,31-21,1,up 3.5,Gibson,Wilson,None,2:01,N,"15,218",+++++++++,None
+"Friday, Jun 7",boxscore,STL,@,CIN,L,2,4,None,31-22,1,up 2.5,Maloney,Gilson,None,2:16,N,"17,685",-,None
+"Saturday, Jun 8",boxscore,STL,@,CIN,W,7,2,None,32-22,1,up 2.5,Briles,Culver,None,2:40,N,"13,368",+,None
+"Sunday, Jun 9",boxscore,STL,@,CIN,W,10,8,None,33-22,1,up 2.0,Willis,Lee,None,3:00,D,None,++,None
+"Sunday, Jun 9",boxscore,STL,@,CIN,L-wo,6,7,12,33-23,1,up 2.0,Culver,Carlton,None,3:17,D,"28,141",-,None
+"Monday, Jun 10",boxscore,STL,@,ATL,W,4,3,None,34-23,1,up 3.0,Jaster,Niekro,Granger,2:35,N,"26,836",+,None
+"Tuesday, Jun 11",boxscore,STL,@,ATL,W,6,0,None,35-23,1,up 4.0,Gibson,Kelley,None,2:11,N,"23,345",++,None
+"Wednesday, Jun 12",boxscore,STL,@,ATL,L,1,7,None,35-24,1,up 3.0,Jarvis,Briles,None,2:21,N,"16,656",-,None
+"Thursday, Jun 13",boxscore,STL,@,ATL,W,3,1,12,36-24,1,up 4.0,Hoerner,Niekro,Gilson,3:18,N,"20,254",+,None
+"Friday, Jun 14",boxscore,STL,None,CIN,L,0,7,None,36-25,1,up 4.0,McCool,Jaster,Abernathy,2:19,N,"31,507",-,None
+"Saturday, Jun 15",boxscore,STL,None,CIN,W,2,0,None,37-25,1,up 4.0,Gibson,Nolan,None,1:42,N,"35,831",+,None
+"Sunday, Jun 16",boxscore,STL,None,CIN,W,4,2,None,38-25,1,up 4.5,Washburn,Culver,Willis,2:01,D,"31,737",++,None
+"Tuesday, Jun 18",boxscore,STL,None,CHC,W,1,0,None,39-25,1,up 5.5,Briles,Hands,None,2:05,N,"28,235",+++,None
+"Wednesday, Jun 19",boxscore,STL,None,CHC,W,4,0,None,40-25,1,up 5.5,Carlton,Nye,None,2:00,N,"27,577",++++,None
+"Thursday, Jun 20",boxscore,STL,None,CHC,W,1,0,None,41-25,1,up 5.5,Gibson,Jenkins,None,2:05,D,"26,550",+++++,None
+"Friday, Jun 21",boxscore,STL,None,ATL,W-wo,4,3,13,42-25,1,up 6.5,Granger,Raymond,None,3:10,N,"37,869",++++++,None
+"Saturday, Jun 22",boxscore,STL,None,ATL,W,6,1,None,43-25,1,up 7.0,Washburn,Jarvis,None,2:07,D,"24,608",+++++++,None
+"Sunday, Jun 23",boxscore,STL,None,ATL,L,1,5,None,43-26,1,up 6.5,Upshaw,Briles,None,2:02,D,None,-,None
+"Sunday, Jun 23",boxscore,STL,None,ATL,W,3,1,None,44-26,1,up 6.5,Nelson,Johnson,None,1:50,D,"49,743",+,None
+"Tuesday, Jun 25",boxscore,STL,None,PIT,L,2,3,None,44-27,1,up 5.5,Veale,Carlton,Walker,2:35,N,"26,927",-,None
+"Wednesday, Jun 26",boxscore,STL,None,PIT,W,3,0,None,45-27,1,up 6.0,Gibson,McBean,None,1:53,N,None,+,None
+"Wednesday, Jun 26",boxscore,STL,None,PIT,L,1,3,None,45-28,1,up 6.0,Blass,Jaster,Kline,2:27,N,"30,641",-,1968-06-24 (Rain)
+"Friday, Jun 28",boxscore,STL,@,CHC,W,9,5,None,46-28,1,up 6.5,Briles,Jenkins,Granger,2:31,D,"17,433",+,None
+"Saturday, Jun 29",boxscore,STL,@,CHC,L,8,10,None,46-29,1,up 6.5,Regan,Nelson,None,3:13,D,"18,872",-,None
+"Sunday, Jun 30",boxscore,STL,@,CHC,L,2,6,None,46-30,1,up 6.5,Hands,Carlton,None,2:27,D,"36,414",--,None
+"Monday, Jul 1",boxscore,STL,@,LAD,W,5,1,None,47-30,1,up 6.5,Gibson,Drysdale,None,2:21,N,"42,603",+,None
+"Tuesday, Jul 2",boxscore,STL,@,LAD,W,5,3,None,48-30,1,up 7.5,Granger,Brewer,Hoerner,2:42,N,"22,828",++,None
+"Wednesday, Jul 3",boxscore,STL,@,LAD,W,2,1,None,49-30,1,up 7.5,Briles,Kekich,None,2:37,N,"24,178",+++,None
+"Thursday, Jul 4",boxscore,STL,@,LAD,W,3,2,None,50-30,1,up 8.5,Washburn,Osteen,Hughes,2:32,D,"21,681",++++,None
+"Friday, Jul 5",boxscore,STL,@,SFG,W,4,3,12,51-30,1,up 9.0,Granger,Gibbon,None,3:11,N,"15,556",+++++,None
+"Saturday, Jul 6",boxscore,STL,@,SFG,W,3,0,None,52-30,1,up 9.0,Gibson,Marichal,None,2:20,D,"28,233",++++++,None
+"Sunday, Jul 7",boxscore,STL,@,SFG,W,2,0,None,53-30,1,up10.0,Jaster,Perry,Willis,2:28,D,"23,993",+++++++,None
+"Thursday, Jul 11",boxscore,STL,None,HOU,L,4,5,10,53-31,1,up 9.5,Buzhardt,Willis,Dukes,2:52,N,None,-,None
+"Thursday, Jul 11",boxscore,STL,None,HOU,W,8,7,None,54-31,1,up 9.5,Willis,Dukes,Hoerner,2:31,N,"35,300",+,1968-05-10 (Rain)
+"Friday, Jul 12",boxscore,STL,None,HOU,W,8,1,None,55-31,1,up 9.5,Gibson,Lemaster,None,2:00,N,"28,944",++,None
+"Saturday, Jul 13",boxscore,STL,None,HOU,W,5,4,None,56-31,1,up 9.5,Carlton,Coombs,Hoerner,2:26,N,"37,139",+++,None
+"Sunday, Jul 14",boxscore,STL,None,LAD,W,5,1,None,57-31,1,up 9.5,Jaster,Kekich,Hoerner,2:00,D,"34,761",++++,None
+"Monday, Jul 15",boxscore,STL,None,LAD,W,4,2,None,58-31,1,up 9.5,Washburn,Osteen,Nelson,1:55,N,"24,081",+++++,None
+"Tuesday, Jul 16",boxscore,STL,None,SFG,W,6,1,None,59-31,1,up 9.5,Briles,Sadecki,None,2:25,N,"27,249",++++++,None
+"Thursday, Jul 18",boxscore,STL,None,SFG,L,0,3,None,59-32,1,up 9.0,Marichal,Carlton,None,2:30,N,"29,359",-,None
+"Friday, Jul 19",boxscore,STL,None,NYM,L,2,4,None,59-33,1,up 9.0,Jackson,Jaster,Taylor,2:26,N,"40,510",--,None
+"Saturday, Jul 20",boxscore,STL,None,NYM,W,2,0,None,60-33,1,up10.0,Washburn,Selma,None,2:17,D,"22,794",+,None
+"Sunday, Jul 21",boxscore,STL,None,NYM,W,2,0,None,61-33,1,up10.5,Gibson,McAndrew,None,2:05,D,None,++,None
+"Sunday, Jul 21",boxscore,STL,None,NYM,L,0,1,None,61-34,1,up10.5,Koosman,Briles,None,2:22,D,"45,408",-,None
+"Monday, Jul 22",boxscore,STL,None,PHI,W-wo,5,4,None,62-34,1,up11.5,Granger,Boozer,None,2:20,N,"17,619",+,None
+"Tuesday, Jul 23",boxscore,STL,None,PHI,W,11,5,None,63-34,1,up12.5,Jaster,Wise,Hughes,2:42,N,"26,199",++,None
+"Wednesday, Jul 24",boxscore,STL,None,PHI,W,3,1,None,64-34,1,up12.5,Washburn,Jackson,Hoerner,2:05,N,"23,828",+++,None
+"Thursday, Jul 25",boxscore,STL,None,PHI,W,5,0,None,65-34,1,up12.5,Gibson,Short,None,2:12,N,"28,147",++++,None
+"Friday, Jul 26",boxscore,STL,@,PIT,W,9,1,None,66-34,1,up11.5,Briles,Blass,None,2:26,D,None,+++++,None
+"Friday, Jul 26",boxscore,STL,@,PIT,L-wo,4,5,10,66-35,1,up11.5,Kline,Granger,None,2:43,D,"23,515",-,1968-05-14 (Rain)
+"Saturday, Jul 27",boxscore,STL,@,PIT,W,4,0,None,67-35,1,up12.5,Carlton,Moose,None,2:10,D,"12,147",+,None
+"Sunday, Jul 28",boxscore,STL,@,PIT,L,1,7,None,67-36,1,up12.5,McBean,Jaster,None,2:14,D,"14,926",-,None
+"Monday, Jul 29",boxscore,STL,@,NYM,W,5,1,None,68-36,1,up13.5,Washburn,Ryan,None,2:07,N,"30,486",+,None
+"Tuesday, Jul 30",boxscore,STL,@,NYM,W,7,1,None,69-36,1,up14.0,Gibson,Selma,None,2:02,N,"34,835",++,None
+"Wednesday, Jul 31",boxscore,STL,@,PHI,W,3,2,None,70-36,1,up14.5,Briles,Fryman,None,2:28,N,"14,811",+++,None
+"Thursday, Aug 1",boxscore,STL,@,PHI,W,2,1,8,71-36,1,up15.0,Carlton,Jackson,None,1:35,N,"12,674",++++,None
+"Friday, Aug 2",boxscore,STL,None,CHC,L,0,3,None,71-37,1,up14.5,Holtzman,Jaster,None,2:19,N,"39,621",-,None
+"Saturday, Aug 3",boxscore,STL,None,CHC,L,2,3,None,71-38,1,up14.0,Hands,Washburn,Regan,2:22,D,"38,264",--,None
+"Sunday, Aug 4",boxscore,STL,None,CHC,L,5,6,13,71-39,1,up13.0,Lamabe,Hoerner,Niekro,3:27,D,"47,445",---,None
+"Monday, Aug 5",boxscore,STL,None,CIN,W,3,2,None,72-39,1,up14.0,Briles,Arrigo,Hoerner,2:17,N,"26,607",+,None
+"Tuesday, Aug 6",boxscore,STL,None,CIN,L,0,5,None,72-40,1,up13.0,Maloney,Carlton,None,2:10,N,"26,299",-,None
+"Wednesday, Aug 7",boxscore,STL,None,CIN,W,3,1,None,73-40,1,up14.0,Nelson,Culver,Hughes,1:56,N,"24,995",+,None
+"Thursday, Aug 8",boxscore,STL,None,CIN,W-wo,1,0,11,74-40,1,up14.0,Hoerner,Carroll,None,2:36,N,"24,324",++,None
+"Friday, Aug 9",boxscore,STL,@,ATL,W,1,0,None,75-40,1,up15.0,Gibson,Niekro,None,1:49,N,"41,267",+++,None
+"Saturday, Aug 10",boxscore,STL,@,ATL,W,7,1,None,76-40,1,up15.0,Briles,Pappas,None,2:20,D,"31,094",++++,None
+"Sunday, Aug 11",boxscore,STL,@,ATL,L,3,5,None,76-41,1,up14.0,Jarvis,Carlton,Niekro,2:44,D,"34,874",-,None
+"Monday, Aug 12",boxscore,STL,@,CHC,L,3,7,None,76-42,1,up13.0,Hands,Jaster,None,2:14,D,"30,693",--,None
+"Tuesday, Aug 13",boxscore,STL,@,CHC,L,3,10,None,76-43,1,up12.0,Jenkins,Washburn,None,2:42,D,"35,198",---,None
+"Wednesday, Aug 14",boxscore,STL,@,CHC,W,3,1,None,77-43,1,up13.0,Gibson,Niekro,None,2:25,D,"32,733",+,None
+"Thursday, Aug 15",boxscore,STL,@,CHC,W,8,0,None,78-43,1,up14.0,Briles,Holtzman,None,2:41,D,"23,116",++,None
+"Friday, Aug 16",boxscore,STL,None,ATL,L,1,5,None,78-44,1,up14.0,Pappas,Carlton,Raymond,2:14,N,"42,580",-,None
+"Saturday, Aug 17",boxscore,STL,None,ATL,L,2,3,None,78-45,1,up13.0,Jarvis,Jaster,None,2:06,N,"46,537",--,None
+"Sunday, Aug 18",boxscore,STL,None,ATL,W,10,1,None,79-45,1,up13.5,Washburn,Reed,None,2:07,D,"37,571",+,None
+"Monday, Aug 19",boxscore,STL,@,PHI,W,2,0,None,80-45,1,up13.5,Gibson,Fryman,None,2:19,N,"12,278",++,None
+"Tuesday, Aug 20",boxscore,STL,@,PHI,L,2,8,None,80-46,1,up13.5,Jackson,Briles,None,2:14,N,"9,379",-,None
+"Wednesday, Aug 21",boxscore,STL,@,PHI,W,8,3,None,81-46,1,up14.0,Hughes,Johnson,Hoerner,2:42,N,"9,500",+,None
+"Thursday, Aug 22",boxscore,STL,@,PHI,L,3,7,None,81-47,1,up13.0,Short,Jaster,None,2:15,N,"10,193",-,None
+"Friday, Aug 23",boxscore,STL,None,PIT,W-wo,3,2,11,82-47,1,up13.0,Hoerner,Kline,None,3:00,N,"34,845",+,None
+"Saturday, Aug 24",boxscore,STL,None,PIT,L,4,6,None,82-48,1,up12.0,Face,Gibson,None,2:35,D,"31,019",-,None
+"Sunday, Aug 25",boxscore,STL,None,PIT,W,4,2,None,83-48,1,up13.0,Briles,Ellis,Hoerner,2:03,D,"26,756",+,None
+"Monday, Aug 26",boxscore,STL,None,NYM,L,0,1,None,83-49,1,up12.0,McAndrew,Carlton,None,1:56,N,"23,340",-,None
+"Tuesday, Aug 27",boxscore,STL,None,NYM,L,0,4,None,83-50,1,up11.0,Selma,Jaster,None,2:21,N,"27,541",--,None
+"Wednesday, Aug 28",boxscore,STL,@,PIT,W,8,0,None,84-50,1,up11.0,Gibson,Veale,None,2:20,N,"11,197",+,None
+"Thursday, Aug 29",boxscore,STL,@,PIT,W,5,0,None,85-50,1,up12.0,Washburn,Moose,None,2:43,N,"7,681",++,None
+"Friday, Aug 30",boxscore,STL,@,NYM,L,2,8,None,85-51,1,up12.0,Seaver,Briles,None,2:04,N,"34,425",-,None
+"Saturday, Aug 31",boxscore,STL,@,NYM,W,2,0,None,86-51,1,up12.0,Carlton,McAndrew,Hoerner,2:03,N,"30,714",+,None
+"Sunday, Sep 1",boxscore,STL,@,NYM,W,3,2,11,87-51,1,up13.0,Jaster,Short,None,3:04,D,"28,656",++,None
+"Monday, Sep 2",boxscore,STL,@,CIN,W,1,0,10,88-51,1,up13.0,Gibson,Abernathy,None,2:26,N,"11,846",+++,None
+"Tuesday, Sep 3",boxscore,STL,@,CIN,W,5,3,11,89-51,1,up14.0,Hoerner,McGinn,Granger,3:15,N,"7,446",++++,None
+"Wednesday, Sep 4",boxscore,STL,@,CIN,L,3,8,None,89-52,1,up13.5,Maloney,Briles,Carroll,2:17,N,"8,211",-,None
+"Friday, Sep 6",boxscore,STL,None,SFG,L,2,3,None,89-53,1,up11.5,Bolin,Gibson,Linzy,2:05,N,None,--,None
+"Friday, Sep 6",boxscore,STL,None,SFG,L,7,8,None,89-54,1,up11.5,Marichal,Carlton,Linzy,2:55,N,"46,550",---,1968-07-17 (Rain)
+"Saturday, Sep 7",boxscore,STL,None,SFG,L,1,5,None,89-55,1,up10.5,Perry,Washburn,None,2:35,D,"28,718",----,None
+"Sunday, Sep 8",boxscore,STL,None,SFG,W-wo,3,2,11,90-55,1,up11.5,Hoerner,Linzy,None,2:49,D,"32,926",+,None
+"Monday, Sep 9",boxscore,STL,None,LAD,L,1,10,None,90-56,1,up11.5,Sutton,Jaster,None,2:01,N,"13,508",-,None
+"Tuesday, Sep 10",boxscore,STL,None,LAD,L,0,3,None,90-57,1,up10.5,Singer,Carlton,None,2:15,N,"14,860",--,None
+"Wednesday, Sep 11",boxscore,STL,None,LAD,W,5,4,None,91-57,1,up11.5,Gibson,Kekich,None,1:57,N,"18,835",+,None
+"Friday, Sep 13",boxscore,STL,@,HOU,L,2,4,None,91-58,1,up11.5,Giusti,Washburn,Shea,2:02,N,"15,425",-,None
+"Saturday, Sep 14",boxscore,STL,@,HOU,W,8,0,None,92-58,1,up11.5,Briles,Dierker,None,2:30,N,"16,324",+,None
+"Sunday, Sep 15",boxscore,STL,@,HOU,W,7,4,None,93-58,1,up12.5,Carlton,Wilson,None,2:29,D,"16,638",++,None
+"Tuesday, Sep 17",boxscore,STL,@,SFG,L,0,1,None,93-59,1,up11.0,Perry,Gibson,None,1:40,N,"9,546",-,None
+"Wednesday, Sep 18",boxscore,STL,@,SFG,W,2,0,None,94-59,1,up12.0,Washburn,Bolin,None,2:19,D,"4,703",+,None
+"Thursday, Sep 19",boxscore,STL,@,SFG,L,5,11,None,94-60,1,up11.0,Robertson,Briles,Linzy,2:50,D,"4,502",-,None
+"Friday, Sep 20",boxscore,STL,@,LAD,L,4,5,None,94-61,1,up10.0,Singer,Willis,Brewer,2:41,N,"17,888",--,None
+"Saturday, Sep 21",boxscore,STL,@,LAD,L,0,3,None,94-62,1,up10.0,Osteen,Jaster,Grant,2:20,D,"13,842",---,None
+"Sunday, Sep 22",boxscore,STL,@,LAD,L,2,3,None,94-63,1,up 9.0,Sutton,Gibson,Brewer,2:05,D,"18,529",----,None
+"Tuesday, Sep 24",boxscore,STL,None,PHI,L,1,2,None,94-64,1,up 8.0,Johnson,Washburn,None,2:08,N,"10,530",-----,None
+"Wednesday, Sep 25",boxscore,STL,None,PHI,W,5,4,None,95-64,1,up 9.0,Briles,Short,Hoerner,2:27,N,"10,992",+,None
+"Friday, Sep 27",boxscore,STL,None,HOU,W,1,0,None,96-64,1,up 9.0,Gibson,Dierker,None,2:11,N,"18,658",++,None
+"Saturday, Sep 28",boxscore,STL,None,HOU,L,2,3,None,96-65,1,up 8.0,Dukes,Granger,Shea,1:55,D,"21,502",-,None
+"Sunday, Sep 29",boxscore,STL,None,HOU,W,11,1,None,97-65,1,up 9.0,Washburn,Cuellar,Hoerner,2:16,D,"23,792",+,None

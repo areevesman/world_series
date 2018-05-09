@@ -1,0 +1,156 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 15",boxscore,DET,None,CLE,W,6,2,None,1-1,4, 1.0,Trout,Poat,None,1:45,D,"3,916",+,None
+"Thursday, Apr 16",boxscore,DET,None,CLE,W,5,4,None,2-1,4, 1.0,Bridges,Brown,None,2:09,D,"4,242",++,None
+"Friday, Apr 17",boxscore,DET,@,SLB,L,6,7,None,2-2,4, 2.0,Harris,Trucks,Hollingsworth,2:13,D,"4,956",-,None
+"Saturday, Apr 18",boxscore,DET,@,SLB,W,4,0,None,3-2,4, 1.0,White,Muncrief,None,1:54,D,"3,948",+,None
+"Sunday, Apr 19",boxscore,DET,@,SLB,L,1,2,None,3-3,4, 1.5,Auker,Benton,None,1:22,D,None,-,None
+"Sunday, Apr 19",boxscore,DET,@,SLB,W,1,0,None,4-3,4, 1.5,Fuchs,Niggeling,None,1:58,D,"13,738",+,None
+"Monday, Apr 20",boxscore,DET,@,CHW,L,1,3,None,4-4,4, 1.5,Rigney,Trout,None,1:28,D,"2,024",-,None
+"Tuesday, Apr 21",boxscore,DET,@,CHW,W,4,2,None,5-4,3, 1.0,Rowe,Humphries,Gorsica,2:12,D,"2,706",+,None
+"Wednesday, Apr 22",boxscore,DET,@,CHW,L,1,3,None,5-5,4, 2.0,Dietrich,Bridges,Ross,1:50,D,"28,758",-,None
+"Thursday, Apr 23",boxscore,DET,None,CHW,W,9,0,None,6-5,4, 2.0,White,Lyons,None,1:26,D,"4,274",+,None
+"Friday, Apr 24",boxscore,DET,None,CHW,W,2,1,None,7-5,3, 2.0,Gorsica,Smith,None,1:39,D,"3,792",++,None
+"Saturday, Apr 25",boxscore,DET,None,SLB,W,4,2,None,8-5,3, 1.0,Fuchs,Harris,Newhouser,3:25,D,"6,693",+++,None
+"Sunday, Apr 26",boxscore,DET,None,SLB,W,10,5,None,9-5,3, 0.5,Trucks,Muncrief,Bridges,2:25,D,None,++++,None
+"Sunday, Apr 26",boxscore,DET,None,SLB,W,7,5,None,10-5,3, 0.5,Trout,Niggeling,Henshaw,1:56,D,"42,698",+++++,1942-04-27 (Schedule change)
+"Tuesday, Apr 28",boxscore,DET,@,BOS,L,1,6,None,10-6,3, 1.5,Wagner,White,None,2:21,D,"9,901",-,None
+"Wednesday, Apr 29",boxscore,DET,@,BOS,W,4,2,None,11-6,2, 1.5,Manders,Terry,Gorsica,1:58,D,"6,040",+,None
+"Thursday, Apr 30",boxscore,DET,@,BOS,L,3,8,None,11-7,3, 2.5,Newsome,Fuchs,None,1:58,D,"5,482",-,None
+"Friday, May 1",boxscore,DET,@,NYY,W,7,2,None,12-7,2, 2.5,Trout,Breuer,Newhouser,1:58,D,"10,568",+,None
+"Saturday, May 2",boxscore,DET,@,NYY,W,3,1,None,13-7,2, 2.5,Bridges,Russo,None,1:50,D,"18,630",++,None
+"Sunday, May 3",boxscore,DET,@,PHA,W,8,7,None,14-7,2, 2.0,Gorsica,Harris,None,None,None,None,+++,None
+"Sunday, May 3",boxscore,DET,@,PHA,L,0,1,None,14-8,2, 2.0,Marchildon,Benton,None,None,None,None,-,None
+"Monday, May 4",boxscore,DET,@,PHA,W,6,4,None,15-8,2, 1.0,Fuchs,Besse,Newhouser,2:10,D,"2,201",+,None
+"Tuesday, May 5",boxscore,DET,@,PHA,L,1,2,None,15-9,3, 1.0,Christopher,Trout,None,1:56,D,"2,350",-,None
+"Wednesday, May 6",boxscore,DET,@,WSH,L,0,7,None,15-10,4, 1.5,Newsom,Newhouser,None,2:05,D,"2,000",--,None
+"Saturday, May 9",boxscore,DET,None,CLE,W,1,0,6,16-10,2, 1.0,Benton,Harder,None,1:13,D,"8,791",+,None
+"Sunday, May 10",boxscore,DET,@,CLE,W,5,1,None,17-10,2, 2.0,Bridges,Smith,None,2:32,D,None,++,None
+"Sunday, May 10",boxscore,DET,@,CLE,L-wo,5,6,10,17-11,2, 2.0,Heving,Gorsica,None,2:03,D,"23,429",-,None
+"Monday, May 11",boxscore,DET,@,CLE,L-wo,5,8,None,17-12,3, 2.5,Heving,Fuchs,None,2:11,D,"2,500",--,None
+"Wednesday, May 13",boxscore,DET,None,WSH,W,6,2,None,18-12,3, 1.5,Newhouser,Newsom,None,1:51,D,"5,436",+,None
+"Saturday, May 16",boxscore,DET,None,NYY,L,1,6,None,18-13,3, 3.5,Bonham,Benton,None,1:50,D,None,-,None
+"Saturday, May 16",boxscore,DET,None,NYY,L,1,2,None,18-14,3, 3.5,Chandler,Trout,None,2:11,D,"6,933",--,1942-05-14 (Inclement weather)
+"Sunday, May 17",boxscore,DET,None,BOS,W,4,3,10,19-14,3, 3.0,Bridges,Brown,None,2:05,D,"24,581",+,None
+"Monday, May 18",boxscore,DET,None,BOS,L,2,4,None,19-15,3, 3.5,Wagner,White,None,1:43,D,"3,037",-,None
+"Tuesday, May 19",boxscore,DET,None,BOS,W,5,2,None,20-15,3, 3.5,Newhouser,Terry,None,1:54,D,"5,371",+,None
+"Wednesday, May 20",boxscore,DET,None,PHA,L,3,5,None,20-16,3, 4.0,Harris,Benton,None,1:55,D,"1,854",-,None
+"Thursday, May 21",boxscore,DET,None,PHA,L,3,11,None,20-17,3, 5.0,Marchildon,Trout,None,2:01,D,"3,664",--,None
+"Friday, May 22",boxscore,DET,@,CHW,L,4,7,None,20-18,4, 5.5,Humphries,Trucks,Haynes,2:20,D,"15,050",---,None
+"Sunday, May 24",boxscore,DET,@,CHW,W,6,2,None,21-18,3, 4.5,Bridges,Lyons,None,1:49,D,None,+,None
+"Sunday, May 24",boxscore,DET,@,CHW,W,14,0,None,22-18,3, 4.5,White,Grove,None,2:30,D,"19,198",++,None
+"Monday, May 25",boxscore,DET,@,SLB,L,2,3,None,22-19,3, 5.5,Caster,Newhouser,None,1:52,D,"8,496",-,None
+"Tuesday, May 26",boxscore,DET,@,SLB,W,3,1,None,23-19,3, 5.5,Benton,Hollingsworth,None,1:59,D,"4,126",+,None
+"Wednesday, May 27",boxscore,DET,@,SLB,L,2,5,None,23-20,3, 6.5,Niggeling,Trout,None,1:48,D,896,-,None
+"Thursday, May 28",boxscore,DET,None,CLE,W,6,2,None,24-20,3, 6.5,Trucks,Milnar,None,1:57,D,"3,765",+,None
+"Friday, May 29",boxscore,DET,None,CLE,W,14,3,None,25-20,2, 6.5,White,Smith,None,1:53,D,"3,149",++,None
+"Saturday, May 30",boxscore,DET,None,CHW,W,9,4,None,26-20,2, 7.5,Bridges,Smith,None,2:00,D,None,+++,None
+"Saturday, May 30",boxscore,DET,None,CHW,L,5,12,None,26-21,2, 7.5,Haynes,Fuchs,None,2:31,D,"31,659",-,None
+"Sunday, May 31",boxscore,DET,None,CHW,L,4,9,10,26-22,2, 8.0,Lyons,Henshaw,None,2:10,D,"29,154",--,None
+"Tuesday, Jun 2",boxscore,DET,@,PHA,W,3,0,None,27-22,2, 7.5,Trucks,Harris,None,2:02,D,"5,103",+,None
+"Wednesday, Jun 3",boxscore,DET,@,PHA,L,1,5,None,27-23,2, 8.5,Knott,White,None,None,D,None,-,None
+"Thursday, Jun 4",boxscore,DET,@,PHA,W,8,7,None,28-23,2, 8.5,Manders,Wolff,Newhouser,2:37,D,"5,000",+,None
+"Friday, Jun 5",boxscore,DET,@,WSH,L,2,3,10,28-24,2, 9.5,Newsom,White,None,2:35,D,"10,000",-,None
+"Saturday, Jun 6",boxscore,DET,@,WSH,W,9,3,None,29-24,2, 10.0,Bridges,Zuber,None,2:04,D,None,+,None
+"Saturday, Jun 6",boxscore,DET,@,WSH,L,3,11,None,29-25,2, 10.0,Cathey,Newhouser,Hudson,2:10,D,"4,000",-,1942-05-07 (Inclement weather)
+"Sunday, Jun 7",boxscore,DET,@,WSH,W,6,4,None,30-25,2, 10.0,Trucks,Wynn,Newhouser,1:56,D,None,+,None
+"Sunday, Jun 7",boxscore,DET,@,WSH,L,0,8,None,30-26,2, 10.0,Masterson,Henshaw,None,2:05,D,"15,000",-,None
+"Tuesday, Jun 9",boxscore,DET,@,NYY,L,1,4,None,30-27,3, 11.5,Borowy,Trout,None,1:36,D,"10,206",--,None
+"Wednesday, Jun 10",boxscore,DET,@,NYY,W,4,1,11,31-27,3, 10.5,Benton,Murphy,None,2:16,D,"9,078",+,None
+"Saturday, Jun 13",boxscore,DET,@,BOS,L,5,6,None,31-28,3, 11.5,Brown,Henshaw,None,2:30,D,"6,640",-,None
+"Sunday, Jun 14",boxscore,DET,@,BOS,L,2,3,None,31-29,4, 13.5,Newsome,Bridges,None,1:51,D,None,--,None
+"Sunday, Jun 14",boxscore,DET,@,BOS,L,1,2,11,31-30,4, 13.5,Hughson,White,None,2:22,D,"30,311",---,None
+"Tuesday, Jun 16",boxscore,DET,None,NYY,W,7,6,None,32-30,4, 13.5,Henshaw,Branch,None,2:00,D,None,+,None
+"Tuesday, Jun 16",boxscore,DET,None,NYY,L,3,5,None,32-31,4, 13.5,Borowy,Newhouser,Murphy,2:24,D,"20,428",-,1942-05-15 (Inclement weather)
+"Wednesday, Jun 17",boxscore,DET,None,NYY,W-wo,1,0,None,33-31,4, 12.5,Trout,Breuer,None,1:33,D,"5,773",+,None
+"Thursday, Jun 18",boxscore,DET,None,NYY,W,3,1,None,34-31,3, 11.5,Trucks,Chandler,None,1:29,D,"7,042",++,None
+"Friday, Jun 19",boxscore,DET,None,WSH,W,5,1,None,35-31,3, 10.5,White,Hudson,None,1:58,D,"2,408",+++,None
+"Saturday, Jun 20",boxscore,DET,None,WSH,W,7,6,None,36-31,3, 9.5,Trout,Zuber,None,2:12,D,"6,290",++++,None
+"Sunday, Jun 21",boxscore,DET,None,WSH,W,4,1,None,37-31,3, 9.5,Benton,Newsom,None,2:01,D,None,+++++,None
+"Sunday, Jun 21",boxscore,DET,None,WSH,L,2,3,10,37-32,3, 9.5,Carrasquel,Trucks,None,2:19,D,"31,007",-,1942-05-12 (Inclement weather)
+"Tuesday, Jun 23",boxscore,DET,None,BOS,L,2,6,None,37-33,4, 10.5,Judd,Trout,None,1:54,D,"3,587",--,None
+"Wednesday, Jun 24",boxscore,DET,None,BOS,L,0,1,None,37-34,4, 11.5,Wagner,Trucks,None,1:34,D,"13,193",---,None
+"Thursday, Jun 25",boxscore,DET,None,BOS,W,7,3,None,38-34,4, 11.0,White,Hughson,None,1:48,D,"3,827",+,None
+"Friday, Jun 26",boxscore,DET,None,PHA,W,3,1,None,39-34,4, 10.0,Benton,Knott,None,1:33,D,"1,940",++,None
+"Saturday, Jun 27",boxscore,DET,None,PHA,W,6,5,13,40-34,3, 10.0,Gorsica,Fowler,None,3:08,D,"4,619",+++,None
+"Sunday, Jun 28",boxscore,DET,None,PHA,W,3,2,None,41-34,3, 9.0,Newhouser,Christopher,None,2:05,D,None,++++,None
+"Sunday, Jun 28",boxscore,DET,None,PHA,L,0,3,None,41-35,3, 9.0,Harris,Trout,None,1:44,D,"21,171",-,1942-07-27 (Schedule change)
+"Wednesday, Jul 1",boxscore,DET,None,SLB,L,0,12,None,41-36,4, 9.0,Auker,White,None,1:52,D,"12,731",--,None
+"Thursday, Jul 2",boxscore,DET,None,SLB,W,5,4,None,42-36,4, 8.5,Benton,Niggeling,None,1:51,D,"2,386",+,None
+"Friday, Jul 3",boxscore,DET,@,CLE,W,5,1,None,43-36,4, 8.5,Newhouser,Harder,None,2:05,N,"8,277",++,None
+"Saturday, Jul 4",boxscore,DET,@,CLE,L,3,10,None,43-37,4, 9.0,Heving,Bridges,None,2:14,D,None,-,None
+"Saturday, Jul 4",boxscore,DET,@,CLE,T,3,3,10,43-37,4, 9.0,None,None,None,2:07,D,"20,637",-,None
+"Sunday, Jul 5",boxscore,DET,None,CLE,W,10,1,None,44-37,4, 9.0,Trout,Kennedy,None,2:02,D,None,+,None
+"Sunday, Jul 5",boxscore,DET,None,CLE,L,1,5,None,44-38,4, 9.0,Harder,White,None,1:52,D,"31,032",-,1942-08-18 (Schedule change)
+"Thursday, Jul 9",boxscore,DET,@,BOS,L,1,2,11,44-39,4, 10.0,Wagner,Newhouser,None,2:05,D,"7,757",--,None
+"Friday, Jul 10",boxscore,DET,@,BOS,L,1,6,None,44-40,4, 11.0,Hughson,Trout,None,1:42,D,"7,506",---,None
+"Sunday, Jul 12",boxscore,DET,@,NYY,W,6,4,None,45-40,4, 10.5,Trucks,Ruffing,None,2:01,D,None,+,None
+"Sunday, Jul 12",boxscore,DET,@,NYY,L,1,3,13,45-41,4, 10.5,Breuer,Newhouser,None,2:50,D,"59,541",-,1942-06-11 (Inclement weather)
+"Monday, Jul 13",boxscore,DET,@,NYY,L,3,4,None,45-42,4, 11.5,Gomez,Trout,None,2:01,D,"8,026",--,None
+"Tuesday, Jul 14",boxscore,DET,@,NYY,L,0,3,None,45-43,4, 12.5,Borowy,Benton,None,1:24,D,"8,381",---,None
+"Wednesday, Jul 15",boxscore,DET,@,WSH,L,3,4,11,45-44,4, 13.5,Wynn,White,None,2:51,D,"7,000",----,None
+"Thursday, Jul 16",boxscore,DET,@,WSH,L,5,6,10,45-45,4, 14.5,Carrasquel,Trout,None,2:35,D,"6,000",-----,None
+"Friday, Jul 17",boxscore,DET,@,WSH,L,0,3,None,45-46,5, 15.5,Newsom,Newhouser,None,2:22,D,"11,000",------,None
+"Sunday, Jul 19",boxscore,DET,@,PHA,W,2,1,None,46-46,5, 17.0,Trucks,Christopher,None,None,None,None,+,None
+"Sunday, Jul 19",boxscore,DET,@,PHA,L,3,4,None,46-47,5, 17.0,Marchildon,Trout,Fowler,None,None,None,-,1942-07-18 (Inclement weather)
+"Tuesday, Jul 21",boxscore,DET,None,WSH,W,6,4,None,47-47,5, 17.0,White,Newsom,None,2:11,D,"2,099",+,None
+"Wednesday, Jul 22",boxscore,DET,None,WSH,L,1,2,None,47-48,5, 18.0,Hudson,Bridges,None,1:50,D,"7,079",-,None
+"Thursday, Jul 23",boxscore,DET,None,WSH,L,3,5,None,47-49,5, 18.0,Carrasquel,Newhouser,None,1:51,D,"2,050",--,None
+"Friday, Jul 24",boxscore,DET,None,NYY,L,0,3,None,47-50,5, 19.0,Chandler,Benton,None,1:37,D,"11,000",---,None
+"Saturday, Jul 25",boxscore,DET,None,NYY,L,2,7,None,47-51,5, 20.0,Borowy,Trucks,None,1:55,D,"9,457",----,None
+"Sunday, Jul 26",boxscore,DET,None,NYY,L,2,5,None,47-52,5, 21.0,Ruffing,Trout,None,2:02,D,"26,341",-----,None
+"Wednesday, Jul 29",boxscore,DET,None,PHA,W,12,7,None,48-52,5, 20.0,Trucks,Christopher,None,2:08,D,"4,211",+,None
+"Thursday, Jul 30",boxscore,DET,None,PHA,W,11,5,None,49-52,5, 20.0,Trout,Harris,None,1:50,D,None,++,None
+"Thursday, Jul 30",boxscore,DET,None,PHA,L,6,7,None,49-53,5, 20.0,Wolff,Gorsica,None,2:15,D,"3,899",-,1942-07-28 (Schedule change)
+"Friday, Jul 31",boxscore,DET,None,BOS,L,6,7,None,49-54,5, 20.5,Hughson,Benton,Butland,2:04,D,"2,250",--,None
+"Saturday, Aug 1",boxscore,DET,None,BOS,L,8,9,None,49-55,5, 20.5,Brown,White,Ryba,2:29,D,"4,153",---,None
+"Sunday, Aug 2",boxscore,DET,None,BOS,W,8,4,None,50-55,5, 20.5,Trout,Newsome,None,1:58,D,None,+,None
+"Sunday, Aug 2",boxscore,DET,None,BOS,W,6,2,None,51-55,5, 20.5,Trucks,Dobson,Benton,2:06,D,"17,645",++,1942-09-09 (Inclement weather)
+"Tuesday, Aug 4",boxscore,DET,@,CHW,L,4,5,None,51-56,5, 20.5,Lyons,Bridges,None,None,D,None,-,None
+"Wednesday, Aug 5",boxscore,DET,@,CHW,L,0,1,None,51-57,5, 21.0,Lee,Newhouser,None,None,D,None,--,None
+"Thursday, Aug 6",boxscore,DET,@,CHW,L,1,4,None,51-58,5, 21.0,Smith,Benton,None,1:42,D,"1,412",---,None
+"Friday, Aug 7",boxscore,DET,@,SLB,L,2,3,None,51-59,5, 21.5,Niggeling,Trout,None,1:57,D,"3,602",----,None
+"Saturday, Aug 8",boxscore,DET,@,SLB,L,4,6,None,51-60,5, 22.5,Auker,White,None,1:50,D,"1,604",-----,None
+"Sunday, Aug 9",boxscore,DET,@,SLB,W,9,3,None,52-60,5, 21.5,Newhouser,Sundra,Benton,2:08,D,None,+,None
+"Sunday, Aug 9",boxscore,DET,@,SLB,W,3,1,None,53-60,5, 21.5,Trucks,Hollingsworth,None,1:44,D,"9,832",++,None
+"Tuesday, Aug 11",boxscore,DET,@,CLE,T,0,0,14,53-60,5, 20.5,None,None,None,2:27,N,None,++,None
+"Tuesday, Aug 11",boxscore,DET,@,CLE,W,3,2,None,54-60,5, 20.5,Trout,Harder,None,2:00,N,"13,118",+++,None
+"Wednesday, Aug 12",boxscore,DET,@,CLE,W,4,2,None,55-60,5, 20.0,Henshaw,Smith,None,2:27,D,None,++++,None
+"Wednesday, Aug 12",boxscore,DET,@,CLE,W,2,0,None,56-60,5, 20.0,Newhouser,Heving,None,1:45,D,"3,000",+++++,None
+"Thursday, Aug 13",boxscore,DET,@,CLE,L-wo,2,3,None,56-61,5, 20.5,Bagby,Trucks,None,1:30,D,"5,000",-,None
+"Friday, Aug 14",boxscore,DET,None,CHW,W,7,1,None,57-61,5, 20.5,White,Lee,None,1:34,D,"2,583",+,None
+"Saturday, Aug 15",boxscore,DET,None,CHW,L,2,4,10,57-62,5, 21.0,Haynes,Henshaw,None,None,D,None,-,None
+"Sunday, Aug 16",boxscore,DET,None,CHW,W,3,2,11,58-62,5, 20.5,Newhouser,Lyons,None,2:07,D,None,+,None
+"Sunday, Aug 16",boxscore,DET,None,CHW,W,7,3,None,59-62,5, 20.5,Trout,Smith,White,1:54,D,"17,700",++,1942-09-23 (Schedule change)
+"Wednesday, Aug 19",boxscore,DET,None,CLE,W,6,1,None,60-62,5, 20.0,Trucks,Bagby,None,1:42,D,"9,736",+++,None
+"Friday, Aug 21",boxscore,DET,None,SLB,W,4,1,None,61-62,5, 19.5,White,Auker,None,1:44,D,"3,134",++++,None
+"Sunday, Aug 23",boxscore,DET,None,SLB,L,1,2,None,61-63,5, 21.0,Niggeling,Newhouser,None,1:54,D,None,-,None
+"Sunday, Aug 23",boxscore,DET,None,SLB,L,2,4,10,61-64,5, 21.0,Muncrief,Trout,None,2:08,D,"50,758",--,1942-08-22 (Rain)
+"Wednesday, Aug 26",boxscore,DET,@,PHA,W,1,0,None,62-64,5, 20.0,Trucks,Christopher,None,None,N,None,+,None
+"Wednesday, Aug 26",boxscore,DET,@,PHA,W,4,2,None,63-64,5, 20.0,White,Harris,None,None,N,None,++,1942-07-20 (Schedule change)
+"Friday, Aug 28",boxscore,DET,@,WSH,W,10,7,14,64-64,5, 20.0,White,Wynn,None,3:21,D,"4,000",+++,None
+"Saturday, Aug 29",boxscore,DET,@,WSH,L,1,4,None,64-65,5, 20.0,Newsom,Bridges,None,1:57,D,"1,500",-,None
+"Sunday, Aug 30",boxscore,DET,@,NYY,L,1,7,None,64-66,5, 22.0,Ruffing,Newhouser,None,2:14,D,None,--,None
+"Sunday, Aug 30",boxscore,DET,@,NYY,L-wo,3,4,10,64-67,5, 22.0,Breuer,Trout,None,2:10,D,"30,398",---,1942-09-01 (Schedule change)
+"Monday, Aug 31",boxscore,DET,@,NYY,L,3,8,None,64-68,5, 23.0,Donald,Trucks,Murphy,1:58,D,"7,013",----,None
+"Wednesday, Sep 2",boxscore,DET,@,BOS,L,2,3,None,64-69,5, 25.0,Wagner,Benton,None,1:39,D,None,-----,None
+"Wednesday, Sep 2",boxscore,DET,@,BOS,L,2,4,None,64-70,5, 25.0,Dobson,White,Judd,1:58,D,"18,598",------,1942-07-11 (Inclement weather)
+"Thursday, Sep 3",boxscore,DET,@,BOS,L,0,2,None,64-71,5, 25.5,Butland,Newhouser,None,2:05,D,"4,568",-------,None
+"Saturday, Sep 5",boxscore,DET,@,CHW,W,4,2,None,65-71,5, 25.0,Trout,Humphries,None,1:39,D,"8,251",+,None
+"Sunday, Sep 6",boxscore,DET,@,CHW,W,2,0,None,66-71,5, 25.5,Bridges,Ross,None,1:40,D,"7,308",++,None
+"Monday, Sep 7",boxscore,DET,None,SLB,W,5,3,None,67-71,5, 26.5,Benton,Auker,Gorsica,1:50,D,None,+++,None
+"Monday, Sep 7",boxscore,DET,None,SLB,L,0,3,None,67-72,5, 26.5,Muncrief,Trucks,Caster,1:54,D,"21,075",-,None
+"Tuesday, Sep 8",boxscore,DET,None,SLB,L,1,4,None,67-73,5, 27.0,Sundra,White,None,1:45,D,"3,723",--,1942-06-30 (Schedule change)
+"Thursday, Sep 10",boxscore,DET,None,BOS,W,5,4,None,68-73,5, 26.5,Newhouser,Hughson,Gorsica,1:35,D,"1,755",+,None
+"Friday, Sep 11",boxscore,DET,None,PHA,L,4,5,None,68-74,5, 26.5,Christopher,Trout,None,1:46,D,"1,084",-,None
+"Saturday, Sep 12",boxscore,DET,None,PHA,W,6,5,11,69-74,5, 26.5,Trucks,Harris,None,2:15,D,"1,916",+,None
+"Sunday, Sep 13",boxscore,DET,None,WSH,L,2,5,None,69-75,5, 27.5,Wynn,Newhouser,None,2:21,D,None,-,None
+"Sunday, Sep 13",boxscore,DET,None,WSH,W,8,0,None,70-75,5, 27.5,White,Carrasquel,None,None,D,None,+,1942-09-15 (Schedule change)
+"Monday, Sep 14",boxscore,DET,None,WSH,L,6,8,None,70-76,5, 28.5,Hudson,Benton,None,1:43,D,883,-,None
+"Wednesday, Sep 16",boxscore,DET,None,NYY,L,1,5,None,70-77,5, 29.5,Breuer,Newhouser,None,1:43,D,"3,771",--,None
+"Thursday, Sep 17",boxscore,DET,None,NYY,L,4,7,None,70-78,5, 30.5,Donald,Trout,None,1:49,D,"3,622",---,None
+"Sunday, Sep 20",boxscore,DET,None,CLE,L,0,2,None,70-79,5, 30.0,Harder,Benton,None,1:46,D,None,----,None
+"Sunday, Sep 20",boxscore,DET,None,CLE,W,6,5,None,71-79,5, 30.0,Trucks,Kennedy,None,2:12,D,"9,082",+,1942-09-19 (Rain)
+"Monday, Sep 21",boxscore,DET,None,CHW,W,6,4,None,72-79,5, 29.0,Bridges,Haynes,None,1:49,D,879,++,None
+"Tuesday, Sep 22",boxscore,DET,None,CHW,W,9,2,None,73-79,5, 29.0,Trout,Dietrich,None,1:44,D,"1,070",+++,None
+"Saturday, Sep 26",boxscore,DET,@,CLE,L,0,3,None,73-80,5, 30.0,Harder,Benton,None,1:45,D,"1,000",-,None
+"Sunday, Sep 27",boxscore,DET,@,CLE,L,0,8,None,73-81,5, 30.0,Bagby,Bridges,None,1:44,D,"2,000",--,None

@@ -1,0 +1,139 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Friday, Apr 25",boxscore,PIT,@,CHC,W,6,5,None,1-1,4, 1.5,Mayer,Martin,None,None,D,None,+,None
+"Saturday, Apr 26",boxscore,PIT,@,CHC,W,6,3,None,2-1,3, 1.5,Adams,Douglas,None,None,D,None,++,None
+"Sunday, Apr 27",boxscore,PIT,@,CIN,L,1,4,None,2-2,4, 2.5,Ruether,Hamilton,None,None,D,"11,000",-,None
+"Tuesday, Apr 29",boxscore,PIT,@,CIN,L,1,8,None,2-3,5, 3.5,Fisher,Cooper,None,None,D,None,--,None
+"Friday, May 2",boxscore,PIT,None,CHC,L,2,4,None,2-4,6, 4.0,Tyler,Evans,Douglas,2:17,D,None,---,None
+"Saturday, May 3",boxscore,PIT,None,CHC,L,1,2,11,2-5,6, 5.0,Vaughn,Hamilton,None,1:57,D,"10,000",----,None
+"Sunday, May 4",boxscore,PIT,@,STL,W,3,1,None,3-5,6, 5.0,Cooper,Meadows,None,None,D,"7,000",+,None
+"Monday, May 5",boxscore,PIT,@,STL,W,5,2,None,4-5,6, 4.0,Adams,Doak,None,None,D,"1,000",++,None
+"Tuesday, May 6",boxscore,PIT,@,STL,L,1,2,None,4-6,6, 4.5,Goodwin,Evans,None,None,D,None,-,None
+"Thursday, May 8",boxscore,PIT,None,STL,W,4,2,None,5-6,5, 4.5,Hamilton,Sherdel,None,2:01,D,None,+,None
+"Sunday, May 11",boxscore,PIT,@,CHC,L,0,3,None,5-7,5, 4.5,Douglas,Adams,None,None,D,"15,000",-,None
+"Monday, May 12",boxscore,PIT,None,CHC,W,3,2,11,6-7,5, 4.0,Cooper,Hendrix,None,2:07,D,None,+,None
+"Tuesday, May 13",boxscore,PIT,@,PHI,L,2,3,None,6-8,6, 4.5,Jacobs,Hamilton,None,None,D,None,-,None
+"Wednesday, May 14",boxscore,PIT,@,PHI,W,8,3,None,7-8,5, 4.5,Miller,Watson,None,None,D,"2,000",+,None
+"Thursday, May 15",boxscore,PIT,@,PHI,W,5,0,None,8-8,4, 3.5,Adams,Woodward,None,None,D,None,++,None
+"Friday, May 16",boxscore,PIT,@,PHI,W,8,3,None,9-8,4, 3.5,Cooper,Oeschger,None,None,D,"1,000",+++,None
+"Saturday, May 17",boxscore,PIT,@,BSN,L,2,3,10,9-9,4, 4.0,Keating,Evans,None,None,D,"3,000",-,None
+"Monday, May 19",boxscore,PIT,@,BSN,L,1,2,None,9-10,4, 4.5,Nehf,Adams,None,None,D,"2,000",--,None
+"Tuesday, May 20",boxscore,PIT,@,BSN,W,3,2,None,10-10,4, 4.5,Hamilton,Rudolph,None,None,D,None,+,None
+"Wednesday, May 21",boxscore,PIT,@,BSN,W,4,2,None,11-10,4, 4.0,Cooper,Northrop,None,None,D,"1,000",++,None
+"Friday, May 23",boxscore,PIT,@,BRO,L,4,6,None,11-11,4, 5.0,Pfeffer,Miller,None,None,D,"4,000",-,None
+"Saturday, May 24",boxscore,PIT,@,BRO,L,4,6,None,11-12,5, 5.0,Grimes,Mayer,None,None,D,"7,000",--,None
+"Sunday, May 25",boxscore,PIT,@,BRO,L,0,5,None,11-13,5, 6.0,Smith,Hamilton,None,None,D,"18,000",---,1919-05-22 (Rain)
+"Monday, May 26",boxscore,PIT,@,NYG,L,3,4,None,11-14,6, 7.0,Benton,Cooper,None,None,D,None,----,None
+"Tuesday, May 27",boxscore,PIT,@,NYG,L,2,10,None,11-15,6, 8.0,Barnes,Miller,None,None,D,None,-----,None
+"Wednesday, May 28",boxscore,PIT,@,NYG,W,6,2,10,12-15,6, 7.0,Hamilton,Oeschger,None,None,D,None,+,None
+"Thursday, May 29",boxscore,PIT,None,CIN,L,1,3,None,12-16,6, 8.0,Sallee,Mayer,None,None,D,None,-,None
+"Friday, May 30",boxscore,PIT,None,CIN,W,9,3,None,13-16,4, 8.0,Miller,Ring,None,1:53,D,"6,000",+,None
+"Friday, May 30",boxscore,PIT,None,CIN,W,3,2,None,14-16,4, 8.0,Cooper,Eller,None,2:06,D,"21,000",++,None
+"Saturday, May 31",boxscore,PIT,None,CIN,W,10,5,None,15-16,4, 7.0,Hamilton,Luque,None,2:09,D,"7,000",+++,None
+"Sunday, Jun 1",boxscore,PIT,@,CIN,W,4,3,10,16-16,4, 7.5,Adams,Fisher,None,None,D,None,++++,None
+"Sunday, Jun 1",boxscore,PIT,@,CIN,L,2,10,None,16-17,4, 7.5,Ruether,Evans,None,None,D,"12,000",-,1919-04-28 (Rain)
+"Monday, Jun 2",boxscore,PIT,@,CHC,L,0,7,None,16-18,5, 9.5,Alexander,Mayer,None,None,D,None,--,None
+"Monday, Jun 2",boxscore,PIT,@,CHC,L,1,2,12,16-19,5, 9.5,Douglas,Cooper,None,None,D,"3,000",---,1919-04-23 (Rain)
+"Tuesday, Jun 3",boxscore,PIT,@,CHC,L,0,1,None,16-20,6, 9.5,Martin,Miller,None,None,D,"3,000",----,None
+"Wednesday, Jun 4",boxscore,PIT,@,CHC,W,1,0,10,17-20,6, 8.5,Hamilton,Vaughn,Adams,None,D,None,+,None
+"Friday, Jun 6",boxscore,PIT,None,NYG,W,7,1,None,18-20,5, 7.5,Adams,Benton,None,None,D,None,++,None
+"Saturday, Jun 7",boxscore,PIT,None,NYG,L,2,9,None,18-21,5, 8.5,Causey,Cooper,None,None,D,None,-,None
+"Tuesday, Jun 10",boxscore,PIT,None,BRO,W,10,6,None,19-21,5, 8.5,Mayer,Pfeffer,None,None,D,None,+,None
+"Wednesday, Jun 11",boxscore,PIT,None,BRO,W,3,2,None,20-21,4, 7.5,Adams,Cadore,None,1:24,D,None,++,None
+"Thursday, Jun 12",boxscore,PIT,None,BRO,W,5,4,None,21-21,4, 7.5,Miller,Smith,None,1:43,D,None,+++,None
+"Friday, Jun 13",boxscore,PIT,None,BRO,W,3,0,8,22-21,4, 6.5,Cooper,Cheney,None,1:34,D,"3,000",++++,None
+"Saturday, Jun 14",boxscore,PIT,None,PHI,W,8,1,None,23-21,4, 6.5,Mayer,Hogg,None,1:41,D,None,+++++,None
+"Monday, Jun 16",boxscore,PIT,None,PHI,W,6,5,None,24-21,3, 7.0,Adams,Woodward,Cooper,None,D,"3,000",++++++,None
+"Tuesday, Jun 17",boxscore,PIT,None,PHI,W,6,0,None,25-21,3, 6.0,Miller,Jacobs,None,1:50,D,None,+++++++,None
+"Wednesday, Jun 18",boxscore,PIT,None,BSN,L,5,6,11,25-22,3, 6.0,Rudolph,Carlson,None,2:20,D,None,-,None
+"Thursday, Jun 19",boxscore,PIT,None,BSN,W,6,5,None,26-22,3, 6.0,Carlson,Northrop,None,2:02,D,None,+,None
+"Friday, Jun 20",boxscore,PIT,None,BSN,W,4,0,None,27-22,3, 6.0,Hamilton,Demaree,None,1:56,D,None,++,None
+"Saturday, Jun 21",boxscore,PIT,None,BSN,W,1,0,None,28-22,3, 6.0,Adams,Keating,None,1:28,D,None,+++,None
+"Sunday, Jun 22",boxscore,PIT,@,STL,W,7,6,None,29-22,3, 5.0,Carlson,Sherdel,Hamilton,None,D,"5,000",++++,None
+"Monday, Jun 23",boxscore,PIT,@,STL,W,3,2,None,30-22,3, 4.5,Miller,Tuero,None,None,D,None,+++++,None
+"Tuesday, Jun 24",boxscore,PIT,@,STL,L,2,9,None,30-23,3, 5.0,Goodwin,Cooper,None,None,D,None,-,None
+"Wednesday, Jun 25",boxscore,PIT,@,STL,L,1,3,None,30-24,3, 5.0,Doak,Hamilton,None,None,D,None,--,None
+"Thursday, Jun 26",boxscore,PIT,@,CIN,L,0,7,6,30-25,3, 5.5,Ruether,Adams,None,None,D,"3,000",---,None
+"Friday, Jun 27",boxscore,PIT,None,CIN,L,2,5,None,30-26,4, 6.0,Luque,Carlson,None,1:47,D,None,----,None
+"Saturday, Jun 28",boxscore,PIT,None,CIN,L,0,3,None,30-27,4, 6.5,Sallee,Miller,None,1:20,D,None,-----,None
+"Sunday, Jun 29",boxscore,PIT,@,CHC,W,7,4,None,31-27,4, 6.0,Cooper,Vaughn,None,None,D,None,+,None
+"Monday, Jun 30",boxscore,PIT,None,STL,W,4,1,None,32-27,3, 6.0,Adams,May,None,1:56,D,None,++,None
+"Tuesday, Jul 1",boxscore,PIT,None,STL,W,11,4,None,33-27,3, 6.0,Mayer,Doak,None,None,D,None,+++,None
+"Wednesday, Jul 2",boxscore,PIT,None,STL,L,2,4,None,33-28,3, 6.0,May,Hamilton,Tuero,None,D,None,-,None
+"Thursday, Jul 3",boxscore,PIT,None,CHC,W,4,2,None,34-28,3, 5.0,Cooper,Douglas,None,None,D,None,+,None
+"Friday, Jul 4",boxscore,PIT,None,CHC,L,3,7,None,34-29,3, 7.0,Hendrix,Miller,None,1:27,D,None,-,None
+"Friday, Jul 4",boxscore,PIT,None,CHC,L,1,4,None,34-30,3, 7.0,Vaughn,Adams,None,1:36,D,"33,000",--,None
+"Saturday, Jul 5",boxscore,PIT,None,CHC,L,2,10,None,34-31,4, 8.0,Carter,Hamilton,None,None,D,None,---,None
+"Sunday, Jul 6",boxscore,PIT,@,CIN,L,1,8,None,34-32,5, 10.0,Sallee,Cooper,None,1:13,D,None,----,None
+"Sunday, Jul 6",boxscore,PIT,@,CIN,L,1,3,None,34-33,5, 10.0,Ruether,Carlson,None,None,D,"23,000",-----,1919-04-30 (Rain)
+"Monday, Jul 7",boxscore,PIT,None,STL,W,14,9,None,35-33,4, 9.5,Mayer,Ames,None,None,D,None,+,None
+"Tuesday, Jul 8",boxscore,PIT,@,BRO,L,1,2,None,35-34,5, 10.5,Cadore,Miller,None,1:21,D,"3,000",-,None
+"Wednesday, Jul 9",boxscore,PIT,@,BRO,W,2,0,None,36-34,4, 10.0,Adams,Grimes,None,None,D,"3,000",+,None
+"Friday, Jul 11",boxscore,PIT,@,BRO,W,5,2,None,37-34,4, 10.5,Carlson,Pfeffer,None,None,D,"2,500",++,None
+"Saturday, Jul 12",boxscore,PIT,@,NYG,W,1,0,None,38-34,4, 10.5,Cooper,Toney,None,None,D,"20,000",+++,None
+"Sunday, Jul 13",boxscore,PIT,@,NYG,L,2,8,None,38-35,4, 11.0,Benton,Hamilton,None,None,D,"27,000",-,1919-07-15 (Rain)
+"Monday, Jul 14",boxscore,PIT,@,NYG,L,4,5,None,38-36,4, 11.0,Dubuc,Miller,None,None,D,"8,000",--,None
+"Friday, Jul 18",boxscore,PIT,@,BSN,W,2,0,None,39-36,4, 11.0,Adams,Nehf,None,None,D,None,+,None
+"Saturday, Jul 19",boxscore,PIT,@,BSN,L,1,2,None,39-37,4, 11.5,Rudolph,Cooper,None,None,D,None,-,None
+"Wednesday, Jul 23",boxscore,PIT,@,PHI,L,1,6,None,39-38,4, 12.0,Meadows,Carlson,None,None,D,None,--,None
+"Wednesday, Jul 23",boxscore,PIT,@,PHI,W,1,0,None,40-38,4, 12.0,Miller,Rixey,None,None,D,None,+,1919-07-21 (Rain)
+"Thursday, Jul 24",boxscore,PIT,None,CIN,L,1,3,None,40-39,4, 13.0,Ruether,Cooper,None,None,D,None,-,1919-08-29 (Schedule change)
+"Friday, Jul 25",boxscore,PIT,None,CIN,L,0,4,None,40-40,4, 14.0,Eller,Adams,None,None,D,None,--,None
+"Saturday, Jul 26",boxscore,PIT,None,CIN,L,2,4,None,40-41,5, 14.0,Ring,Miller,None,None,D,None,---,None
+"Sunday, Jul 27",boxscore,PIT,@,CIN,L,3,5,None,40-42,5, 15.0,Sallee,Ponder,None,1:54,D,None,----,None
+"Monday, Jul 28",boxscore,PIT,@,CIN,L,7,8,None,40-43,5, 16.0,Gerner,Hamilton,Eller,2:10,D,None,-----,None
+"Tuesday, Jul 29",boxscore,PIT,None,NYG,L,0,3,None,40-44,5, 16.0,Toney,Adams,None,1:31,D,None,------,None
+"Tuesday, Jul 29",boxscore,PIT,None,NYG,W,7,6,None,41-44,5, 16.0,Cooper,Dubuc,None,None,D,"8,000",+,1919-06-05 (Wet grounds)
+"Wednesday, Jul 30",boxscore,PIT,None,NYG,L,0,9,None,41-45,5, 16.0,Barnes,Ponder,None,1:55,D,None,-,None
+"Wednesday, Jul 30",boxscore,PIT,None,NYG,W,6,1,None,42-45,5, 16.0,Miller,Perritt,None,None,D,None,+,1919-06-09 (Wet grounds)
+"Thursday, Jul 31",boxscore,PIT,None,NYG,L,2,5,None,42-46,5, 17.5,Douglas,Carlson,None,1:37,D,"2,500",-,None
+"Friday, Aug 1",boxscore,PIT,None,BSN,L,1,2,None,42-47,5, 18.5,Nehf,Hamilton,None,1:40,D,"1,500",--,None
+"Saturday, Aug 2",boxscore,PIT,None,BSN,W,4,2,None,43-47,5, 18.5,Cooper,Fillingim,Mayer,1:48,D,None,+,None
+"Tuesday, Aug 5",boxscore,PIT,None,PHI,L,0,2,None,43-48,5, 19.0,Meadows,Adams,None,1:40,D,None,-,None
+"Thursday, Aug 7",boxscore,PIT,None,PHI,L,3,5,None,43-49,5, 19.5,Rixey,Miller,None,1:53,D,None,--,None
+"Friday, Aug 8",boxscore,PIT,None,BRO,W,3,0,None,44-49,5, 19.5,Cooper,Mamaux,None,1:26,D,None,+,None
+"Saturday, Aug 9",boxscore,PIT,None,BRO,L,0,2,None,44-50,5, 20.5,Pfeffer,Carlson,None,1:47,D,None,-,None
+"Sunday, Aug 10",boxscore,PIT,@,BRO,W,5,3,None,45-50,5, 20.5,Adams,Cadore,None,None,D,None,+,1919-07-10 (Rain)
+"Monday, Aug 11",boxscore,PIT,@,BRO,W,5,2,None,46-50,5, 19.5,Miller,Smith,None,None,D,"2,000",++,1919-08-22 (Schedule change)
+"Wednesday, Aug 13",boxscore,PIT,@,BSN,W,3,2,14,47-50,4, 20.0,Cooper,Rudolph,None,None,D,None,+++,None
+"Friday, Aug 15",boxscore,PIT,@,BSN,L,3,5,None,47-51,5, 21.0,Causey,Adams,None,None,D,None,-,None
+"Friday, Aug 15",boxscore,PIT,@,BSN,L,2,3,15,47-52,5, 21.0,Fillingim,Carlson,None,None,D,None,--,1919-07-17 (Wet grounds)
+"Saturday, Aug 16",boxscore,PIT,@,PHI,W,6,4,None,48-52,5, 21.5,Miller,Rixey,None,None,D,None,+,None
+"Saturday, Aug 16",boxscore,PIT,@,PHI,L,0,4,None,48-53,5, 21.5,Rixey,Ponder,None,None,D,"8,000",-,1919-07-22 (Rain)
+"Monday, Aug 18",boxscore,PIT,@,PHI,W,3,2,13,49-53,5, 20.5,Cooper,Smith,None,None,D,None,+,None
+"Tuesday, Aug 19",boxscore,PIT,@,PHI,W,5,4,None,50-53,4, 21.0,Carlson,Meadows,None,None,D,None,++,None
+"Wednesday, Aug 20",boxscore,PIT,@,BRO,W,5,1,None,51-53,4, 21.0,Miller,Grimes,None,None,D,"1,000",+++,None
+"Thursday, Aug 21",boxscore,PIT,@,BRO,L,2,3,None,51-54,4, 22.0,Pfeffer,Adams,None,None,D,"2,000",-,None
+"Saturday, Aug 23",boxscore,PIT,@,NYG,W,6,1,None,52-54,4, 23.0,Cooper,Barnes,None,1:42,D,"20,000",+,None
+"Sunday, Aug 24",boxscore,PIT,@,NYG,L,0,1,10,52-55,4, 23.5,Toney,Carlson,None,None,D,None,-,1919-07-16 (Rain)
+"Tuesday, Aug 26",boxscore,PIT,@,NYG,L,1,9,None,52-56,5, 25.0,Nehf,Miller,None,None,D,None,--,None
+"Tuesday, Aug 26",boxscore,PIT,@,NYG,W,4,1,None,53-56,5, 25.0,Adams,Benton,None,None,D,"8,000",+,1919-08-25 (Wet grounds)
+"Thursday, Aug 28",boxscore,PIT,None,STL,L,1,3,None,53-57,5, 25.5,Schupp,Cooper,None,1:45,D,None,-,1919-05-09 (Rain)
+"Friday, Aug 29",boxscore,PIT,None,STL,W,5,3,None,54-57,5, 25.0,Miller,Sherdel,None,None,D,None,+,1919-05-10 (Rain)
+"Saturday, Aug 30",boxscore,PIT,None,CIN,W,1,0,11,55-57,5, 24.0,Adams,Ring,None,1:49,D,None,++,None
+"Sunday, Aug 31",boxscore,PIT,@,CIN,W,3,2,None,56-57,4, 23.0,Carlson,Ruether,None,None,D,None,+++,None
+"Monday, Sep 1",boxscore,PIT,None,STL,L,4,5,None,56-58,4, 23.0,Doak,Miller,None,2:03,D,None,-,None
+"Monday, Sep 1",boxscore,PIT,None,STL,W,2,1,None,57-58,4, 23.0,Cooper,Sherdel,None,1:27,D,None,+,None
+"Tuesday, Sep 2",boxscore,PIT,None,STL,L,1,2,None,57-59,4, 24.0,Goodwin,Ponder,None,1:35,D,None,-,None
+"Thursday, Sep 4",boxscore,PIT,None,CHC,W,4,3,10,58-59,4, 24.0,Cooper,Bailey,None,1:51,D,None,+,1919-05-01 (Rain)
+"Friday, Sep 5",boxscore,PIT,None,CHC,L,0,2,None,58-60,4, 24.0,Vaughn,Carlson,None,1:48,D,None,-,None
+"Saturday, Sep 6",boxscore,PIT,None,CHC,W,11,0,None,59-60,4, 24.0,Cooper,Hendrix,None,1:25,D,None,+,None
+"Sunday, Sep 7",boxscore,PIT,@,CHC,W,2,1,None,60-60,4, 23.5,Hamilton,Alexander,None,None,D,None,++,None
+"Monday, Sep 8",boxscore,PIT,None,BSN,W,10,0,None,61-60,4, 23.5,Miller,Demaree,None,1:22,D,None,+++,None
+"Monday, Sep 8",boxscore,PIT,None,BSN,L,3,4,None,61-61,4, 23.5,Causey,Ponder,Fillingim,1:45,D,"2,000",-,1919-08-04 (Rain)
+"Tuesday, Sep 9",boxscore,PIT,None,BSN,W,6,3,None,62-61,4, 22.0,Carlson,Scott,None,1:52,D,None,+,None
+"Tuesday, Sep 9",boxscore,PIT,None,BSN,W,6,1,None,63-61,4, 22.0,Adams,Keating,None,1:29,D,None,++,1919-09-10 (Rain)
+"Thursday, Sep 11",boxscore,PIT,None,PHI,W,7,1,None,64-61,4, 21.5,Cooper,Ames,None,1:40,D,None,+++,None
+"Thursday, Sep 11",boxscore,PIT,None,PHI,W,7,2,None,65-61,4, 21.5,Hamilton,Meadows,None,1:40,D,None,++++,1919-08-06 (Wet grounds)
+"Friday, Sep 12",boxscore,PIT,None,PHI,L,5,6,None,65-62,4, 22.5,Cantwell,Miller,None,1:53,D,None,-,None
+"Saturday, Sep 13",boxscore,PIT,None,PHI,W,4,1,None,66-62,4, 21.5,Carlson,Smith,None,1:19,D,None,+,None
+"Saturday, Sep 13",boxscore,PIT,None,PHI,W,2,0,None,67-62,4, 21.5,Adams,Hogg,None,1:45,D,None,++,1919-08-11 (Schedule change)
+"Monday, Sep 15",boxscore,PIT,None,BRO,L,3,4,None,67-63,4, 23.5,Smith,Cooper,None,None,D,None,-,None
+"Monday, Sep 15",boxscore,PIT,None,BRO,L,0,6,None,67-64,4, 23.5,Cadore,Hamilton,None,1:31,D,None,--,1919-09-22 (Schedule change)
+"Tuesday, Sep 16",boxscore,PIT,None,BRO,W,4,3,11,68-64,4, 23.5,Miller,Pfeffer,None,None,D,None,+,None
+"Wednesday, Sep 17",boxscore,PIT,None,BRO,L,3,8,None,68-65,4, 24.0,Mitchell,Carlson,None,1:39,D,None,-,None
+"Thursday, Sep 18",boxscore,PIT,None,NYG,W,7,0,None,69-65,4, 24.0,Adams,Barnes,None,None,D,None,+,None
+"Friday, Sep 19",boxscore,PIT,None,NYG,L,2,4,None,69-66,4, 24.5,Nehf,Cooper,None,None,D,"2,000",-,None
+"Saturday, Sep 20",boxscore,PIT,None,NYG,W,2,0,None,70-66,4, 23.5,Carlson,Ryan,None,None,D,"10,000",+,None
+"Friday, Sep 26",boxscore,PIT,@,STL,L,1,2,12,70-67,4, 24.5,Schupp,Adams,None,None,D,None,-,None
+"Saturday, Sep 27",boxscore,PIT,@,STL,L,3,5,None,70-68,4, 25.5,Goodwin,Cooper,None,None,D,None,--,None
+"Sunday, Sep 28",boxscore,PIT,@,STL,W,6,3,None,71-68,4, 24.5,Wisner,Woodward,None,None,D,500,+,None

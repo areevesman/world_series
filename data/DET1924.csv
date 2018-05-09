@@ -1,0 +1,156 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 16",boxscore,DET,None,CLE,W,5,1,None,2-0,1,up 1.0,Whitehill,Coveleski,None,1:49,D,None,++,None
+"Friday, Apr 18",boxscore,DET,None,CLE,L,3,5,None,2-1,2, 0.5,Edwards,Cole,None,2:09,D,None,-,None
+"Saturday, Apr 19",boxscore,DET,None,SLB,W,7,4,None,3-1,1, Tied,Stoner,Shocker,None,1:57,D,None,+,None
+"Sunday, Apr 20",boxscore,DET,None,SLB,W,9,2,None,4-1,1, Tied,Dauss,Pruett,None,1:42,D,None,++,None
+"Tuesday, Apr 22",boxscore,DET,None,SLB,W,8,4,None,5-1,1,up 1.0,Whitehill,Bayne,None,2:27,D,"1,000",+++,None
+"Wednesday, Apr 23",boxscore,DET,@,CLE,L,5,6,10,5-2,1,up 0.5,Uhle,Cole,None,2:35,D,None,-,None
+"Thursday, Apr 24",boxscore,DET,@,CLE,W,8,2,None,6-2,1,up 1.0,Stoner,Edwards,None,2:00,D,None,+,None
+"Friday, Apr 25",boxscore,DET,@,CLE,L,2,10,None,6-3,1, Tied,Shaute,Dauss,None,1:55,D,None,-,None
+"Saturday, Apr 26",boxscore,DET,None,CHW,W,16,7,None,7-3,1,up 0.5,Whitehill,Cvengros,Holloway,2:29,D,"26,000",+,None
+"Sunday, Apr 27",boxscore,DET,None,CHW,W,4,3,None,8-3,1,up 0.5,Holloway,Lyons,None,2:27,D,"38,000",++,None
+"Monday, Apr 28",boxscore,DET,None,CHW,W,7,2,None,9-3,1,up 0.5,Stoner,Robertson,None,1:57,D,"7,500",+++,None
+"Tuesday, Apr 29",boxscore,DET,None,CHW,L,4,6,None,9-4,1, Tied,Thurston,Dauss,None,2:12,D,None,-,None
+"Thursday, May 1",boxscore,DET,@,SLB,L,7,8,None,9-5,1, Tied,Wingard,Johnson,None,2:15,D,"5,000",--,None
+"Friday, May 2",boxscore,DET,@,SLB,L,1,4,None,9-6,1, Tied,Danforth,Stoner,None,1:39,D,"8,000",---,None
+"Saturday, May 3",boxscore,DET,@,SLB,L,5,6,None,9-7,3, 1.0,Pruett,Whitehill,None,2:07,D,"16,000",----,None
+"Sunday, May 4",boxscore,DET,@,SLB,L,5,6,None,9-8,3, 1.5,Voigt,Dauss,None,1:43,D,None,-----,None
+"Monday, May 5",boxscore,DET,@,CHW,W,8,5,None,10-8,2, 1.5,Holloway,Connally,None,2:12,D,"7,500",+,None
+"Tuesday, May 6",boxscore,DET,@,CHW,W,6,4,None,11-8,2, 1.5,Stoner,Lyons,None,2:03,D,None,++,None
+"Saturday, May 10",boxscore,DET,@,WSH,L,2,3,None,11-9,2, 3.0,Martina,Dauss,None,2:10,D,None,-,None
+"Tuesday, May 13",boxscore,DET,@,WSH,L,3,6,None,11-10,3, 3.0,Mogridge,Johnson,None,2:05,D,None,--,None
+"Wednesday, May 14",boxscore,DET,@,PHA,L,4,5,None,11-11,4, 3.0,Baumgartner,Stoner,None,1:50,D,None,---,None
+"Thursday, May 15",boxscore,DET,@,PHA,W,12,6,None,12-11,3, 2.0,Dauss,Ogden,Cole,2:03,D,None,+,None
+"Friday, May 16",boxscore,DET,@,PHA,W,3,1,None,13-11,3, 1.5,Holloway,Burns,None,1:55,D,None,++,None
+"Saturday, May 17",boxscore,DET,@,PHA,W,9,6,None,14-11,2, 1.5,Stoner,Meeker,None,2:25,D,None,+++,None
+"Sunday, May 18",boxscore,DET,None,BOS,L,4,5,None,14-12,4, 2.5,Fuhr,Cole,None,2:08,D,None,-,None
+"Monday, May 19",boxscore,DET,@,BOS,L,1,9,None,14-13,4, 3.0,Ehmke,Holloway,None,2:17,D,"5,000",--,None
+"Wednesday, May 21",boxscore,DET,@,BOS,L,4,5,None,14-14,4, 3.5,Quinn,Collins,None,1:50,D,"5,000",---,None
+"Thursday, May 22",boxscore,DET,@,BOS,W,6,5,None,15-14,4, 3.5,Stoner,Fuhr,Holloway,2:14,D,None,+,None
+"Friday, May 23",boxscore,DET,@,NYY,L,6,7,None,15-15,4, 4.5,Shawkey,Cole,None,2:38,D,"14,000",-,None
+"Saturday, May 24",boxscore,DET,@,NYY,W,7,3,None,16-15,4, 3.5,Holloway,Pennock,None,2:05,D,"23,000",+,None
+"Sunday, May 25",boxscore,DET,@,NYY,W,6,5,None,17-15,4, 2.5,Holloway,Shawkey,None,2:54,D,"45,000",++,None
+"Monday, May 26",boxscore,DET,@,NYY,L,2,8,None,17-16,4, 3.5,Bush,Stoner,None,1:55,D,"12,000",-,None
+"Tuesday, May 27",boxscore,DET,None,SLB,W,5,4,None,18-16,3, 3.0,Cole,Wingard,Johnson,1:49,D,"4,000",+,None
+"Wednesday, May 28",boxscore,DET,None,SLB,W,4,3,None,19-16,3, 3.0,Collins,Shocker,None,1:53,D,"23,000",++,None
+"Wednesday, May 28",boxscore,DET,None,SLB,L,0,7,None,19-17,3, 3.0,Davis,Holloway,None,1:47,D,"25,000",-,1924-04-21 (Rain)
+"Thursday, May 29",boxscore,DET,None,SLB,W,13,7,None,20-17,3, 2.5,Johnson,Pruett,None,2:44,D,"3,000",+,None
+"Friday, May 30",boxscore,DET,@,CLE,W,11,7,None,21-17,3, 1.5,Stoner,Drake,None,2:45,D,None,++,None
+"Friday, May 30",boxscore,DET,@,CLE,W,2,0,None,22-17,3, 1.5,Cole,Metivier,None,1:43,D,None,+++,None
+"Saturday, May 31",boxscore,DET,@,CLE,W,4,2,None,23-17,3, 1.0,Collins,Uhle,None,1:55,D,None,++++,None
+"Sunday, Jun 1",boxscore,DET,@,CLE,W,10,6,None,24-17,2, 0.5,Whitehill,Shaute,None,2:40,D,None,+++++,None
+"Tuesday, Jun 3",boxscore,DET,None,WSH,L,1,11,None,24-18,3, 1.5,Zachary,Cole,None,2:01,D,None,-,None
+"Wednesday, Jun 4",boxscore,DET,None,WSH,W,6,5,10,25-18,3, 1.0,Dauss,Marberry,None,2:39,D,None,+,None
+"Thursday, Jun 5",boxscore,DET,None,WSH,L,7,9,None,25-19,3, 1.0,Ogden,Collins,Marberry,2:21,D,None,-,None
+"Friday, Jun 6",boxscore,DET,None,WSH,L,0,2,None,25-20,3, 2.0,Johnson,Whitehill,None,2:04,D,None,--,None
+"Saturday, Jun 7",boxscore,DET,None,PHA,W,11,10,12,26-20,3, 1.0,Dauss,Baumgartner,None,3:11,D,None,+,None
+"Sunday, Jun 8",boxscore,DET,None,PHA,L,5,6,None,26-21,3, 1.0,Burns,Stoner,None,2:12,D,None,-,None
+"Monday, Jun 9",boxscore,DET,None,PHA,W,5,3,None,27-21,2, 1.0,Collins,Meeker,None,2:02,D,None,+,None
+"Tuesday, Jun 10",boxscore,DET,None,PHA,L,3,4,None,27-22,3, 1.0,Harriss,Dauss,Baumgartner,2:08,D,None,-,None
+"Wednesday, Jun 11",boxscore,DET,None,NYY,W,7,2,None,28-22,1, Tied,Whitehill,Bush,None,2:13,D,"18,000",+,None
+"Thursday, Jun 12",boxscore,DET,None,NYY,L,4,10,None,28-23,3, 1.0,Pennock,Cole,None,2:18,D,"18,000",-,None
+"Friday, Jun 13",boxscore,DET,None,NYY,*V,6,10,9,28-24,3, 2.0,Gaston,Cole,None,2:06,D,"18,000",--,None
+"Saturday, Jun 14",boxscore,DET,None,NYY,L,2,6,None,28-25,3, 3.0,Hoyt,Collins,None,2:05,D,"40,000",---,None
+"Sunday, Jun 15",boxscore,DET,None,BOS,W,10,4,None,29-25,3, 2.0,Whitehill,Quinn,None,2:12,D,None,+,None
+"Monday, Jun 16",boxscore,DET,None,BOS,W,3,0,None,30-25,2, 1.0,Stoner,Ferguson,None,1:53,D,None,++,None
+"Tuesday, Jun 17",boxscore,DET,None,BOS,W,7,4,None,31-25,2, 1.0,Dauss,Ehmke,None,2:07,D,"6,000",+++,None
+"Wednesday, Jun 18",boxscore,DET,None,BOS,W,5,3,None,32-25,1, Tied,Collins,Murray,None,2:05,D,None,++++,None
+"Thursday, Jun 19",boxscore,DET,None,CLE,L,5,16,None,32-26,1, Tied,Shaute,Whitehill,None,2:27,D,None,-,None
+"Thursday, Jun 19",boxscore,DET,None,CLE,W,3,2,None,33-26,1, Tied,Wells,Roy,None,2:09,D,None,+,1924-04-17 (Rain)
+"Friday, Jun 20",boxscore,DET,None,CLE,L,9,11,None,33-27,2, 0.5,Coveleski,Stoner,Shaute,2:31,D,None,-,None
+"Saturday, Jun 21",boxscore,DET,None,CLE,W,6,5,None,34-27,2, 0.5,Collins,Uhle,None,2:33,D,None,+,None
+"Sunday, Jun 22",boxscore,DET,None,CLE,L,5,7,None,34-28,2, 0.5,Metivier,Dauss,None,2:21,D,None,-,None
+"Tuesday, Jun 24",boxscore,DET,@,SLB,L,5,7,None,34-29,2, 1.0,Davis,Cole,Shocker,2:33,D,"7,500",--,None
+"Tuesday, Jun 24",boxscore,DET,@,SLB,L,1,5,None,34-30,2, 1.0,Danforth,Wells,None,2:14,D,"15,000",---,1924-06-23 (Rain)
+"Wednesday, Jun 25",boxscore,DET,@,SLB,W,3,2,None,35-30,2, 1.0,Collins,Shocker,Dauss,2:07,D,"3,500",+,None
+"Friday, Jun 27",boxscore,DET,@,CLE,W,1,0,None,36-30,2, 0.5,Whitehill,Shaute,None,2:00,D,None,++,None
+"Saturday, Jun 28",boxscore,DET,@,CLE,W,9,3,8,37-30,2, 1.0,Wells,Coveleski,None,2:15,D,None,+++,None
+"Sunday, Jun 29",boxscore,DET,@,CLE,L,3,7,None,37-31,2, 2.0,Smith,Cole,Shaute,2:06,D,None,-,None
+"Monday, Jun 30",boxscore,DET,None,CHW,L,4,14,None,37-32,2, 2.5,Faber,Stoner,None,2:25,D,None,--,None
+"Tuesday, Jul 1",boxscore,DET,None,CHW,W,13,3,None,38-32,2, 3.0,Collins,Lyons,None,2:08,D,None,+,None
+"Wednesday, Jul 2",boxscore,DET,None,CHW,W,2,1,None,39-32,2, 3.0,Whitehill,Connally,None,2:01,D,None,++,None
+"Thursday, Jul 3",boxscore,DET,None,CHW,L,3,7,None,39-33,2, 3.5,Thurston,Dauss,None,None,D,None,-,None
+"Friday, Jul 4",boxscore,DET,None,SLB,L,2,5,None,39-34,3, 3.5,Vangilder,Collins,None,2:12,D,None,--,None
+"Friday, Jul 4",boxscore,DET,None,SLB,L,2,3,None,39-35,3, 3.5,Davis,Wells,Danforth,2:24,D,None,---,None
+"Saturday, Jul 5",boxscore,DET,None,SLB,W,3,0,None,40-35,3, 3.0,Whitehill,Lyons,None,2:04,D,"12,000",+,None
+"Sunday, Jul 6",boxscore,DET,None,SLB,L,1,5,None,40-36,3, 3.0,Danforth,Stoner,None,2:11,D,None,-,None
+"Wednesday, Jul 9",boxscore,DET,@,WSH,W,5,2,None,41-36,3, 3.0,Wells,Mogridge,None,2:07,D,None,+,None
+"Wednesday, Jul 9",boxscore,DET,@,WSH,L,2,4,None,41-37,3, 3.0,Ogden,Collins,Russell,1:59,D,None,-,1924-05-11 (Rain)
+"Thursday, Jul 10",boxscore,DET,@,WSH,W,12,10,13,42-37,3, 2.0,Dauss,Marberry,None,4:08,D,None,+,None
+"Thursday, Jul 10",boxscore,DET,@,WSH,T,3,3,5,42-37,3, 2.0,None,None,None,1:05,D,None,+,1924-05-12 (Rain)
+"Friday, Jul 11",boxscore,DET,@,WSH,W,4,3,None,43-37,3, 2.0,Dauss,Johnson,None,2:18,D,None,++,None
+"Saturday, Jul 12",boxscore,DET,@,PHA,W,6,1,None,44-37,3, 2.0,Collins,Rommel,None,1:50,D,None,+++,None
+"Monday, Jul 14",boxscore,DET,@,PHA,L,4,5,10,44-38,3, 3.0,Heimach,Wells,None,2:27,D,None,-,None
+"Tuesday, Jul 15",boxscore,DET,@,PHA,W,11,9,None,45-38,3, 3.0,Dauss,Harriss,None,2:32,D,None,+,None
+"Wednesday, Jul 16",boxscore,DET,@,BOS,W,5,4,None,46-38,3, 1.5,Whitehill,Ferguson,None,2:00,D,None,++,None
+"Wednesday, Jul 16",boxscore,DET,@,BOS,W,11,3,None,47-38,3, 1.5,Stoner,Piercy,Pillette,2:10,D,None,+++,1924-05-20 (Rain)
+"Friday, Jul 18",boxscore,DET,@,BOS,W,4,3,11,48-38,2, 1.0,Holloway,Fullerton,None,2:28,D,None,++++,None
+"Saturday, Jul 19",boxscore,DET,@,BOS,W,18,1,None,49-38,2, 0.5,Collins,Fuhr,Wells,2:08,D,None,+++++,None
+"Saturday, Jul 19",boxscore,DET,@,BOS,W,4,3,None,50-38,2, 0.5,Dauss,Quinn,Holloway,2:20,D,None,++++++,1924-07-17 (Rain)
+"Monday, Jul 21",boxscore,DET,@,NYY,W,9,7,None,51-38,2, 0.5,Whitehill,Bush,None,2:42,D,"20,000",+++++++,None
+"Tuesday, Jul 22",boxscore,DET,@,NYY,W,3,1,None,52-38,1,up 0.5,Wells,Pennock,None,2:02,D,"20,000",++++++++,None
+"Wednesday, Jul 23",boxscore,DET,@,NYY,L,3,4,11,52-39,2, 0.5,Gaston,Dauss,None,2:45,D,"20,000",-,None
+"Thursday, Jul 24",boxscore,DET,@,NYY,W,5,4,8,53-39,1,up 0.5,Holloway,Mamaux,Wells,2:20,D,"18,000",+,None
+"Saturday, Jul 26",boxscore,DET,None,PHA,W,5,4,11,54-39,1,up 0.5,Holloway,Harriss,None,2:50,D,None,++,None
+"Sunday, Jul 27",boxscore,DET,None,PHA,L,2,4,None,54-40,1,up 0.5,Meeker,Dauss,Burns,2:15,D,None,-,None
+"Monday, Jul 28",boxscore,DET,None,PHA,L,4,7,11,54-41,2, 1.0,Rommel,Stoner,None,2:33,D,None,--,None
+"Tuesday, Jul 29",boxscore,DET,None,PHA,W,4,3,11,55-41,2, 1.0,Holloway,Baumgartner,None,2:18,D,None,+,None
+"Wednesday, Jul 30",boxscore,DET,None,WSH,L,4,7,None,55-42,2, 1.5,Marberry,Whitehill,None,2:35,D,"5,000",-,None
+"Thursday, Jul 31",boxscore,DET,None,WSH,L,0,1,None,55-43,3, 1.0,Zachary,Collins,None,1:55,D,None,--,None
+"Friday, Aug 1",boxscore,DET,None,WSH,L,3,7,None,55-44,3, 2.0,Johnson,Wells,None,1:56,D,"11,000",---,None
+"Saturday, Aug 2",boxscore,DET,None,WSH,W,8,3,None,56-44,3, 1.0,Holloway,Mogridge,None,2:07,D,None,+,None
+"Sunday, Aug 3",boxscore,DET,None,NYY,W,5,2,None,57-44,1, Tied,Whitehill,Pennock,None,2:25,D,"42,712",++,None
+"Monday, Aug 4",boxscore,DET,None,NYY,L,8,9,11,57-45,2, 1.0,Gaston,Dauss,None,2:51,D,"16,000",-,None
+"Tuesday, Aug 5",boxscore,DET,None,NYY,L,2,9,None,57-46,2, 2.0,Hoyt,Wells,None,2:21,D,"20,000",--,None
+"Wednesday, Aug 6",boxscore,DET,None,NYY,W,5,2,5,58-46,2, 1.0,Whitehill,Bush,None,1:14,D,"10,000",+,None
+"Thursday, Aug 7",boxscore,DET,None,BOS,L,2,4,None,58-47,2, 2.0,Fullerton,Holloway,Quinn,2:19,D,None,-,None
+"Friday, Aug 8",boxscore,DET,None,BOS,W,14,5,None,59-47,2, 1.0,Collins,Ehmke,Johnson,2:14,D,None,+,None
+"Saturday, Aug 9",boxscore,DET,None,BOS,W,3,2,11,60-47,2, 1.0,Dauss,Ferguson,None,2:27,D,None,++,None
+"Sunday, Aug 10",boxscore,DET,None,BOS,W,13,7,None,61-47,1, Tied,Dauss,Murray,None,2:25,D,None,+++,None
+"Wednesday, Aug 13",boxscore,DET,@,PHA,W,8,4,None,62-47,2, 1.0,Collins,Gray,Johnson,2:20,D,None,++++,None
+"Wednesday, Aug 13",boxscore,DET,@,PHA,L,7,8,11,62-48,2, 1.0,Heimach,Leonard,None,3:10,D,None,-,None
+"Thursday, Aug 14",boxscore,DET,@,PHA,L,5,11,None,62-49,2, 1.0,Burns,Holloway,None,2:10,D,None,--,None
+"Friday, Aug 15",boxscore,DET,@,PHA,W,4,3,None,63-49,2, 0.5,Johnson,Heimach,Leonard,2:07,D,None,+,None
+"Saturday, Aug 16",boxscore,DET,@,WSH,W,5,2,None,64-49,2, 0.5,Whitehill,Marberry,None,2:05,D,None,++,None
+"Sunday, Aug 17",boxscore,DET,@,WSH,L,1,8,None,64-50,2, 1.5,Johnson,Wells,None,2:15,D,None,-,None
+"Monday, Aug 18",boxscore,DET,@,WSH,L,3,6,None,64-51,2, 2.5,Marberry,Leonard,Russell,2:03,D,None,--,None
+"Tuesday, Aug 19",boxscore,DET,@,WSH,L,3,4,None,64-52,3, 3.5,Mogridge,Johnson,None,2:00,D,None,---,None
+"Tuesday, Aug 19",boxscore,DET,@,WSH,L,3,5,None,64-53,3, 3.5,Zachary,Whitehill,Russell,2:22,D,None,----,1924-07-08 (Rain)
+"Friday, Aug 22",boxscore,DET,@,NYY,W,8,6,12,65-53,3, 2.5,Johnson,Hoyt,None,3:05,D,"30,000",+,1924-08-21 (Schedule change)
+"Saturday, Aug 23",boxscore,DET,@,NYY,L,1,8,None,65-54,3, 3.5,Pennock,Whitehill,None,2:10,D,"35,000",-,None
+"Sunday, Aug 24",boxscore,DET,@,NYY,W,7,2,None,66-54,3, 2.5,Leonard,Bush,None,1:50,D,"50,000",+,None
+"Monday, Aug 25",boxscore,DET,@,BOS,L,3,4,11,66-55,3, 3.5,Ehmke,Holloway,None,2:25,D,None,-,None
+"Wednesday, Aug 27",boxscore,DET,@,BOS,W,5,4,None,67-55,3, 3.5,Johnson,Ferguson,Dauss,1:56,D,None,+,None
+"Wednesday, Aug 27",boxscore,DET,@,BOS,L,3,6,None,67-56,3, 3.5,Quinn,Stoner,None,1:38,D,None,-,1924-08-26 (Rain)
+"Friday, Aug 29",boxscore,DET,@,SLB,L,0,3,None,67-57,3, 5.0,Davis,Whitehill,None,1:48,D,None,--,None
+"Friday, Aug 29",boxscore,DET,@,SLB,L,6,7,None,67-58,3, 5.0,Vangilder,Leonard,Danforth,1:54,D,"15,000",---,1924-06-26 (Rain)
+"Saturday, Aug 30",boxscore,DET,@,SLB,W,6,1,None,68-58,3, 4.0,Collins,Shocker,Wells,1:50,D,"12,000",+,None
+"Sunday, Aug 31",boxscore,DET,@,SLB,L,4,14,None,68-59,3, 5.0,Wingard,Dauss,None,1:55,D,None,-,None
+"Monday, Sep 1",boxscore,DET,@,CHW,W,16,5,None,69-59,3, 6.0,Whitehill,Cvengros,Cole,2:08,D,"7,000",+,None
+"Monday, Sep 1",boxscore,DET,@,CHW,L,2,10,None,69-60,3, 6.0,Faber,Wells,None,1:48,D,"17,000",-,None
+"Tuesday, Sep 2",boxscore,DET,@,CHW,L,2,6,None,69-61,3, 7.0,Thurston,Collins,None,1:58,D,None,--,None
+"Tuesday, Sep 2",boxscore,DET,@,CHW,L,5,8,None,69-62,3, 7.0,Lyons,Stoner,None,2:06,D,None,---,1924-05-07 (Rain)
+"Wednesday, Sep 3",boxscore,DET,@,CHW,W,6,2,None,70-62,3, 6.0,Johnson,Robertson,None,1:45,D,None,+,None
+"Wednesday, Sep 3",boxscore,DET,@,CHW,W,6,4,None,71-62,3, 6.0,Whitehill,Blankenship,Dauss,1:54,D,None,++,1924-05-08 (Rain)
+"Friday, Sep 5",boxscore,DET,None,CLE,W,7,3,None,72-62,3, 5.5,Wells,Smith,None,2:10,D,None,+++,None
+"Friday, Sep 5",boxscore,DET,None,CLE,W,20,1,None,73-62,3, 5.5,Holloway,Uhle,None,1:59,D,None,++++,1924-07-07 (Rain; Site change)
+"Saturday, Sep 6",boxscore,DET,None,CLE,W,5,4,None,74-62,3, 5.5,Leonard,Shaute,Dauss,1:53,D,None,+++++,None
+"Sunday, Sep 7",boxscore,DET,None,CLE,W,8,7,None,75-62,3, 4.5,Stoner,Coveleski,Dauss,2:12,D,None,++++++,None
+"Tuesday, Sep 9",boxscore,DET,None,CHW,W,7,3,None,76-62,3, 4.5,Holloway,Robertson,None,2:00,D,"1,000",+++++++,None
+"Wednesday, Sep 10",boxscore,DET,None,CHW,L,8,12,None,76-63,3, 5.0,Thurston,Wells,None,2:25,D,None,-,None
+"Thursday, Sep 11",boxscore,DET,None,CHW,W,5,4,10,77-63,3, 5.0,Cole,Faber,None,2:26,D,None,+,None
+"Saturday, Sep 13",boxscore,DET,None,WSH,L,4,6,None,77-64,3, 6.0,Johnson,Whitehill,Marberry,2:15,D,20,-,None
+"Sunday, Sep 14",boxscore,DET,None,WSH,W,5,2,None,78-64,3, 5.0,Leonard,Martina,None,2:05,D,25,+,None
+"Monday, Sep 15",boxscore,DET,None,WSH,W,2,0,None,79-64,3, 4.0,Collins,Mogridge,None,1:38,D,"10,000",++,None
+"Tuesday, Sep 16",boxscore,DET,None,PHA,L,2,14,None,79-65,3, 5.0,Rommel,Johnson,None,1:42,D,None,-,None
+"Wednesday, Sep 17",boxscore,DET,None,PHA,L,8,9,None,79-66,3, 6.0,Harriss,Whitehill,Baumgartner,2:25,D,None,--,None
+"Thursday, Sep 18",boxscore,DET,None,PHA,L,3,5,None,79-67,3, 7.0,Heimach,Pillette,None,2:01,D,None,---,None
+"Friday, Sep 19",boxscore,DET,None,NYY,W,6,5,None,80-67,3, 7.0,Wells,Hoyt,None,2:13,D,"10,000",+,None
+"Saturday, Sep 20",boxscore,DET,None,NYY,W,6,5,None,81-67,3, 6.0,Holloway,Bush,None,2:30,D,"6,000",++,None
+"Sunday, Sep 21",boxscore,DET,None,NYY,W,4,3,None,82-67,3, 6.0,Whitehill,Hoyt,Dauss,2:22,D,40,+++,None
+"Monday, Sep 22",boxscore,DET,None,BOS,W,9,1,None,83-67,3, 6.0,Pillette,Fullerton,None,1:52,D,None,++++,None
+"Tuesday, Sep 23",boxscore,DET,None,BOS,W,3,2,None,84-67,3, 6.0,Stoner,Wingfield,None,1:29,D,None,+++++,None
+"Friday, Sep 26",boxscore,DET,@,CHW,W,8,2,None,85-67,3, 5.5,Collins,Faber,None,1:43,D,None,++++++,None
+"Saturday, Sep 27",boxscore,DET,@,CHW,W,10,8,None,86-67,3, 5.5,Holloway,Blankenship,Wells,2:20,D,None,+++++++,None
+"Sunday, Sep 28",boxscore,DET,@,CHW,T,10,10,10,86-67,3, 5.5,None,None,None,2:28,D,None,+++++++,None
+"Monday, Sep 29",boxscore,DET,@,CHW,L,5,16,None,86-68,3, 6.5,Blankenship,Holloway,None,1:26,D,500,-,None

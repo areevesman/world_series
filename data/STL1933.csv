@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 13",boxscore,STL,@,CHC,W,3,1,None,1-1,3, 1.0,Hallahan,Bush,None,None,D,None,+,None
+"Sunday, Apr 16",boxscore,STL,@,CIN,L,0,7,None,1-2,5, 2.0,Lucas,Derringer,None,1:42,D,None,-,None
+"Thursday, Apr 20",boxscore,STL,None,CHC,L,1,3,None,1-3,7, 2.0,Malone,Dean,None,None,D,None,--,None
+"Friday, Apr 21",boxscore,STL,None,CHC,W,4,0,None,2-3,6, 2.0,Hallahan,Bush,None,None,D,None,+,None
+"Saturday, Apr 22",boxscore,STL,None,CHC,W,2,0,None,3-3,3, 2.0,Carleton,Root,None,None,D,None,++,None
+"Sunday, Apr 23",boxscore,STL,None,PIT,L,0,4,None,3-4,5, 4.0,Meine,Vance,None,1:56,D,None,-,None
+"Sunday, Apr 23",boxscore,STL,None,PIT,L,2,6,None,3-5,5, 4.0,Hoyt,Walker,None,2:05,D,None,--,1933-04-24 (Schedule change)
+"Tuesday, Apr 25",boxscore,STL,None,PIT,W,10,3,None,4-5,4, 3.0,Hallahan,Swetonic,None,1:48,D,None,+,None
+"Wednesday, Apr 26",boxscore,STL,None,CIN,L,1,2,None,4-6,6, 3.5,Johnson,Derringer,None,None,D,None,-,None
+"Thursday, Apr 27",boxscore,STL,None,CIN,W,3,2,None,5-6,4, 3.0,Carleton,Benton,None,None,D,None,+,None
+"Friday, Apr 28",boxscore,STL,@,PIT,L,0,2,None,5-7,5, 3.5,French,Mooney,None,None,D,None,-,None
+"Saturday, Apr 29",boxscore,STL,@,PIT,L,4,6,None,5-8,7, 4.5,Meine,Walker,None,None,D,None,--,None
+"Sunday, Apr 30",boxscore,STL,@,CHC,L,5,7,None,5-9,7, 5.0,Root,Hallahan,Bush,1:57,D,"22,000",---,None
+"Sunday, Apr 30",boxscore,STL,@,CHC,W,5,3,None,6-9,7, 5.0,Carleton,Malone,Dean,2:17,D,"22,000",+,1933-04-14 (Rain)
+"Tuesday, May 2",boxscore,STL,@,BRO,W,13,4,None,7-9,7, 4.5,Dean,Beck,None,None,D,None,++,None
+"Thursday, May 4",boxscore,STL,@,PHI,W,5,2,None,8-9,3, 4.5,Mooney,Berly,None,1:19,D,None,+++,None
+"Friday, May 5",boxscore,STL,@,PHI,W,5,3,None,9-9,3, 4.5,Walker,Pearce,None,2:03,D,None,++++,None
+"Sunday, May 7",boxscore,STL,@,BRO,W,12,5,None,10-9,3, 4.5,Dean,Thurston,None,2:10,D,None,+++++,None
+"Sunday, May 7",boxscore,STL,@,BRO,L,2,4,None,10-10,3, 4.5,Carroll,Hallahan,None,2:10,D,"35,000",-,1933-05-03 (Rain)
+"Monday, May 8",boxscore,STL,@,NYG,W,4,3,None,11-10,3, 4.5,Carleton,Fitzsimmons,Dean,None,D,None,+,None
+"Thursday, May 11",boxscore,STL,@,BSN,W,2,1,None,12-10,3, 4.0,Hallahan,Betts,None,1:32,D,None,++,None
+"Friday, May 12",boxscore,STL,@,BSN,L,3,4,11,12-11,3, 4.0,Brandt,Dean,None,2:08,D,None,-,None
+"Saturday, May 13",boxscore,STL,@,BSN,W,8,2,None,13-11,3, 3.0,Walker,Seibold,None,1:39,D,None,+,None
+"Sunday, May 14",boxscore,STL,@,BSN,W,4,0,None,14-11,3, 2.5,Carleton,Frankhouse,None,1:33,D,"20,000",++,None
+"Sunday, May 14",boxscore,STL,@,BSN,L,4,8,None,14-12,3, 2.5,Cantwell,Dean,None,1:55,D,"20,000",-,1933-08-25 (Schedule change)
+"Tuesday, May 16",boxscore,STL,None,BRO,L,5,6,None,14-13,3, 4.0,Beck,Dean,Benge,2:32,D,"2,500",--,None
+"Wednesday, May 17",boxscore,STL,None,BRO,L,2,5,None,14-14,4, 5.0,Thurston,Johnson,None,2:12,D,None,---,None
+"Thursday, May 18",boxscore,STL,None,BRO,L,5,14,None,14-15,5, 6.0,Carroll,Mooney,None,2:18,D,None,----,None
+"Friday, May 19",boxscore,STL,None,NYG,W,8,7,10,15-15,4, 5.0,Walker,Luque,None,None,D,None,+,None
+"Saturday, May 20",boxscore,STL,None,NYG,W,4,1,None,16-15,3, 4.5,Dean,Bell,None,2:06,D,None,++,None
+"Sunday, May 21",boxscore,STL,None,NYG,W,2,1,None,17-15,3, 3.5,Hallahan,Hubbell,None,2:05,D,None,+++,None
+"Sunday, May 21",boxscore,STL,None,NYG,W,8,4,None,18-15,3, 3.5,Haines,Fitzsimmons,Johnson,2:10,D,None,++++,1933-09-17 (Schedule change)
+"Monday, May 22",boxscore,STL,None,BSN,W,3,0,10,19-15,3, 2.5,Walker,Brandt,None,1:53,D,None,+++++,None
+"Tuesday, May 23",boxscore,STL,None,BSN,L,1,3,10,19-16,3, 3.5,Frankhouse,Carleton,Cantwell,None,D,None,-,None
+"Friday, May 26",boxscore,STL,None,PHI,W,5,4,14,20-16,3, 3.0,Dean,Pearce,None,2:45,D,None,+,None
+"Saturday, May 27",boxscore,STL,None,PHI,W,10,1,None,21-16,3, 2.5,Hallahan,Collins,None,None,D,None,++,None
+"Sunday, May 28",boxscore,STL,None,PHI,W,8,7,None,22-16,2, 1.5,Haines,Rhem,Carleton,2:25,D,None,+++,None
+"Sunday, May 28",boxscore,STL,None,PHI,W,5,3,None,23-16,2, 1.5,Mooney,Hansen,None,1:41,D,None,++++,1933-05-25 (Schedule change)
+"Tuesday, May 30",boxscore,STL,None,CIN,&H,5,4,None,24-16,2, 0.5,Carleton,Derringer,Dean,2:06,D,None,+++++,None
+"Tuesday, May 30",boxscore,STL,None,CIN,W,3,2,None,25-16,2, 0.5,Vance,Johnson,None,2:13,D,None,++++++,None
+"Thursday, Jun 1",boxscore,STL,@,CHC,W,6,1,None,26-16,1,up 0.5,Dean,Bush,None,None,D,"4,000",+++++++,None
+"Saturday, Jun 3",boxscore,STL,@,CHC,L,6,8,None,26-17,1,up 1.0,Warneke,Johnson,None,None,D,None,-,None
+"Sunday, Jun 4",boxscore,STL,@,CIN,W,4,2,None,27-17,1, Tied,Johnson,Johnson,Haines,2:05,D,None,+,None
+"Sunday, Jun 4",boxscore,STL,@,CIN,L,2,6,None,27-18,1, Tied,Derringer,Carleton,None,1:44,D,"20,000",-,1933-04-15 (Rain)
+"Tuesday, Jun 6",boxscore,STL,@,CIN,W,6,2,None,28-18,1, Tied,Hallahan,Stout,Johnson,2:47,D,None,+,None
+"Thursday, Jun 8",boxscore,STL,None,CHC,W,2,1,None,29-18,1, Tied,Dean,Warneke,None,None,D,None,++,None
+"Friday, Jun 9",boxscore,STL,None,CHC,W,12,2,None,30-18,1,up 0.5,Carleton,Malone,None,None,D,None,+++,None
+"Saturday, Jun 10",boxscore,STL,None,CHC,L,3,4,None,30-19,2, 0.5,Root,Haines,None,None,D,None,-,None
+"Sunday, Jun 11",boxscore,STL,None,PIT,L,7,11,None,30-20,2, 1.0,Kremer,Carleton,Harris,None,D,None,--,None
+"Sunday, Jun 11",boxscore,STL,None,PIT,L,0,3,None,30-21,2, 1.0,French,Walker,None,None,D,None,---,1933-06-12 (Schedule change)
+"Tuesday, Jun 13",boxscore,STL,None,PIT,W,4,3,None,31-21,2, 1.0,Dean,Swetonic,None,1:55,D,None,+,None
+"Wednesday, Jun 14",boxscore,STL,None,PIT,W,3,2,None,32-21,2, 1.0,Hallahan,Meine,None,None,D,None,++,None
+"Saturday, Jun 17",boxscore,STL,@,CIN,W,17,2,None,33-21,1, Tied,Carleton,Lucas,None,1:59,D,None,+++,None
+"Sunday, Jun 18",boxscore,STL,@,CIN,W,13,1,None,34-21,2, 0.5,Dean,Derringer,None,1:45,D,None,++++,None
+"Sunday, Jun 18",boxscore,STL,@,CIN,L,5,6,None,34-22,2, 0.5,Rixey,Dean,None,2:08,D,None,-,1933-04-17 (Rain)
+"Monday, Jun 19",boxscore,STL,@,BRO,L,5,6,None,34-23,2, 1.5,Shaute,Haines,None,None,D,None,--,None
+"Tuesday, Jun 20",boxscore,STL,@,BRO,W,15,4,None,35-23,2, 0.5,Hallahan,Mungo,Johnson,None,D,None,+,None
+"Wednesday, Jun 21",boxscore,STL,@,BRO,W,7,5,None,36-23,2, 0.5,Carleton,Beck,Vance,None,D,None,++,None
+"Thursday, Jun 22",boxscore,STL,@,PHI,L,3,9,None,36-24,2, 1.5,Holley,Mooney,None,2:03,D,None,-,None
+"Friday, Jun 23",boxscore,STL,@,PHI,L,4,9,None,36-25,2, 1.5,Liska,Dean,Moore,2:00,D,None,--,None
+"Saturday, Jun 24",boxscore,STL,@,PHI,L,7,10,None,36-26,2, 2.0,Jackson,Hallahan,Collins,2:43,D,None,---,None
+"Saturday, Jun 24",boxscore,STL,@,PHI,W,5,1,None,37-26,2, 2.0,Carleton,Hansen,None,1:51,D,None,+,None
+"Tuesday, Jun 27",boxscore,STL,@,BSN,L,0,1,None,37-27,2, 3.5,Mangum,Walker,None,1:25,D,None,-,None
+"Wednesday, Jun 28",boxscore,STL,@,BSN,L,3,4,None,37-28,2, 4.5,Brandt,Hallahan,None,2:00,D,None,--,None
+"Wednesday, Jun 28",boxscore,STL,@,BSN,L,0,3,None,37-29,2, 4.5,Frankhouse,Vance,None,1:49,D,None,---,1933-06-26 (Rain)
+"Thursday, Jun 29",boxscore,STL,@,NYG,W,7,3,None,38-29,2, 3.5,Carleton,Clark,None,None,D,None,+,None
+"Friday, Jun 30",boxscore,STL,@,NYG,W,1,0,None,39-29,2, 2.5,Dean,Schumacher,None,None,D,None,++,None
+"Saturday, Jul 1",boxscore,STL,@,NYG,L,1,11,None,39-30,2, 3.5,Fitzsimmons,Walker,Bell,None,D,None,-,None
+"Sunday, Jul 2",boxscore,STL,@,NYG,L,0,1,18,39-31,2, 5.5,Hubbell,Haines,None,4:03,D,"50,000",--,None
+"Sunday, Jul 2",boxscore,STL,@,NYG,L,0,1,None,39-32,2, 5.5,Parmelee,Dean,None,1:23,D,"50,000",---,1933-05-09 (Cold)
+"Tuesday, Jul 4",boxscore,STL,@,PIT,W,5,1,None,40-32,2, 5.0,Hallahan,Swetonic,None,None,D,None,+,None
+"Tuesday, Jul 4",boxscore,STL,@,PIT,L,2,4,None,40-33,2, 5.0,French,Mooney,None,None,D,None,-,None
+"Wednesday, Jul 5",boxscore,STL,@,PIT,L,6,7,None,40-34,2, 5.5,Hoyt,Johnson,French,None,D,"7,000",--,None
+"Friday, Jul 7",boxscore,STL,None,BRO,L,4,10,None,40-35,2, 5.5,Carroll,Carleton,Shaute,2:20,D,None,---,None
+"Saturday, Jul 8",boxscore,STL,None,BRO,W,1,0,None,41-35,2, 4.5,Dean,Benge,None,1:37,D,"7,800",+,None
+"Sunday, Jul 9",boxscore,STL,None,BRO,L,6,8,11,41-36,2, 3.5,Shaute,Dean,Thurston,2:48,D,None,-,None
+"Sunday, Jul 9",boxscore,STL,None,BRO,W,2,0,None,42-36,2, 3.5,Carleton,Mungo,None,1:52,D,"10,500",+,1933-07-10 (Schedule change)
+"Tuesday, Jul 11",boxscore,STL,None,NYG,W,2,1,None,43-36,2, 2.5,Dean,Parmelee,None,None,D,None,++,None
+"Wednesday, Jul 12",boxscore,STL,None,NYG,L,0,3,None,43-37,3, 3.5,Schumacher,Hallahan,None,1:47,D,"3,000",-,None
+"Thursday, Jul 13",boxscore,STL,None,NYG,L,2,3,None,43-38,4, 4.5,Hubbell,Carleton,None,1:49,D,"15,000",--,None
+"Friday, Jul 14",boxscore,STL,None,NYG,L,7,12,None,43-39,4, 5.5,Clark,Dean,Bell,None,D,None,---,None
+"Saturday, Jul 15",boxscore,STL,None,PHI,L,2,3,10,43-40,4, 6.0,Holley,Mooney,Collins,None,D,None,----,None
+"Sunday, Jul 16",boxscore,STL,None,PHI,W,4,2,None,44-40,4, 6.0,Hallahan,Elliott,None,2:08,D,None,+,None
+"Sunday, Jul 16",boxscore,STL,None,PHI,L,2,8,None,44-41,4, 6.0,Hansen,Carleton,None,2:22,D,None,-,1933-07-19 (Schedule change)
+"Tuesday, Jul 18",boxscore,STL,None,PHI,W,9,4,None,45-41,4, 6.0,Dean,Jackson,None,None,D,None,+,None
+"Thursday, Jul 20",boxscore,STL,None,BSN,L,2,3,None,45-42,4, 6.0,Frankhouse,Haines,Brandt,1:48,D,None,-,None
+"Friday, Jul 21",boxscore,STL,None,BSN,L,0,7,None,45-43,4, 7.0,Betts,Walker,None,None,D,None,--,None
+"Saturday, Jul 22",boxscore,STL,None,BSN,L,5,9,None,45-44,5, 7.5,Brandt,Hallahan,None,None,D,None,---,None
+"Sunday, Jul 23",boxscore,STL,None,BSN,W,12,0,None,46-44,5, 8.0,Carleton,Cantwell,None,2:05,D,None,+,None
+"Sunday, Jul 23",boxscore,STL,None,BSN,L,1,2,6,46-45,5, 8.0,Zachary,Dean,Frankhouse,1:05,D,None,-,1933-05-24 (Rain)
+"Tuesday, Jul 25",boxscore,STL,None,CIN,W,3,1,None,47-45,4, 7.5,Haines,Benton,None,None,D,None,+,None
+"Wednesday, Jul 26",boxscore,STL,None,CIN,W,3,2,None,48-45,4, 8.0,Hallahan,Derringer,Mooney,None,D,None,++,None
+"Thursday, Jul 27",boxscore,STL,None,CIN,W,4,3,None,49-45,4, 8.0,Dean,Smith,None,None,D,None,+++,None
+"Saturday, Jul 29",boxscore,STL,None,CHC,W,9,6,10,50-45,4, 8.0,Haines,Nelson,None,None,D,None,++++,None
+"Sunday, Jul 30",boxscore,STL,None,CHC,W,8,2,None,51-45,3, 6.5,Dean,Bush,None,1:42,D,None,+++++,None
+"Sunday, Jul 30",boxscore,STL,None,CHC,W,6,5,None,52-45,3, 6.5,Haines,Henshaw,Vance,2:05,D,None,++++++,1933-07-28 (Schedule change)
+"Tuesday, Aug 1",boxscore,STL,@,PIT,L,3,9,None,52-46,4, 6.5,Swetonic,Walker,Hoyt,None,D,None,-,None
+"Wednesday, Aug 2",boxscore,STL,@,PIT,W,4,3,12,53-46,4, 6.0,Haines,French,None,None,D,None,+,None
+"Thursday, Aug 3",boxscore,STL,@,PIT,W,4,1,6,54-46,4, 5.5,Dean,Swift,None,None,D,None,++,None
+"Friday, Aug 4",boxscore,STL,@,PIT,L,4,5,None,54-47,4, 6.5,Meine,Walker,None,None,D,None,-,None
+"Saturday, Aug 5",boxscore,STL,@,CIN,L,3,6,None,54-48,4, 6.5,Rixey,Hallahan,None,None,D,None,--,None
+"Saturday, Aug 5",boxscore,STL,@,CIN,W,2,1,None,55-48,4, 6.5,Vance,Benton,None,1:30,D,None,+,1933-04-18 (Wet grounds)
+"Sunday, Aug 6",boxscore,STL,@,CIN,L,1,2,11,55-49,4, 7.5,Lucas,Carleton,None,2:18,D,None,-,None
+"Sunday, Aug 6",boxscore,STL,@,CIN,L,0,1,12,55-50,4, 7.5,Derringer,Haines,None,1:58,D,None,--,1933-06-05 (Rain)
+"Tuesday, Aug 8",boxscore,STL,@,CHC,L,2,4,None,55-51,4, 7.5,Root,Dean,None,None,D,None,---,None
+"Wednesday, Aug 9",boxscore,STL,@,CHC,L,7,10,None,55-52,5, 8.0,Tinning,Grimes,Warneke,None,D,None,----,None
+"Friday, Aug 11",boxscore,STL,None,CIN,W,8,5,None,56-52,5, 8.0,Hallahan,Kolp,Dean,2:20,D,None,+,None
+"Saturday, Aug 12",boxscore,STL,None,CIN,W,3,2,None,57-52,5, 8.0,Haines,Derringer,Grimes,None,D,None,++,None
+"Sunday, Aug 13",boxscore,STL,None,CIN,W,3,2,None,58-52,4, 6.5,Dean,Lucas,None,1:40,D,None,+++,None
+"Sunday, Aug 13",boxscore,STL,None,CIN,W,4,3,12,59-52,4, 6.5,Vance,Johnson,None,2:54,D,None,++++,1933-08-10 (Schedule change)
+"Tuesday, Aug 15",boxscore,STL,@,PHI,W,5,1,None,60-52,4, 6.0,Hallahan,Hansen,None,None,D,None,+++++,None
+"Wednesday, Aug 16",boxscore,STL,@,PHI,W,7,6,12,61-52,4, 6.5,Haines,Collins,Carleton,3:12,D,None,++++++,None
+"Wednesday, Aug 16",boxscore,STL,@,PHI,L,0,2,None,61-53,4, 6.5,Moore,Dean,None,None,D,None,-,1933-05-06 (Rain)
+"Thursday, Aug 17",boxscore,STL,@,PHI,W,9,5,None,62-53,4, 6.5,Carleton,Holley,None,None,D,None,+,None
+"Saturday, Aug 19",boxscore,STL,@,BRO,L,2,5,None,62-54,4, 8.0,Benge,Hallahan,None,None,D,"3,100",-,None
+"Sunday, Aug 20",boxscore,STL,@,BRO,W,6,2,None,63-54,2, 7.5,Walker,Mungo,None,2:15,D,None,+,None
+"Sunday, Aug 20",boxscore,STL,@,BRO,W,5,0,None,64-54,2, 7.5,Dean,Beck,None,1:46,D,"20,000",++,1933-08-21 (Rain)
+"Wednesday, Aug 23",boxscore,STL,@,BSN,L,3,4,None,64-55,3, 8.0,Betts,Carleton,None,1:30,D,None,-,None
+"Thursday, Aug 24",boxscore,STL,@,BSN,L,3,4,None,64-56,5, 8.5,Brandt,Hallahan,None,None,D,None,--,None
+"Saturday, Aug 26",boxscore,STL,@,BSN,L,0,3,None,64-57,4, 10.0,Cantwell,Haines,None,1:45,D,None,---,None
+"Sunday, Aug 27",boxscore,STL,@,NYG,W,7,1,None,65-57,4, 9.0,Dean,Schumacher,None,2:25,D,"50,000",+,None
+"Sunday, Aug 27",boxscore,STL,@,NYG,T,5,5,8,65-57,4, 9.0,None,None,None,2:30,D,"50,000",+,1933-05-10 (Rain)
+"Monday, Aug 28",boxscore,STL,@,NYG,W,12,8,None,66-57,4, 8.0,Vance,Schumacher,Dean,None,D,"5,000",++,None
+"Tuesday, Aug 29",boxscore,STL,@,NYG,L,0,3,None,66-58,5, 8.0,Hubbell,Hallahan,None,None,D,None,-,None
+"Tuesday, Aug 29",boxscore,STL,@,NYG,W,2,0,None,67-58,5, 8.0,Walker,Fitzsimmons,None,None,D,"25,000",+,None
+"Wednesday, Aug 30",boxscore,STL,@,NYG,L,4,5,None,67-59,5, 9.0,Schumacher,Dean,None,None,D,None,-,None
+"Thursday, Aug 31",boxscore,STL,@,BRO,W,10,3,None,68-59,5, 7.5,Carleton,Mungo,None,None,D,None,+,None
+"Thursday, Aug 31",boxscore,STL,@,BRO,W,10,4,None,69-59,5, 7.5,Haines,Benge,None,None,D,None,++,1933-08-22 (Rain)
+"Friday, Sep 1",boxscore,STL,@,PIT,L,1,2,11,69-60,5, 9.0,French,Hallahan,None,None,D,None,-,None
+"Saturday, Sep 2",boxscore,STL,@,PIT,L,1,4,None,69-61,5, 10.0,Meine,Walker,None,None,D,None,--,None
+"Sunday, Sep 3",boxscore,STL,@,CHC,W,3,1,None,70-61,5, 10.0,Vance,Warneke,None,2:04,D,None,+,None
+"Monday, Sep 4",boxscore,STL,@,CHC,L,4,6,None,70-62,5, 11.0,Bush,Dean,None,None,D,None,-,None
+"Monday, Sep 4",boxscore,STL,@,CHC,L,2,5,None,70-63,5, 11.0,Root,Carleton,None,None,D,None,--,None
+"Wednesday, Sep 6",boxscore,STL,None,PHI,W,3,1,None,71-63,5, 9.5,Hallahan,Holley,None,1:42,D,None,+,None
+"Wednesday, Sep 6",boxscore,STL,None,PHI,W,8,7,None,72-63,5, 9.5,Walker,Hansen,None,2:32,D,None,++,1933-08-18 (Rain; Site change)
+"Thursday, Sep 7",boxscore,STL,None,PHI,W,10,1,None,73-63,4, 8.5,Dean,Ragland,None,None,D,None,+++,None
+"Friday, Sep 8",boxscore,STL,None,PHI,W,6,5,None,74-63,4, 8.5,Johnson,Hansen,Vance,2:11,D,None,++++,None
+"Saturday, Sep 9",boxscore,STL,None,BSN,L,3,6,None,74-64,4, 9.5,Betts,Carleton,None,None,D,None,-,None
+"Sunday, Sep 10",boxscore,STL,None,BSN,W,7,0,None,75-64,4, 9.5,Hallahan,Frankhouse,None,1:58,D,None,+,None
+"Sunday, Sep 10",boxscore,STL,None,BSN,W,10,5,8,76-64,4, 9.5,Vance,Smith,Carleton,2:18,D,None,++,1933-09-12 (Schedule change)
+"Monday, Sep 11",boxscore,STL,None,BSN,L,0,3,None,76-65,4, 10.5,Brandt,Walker,None,None,D,None,-,None
+"Wednesday, Sep 13",boxscore,STL,None,BRO,W,4,1,None,77-65,4, 9.5,Dean,Carroll,None,1:46,D,None,+,None
+"Friday, Sep 15",boxscore,STL,None,BRO,L,2,9,None,77-66,4, 10.5,Mungo,Hallahan,None,2:06,D,None,-,None
+"Saturday, Sep 16",boxscore,STL,None,BRO,W,14,13,10,78-66,4, 11.0,Johnson,Benge,None,None,D,None,+,None
+"Sunday, Sep 17",boxscore,STL,None,NYG,L,3,4,None,78-67,4, 12.0,Luque,Dean,None,2:20,D,"15,000",-,None
+"Monday, Sep 18",boxscore,STL,None,NYG,W,4,3,None,79-67,4, 11.0,Carleton,Hubbell,None,2:12,D,None,+,None
+"Tuesday, Sep 19",boxscore,STL,None,NYG,W,12,3,None,80-67,4, 10.0,Walker,Schumacher,None,1:47,D,"5,000",++,None
+"Saturday, Sep 23",boxscore,STL,None,PIT,L,3,9,None,80-68,4, 9.5,Birkofer,Hallahan,None,2:10,D,None,-,None
+"Sunday, Sep 24",boxscore,STL,None,PIT,W,5,4,None,81-68,4, 9.5,Carleton,French,None,2:03,D,None,+,None
+"Sunday, Sep 24",boxscore,STL,None,PIT,L,4,5,10,81-69,4, 9.5,Chagnon,Dean,None,2:08,D,None,-,1933-09-22 (Rain)
+"Monday, Sep 25",boxscore,STL,None,PIT,W,6,3,None,82-69,4, 9.0,Walker,Smith,None,None,D,None,+,1933-09-26 (Schedule change)
+"Saturday, Sep 30",boxscore,STL,None,CHC,L,2,12,None,82-70,4, 9.5,Bush,Dean,None,None,D,None,-,None
+"Sunday, Oct 1",boxscore,STL,None,CHC,L,1,7,None,82-71,5, 9.5,Warneke,Carleton,None,1:57,D,None,--,None

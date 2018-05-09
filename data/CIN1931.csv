@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 15",boxscore,CIN,None,STL,L,0,4,None,0-2,6, 2.0,Grimes,Lucas,None,1:53,D,None,--,None
+"Thursday, Apr 16",boxscore,CIN,None,STL,L,3,6,None,0-3,7, 3.0,Haines,Frey,Derringer,1:59,D,None,---,None
+"Saturday, Apr 18",boxscore,CIN,None,PIT,L,6,9,None,0-4,7, 4.0,French,Wysong,None,2:00,D,None,----,None
+"Sunday, Apr 19",boxscore,CIN,None,PIT,L,1,5,None,0-5,7, 4.0,Kremer,Johnson,None,2:00,D,None,-----,None
+"Monday, Apr 20",boxscore,CIN,None,PIT,W,7,5,None,1-5,7, 4.0,Lucas,Meine,None,1:55,D,None,+,None
+"Wednesday, Apr 22",boxscore,CIN,@,STL,L,2,3,None,1-6,7, 5.0,Lindsey,Kolp,None,None,D,None,-,None
+"Sunday, Apr 26",boxscore,CIN,None,CHC,L,1,3,None,1-7,7, 5.5,Root,Frey,None,1:55,D,None,--,None
+"Wednesday, Apr 29",boxscore,CIN,None,CHC,L,1,3,None,1-8,7, 6.0,Baecht,Lucas,None,None,D,None,---,None
+"Thursday, Apr 30",boxscore,CIN,@,PIT,L,3,8,None,1-9,8, 6.5,Meine,Rixey,None,1:46,D,None,----,None
+"Friday, May 1",boxscore,CIN,@,PIT,L,4,5,11,1-10,8, 7.5,Spencer,Carroll,None,2:38,D,None,-----,None
+"Saturday, May 2",boxscore,CIN,@,PIT,L,5,11,None,1-11,8, 8.5,Osborn,Ogden,None,1:57,D,None,------,None
+"Sunday, May 3",boxscore,CIN,None,PIT,L,3,6,None,1-12,8, 9.0,Kremer,Lucas,None,1:37,D,None,-------,None
+"Sunday, May 3",boxscore,CIN,None,PIT,W,10,5,None,2-12,8, 9.0,Kolp,Wood,None,1:58,D,None,+,1931-07-08 (Schedule change)
+"Monday, May 4",boxscore,CIN,@,CHC,L,1,13,None,2-13,8, 9.5,Malone,Carroll,None,None,D,None,-,None
+"Tuesday, May 5",boxscore,CIN,@,CHC,L,4,8,None,2-14,8, 10.0,Sweetland,Frey,None,None,D,None,--,None
+"Thursday, May 7",boxscore,CIN,@,CHC,L,4,5,11,2-15,8, 11.5,May,Kolp,None,None,D,None,---,None
+"Saturday, May 9",boxscore,CIN,@,BSN,L,2,4,None,2-16,8, 12.5,Seibold,Lucas,None,1:40,D,None,----,None
+"Tuesday, May 12",boxscore,CIN,@,BSN,L,2,4,None,2-17,8, 12.0,Brandt,Benton,None,None,D,None,-----,None
+"Tuesday, May 12",boxscore,CIN,@,BSN,W,3,2,None,3-17,8, 12.0,Johnson,Cunningham,None,None,D,None,+,1931-05-10 (Rain)
+"Friday, May 15",boxscore,CIN,@,PHI,W,10,5,None,4-17,8, 11.0,Lucas,Bolen,None,2:10,D,None,++,None
+"Friday, May 15",boxscore,CIN,@,PHI,W,7,5,None,5-17,8, 11.0,Kolp,Benge,Benton,2:15,D,None,+++,1931-05-13 (Cold)
+"Saturday, May 16",boxscore,CIN,@,BRO,L,1,2,None,5-18,8, 11.0,Vance,Johnson,None,1:47,D,"18,000",-,None
+"Sunday, May 17",boxscore,CIN,@,BRO,W,7,5,None,6-18,8, 11.0,Rixey,Luque,Frey,None,D,None,+,None
+"Monday, May 18",boxscore,CIN,@,BRO,L,4,14,None,6-19,8, 11.0,Thurston,Eckert,None,None,D,None,-,None
+"Tuesday, May 19",boxscore,CIN,@,NYG,L,3,9,None,6-20,8, 12.0,Morrell,Benton,None,1:59,D,"4,000",--,None
+"Wednesday, May 20",boxscore,CIN,@,NYG,L,0,4,None,6-21,8, 12.5,Berly,Johnson,None,None,D,None,---,None
+"Saturday, May 23",boxscore,CIN,None,STL,L,1,2,10,6-22,8, 13.0,Derringer,Lucas,None,1:42,D,None,----,None
+"Sunday, May 24",boxscore,CIN,None,STL,W,3,2,None,7-22,8, 13.0,Johnson,Grimes,None,1:51,D,None,+,None
+"Sunday, May 24",boxscore,CIN,None,STL,L,6,13,None,7-23,8, 13.0,Haines,Kolp,None,2:06,D,None,-,1931-04-17 (Wet grounds)
+"Tuesday, May 26",boxscore,CIN,None,CHC,L,2,7,None,7-24,8, 15.0,Smith,Benton,None,1:52,D,None,--,None
+"Tuesday, May 26",boxscore,CIN,None,CHC,L,6,9,None,7-25,8, 15.0,Root,Ogden,None,None,D,None,---,1931-04-27 (Cold)
+"Wednesday, May 27",boxscore,CIN,None,CHC,L,4,8,None,7-26,8, 16.0,Bush,Wysong,None,None,D,None,----,None
+"Thursday, May 28",boxscore,CIN,None,CHC,W,3,1,None,8-26,8, 15.0,Johnson,Blake,None,None,D,None,+,None
+"Friday, May 29",boxscore,CIN,@,STL,L,9,14,None,8-27,8, 15.0,Grimes,Lucas,Kaufmann,2:00,D,"2,000",-,None
+"Saturday, May 30",boxscore,CIN,@,STL,L,4,12,None,8-28,8, 16.5,Haines,Kolp,None,1:49,D,None,--,None
+"Saturday, May 30",boxscore,CIN,@,STL,L,4,5,None,8-29,8, 16.5,Hallahan,Benton,Lindsey,2:01,D,None,---,None
+"Sunday, May 31",boxscore,CIN,@,STL,L,5,7,None,8-30,8, 16.5,Derringer,Carroll,None,1:52,D,None,----,None
+"Sunday, May 31",boxscore,CIN,@,STL,W,7,2,None,9-30,8, 16.5,Ogden,Johnson,None,1:41,D,None,+,1931-04-24 (Rain)
+"Monday, Jun 1",boxscore,CIN,@,STL,L,5,6,12,9-31,8, 17.5,Rhem,Benton,None,2:37,D,"2,000",-,1931-04-23 (Rain)
+"Tuesday, Jun 2",boxscore,CIN,None,PHI,L,2,6,None,9-32,8, 18.5,Elliott,Lucas,Watt,1:50,D,None,--,None
+"Wednesday, Jun 3",boxscore,CIN,None,PHI,W,3,1,None,10-32,8, 17.5,Rixey,Collins,None,1:34,D,None,+,None
+"Thursday, Jun 4",boxscore,CIN,None,PHI,W,5,2,None,11-32,8, 17.5,Carroll,Benge,None,1:48,D,None,++,None
+"Friday, Jun 5",boxscore,CIN,None,PHI,W,9,2,None,12-32,8, 17.5,Johnson,Bolen,None,1:53,D,None,+++,None
+"Saturday, Jun 6",boxscore,CIN,None,BSN,W,6,5,None,13-32,8, 17.5,Kolp,Cantwell,None,2:02,D,"12,000",++++,None
+"Sunday, Jun 7",boxscore,CIN,None,BSN,W,8,2,None,14-32,8, 17.5,Lucas,Brandt,None,2:00,D,None,+++++,None
+"Sunday, Jun 7",boxscore,CIN,None,BSN,L,9,10,None,14-33,8, 17.5,Moss,Johnson,Frankhouse,2:09,D,None,-,1931-06-08 (Schedule change)
+"Tuesday, Jun 9",boxscore,CIN,None,BSN,W,7,2,None,15-33,8, 17.5,Frey,Moss,None,1:27,D,None,+,None
+"Wednesday, Jun 10",boxscore,CIN,None,BRO,W,10,3,None,16-33,8, 16.5,Rixey,Phelps,None,None,D,None,++,None
+"Thursday, Jun 11",boxscore,CIN,None,BRO,W,2,1,11,17-33,8, 15.5,Johnson,Quinn,None,None,D,None,+++,None
+"Friday, Jun 12",boxscore,CIN,None,BRO,L,0,3,None,17-34,8, 15.5,Clark,Lucas,None,None,D,None,-,None
+"Saturday, Jun 13",boxscore,CIN,None,BRO,W,6,1,None,18-34,8, 15.5,Benton,Phelps,None,None,D,None,+,None
+"Sunday, Jun 14",boxscore,CIN,None,NYG,L,2,3,None,18-35,8, 17.0,Morrell,Frey,Hubbell,1:58,D,None,-,None
+"Tuesday, Jun 16",boxscore,CIN,None,NYG,L,1,6,None,18-36,8, 18.0,Fitzsimmons,Johnson,None,None,D,"16,000",--,None
+"Thursday, Jun 18",boxscore,CIN,@,PHI,L,4,5,None,18-37,8, 19.0,Elliott,Ogden,None,1:59,D,None,---,None
+"Friday, Jun 19",boxscore,CIN,@,PHI,L,3,10,None,18-38,8, 20.0,Collins,Kolp,None,1:53,D,None,----,None
+"Saturday, Jun 20",boxscore,CIN,@,PHI,L,6,11,None,18-39,8, 19.0,Benge,Benton,Elliott,2:11,D,None,-----,None
+"Saturday, Jun 20",boxscore,CIN,@,PHI,W,4,1,None,19-39,8, 19.0,Johnson,Dudley,None,1:53,D,"15,000",+,None
+"Sunday, Jun 21",boxscore,CIN,None,PHI,L,1,7,None,19-40,8, 19.5,Watt,Frey,None,None,D,None,-,1931-07-20 (Schedule change)
+"Tuesday, Jun 23",boxscore,CIN,@,BSN,W,2,0,None,20-40,8, 18.0,Lucas,Sherdel,None,1:17,D,None,+,None
+"Tuesday, Jun 23",boxscore,CIN,@,BSN,W,8,4,6,21-40,8, 18.0,Benton,Moss,None,2:23,D,None,++,1931-05-11 (Cold)
+"Wednesday, Jun 24",boxscore,CIN,@,BSN,W,8,5,None,22-40,8, 19.0,Johnson,Brandt,None,1:36,D,None,+++,None
+"Wednesday, Jun 24",boxscore,CIN,@,BSN,L,6,11,None,22-41,8, 19.0,Zachary,Carroll,None,3:56,D,None,-,1931-06-22 (Schedule change)
+"Thursday, Jun 25",boxscore,CIN,@,NYG,W,6,0,None,23-41,8, 19.0,Frey,Mitchell,None,None,D,None,+,None
+"Friday, Jun 26",boxscore,CIN,@,NYG,L,0,2,None,23-42,8, 19.0,Walker,Ogden,None,None,D,None,-,None
+"Saturday, Jun 27",boxscore,CIN,@,NYG,W,6,4,None,24-42,8, 17.5,Benton,Heving,Kolp,None,D,"8,000",+,None
+"Sunday, Jun 28",boxscore,CIN,@,NYG,L,5,17,None,24-43,8, 18.0,Fitzsimmons,Lucas,Chaplin,1:50,D,None,-,None
+"Sunday, Jun 28",boxscore,CIN,@,NYG,L,2,5,None,24-44,8, 18.0,Morrell,Johnson,Walker,None,D,None,--,1931-05-21 (Rain)
+"Monday, Jun 29",boxscore,CIN,@,BRO,L,4,6,None,24-45,8, 19.0,Vance,Rixey,Quinn,1:55,D,"8,000",---,None
+"Tuesday, Jun 30",boxscore,CIN,@,BRO,W,4,3,None,25-45,8, 19.0,Frey,Thurston,Benton,None,D,None,+,None
+"Wednesday, Jul 1",boxscore,CIN,@,BRO,L,1,3,None,25-46,8, 19.0,Shaute,Carroll,None,None,D,None,-,None
+"Thursday, Jul 2",boxscore,CIN,@,BRO,L,3,4,None,25-47,8, 19.0,Phelps,Johnson,Heimach,None,D,None,--,None
+"Saturday, Jul 4",boxscore,CIN,@,CHC,L,0,1,None,25-48,8, 20.0,Root,Frey,None,2:21,D,"14,000",---,None
+"Saturday, Jul 4",boxscore,CIN,@,CHC,W,6,2,None,26-48,8, 20.0,Ogden,Bush,None,2:29,D,"22,000",+,None
+"Sunday, Jul 5",boxscore,CIN,None,PIT,L,4,6,None,26-49,8, 20.0,Brame,Johnson,None,2:12,D,None,-,None
+"Thursday, Jul 9",boxscore,CIN,@,STL,L,1,3,None,26-50,8, 21.5,Grimes,Johnson,None,1:37,D,None,--,None
+"Thursday, Jul 9",boxscore,CIN,@,STL,L,1,9,None,26-51,8, 21.5,Derringer,Frey,None,1:31,D,None,---,1931-04-25 (Rain)
+"Friday, Jul 10",boxscore,CIN,@,STL,L,1,2,None,26-52,8, 22.5,Haines,Ogden,Stout,1:37,D,"4,000",----,None
+"Saturday, Jul 11",boxscore,CIN,@,STL,L,2,8,None,26-53,8, 23.5,Johnson,Kolp,None,1:37,D,"4,000",-----,None
+"Sunday, Jul 12",boxscore,CIN,None,PIT,W,14,7,None,27-53,8, 22.5,Lucas,Meine,None,2:03,D,None,+,None
+"Sunday, Jul 12",boxscore,CIN,None,PIT,W,6,5,11,28-53,8, 22.5,Benton,Swetonic,None,2:29,D,None,++,1931-07-06 (Schedule change)
+"Tuesday, Jul 14",boxscore,CIN,None,BSN,L,2,3,None,28-54,8, 24.0,Zachary,Johnson,None,1:47,D,None,-,None
+"Wednesday, Jul 15",boxscore,CIN,None,BSN,W,1,0,None,29-54,8, 23.0,Ogden,Brandt,None,1:25,D,None,+,None
+"Thursday, Jul 16",boxscore,CIN,None,BSN,L,0,2,None,29-55,8, 24.0,Cunningham,Benton,None,1:28,D,None,-,None
+"Friday, Jul 17",boxscore,CIN,None,BSN,W,5,0,None,30-55,8, 23.0,Lucas,Frankhouse,None,1:39,D,None,+,None
+"Saturday, Jul 18",boxscore,CIN,None,PHI,W,5,4,None,31-55,8, 22.0,Frey,Nichols,None,1:44,D,None,++,None
+"Sunday, Jul 19",boxscore,CIN,None,PHI,W,7,6,None,32-55,8, 23.0,Frey,Bolen,None,2:11,D,None,+++,None
+"Sunday, Jul 19",boxscore,CIN,None,PHI,L,1,7,None,32-56,8, 23.0,Collins,Ogden,None,1:43,D,None,-,1931-07-21 (Schedule change)
+"Wednesday, Jul 22",boxscore,CIN,None,NYG,W,4,3,None,33-56,8, 23.0,Lucas,Mitchell,None,None,D,None,+,None
+"Thursday, Jul 23",boxscore,CIN,None,NYG,L,2,4,10,33-57,8, 23.5,Hubbell,Johnson,None,None,D,None,-,None
+"Friday, Jul 24",boxscore,CIN,None,NYG,W,5,3,None,34-57,8, 24.0,Frey,Walker,None,None,D,None,+,None
+"Saturday, Jul 25",boxscore,CIN,None,NYG,L,0,5,None,34-58,8, 25.5,Fitzsimmons,Carroll,None,None,D,None,-,None
+"Saturday, Jul 25",boxscore,CIN,None,NYG,L,3,7,None,34-59,8, 25.5,Chaplin,Ogden,Hubbell,2:10,D,"10,000",--,1931-06-15 (Schedule change)
+"Sunday, Jul 26",boxscore,CIN,None,BRO,W,4,0,None,35-59,8, 25.5,Benton,Thurston,None,1:35,D,None,+,None
+"Sunday, Jul 26",boxscore,CIN,None,BRO,L,0,5,None,35-60,8, 25.5,Vance,Rixey,None,1:43,D,None,-,1931-07-27 (Schedule change)
+"Tuesday, Jul 28",boxscore,CIN,None,BRO,W,5,4,None,36-60,8, 25.5,Frey,Thurston,None,2:00,D,None,+,None
+"Wednesday, Jul 29",boxscore,CIN,None,BRO,W,2,1,None,37-60,8, 24.5,Johnson,Phelps,None,None,D,None,++,None
+"Friday, Jul 31",boxscore,CIN,@,PIT,L,0,5,None,37-61,8, 25.0,Kremer,Benton,None,1:34,D,None,-,None
+"Saturday, Aug 1",boxscore,CIN,@,PIT,L,0,1,None,37-62,8, 25.0,Spencer,Rixey,None,1:31,D,None,--,None
+"Sunday, Aug 2",boxscore,CIN,None,PIT,L,0,3,None,37-63,8, 26.0,Brame,Lucas,None,1:46,D,None,---,None
+"Monday, Aug 3",boxscore,CIN,@,CHC,L,0,8,None,37-64,8, 26.5,Smith,Johnson,None,2:34,D,None,----,None
+"Tuesday, Aug 4",boxscore,CIN,@,CHC,L,2,4,None,37-65,8, 28.0,Bush,Benton,None,2:31,D,None,-----,None
+"Tuesday, Aug 4",boxscore,CIN,@,CHC,L,3,7,None,37-66,8, 28.0,Sweetland,Frey,None,2:26,D,"37,000",------,1931-05-06 (Rain)
+"Wednesday, Aug 5",boxscore,CIN,@,CHC,L,2,3,None,37-67,8, 28.5,Warneke,Kolp,None,None,D,None,-------,None
+"Thursday, Aug 6",boxscore,CIN,@,PIT,W,3,2,None,38-67,8, 28.0,Benton,Spencer,None,1:40,D,None,+,None
+"Friday, Aug 7",boxscore,CIN,@,PIT,L,3,9,None,38-68,8, 29.0,Kremer,Lucas,None,1:53,D,None,-,None
+"Saturday, Aug 8",boxscore,CIN,@,PIT,L,3,4,None,38-69,8, 30.0,Meine,Johnson,None,1:42,D,None,--,None
+"Sunday, Aug 9",boxscore,CIN,None,PIT,W,6,2,None,39-69,8, 29.5,Benton,French,None,1:29,D,None,+,None
+"Sunday, Aug 9",boxscore,CIN,None,PIT,L,4,8,None,39-70,8, 29.5,Brame,Frey,None,1:55,D,None,-,1931-07-07 (Schedule change)
+"Thursday, Aug 13",boxscore,CIN,@,BSN,W,17,3,None,40-70,8, 30.0,Lucas,Seibold,None,1:59,D,None,+,None
+"Thursday, Aug 13",boxscore,CIN,@,BSN,W,4,2,None,41-70,8, 30.0,Johnson,Zachary,Frey,2:24,D,None,++,1931-08-11 (Rain)
+"Friday, Aug 14",boxscore,CIN,@,BSN,L,0,1,None,41-71,8, 31.5,Brandt,Benton,None,1:33,D,None,-,None
+"Friday, Aug 14",boxscore,CIN,@,BSN,L,1,3,None,41-72,8, 31.5,Sherdel,Kolp,None,2:07,D,None,--,1931-08-12 (Rain)
+"Sunday, Aug 16",boxscore,CIN,@,BRO,L,2,9,None,41-73,8, 32.5,Thurston,Rixey,None,2:05,D,None,---,None
+"Sunday, Aug 16",boxscore,CIN,@,BRO,L,7,8,None,41-74,8, 32.5,Shaute,Frey,Quinn,1:46,D,"17,000",----,1931-08-15 (Rain)
+"Monday, Aug 17",boxscore,CIN,@,BRO,W,4,1,None,42-74,8, 31.5,Johnson,Clark,None,1:35,D,None,+,None
+"Monday, Aug 17",boxscore,CIN,@,BRO,W,8,3,None,43-74,8, 31.5,Carroll,Phelps,None,1:51,D,"5,500",++,1931-08-18 (Schedule change)
+"Wednesday, Aug 19",boxscore,CIN,@,NYG,L,5,6,None,43-75,8, 32.0,Mooney,Lucas,None,None,D,None,-,None
+"Thursday, Aug 20",boxscore,CIN,@,NYG,L,1,3,None,43-76,8, 32.5,Hubbell,Benton,None,1:42,D,None,--,None
+"Saturday, Aug 22",boxscore,CIN,@,NYG,L,0,6,None,43-77,8, 33.5,Mooney,Johnson,None,None,D,None,---,None
+"Saturday, Aug 22",boxscore,CIN,@,NYG,L,1,5,None,43-78,8, 33.5,Walker,Carroll,None,None,D,None,----,1931-08-21 (Rain)
+"Tuesday, Aug 25",boxscore,CIN,@,PHI,W,8,0,None,44-78,8, 35.0,Lucas,Benge,None,1:49,D,None,+,None
+"Tuesday, Aug 25",boxscore,CIN,@,PHI,L,0,1,None,44-79,8, 35.0,Elliott,Johnson,None,1:28,D,None,-,1931-05-14 (Rain)
+"Wednesday, Aug 26",boxscore,CIN,@,PHI,L,4,8,None,44-80,8, 37.0,Collins,Benton,None,1:35,D,None,--,None
+"Wednesday, Aug 26",boxscore,CIN,@,PHI,L,6,7,None,44-81,8, 37.0,Watt,Carroll,None,None,D,None,---,1931-08-24 (Rain)
+"Thursday, Aug 27",boxscore,CIN,@,PHI,L,5,6,None,44-82,8, 37.5,Elliott,Kolp,None,1:46,D,None,----,None
+"Saturday, Aug 29",boxscore,CIN,@,CHC,L,5,14,None,44-83,8, 38.0,Root,Johnson,None,None,D,None,-----,None
+"Sunday, Aug 30",boxscore,CIN,@,CHC,W,4,3,None,45-83,8, 38.5,Lucas,Malone,None,2:10,D,None,+,None
+"Wednesday, Sep 2",boxscore,CIN,None,CHC,W,7,4,None,46-83,8, 37.5,Johnson,May,None,1:45,D,None,++,None
+"Wednesday, Sep 2",boxscore,CIN,None,CHC,W,8,4,None,47-83,8, 37.5,Benton,Bush,None,None,D,None,+++,1931-04-28 (Funeral of Garry Herrmann (CIN owner))
+"Thursday, Sep 3",boxscore,CIN,None,CHC,W,3,2,10,48-83,8, 36.5,Carroll,Malone,None,None,D,None,++++,None
+"Friday, Sep 4",boxscore,CIN,None,CHC,W,12,3,None,49-83,8, 35.5,Lucas,Smith,None,None,D,None,+++++,None
+"Saturday, Sep 5",boxscore,CIN,None,CHC,W,4,3,10,50-83,8, 34.5,Frey,Welch,None,None,D,None,++++++,None
+"Sunday, Sep 6",boxscore,CIN,None,STL,L,0,3,None,50-84,8, 36.5,Rhem,Johnson,None,1:39,D,None,-,None
+"Sunday, Sep 6",boxscore,CIN,None,STL,L,0,7,None,50-85,8, 36.5,Johnson,Benton,None,1:56,D,None,--,1931-05-25 (Schedule change)
+"Monday, Sep 7",boxscore,CIN,@,PIT,L,1,6,None,50-86,8, 38.5,French,Carroll,None,1:37,D,None,---,None
+"Monday, Sep 7",boxscore,CIN,@,PIT,L,2,4,None,50-87,8, 38.5,Brame,Rixey,None,1:44,D,None,----,None
+"Tuesday, Sep 8",boxscore,CIN,@,PIT,L,0,3,None,50-88,8, 39.0,Harris,Ogden,None,1:23,D,None,-----,None
+"Thursday, Sep 10",boxscore,CIN,None,BRO,W,5,1,None,51-88,8, 39.0,Lucas,Vance,None,None,D,None,+,None
+"Friday, Sep 11",boxscore,CIN,None,BRO,L,3,8,None,51-89,8, 39.0,Clark,Johnson,None,None,D,None,-,None
+"Saturday, Sep 12",boxscore,CIN,None,BRO,W,4,1,None,52-89,8, 39.0,Rixey,Mungo,Ogden,None,D,None,+,None
+"Sunday, Sep 13",boxscore,CIN,None,NYG,W,1,0,None,53-89,8, 40.0,Benton,Walker,None,1:56,D,None,++,None
+"Sunday, Sep 13",boxscore,CIN,None,NYG,L,4,9,None,53-90,8, 40.0,Fitzsimmons,Frey,None,None,D,None,-,1931-09-14 (Schedule change)
+"Wednesday, Sep 16",boxscore,CIN,None,NYG,W,7,3,None,54-90,8, 41.0,Lucas,Hubbell,None,1:46,D,None,+,None
+"Wednesday, Sep 16",boxscore,CIN,None,NYG,W,4,3,None,55-90,8, 41.0,Ogden,Berly,None,2:02,D,None,++,1931-09-15 (Rain)
+"Thursday, Sep 17",boxscore,CIN,None,PHI,L,3,8,None,55-91,8, 41.0,Elliott,Johnson,Blake,2:01,D,None,-,None
+"Saturday, Sep 19",boxscore,CIN,None,PHI,L,2,3,None,55-92,8, 42.0,Benge,Rixey,None,1:57,D,None,--,None
+"Saturday, Sep 19",boxscore,CIN,None,PHI,L,3,5,None,55-93,8, 42.0,Dudley,Frey,Collins,1:55,D,None,---,1931-09-18 (Schedule change)
+"Sunday, Sep 20",boxscore,CIN,None,BSN,W,5,2,None,56-93,8, 40.5,Benton,Cantwell,None,1:32,D,None,+,None
+"Sunday, Sep 20",boxscore,CIN,None,BSN,W,14,5,None,57-93,8, 40.5,Kolp,Zachary,None,1:52,D,None,++,1931-09-22 (Schedule change)
+"Monday, Sep 21",boxscore,CIN,None,BSN,W,3,2,None,58-93,8, 40.5,Lucas,Seibold,None,1:29,D,None,+++,None
+"Saturday, Sep 26",boxscore,CIN,None,STL,L,4,7,None,58-94,8, 41.0,Hallahan,Benton,None,2:03,D,None,-,None
+"Sunday, Sep 27",boxscore,CIN,None,STL,L,2,6,None,58-95,8, 43.0,Derringer,Lucas,None,None,D,None,--,None
+"Sunday, Sep 27",boxscore,CIN,None,STL,L,3,5,None,58-96,8, 43.0,Johnson,Hilcher,None,None,D,None,---,1931-09-25 (Schedule change)

@@ -1,0 +1,155 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 16",boxscore,PHI,None,NYG,W,6,3,None,1-1,3, 1.0,Hoch,Ames,None,2:05,D,"3,000",+,None
+"Friday, Apr 17",boxscore,PHI,None,NYG,L,2,14,None,1-2,5, 2.0,Wiltse,Moren,None,1:50,D,"8,000",-,None
+"Saturday, Apr 18",boxscore,PHI,None,BSN,W,3,2,None,2-2,4, 1.5,McQuillan,Dorner,None,1:30,D,"2,057",+,None
+"Monday, Apr 20",boxscore,PHI,None,BSN,W,4,3,10,3-2,3, 1.5,Hoch,Young,None,1:55,D,"6,306",++,None
+"Tuesday, Apr 21",boxscore,PHI,None,BSN,L,1,3,None,3-3,3, 2.0,Lindaman,Richie,None,2:00,D,"3,977",-,None
+"Wednesday, Apr 22",boxscore,PHI,@,BSN,W,7,1,None,4-3,3, 2.0,McQuillan,Flaherty,None,1:41,D,"4,592",+,None
+"Thursday, Apr 23",boxscore,PHI,@,BSN,L,0,9,None,4-4,4, 3.0,Young,Moren,None,1:33,D,"3,885",-,None
+"Friday, Apr 24",boxscore,PHI,@,BSN,L,3,5,None,4-5,4, 3.0,Flaherty,Hoch,None,2:05,D,"3,054",--,None
+"Saturday, Apr 25",boxscore,PHI,@,BSN,L,2,3,11,4-6,7, 3.5,Lindaman,Richie,None,1:58,D,"5,224",---,None
+"Monday, Apr 27",boxscore,PHI,@,BRO,W,6,5,None,5-6,4, 3.0,McQuillan,Bell,None,1:57,D,"4,000",+,None
+"Tuesday, Apr 28",boxscore,PHI,@,BRO,W,5,1,None,6-6,4, 2.5,Sparks,Wilhelm,None,1:32,D,"3,500",++,None
+"Wednesday, Apr 29",boxscore,PHI,@,BRO,W,3,1,None,7-6,4, 1.5,Richie,Pastorius,None,1:37,D,"3,000",+++,None
+"Thursday, Apr 30",boxscore,PHI,@,BRO,L,0,2,5,7-7,4, 2.5,Rucker,Moren,None,1:18,D,"1,500",-,None
+"Saturday, May 2",boxscore,PHI,@,NYG,W,2,1,None,8-7,3, 2.5,McQuillan,Taylor,None,1:50,D,"10,000",+,None
+"Monday, May 4",boxscore,PHI,@,NYG,L,2,12,None,8-8,5, 4.0,Mathewson,Sparks,Beecher,1:25,D,"4,000",-,None
+"Tuesday, May 5",boxscore,PHI,@,NYG,L,0,4,None,8-9,5, 4.5,Wiltse,Richie,None,1:45,D,"4,000",--,None
+"Friday, May 8",boxscore,PHI,None,BRO,W,4,3,None,9-9,5, 3.5,McQuillan,McIntire,None,1:35,D,"2,500",+,None
+"Saturday, May 9",boxscore,PHI,None,BRO,W,1,0,None,10-9,4, 3.5,Moren,Wilhelm,None,1:20,D,"3,000",++,None
+"Tuesday, May 12",boxscore,PHI,@,CHC,W,6,2,None,11-9,4, 2.5,McQuillan,Overall,None,1:55,D,"9,000",+++,None
+"Friday, May 15",boxscore,PHI,@,PIT,W,11,0,None,12-9,4, 1.5,McQuillan,Willis,None,1:30,D,"2,244",++++,None
+"Saturday, May 16",boxscore,PHI,@,PIT,W,9,0,None,13-9,2, 1.5,Moren,Leever,None,1:40,D,"3,050",+++++,None
+"Monday, May 18",boxscore,PHI,@,PIT,L,0,2,None,13-10,3, 2.5,Camnitz,Richie,None,1:20,D,"3,736",-,None
+"Wednesday, May 20",boxscore,PHI,@,CIN,L,0,3,None,13-11,3, 3.5,Coakley,McQuillan,None,1:35,D,"3,500",--,None
+"Thursday, May 21",boxscore,PHI,@,CIN,W,6,5,None,14-11,2, 2.5,Moren,Weimer,McQuillan,2:00,D,"3,500",+,None
+"Friday, May 22",boxscore,PHI,@,CIN,L,2,5,None,14-12,2, 3.5,Campbell,Richie,None,1:42,D,"3,750",-,None
+"Saturday, May 23",boxscore,PHI,@,CIN,L,2,8,None,14-13,3, 4.5,Ewing,Sparks,None,1:42,D,"6,000",--,None
+"Sunday, May 24",boxscore,PHI,@,STL,W,1,0,None,15-13,2, 3.5,McQuillan,Raymond,None,1:54,D,"11,333",+,None
+"Monday, May 25",boxscore,PHI,@,STL,W,1,0,None,16-13,2, 3.5,Moren,Beebe,None,1:50,D,"2,400",++,None
+"Tuesday, May 26",boxscore,PHI,@,STL,L,0,2,None,16-14,3, 3.5,Fromme,Sparks,None,1:29,D,"2,000",-,None
+"Friday, May 29",boxscore,PHI,None,BSN,W,8,0,None,17-14,3, 2.5,McQuillan,Young,None,1:45,D,"3,463",+,None
+"Monday, Jun 1",boxscore,PHI,@,BRO,W,2,1,None,18-14,2, 2.5,Moren,McIntire,None,1:28,D,"1,500",++,None
+"Tuesday, Jun 2",boxscore,PHI,@,BRO,L,0,3,None,18-15,3, 2.5,Wilhelm,McQuillan,None,1:21,D,"1,500",-,None
+"Wednesday, Jun 3",boxscore,PHI,@,BRO,L,1,2,None,18-16,4, 3.0,Rucker,Sparks,None,1:28,D,"1,500",--,None
+"Thursday, Jun 4",boxscore,PHI,None,PIT,L,3,6,None,18-17,4, 3.5,Camnitz,Moren,None,1:55,D,None,---,None
+"Friday, Jun 5",boxscore,PHI,None,PIT,W,4,1,None,19-17,4, 3.5,McQuillan,Maddox,None,1:33,D,None,+,None
+"Saturday, Jun 6",boxscore,PHI,None,PIT,L,2,5,None,19-18,4, 4.5,Leever,Sparks,None,1:45,D,None,-,None
+"Monday, Jun 8",boxscore,PHI,None,PIT,L,0,5,None,19-19,5, 5.5,Willis,Moren,None,1:45,D,None,--,None
+"Tuesday, Jun 9",boxscore,PHI,None,STL,W,7,0,None,20-19,5, 5.5,McQuillan,Beebe,None,1:40,D,None,+,None
+"Wednesday, Jun 10",boxscore,PHI,None,STL,L,0,1,10,20-20,5, 5.5,Lush,Sparks,None,1:40,D,None,-,None
+"Thursday, Jun 11",boxscore,PHI,None,STL,W,3,1,None,21-20,4, 5.5,Corridon,Fromme,None,1:17,D,None,+,None
+"Friday, Jun 12",boxscore,PHI,None,STL,L,2,4,None,21-21,4, 6.5,Raymond,Moren,None,None,D,None,-,None
+"Saturday, Jun 13",boxscore,PHI,None,CHC,L,0,1,None,21-22,5, 7.5,Brown,McQuillan,None,None,D,None,--,None
+"Tuesday, Jun 16",boxscore,PHI,None,CHC,W,2,1,None,22-22,5, 6.5,Sparks,Pfiester,None,None,D,None,+,None
+"Wednesday, Jun 17",boxscore,PHI,None,CHC,L,2,3,None,22-23,5, 7.5,Fraser,Corridon,None,None,D,None,-,None
+"Thursday, Jun 18",boxscore,PHI,None,CIN,L,0,1,None,22-24,5, 8.5,Ewing,McQuillan,None,None,D,None,--,None
+"Friday, Jun 19",boxscore,PHI,None,CIN,L,0,5,None,22-25,5, 8.5,Campbell,Moren,None,None,D,None,---,None
+"Saturday, Jun 20",boxscore,PHI,None,CIN,L,0,1,None,22-26,5, 8.0,Coakley,Sparks,None,None,D,None,----,None
+"Saturday, Jun 20",boxscore,PHI,None,CIN,W,7,0,None,23-26,5, 8.0,Corridon,Spade,None,None,D,None,+,None
+"Monday, Jun 22",boxscore,PHI,@,BRO,L,0,1,10,23-27,5, 8.0,Rucker,McQuillan,None,1:52,D,"1,000",-,None
+"Tuesday, Jun 23",boxscore,PHI,@,BRO,W,3,2,None,24-27,5, 7.5,Moren,McIntire,Sparks,1:37,D,"1,500",+,None
+"Wednesday, Jun 24",boxscore,PHI,@,BRO,W,3,1,None,25-27,5, 7.5,Corridon,Wilhelm,None,1:32,D,"1,500",++,None
+"Thursday, Jun 25",boxscore,PHI,@,BRO,W,6,0,None,26-27,5, 7.5,Foxen,Pastorius,None,1:39,D,"2,000",+++,None
+"Saturday, Jun 27",boxscore,PHI,@,BSN,L,1,4,None,26-28,5, 8.0,McCarthy,McQuillan,None,1:55,D,"5,112",-,None
+"Monday, Jun 29",boxscore,PHI,@,BSN,W,9,2,None,27-28,5, 8.5,Sparks,Boultes,None,1:49,D,"1,834",+,None
+"Wednesday, Jul 1",boxscore,PHI,@,BSN,L,1,6,None,27-29,5, 9.5,Dorner,Corridon,None,1:55,D,"5,808",-,None
+"Wednesday, Jul 1",boxscore,PHI,@,BSN,L,5,14,None,27-30,5, 9.5,Lindaman,McQuillan,None,2:16,D,"5,808",--,1908-06-30 (Rain)
+"Thursday, Jul 2",boxscore,PHI,@,NYG,L,3,4,None,27-31,5, 10.0,Mathewson,Foxen,None,1:50,D,"4,000",---,None
+"Friday, Jul 3",boxscore,PHI,@,NYG,L,3,8,None,27-32,5, 11.0,Crandall,Sparks,None,2:00,D,"3,500",----,None
+"Saturday, Jul 4",boxscore,PHI,@,NYG,L,0,1,10,27-33,5, 11.5,Wiltse,McQuillan,None,1:45,D,"8,000",-----,None
+"Saturday, Jul 4",boxscore,PHI,@,NYG,L,3,9,None,27-34,5, 11.5,McGinnity,Corridon,None,1:50,D,"12,000",------,None
+"Monday, Jul 6",boxscore,PHI,@,PIT,L,1,2,None,27-35,5, 12.5,Maddox,Foxen,None,None,D,None,-------,None
+"Wednesday, Jul 8",boxscore,PHI,@,PIT,W,4,1,None,28-35,5, 10.5,McQuillan,Willis,None,None,D,None,+,None
+"Wednesday, Jul 8",boxscore,PHI,@,PIT,W,8,5,None,29-35,5, 10.5,Sparks,Leifield,None,None,D,None,++,1908-05-19 (Rain)
+"Thursday, Jul 9",boxscore,PHI,@,PIT,W,5,2,None,30-35,5, 10.5,Richie,Maddox,None,None,D,None,+++,None
+"Friday, Jul 10",boxscore,PHI,@,CHC,L,2,3,11,30-36,5, 11.5,Brown,Foxen,None,None,D,None,-,None
+"Saturday, Jul 11",boxscore,PHI,@,CHC,W,6,2,None,31-36,5, 10.5,McQuillan,Reulbach,None,None,D,None,+,None
+"Sunday, Jul 12",boxscore,PHI,@,CHC,L,0,3,None,31-37,5, 10.5,Reulbach,Richie,None,None,D,None,-,None
+"Sunday, Jul 12",boxscore,PHI,@,CHC,W,2,0,None,32-37,5, 10.5,Corridon,Pfiester,None,None,D,None,+,1908-05-14 (Rain)
+"Monday, Jul 13",boxscore,PHI,@,CHC,W,6,5,None,33-37,5, 9.5,Sparks,Lundgren,None,None,D,None,++,None
+"Tuesday, Jul 14",boxscore,PHI,@,CHC,W,11,2,None,34-37,5, 8.5,Foxen,Overall,None,None,D,None,+++,1908-05-11 (Rain)
+"Wednesday, Jul 15",boxscore,PHI,@,STL,W,8,1,None,35-37,5, 8.5,McQuillan,Beebe,None,None,D,None,++++,None
+"Thursday, Jul 16",boxscore,PHI,@,STL,W,7,4,None,36-37,5, 8.5,Corridon,Lush,None,None,D,None,+++++,None
+"Friday, Jul 17",boxscore,PHI,@,STL,W,3,0,None,37-37,5, 7.5,Richie,Raymond,None,None,D,None,++++++,None
+"Saturday, Jul 18",boxscore,PHI,@,STL,W,2,1,None,38-37,5, 7.0,Sparks,McGlynn,None,None,D,None,+++++++,None
+"Saturday, Jul 18",boxscore,PHI,@,STL,W,4,2,None,39-37,5, 7.0,Foxen,Beebe,None,None,D,None,++++++++,1908-05-27 (Rain)
+"Sunday, Jul 19",boxscore,PHI,@,CIN,L,1,4,None,39-38,5, 7.5,Ewing,McQuillan,None,None,D,None,-,None
+"Monday, Jul 20",boxscore,PHI,@,CIN,W,4,3,11,40-38,5, 7.5,Corridon,Spade,None,None,D,None,+,None
+"Tuesday, Jul 21",boxscore,PHI,@,CIN,W,3,2,None,41-38,5, 7.5,Richie,Coakley,None,None,D,None,++,None
+"Wednesday, Jul 22",boxscore,PHI,@,CIN,W,2,1,None,42-38,4, 7.5,Sparks,Ewing,None,None,D,None,+++,None
+"Monday, Jul 27",boxscore,PHI,None,STL,W,2,1,None,43-38,4, 6.5,McQuillan,McGlynn,None,None,D,None,++++,None
+"Monday, Jul 27",boxscore,PHI,None,STL,W,5,1,None,44-38,4, 6.5,Foxen,Raymond,None,None,D,None,+++++,1908-07-24 (Rain)
+"Tuesday, Jul 28",boxscore,PHI,None,STL,W,1,0,11,45-38,4, 6.5,Sparks,Lush,None,None,D,None,++++++,None
+"Tuesday, Jul 28",boxscore,PHI,None,STL,L,1,3,None,45-39,4, 6.5,Raymond,Richie,None,None,D,None,-,1908-07-25 (Rain)
+"Wednesday, Jul 29",boxscore,PHI,None,CIN,L,2,4,None,45-40,4, 7.5,Spade,Corridon,None,None,D,None,--,None
+"Thursday, Jul 30",boxscore,PHI,None,CIN,W,5,0,None,46-40,4, 6.5,McQuillan,Doscher,None,None,D,None,+,None
+"Friday, Jul 31",boxscore,PHI,None,CIN,W,3,0,None,47-40,4, 6.5,Foxen,Coakley,None,None,D,None,++,None
+"Saturday, Aug 1",boxscore,PHI,None,CIN,W,6,0,None,48-40,4, 6.5,Sparks,Ewing,None,None,D,None,+++,None
+"Monday, Aug 3",boxscore,PHI,None,CHC,L,1,5,None,48-41,4, 7.5,Brown,McQuillan,None,None,D,None,-,None
+"Tuesday, Aug 4",boxscore,PHI,None,CHC,W,4,2,None,49-41,4, 6.5,Corridon,Reulbach,None,None,D,None,+,None
+"Thursday, Aug 6",boxscore,PHI,None,CHC,W,7,5,None,50-41,4, 6.0,Sparks,Overall,None,None,D,None,++,None
+"Thursday, Aug 6",boxscore,PHI,None,CHC,W,5,3,None,51-41,4, 6.0,Foxen,Reulbach,None,None,D,None,+++,1908-06-15 (Rain)
+"Saturday, Aug 8",boxscore,PHI,None,PIT,L,2,4,10,51-42,4, 7.0,Willis,Richie,None,None,D,None,-,None
+"Monday, Aug 10",boxscore,PHI,None,PIT,W,5,4,None,52-42,4, 6.0,Corridon,Leifield,McQuillan,None,D,None,+,None
+"Tuesday, Aug 11",boxscore,PHI,None,PIT,L,1,5,None,52-43,4, 7.0,Maddox,Sparks,None,1:51,D,"10,000",-,None
+"Wednesday, Aug 12",boxscore,PHI,None,BSN,L,2,3,None,52-44,4, 6.5,Ferguson,Foxen,None,1:53,D,"10,793",--,1908-05-30 (Rain)
+"Wednesday, Aug 12",boxscore,PHI,None,BSN,W,5,2,None,53-44,4, 6.5,McQuillan,Lindaman,None,None,D,None,+,None
+"Thursday, Aug 13",boxscore,PHI,None,BSN,W,2,0,None,54-44,4, 6.5,Moren,Dorner,None,None,D,None,++,None
+"Saturday, Aug 15",boxscore,PHI,@,CHC,W,3,1,None,55-44,4, 7.0,Sparks,Brown,None,None,D,None,+++,None
+"Sunday, Aug 16",boxscore,PHI,@,CHC,W,1,0,None,56-44,4, 6.5,McQuillan,Pfiester,None,None,D,None,++++,None
+"Monday, Aug 17",boxscore,PHI,@,CHC,L,1,5,None,56-45,4, 7.0,Reulbach,Foxen,None,None,D,None,-,None
+"Tuesday, Aug 18",boxscore,PHI,@,CHC,W,8,3,None,57-45,4, 6.0,Sparks,Lundgren,None,None,D,None,+,1908-05-13 (Rain)
+"Thursday, Aug 20",boxscore,PHI,@,STL,L,0,4,None,57-46,4, 5.5,Raymond,McQuillan,None,None,D,None,-,None
+"Friday, Aug 21",boxscore,PHI,@,STL,L,3,4,None,57-47,4, 6.5,Lush,Corridon,None,None,D,None,--,1908-08-19 (Rain)
+"Saturday, Aug 22",boxscore,PHI,@,STL,L,4,5,None,57-48,4, 7.5,Beebe,Sparks,None,None,D,None,---,None
+"Sunday, Aug 23",boxscore,PHI,@,CIN,L,0,2,None,57-49,4, 8.0,Spade,Foxen,None,None,D,None,----,None
+"Monday, Aug 24",boxscore,PHI,@,CIN,W,2,1,None,58-49,4, 8.0,McQuillan,Campbell,None,None,D,None,+,None
+"Tuesday, Aug 25",boxscore,PHI,@,CIN,W,4,2,10,59-49,4, 8.0,Corridon,Ewing,None,None,D,None,++,None
+"Thursday, Aug 27",boxscore,PHI,@,PIT,L,3,4,None,59-50,4, 8.5,Vail,Sparks,None,None,D,None,-,None
+"Friday, Aug 28",boxscore,PHI,@,PIT,L,0,1,None,59-51,4, 9.0,Leever,McQuillan,None,None,D,None,--,None
+"Saturday, Aug 29",boxscore,PHI,@,PIT,L,0,1,None,59-52,4, 8.5,Maddox,Corridon,None,None,D,None,---,None
+"Saturday, Aug 29",boxscore,PHI,@,PIT,W,5,1,None,60-52,4, 8.5,Richie,Leifield,None,None,D,None,+,1908-07-07 (Rain)
+"Tuesday, Sep 1",boxscore,PHI,None,BRO,W,4,2,None,61-52,4, 8.0,Sparks,Pastorius,None,1:30,D,None,++,None
+"Tuesday, Sep 1",boxscore,PHI,None,BRO,W,9,0,None,62-52,4, 8.0,McQuillan,Wilhelm,None,1:30,D,"9,000",+++,None
+"Wednesday, Sep 2",boxscore,PHI,None,BRO,W,3,2,17,63-52,4, 7.5,Corridon,Rucker,None,3:07,D,"4,000",++++,None
+"Thursday, Sep 3",boxscore,PHI,None,BRO,W,7,5,None,64-52,4, 7.5,Foxen,Holmes,McQuillan,2:00,D,"4,000",+++++,None
+"Thursday, Sep 3",boxscore,PHI,None,BRO,W,6,1,None,65-52,4, 7.5,Richie,Pastorius,None,1:32,D,"11,000",++++++,1908-05-06 (Rain)
+"Friday, Sep 4",boxscore,PHI,None,NYG,L,1,8,None,65-53,4, 8.5,Wiltse,Sparks,None,1:37,D,"10,000",-,None
+"Saturday, Sep 5",boxscore,PHI,None,NYG,L,1,5,None,65-54,4, 9.5,Mathewson,McQuillan,None,1:45,D,"14,000",--,None
+"Monday, Sep 7",boxscore,PHI,None,NYG,L,0,5,None,65-55,4, 9.5,Wiltse,Foxen,None,1:45,D,"7,000",---,None
+"Monday, Sep 7",boxscore,PHI,None,NYG,W,2,1,None,66-55,4, 9.5,Corridon,Crandall,Richie,1:45,D,"13,000",+,None
+"Tuesday, Sep 8",boxscore,PHI,@,BSN,W,6,4,None,67-55,4, 9.5,Sparks,Dorner,None,1:53,D,"1,641",++,None
+"Wednesday, Sep 9",boxscore,PHI,@,BSN,L,2,5,None,67-56,4, 10.5,Ferguson,Richie,None,1:35,D,"1,635",-,None
+"Thursday, Sep 10",boxscore,PHI,@,BSN,W,8,2,None,68-56,4, 10.5,McQuillan,Lindaman,Corridon,1:49,D,"1,525",+,None
+"Friday, Sep 11",boxscore,PHI,None,BSN,W,7,2,None,69-56,4, 10.5,Moren,Flaherty,None,None,D,None,++,None
+"Saturday, Sep 12",boxscore,PHI,None,BSN,W,5,4,11,70-56,4, 10.0,Corridon,Ferguson,None,2:27,D,"8,561",+++,None
+"Saturday, Sep 12",boxscore,PHI,None,BSN,W,3,1,None,71-56,4, 10.0,Sparks,Dorner,None,None,D,None,++++,1908-05-30 (Rain)
+"Monday, Sep 14",boxscore,PHI,None,BSN,L,3,4,None,71-57,4, 11.0,Chappelle,Moren,None,None,D,None,-,None
+"Tuesday, Sep 15",boxscore,PHI,None,PIT,L,5,6,None,71-58,4, 12.0,Maddox,Corridon,None,1:45,D,"3,000",--,None
+"Wednesday, Sep 16",boxscore,PHI,None,PIT,W,5,2,None,72-58,4, 12.5,Sparks,Camnitz,None,1:30,D,None,+,None
+"Wednesday, Sep 16",boxscore,PHI,None,PIT,L,0,2,None,72-59,4, 12.5,Leifield,Richie,None,1:50,D,"5,752",-,1908-08-07 (Rain)
+"Thursday, Sep 17",boxscore,PHI,None,PIT,L,1,8,None,72-60,4, 13.5,Willis,Moren,None,1:35,D,"2,500",--,None
+"Friday, Sep 18",boxscore,PHI,None,CHC,W,2,1,10,73-60,4, 14.0,McQuillan,Overall,None,2:00,D,"3,000",+,None
+"Saturday, Sep 19",boxscore,PHI,None,CHC,L,2,4,None,73-61,4, 14.0,Brown,Corridon,None,None,D,None,-,None
+"Saturday, Sep 19",boxscore,PHI,None,CHC,T,0,0,10,73-61,4, 14.0,None,None,None,1:35,D,"11,227",-,1908-08-05 (Rain)
+"Monday, Sep 21",boxscore,PHI,None,CHC,L,1,3,10,73-62,4, 14.5,Overall,Sparks,None,1:50,D,"2,000",--,None
+"Monday, Sep 21",boxscore,PHI,None,CHC,L,2,3,None,73-63,4, 14.5,Coakley,McQuillan,None,1:23,D,"5,110",---,None
+"Tuesday, Sep 22",boxscore,PHI,None,CIN,W,10,2,None,74-63,4, 13.0,Corridon,Ewing,None,None,D,None,+,None
+"Wednesday, Sep 23",boxscore,PHI,None,CIN,L,0,1,None,74-64,4, 13.5,Rowan,Coveleski,None,None,D,None,-,None
+"Thursday, Sep 24",boxscore,PHI,None,CIN,W,5,0,None,75-64,4, 13.5,Moore,Savidge,None,None,D,None,+,None
+"Friday, Sep 25",boxscore,PHI,None,STL,W,11,1,None,76-64,4, 12.5,McQuillan,Lush,None,None,D,None,++,None
+"Saturday, Sep 26",boxscore,PHI,None,STL,L,2,3,14,76-65,4, 13.5,Higginbotham,Sparks,None,None,D,None,-,None
+"Saturday, Sep 26",boxscore,PHI,None,STL,W,1,0,5,77-65,4, 13.5,Coveleski,Lush,None,None,D,None,+,None
+"Monday, Sep 28",boxscore,PHI,@,NYG,L,6,7,None,77-66,4, 14.0,McGinnity,Corridon,None,2:00,D,"3,000",-,None
+"Tuesday, Sep 29",boxscore,PHI,@,NYG,L,2,6,None,77-67,4, 14.5,Mathewson,McQuillan,None,1:40,D,"10,000",--,None
+"Tuesday, Sep 29",boxscore,PHI,@,NYG,W,7,0,None,78-67,4, 14.5,Coveleski,Crandall,None,1:55,D,"16,000",+,1908-05-01 (Cold)
+"Wednesday, Sep 30",boxscore,PHI,@,NYG,L,1,2,None,78-68,4, 15.0,Ames,Moore,None,1:40,D,"5,000",-,None
+"Thursday, Oct 1",boxscore,PHI,None,NYG,L,3,4,None,78-69,4, 15.0,Mathewson,Corridon,None,1:50,D,"7,845",--,None
+"Thursday, Oct 1",boxscore,PHI,None,NYG,W,6,2,None,79-69,4, 15.0,Coveleski,Wiltse,None,1:38,D,"3,000",+,1908-04-15 (Rain)
+"Friday, Oct 2",boxscore,PHI,None,NYG,L,2,7,None,79-70,4, 16.5,Ames,McQuillan,None,3:02,D,"3,500",-,None
+"Saturday, Oct 3",boxscore,PHI,None,NYG,W,3,2,None,80-70,4, 16.5,Coveleski,Mathewson,None,1:30,D,"7,000",+,None
+"Monday, Oct 5",boxscore,PHI,None,BRO,L,1,6,None,80-71,4, 16.5,Wilhelm,Sparks,None,None,D,None,-,None
+"Monday, Oct 5",boxscore,PHI,None,BRO,W,4,2,None,81-71,4, 16.5,Moore,McIntire,None,None,D,None,+,1908-05-07 (Rain)
+"Tuesday, Oct 6",boxscore,PHI,None,BRO,W,9,4,None,82-71,4, 16.0,Richie,Bell,None,None,D,None,++,None
+"Wednesday, Oct 7",boxscore,PHI,None,BRO,W,4,2,None,83-71,4, 15.5,Corridon,Kruger,None,None,D,None,+++,None

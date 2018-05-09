@@ -1,0 +1,144 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 27",boxscore,OAK,@,TOR,L,1,7,None,0-2,3, 1.5,Hentgen,Darling,None,2:26,D,"31,070",--,None
+"Friday, Apr 28",boxscore,OAK,@,MIL,L-wo,7,8,10,0-3,4, 2.5,Kiefer,Eckersley,None,3:37,N,"10,059",---,None
+"Saturday, Apr 29",boxscore,OAK,@,MIL,W,8,2,None,1-3,4, 2.5,Ontiveros,Wegman,Honeycutt,3:09,D,"10,113",+,None
+"Sunday, Apr 30",boxscore,OAK,@,MIL,L,3,4,None,1-4,4, 2.5,Kiefer,Wengert,Lloyd,2:44,D,"9,175",-,None
+"Tuesday, May 2",boxscore,OAK,@,CAL,W,2,0,None,2-4,3, 3.0,Stewart,Finley,Eckersley,2:54,N,"12,471",+,None
+"Wednesday, May 3",boxscore,OAK,@,CAL,L-wo,7,8,10,2-5,3, 4.0,Butcher,Reyes,None,4:14,N,"12,864",-,None
+"Thursday, May 4",boxscore,OAK,@,CAL,W,9,6,None,3-5,3, 3.5,Stottlemyre,Williams,Eckersley,3:29,N,"11,817",+,None
+"Friday, May 5",boxscore,OAK,None,TEX,L,4,9,None,3-6,3, 3.5,Tewksbury,Ontiveros,None,3:00,N,"35,132",-,None
+"Saturday, May 6",boxscore,OAK,None,TEX,L,2,4,None,3-7,4, 3.5,Rogers,Harkey,Russell,2:50,D,"26,140",--,None
+"Sunday, May 7",boxscore,OAK,None,TEX,W,8,6,None,4-7,3, 3.5,Stewart,Gross,Eckersley,3:40,D,"26,277",+,None
+"Monday, May 8",boxscore,OAK,None,TEX,L,4,7,10,4-8,4, 4.0,Russell,Eckersley,None,3:32,N,"9,680",-,None
+"Tuesday, May 9",boxscore,OAK,None,SEA,W-wo,7,5,None,5-8,3, 3.0,Wengert,Converse,None,3:36,N,"8,125",+,None
+"Wednesday, May 10",boxscore,OAK,None,SEA,W,7,4,None,6-8,3, 2.5,Ontiveros,Fleming,Eckersley,2:41,N,"8,495",++,None
+"Thursday, May 11",boxscore,OAK,None,SEA,W,3,1,None,7-8,3, 1.5,Harkey,Villone,Eckersley,2:54,D,"9,444",+++,None
+"Friday, May 12",boxscore,OAK,@,MIN,L,5,9,None,7-9,3, 2.5,Tapani,Stewart,None,2:40,N,"11,460",-,None
+"Saturday, May 13",boxscore,OAK,@,MIN,W,13,5,None,8-9,3, 2.0,Acre,Mahomes,Corsi,3:05,N,"14,917",+,None
+"Sunday, May 14",boxscore,OAK,@,MIN,W,12,3,None,9-9,3, 1.5,Stottlemyre,Radke,None,2:53,D,"10,034",++,None
+"Tuesday, May 16",boxscore,OAK,@,CHW,W,7,1,6,10-9,2, 1.0,Ontiveros,Bere,None,1:57,N,"16,331",+++,None
+"Wednesday, May 17",boxscore,OAK,@,CHW,L,4,6,None,10-10,3, 1.0,DeLeon,Acre,Hernandez,3:23,N,"17,530",-,None
+"Thursday, May 18",boxscore,OAK,@,CHW,L,2,4,None,10-11,4, 2.0,Fernandez,Stewart,Hernandez,2:49,N,"15,819",--,None
+"Friday, May 19",boxscore,OAK,@,KCR,W,10,3,None,11-11,2, 2.0,Darling,Browning,None,3:36,N,"16,035",+,None
+"Saturday, May 20",boxscore,OAK,@,KCR,W,11,1,None,12-11,2, 2.0,Stottlemyre,Haney,None,2:48,N,"17,423",++,None
+"Sunday, May 21",boxscore,OAK,@,KCR,W,7,2,None,13-11,2, 2.0,Ontiveros,Gubicza,None,2:44,D,"15,305",+++,None
+"Tuesday, May 23",boxscore,OAK,None,BAL,L,1,8,None,13-12,2, 3.0,Brown,Harkey,None,2:38,N,"10,585",-,None
+"Wednesday, May 24",boxscore,OAK,None,BAL,W,5,3,None,14-12,2, 3.0,Corsi,Mussina,Eckersley,3:06,N,"10,003",+,None
+"Thursday, May 25",boxscore,OAK,None,BAL,W,9,6,None,15-12,2, 3.0,Honeycutt,Benitez,Eckersley,3:34,D,"12,106",++,None
+"Friday, May 26",boxscore,OAK,None,NYY,W,4,3,None,16-12,2, 2.0,Leiper,Hitchcock,Corsi,2:42,N,"13,911",+++,None
+"Saturday, May 27",boxscore,OAK,None,NYY,W,3,0,None,17-12,2, 1.0,Ontiveros,Pettitte,None,2:38,D,"23,473",++++,None
+"Sunday, May 28",boxscore,OAK,None,NYY,L,1,4,None,17-13,2, 2.0,Rivera,Harkey,Wetteland,2:38,D,"35,817",-,None
+"Monday, May 29",boxscore,OAK,None,BOS,L,6,9,None,17-14,3, 3.0,Smith,Stewart,None,2:43,D,"30,846",--,None
+"Tuesday, May 30",boxscore,OAK,None,BOS,L,0,1,None,17-15,3, 3.0,Wakefield,Darling,Ryan,2:07,N,"11,224",---,None
+"Wednesday, May 31",boxscore,OAK,None,BOS,L,5,6,None,17-16,4, 3.0,Hanson,Stottlemyre,Ryan,3:25,D,"14,616",----,None
+"Friday, Jun 2",boxscore,OAK,@,BAL,L,1,2,None,17-17,4, 4.0,Brown,Honeycutt,Jones,2:53,N,"39,313",-----,None
+"Saturday, Jun 3",boxscore,OAK,@,BAL,L,5,9,None,17-18,4, 5.0,Mussina,Harkey,None,3:09,D,"45,056",------,None
+"Sunday, Jun 4",boxscore,OAK,@,BAL,W,14,6,None,18-18,4, 4.0,Stewart,Fernandez,None,3:36,N,"37,496",+,None
+"Monday, Jun 5",boxscore,OAK,@,NYY,W,11,5,None,19-18,4, 3.0,Darling,Hitchcock,None,3:16,N,"14,197",++,None
+"Tuesday, Jun 6",boxscore,OAK,@,NYY,W,8,6,None,20-18,4, 3.0,Stottlemyre,Rivera,Eckersley,3:29,N,"15,358",+++,None
+"Wednesday, Jun 7",boxscore,OAK,@,NYY,L,1,6,None,20-19,4, 3.0,Pettitte,Ontiveros,None,2:47,N,"16,550",-,None
+"Thursday, Jun 8",boxscore,OAK,@,NYY,W,8,3,None,21-19,4, 3.0,Harkey,McDowell,None,3:14,N,"15,792",+,None
+"Friday, Jun 9",boxscore,OAK,@,BOS,L,1,4,None,21-20,4, 3.5,Wakefield,Stewart,None,2:25,N,"30,304",-,None
+"Saturday, Jun 10",boxscore,OAK,@,BOS,W,8,5,None,22-20,4, 3.0,Corsi,Maddux,None,3:26,D,"31,418",+,None
+"Sunday, Jun 11",boxscore,OAK,@,BOS,W,8,1,None,23-20,4, 3.0,Stottlemyre,Smith,None,2:43,D,"29,737",++,None
+"Monday, Jun 12",boxscore,OAK,None,CHW,W,1,0,None,24-20,3, 3.0,Ontiveros,Bere,Eckersley,2:43,N,"11,859",+++,None
+"Tuesday, Jun 13",boxscore,OAK,None,CHW,L,6,7,10,24-21,3, 3.0,Hernandez,Leiper,None,3:09,D,"12,466",-,None
+"Wednesday, Jun 14",boxscore,OAK,None,CHW,W,8,5,None,25-21,3, 2.0,Honeycutt,DeLeon,Eckersley,3:22,N,"10,102",+,None
+"Thursday, Jun 15",boxscore,OAK,None,KCR,L,0,7,None,25-22,3, 3.0,Gubicza,Darling,None,2:18,D,"10,189",-,None
+"Friday, Jun 16",boxscore,OAK,None,KCR,L,1,3,13,25-23,3, 3.5,Pichardo,Corsi,Montgomery,3:35,N,"10,696",--,None
+"Saturday, Jun 17",boxscore,OAK,None,KCR,W,7,5,None,26-23,3, 3.5,Harkey,Rasmussen,Eckersley,2:52,D,"17,064",+,None
+"Sunday, Jun 18",boxscore,OAK,None,KCR,W,3,1,None,27-23,3, 3.5,Honeycutt,Montgomery,Eckersley,2:57,D,"25,435",++,None
+"Monday, Jun 19",boxscore,OAK,None,MIN,L,5,8,10,27-24,3, 3.5,Aguilera,Corsi,None,3:13,N,"10,501",-,None
+"Tuesday, Jun 20",boxscore,OAK,None,MIN,W,5,2,None,28-24,3, 3.5,Ontiveros,Mahomes,Eckersley,2:55,D,"14,111",+,None
+"Wednesday, Jun 21",boxscore,OAK,None,MIN,L,2,3,None,28-25,3, 3.5,Stevens,Corsi,Aguilera,2:31,N,"12,131",-,None
+"Friday, Jun 23",boxscore,OAK,@,TEX,L,4,7,None,28-26,3, 4.5,Rogers,Stewart,Russell,2:52,N,"33,625",--,None
+"Saturday, Jun 24",boxscore,OAK,@,TEX,L,5,6,None,28-27,4, 4.5,Whiteside,Van Poppel,Russell,3:02,N,"40,204",---,None
+"Sunday, Jun 25",boxscore,OAK,@,TEX,W,6,2,None,29-27,3, 4.5,Ontiveros,Gross,Eckersley,3:09,N,"32,758",+,None
+"Monday, Jun 26",boxscore,OAK,@,TEX,W,4,3,None,30-27,3, 3.5,Stottlemyre,Vosberg,Eckersley,2:51,N,"22,497",++,None
+"Tuesday, Jun 27",boxscore,OAK,@,SEA,W,6,4,None,31-27,3, 2.5,Harkey,Belcher,Eckersley,2:54,N,"9,767",+++,None
+"Wednesday, Jun 28",boxscore,OAK,@,SEA,W,7,5,None,32-27,3, 2.5,Van Poppel,Nelson,None,3:08,N,"15,165",++++,None
+"Thursday, Jun 29",boxscore,OAK,@,SEA,L,2,5,None,32-28,3, 2.5,Bosio,Acre,Ayala,2:36,D,"13,701",-,None
+"Friday, Jun 30",boxscore,OAK,None,CAL,W-wo,8,5,None,33-28,3, 2.5,Eckersley,Smith,None,3:21,N,"12,111",+,None
+"Saturday, Jul 1",boxscore,OAK,None,CAL,W,5,1,None,34-28,3, 1.5,Stottlemyre,Anderson,Eckersley,2:30,D,"20,070",++,None
+"Sunday, Jul 2",boxscore,OAK,None,CAL,L,1,7,None,34-29,3, 1.5,Bielecki,Harkey,None,2:45,D,"17,415",-,None
+"Monday, Jul 3",boxscore,OAK,None,MIL,L,3,7,10,34-30,3, 2.5,Rightnowar,Van Poppel,None,3:08,N,"42,596",--,None
+"Tuesday, Jul 4",boxscore,OAK,None,MIL,W,5,3,None,35-30,3, 2.5,Honeycutt,Ignasiak,Eckersley,2:32,D,"20,171",+,None
+"Wednesday, Jul 5",boxscore,OAK,None,MIL,L,2,8,None,35-31,3, 2.5,Roberson,Ontiveros,Wegman,2:39,N,"8,508",-,None
+"Thursday, Jul 6",boxscore,OAK,None,MIL,L,2,5,None,35-32,3, 3.5,Karl,Stottlemyre,Fetters,2:56,D,"11,771",--,None
+"Friday, Jul 7",boxscore,OAK,None,TOR,L,2,4,None,35-33,3, 3.5,Williams,Prieto,Castillo,2:51,N,"14,522",---,None
+"Saturday, Jul 8",boxscore,OAK,None,TOR,L,6,9,None,35-34,3, 4.0,Cone,Harkey,None,3:14,D,None,----,None
+"Saturday, Jul 8",boxscore,OAK,None,TOR,W,6,3,None,36-34,3, 4.0,Eckersley,Guzman,None,3:14,D,"25,103",+,None
+"Sunday, Jul 9",boxscore,OAK,None,TOR,L,3,7,None,36-35,3, 4.0,Hentgen,Darling,None,2:43,D,"20,253",-,None
+"Wednesday, Jul 12",boxscore,OAK,None,TOR,W,7,4,None,37-35,3, 3.5,Stottlemyre,Leiter,Eckersley,2:41,D,"11,343",+,None
+"Friday, Jul 14",boxscore,OAK,@,CLE,L,0,1,None,37-36,3, 5.5,Embree,Prieto,Mesa,2:34,D,None,-,None
+"Friday, Jul 14",boxscore,OAK,@,CLE,L,6,7,None,37-37,3, 5.5,Nagy,Darling,Mesa,2:44,N,"41,862",--,1995-07-13 (Rain)
+"Saturday, Jul 15",boxscore,OAK,@,CLE,L,2,7,None,37-38,3, 6.0,Hershiser,Ontiveros,Plunk,2:22,N,"41,726",---,None
+"Sunday, Jul 16",boxscore,OAK,@,CLE,L-wo,4,5,12,37-39,3, 7.5,Embree,Eckersley,None,4:26,D,"41,767",----,None
+"Monday, Jul 17",boxscore,OAK,@,MIL,L,4,13,None,37-40,4, 8.5,Sparks,Stewart,None,3:15,N,"13,141",-----,None
+"Tuesday, Jul 18",boxscore,OAK,@,MIL,L,0,4,None,37-41,4, 8.5,Roberson,Wojciechowski,None,3:05,N,"13,195",------,None
+"Wednesday, Jul 19",boxscore,OAK,None,DET,W,2,1,None,38-41,4, 8.5,Prieto,Doherty,Honeycutt,2:43,N,"11,672",+,None
+"Thursday, Jul 20",boxscore,OAK,None,DET,W,6,3,None,39-41,4, 8.5,Darling,Moore,Eckersley,2:35,D,"13,697",++,None
+"Friday, Jul 21",boxscore,OAK,None,CLE,L,1,6,None,39-42,4, 8.5,Martinez,Stottlemyre,None,2:37,N,"21,158",-,None
+"Saturday, Jul 22",boxscore,OAK,None,CLE,L,4,6,None,39-43,4, 9.5,Tavarez,Eckersley,Mesa,3:36,D,"33,019",--,None
+"Sunday, Jul 23",boxscore,OAK,None,CLE,L,0,2,None,39-44,4, 10.5,Clark,Prieto,Mesa,2:51,D,"26,763",---,None
+"Tuesday, Jul 25",boxscore,OAK,@,DET,L,3,6,None,39-45,4, 11.0,Lira,Darling,None,3:15,N,"14,560",----,None
+"Wednesday, Jul 26",boxscore,OAK,@,DET,L,4,10,None,39-46,4, 12.0,Wells,Reyes,None,2:45,N,"14,284",-----,None
+"Thursday, Jul 27",boxscore,OAK,@,DET,W,11,3,None,40-46,4, 12.0,Stottlemyre,Moore,None,3:05,D,"18,836",+,None
+"Friday, Jul 28",boxscore,OAK,@,TOR,L,0,3,None,40-47,4, 13.0,Leiter,Van Poppel,Castillo,2:29,N,"40,461",-,None
+"Saturday, Jul 29",boxscore,OAK,@,TOR,L,11,18,None,40-48,4, 14.0,Carrara,Prieto,None,3:31,D,"41,040",--,None
+"Sunday, Jul 30",boxscore,OAK,@,TOR,W,11,3,None,41-48,4, 14.0,Darling,Guzman,None,3:10,D,"40,312",+,None
+"Tuesday, Aug 1",boxscore,OAK,None,TEX,W-wo,4,3,11,42-48,4, 14.0,Reyes,Whiteside,None,3:37,N,"12,539",++,None
+"Wednesday, Aug 2",boxscore,OAK,None,TEX,L,4,5,None,42-49,4, 15.0,Taylor,Van Poppel,McDowell,2:48,D,"13,716",-,None
+"Thursday, Aug 3",boxscore,OAK,None,TEX,W,5,3,None,43-49,4, 14.0,Prieto,Gross,Eckersley,2:33,D,"12,961",+,None
+"Friday, Aug 4",boxscore,OAK,None,SEA,W-wo,9,8,None,44-49,4, 13.0,Eckersley,Ayala,None,3:28,N,"11,794",++,None
+"Saturday, Aug 5",boxscore,OAK,None,SEA,L,9,15,None,44-50,4, 14.0,Wells,Briscoe,None,3:37,D,"20,787",-,None
+"Sunday, Aug 6",boxscore,OAK,None,SEA,L,8,15,None,44-51,4, 14.0,Krueger,Stottlemyre,None,3:41,D,"20,368",--,None
+"Monday, Aug 7",boxscore,OAK,@,MIN,L,6,9,None,44-52,4, 15.0,Mahomes,Reyes,Stevens,3:14,N,"11,459",---,None
+"Tuesday, Aug 8",boxscore,OAK,@,MIN,L,3,5,None,44-53,4, 16.0,Radke,Prieto,Stevens,2:33,N,"13,527",----,None
+"Wednesday, Aug 9",boxscore,OAK,@,MIN,W,6,3,10,45-53,4, 16.0,Mohler,Stevens,Eckersley,3:18,N,"12,677",+,None
+"Friday, Aug 11",boxscore,OAK,@,CHW,L,5,13,None,45-54,4, 16.5,Fernandez,Stottlemyre,None,2:50,N,"22,732",-,None
+"Saturday, Aug 12",boxscore,OAK,@,CHW,W,8,2,None,46-54,4, 15.5,Van Poppel,Righetti,None,3:09,N,"30,150",+,None
+"Sunday, Aug 13",boxscore,OAK,@,CHW,L,7,8,None,46-55,4, 16.5,DeLeon,Reyes,Hernandez,3:41,D,"22,116",-,None
+"Monday, Aug 14",boxscore,OAK,@,KCR,W,13,5,None,47-55,4, 16.5,Wojciechowski,Brewer,None,3:23,N,"21,455",+,None
+"Tuesday, Aug 15",boxscore,OAK,@,KCR,L,4,7,7,47-56,4, 17.5,Jacome,Darling,Olson,2:09,N,"13,791",-,None
+"Wednesday, Aug 16",boxscore,OAK,@,KCR,W,8,4,None,48-56,4, 16.5,Stottlemyre,Magnante,Mohler,3:08,N,"15,301",+,None
+"Thursday, Aug 17",boxscore,OAK,None,SEA,W-wo,3,2,None,49-56,4, 15.5,Honeycutt,Charlton,None,3:13,N,"10,191",++,None
+"Friday, Aug 18",boxscore,OAK,None,BAL,L,4,8,None,49-57,4, 15.5,Krivda,Prieto,Clark,3:04,N,"12,695",-,None
+"Saturday, Aug 19",boxscore,OAK,None,BAL,L,6,12,None,49-58,4, 16.5,Moyer,Wojciechowski,None,3:15,N,"15,670",--,None
+"Sunday, Aug 20",boxscore,OAK,None,BAL,W,6,3,None,50-58,4, 16.5,Johns,Erickson,Eckersley,2:56,D,"18,455",+,None
+"Monday, Aug 21",boxscore,OAK,None,NYY,W,13,4,None,51-58,4, 15.5,Stottlemyre,Pettitte,None,2:47,N,"15,255",++,None
+"Tuesday, Aug 22",boxscore,OAK,None,NYY,W,6,2,None,52-58,4, 14.5,Van Poppel,Kamieniecki,None,2:55,D,"13,179",+++,None
+"Wednesday, Aug 23",boxscore,OAK,None,NYY,W,2,1,None,53-58,4, 13.5,Wojciechowski,McDowell,Eckersley,3:04,D,"15,120",++++,None
+"Thursday, Aug 24",boxscore,OAK,None,BOS,L,6,13,None,53-59,4, 14.5,Hanson,Ontiveros,None,2:52,N,"13,922",-,None
+"Friday, Aug 25",boxscore,OAK,None,BOS,W,6,1,None,54-59,4, 13.5,Johns,Cormier,None,2:14,N,"17,156",+,None
+"Saturday, Aug 26",boxscore,OAK,None,BOS,W,11,4,None,55-59,4, 12.5,Stottlemyre,Smith,None,2:47,D,"23,177",++,None
+"Sunday, Aug 27",boxscore,OAK,None,BOS,L,1,4,None,55-60,4, 12.5,Clemens,Van Poppel,Aguilera,2:41,D,"24,220",-,None
+"Tuesday, Aug 29",boxscore,OAK,@,BAL,W,3,1,None,56-60,4, 11.5,Reyes,Clark,Eckersley,3:21,N,"41,512",+,None
+"Wednesday, Aug 30",boxscore,OAK,@,BAL,W,7,2,None,57-60,4, 10.5,Johns,Moyer,Eckersley,3:18,N,"40,013",++,None
+"Thursday, Aug 31",boxscore,OAK,@,BAL,W,8,7,None,58-60,4, 9.5,Reyes,Clark,Eckersley,3:43,N,"38,424",+++,None
+"Friday, Sep 1",boxscore,OAK,@,NYY,L,7,8,None,58-61,4, 9.5,Rivera,Mohler,Wetteland,3:23,N,"17,646",-,None
+"Saturday, Sep 2",boxscore,OAK,@,NYY,L,0,5,None,58-62,4, 9.5,McDowell,Wojciechowski,None,2:55,D,"22,552",--,None
+"Sunday, Sep 3",boxscore,OAK,@,NYY,W,10,9,10,59-62,4, 8.5,Eckersley,Wetteland,None,4:27,D,"25,542",+,None
+"Tuesday, Sep 5",boxscore,OAK,@,BOS,L-wo,4,7,14,59-63,4, 9.0,Aguilera,Reyes,None,4:27,N,"27,080",-,None
+"Wednesday, Sep 6",boxscore,OAK,@,BOS,L,2,8,None,59-64,4, 9.0,Clemens,Johns,None,3:00,N,"30,454",--,None
+"Friday, Sep 8",boxscore,OAK,None,CHW,L,3,7,None,59-65,4, 10.0,Andujar,Van Poppel,Hernandez,3:05,N,"12,027",---,None
+"Saturday, Sep 9",boxscore,OAK,None,CHW,W,8,2,None,60-65,4, 10.0,Ontiveros,Bere,None,2:37,D,"25,450",+,None
+"Sunday, Sep 10",boxscore,OAK,None,CHW,L,3,5,None,60-66,4, 10.0,Fernandez,Stottlemyre,Hernandez,2:47,D,"17,675",-,None
+"Tuesday, Sep 12",boxscore,OAK,None,KCR,L,1,3,None,60-67,4, 11.5,Gordon,Van Poppel,Montgomery,2:22,N,"8,553",--,None
+"Wednesday, Sep 13",boxscore,OAK,None,KCR,W,6,5,None,61-67,4, 10.5,Johns,Jacome,Eckersley,2:53,D,"8,138",+,None
+"Thursday, Sep 14",boxscore,OAK,None,KCR,L,4,5,None,61-68,4, 11.0,Converse,Eckersley,Montgomery,2:38,D,"8,429",-,None
+"Friday, Sep 15",boxscore,OAK,None,MIN,W-wo,6,5,None,62-68,4, 10.0,Stottlemyre,Mahomes,None,3:04,N,"12,126",+,None
+"Saturday, Sep 16",boxscore,OAK,None,MIN,W,6,1,None,63-68,4, 9.0,Wasdin,Radke,None,2:33,D,"18,151",++,None
+"Sunday, Sep 17",boxscore,OAK,None,MIN,W,4,1,None,64-68,4, 8.0,Van Poppel,Rodriguez,None,2:11,D,"30,112",+++,None
+"Monday, Sep 18",boxscore,OAK,None,CAL,W,4,0,None,65-68,4, 7.0,Johns,Finley,None,2:29,N,"9,597",++++,None
+"Tuesday, Sep 19",boxscore,OAK,None,CAL,W-wo,3,2,10,66-68,4, 6.0,Reyes,Percival,None,3:25,N,"10,524",+++++,None
+"Wednesday, Sep 20",boxscore,OAK,None,CAL,W,9,6,None,67-68,4, 5.0,Stottlemyre,Boskie,Eckersley,3:04,D,"11,854",++++++,None
+"Friday, Sep 22",boxscore,OAK,@,SEA,L,7,10,None,67-69,4, 6.0,Nelson,Corsi,Charlton,3:01,N,"51,500",-,None
+"Saturday, Sep 23",boxscore,OAK,@,SEA,L,0,7,None,67-70,4, 7.0,Johnson,Johns,None,2:35,N,"54,589",--,None
+"Sunday, Sep 24",boxscore,OAK,@,SEA,L-wo,8,9,None,67-71,4, 8.0,Charlton,Eckersley,None,3:33,D,"46,714",---,None
+"Tuesday, Sep 26",boxscore,OAK,@,TEX,L,6,7,None,67-72,4, 9.0,McDowell,Reyes,Russell,3:20,N,"19,257",----,None
+"Wednesday, Sep 27",boxscore,OAK,@,TEX,L,2,11,None,67-73,4, 9.0,Rogers,Van Poppel,None,2:24,N,"18,369",-----,None
+"Thursday, Sep 28",boxscore,OAK,@,CAL,L,1,4,None,67-74,4, 10.0,Percival,Johns,Smith,2:41,N,"22,533",------,None
+"Friday, Sep 29",boxscore,OAK,@,CAL,L,6,9,None,67-75,4, 11.0,Habyan,Ontiveros,Smith,3:59,N,"24,793",-------,None
+"Saturday, Sep 30",boxscore,OAK,@,CAL,L,3,9,None,67-76,4, 11.0,Harkey,Wasdin,None,3:01,N,"27,026",--------,None
+"Sunday, Oct 1",boxscore,OAK,@,CAL,L,2,8,None,67-77,4, 11.0,Finley,Stottlemyre,None,3:15,D,"34,716",---------,None

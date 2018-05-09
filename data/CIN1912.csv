@@ -1,0 +1,155 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Friday, Apr 12",boxscore,CIN,None,CHC,W,3,2,10,2-0,1, Tied,Benton,McIntire,None,2:05,D,"10,000",++,None
+"Sunday, Apr 14",boxscore,CIN,None,PIT,W,11,7,None,3-0,1, Tied,Suggs,Leifield,Keefe,2:02,D,None,+++,None
+"Monday, Apr 15",boxscore,CIN,None,PIT,W,3,2,11,4-0,1,up 1.0,Fromme,Adams,None,2:08,D,None,++++,None
+"Tuesday, Apr 16",boxscore,CIN,None,PIT,L,2,8,None,4-1,1, Tied,O'Toole,Smith,None,2:00,D,None,-,None
+"Saturday, Apr 20",boxscore,CIN,@,CHC,L,4,5,10,4-2,1, Tied,Richie,Suggs,None,2:25,D,"10,000",--,None
+"Sunday, Apr 21",boxscore,CIN,None,STL,W,7,1,None,5-2,1,up 0.5,Fromme,Steele,None,1:45,D,"20,000",+,None
+"Monday, Apr 22",boxscore,CIN,None,STL,W,9,6,None,6-2,1,up 1.0,Bagby,Geyer,None,2:15,D,"4,000",++,None
+"Tuesday, Apr 23",boxscore,CIN,None,STL,W,4,1,None,7-2,1,up 1.5,Benton,Harmon,None,1:44,D,None,+++,None
+"Thursday, Apr 25",boxscore,CIN,@,PIT,W,1,0,None,8-2,1,up 1.0,Suggs,O'Toole,None,2:14,D,None,++++,None
+"Saturday, Apr 27",boxscore,CIN,@,PIT,L,4,23,None,8-3,1, Tied,Camnitz,Fromme,None,1:53,D,"13,000",-,None
+"Sunday, Apr 28",boxscore,CIN,None,PIT,W,3,2,None,9-3,1,up 0.5,Humphries,O'Toole,None,2:15,D,None,+,None
+"Tuesday, Apr 30",boxscore,CIN,@,CHC,W,7,5,None,10-3,1,up 1.0,Suggs,Lavender,None,2:14,D,None,++,1912-04-18 (Rain)
+"Wednesday, May 1",boxscore,CIN,@,STL,W,8,5,13,11-3,1,up 1.0,Benton,Lowdermilk,None,3:30,D,None,+++,None
+"Thursday, May 2",boxscore,CIN,@,STL,W,10,0,None,12-3,1,up 1.0,Gaspar,Harmon,None,None,D,None,++++,None
+"Saturday, May 4",boxscore,CIN,@,STL,W,3,1,10,13-3,1,up 1.5,Keefe,Geyer,Suggs,2:08,D,"5,500",+++++,None
+"Sunday, May 5",boxscore,CIN,@,STL,W,11,9,None,14-3,1,up 2.0,Bagby,Dale,Benton,2:30,D,"8,500",++++++,None
+"Tuesday, May 7",boxscore,CIN,None,PHI,L,5,8,None,14-4,1,up 0.5,Seaton,Suggs,Brennan,2:30,D,"6,000",-,None
+"Wednesday, May 8",boxscore,CIN,None,PHI,W,5,4,None,15-4,1,up 0.5,Benton,Alexander,Keefe,2:10,D,"5,000",+,None
+"Thursday, May 9",boxscore,CIN,None,PHI,L,3,4,None,15-5,2, 0.5,Curtis,Fromme,Seaton,2:20,D,"4,800",-,None
+"Friday, May 10",boxscore,CIN,None,BRO,W,6,5,None,16-5,2, 0.5,Smith,Yingling,None,2:30,D,"4,000",+,None
+"Sunday, May 12",boxscore,CIN,None,BRO,W,4,2,None,17-5,2, 0.5,Suggs,Rucker,None,1:50,D,"6,000",++,None
+"Monday, May 13",boxscore,CIN,None,BRO,W,2,1,None,18-5,1, Tied,Benton,Kent,None,1:30,D,"3,000",+++,None
+"Wednesday, May 15",boxscore,CIN,None,BSN,W,4,3,11,19-5,1, Tied,Humphries,Brown,None,2:05,D,"4,000",++++,None
+"Thursday, May 16",boxscore,CIN,None,BSN,W,8,5,None,20-5,1, Tied,Fromme,Perdue,None,1:48,D,"3,000",+++++,None
+"Friday, May 17",boxscore,CIN,None,BSN,L,4,6,10,20-6,2, 0.5,Dickson,Gaspar,None,2:00,D,"4,000",-,None
+"Saturday, May 18",boxscore,CIN,None,NYG,W,4,3,None,21-6,1,up 0.5,Benton,Mathewson,None,1:46,D,"20,000",+,None
+"Sunday, May 19",boxscore,CIN,None,NYG,W,4,3,10,22-6,1,up 1.5,Suggs,Ames,None,2:19,D,"28,000",++,None
+"Monday, May 20",boxscore,CIN,None,NYG,L,0,3,None,22-7,1,up 0.5,Marquard,Fromme,None,1:55,D,"10,000",-,None
+"Tuesday, May 21",boxscore,CIN,None,NYG,L,3,6,None,22-8,2, 0.5,Wiltse,Keefe,None,2:09,D,"4,500",--,None
+"Wednesday, May 22",boxscore,CIN,None,NYG,L,1,6,None,22-9,2, 1.5,Mathewson,Benton,None,1:45,D,"4,000",---,None
+"Thursday, May 23",boxscore,CIN,@,STL,L,10,11,None,22-10,2, 2.0,Woodburn,Humphries,Sallee,2:40,D,None,----,None
+"Friday, May 24",boxscore,CIN,@,STL,W,10,6,None,23-10,2, 2.0,Benton,Geyer,None,2:20,D,"1,800",+,None
+"Saturday, May 25",boxscore,CIN,@,STL,L,4,7,None,23-11,2, 3.0,Sallee,Fromme,None,1:55,D,"6,500",-,None
+"Sunday, May 26",boxscore,CIN,@,STL,L,4,5,12,23-12,2, 3.5,Harmon,Benton,None,1:55,D,None,--,None
+"Monday, May 27",boxscore,CIN,@,CHC,L,1,4,None,23-13,2, 4.5,Reulbach,Fromme,None,1:30,D,None,---,None
+"Tuesday, May 28",boxscore,CIN,@,CHC,L,2,10,None,23-14,2, 5.5,Brown,Gaspar,None,1:49,D,"1,500",----,None
+"Thursday, May 30",boxscore,CIN,@,CHC,L,2,3,None,23-15,2, 7.5,Cheney,Benton,None,1:40,D,None,-----,None
+"Thursday, May 30",boxscore,CIN,@,CHC,L,4,8,8,23-16,2, 7.5,Lavender,Bagby,None,1:55,D,"20,000",------,None
+"Friday, May 31",boxscore,CIN,@,PIT,L,2,6,None,23-17,2, 7.5,Adams,Fromme,None,1:55,D,None,-------,1912-04-24 (Rain)
+"Saturday, Jun 1",boxscore,CIN,@,BRO,W,7,3,None,24-17,2, 7.5,Suggs,Ragan,None,1:39,D,"4,000",+,None
+"Monday, Jun 3",boxscore,CIN,@,BRO,W,7,4,None,25-17,2, 7.5,Benton,Kent,None,2:04,D,None,++,None
+"Tuesday, Jun 4",boxscore,CIN,@,BRO,W,2,0,None,26-17,2, 7.5,Humphries,Ragan,None,1:22,D,500,+++,None
+"Wednesday, Jun 5",boxscore,CIN,@,NYG,L,10,22,None,26-18,2, 8.5,Crandall,Fromme,None,2:15,D,"10,000",-,None
+"Friday, Jun 7",boxscore,CIN,@,NYG,L,6,7,None,26-19,2, 9.5,Mathewson,Suggs,None,1:47,D,"8,000",--,None
+"Saturday, Jun 8",boxscore,CIN,@,NYG,L,2,6,None,26-20,2, 10.5,Marquard,Benton,None,2:06,D,"35,000",---,None
+"Monday, Jun 10",boxscore,CIN,@,PHI,L,1,10,None,26-21,3, 10.5,Seaton,Fromme,None,1:45,D,"4,000",----,None
+"Tuesday, Jun 11",boxscore,CIN,@,PHI,L,3,5,None,26-22,3, 11.5,Curtis,Humphries,None,1:55,D,"3,500",-----,None
+"Wednesday, Jun 12",boxscore,CIN,@,PHI,W,8,0,None,27-22,2, 11.5,Suggs,Alexander,None,1:45,D,"3,500",+,None
+"Thursday, Jun 13",boxscore,CIN,@,PHI,L,10,11,None,27-23,3, 12.5,Brennan,Benton,Alexander,2:40,D,"3,500",-,None
+"Friday, Jun 14",boxscore,CIN,@,BSN,W,7,3,None,28-23,3, 11.5,Fromme,Hess,None,2:10,D,"1,800",+,None
+"Saturday, Jun 15",boxscore,CIN,@,BSN,W,6,3,None,29-23,3, 10.5,Benton,Brown,None,2:00,D,"3,500",++,None
+"Monday, Jun 17",boxscore,CIN,@,BSN,L,3,4,None,29-24,2, 11.0,Perdue,Humphries,None,1:35,D,"2,000",-,None
+"Monday, Jun 17",boxscore,CIN,@,BSN,W,5,0,None,30-24,2, 11.0,Suggs,Dickson,None,1:43,D,"8,500",+,None
+"Tuesday, Jun 18",boxscore,CIN,@,BSN,L,3,4,None,30-25,4, 11.0,Tyler,Benton,None,1:45,D,"1,600",-,None
+"Thursday, Jun 20",boxscore,CIN,None,PIT,L,4,6,10,30-26,3, 12.0,Cole,Gaspar,None,2:15,D,None,--,None
+"Thursday, Jun 20",boxscore,CIN,None,PIT,W,5,3,None,31-26,3, 12.0,Fromme,Hendrix,None,1:55,D,None,+,1912-04-29 (Rain)
+"Saturday, Jun 22",boxscore,CIN,@,PIT,L,1,2,None,31-27,4, 14.0,Camnitz,Suggs,None,1:40,D,"17,000",-,None
+"Sunday, Jun 23",boxscore,CIN,None,PIT,W,12,1,None,32-27,4, 13.5,Benton,O'Toole,None,2:05,D,None,+,None
+"Monday, Jun 24",boxscore,CIN,None,CHC,W,1,0,None,33-27,4, 13.5,Fromme,Reulbach,None,1:35,D,"4,500",++,None
+"Tuesday, Jun 25",boxscore,CIN,None,CHC,L,0,11,None,33-28,4, 14.0,Brown,Keefe,None,1:55,D,None,-,None
+"Tuesday, Jun 25",boxscore,CIN,None,CHC,W,3,1,None,34-28,4, 14.0,Humphries,Lavender,None,1:55,D,"4,500",+,1912-04-13 (Rain)
+"Wednesday, Jun 26",boxscore,CIN,None,CHC,L,0,2,None,34-29,4, 15.0,Richie,Suggs,None,1:30,D,"4,000",-,None
+"Thursday, Jun 27",boxscore,CIN,None,CHC,L,1,6,None,34-30,4, 16.0,Reulbach,Benton,None,1:55,D,"3,500",--,None
+"Friday, Jun 28",boxscore,CIN,None,STL,L,5,8,None,34-31,4, 17.5,Harmon,Fromme,Sallee,2:10,D,"2,000",---,None
+"Saturday, Jun 29",boxscore,CIN,None,STL,L,2,7,None,34-32,4, 18.5,Steele,Humphries,None,2:00,D,"2,500",----,None
+"Sunday, Jun 30",boxscore,CIN,None,STL,W,7,4,None,35-32,4, 18.0,Suggs,Sallee,None,1:45,D,"7,000",+,None
+"Monday, Jul 1",boxscore,CIN,None,STL,W,12,6,None,36-32,4, 18.0,Benton,Geyer,Humphries,2:15,D,"1,800",++,None
+"Thursday, Jul 4",boxscore,CIN,@,PIT,L,5,11,None,36-33,4, 19.5,Camnitz,Benton,None,2:06,D,"16,000",-,None
+"Thursday, Jul 4",boxscore,CIN,@,PIT,L,2,3,None,36-34,4, 19.5,Hendrix,Suggs,None,2:16,D,"22,000",--,None
+"Friday, Jul 5",boxscore,CIN,@,PIT,L,4,7,None,36-35,4, 20.5,O'Toole,Humphries,None,1:50,D,"3,000",---,1912-04-26 (Rain)
+"Saturday, Jul 6",boxscore,CIN,@,PIT,W,2,1,None,37-35,4, 20.5,Fromme,Robinson,None,1:54,D,"6,000",+,None
+"Sunday, Jul 7",boxscore,CIN,None,BRO,W,2,1,10,38-35,4, 20.0,Benton,Barger,None,1:48,D,"5,000",++,None
+"Tuesday, Jul 9",boxscore,CIN,None,BRO,W,1,0,None,39-35,4, 19.5,Humphries,Rucker,None,1:21,D,"3,500",+++,None
+"Thursday, Jul 11",boxscore,CIN,None,BRO,W,3,2,None,40-35,4, 18.5,Fromme,Ragan,None,1:37,D,None,++++,1912-07-08 (Rain)
+"Thursday, Jul 11",boxscore,CIN,None,BRO,L,2,3,None,40-36,4, 18.5,Stack,Benton,Rucker,2:04,D,"3,000",-,1912-05-11 (Wet grounds)
+"Friday, Jul 12",boxscore,CIN,None,PHI,L,4,6,None,40-37,4, 19.0,Alexander,Suggs,None,1:50,D,"4,000",--,None
+"Saturday, Jul 13",boxscore,CIN,None,PHI,W,2,1,None,41-37,4, 19.0,Humphries,Brennan,None,1:50,D,"4,500",+,None
+"Sunday, Jul 14",boxscore,CIN,None,PHI,L,1,2,None,41-38,4, 18.5,Moore,Benton,None,1:45,D,"6,000",-,None
+"Monday, Jul 15",boxscore,CIN,None,PHI,L,1,2,None,41-39,4, 18.5,Rixey,Fromme,None,2:05,D,"1,800",--,None
+"Tuesday, Jul 16",boxscore,CIN,None,PHI,L,0,5,None,41-40,4, 18.5,Alexander,Suggs,None,1:39,D,"1,200",---,1912-05-06 (Rain)
+"Thursday, Jul 18",boxscore,CIN,None,BSN,L,2,8,None,41-41,4, 19.0,Perdue,Suggs,None,2:00,D,None,----,None
+"Thursday, Jul 18",boxscore,CIN,None,BSN,W,7,1,None,42-41,4, 19.0,Benton,Hess,None,1:37,D,"2,000",+,1912-07-17 (Rain)
+"Friday, Jul 19",boxscore,CIN,None,BSN,W,3,2,None,43-41,4, 18.5,Humphries,Tyler,None,1:42,D,200,++,None
+"Saturday, Jul 20",boxscore,CIN,None,BSN,W,2,1,None,44-41,4, 18.5,Fromme,Donnelly,None,1:56,D,"3,500",+++,None
+"Sunday, Jul 21",boxscore,CIN,None,NYG,L,6,12,None,44-42,4, 19.5,Crandall,Davis,None,2:15,D,"9,000",-,None
+"Monday, Jul 22",boxscore,CIN,None,NYG,L,1,4,None,44-43,4, 20.5,Mathewson,Suggs,None,1:42,D,"4,000",--,None
+"Tuesday, Jul 23",boxscore,CIN,None,NYG,L,1,11,None,44-44,5, 21.5,Marquard,Humphries,None,1:45,D,"5,000",---,None
+"Wednesday, Jul 24",boxscore,CIN,None,NYG,L,7,8,10,44-45,5, 22.5,Ames,Humphries,Wiltse,2:30,D,"2,000",----,None
+"Friday, Jul 26",boxscore,CIN,@,BRO,L,4,9,None,44-46,5, 22.5,Ragan,Keefe,Curtis,1:55,D,"1,200",-----,None
+"Saturday, Jul 27",boxscore,CIN,@,BRO,L,4,9,None,44-47,5, 22.5,Allen,Suggs,None,1:57,D,"4,000",------,None
+"Monday, Jul 29",boxscore,CIN,@,BRO,L,1,2,None,44-48,5, 22.5,Rucker,Humphries,None,1:31,D,"1,500",-------,None
+"Tuesday, Jul 30",boxscore,CIN,@,BRO,W,5,4,11,45-48,5, 22.5,Benton,Stack,None,2:15,D,"1,000",+,None
+"Wednesday, Jul 31",boxscore,CIN,@,NYG,L,0,7,None,45-49,5, 23.5,Ames,Fromme,None,1:53,D,"2,500",-,None
+"Thursday, Aug 1",boxscore,CIN,@,NYG,L,4,5,None,45-50,5, 25.5,Wiltse,Humphries,None,1:43,D,None,--,None
+"Thursday, Aug 1",boxscore,CIN,@,NYG,L,5,7,None,45-51,5, 25.5,Marquard,Suggs,None,1:50,D,"12,000",---,1912-06-06 (Rain)
+"Friday, Aug 2",boxscore,CIN,@,NYG,L,0,4,None,45-52,5, 26.5,Tesreau,Benton,None,1:40,D,"3,000",----,None
+"Saturday, Aug 3",boxscore,CIN,@,NYG,L,2,3,None,45-53,5, 27.5,Mathewson,Fromme,None,1:27,D,None,-----,None
+"Monday, Aug 5",boxscore,CIN,@,BSN,L,2,10,None,45-54,5, 27.5,Tyler,Moore,None,1:52,D,"2,500",------,None
+"Tuesday, Aug 6",boxscore,CIN,@,BSN,W,6,3,None,46-54,5, 26.5,Suggs,Brown,None,1:58,D,None,+,None
+"Wednesday, Aug 7",boxscore,CIN,@,BSN,W,11,3,None,47-54,5, 25.5,Benton,Hess,None,2:03,D,"5,000",++,None
+"Thursday, Aug 8",boxscore,CIN,@,BSN,L,5,6,None,47-55,5, 26.5,Dickson,Fromme,None,1:52,D,"2,000",-,None
+"Saturday, Aug 10",boxscore,CIN,@,PHI,L,2,10,None,47-56,5, 27.5,Alexander,Humphries,None,1:40,D,None,--,None
+"Saturday, Aug 10",boxscore,CIN,@,PHI,L,4,5,None,47-57,5, 27.5,Seaton,Suggs,None,1:50,D,"12,000",---,1912-08-09 (Rain)
+"Monday, Aug 12",boxscore,CIN,@,PHI,W,2,1,None,48-57,5, 26.5,Fromme,Rixey,None,1:42,D,"3,000",+,None
+"Tuesday, Aug 13",boxscore,CIN,@,PHI,W,7,6,None,49-57,5, 26.0,Humphries,Shultz,Suggs,2:00,D,"3,000",++,None
+"Thursday, Aug 15",boxscore,CIN,None,BRO,L,3,7,10,49-58,5, 25.5,Ragan,Benton,None,1:48,D,None,-,None
+"Thursday, Aug 15",boxscore,CIN,None,BRO,W,5,0,None,50-58,5, 25.5,Suggs,Allen,None,1:40,D,"10,000",+,1912-07-10 (Rain)
+"Friday, Aug 16",boxscore,CIN,None,BRO,W,4,3,None,51-58,5, 25.5,Fromme,Rucker,None,1:45,D,"1,100",++,None
+"Saturday, Aug 17",boxscore,CIN,None,BRO,W,4,3,None,52-58,5, 24.5,Frill,Ragan,Humphries,1:25,D,"2,000",+++,None
+"Sunday, Aug 18",boxscore,CIN,None,BSN,L,4,5,None,52-59,5, 25.5,Tyler,Benton,None,2:07,D,None,-,None
+"Tuesday, Aug 20",boxscore,CIN,None,BSN,W,4,0,None,53-59,5, 26.5,Suggs,Dickson,None,1:35,D,None,+,None
+"Tuesday, Aug 20",boxscore,CIN,None,BSN,L,1,4,None,53-60,5, 26.5,Donnelly,Benton,None,1:50,D,None,-,1912-08-19 (Rain)
+"Wednesday, Aug 21",boxscore,CIN,None,BSN,L,4,7,None,53-61,5, 26.5,Perdue,Humphries,None,2:00,D,None,--,1912-05-14 (Rain)
+"Thursday, Aug 22",boxscore,CIN,None,PHI,L,1,3,None,53-62,5, 27.0,Seaton,Benton,Finneran,1:50,D,None,---,None
+"Saturday, Aug 24",boxscore,CIN,None,PHI,L,0,1,None,53-63,5, 29.0,Rixey,Fromme,None,1:40,D,"8,000",----,None
+"Sunday, Aug 25",boxscore,CIN,None,PHI,W,3,2,None,54-63,5, 28.5,Suggs,Moore,None,1:48,D,"5,000",+,None
+"Monday, Aug 26",boxscore,CIN,None,NYG,W,5,0,None,55-63,5, 27.5,Benton,Marquard,None,1:35,D,"4,000",++,None
+"Tuesday, Aug 27",boxscore,CIN,None,NYG,W,2,0,None,56-63,5, 26.5,Fromme,Mathewson,None,1:32,D,"6,000",+++,None
+"Thursday, Aug 29",boxscore,CIN,@,PIT,W,7,2,None,57-63,5, 26.5,Suggs,O'Toole,None,1:50,D,None,++++,None
+"Friday, Aug 30",boxscore,CIN,@,PIT,L,1,2,12,57-64,5, 26.5,Robinson,Fromme,None,2:16,D,"2,500",-,None
+"Saturday, Aug 31",boxscore,CIN,@,PIT,L,0,4,None,57-65,5, 27.0,Ferry,Harter,None,1:35,D,"5,000",--,None
+"Sunday, Sep 1",boxscore,CIN,None,PIT,W,2,1,None,58-65,5, 26.0,Suggs,Camnitz,None,1:55,D,None,+,None
+"Sunday, Sep 1",boxscore,CIN,None,PIT,W,11,6,None,59-65,5, 26.0,Donalds,Cole,Benton,2:06,D,"15,000",++,1912-06-21 (Rain)
+"Monday, Sep 2",boxscore,CIN,None,STL,W,5,2,None,60-65,5, 26.0,Fromme,Geyer,None,2:02,D,None,+++,None
+"Monday, Sep 2",boxscore,CIN,None,STL,W,5,4,None,61-65,5, 26.0,Harter,Griner,Moore,2:17,D,"8,000",++++,None
+"Tuesday, Sep 3",boxscore,CIN,None,STL,W,7,1,None,62-65,5, 25.0,Suggs,Woodburn,None,1:53,D,"1,000",+++++,None
+"Wednesday, Sep 4",boxscore,CIN,None,STL,L,0,3,None,62-66,5, 25.5,Sallee,Benton,None,1:49,D,"1,200",-,None
+"Thursday, Sep 5",boxscore,CIN,None,CHC,W,4,1,None,63-66,5, 26.0,Gregory,Reulbach,None,2:05,D,"2,000",+,None
+"Friday, Sep 6",boxscore,CIN,None,CHC,L,5,6,None,63-67,4, 27.5,Richie,Fromme,None,1:55,D,"2,200",-,None
+"Saturday, Sep 7",boxscore,CIN,None,CHC,W,6,5,None,64-67,4, 26.5,Suggs,Smith,None,1:53,D,"4,000",+,None
+"Sunday, Sep 8",boxscore,CIN,None,CHC,W,10,8,7,65-67,4, 26.0,Gregory,Sommers,None,2:21,D,"10,000",++,None
+"Tuesday, Sep 10",boxscore,CIN,@,BRO,W,10,4,None,66-67,4, 27.0,Fromme,Allen,None,2:04,D,"1,500",+++,None
+"Thursday, Sep 12",boxscore,CIN,@,BRO,L,0,1,None,66-68,4, 27.0,Ragan,Benton,None,1:10,D,None,-,None
+"Thursday, Sep 12",boxscore,CIN,@,BRO,W,6,4,None,67-68,4, 27.0,McGraner,Rucker,None,1:32,D,"4,000",+,1912-09-11 (Rain)
+"Friday, Sep 13",boxscore,CIN,@,BRO,W,5,4,None,68-68,4, 27.0,Suggs,Curtis,None,1:46,D,"1,500",++,None
+"Monday, Sep 16",boxscore,CIN,@,PHI,W,6,0,None,69-68,4, 26.0,Fromme,Rixey,None,1:37,D,None,+++,None
+"Monday, Sep 16",boxscore,CIN,@,PHI,W,1,0,None,70-68,4, 26.0,Benton,Alexander,None,1:30,D,"4,000",++++,1912-09-14 (Rain)
+"Tuesday, Sep 17",boxscore,CIN,@,PHI,L,1,7,None,70-69,4, 26.0,Seaton,Suggs,None,1:37,D,"1,000",-,None
+"Thursday, Sep 19",boxscore,CIN,@,NYG,W,3,1,None,71-69,4, 25.0,Suggs,Tesreau,None,2:05,D,None,+,None
+"Thursday, Sep 19",boxscore,CIN,@,NYG,T,2,2,None,71-69,4, 25.0,None,None,None,1:45,D,"5,000",+,1912-09-18 (Rain)
+"Friday, Sep 20",boxscore,CIN,@,NYG,W,4,2,None,72-69,4, 25.0,Benton,Marquard,None,1:55,D,None,++,None
+"Friday, Sep 20",boxscore,CIN,@,NYG,L,1,4,None,72-70,4, 25.0,Ames,Harter,None,1:30,D,"10,000",-,None
+"Saturday, Sep 21",boxscore,CIN,@,BSN,L,2,13,None,72-71,4, 26.0,Donnelly,Fromme,None,1:40,D,None,--,None
+"Monday, Sep 23",boxscore,CIN,@,BSN,L,6,7,None,72-72,4, 26.5,Hess,Suggs,None,1:50,D,500,---,None
+"Thursday, Sep 26",boxscore,CIN,@,CHC,L,10,11,None,72-73,4, 28.5,Lavender,Works,Cheney,2:35,D,None,----,None
+"Thursday, Sep 26",boxscore,CIN,@,CHC,L,0,10,6,72-74,4, 28.5,Cheney,Benton,None,1:15,D,"1,500",-----,1912-04-19 (Wet grounds)
+"Friday, Sep 27",boxscore,CIN,@,CHC,W,10,3,None,73-74,4, 28.5,Packard,Toney,None,1:50,D,None,+,None
+"Friday, Sep 27",boxscore,CIN,@,CHC,T,4,4,10,73-74,4, 28.5,None,None,None,2:08,D,"1,750",+,1912-05-29 (Rain)
+"Saturday, Sep 28",boxscore,CIN,@,CHC,W,12,1,7,74-74,4, 27.5,Works,Lowdermilk,None,1:50,D,"1,200",++,None
+"Sunday, Sep 29",boxscore,CIN,@,STL,L,5,8,None,74-75,4, 28.0,Griner,Benton,None,1:55,D,"2,500",-,None
+"Monday, Sep 30",boxscore,CIN,@,STL,L,4,6,None,74-76,4, 29.0,Perritt,Fromme,None,1:50,D,900,--,None
+"Tuesday, Oct 1",boxscore,CIN,@,STL,L,2,3,None,74-77,4, 29.0,Redding,Suggs,Burk,1:40,D,500,---,None
+"Saturday, Oct 5",boxscore,CIN,None,PIT,W,6,5,None,75-77,4, 28.5,Fromme,O'Toole,Suggs,1:50,D,None,+,None
+"Sunday, Oct 6",boxscore,CIN,None,PIT,L,6,16,None,75-78,4, 29.0,Camnitz,Benton,None,1:47,D,None,-,None

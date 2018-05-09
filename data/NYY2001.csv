@@ -1,0 +1,161 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 4",boxscore,NYY,None,KCR,W,8,2,None,2-0,1,up 0.5,Pettitte,Stein,None,3:06,N,"26,499",++,None
+"Thursday, Apr 5",boxscore,NYY,None,KCR,W,1,0,None,3-0,1,up 0.5,Mussina,Reichert,Rivera,2:16,D,"26,696",+++,None
+"Friday, Apr 6",boxscore,NYY,None,TOR,L,4,13,None,3-1,2, 0.5,Loaiza,Parker,None,2:56,N,"29,606",-,None
+"Saturday, Apr 7",boxscore,NYY,None,TOR,L,2,3,None,3-2,2, 1.5,Michalak,Hernandez,Koch,3:36,D,"30,487",--,None
+"Sunday, Apr 8",boxscore,NYY,None,TOR,W,16,5,None,4-2,2, 0.5,Clemens,Parris,None,3:32,D,"31,970",+,None
+"Monday, Apr 9",boxscore,NYY,@,KCR,W,13,4,None,5-2,2, 0.5,Pettitte,Stein,None,2:54,D,"24,411",++,None
+"Tuesday, Apr 10",boxscore,NYY,@,KCR,W,9,5,None,6-2,2, 0.5,Mendoza,Hernandez,None,3:05,N,"16,338",+++,None
+"Wednesday, Apr 11",boxscore,NYY,@,KCR,W,8,5,None,7-2,1,up 0.5,Williams,Meadows,Rivera,3:42,D,"19,175",++++,None
+"Friday, Apr 13",boxscore,NYY,@,BOS,L-wo,2,3,10,7-3,2, 0.5,Lowe,Rivera,None,3:16,N,"33,124",-,None
+"Saturday, Apr 14",boxscore,NYY,@,BOS,W,3,2,None,8-3,2, 0.5,Stanton,Schourek,Rivera,3:08,D,"33,396",+,None
+"Sunday, Apr 15",boxscore,NYY,@,BOS,L,4,5,None,8-4,2, 0.5,Garces,Pettitte,Arrojo,3:17,D,"32,127",-,None
+"Monday, Apr 16",boxscore,NYY,@,BOS,L,1,4,None,8-5,3, 1.0,Castillo,Mussina,Beck,2:38,D,"33,373",--,None
+"Tuesday, Apr 17",boxscore,NYY,@,TOR,L,5,6,None,8-6,3, 2.0,Loaiza,Keisler,Koch,3:27,N,"20,019",---,None
+"Wednesday, Apr 18",boxscore,NYY,@,TOR,L,2,7,None,8-7,3, 3.0,Michalak,Hernandez,None,2:59,N,"19,770",----,None
+"Thursday, Apr 19",boxscore,NYY,@,TOR,W,6,5,17,9-7,3, 3.0,Choate,File,Mendoza,5:57,N,"24,684",+,None
+"Friday, Apr 20",boxscore,NYY,None,BOS,W,6,1,None,10-7,3, 2.0,Pettitte,Nomo,None,2:39,N,"54,366",++,None
+"Saturday, Apr 21",boxscore,NYY,None,BOS,L,3,8,None,10-8,3, 3.0,Castillo,Mussina,None,3:29,D,"55,483",-,None
+"Sunday, Apr 22",boxscore,NYY,None,BOS,W-wo,4,3,10,11-8,3, 2.0,Rivera,Lowe,None,3:48,D,"55,278",+,None
+"Tuesday, Apr 24",boxscore,NYY,None,SEA,L,5,7,None,11-9,3, 3.0,Garcia,Stanton,Sasaki,2:50,N,"29,522",-,None
+"Wednesday, Apr 25",boxscore,NYY,None,SEA,L,5,7,None,11-10,3, 3.0,Charlton,Pettitte,Sasaki,3:35,N,"23,684",--,None
+"Thursday, Apr 26",boxscore,NYY,None,SEA,L,3,7,None,11-11,3, 4.0,Moyer,Mussina,Rhodes,3:39,N,"30,218",---,None
+"Friday, Apr 27",boxscore,NYY,None,OAK,W,3,2,None,12-11,3, 4.0,Choate,Mulder,Rivera,3:12,N,"35,170",+,None
+"Saturday, Apr 28",boxscore,NYY,None,OAK,W,7,6,None,13-11,3, 3.0,Lilly,Hudson,Rivera,3:06,D,"38,422",++,None
+"Sunday, Apr 29",boxscore,NYY,None,OAK,W,3,1,None,14-11,3, 2.5,Clemens,Zito,Rivera,2:58,D,"50,572",+++,None
+"Monday, Apr 30",boxscore,NYY,@,MIN,L,1,2,None,14-12,3, 2.5,Radke,Pettitte,None,2:22,N,"24,629",-,None
+"Tuesday, May 1",boxscore,NYY,@,MIN,W,4,0,None,15-12,3, 2.5,Mussina,Milton,None,2:53,N,"24,505",+,None
+"Wednesday, May 2",boxscore,NYY,@,MIN,L,2,4,None,15-13,3, 2.5,Mays,Hernandez,Hawkins,3:01,N,"36,825",-,None
+"Thursday, May 3",boxscore,NYY,@,BAL,W,7,5,None,16-13,3, 1.5,Mendoza,Paronto,Rivera,3:15,N,"40,218",+,None
+"Friday, May 4",boxscore,NYY,@,BAL,W,6,5,None,17-13,3, 1.5,Stanton,Paronto,Rivera,3:38,N,"43,133",++,None
+"Saturday, May 5",boxscore,NYY,@,BAL,W,5,2,None,18-13,3, 0.5,Pettitte,Roberts,Boehringer,2:59,D,"47,726",+++,None
+"Sunday, May 6",boxscore,NYY,@,BAL,W,2,1,None,19-13,3, 0.5,Mussina,Trombley,Rivera,3:14,D,"47,740",++++,None
+"Tuesday, May 8",boxscore,NYY,None,MIN,L,0,2,None,19-14,3, 1.5,Milton,Hernandez,None,3:02,N,"29,326",-,None
+"Wednesday, May 9",boxscore,NYY,None,MIN,W,2,0,None,20-14,2, 0.5,Clemens,Mays,Rivera,2:47,N,"23,280",+,None
+"Thursday, May 10",boxscore,NYY,None,MIN,L,4,5,10,20-15,2, 0.5,Guardado,Rivera,Hawkins,3:08,N,"29,100",-,None
+"Friday, May 11",boxscore,NYY,None,BAL,W,14,5,None,21-15,1,up 0.5,Mussina,Roberts,Mendoza,3:03,N,"40,433",+,None
+"Saturday, May 12",boxscore,NYY,None,BAL,W,8,5,None,22-15,1,up 0.5,Stanton,Towers,Rivera,3:03,D,"48,288",++,None
+"Sunday, May 13",boxscore,NYY,None,BAL,L,5,10,11,22-16,2, 0.5,Ryan,Rivera,None,4:05,D,"39,819",-,None
+"Tuesday, May 15",boxscore,NYY,@,OAK,L-wo,2,3,12,22-17,2, 1.5,Guthrie,Mendoza,None,4:28,N,"24,351",--,None
+"Wednesday, May 16",boxscore,NYY,@,OAK,L-wo,3,4,10,22-18,2, 1.5,Guthrie,Boehringer,None,3:29,N,"43,932",---,None
+"Thursday, May 17",boxscore,NYY,@,OAK,L,3,8,None,22-19,2, 1.5,Bradford,Mussina,None,3:31,D,"31,073",----,None
+"Friday, May 18",boxscore,NYY,@,SEA,W,14,10,None,23-19,2, 1.5,Mendoza,Halama,None,3:31,N,"45,794",+,None
+"Saturday, May 19",boxscore,NYY,@,SEA,W,2,1,10,24-19,2, 0.5,Stanton,Sasaki,Rivera,3:20,D,"45,880",++,None
+"Sunday, May 20",boxscore,NYY,@,SEA,L,2,6,None,24-20,2, 1.5,Sele,Clemens,None,2:50,D,"45,953",-,None
+"Wednesday, May 23",boxscore,NYY,None,BOS,W,7,3,None,25-20,2, 0.5,Pettitte,Cone,None,2:58,N,"44,108",+,None
+"Thursday, May 24",boxscore,NYY,None,BOS,W,2,1,None,26-20,1,up 0.5,Mussina,Martinez,Rivera,2:33,D,"55,592",++,None
+"Friday, May 25",boxscore,NYY,@,CLE,L,4,6,None,26-21,2, 0.5,Rodriguez,Hernandez,Wickman,3:31,N,"42,455",-,None
+"Saturday, May 26",boxscore,NYY,@,CLE,W,12,5,None,27-21,1,up 0.5,Clemens,Sabathia,None,3:34,D,"42,528",+,None
+"Sunday, May 27",boxscore,NYY,@,CLE,W,6,2,None,28-21,1,up 0.5,Lilly,Colon,Rivera,3:15,D,"42,570",++,None
+"Monday, May 28",boxscore,NYY,@,BOS,W,4,3,None,29-21,1,up 1.5,Pettitte,Schourek,Rivera,3:29,N,"33,125",+++,None
+"Wednesday, May 30",boxscore,NYY,@,BOS,L,0,3,None,29-22,1,up 0.5,Martinez,Mussina,Lowe,2:45,N,"33,711",-,None
+"Friday, Jun 1",boxscore,NYY,None,CLE,L,4,7,6,29-23,2, 1.0,Sabathia,Lilly,Rincon,2:29,N,"42,032",--,None
+"Saturday, Jun 2",boxscore,NYY,None,CLE,W,9,4,None,30-23,2, 1.0,Clemens,Colon,Rivera,3:29,D,"46,618",+,None
+"Sunday, Jun 3",boxscore,NYY,None,CLE,L,3,4,None,30-24,2, 2.0,Nagy,Pettitte,Wickman,3:00,D,"47,300",-,None
+"Monday, Jun 4",boxscore,NYY,None,BOS,W-wo,7,6,None,31-24,2, 1.0,Rivera,Beck,None,3:21,N,"41,771",+,2001-05-22 (Rain)
+"Tuesday, Jun 5",boxscore,NYY,None,BAL,L,3,10,None,31-25,2, 2.0,Johnson,Mussina,None,3:28,N,"30,605",-,None
+"Wednesday, Jun 6",boxscore,NYY,None,BAL,W,7,4,None,32-25,2, 1.0,Stanton,Groom,Rivera,3:18,N,"25,137",+,None
+"Thursday, Jun 7",boxscore,NYY,None,BAL,W,4,0,None,33-25,2, 1.0,Clemens,Ponson,None,2:39,N,"30,786",++,None
+"Friday, Jun 8",boxscore,NYY,None,ATL,W,7,4,None,34-25,2, 1.0,Pettitte,Glavine,Rivera,3:14,N,"50,090",+++,None
+"Saturday, Jun 9",boxscore,NYY,None,ATL,L,6,10,None,34-26,2, 1.0,Cabrera,Choate,Rocker,3:25,D,"55,107",-,None
+"Sunday, Jun 10",boxscore,NYY,None,ATL,L,1,4,None,34-27,2, 2.0,Maddux,Mussina,Rocker,2:54,N,"41,392",--,None
+"Tuesday, Jun 12",boxscore,NYY,None,MON,L,1,2,12,34-28,2, 3.0,Strickland,Mendoza,None,4:01,N,"30,034",---,None
+"Wednesday, Jun 13",boxscore,NYY,None,MON,W,9,3,None,35-28,2, 2.0,Clemens,Irabu,None,2:51,N,"24,960",+,None
+"Thursday, Jun 14",boxscore,NYY,None,MON,W,9,6,None,36-28,2, 2.0,Keisler,Yoshii,Rivera,3:13,N,"33,306",++,None
+"Friday, Jun 15",boxscore,NYY,@,NYM,W,5,4,None,37-28,2, 2.0,Mendoza,Leiter,Rivera,3:12,N,"54,110",+++,None
+"Saturday, Jun 16",boxscore,NYY,@,NYM,W,2,1,None,38-28,2, 1.0,Mussina,Appier,Rivera,3:15,D,"54,195",++++,None
+"Sunday, Jun 17",boxscore,NYY,@,NYM,L,7,8,None,38-29,2, 2.0,Wendell,Almanzar,Benitez,3:54,N,"54,399",-,None
+"Monday, Jun 18",boxscore,NYY,@,DET,W,10,1,None,39-29,2, 1.5,Clemens,Weaver,None,3:03,N,"29,365",+,None
+"Tuesday, Jun 19",boxscore,NYY,@,DET,L,1,7,None,39-30,2, 2.5,Sparks,Keisler,None,2:20,N,"24,171",-,None
+"Wednesday, Jun 20",boxscore,NYY,@,DET,L,2,5,None,39-31,2, 3.5,Holt,Hernandez,Anderson,3:18,N,"23,618",--,None
+"Friday, Jun 22",boxscore,NYY,@,TBD,W,6,3,None,40-31,2, 3.0,Mussina,Lopez,Rivera,3:17,N,"24,718",+,None
+"Saturday, Jun 23",boxscore,NYY,@,TBD,W,2,1,None,41-31,2, 2.0,Clemens,Wallace,Rivera,3:04,D,"27,816",++,None
+"Sunday, Jun 24",boxscore,NYY,@,TBD,L,4,5,None,41-32,2, 2.0,Phelps,Stanton,None,2:56,D,"27,999",-,None
+"Monday, Jun 25",boxscore,NYY,None,CLE,W,8,7,None,42-32,2, 2.0,Witasick,Rincon,Rivera,3:22,N,"40,852",+,None
+"Tuesday, Jun 26",boxscore,NYY,None,CLE,L,3,5,None,42-33,2, 3.0,Nagy,Hernandez,Rocker,3:24,N,"40,346",-,None
+"Wednesday, Jun 27",boxscore,NYY,None,CLE,W,15,5,None,43-33,2, 2.0,Mussina,Sabathia,None,3:30,D,"45,539",+,None
+"Friday, Jun 29",boxscore,NYY,None,TBD,W,7,5,None,44-33,2, 0.5,Clemens,Rekar,Rivera,2:50,N,"38,416",++,None
+"Saturday, Jun 30",boxscore,NYY,None,TBD,W,5,4,None,45-33,2, 0.5,Stanton,Creek,Rivera,2:55,D,"42,544",+++,None
+"Sunday, Jul 1",boxscore,NYY,None,TBD,W,6,1,None,46-33,2, 0.5,Pettitte,Sturtze,None,2:25,D,"41,983",++++,None
+"Monday, Jul 2",boxscore,NYY,None,TBD,W,7,1,None,47-33,2, 0.5,Mussina,Lopez,None,2:41,D,"43,029",+++++,None
+"Tuesday, Jul 3",boxscore,NYY,@,BAL,W,10,6,None,48-33,1,up 0.5,Mendoza,Mercedes,None,3:09,N,"47,702",++++++,None
+"Wednesday, Jul 4",boxscore,NYY,@,BAL,W,4,3,None,49-33,1,up 0.5,Clemens,Maduro,Rivera,3:07,D,"47,355",+++++++,None
+"Thursday, Jul 5",boxscore,NYY,@,BAL,W,6,3,None,50-33,1,up 0.5,Lilly,Towers,Rivera,3:19,N,"44,635",++++++++,None
+"Friday, Jul 6",boxscore,NYY,None,NYM,W,8,3,None,51-33,1,up 1.5,Pettitte,Leiter,Mendoza,2:37,N,"55,534",+++++++++,None
+"Saturday, Jul 7",boxscore,NYY,None,NYM,L,0,3,10,51-34,1,up 0.5,Franco,Rivera,Benitez,3:40,D,"55,589",-,None
+"Sunday, Jul 8",boxscore,NYY,None,NYM,W,4,1,None,52-34,1,up 1.5,Mendoza,Wendell,Rivera,2:58,N,"55,528",+,None
+"Thursday, Jul 12",boxscore,NYY,@,FLA,L,3,9,None,52-35,1,up 1.5,Burnett,Mussina,None,2:58,N,"32,629",-,None
+"Friday, Jul 13",boxscore,NYY,@,FLA,L,1,11,None,52-36,1,up 0.5,Smith,Lilly,None,2:49,N,"44,313",--,None
+"Saturday, Jul 14",boxscore,NYY,@,FLA,W,5,4,10,53-36,1,up 1.5,Rivera,Alfonseca,Mendoza,3:26,D,"39,583",+,None
+"Sunday, Jul 15",boxscore,NYY,@,PHI,L,3,9,None,53-37,1,up 0.5,Person,Pettitte,None,3:05,D,"59,470",-,None
+"Monday, Jul 16",boxscore,NYY,@,PHI,W,6,3,13,54-37,1,up 0.5,Stanton,Telemaco,Rivera,4:19,N,"46,446",+,None
+"Tuesday, Jul 17",boxscore,NYY,@,PHI,W,4,1,12,55-37,1,up 1.5,Choate,Gomes,Rivera,4:12,N,"47,529",++,None
+"Wednesday, Jul 18",boxscore,NYY,@,DET,W,8,5,None,56-37,1,up 1.0,Clemens,Sparks,Rivera,2:49,D,"14,800",+++,None
+"Wednesday, Jul 18",boxscore,NYY,@,DET,L,4,12,None,56-38,1,up 1.0,Santos,Lilly,None,3:11,N,"33,216",-,2001-06-21 (Rain)
+"Thursday, Jul 19",boxscore,NYY,@,DET,L,2,11,None,56-39,1,up 1.0,Lima,Pettitte,None,2:38,N,"35,320",--,None
+"Friday, Jul 20",boxscore,NYY,None,TOR,L,4,10,None,56-40,1, Tied,Loaiza,Jodie,None,3:23,N,"46,634",---,None
+"Saturday, Jul 21",boxscore,NYY,None,TOR,L,3,5,None,56-41,1, Tied,Quantrill,Rivera,Koch,3:28,D,"55,264",----,None
+"Sunday, Jul 22",boxscore,NYY,None,TOR,W,7,3,None,57-41,1,up 1.0,Mussina,Carpenter,None,2:59,D,"51,132",+,None
+"Monday, Jul 23",boxscore,NYY,None,TOR,W,7,2,None,58-41,1,up 1.5,Clemens,Parris,None,2:36,N,"38,573",++,None
+"Tuesday, Jul 24",boxscore,NYY,None,DET,W,6,5,None,59-41,1,up 1.5,Pettitte,Sparks,Rivera,2:58,N,"34,519",+++,None
+"Wednesday, Jul 25",boxscore,NYY,None,DET,W,4,2,None,60-41,1,up 2.5,Witasick,Lima,Rivera,2:40,N,"34,480",++++,None
+"Thursday, Jul 26",boxscore,NYY,None,DET,W,14,8,None,61-41,1,up 2.5,Mendoza,Holt,None,3:13,D,"45,221",+++++,None
+"Friday, Jul 27",boxscore,NYY,@,TOR,W,9,1,None,62-41,1,up 2.5,Mussina,Carpenter,None,2:46,N,"36,666",++++++,None
+"Saturday, Jul 28",boxscore,NYY,@,TOR,W,12,1,None,63-41,1,up 3.5,Clemens,Escobar,None,3:00,D,"44,105",+++++++,None
+"Sunday, Jul 29",boxscore,NYY,@,TOR,W,9,3,None,64-41,1,up 3.5,Pettitte,Hamilton,None,2:58,D,"40,149",++++++++,None
+"Tuesday, Jul 31",boxscore,NYY,None,TEX,L,2,6,None,64-42,1,up 3.5,Oliver,Lilly,Zimmerman,3:02,N,"45,978",-,None
+"Wednesday, Aug 1",boxscore,NYY,None,TEX,W,9,7,None,65-42,1,up 4.5,Hitchcock,Bell,Rivera,3:05,N,"41,714",+,None
+"Thursday, Aug 2",boxscore,NYY,None,TEX,L,2,12,None,65-43,1,up 4.5,Myette,Mussina,None,3:07,D,"52,169",-,None
+"Friday, Aug 3",boxscore,NYY,None,ANA,W,4,2,None,66-43,1,up 5.0,Pettitte,Washburn,Rivera,2:57,N,"40,490",+,None
+"Saturday, Aug 4",boxscore,NYY,None,ANA,W,5,4,None,67-43,1,up 4.5,Rivera,Levine,None,2:56,D,"46,416",++,None
+"Sunday, Aug 5",boxscore,NYY,None,ANA,L,3,4,None,67-44,1,up 3.5,Ortiz,Mendoza,Percival,3:28,D,"48,978",-,None
+"Monday, Aug 6",boxscore,NYY,None,ANA,L,1,3,None,67-45,1,up 2.5,Pote,Hitchcock,Percival,2:41,D,"40,232",--,None
+"Tuesday, Aug 7",boxscore,NYY,@,TBD,L,2,3,None,67-46,1,up 2.5,Sturtze,Mussina,Yan,2:38,N,"22,429",---,None
+"Wednesday, Aug 8",boxscore,NYY,@,TBD,W,16,1,None,68-46,1,up 3.5,Pettitte,Bierbrodt,None,3:33,N,"18,830",+,None
+"Thursday, Aug 9",boxscore,NYY,@,TBD,W,4,3,None,69-46,1,up 4.5,Mendoza,Yan,Rivera,2:59,N,"21,223",++,None
+"Friday, Aug 10",boxscore,NYY,@,OAK,L,1,8,None,69-47,1,up 4.0,Lidle,Lilly,None,2:42,N,"38,728",-,None
+"Saturday, Aug 11",boxscore,NYY,@,OAK,L,6,8,None,69-48,1,up 4.0,Magnante,Hitchcock,Isringhausen,3:16,N,"45,253",--,None
+"Sunday, Aug 12",boxscore,NYY,@,OAK,L-wo,2,4,None,69-49,1,up 3.0,Mulder,Stanton,None,2:33,D,"47,725",---,None
+"Tuesday, Aug 14",boxscore,NYY,None,TBD,W,5,3,None,70-49,1,up 4.0,Pettitte,Kennedy,Rivera,2:30,N,"34,521",+,None
+"Wednesday, Aug 15",boxscore,NYY,None,TBD,W,10,3,None,71-49,1,up 5.0,Clemens,Wilson,None,3:06,N,"32,103",++,None
+"Thursday, Aug 16",boxscore,NYY,None,TBD,W,12,5,None,72-49,1,up 5.0,Hitchcock,Rupe,None,3:02,D,"43,600",+++,None
+"Friday, Aug 17",boxscore,NYY,None,SEA,W,4,0,None,73-49,1,up 6.0,Mussina,Abbott,Mendoza,2:51,N,"54,616",++++,None
+"Saturday, Aug 18",boxscore,NYY,None,SEA,L,6,7,None,73-50,1,up 5.0,Rhodes,Lilly,Sasaki,3:47,D,"55,294",-,None
+"Sunday, Aug 19",boxscore,NYY,None,SEA,L,2,10,None,73-51,1,up 5.0,Moyer,Pettitte,None,3:07,D,"54,339",--,None
+"Monday, Aug 20",boxscore,NYY,@,TEX,W,9,5,None,74-51,1,up 5.0,Stanton,Moreno,None,3:24,N,"35,125",+,None
+"Tuesday, Aug 21",boxscore,NYY,@,TEX,L,3,13,None,74-52,1,up 4.0,Davis,Hernandez,None,2:57,N,"34,940",-,None
+"Wednesday, Aug 22",boxscore,NYY,@,TEX,L,1,8,None,74-53,1,up 4.0,Oliver,Mussina,None,3:34,N,"33,442",--,None
+"Thursday, Aug 23",boxscore,NYY,@,TEX,W,5,2,None,75-53,1,up 4.0,Hitchcock,Bell,Rivera,3:01,N,"36,158",+,None
+"Friday, Aug 24",boxscore,NYY,@,ANA,L,2,6,None,75-54,1,up 3.0,Hasegawa,Pettitte,None,3:22,N,"43,489",-,None
+"Saturday, Aug 25",boxscore,NYY,@,ANA,W,7,5,None,76-54,1,up 4.0,Clemens,Valdez,Rivera,3:23,D,"43,398",+,None
+"Sunday, Aug 26",boxscore,NYY,@,ANA,L-wo,6,7,10,76-55,1,up 4.0,Percival,Stanton,None,3:38,N,"41,660",-,None
+"Tuesday, Aug 28",boxscore,NYY,None,TOR,W,4,0,None,77-55,1,up 5.0,Mussina,Loaiza,Rivera,2:44,N,"37,450",+,None
+"Wednesday, Aug 29",boxscore,NYY,None,TOR,L,2,3,None,77-56,1,up 5.0,Halladay,Hitchcock,Koch,2:46,N,"36,855",-,None
+"Thursday, Aug 30",boxscore,NYY,None,TOR,W-wo,5,4,11,78-56,1,up 6.0,Witasick,Eyre,None,4:02,D,"42,537",+,None
+"Friday, Aug 31",boxscore,NYY,@,BOS,W,3,1,None,79-56,1,up 7.0,Clemens,Lowe,Rivera,2:58,N,"33,501",++,None
+"Saturday, Sep 1",boxscore,NYY,@,BOS,W,2,1,None,80-56,1,up 8.0,Hernandez,Urbina,Rivera,2:51,D,"33,084",+++,None
+"Sunday, Sep 2",boxscore,NYY,@,BOS,W,1,0,None,81-56,1,up 9.0,Mussina,Cone,None,3:00,N,"33,734",++++,None
+"Monday, Sep 3",boxscore,NYY,@,TOR,W,7,5,None,82-56,1,up 9.5,Wohlers,Koch,Mendoza,3:49,D,"28,404",+++++,None
+"Tuesday, Sep 4",boxscore,NYY,@,TOR,L,0,14,None,82-57,1,up 9.5,Carpenter,Pettitte,None,2:46,N,"20,036",-,None
+"Wednesday, Sep 5",boxscore,NYY,@,TOR,W,4,3,None,83-57,1,up 9.5,Clemens,Escobar,Rivera,2:46,N,"29,235",+,None
+"Friday, Sep 7",boxscore,NYY,None,BOS,W,3,2,None,84-57,1,up11.0,Hernandez,Martinez,Rivera,2:45,N,"55,524",++,None
+"Saturday, Sep 8",boxscore,NYY,None,BOS,W,9,2,None,85-57,1,up12.0,Mussina,Cone,None,3:14,D,"55,316",+++,None
+"Sunday, Sep 9",boxscore,NYY,None,BOS,W,7,2,None,86-57,1,up13.0,Pettitte,Nomo,None,3:20,D,"55,318",++++,None
+"Tuesday, Sep 18",boxscore,NYY,@,CHW,W,11,3,None,87-57,1,up13.0,Hernandez,Buehrle,None,2:57,N,"22,785",+++++,None
+"Wednesday, Sep 19",boxscore,NYY,@,CHW,W,6,3,None,88-57,1,up14.0,Clemens,Glover,Rivera,3:05,N,"18,465",++++++,None
+"Thursday, Sep 20",boxscore,NYY,@,CHW,L,5,7,None,88-58,1,up13.0,Lowe,Pettitte,Foulke,3:18,N,"22,284",-,None
+"Friday, Sep 21",boxscore,NYY,@,BAL,L-wo,6,7,None,88-59,1,up12.0,Roberts,Rivera,None,3:02,N,"47,099",--,None
+"Saturday, Sep 22",boxscore,NYY,@,BAL,L,2,11,None,88-60,1,up12.0,Douglass,Hitchcock,None,3:10,D,"47,068",---,None
+"Sunday, Sep 23",boxscore,NYY,@,BAL,W,5,4,10,89-60,1,up13.0,Stanton,Parrish,Rivera,4:14,N,"46,071",+,None
+"Tuesday, Sep 25",boxscore,NYY,None,TBD,L,0,4,None,89-61,1,up13.5,Sturtze,Clemens,None,2:52,N,"33,777",-,None
+"Wednesday, Sep 26",boxscore,NYY,None,TBD,W,5,1,None,90-61,1,up13.5,Lilly,Wilson,None,2:55,N,"23,352",+,None
+"Friday, Sep 28",boxscore,NYY,None,BAL,W,7,0,None,91-61,1,up15.0,Mussina,Johnson,None,2:33,N,"42,066",++,None
+"Saturday, Sep 29",boxscore,NYY,None,BAL,L,2,7,None,91-62,1,up15.0,Maduro,Hernandez,None,2:51,D,"55,310",-,None
+"Sunday, Sep 30",boxscore,NYY,None,BAL,T,1,1,15,91-62,1,up14.5,None,None,None,5:01,D,"55,351",-,None
+"Monday, Oct 1",boxscore,NYY,None,CHW,W,8,1,None,92-62,1,up15.5,Hitchcock,Wells,None,2:48,N,"8,112",+,2001-09-11 (9/11 attack)
+"Tuesday, Oct 2",boxscore,NYY,None,CHW,W,6,4,None,93-62,1,up16.5,Lilly,Wright,Rivera,3:15,N,"10,480",++,2001-09-12 (9/11 attack)
+"Wednesday, Oct 3",boxscore,NYY,None,CHW,W,2,1,None,94-62,1,up16.5,Mussina,Garland,Rivera,2:49,N,"14,895",+++,2001-09-13 (9/11 attack)
+"Thursday, Oct 4",boxscore,NYY,@,TBD,L,1,4,None,94-63,1,up15.5,Bierbrodt,Hernandez,Yan,2:35,N,"15,265",-,2001-09-14 (9/11 attack)
+"Friday, Oct 5",boxscore,NYY,@,TBD,L,4,8,None,94-64,1,up14.0,Kennedy,Clemens,Zambrano,2:59,N,"22,028",--,2001-09-15 (9/11 attack)
+"Saturday, Oct 6",boxscore,NYY,@,TBD,L,2,5,None,94-65,1,up13.0,Sturtze,Mendoza,Yan,2:57,D,"25,511",---,2001-09-16 (9/11 attack)
+"Sunday, Oct 7",boxscore,NYY,@,TBD,W,1,0,None,95-65,1,up13.5,Hernandez,Colome,Rivera,2:30,D,"24,075",+,2001-09-17 (9/11 attack)

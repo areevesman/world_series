@@ -1,0 +1,153 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 20",boxscore,CLE,None,SLB,W,9,0,None,1-1,4, 1.5,Feller,Weaver,None,2:30,D,None,+,None
+"Thursday, Apr 21",boxscore,CLE,None,SLB,W,4,3,None,2-1,3, 1.0,Whitehill,Tamulis,Hudlin,2:25,D,None,++,None
+"Friday, Apr 22",boxscore,CLE,@,DET,W,4,3,None,3-1,1, Tied,Harder,Bridges,None,2:28,D,"54,000",+++,None
+"Saturday, Apr 23",boxscore,CLE,@,DET,W,6,3,None,4-1,1, Tied,Allen,Wade,None,2:41,D,None,++++,None
+"Sunday, Apr 24",boxscore,CLE,@,DET,W,9,4,None,5-1,1,up 1.0,Feller,Gill,None,2:21,D,None,+++++,None
+"Tuesday, Apr 26",boxscore,CLE,@,CHW,W,10,6,None,6-1,1,up 1.5,Whitehill,Cox,Galehouse,2:16,D,None,++++++,None
+"Wednesday, Apr 27",boxscore,CLE,@,CHW,L,3,6,None,6-2,1,up 0.5,Lee,Harder,None,2:04,D,None,-,None
+"Thursday, Apr 28",boxscore,CLE,@,SLB,W,11,6,None,7-2,1,up 0.5,Galehouse,Tamulis,None,2:40,D,None,+,None
+"Friday, Apr 29",boxscore,CLE,@,SLB,W,3,2,None,8-2,1,up 1.5,Feller,Van Atta,None,2:20,D,"5,654",++,None
+"Saturday, Apr 30",boxscore,CLE,None,DET,L,3,5,None,8-3,1,up 1.5,Kennedy,Hudlin,None,2:17,D,None,-,None
+"Sunday, May 1",boxscore,CLE,None,DET,W,4,3,None,9-3,1,up 1.5,Harder,Auker,Milnar,2:26,D,None,+,None
+"Monday, May 2",boxscore,CLE,None,DET,W,11,3,None,10-3,1,up 2.5,Allen,Wade,None,2:17,D,None,++,None
+"Tuesday, May 3",boxscore,CLE,@,WSH,W,10,9,None,11-3,1,up 3.0,Heving,Ferrell,Galehouse,2:45,D,None,+++,None
+"Wednesday, May 4",boxscore,CLE,@,WSH,L,0,1,13,11-4,1,up 2.0,Leonard,Zuber,None,3:10,D,None,-,None
+"Thursday, May 5",boxscore,CLE,@,WSH,L,6,8,None,11-5,1,up 1.0,Hogsett,Harder,Appleton,2:55,D,None,--,None
+"Friday, May 6",boxscore,CLE,@,PHA,W,4,1,None,12-5,1,up 1.5,Allen,Caster,None,2:21,D,None,+,None
+"Saturday, May 7",boxscore,CLE,@,PHA,W,4,2,None,13-5,1,up 1.5,Hudlin,Smith,None,2:11,D,None,++,None
+"Sunday, May 8",boxscore,CLE,@,BOS,L,0,5,None,13-6,1,up 0.5,Wilson,Feller,None,2:01,D,None,-,None
+"Monday, May 9",boxscore,CLE,@,BOS,L,3,15,None,13-7,2, 0.5,Bagby,Galehouse,None,2:11,D,None,--,None
+"Wednesday, May 11",boxscore,CLE,@,NYY,L,1,4,None,13-8,3, 1.0,Chandler,Harder,None,1:54,D,None,---,None
+"Thursday, May 12",boxscore,CLE,@,NYY,W,3,2,None,14-8,2, 1.0,Feller,Gomez,None,2:04,D,"19,782",+,None
+"Friday, May 13",boxscore,CLE,None,CHW,L,6,7,None,14-9,3, 1.0,Stratton,Heving,Whitehead,2:25,D,None,-,None
+"Monday, May 16",boxscore,CLE,None,PHA,W,4,3,10,15-9,2, 1.0,Hudlin,Thomas,None,2:21,D,None,+,None
+"Tuesday, May 17",boxscore,CLE,None,PHA,W,5,1,None,16-9,2, 0.5,Whitehill,Caster,None,2:02,D,None,++,None
+"Wednesday, May 18",boxscore,CLE,None,PHA,W,7,2,None,17-9,1, Tied,Feller,Williams,None,2:30,D,None,+++,None
+"Thursday, May 19",boxscore,CLE,None,WSH,W,15,3,None,18-9,1,up 1.0,Hudlin,DeShong,None,2:05,D,None,++++,None
+"Friday, May 20",boxscore,CLE,None,WSH,W,6,3,None,19-9,1,up 1.0,Allen,Leonard,None,1:58,D,None,+++++,None
+"Saturday, May 21",boxscore,CLE,None,WSH,L,4,5,12,19-10,1,up 1.0,Chase,Whitehill,None,2:55,D,None,-,None
+"Sunday, May 22",boxscore,CLE,None,NYY,W,8,3,None,20-10,1,up 2.0,Humphries,Pearson,Harder,2:35,D,"62,244",+,None
+"Tuesday, May 24",boxscore,CLE,None,NYY,W,9,5,None,21-10,1,up 2.0,Allen,Gomez,None,2:15,D,"9,500",++,None
+"Wednesday, May 25",boxscore,CLE,None,BOS,W,6,4,None,22-10,1,up 3.0,Harder,Ostermueller,None,2:15,D,None,+++,None
+"Thursday, May 26",boxscore,CLE,None,BOS,L,4,8,None,22-11,1,up 2.0,Wilson,Hudlin,None,2:17,D,None,-,None
+"Sunday, May 29",boxscore,CLE,@,SLB,L,6,8,None,22-12,1,up 2.5,Newsom,Whitehill,None,2:40,D,None,--,None
+"Monday, May 30",boxscore,CLE,None,CHW,W,5,2,None,23-12,1,up 3.5,Feller,Lyons,None,2:04,D,None,+,None
+"Monday, May 30",boxscore,CLE,None,CHW,W,8,1,None,24-12,1,up 3.5,Allen,Lee,None,2:07,D,None,++,None
+"Wednesday, Jun 1",boxscore,CLE,@,PHA,L,5,9,None,24-13,1,up 3.0,Nelson,Harder,None,2:20,D,None,-,None
+"Thursday, Jun 2",boxscore,CLE,@,PHA,W,10,5,None,25-13,1,up 2.5,Whitehill,Smith,Zuber,2:43,D,None,+,None
+"Friday, Jun 3",boxscore,CLE,@,PHA,W,10,5,None,26-13,1,up 2.5,Allen,Potter,None,2:29,D,None,++,None
+"Saturday, Jun 4",boxscore,CLE,@,WSH,W,11,4,None,27-13,1,up 3.0,Galehouse,Hogsett,None,2:24,D,None,+++,None
+"Sunday, Jun 5",boxscore,CLE,@,WSH,W,5,4,10,28-13,1,up 4.0,Hudlin,Appleton,None,2:45,D,None,++++,None
+"Monday, Jun 6",boxscore,CLE,@,WSH,L,4,5,11,28-14,1,up 3.0,Krakauskas,Hudlin,None,2:43,D,"5,000",-,None
+"Tuesday, Jun 7",boxscore,CLE,@,BOS,W,7,5,None,29-14,1,up 4.0,Humphries,Bagby,None,2:17,D,"7,000",+,None
+"Wednesday, Jun 8",boxscore,CLE,@,BOS,L,6,7,None,29-15,1,up 4.5,McKain,Galehouse,None,2:36,D,"5,000",-,None
+"Thursday, Jun 9",boxscore,CLE,@,BOS,L,0,8,None,29-16,1,up 3.5,Grove,Harder,None,2:08,D,"12,000",--,None
+"Friday, Jun 10",boxscore,CLE,@,NYY,L,2,8,None,29-17,1,up 2.5,Gomez,Whitehill,None,2:06,D,"14,248",---,None
+"Sunday, Jun 12",boxscore,CLE,@,NYY,L,6,7,None,29-18,1,up 1.5,Ruffing,Feller,None,2:25,D,None,----,None
+"Tuesday, Jun 14",boxscore,CLE,None,WSH,L,6,7,None,29-19,1,up 0.5,DeShong,Humphries,Hogsett,3:00,D,None,-----,None
+"Wednesday, Jun 15",boxscore,CLE,None,WSH,W,6,4,None,30-19,1,up 0.5,Whitehill,Chase,None,2:22,D,None,+,None
+"Thursday, Jun 16",boxscore,CLE,None,WSH,W,4,1,None,31-19,1,up 0.5,Feller,Krakauskas,None,2:22,D,None,++,None
+"Friday, Jun 17",boxscore,CLE,None,PHA,W,8,1,None,32-19,1,up 1.0,Allen,Ross,None,2:18,D,None,+++,None
+"Saturday, Jun 18",boxscore,CLE,None,PHA,L,4,8,None,32-20,1,up 1.0,Nelson,Hudlin,None,2:25,D,None,-,None
+"Sunday, Jun 19",boxscore,CLE,None,PHA,W,5,4,None,33-20,1,up 1.5,Humphries,Caster,None,2:12,D,None,+,None
+"Tuesday, Jun 21",boxscore,CLE,None,NYY,W,10,5,None,34-20,1,up 2.0,Feller,Ruffing,None,2:30,D,"14,000",++,None
+"Wednesday, Jun 22",boxscore,CLE,None,NYY,W,3,1,None,35-20,1,up 3.5,Harder,Gomez,Humphries,2:02,D,None,+++,None
+"Wednesday, Jun 22",boxscore,CLE,None,NYY,W,7,1,None,36-20,1,up 3.5,Allen,Pearson,None,1:55,D,None,++++,1938-05-23 (Rain)
+"Thursday, Jun 23",boxscore,CLE,None,NYY,L,6,8,None,36-21,1,up 3.5,Hadley,Galehouse,Murphy,2:40,D,"8,400",-,None
+"Friday, Jun 24",boxscore,CLE,None,BOS,W,7,6,None,37-21,1,up 4.5,Humphries,McKain,None,2:30,D,None,+,None
+"Monday, Jun 27",boxscore,CLE,None,BOS,W,7,3,None,38-21,1,up 4.0,Feller,Grove,None,2:35,D,None,++,1938-06-25 (Rain)
+"Tuesday, Jun 28",boxscore,CLE,None,DET,W,5,4,None,39-21,1,up 4.5,Allen,Bridges,Humphries,2:20,D,None,+++,None
+"Wednesday, Jun 29",boxscore,CLE,None,DET,L,3,4,None,39-22,1,up 3.0,Auker,Harder,None,2:25,D,None,-,None
+"Thursday, Jun 30",boxscore,CLE,None,DET,W,10,9,None,40-22,1,up 3.0,Allen,Eisenstat,None,2:55,D,None,+,None
+"Sunday, Jul 3",boxscore,CLE,@,CHW,W,2,1,None,41-22,1,up 1.5,Allen,Lyons,None,1:59,D,None,++,None
+"Sunday, Jul 3",boxscore,CLE,@,CHW,L,0,3,None,41-23,1,up 1.5,Lee,Humphries,None,1:48,D,None,-,1938-04-25 (Cold)
+"Monday, Jul 4",boxscore,CLE,@,DET,L,3,7,None,41-24,1, Tied,Auker,Feller,None,2:17,D,None,--,None
+"Monday, Jul 4",boxscore,CLE,@,DET,L,2,5,None,41-25,1, Tied,Eisenstat,Harder,None,2:22,D,"53,700",---,None
+"Friday, Jul 8",boxscore,CLE,None,SLB,W,8,7,10,42-25,1,up 1.0,Harder,Cole,None,2:54,D,None,+,None
+"Saturday, Jul 9",boxscore,CLE,None,SLB,W,5,4,10,43-25,1,up 1.0,Humphries,Linke,None,3:22,D,None,++,None
+"Sunday, Jul 10",boxscore,CLE,None,SLB,W,8,7,None,44-25,1,up 2.0,Galehouse,Newsom,None,2:22,D,"27,027",+++,None
+"Tuesday, Jul 12",boxscore,CLE,@,WSH,L,8,9,None,44-26,1,up 0.5,Hogsett,Zuber,None,2:21,D,"10,000",-,None
+"Wednesday, Jul 13",boxscore,CLE,@,WSH,L,3,4,None,44-27,2, 0.5,Kelley,Feller,None,2:09,D,None,--,None
+"Thursday, Jul 14",boxscore,CLE,@,WSH,W,5,1,None,45-27,2, 0.5,Harder,Leonard,None,2:05,D,None,+,None
+"Friday, Jul 15",boxscore,CLE,@,PHA,L,4,5,None,45-28,2, 1.5,Ross,Zuber,None,2:15,D,None,-,None
+"Saturday, Jul 16",boxscore,CLE,@,PHA,W,9,8,None,46-28,2, 1.5,Humphries,Potter,None,3:11,D,None,+,None
+"Sunday, Jul 17",boxscore,CLE,@,PHA,W,7,6,None,47-28,2, 1.5,Feller,Caster,Humphries,2:44,D,None,++,None
+"Tuesday, Jul 19",boxscore,CLE,@,NYY,W,5,3,None,48-28,2, 0.5,Harder,Hadley,None,2:25,D,"7,528",+++,None
+"Friday, Jul 22",boxscore,CLE,@,BOS,L,4,7,None,48-29,2, 1.0,Wilson,Feller,None,2:30,D,"6,500",-,None
+"Monday, Jul 25",boxscore,CLE,@,BOS,L,0,4,None,48-30,2, 1.0,Dickman,Allen,None,1:52,D,"29,000",--,1938-07-23 (Rain)
+"Monday, Jul 25",boxscore,CLE,@,BOS,W,3,0,None,49-30,2, 1.0,Harder,Bagby,None,1:55,D,None,+,1938-05-10 (Rain)
+"Tuesday, Jul 26",boxscore,CLE,None,PHA,W,4,2,None,50-30,2, 1.5,Feller,Caster,None,2:10,D,None,++,None
+"Wednesday, Jul 27",boxscore,CLE,None,PHA,W,12,11,None,51-30,2, 1.5,Milnar,Potter,Harder,2:58,D,None,+++,None
+"Friday, Jul 29",boxscore,CLE,None,WSH,W,12,4,None,52-30,2, 1.0,Allen,Hogsett,None,1:59,D,None,++++,None
+"Saturday, Jul 30",boxscore,CLE,None,WSH,W,8,5,None,53-30,2, 1.0,Harder,Chase,Galehouse,2:15,D,"10,000",+++++,None
+"Monday, Aug 1",boxscore,CLE,None,WSH,L,8,11,10,53-31,2, 2.5,Hogsett,Humphries,None,3:15,D,None,-,1938-07-31 (Rain)
+"Tuesday, Aug 2",boxscore,CLE,None,BOS,W,7,4,None,54-31,2, 1.5,Galehouse,Dickman,None,2:16,D,None,+,None
+"Wednesday, Aug 3",boxscore,CLE,None,BOS,L,3,4,None,54-32,2, 2.0,Wilson,Harder,Ostermueller,2:25,D,None,-,None
+"Wednesday, Aug 3",boxscore,CLE,None,BOS,W,8,6,None,55-32,2, 2.0,Whitehill,Harris,Feller,2:20,D,"36,397",+,1938-06-26 (Rain)
+"Friday, Aug 5",boxscore,CLE,None,NYY,L,1,6,None,55-33,2, 3.5,Hadley,Feller,None,2:38,D,"62,753",-,None
+"Saturday, Aug 6",boxscore,CLE,None,NYY,L,3,7,None,55-34,2, 4.5,Gomez,Allen,None,2:58,D,"43,399",--,None
+"Sunday, Aug 7",boxscore,CLE,None,NYY,L,0,7,None,55-35,2, 5.5,Ruffing,Harder,None,2:33,D,"56,242",---,None
+"Tuesday, Aug 9",boxscore,CLE,@,SLB,L,3,4,None,55-36,2, 5.0,Mills,Galehouse,None,2:12,D,None,----,None
+"Tuesday, Aug 9",boxscore,CLE,@,SLB,W,8,1,None,56-36,2, 5.0,Whitehill,Van Atta,None,2:10,D,None,+,1938-05-27 (Rain)
+"Wednesday, Aug 10",boxscore,CLE,@,SLB,W,9,6,None,57-36,2, 5.0,Humphries,Johnson,Harder,2:21,D,None,++,None
+"Thursday, Aug 11",boxscore,CLE,@,SLB,L,7,8,None,57-37,2, 6.5,Newsom,Humphries,None,2:12,D,None,-,None
+"Thursday, Aug 11",boxscore,CLE,@,SLB,L,2,8,None,57-38,2, 6.5,Tietje,Hudlin,None,2:11,D,None,--,1938-05-28 (Rain)
+"Friday, Aug 12",boxscore,CLE,@,CHW,W,12,9,10,58-38,2, 6.5,Whitehill,Boyles,None,3:07,D,None,+,None
+"Friday, Aug 12",boxscore,CLE,@,CHW,L,5,6,None,58-39,2, 6.5,Rigney,Galehouse,None,2:24,D,None,-,1938-07-01 (Wet grounds)
+"Saturday, Aug 13",boxscore,CLE,@,CHW,W,13,4,None,59-39,2, 7.0,Feller,Knott,None,2:48,D,None,+,None
+"Saturday, Aug 13",boxscore,CLE,@,CHW,L,1,2,None,59-40,2, 7.0,Lee,Allen,None,1:39,D,None,-,1938-07-02 (Wet grounds)
+"Sunday, Aug 14",boxscore,CLE,@,CHW,W,6,4,None,60-40,2, 7.5,Jungels,Stratton,Harder,2:28,D,None,+,None
+"Tuesday, Aug 16",boxscore,CLE,None,SLB,W,9,6,None,61-40,2, 8.0,Harder,Tietje,Humphries,2:07,D,None,++,None
+"Wednesday, Aug 17",boxscore,CLE,None,SLB,L,7,10,None,61-41,2, 8.5,Johnson,Allen,Cole,2:23,D,None,-,None
+"Thursday, Aug 18",boxscore,CLE,None,SLB,L,1,9,None,61-42,2, 9.0,Newsom,Feller,None,2:25,D,None,--,None
+"Friday, Aug 19",boxscore,CLE,None,CHW,L,2,7,None,61-43,2, 10.0,Lee,Whitehill,None,1:57,D,None,---,None
+"Saturday, Aug 20",boxscore,CLE,None,CHW,W,8,2,None,62-43,2, 10.0,Harder,Stratton,None,1:54,D,None,+,None
+"Sunday, Aug 21",boxscore,CLE,None,CHW,L,3,4,None,62-44,2, 11.0,Lyons,Allen,None,2:00,D,None,-,None
+"Sunday, Aug 21",boxscore,CLE,None,CHW,W,3,2,None,63-44,2, 11.0,Galehouse,Knott,None,2:15,D,None,+,1938-05-15 (Rain)
+"Monday, Aug 22",boxscore,CLE,None,CHW,L,2,4,None,63-45,2, 11.5,Whitehead,Feller,None,2:15,D,None,-,1938-05-14 (Rain)
+"Tuesday, Aug 23",boxscore,CLE,@,BOS,L,3,13,None,63-46,3, 12.5,Ostermueller,Humphries,None,2:24,D,"18,500",--,None
+"Tuesday, Aug 23",boxscore,CLE,@,BOS,L,12,14,None,63-47,3, 12.5,Wilson,Hudlin,None,2:38,D,None,---,1938-07-24 (Rain)
+"Wednesday, Aug 24",boxscore,CLE,@,BOS,W,5,3,None,64-47,2, 12.0,Harder,Harris,None,2:02,D,"7,000",+,None
+"Thursday, Aug 25",boxscore,CLE,@,NYY,L,2,5,None,64-48,3, 14.0,Gomez,Whitehill,None,2:01,D,None,-,None
+"Thursday, Aug 25",boxscore,CLE,@,NYY,L,3,15,None,64-49,3, 14.0,Ruffing,Allen,None,2:20,D,"40,692",--,1938-06-11 (Rain)
+"Friday, Aug 26",boxscore,CLE,@,NYY,L,9,15,None,64-50,3, 14.0,Ferrell,Feller,Murphy,2:35,D,None,---,None
+"Friday, Aug 26",boxscore,CLE,@,NYY,W,8,5,None,65-50,3, 14.0,Hudlin,Sundra,None,2:18,D,"37,139",+,1938-07-20 (Rain)
+"Saturday, Aug 27",boxscore,CLE,@,NYY,L,7,8,None,65-51,3, 16.0,Andrews,Allen,None,2:27,D,None,-,None
+"Saturday, Aug 27",boxscore,CLE,@,NYY,L,0,13,None,65-52,3, 16.0,Pearson,Humphries,None,2:58,D,None,--,1938-07-21 (Rain)
+"Sunday, Aug 28",boxscore,CLE,@,WSH,W,6,5,None,66-52,3, 16.0,Harder,Weaver,None,2:20,D,None,+,None
+"Monday, Aug 29",boxscore,CLE,@,WSH,L,4,6,None,66-53,3, 17.0,Chase,Whitehill,None,1:57,D,"10,000",-,None
+"Tuesday, Aug 30",boxscore,CLE,@,PHA,W,10,8,None,67-53,3, 17.0,Humphries,Nelson,None,2:30,D,None,+,None
+"Wednesday, Aug 31",boxscore,CLE,@,PHA,W,8,6,None,68-53,3, 16.0,Hudlin,Smith,None,2:08,D,None,++,None
+"Thursday, Sep 1",boxscore,CLE,@,PHA,W,11,4,None,69-53,3, 15.0,Feller,Ross,None,2:17,D,None,+++,None
+"Saturday, Sep 3",boxscore,CLE,@,SLB,W,10,2,None,70-53,3, 14.5,Harder,Hildebrand,None,2:17,D,None,++++,None
+"Sunday, Sep 4",boxscore,CLE,@,SLB,W,11,3,None,71-53,3, 14.5,Allen,Cox,None,2:28,D,None,+++++,None
+"Sunday, Sep 4",boxscore,CLE,@,SLB,T,1,1,7,71-53,3, 14.5,None,None,None,1:47,D,None,+++++,1938-08-08 (Rain)
+"Monday, Sep 5",boxscore,CLE,@,CHW,W,6,4,None,72-53,3, 14.5,Milnar,Lee,None,2:04,D,None,++++++,None
+"Monday, Sep 5",boxscore,CLE,@,CHW,W,4,2,None,73-53,3, 14.5,Hudlin,Whitehead,None,2:21,D,"14,000",+++++++,None
+"Tuesday, Sep 6",boxscore,CLE,@,DET,W,6,0,None,74-53,2, 14.0,Feller,Eisenstat,None,1:52,D,None,++++++++,None
+"Wednesday, Sep 7",boxscore,CLE,@,DET,W,1,0,None,75-53,2, 13.0,Harder,Coffman,None,1:46,D,None,+++++++++,None
+"Thursday, Sep 8",boxscore,CLE,None,DET,L,1,4,None,75-54,2, 14.0,Benton,Whitehill,None,2:09,D,None,-,None
+"Friday, Sep 9",boxscore,CLE,None,DET,L,5,11,None,75-55,2, 15.0,Bridges,Hudlin,None,2:12,D,None,--,None
+"Saturday, Sep 10",boxscore,CLE,None,SLB,L,2,4,None,75-56,2, 16.0,Newsom,Milnar,None,2:03,D,None,---,None
+"Sunday, Sep 11",boxscore,CLE,None,SLB,W,6,2,None,76-56,3, 15.5,Feller,Mills,None,2:11,D,"9,000",+,None
+"Sunday, Sep 11",boxscore,CLE,None,SLB,L,3,4,None,76-57,3, 15.5,Van Atta,Harder,None,2:05,D,"9,000",-,None
+"Tuesday, Sep 13",boxscore,CLE,None,NYY,L,1,7,None,76-58,3, 16.5,Ruffing,Galehouse,None,2:14,D,"4,000",--,None
+"Thursday, Sep 15",boxscore,CLE,None,BOS,W,3,2,None,77-58,3, 16.0,Harder,Wilson,None,1:56,D,"2,000",+,None
+"Thursday, Sep 15",boxscore,CLE,None,BOS,L,2,3,None,77-59,3, 16.0,Ostermueller,Humphries,None,1:59,D,"2,000",-,1938-08-04 (Rain)
+"Friday, Sep 16",boxscore,CLE,None,BOS,L,1,2,None,77-60,3, 17.0,McKain,Galehouse,None,2:06,D,"2,500",--,None
+"Saturday, Sep 17",boxscore,CLE,None,BOS,W,5,4,None,78-60,3, 16.0,Humphries,Wilson,None,1:58,D,None,+,None
+"Sunday, Sep 18",boxscore,CLE,None,PHA,W,7,3,None,79-60,3, 15.0,Hudlin,Nelson,None,1:51,D,None,++,None
+"Sunday, Sep 18",boxscore,CLE,None,PHA,L,3,14,7,79-61,3, 15.0,Thomas,Feller,None,2:03,D,None,-,1938-07-28 (Rain)
+"Monday, Sep 19",boxscore,CLE,None,PHA,W,4,3,None,80-61,3, 14.0,Harder,Caster,Humphries,2:07,D,474,+,None
+"Tuesday, Sep 20",boxscore,CLE,None,WSH,W,9,1,None,81-61,3, 13.0,Galehouse,Leonard,None,1:40,D,None,++,None
+"Friday, Sep 23",boxscore,CLE,@,DET,W,8,1,None,82-61,3, 12.0,Feller,Gill,None,2:06,D,None,+++,None
+"Friday, Sep 23",boxscore,CLE,@,DET,W,6,5,7,83-61,3, 12.0,Whitehill,Benton,Humphries,1:55,D,None,++++,1938-09-22 (Rain)
+"Saturday, Sep 24",boxscore,CLE,@,DET,L,6,7,None,83-62,3, 12.0,Eisenstat,Hudlin,Coffman,2:20,D,"8,900",-,None
+"Sunday, Sep 25",boxscore,CLE,@,DET,L,5,7,None,83-63,3, 12.0,Poffenberger,Galehouse,None,1:56,D,"19,700",--,None
+"Tuesday, Sep 27",boxscore,CLE,None,CHW,W,6,1,None,84-63,3, 12.5,Feller,Stratton,None,2:05,D,None,+,None
+"Wednesday, Sep 28",boxscore,CLE,None,CHW,L,11,14,None,84-64,3, 12.5,Lee,Whitehill,None,2:26,D,"1,500",-,None
+"Thursday, Sep 29",boxscore,CLE,None,CHW,W,9,8,10,85-64,3, 12.5,Milnar,Gabler,None,2:15,D,"1,000",+,None
+"Saturday, Oct 1",boxscore,CLE,None,DET,W,5,0,None,86-64,3, 11.5,Galehouse,Poffenberger,None,1:38,D,None,++,None
+"Sunday, Oct 2",boxscore,CLE,None,DET,L,1,4,None,86-65,3, 13.0,Eisenstat,Feller,None,2:07,D,None,-,None
+"Sunday, Oct 2",boxscore,CLE,None,DET,L,8,10,7,86-66,3, 13.0,Harris,Humphries,None,1:37,D,None,--,1938-09-30 (Schedule change)

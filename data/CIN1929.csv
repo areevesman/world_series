@@ -1,0 +1,155 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 17",boxscore,CIN,None,STL,W,8,3,None,1-1,1, Tied,Donohue,Sherdel,None,1:45,D,"2,465",+,None
+"Thursday, Apr 18",boxscore,CIN,None,STL,L,1,3,None,1-2,5, 1.0,Haines,Luque,None,1:54,D,"2,500",-,None
+"Friday, Apr 19",boxscore,CIN,None,STL,L,4,9,None,1-3,6, 2.5,Doak,Kolp,Haid,2:12,D,"2,000",--,None
+"Saturday, Apr 20",boxscore,CIN,None,PIT,L,4,5,None,1-4,7, 3.0,Grimes,Rixey,None,2:03,D,None,---,None
+"Monday, Apr 22",boxscore,CIN,None,PIT,W,9,4,None,2-4,7, 2.5,Lucas,Hill,None,1:57,D,None,+,None
+"Friday, Apr 26",boxscore,CIN,@,STL,L,2,9,None,2-5,8, 2.5,Haines,Donohue,None,1:36,D,"15,000",-,None
+"Saturday, Apr 27",boxscore,CIN,@,STL,W,7,2,None,3-5,7, 3.0,Luque,Doak,None,1:51,D,"18,000",+,None
+"Saturday, Apr 27",boxscore,CIN,@,STL,L,3,7,None,3-6,7, 3.0,Haid,Ash,None,1:41,N,"17,000",-,1929-04-24 (Rain)
+"Sunday, Apr 28",boxscore,CIN,None,CHC,W,17,12,None,4-6,7, 3.0,Rixey,Carlson,None,2:37,D,14,+,None
+"Monday, Apr 29",boxscore,CIN,None,CHC,L,3,4,None,4-7,7, 3.5,Root,Donohue,None,1:55,D,"3,692",-,None
+"Tuesday, Apr 30",boxscore,CIN,None,CHC,W,5,4,None,5-7,5, 3.5,May,Blake,None,1:31,D,"3,322",+,None
+"Wednesday, May 1",boxscore,CIN,None,CHC,T,4,4,13,5-7,5, 3.5,None,None,None,None,D,"3,500",+,None
+"Saturday, May 4",boxscore,CIN,@,BRO,W,7,0,None,6-7,4, 3.5,Lucas,Koupal,None,None,D,None,++,None
+"Sunday, May 5",boxscore,CIN,@,BRO,L,1,4,None,6-8,4, 3.5,Vance,Donohue,None,None,D,None,-,None
+"Monday, May 6",boxscore,CIN,@,BRO,L,3,12,None,6-9,7, 3.5,Clark,May,None,None,D,None,--,None
+"Tuesday, May 7",boxscore,CIN,@,PHI,L,4,6,None,6-10,8, 4.5,Roy,Rixey,Benge,2:00,D,None,---,None
+"Wednesday, May 8",boxscore,CIN,@,PHI,L,2,3,None,6-11,8, 5.0,Collins,Luque,None,1:39,D,"3,000",----,None
+"Thursday, May 9",boxscore,CIN,@,PHI,W,7,5,None,7-11,7, 5.0,May,McGraw,None,2:00,D,None,+,None
+"Friday, May 10",boxscore,CIN,@,BSN,W,5,3,None,8-11,5, 5.0,Lucas,Smith,None,1:58,D,None,++,None
+"Saturday, May 11",boxscore,CIN,@,BSN,L,7,8,None,8-12,7, 5.0,Jones,Donohue,Cantwell,1:46,D,"14,000",-,None
+"Sunday, May 12",boxscore,CIN,@,BSN,W,9,3,None,9-12,7, 5.0,Rixey,Delaney,None,2:04,D,"25,000",+,None
+"Monday, May 13",boxscore,CIN,@,NYG,W,7,0,None,10-12,6, 4.5,Luque,Walker,None,None,D,None,++,None
+"Wednesday, May 15",boxscore,CIN,@,NYG,W,12,3,None,11-12,5, 4.0,Lucas,Fitzsimmons,None,None,D,None,+++,None
+"Friday, May 17",boxscore,CIN,@,CHC,L,3,9,None,11-13,5, 5.0,Blake,Donohue,None,1:41,D,None,-,None
+"Saturday, May 18",boxscore,CIN,@,CHC,L,0,7,None,11-14,6, 6.0,Root,May,None,None,D,"8,000",--,None
+"Sunday, May 19",boxscore,CIN,None,STL,L,1,2,11,11-15,6, 6.0,Johnson,Luque,None,2:01,D,None,---,None
+"Monday, May 20",boxscore,CIN,None,STL,L,1,5,None,11-16,6, 7.0,Haines,Lucas,None,1:42,D,"1,500",----,None
+"Tuesday, May 21",boxscore,CIN,None,STL,L,1,12,None,11-17,6, 8.0,Alexander,Kolp,None,1:33,D,"2,500",-----,None
+"Wednesday, May 22",boxscore,CIN,@,PIT,L,2,11,None,11-18,7, 8.5,Kremer,Ash,None,1:39,D,None,------,None
+"Thursday, May 23",boxscore,CIN,@,PIT,L,3,6,None,11-19,7, 9.0,Grimes,Rixey,None,1:47,D,None,-------,1929-05-24 (Wet grounds)
+"Saturday, May 25",boxscore,CIN,@,PIT,L,4,6,None,11-20,8, 9.5,Brame,Luque,None,1:43,D,None,--------,None
+"Sunday, May 26",boxscore,CIN,@,CHC,L,1,5,None,11-21,8, 10.0,Bush,Lucas,None,2:24,D,None,---------,None
+"Monday, May 27",boxscore,CIN,None,CHC,W,8,5,None,12-21,8, 9.0,May,Blake,None,1:53,D,None,+,None
+"Wednesday, May 29",boxscore,CIN,@,STL,L,3,4,None,12-22,8, 10.5,Haid,Donohue,None,1:24,D,None,-,None
+"Wednesday, May 29",boxscore,CIN,@,STL,L,2,6,None,12-23,8, 10.5,Johnson,Luque,None,1:25,D,"2,000",--,1929-04-25 (Rain)
+"Thursday, May 30",boxscore,CIN,@,STL,L,1,5,None,12-24,8, 11.5,Alexander,Lucas,None,1:37,D,"10,000",---,None
+"Thursday, May 30",boxscore,CIN,@,STL,L,2,8,None,12-25,8, 11.5,Haines,Rixey,None,1:50,D,"15,000",----,None
+"Friday, May 31",boxscore,CIN,@,STL,L,1,8,None,12-26,8, 12.5,Frankhouse,May,None,1:33,D,None,-----,None
+"Saturday, Jun 1",boxscore,CIN,None,BSN,W,3,2,None,13-26,8, 12.0,May,Smith,None,2:11,D,None,+,None
+"Monday, Jun 3",boxscore,CIN,None,BSN,W,12,3,None,14-26,8, 12.0,Donohue,Cantwell,Kemner,2:12,D,None,++,None
+"Tuesday, Jun 4",boxscore,CIN,None,BSN,L,1,4,None,14-27,8, 12.5,Leverett,Luque,None,1:40,D,None,-,None
+"Wednesday, Jun 5",boxscore,CIN,None,PHI,W,21,4,None,15-27,8, 11.5,Lucas,Willoughby,None,2:13,D,None,+,None
+"Thursday, Jun 6",boxscore,CIN,None,PHI,L,0,2,None,15-28,8, 12.0,Benge,May,None,1:43,D,None,-,None
+"Friday, Jun 7",boxscore,CIN,None,PHI,W,7,6,11,16-28,7, 12.0,Kolp,McGraw,None,2:51,D,None,+,None
+"Saturday, Jun 8",boxscore,CIN,None,NYG,L,0,3,None,16-29,7, 13.0,Fitzsimmons,Luque,None,None,D,"3,162",-,None
+"Sunday, Jun 9",boxscore,CIN,None,NYG,W,2,1,None,17-29,7, 12.0,Lucas,Scott,None,None,D,None,+,None
+"Monday, Jun 10",boxscore,CIN,None,NYG,W,7,3,None,18-29,6, 11.5,May,Benton,None,None,D,"3,363",++,None
+"Tuesday, Jun 11",boxscore,CIN,None,NYG,L,0,9,None,18-30,6, 12.5,Fitzsimmons,Rixey,None,None,D,None,-,None
+"Thursday, Jun 13",boxscore,CIN,None,BRO,L,1,2,None,18-31,8, 13.5,Vance,Kolp,None,None,D,None,--,None
+"Friday, Jun 14",boxscore,CIN,None,BRO,L,4,5,11,18-32,8, 14.0,Morrison,Ash,None,2:18,D,"3,000",---,None
+"Saturday, Jun 15",boxscore,CIN,None,BRO,L,7,8,None,18-33,8, 15.0,Moss,Rixey,Morrison,None,D,"1,500",----,None
+"Sunday, Jun 16",boxscore,CIN,None,PIT,L,3,8,None,18-34,8, 14.0,Meine,Luque,None,2:27,D,None,-----,None
+"Sunday, Jun 16",boxscore,CIN,None,PIT,W,8,1,None,19-34,8, 14.0,Donohue,Grimes,None,1:45,D,None,+,1929-04-21 (Rain)
+"Monday, Jun 17",boxscore,CIN,None,PIT,L,1,2,None,19-35,8, 15.0,Kremer,May,None,None,D,None,-,None
+"Tuesday, Jun 18",boxscore,CIN,None,PIT,W,2,1,None,20-35,8, 14.0,Lucas,Brame,None,1:38,D,None,+,None
+"Wednesday, Jun 19",boxscore,CIN,None,PIT,L,5,6,None,20-36,8, 14.5,Hill,Rixey,None,1:58,D,None,-,None
+"Saturday, Jun 22",boxscore,CIN,None,STL,L,8,11,None,20-37,8, 16.0,Haines,Donohue,None,2:02,D,None,--,None
+"Sunday, Jun 23",boxscore,CIN,None,STL,W,4,2,None,21-37,8, 16.0,Lucas,Haid,None,1:45,D,None,+,None
+"Wednesday, Jun 26",boxscore,CIN,@,PIT,W,6,4,None,22-37,8, 14.5,Luque,Kremer,None,1:52,D,None,++,None
+"Thursday, Jun 27",boxscore,CIN,@,PIT,L,3,5,None,22-38,8, 15.5,Meine,May,None,1:54,D,None,-,None
+"Friday, Jun 28",boxscore,CIN,@,PIT,W,10,3,None,23-38,8, 14.5,Lucas,Brame,None,1:45,D,None,+,None
+"Saturday, Jun 29",boxscore,CIN,@,PIT,L,0,3,None,23-39,8, 15.0,Grimes,Donohue,None,1:39,D,None,-,None
+"Saturday, Jun 29",boxscore,CIN,@,PIT,W,3,2,None,24-39,8, 15.0,Kolp,Swetonic,None,1:42,D,None,+,1929-07-05 (Schedule change)
+"Sunday, Jun 30",boxscore,CIN,None,PIT,L,6,7,None,24-40,8, 16.0,Kremer,Luque,Meine,1:58,D,None,-,None
+"Tuesday, Jul 2",boxscore,CIN,@,CHC,L,4,5,11,24-41,8, 17.0,Bush,Luque,None,2:26,D,"10,000",--,None
+"Wednesday, Jul 3",boxscore,CIN,@,CHC,L,5,7,None,24-42,8, 18.0,Bush,Lucas,None,1:44,D,"10,000",---,None
+"Thursday, Jul 4",boxscore,CIN,@,CHC,W,9,8,8,25-42,8, 18.5,Ash,Carlson,Rixey,3:39,D,None,+,None
+"Thursday, Jul 4",boxscore,CIN,@,CHC,L,5,10,None,25-43,8, 18.5,Blake,Donohue,None,3:24,D,None,-,None
+"Saturday, Jul 6",boxscore,CIN,@,PIT,W,5,3,None,26-43,8, 17.5,Kolp,Swetonic,May,1:42,D,None,+,None
+"Sunday, Jul 7",boxscore,CIN,@,NYG,L,0,8,None,26-44,8, 19.0,Fitzsimmons,Lucas,None,None,D,None,-,None
+"Sunday, Jul 7",boxscore,CIN,@,NYG,L,7,8,None,26-45,8, 19.0,Judd,Luque,None,2:00,D,"35,000",--,1929-05-14 (Rain)
+"Monday, Jul 8",boxscore,CIN,@,NYG,L,0,3,None,26-46,8, 20.0,Benton,May,None,None,D,None,---,None
+"Tuesday, Jul 9",boxscore,CIN,@,NYG,L,5,8,None,26-47,8, 21.0,Scott,Donohue,Genewich,None,D,None,----,None
+"Wednesday, Jul 10",boxscore,CIN,@,BSN,W,10,2,None,27-47,8, 21.0,Kolp,Smith,None,1:39,D,None,+,None
+"Thursday, Jul 11",boxscore,CIN,@,BSN,W,6,0,None,28-47,8, 21.0,Lucas,Seibold,None,1:40,D,None,++,None
+"Friday, Jul 12",boxscore,CIN,@,BSN,W,4,3,11,29-47,7, 21.0,Rixey,Jones,None,2:14,D,None,+++,None
+"Saturday, Jul 13",boxscore,CIN,@,BSN,L,6,7,10,29-48,8, 22.0,Cunningham,Ehrhardt,None,1:55,D,None,-,None
+"Sunday, Jul 14",boxscore,CIN,@,BRO,W,12,3,None,30-48,8, 21.5,Luque,Dudley,Ash,None,D,None,+,None
+"Monday, Jul 15",boxscore,CIN,@,BRO,L,2,4,None,30-49,8, 22.5,Clark,Kolp,None,None,D,"5,000",-,None
+"Tuesday, Jul 16",boxscore,CIN,@,BRO,W,5,3,None,31-49,7, 21.0,Lucas,Vance,None,None,D,"15,000",+,None
+"Tuesday, Jul 16",boxscore,CIN,@,BRO,W,7,2,None,32-49,7, 21.0,Rixey,Morrison,None,None,D,"15,000",++,1929-05-03 (Wet grounds)
+"Wednesday, Jul 17",boxscore,CIN,@,BRO,L,5,10,None,32-50,8, 21.5,McWeeny,Ash,Moore,None,D,None,-,None
+"Thursday, Jul 18",boxscore,CIN,@,PHI,L,4,6,None,32-51,8, 21.5,Elliott,May,None,1:33,D,None,--,None
+"Saturday, Jul 20",boxscore,CIN,@,PHI,L,4,9,None,32-52,8, 22.5,Benge,Luque,None,2:42,D,None,---,None
+"Saturday, Jul 20",boxscore,CIN,@,PHI,L,2,3,10,32-53,8, 22.5,Willoughby,Rixey,None,1:30,D,None,----,None
+"Sunday, Jul 21",boxscore,CIN,None,PHI,W,8,5,None,33-53,8, 22.5,Lucas,Smythe,None,2:09,D,None,+,None
+"Tuesday, Jul 23",boxscore,CIN,None,BSN,W,9,5,None,34-53,8, 22.5,Donohue,Cantwell,May,1:40,D,None,++,None
+"Tuesday, Jul 23",boxscore,CIN,None,BSN,L,0,6,None,34-54,8, 22.5,Delaney,Kolp,None,1:43,D,None,-,1929-06-02 (Rain)
+"Wednesday, Jul 24",boxscore,CIN,None,BSN,L,3,5,None,34-55,8, 23.0,Cunningham,Rixey,Smith,1:42,D,None,--,None
+"Thursday, Jul 25",boxscore,CIN,None,BSN,W,14,2,None,35-55,8, 23.0,Lucas,Leverett,None,1:46,D,None,+,None
+"Friday, Jul 26",boxscore,CIN,None,BRO,W,4,1,None,36-55,8, 23.0,May,McWeeny,None,None,D,None,++,None
+"Saturday, Jul 27",boxscore,CIN,None,BRO,W,4,3,None,37-55,7, 23.5,Rixey,Morrison,None,None,D,None,+++,None
+"Sunday, Jul 28",boxscore,CIN,None,BRO,W,4,3,None,38-55,6, 23.0,Luque,Clark,None,None,D,None,++++,None
+"Sunday, Jul 28",boxscore,CIN,None,BRO,W,7,5,None,39-55,6, 23.0,Kolp,Vance,Ash,1:38,D,13,+++++,1929-06-12 (Rain)
+"Monday, Jul 29",boxscore,CIN,None,BRO,L,2,10,None,39-56,7, 24.0,Moss,Lucas,None,None,D,None,-,None
+"Tuesday, Jul 30",boxscore,CIN,None,NYG,L,0,3,None,39-57,7, 25.0,Fitzsimmons,May,None,1:29,D,None,--,None
+"Wednesday, Jul 31",boxscore,CIN,None,NYG,W,2,1,None,40-57,7, 24.5,Rixey,Genewich,None,None,D,None,+,None
+"Thursday, Aug 1",boxscore,CIN,None,NYG,L,1,6,None,40-58,7, 25.5,Benton,Luque,None,None,D,None,-,None
+"Friday, Aug 2",boxscore,CIN,None,NYG,W,3,2,None,41-58,6, 25.0,Donohue,Fitzsimmons,None,1:25,D,None,+,None
+"Saturday, Aug 3",boxscore,CIN,None,PHI,W,2,1,None,42-58,6, 25.0,Lucas,Benge,None,1:34,D,None,++,None
+"Sunday, Aug 4",boxscore,CIN,None,PHI,W,7,1,None,43-58,5, 25.0,May,Willoughby,None,1:37,D,None,+++,None
+"Monday, Aug 5",boxscore,CIN,None,PHI,L,6,7,None,43-59,5, 26.0,Koupal,Rixey,Benge,1:40,D,None,-,None
+"Friday, Aug 9",boxscore,CIN,@,NYG,L,1,7,None,43-60,6, 26.5,Fitzsimmons,May,None,None,D,None,--,None
+"Saturday, Aug 10",boxscore,CIN,@,NYG,W,7,2,None,44-60,6, 26.5,Lucas,Genewich,None,None,D,"15,000",+,None
+"Sunday, Aug 11",boxscore,CIN,@,NYG,L,1,6,None,44-61,6, 27.5,Hubbell,Luque,None,None,D,None,-,None
+"Monday, Aug 12",boxscore,CIN,@,NYG,W,5,2,None,45-61,6, 26.5,Donohue,Benton,None,None,D,None,+,None
+"Tuesday, Aug 13",boxscore,CIN,@,NYG,W,3,1,None,46-61,6, 26.5,Rixey,Fitzsimmons,None,None,D,None,++,None
+"Wednesday, Aug 14",boxscore,CIN,@,PHI,L,1,2,7,46-62,6, 27.0,Benge,May,None,1:05,D,None,-,None
+"Thursday, Aug 15",boxscore,CIN,@,PHI,L,4,5,None,46-63,6, 27.5,Sweetland,Lucas,Willoughby,1:51,D,None,--,None
+"Friday, Aug 16",boxscore,CIN,@,PHI,W,7,3,None,47-63,6, 26.5,Kolp,Koupal,Ehrhardt,1:58,D,None,+,None
+"Saturday, Aug 17",boxscore,CIN,@,PHI,L,2,8,None,47-64,6, 27.0,Willoughby,Donohue,None,1:50,D,None,-,None
+"Saturday, Aug 17",boxscore,CIN,@,PHI,W,3,2,None,48-64,6, 27.0,Rixey,Elliott,None,1:34,D,None,+,1929-07-19 (Wet grounds)
+"Sunday, Aug 18",boxscore,CIN,@,BSN,L,9,10,None,48-65,6, 28.0,Seibold,May,Smith,2:16,D,None,-,None
+"Tuesday, Aug 20",boxscore,CIN,@,BSN,W,6,2,None,49-65,6, 27.5,Lucas,Cantwell,None,1:34,D,None,+,None
+"Wednesday, Aug 21",boxscore,CIN,@,BSN,L,1,7,None,49-66,6, 28.0,Cunningham,Kolp,None,1:26,D,"10,000",-,None
+"Wednesday, Aug 21",boxscore,CIN,@,BSN,W,8,7,None,50-66,6, 28.0,Donohue,Leverett,May,1:46,D,None,+,1929-08-19 (Rain)
+"Thursday, Aug 22",boxscore,CIN,@,BRO,L,9,13,None,50-67,6, 29.0,Morrison,Rixey,None,None,D,None,-,None
+"Saturday, Aug 24",boxscore,CIN,@,BRO,W,5,2,None,51-67,6, 30.0,May,Vance,None,None,D,None,+,None
+"Saturday, Aug 24",boxscore,CIN,@,BRO,L,0,8,None,51-68,6, 30.0,Moss,Ash,None,None,D,None,-,1929-08-23 (Rain)
+"Sunday, Aug 25",boxscore,CIN,None,CHC,W,6,3,None,52-68,6, 30.0,Lucas,Carlson,None,1:50,D,None,+,None
+"Sunday, Aug 25",boxscore,CIN,None,CHC,L,1,10,None,52-69,6, 30.0,Bush,Donohue,None,1:51,D,"35,432",-,1929-05-28 (Rain)
+"Monday, Aug 26",boxscore,CIN,@,CHC,L,5,9,None,52-70,6, 31.0,Root,Ehrhardt,Malone,None,D,"30,000",--,None
+"Tuesday, Aug 27",boxscore,CIN,@,CHC,L,1,4,None,52-71,7, 32.0,Blake,Luque,None,None,D,None,---,None
+"Saturday, Aug 31",boxscore,CIN,None,STL,L,2,3,None,52-72,7, 31.0,Johnson,Rixey,None,1:37,D,None,----,None
+"Sunday, Sep 1",boxscore,CIN,None,PIT,L,7,9,12,52-73,7, 32.0,Kremer,Lucas,None,2:37,D,None,-----,None
+"Monday, Sep 2",boxscore,CIN,@,PIT,W,7,5,None,53-73,7, 33.0,May,Petty,None,1:50,D,"8,500",+,None
+"Monday, Sep 2",boxscore,CIN,@,PIT,L,8,9,13,53-74,7, 33.0,Swetonic,Kolp,None,2:37,D,"12,000",-,None
+"Wednesday, Sep 4",boxscore,CIN,None,PIT,W,5,4,None,54-74,7, 32.5,Kolp,Meine,None,1:28,D,"1,148",+,None
+"Thursday, Sep 5",boxscore,CIN,None,PIT,L,5,10,None,54-75,7, 33.0,Brame,Lucas,None,None,D,None,-,None
+"Monday, Sep 9",boxscore,CIN,None,NYG,L,3,6,None,54-76,7, 35.0,Hubbell,Luque,None,None,D,"1,500",--,None
+"Monday, Sep 9",boxscore,CIN,None,NYG,L,4,10,5,54-77,7, 35.0,Fitzsimmons,Kolp,None,1:14,D,None,---,1929-09-08 (Rain)
+"Tuesday, Sep 10",boxscore,CIN,None,NYG,W,7,5,None,55-77,7, 34.5,Donohue,Scott,None,1:47,D,None,+,1929-09-07 (Rain)
+"Wednesday, Sep 11",boxscore,CIN,None,BRO,W,4,2,None,56-77,7, 34.5,Lucas,Newsom,None,None,D,None,++,None
+"Thursday, Sep 12",boxscore,CIN,None,BRO,W,3,2,None,57-77,7, 33.5,Rixey,Vance,None,1:31,D,"1,000",+++,None
+"Friday, Sep 13",boxscore,CIN,None,BRO,L,2,4,None,57-78,7, 33.5,Moss,Kolp,None,None,D,None,-,None
+"Saturday, Sep 14",boxscore,CIN,None,BSN,W,3,2,10,58-78,7, 33.5,Rixey,Cantwell,None,1:50,D,None,+,None
+"Sunday, Sep 15",boxscore,CIN,None,BSN,W,6,1,None,59-78,7, 33.0,May,Delaney,None,1:31,D,None,++,None
+"Sunday, Sep 15",boxscore,CIN,None,BSN,W,4,3,None,60-78,7, 33.0,Gudat,Leverett,None,1:42,D,None,+++,1929-09-17 (Schedule change)
+"Monday, Sep 16",boxscore,CIN,None,BSN,L,4,8,None,60-79,7, 33.5,Smith,Lucas,None,1:37,D,None,-,None
+"Wednesday, Sep 18",boxscore,CIN,None,PHI,W,9,5,None,61-79,7, 31.5,Frey,Koupal,None,1:50,D,None,+,None
+"Thursday, Sep 19",boxscore,CIN,None,PHI,W,5,0,None,62-79,6, 31.5,Kolp,Willoughby,None,1:29,D,None,++,None
+"Saturday, Sep 21",boxscore,CIN,None,PHI,L,6,9,None,62-80,7, 31.5,Collins,May,Koupal,2:01,D,None,-,None
+"Sunday, Sep 22",boxscore,CIN,None,PHI,W,3,2,10,63-80,6, 30.5,Donohue,Sweetland,None,1:52,D,None,+,None
+"Monday, Sep 23",boxscore,CIN,@,STL,L,4,6,None,63-81,7, 31.0,Frankhouse,Frey,None,1:32,D,"1,000",-,None
+"Tuesday, Sep 24",boxscore,CIN,@,STL,L,1,3,None,63-82,7, 31.5,Hallahan,Lucas,None,1:24,D,500,--,None
+"Wednesday, Sep 25",boxscore,CIN,@,STL,L,0,8,None,63-83,7, 32.0,Grabowski,Kolp,None,1:18,D,500,---,None
+"Saturday, Sep 28",boxscore,CIN,@,CHC,W,5,3,None,64-83,7, 31.0,Donohue,Malone,None,None,D,None,+,None
+"Sunday, Sep 29",boxscore,CIN,@,CHC,L,0,1,None,64-84,7, 32.0,Root,Frey,None,2:08,D,"12,000",-,None
+"Tuesday, Oct 1",boxscore,CIN,None,CHC,W,3,2,None,65-84,7, 31.0,Lucas,Bush,None,1:20,D,470,+,None
+"Wednesday, Oct 2",boxscore,CIN,None,CHC,L,4,7,None,65-85,7, 32.0,Blake,May,None,1:30,D,707,-,None
+"Thursday, Oct 3",boxscore,CIN,None,CHC,L,1,8,None,65-86,7, 33.0,Carlson,Donohue,Malone,1:30,D,None,--,None
+"Friday, Oct 4",boxscore,CIN,None,CHC,L,3,6,10,65-87,7, 34.0,Root,Rixey,None,1:40,D,None,---,None
+"Saturday, Oct 5",boxscore,CIN,None,CHC,W,9,0,None,66-87,7, 33.0,Ehrhardt,Cvengros,None,1:15,D,None,+,None
+"Sunday, Oct 6",boxscore,CIN,None,STL,L,1,2,None,66-88,7, 33.0,Frankhouse,Gudat,None,1:18,D,None,-,None

@@ -1,0 +1,144 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Friday, Apr 28",boxscore,BOS,None,CHW,W,10,4,None,2-0,1, Tied,Cormier,Bere,None,3:20,N,"23,199",++,None
+"Saturday, Apr 29",boxscore,BOS,None,CHW,W,8,0,None,3-0,1, Tied,Hanson,Alvarez,None,2:51,D,"27,631",+++,None
+"Sunday, Apr 30",boxscore,BOS,None,CHW,L,11,17,None,3-1,1, Tied,DeLeon,Rodriguez,None,3:41,D,"30,658",-,None
+"Monday, May 1",boxscore,BOS,@,NYY,L,3,5,None,3-2,2, 1.0,Howe,Lilliquist,Wetteland,2:30,N,"17,412",--,None
+"Tuesday, May 2",boxscore,BOS,@,NYY,W,8,0,None,4-2,1, Tied,Eshelman,Hitchcock,None,2:25,N,"13,694",+,None
+"Wednesday, May 3",boxscore,BOS,@,NYY,L-wo,3,4,13,4-3,3, 1.0,Wickman,Pierce,None,4:06,N,"19,990",-,None
+"Thursday, May 4",boxscore,BOS,@,NYY,L,3,5,None,4-4,3, 2.0,Ausanio,Johnston,Wetteland,3:01,N,"18,994",--,None
+"Friday, May 5",boxscore,BOS,@,DET,W,10,7,None,5-4,2, 2.0,Lilliquist,Lira,Ryan,3:21,N,"10,041",+,None
+"Saturday, May 6",boxscore,BOS,@,DET,W,5,3,None,6-4,2, 1.0,Sele,Bergman,Belinda,3:18,D,"16,564",++,None
+"Sunday, May 7",boxscore,BOS,@,DET,W,12,1,None,7-4,1, Tied,Eshelman,Groom,None,2:38,D,"10,752",+++,None
+"Tuesday, May 9",boxscore,BOS,None,BAL,W-wo,4,3,None,8-4,1,up 1.0,Belinda,Benitez,None,3:19,N,"22,006",++++,None
+"Wednesday, May 10",boxscore,BOS,None,BAL,W,6,2,None,9-4,1,up 1.0,Hanson,Fernandez,None,3:36,N,"19,776",+++++,None
+"Friday, May 12",boxscore,BOS,None,NYY,L,2,12,None,9-5,2, 0.5,Hitchcock,Sele,None,3:08,N,"32,754",-,None
+"Saturday, May 13",boxscore,BOS,None,NYY,W,6,4,None,10-5,1,up 0.5,Eshelman,Wickman,Ryan,3:10,D,"32,695",+,None
+"Sunday, May 14",boxscore,BOS,None,NYY,W-wo,3,2,None,11-5,1,up 1.5,Pena,Howe,None,2:49,D,"32,526",++,None
+"Tuesday, May 16",boxscore,BOS,@,MIL,W,5,0,None,12-5,1,up 2.5,Hanson,Scanlan,None,2:35,N,"7,714",+++,None
+"Wednesday, May 17",boxscore,BOS,@,MIL,W,8,2,None,13-5,1,up 3.0,Sele,Bones,None,2:57,D,"10,934",++++,None
+"Thursday, May 18",boxscore,BOS,None,CLE,W,4,3,None,14-5,1,up 3.5,Belinda,Poole,None,2:55,N,"24,285",+++++,None
+"Friday, May 19",boxscore,BOS,None,CLE,L,5,9,None,14-6,1,up 3.5,Tavarez,Ryan,None,3:27,N,"23,507",-,None
+"Saturday, May 20",boxscore,BOS,None,CLE,L,5,7,None,14-7,1,up 2.5,Plunk,Pena,Mesa,3:08,D,"29,412",--,None
+"Sunday, May 21",boxscore,BOS,None,CLE,L,10,12,None,14-8,1,up 1.5,Assenmacher,Pierce,Mesa,3:48,D,"32,339",---,None
+"Tuesday, May 23",boxscore,BOS,@,SEA,W,5,4,10,15-8,1,up 2.5,Belinda,Frey,Ryan,3:55,N,"11,868",+,None
+"Wednesday, May 24",boxscore,BOS,@,SEA,L,6,15,None,15-9,1,up 2.5,Carmona,Pierce,Nelson,3:18,N,"10,041",-,None
+"Thursday, May 25",boxscore,BOS,@,SEA,L,3,4,None,15-10,1,up 2.5,Belcher,Smith,Ayala,2:21,D,"12,194",--,None
+"Friday, May 26",boxscore,BOS,@,CAL,W,8,3,None,16-10,1,up 3.0,Hanson,Williams,None,3:10,N,"27,816",+,None
+"Saturday, May 27",boxscore,BOS,@,CAL,W,12,1,None,17-10,1,up 4.0,Wakefield,Bielecki,None,2:49,N,"29,792",++,None
+"Sunday, May 28",boxscore,BOS,@,CAL,L,3,8,None,17-11,1,up 3.5,Finley,Van Egmond,None,3:25,D,"27,497",-,None
+"Monday, May 29",boxscore,BOS,@,OAK,W,9,6,None,18-11,1,up 4.5,Smith,Stewart,None,2:43,D,"30,846",+,None
+"Tuesday, May 30",boxscore,BOS,@,OAK,W,1,0,None,19-11,1,up 5.0,Wakefield,Darling,Ryan,2:07,N,"11,224",++,None
+"Wednesday, May 31",boxscore,BOS,@,OAK,W,6,5,None,20-11,1,up 6.0,Hanson,Stottlemyre,Ryan,3:25,D,"14,616",+++,None
+"Friday, Jun 2",boxscore,BOS,None,SEA,W-wo,6,5,10,21-11,1,up 6.5,Belinda,Torres,None,3:15,N,"33,476",++++,None
+"Saturday, Jun 3",boxscore,BOS,None,SEA,W,10,8,None,22-11,1,up 7.0,Cormier,Carmona,Ryan,3:25,D,"27,301",+++++,None
+"Sunday, Jun 4",boxscore,BOS,None,SEA,W-wo,2,1,10,23-11,1,up 8.0,Wakefield,Ayala,None,2:31,D,"28,512",++++++,None
+"Monday, Jun 5",boxscore,BOS,None,CAL,W,3,2,None,24-11,1,up 9.0,Hanson,Bielecki,Ryan,2:46,N,"22,027",+++++++,None
+"Tuesday, Jun 6",boxscore,BOS,None,CAL,L,3,12,None,24-12,1,up 8.0,Langston,Looney,James,2:45,N,"23,977",-,None
+"Wednesday, Jun 7",boxscore,BOS,None,CAL,W,5,1,None,25-12,1,up 9.0,Clemens,Finley,None,3:17,N,"23,372",+,None
+"Thursday, Jun 8",boxscore,BOS,None,CAL,L,8,10,None,25-13,1,up 8.0,Butcher,Cormier,Smith,4:09,N,"25,336",-,None
+"Friday, Jun 9",boxscore,BOS,None,OAK,W,4,1,None,26-13,1,up 8.0,Wakefield,Stewart,None,2:25,N,"30,304",+,None
+"Saturday, Jun 10",boxscore,BOS,None,OAK,L,5,8,None,26-14,1,up 7.0,Corsi,Maddux,None,3:26,D,"31,418",-,None
+"Sunday, Jun 11",boxscore,BOS,None,OAK,L,1,8,None,26-15,1,up 7.0,Stottlemyre,Smith,None,2:43,D,"29,737",--,None
+"Monday, Jun 12",boxscore,BOS,@,TOR,L-wo,3,4,12,26-16,1,up 7.0,Timlin,Ryan,None,3:47,N,"40,171",---,None
+"Tuesday, Jun 13",boxscore,BOS,@,TOR,W,11,7,None,27-16,1,up 8.0,Maddux,Hentgen,None,2:58,N,"36,297",+,None
+"Wednesday, Jun 14",boxscore,BOS,@,TOR,L,3,5,None,27-17,1,up 8.0,Leiter,Wakefield,Castillo,2:26,N,"37,898",-,None
+"Friday, Jun 16",boxscore,BOS,None,MIL,L,3,4,None,27-18,1,up 6.5,Miranda,Hanson,Fetters,2:49,N,"29,086",--,None
+"Saturday, Jun 17",boxscore,BOS,None,MIL,L,1,9,None,27-19,1,up 5.5,Sparks,Clemens,None,2:38,D,"29,882",---,None
+"Sunday, Jun 18",boxscore,BOS,None,MIL,W,4,2,None,28-19,1,up 5.5,Smith,Bones,Belinda,2:34,D,"28,646",+,None
+"Monday, Jun 19",boxscore,BOS,@,CLE,L-wo,3,4,10,28-20,1,up 5.5,Plunk,Ryan,None,3:37,N,"41,645",-,None
+"Tuesday, Jun 20",boxscore,BOS,@,CLE,L,2,9,None,28-21,1,up 5.5,Ogea,Eshelman,None,2:33,N,"40,190",--,None
+"Wednesday, Jun 21",boxscore,BOS,@,CLE,W,3,1,None,29-21,1,up 5.5,Hanson,Hershiser,Belinda,2:33,N,"41,948",+,None
+"Thursday, Jun 22",boxscore,BOS,@,BAL,W,4,1,None,30-21,1,up 6.0,Clemens,Brown,Belinda,3:17,N,"45,081",++,None
+"Friday, Jun 23",boxscore,BOS,@,BAL,L,5,7,None,30-22,1,up 5.0,Mussina,Smith,Lee,3:15,N,"46,306",-,None
+"Saturday, Jun 24",boxscore,BOS,@,BAL,W,6,5,None,31-22,1,up 5.0,Cormier,Orosco,Belinda,3:00,N,"47,262",+,None
+"Sunday, Jun 25",boxscore,BOS,@,BAL,L,1,10,None,31-23,1,up 4.0,Rhodes,Eshelman,None,2:54,D,"47,561",-,None
+"Monday, Jun 26",boxscore,BOS,None,TOR,W-wo,4,3,None,32-23,1,up 5.0,Belinda,Castillo,None,2:51,N,"26,716",+,None
+"Tuesday, Jun 27",boxscore,BOS,None,TOR,W-wo,6,5,11,33-23,1,up 6.0,Lilliquist,Williams,None,3:16,N,"30,262",++,None
+"Wednesday, Jun 28",boxscore,BOS,None,TOR,L,4,8,None,33-24,1,up 5.0,Cone,Smith,None,3:00,N,"31,467",-,None
+"Thursday, Jun 29",boxscore,BOS,None,DET,W,7,1,None,34-24,1,up 6.0,Wakefield,Moore,None,2:37,D,"28,457",+,None
+"Friday, Jun 30",boxscore,BOS,None,DET,L,6,7,None,34-25,1,up 5.0,Boever,Ryan,Henneman,3:27,N,"31,349",-,None
+"Saturday, Jul 1",boxscore,BOS,None,DET,L,2,11,None,34-26,1,up 4.0,Lira,Hanson,Doherty,3:10,D,"33,359",--,None
+"Sunday, Jul 2",boxscore,BOS,None,DET,W-wo,12,11,None,35-26,1,up 5.0,Belinda,Boever,None,3:26,D,"34,344",+,None
+"Monday, Jul 3",boxscore,BOS,@,KCR,W,12,5,None,36-26,1,up 5.0,Smith,Appier,Maddux,2:51,N,"24,742",++,None
+"Tuesday, Jul 4",boxscore,BOS,@,KCR,W,6,5,None,37-26,1,up 5.0,Wakefield,Gubicza,Belinda,2:27,N,"26,584",+++,None
+"Wednesday, Jul 5",boxscore,BOS,@,KCR,L-wo,2,3,None,37-27,1,up 4.0,Pichardo,Rodriguez,None,2:55,N,"7,511",-,None
+"Thursday, Jul 6",boxscore,BOS,@,MIN,L,4,6,None,37-28,1,up 3.0,Radke,Smith,Stevens,2:52,N,"11,934",--,None
+"Friday, Jul 7",boxscore,BOS,@,MIN,W,5,4,None,38-28,1,up 3.0,Belinda,Guardado,Aguilera,2:45,N,"12,594",+,None
+"Saturday, Jul 8",boxscore,BOS,@,MIN,L,5,9,None,38-29,1,up 3.0,Guthrie,Belinda,None,2:45,N,"14,838",-,None
+"Sunday, Jul 9",boxscore,BOS,@,MIN,W,7,0,None,39-29,1,up 3.0,Wakefield,Rodriguez,None,2:45,D,"18,574",+,None
+"Thursday, Jul 13",boxscore,BOS,None,TEX,L,8,9,None,39-30,1,up 3.0,Vosberg,Clemens,Russell,3:18,N,"33,315",-,None
+"Friday, Jul 14",boxscore,BOS,None,TEX,W,5,2,None,40-30,1,up 4.0,Wakefield,Pavlik,Aguilera,3:18,N,"32,348",+,None
+"Saturday, Jul 15",boxscore,BOS,None,TEX,L,2,7,None,40-31,1,up 3.5,Gross,Hanson,None,2:59,N,"34,004",-,None
+"Sunday, Jul 16",boxscore,BOS,None,TEX,L,2,5,None,40-32,1,up 4.0,Rogers,Smith,Russell,2:43,N,"30,295",--,None
+"Monday, Jul 17",boxscore,BOS,None,KCR,L,3,4,None,40-33,1,up 4.0,Gubicza,Suppan,Montgomery,3:03,N,"24,891",---,None
+"Tuesday, Jul 18",boxscore,BOS,None,KCR,W,4,1,None,41-33,1,up 4.0,Clemens,Gordon,Aguilera,2:48,D,"26,960",+,None
+"Wednesday, Jul 19",boxscore,BOS,@,CHW,W,5,3,None,42-33,1,up 5.0,Wakefield,Sirotka,Aguilera,2:38,N,"22,391",++,None
+"Thursday, Jul 20",boxscore,BOS,@,CHW,W,3,1,None,43-33,1,up 6.0,Hanson,McCaskill,Aguilera,2:55,N,"21,235",+++,None
+"Friday, Jul 21",boxscore,BOS,None,MIN,W,13,5,None,44-33,1,up 6.0,Smith,Trombley,Hudson,2:45,N,"31,124",++++,None
+"Saturday, Jul 22",boxscore,BOS,None,MIN,L,7,8,None,44-34,1,up 6.0,Guthrie,Suppan,Stevens,3:01,D,"34,384",-,None
+"Sunday, Jul 23",boxscore,BOS,None,MIN,L,3,8,None,44-35,1,up 5.0,Tapani,Clemens,None,2:58,D,"34,205",--,None
+"Monday, Jul 24",boxscore,BOS,None,MIN,W,4,1,None,45-35,1,up 5.5,Wakefield,Radke,Aguilera,2:47,N,"26,333",+,None
+"Tuesday, Jul 25",boxscore,BOS,None,CHW,L,3,8,None,45-36,1,up 4.5,Bere,Cormier,Hernandez,3:00,N,"33,069",-,None
+"Wednesday, Jul 26",boxscore,BOS,None,CHW,W,5,3,None,46-36,1,up 4.5,Smith,Fernandez,Aguilera,2:53,N,"33,457",+,None
+"Thursday, Jul 27",boxscore,BOS,None,CHW,L,4,5,None,46-37,1,up 4.5,Karchner,Aguilera,Hernandez,3:16,D,"34,474",-,None
+"Friday, Jul 28",boxscore,BOS,@,TEX,W,6,2,None,47-37,1,up 4.5,Maddux,Taylor,None,2:32,N,"39,199",+,None
+"Saturday, Jul 29",boxscore,BOS,@,TEX,W,7,1,None,48-37,1,up 5.5,Wakefield,Gross,None,2:43,N,"46,717",++,None
+"Sunday, Jul 30",boxscore,BOS,@,TEX,L,6,7,None,48-38,1,up 4.5,Whiteside,Hanson,Russell,2:46,N,"37,219",-,None
+"Tuesday, Aug 1",boxscore,BOS,@,DET,W,13,3,None,49-38,1,up 4.5,Smith,Moore,None,2:54,N,"20,170",+,None
+"Wednesday, Aug 2",boxscore,BOS,@,DET,L,0,5,None,49-39,1,up 4.5,Bergman,Clemens,None,2:30,N,"16,488",-,None
+"Thursday, Aug 3",boxscore,BOS,@,DET,W,10,2,None,50-39,1,up 4.5,Wakefield,Nitkowski,None,2:15,N,"11,451",+,None
+"Friday, Aug 4",boxscore,BOS,@,TOR,W,7,1,None,51-39,1,up 4.5,Hanson,Rogers,None,2:58,N,"40,137",++,None
+"Saturday, Aug 5",boxscore,BOS,@,TOR,W,9,3,None,52-39,1,up 4.5,Cormier,Hentgen,None,2:33,N,"41,454",+++,None
+"Sunday, Aug 6",boxscore,BOS,@,TOR,W,6,4,None,53-39,1,up 5.5,Eshelman,Hurtado,Aguilera,3:12,N,"38,194",++++,None
+"Monday, Aug 7",boxscore,BOS,@,TOR,W,5,4,10,54-39,1,up 5.5,Belinda,Crabtree,None,3:25,D,"42,135",+++++,None
+"Tuesday, Aug 8",boxscore,BOS,None,CLE,W,5,1,None,55-39,1,up 5.5,Wakefield,Clark,None,2:32,N,"34,574",++++++,None
+"Wednesday, Aug 9",boxscore,BOS,None,CLE,W,9,5,None,56-39,1,up 6.5,Hanson,Plunk,None,2:51,N,"34,240",+++++++,None
+"Thursday, Aug 10",boxscore,BOS,None,BAL,W,11,1,None,57-39,1,up 8.0,Cormier,Erickson,None,2:43,N,"33,588",++++++++,1995-05-11 (Rain)
+"Friday, Aug 11",boxscore,BOS,None,BAL,W-wo,5,4,12,58-39,1,up 9.0,Aguilera,Clark,None,3:43,N,"33,143",+++++++++,None
+"Saturday, Aug 12",boxscore,BOS,None,BAL,W,7,0,None,59-39,1,up 9.0,Clemens,Mussina,None,3:27,N,"34,234",++++++++++,None
+"Sunday, Aug 13",boxscore,BOS,None,BAL,W,3,2,None,60-39,1,up 9.0,Wakefield,Krivda,Belinda,2:22,D,"34,158",+++++++++++,None
+"Monday, Aug 14",boxscore,BOS,None,NYY,W,9,3,None,61-39,1,up10.0,Hanson,Kamieniecki,None,3:04,N,"34,319",++++++++++++,None
+"Tuesday, Aug 15",boxscore,BOS,None,NYY,L,2,9,None,61-40,1,up 9.0,Hitchcock,Cormier,None,2:57,N,"34,616",-,None
+"Wednesday, Aug 16",boxscore,BOS,None,NYY,W,7,4,None,62-40,1,up10.0,Gunderson,Wickman,Belinda,2:58,D,"34,304",+,None
+"Thursday, Aug 17",boxscore,BOS,@,CAL,W,4,3,None,63-40,1,up10.5,Gunderson,Habyan,Belinda,2:50,N,"25,435",++,None
+"Friday, Aug 18",boxscore,BOS,@,SEA,L,3,9,None,63-41,1,up 9.5,Wolcott,Wakefield,None,2:49,N,"27,256",-,None
+"Saturday, Aug 19",boxscore,BOS,@,SEA,W,4,3,None,64-41,1,up10.5,Hanson,Benes,Aguilera,3:23,N,"36,007",+,None
+"Sunday, Aug 20",boxscore,BOS,@,SEA,W,7,6,None,65-41,1,up11.5,Cormier,Bosio,Aguilera,2:49,D,"21,813",++,None
+"Monday, Aug 21",boxscore,BOS,@,CAL,W,6,4,None,66-41,1,up12.5,Eshelman,Anderson,Belinda,2:40,N,"23,943",+++,None
+"Tuesday, Aug 22",boxscore,BOS,@,CAL,W,6,4,None,67-41,1,up13.5,Clemens,Harkey,Aguilera,3:02,N,"27,822",++++,None
+"Wednesday, Aug 23",boxscore,BOS,@,CAL,W,6,5,10,68-41,1,up14.5,Stanton,Smith,Aguilera,3:41,N,"29,053",+++++,None
+"Thursday, Aug 24",boxscore,BOS,@,OAK,W,13,6,None,69-41,1,up15.5,Hanson,Ontiveros,None,2:52,N,"13,922",++++++,None
+"Friday, Aug 25",boxscore,BOS,@,OAK,L,1,6,None,69-42,1,up15.5,Johns,Cormier,None,2:14,N,"17,156",-,None
+"Saturday, Aug 26",boxscore,BOS,@,OAK,L,4,11,None,69-43,1,up15.5,Stottlemyre,Smith,None,2:47,D,"23,177",--,None
+"Sunday, Aug 27",boxscore,BOS,@,OAK,W,4,1,None,70-43,1,up15.5,Clemens,Van Poppel,Aguilera,2:41,D,"24,220",+,None
+"Tuesday, Aug 29",boxscore,BOS,None,SEA,L,4,6,None,70-44,1,up15.0,Benes,Wakefield,Charlton,2:39,N,"31,328",-,None
+"Wednesday, Aug 30",boxscore,BOS,None,SEA,W,7,6,None,71-44,1,up15.0,Maddux,Nelson,Aguilera,3:01,N,"32,356",+,None
+"Thursday, Aug 31",boxscore,BOS,None,SEA,L,2,11,None,71-45,1,up14.0,Wolcott,Cormier,Guetterman,3:10,N,"30,627",-,None
+"Friday, Sep 1",boxscore,BOS,None,CAL,W,11,3,None,72-45,1,up14.0,Clemens,Boskie,None,3:19,N,"32,861",+,None
+"Saturday, Sep 2",boxscore,BOS,None,CAL,W,5,4,None,73-45,1,up14.0,Smith,Langston,Aguilera,2:51,D,"32,867",++,None
+"Sunday, Sep 3",boxscore,BOS,None,CAL,W,8,1,None,74-45,1,up15.0,Wakefield,Finley,None,2:44,D,"32,987",+++,None
+"Tuesday, Sep 5",boxscore,BOS,None,OAK,W-wo,7,4,14,75-45,1,up15.5,Aguilera,Reyes,None,4:27,N,"27,080",++++,None
+"Wednesday, Sep 6",boxscore,BOS,None,OAK,W,8,2,None,76-45,1,up15.5,Clemens,Johns,None,3:00,N,"30,454",+++++,None
+"Friday, Sep 8",boxscore,BOS,@,NYY,L,4,8,None,76-46,1,up14.5,Cone,Wakefield,Howe,2:40,N,"35,896",-,None
+"Saturday, Sep 9",boxscore,BOS,@,NYY,L,1,9,None,76-47,1,up13.5,Pettitte,Smith,None,2:39,D,"47,719",--,None
+"Sunday, Sep 10",boxscore,BOS,@,NYY,L,3,9,None,76-48,1,up12.5,Hitchcock,Hanson,None,2:47,N,"27,527",---,None
+"Monday, Sep 11",boxscore,BOS,@,BAL,L,7,10,None,76-49,1,up11.5,Lee,Gunderson,Jones,3:28,N,"40,585",----,None
+"Tuesday, Sep 12",boxscore,BOS,@,BAL,L,5,6,None,76-50,1,up10.5,Hartley,Hudson,Orosco,3:21,N,"40,282",-----,None
+"Wednesday, Sep 13",boxscore,BOS,@,BAL,W,2,0,None,77-50,1,up11.5,Wakefield,Haynes,Aguilera,2:17,N,"41,536",+,None
+"Thursday, Sep 14",boxscore,BOS,@,CLE,L,3,5,None,77-51,1,up10.5,Hershiser,Eshelman,Mesa,2:22,N,"41,812",-,None
+"Friday, Sep 15",boxscore,BOS,@,CLE,W,6,3,None,78-51,1,up11.5,Hanson,Embree,None,2:48,N,"41,833",+,None
+"Saturday, Sep 16",boxscore,BOS,@,CLE,L,5,6,None,78-52,1,up10.5,Clark,Clemens,Mesa,2:50,D,"41,765",-,None
+"Sunday, Sep 17",boxscore,BOS,@,CLE,W,9,6,None,79-52,1,up11.5,Suppan,Shuey,Aguilera,3:22,D,"41,723",+,None
+"Monday, Sep 18",boxscore,BOS,None,MIL,L,1,6,None,79-53,1,up10.5,Bones,Wakefield,None,2:20,N,"28,176",-,None
+"Tuesday, Sep 19",boxscore,BOS,None,MIL,W,5,3,None,80-53,1,up10.5,Eshelman,Sparks,Aguilera,2:38,N,"27,060",+,None
+"Wednesday, Sep 20",boxscore,BOS,None,MIL,W,3,2,None,81-53,1,up10.5,Cormier,Karl,Aguilera,2:32,N,"32,563",++,None
+"Saturday, Sep 23",boxscore,BOS,None,TOR,W,5,0,None,82-53,1,up 9.0,Clemens,Leiter,None,2:49,D,"32,791",+++,None
+"Saturday, Sep 23",boxscore,BOS,None,TOR,L,6,8,None,82-54,1,up 9.0,Ware,Wakefield,Castillo,2:42,N,"21,266",-,1995-09-22 (Rain)
+"Sunday, Sep 24",boxscore,BOS,None,TOR,L,1,2,None,82-55,1,up 9.0,Guzman,Aguilera,Timlin,2:40,D,"32,472",--,None
+"Monday, Sep 25",boxscore,BOS,None,DET,L,4,7,None,82-56,1,up 8.5,Gohr,Murray,Doherty,2:46,N,"25,661",---,None
+"Tuesday, Sep 26",boxscore,BOS,None,DET,W,5,1,None,83-56,1,up 8.5,Smith,Nitkowski,None,2:09,N,"24,032",+,None
+"Wednesday, Sep 27",boxscore,BOS,None,DET,L,5,7,None,83-57,1,up 7.5,Lima,Wakefield,Blomdahl,2:39,N,"30,989",-,None
+"Thursday, Sep 28",boxscore,BOS,@,MIL,W,11,6,None,84-57,1,up 8.0,Clemens,Scanlan,None,2:54,N,"8,286",+,None
+"Friday, Sep 29",boxscore,BOS,@,MIL,W,11,9,None,85-57,1,up 8.0,Hanson,Bones,Aguilera,3:30,N,"10,775",++,None
+"Saturday, Sep 30",boxscore,BOS,@,MIL,W,9,1,None,86-57,1,up 8.0,Maddux,Sparks,None,2:26,D,"14,610",+++,None
+"Sunday, Oct 1",boxscore,BOS,@,MIL,L,1,8,None,86-58,1,up 7.0,Karl,Wakefield,None,1:57,D,"15,453",-,None

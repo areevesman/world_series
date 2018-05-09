@@ -1,0 +1,155 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Sunday, Apr 13",boxscore,CHC,None,PIT,W,7,4,None,1-1,3, 0.5,Cheney,Hendrix,None,2:00,D,None,+,None
+"Monday, Apr 14",boxscore,CHC,None,PIT,L,5,8,None,1-2,6, 1.0,Robinson,Richie,Camnitz,1:55,D,None,-,None
+"Tuesday, Apr 15",boxscore,CHC,None,PIT,W,5,4,10,2-2,4, 1.0,Cheney,Camnitz,None,2:20,D,None,+,None
+"Thursday, Apr 17",boxscore,CHC,@,STL,W,7,1,None,3-2,1, Tied,Cheney,Griner,None,1:45,D,None,++,None
+"Friday, Apr 18",boxscore,CHC,@,STL,L,2,8,None,3-3,4, 0.5,Sallee,Lavender,None,1:45,D,None,-,None
+"Saturday, Apr 19",boxscore,CHC,@,STL,W,6,1,None,4-3,4, 0.5,Richie,Hunt,None,2:00,D,None,+,None
+"Sunday, Apr 20",boxscore,CHC,@,CIN,W,3,2,None,5-3,2, 0.5,Lavender,Suggs,None,2:05,D,None,++,None
+"Monday, Apr 21",boxscore,CHC,@,CIN,W,7,6,11,6-3,2, 0.5,Smith,Johnson,Cheney,2:45,D,None,+++,None
+"Tuesday, Apr 22",boxscore,CHC,@,CIN,W,8,5,None,7-3,2, 0.5,Cheney,McIntire,None,2:10,D,None,++++,None
+"Wednesday, Apr 23",boxscore,CHC,@,CIN,T,5,5,None,7-3,1, Tied,None,None,None,2:10,D,None,++++,None
+"Friday, Apr 25",boxscore,CHC,@,PIT,L,3,6,None,7-4,3, 1.0,Robinson,Richie,Hendrix,1:44,D,None,-,None
+"Saturday, Apr 26",boxscore,CHC,@,PIT,W,7,2,None,8-4,1, Tied,Smith,O'Toole,None,2:07,D,None,+,None
+"Sunday, Apr 27",boxscore,CHC,None,PIT,W,7,5,None,9-4,1,up 0.5,Humphries,Camnitz,None,2:00,D,None,++,None
+"Monday, Apr 28",boxscore,CHC,None,PIT,W,8,5,None,10-4,1,up 1.0,Toney,Hendrix,Cheney,2:15,D,None,+++,None
+"Tuesday, Apr 29",boxscore,CHC,None,CIN,W,7,2,None,11-4,1,up 1.0,Cheney,Benton,None,1:45,D,None,++++,None
+"Wednesday, Apr 30",boxscore,CHC,None,CIN,W,4,3,None,12-4,1,up 2.0,Pierce,Suggs,None,1:50,D,None,+++++,None
+"Thursday, May 1",boxscore,CHC,None,CIN,L,4,8,None,12-5,1,up 2.0,Johnson,Smith,Brown,2:25,D,None,-,None
+"Friday, May 2",boxscore,CHC,None,CIN,W,4,1,None,13-5,1,up 2.5,Cheney,Smith,None,1:50,D,None,+,None
+"Saturday, May 3",boxscore,CHC,None,CIN,L,4,9,None,13-6,1,up 1.5,Benton,Overall,Suggs,1:55,D,None,-,None
+"Sunday, May 4",boxscore,CHC,None,STL,L,8,10,13,13-7,1,up 1.0,Konetchy,Humphries,None,2:45,D,None,--,None
+"Tuesday, May 6",boxscore,CHC,@,BRO,L,3,4,None,13-8,1,up 0.5,Ragan,Cheney,Rucker,1:32,D,None,---,None
+"Wednesday, May 7",boxscore,CHC,@,BRO,W,4,3,None,14-8,1,up 0.5,Toney,Allen,None,2:10,D,None,+,None
+"Thursday, May 8",boxscore,CHC,@,BRO,L,1,2,None,14-9,1,up 0.5,Rucker,Lavender,None,1:25,D,None,-,None
+"Friday, May 9",boxscore,CHC,@,BRO,L,5,7,None,14-10,3, 0.5,Curtis,Pierce,None,1:45,D,None,--,None
+"Saturday, May 10",boxscore,CHC,@,NYG,W,2,1,None,15-10,3, 0.5,Cheney,Demaree,None,1:47,D,None,+,None
+"Monday, May 12",boxscore,CHC,@,NYG,L,1,5,None,15-11,3, 1.5,Mathewson,Richie,None,1:23,D,None,-,None
+"Tuesday, May 13",boxscore,CHC,@,NYG,L,2,8,None,15-12,3, 2.5,Tesreau,Toney,None,2:02,D,None,--,None
+"Wednesday, May 14",boxscore,CHC,@,NYG,L,11,14,None,15-13,3, 2.5,Marquard,Lavender,Ames,2:29,D,None,---,None
+"Thursday, May 15",boxscore,CHC,@,PHI,L,5,6,10,15-14,3, 3.5,Seaton,Overall,None,2:10,D,None,----,None
+"Friday, May 16",boxscore,CHC,@,PHI,L,4,10,None,15-15,4, 4.5,Rixey,Toney,None,1:50,D,None,-----,None
+"Monday, May 19",boxscore,CHC,@,PHI,L,4,10,None,15-16,4, 5.5,Brennan,Lavender,None,1:45,D,None,------,None
+"Tuesday, May 20",boxscore,CHC,@,BSN,W,7,3,None,16-16,4, 5.5,Overall,Perdue,None,2:03,D,None,+,None
+"Wednesday, May 21",boxscore,CHC,@,BSN,W,6,5,None,17-16,3, 5.5,Reulbach,Hess,Cheney,1:57,D,None,++,None
+"Saturday, May 24",boxscore,CHC,@,PIT,L,3,4,None,17-17,5, 7.0,Camnitz,Cheney,None,1:42,D,None,-,None
+"Sunday, May 25",boxscore,CHC,None,STL,W,9,2,None,18-17,4, 6.5,Pierce,Steele,None,1:50,D,None,+,None
+"Tuesday, May 27",boxscore,CHC,None,STL,W,2,1,None,19-17,3, 6.5,Overall,Sallee,None,1:25,D,None,++,None
+"Wednesday, May 28",boxscore,CHC,None,STL,W,8,7,17,20-17,3, 6.0,Cheney,Harmon,None,3:45,D,None,+++,1913-04-10 (Rain)
+"Thursday, May 29",boxscore,CHC,@,PIT,L,4,5,None,20-18,3, 6.0,Ferry,Humphries,None,1:50,D,None,-,None
+"Friday, May 30",boxscore,CHC,@,PIT,L,1,2,None,20-19,4, 5.5,Camnitz,Reulbach,None,1:28,D,None,--,None
+"Saturday, May 31",boxscore,CHC,@,PIT,L,0,4,None,20-20,4, 5.5,Adams,Smith,None,1:30,D,None,---,None
+"Sunday, Jun 1",boxscore,CHC,@,STL,W,4,2,None,21-20,4, 5.0,Pierce,Harmon,None,2:00,D,None,+,None
+"Wednesday, Jun 4",boxscore,CHC,None,BSN,W,5,0,None,22-20,4, 5.5,Overall,Rudolph,None,1:45,D,None,++,None
+"Thursday, Jun 5",boxscore,CHC,None,BSN,L,4,8,None,22-21,4, 5.5,Hess,Cheney,None,2:10,D,None,-,None
+"Friday, Jun 6",boxscore,CHC,None,BSN,L,4,5,None,22-22,4, 6.5,Dickson,Pierce,None,2:05,D,None,--,None
+"Saturday, Jun 7",boxscore,CHC,None,BSN,W,9,6,None,23-22,4, 6.5,Richie,Tyler,Cheney,1:55,D,None,+,None
+"Sunday, Jun 8",boxscore,CHC,None,NYG,W,2,1,10,24-22,4, 6.5,Smith,Tesreau,None,2:15,D,None,++,None
+"Monday, Jun 9",boxscore,CHC,None,NYG,L,3,11,None,24-23,4, 7.5,Mathewson,Richie,Wiltse,2:10,D,None,-,None
+"Tuesday, Jun 10",boxscore,CHC,None,NYG,W,3,2,10,25-23,4, 7.5,Humphries,Marquard,None,2:20,D,None,+,None
+"Wednesday, Jun 11",boxscore,CHC,None,NYG,L,2,5,10,25-24,4, 7.5,Fromme,Smith,None,2:00,D,None,-,None
+"Thursday, Jun 12",boxscore,CHC,None,BRO,W,6,1,None,26-24,3, 7.5,Humphries,Rucker,None,1:25,D,None,+,None
+"Friday, Jun 13",boxscore,CHC,None,BRO,W,7,6,11,27-24,3, 7.5,Pierce,Allen,None,2:40,D,None,++,None
+"Saturday, Jun 14",boxscore,CHC,None,BRO,W,5,1,None,28-24,3, 7.5,Lavender,Curtis,None,1:40,D,None,+++,None
+"Sunday, Jun 15",boxscore,CHC,None,BRO,L,2,9,None,28-25,3, 7.5,Wagner,Leifield,None,2:10,D,None,-,None
+"Monday, Jun 16",boxscore,CHC,None,PHI,W,13,3,None,29-25,3, 6.5,Cheney,Alexander,None,2:00,D,None,+,None
+"Tuesday, Jun 17",boxscore,CHC,None,PHI,W,4,0,None,30-25,3, 5.5,Smith,Brennan,None,1:50,D,None,++,None
+"Wednesday, Jun 18",boxscore,CHC,None,PHI,W,4,0,None,31-25,3, 4.5,Humphries,Seaton,None,1:45,D,None,+++,None
+"Thursday, Jun 19",boxscore,CHC,None,PHI,L,1,2,None,31-26,3, 5.5,Alexander,Lavender,None,1:45,D,None,-,None
+"Friday, Jun 20",boxscore,CHC,@,STL,L,2,4,None,31-27,4, 6.0,Sallee,Cheney,None,1:55,D,None,--,None
+"Sunday, Jun 22",boxscore,CHC,@,STL,W,6,0,5,32-27,4, 6.5,Pierce,Perritt,None,1:25,D,None,+,None
+"Tuesday, Jun 24",boxscore,CHC,@,STL,L,0,1,None,32-28,4, 8.0,Griner,Lavender,None,1:55,D,None,-,1913-06-21 (Rain)
+"Wednesday, Jun 25",boxscore,CHC,@,CIN,L,4,12,None,32-29,4, 9.0,Benton,Reulbach,Suggs,2:10,D,None,--,None
+"Thursday, Jun 26",boxscore,CHC,@,CIN,L,3,5,None,32-30,4, 8.5,Brown,Cheney,None,1:53,D,None,---,None
+"Friday, Jun 27",boxscore,CHC,@,CIN,L,1,5,None,32-31,4, 8.5,Benton,Smith,None,1:40,D,None,----,None
+"Saturday, Jun 28",boxscore,CHC,@,CIN,W,3,1,None,33-31,4, 7.5,Humphries,Suggs,None,2:00,D,None,+,None
+"Sunday, Jun 29",boxscore,CHC,@,CIN,L,6,9,None,33-32,4, 8.0,Ames,Pierce,Brown,1:55,D,None,-,None
+"Monday, Jun 30",boxscore,CHC,None,PIT,W,12,2,None,34-32,4, 7.5,Lavender,Camnitz,None,2:05,D,None,+,None
+"Tuesday, Jul 1",boxscore,CHC,None,PIT,W,3,2,None,35-32,4, 7.5,Cheney,Robinson,None,1:40,D,None,++,None
+"Wednesday, Jul 2",boxscore,CHC,None,PIT,W,6,4,None,36-32,4, 7.5,Humphries,Adams,None,2:07,D,None,+++,None
+"Thursday, Jul 3",boxscore,CHC,None,CIN,W,5,1,None,37-32,4, 7.5,Lavender,Suggs,None,1:55,D,None,++++,None
+"Friday, Jul 4",boxscore,CHC,None,CIN,L,0,4,None,37-33,3, 8.5,Brown,Smith,None,1:50,D,None,-,None
+"Friday, Jul 4",boxscore,CHC,None,CIN,W,5,3,None,38-33,3, 8.5,Cheney,Ames,None,2:00,D,None,+,None
+"Saturday, Jul 5",boxscore,CHC,None,CIN,W,12,6,None,39-33,3, 8.5,Humphries,Johnson,None,2:25,D,None,++,None
+"Sunday, Jul 6",boxscore,CHC,None,STL,W,6,0,None,40-33,3, 8.5,Pierce,Harmon,None,2:06,D,None,+++,None
+"Sunday, Jul 6",boxscore,CHC,None,STL,L,1,5,3,40-34,3, 8.5,Sallee,Overall,None,1:00,D,None,-,1913-04-11 (Rain)
+"Tuesday, Jul 8",boxscore,CHC,@,NYG,L,5,6,None,40-35,3, 10.0,Tesreau,Lavender,Marquard,2:24,D,None,--,None
+"Wednesday, Jul 9",boxscore,CHC,@,NYG,L,0,3,None,40-36,3, 11.0,Marquard,Cheney,None,1:35,D,None,---,None
+"Thursday, Jul 10",boxscore,CHC,@,NYG,W,3,2,None,41-36,3, 10.0,Smith,Mathewson,None,1:45,D,None,+,None
+"Friday, Jul 11",boxscore,CHC,@,NYG,L,4,14,None,41-37,3, 11.0,Fromme,Lavender,None,2:32,D,None,-,None
+"Saturday, Jul 12",boxscore,CHC,@,BRO,W,6,5,10,42-37,3, 11.0,Cheney,Stack,None,2:35,D,None,+,None
+"Monday, Jul 14",boxscore,CHC,@,BRO,L,2,9,None,42-38,3, 12.0,Curtis,Pierce,None,1:45,D,None,-,None
+"Tuesday, Jul 15",boxscore,CHC,@,BRO,W,9,6,None,43-38,3, 12.0,Cheney,Ragan,None,1:50,D,None,+,None
+"Wednesday, Jul 16",boxscore,CHC,@,BRO,L,3,4,11,43-39,3, 13.0,Wagner,Lavender,None,2:22,D,None,-,None
+"Thursday, Jul 17",boxscore,CHC,@,BSN,L,2,4,None,43-40,3, 13.0,Tyler,Smith,None,1:42,D,None,--,None
+"Thursday, Jul 17",boxscore,CHC,@,BSN,W,6,1,None,44-40,3, 13.0,Humphries,Perdue,None,1:45,D,None,+,1913-05-22 (Wet grounds)
+"Saturday, Jul 19",boxscore,CHC,@,BSN,L,4,5,None,44-41,4, 14.0,Dickson,Cheney,None,1:45,D,None,-,None
+"Monday, Jul 21",boxscore,CHC,@,BSN,W,6,2,None,45-41,3, 14.0,Overall,Rudolph,None,2:00,D,None,+,None
+"Tuesday, Jul 22",boxscore,CHC,@,PHI,L,5,6,None,45-42,3, 16.0,Brennan,Lavender,None,1:55,D,None,-,None
+"Tuesday, Jul 22",boxscore,CHC,@,PHI,L,6,8,None,45-43,3, 16.0,Mayer,Reulbach,None,2:04,D,None,--,1913-05-17 (Rain)
+"Wednesday, Jul 23",boxscore,CHC,@,PHI,W,13,8,None,46-43,3, 16.0,Humphries,Chalmers,None,2:15,D,None,+,None
+"Saturday, Jul 26",boxscore,CHC,None,BSN,L,1,2,None,46-44,3, 16.0,Rudolph,Overall,None,2:15,D,None,-,None
+"Sunday, Jul 27",boxscore,CHC,None,BSN,W,6,5,None,47-44,3, 16.0,Lavender,Hess,Cheney,2:00,D,None,+,None
+"Monday, Jul 28",boxscore,CHC,None,BSN,W,9,4,None,48-44,3, 16.0,Humphries,Tyler,None,1:50,D,None,++,None
+"Tuesday, Jul 29",boxscore,CHC,None,BSN,L,1,9,None,48-45,3, 17.5,Dickson,Overall,None,1:41,D,None,-,None
+"Wednesday, Jul 30",boxscore,CHC,None,NYG,W,5,0,None,49-45,3, 16.5,Cheney,Tesreau,None,1:45,D,None,+,None
+"Thursday, Jul 31",boxscore,CHC,None,NYG,W,5,4,None,50-45,3, 15.5,Cheney,Fromme,None,2:20,D,None,++,None
+"Friday, Aug 1",boxscore,CHC,None,NYG,L,2,5,None,50-46,3, 16.5,Mathewson,Humphries,None,1:50,D,None,-,None
+"Saturday, Aug 2",boxscore,CHC,None,NYG,L,1,2,None,50-47,3, 17.5,Tesreau,Cheney,None,2:15,D,None,--,None
+"Sunday, Aug 3",boxscore,CHC,None,BRO,W,12,5,None,51-47,3, 17.0,Lavender,Ragan,None,1:56,D,None,+,None
+"Monday, Aug 4",boxscore,CHC,None,BRO,L,1,7,None,51-48,3, 18.0,Allen,Moore,None,1:59,D,None,-,None
+"Tuesday, Aug 5",boxscore,CHC,None,BRO,W,13,2,None,52-48,3, 17.0,Pierce,Rucker,None,1:45,D,None,+,None
+"Wednesday, Aug 6",boxscore,CHC,None,BRO,W,4,3,10,53-48,3, 16.0,Cheney,Wagner,None,1:50,D,None,++,None
+"Thursday, Aug 7",boxscore,CHC,None,PHI,W,5,2,None,54-48,3, 16.0,Stack,Seaton,None,1:55,D,None,+++,None
+"Friday, Aug 8",boxscore,CHC,None,PHI,L,3,16,None,54-49,4, 16.0,Alexander,Lavender,Marshall,2:06,D,None,-,None
+"Saturday, Aug 9",boxscore,CHC,None,PHI,W,4,3,None,55-49,3, 16.0,Humphries,Rixey,Cheney,1:50,D,None,+,None
+"Tuesday, Aug 12",boxscore,CHC,@,BSN,L,3,7,None,55-50,4, 18.0,Perdue,Cheney,None,2:10,D,None,-,None
+"Tuesday, Aug 12",boxscore,CHC,@,BSN,L,3,9,None,55-51,4, 18.0,Hess,Stack,None,2:05,D,None,--,1913-07-18 (Rain)
+"Thursday, Aug 14",boxscore,CHC,@,BSN,W,9,7,None,56-51,3, 18.0,Humphries,Tyler,Cheney,2:18,D,None,+,None
+"Thursday, Aug 14",boxscore,CHC,@,BSN,W,5,1,None,57-51,3, 18.0,Pierce,Perdue,None,2:05,D,None,++,1913-08-13 (Rain)
+"Friday, Aug 15",boxscore,CHC,@,BSN,W,14,6,None,58-51,3, 18.0,Lavender,Hess,Cheney,2:15,D,None,+++,None
+"Saturday, Aug 16",boxscore,CHC,@,PHI,W,4,3,None,59-51,3, 16.5,Stack,Mayer,Cheney,2:00,D,None,++++,None
+"Saturday, Aug 16",boxscore,CHC,@,PHI,W,8,3,None,60-51,3, 16.5,Cheney,Rixey,None,1:55,D,None,+++++,1913-07-24 (Rain)
+"Monday, Aug 18",boxscore,CHC,@,PHI,W,10,4,None,61-51,3, 17.0,Humphries,Alexander,None,2:10,D,None,++++++,None
+"Tuesday, Aug 19",boxscore,CHC,@,PHI,W,3,2,None,62-51,3, 16.0,Pierce,Seaton,None,1:50,D,None,+++++++,None
+"Wednesday, Aug 20",boxscore,CHC,@,PHI,L,1,3,None,62-52,3, 16.0,Brennan,Lavender,None,1:25,D,None,-,None
+"Thursday, Aug 21",boxscore,CHC,@,NYG,L,2,8,None,62-53,3, 17.0,Mathewson,Stack,None,1:45,D,None,--,None
+"Friday, Aug 22",boxscore,CHC,@,NYG,L,1,8,None,62-54,3, 18.0,Tesreau,Cheney,None,1:50,D,None,---,None
+"Saturday, Aug 23",boxscore,CHC,@,NYG,L,2,3,None,62-55,4, 19.0,Marquard,Smith,None,1:54,D,None,----,None
+"Monday, Aug 25",boxscore,CHC,@,BRO,W,5,4,None,63-55,3, 19.0,Lavender,Yingling,None,1:56,D,None,+,None
+"Tuesday, Aug 26",boxscore,CHC,@,BRO,W,6,3,None,64-55,3, 19.0,Pierce,Ragan,None,1:54,D,None,++,None
+"Wednesday, Aug 27",boxscore,CHC,@,BRO,W,3,0,None,65-55,3, 18.0,Vaughn,Reulbach,None,1:50,D,None,+++,None
+"Friday, Aug 29",boxscore,CHC,@,PIT,W,6,1,None,66-55,3, 16.5,Cheney,McQuillan,None,1:46,D,None,++++,None
+"Saturday, Aug 30",boxscore,CHC,@,PIT,L,1,3,None,66-56,3, 16.5,Robinson,Smith,None,1:42,D,None,-,None
+"Sunday, Aug 31",boxscore,CHC,None,PIT,W,10,0,None,67-56,3, 16.0,Humphries,O'Toole,None,1:45,D,None,+,None
+"Monday, Sep 1",boxscore,CHC,@,STL,W,2,1,None,68-56,3, 16.5,Cheney,Sallee,None,1:55,D,None,++,None
+"Monday, Sep 1",boxscore,CHC,@,STL,T,2,2,8,68-56,3, 16.5,None,None,None,2:00,D,None,++,None
+"Tuesday, Sep 2",boxscore,CHC,@,STL,W,5,3,None,69-56,3, 15.0,Moore,Perritt,Lavender,1:50,D,None,+++,None
+"Tuesday, Sep 2",boxscore,CHC,@,STL,W,6,1,None,70-56,3, 15.0,Vaughn,Griner,None,2:00,D,None,++++,1913-06-23 (Rain)
+"Wednesday, Sep 3",boxscore,CHC,@,STL,W,7,2,None,71-56,3, 14.0,Watson,Trekell,None,1:45,D,None,+++++,None
+"Friday, Sep 5",boxscore,CHC,None,CIN,L,4,9,None,71-57,3, 15.0,Packard,Cheney,None,2:00,D,None,-,None
+"Saturday, Sep 6",boxscore,CHC,None,CIN,W,5,3,None,72-57,3, 14.0,Humphries,Johnson,Lavender,2:00,D,None,+,None
+"Sunday, Sep 7",boxscore,CHC,None,STL,W,4,1,None,73-57,3, 13.0,Smith,Sallee,Cheney,1:30,D,None,++,None
+"Sunday, Sep 7",boxscore,CHC,None,STL,W,7,1,None,74-57,3, 13.0,Pierce,Griner,None,1:45,D,None,+++,1913-05-26 (Rain)
+"Monday, Sep 8",boxscore,CHC,None,STL,W,5,3,None,75-57,3, 13.0,Vaughn,Perritt,None,1:30,D,None,++++,None
+"Tuesday, Sep 9",boxscore,CHC,None,STL,W,4,0,None,76-57,3, 12.5,Stack,Niehaus,None,1:38,D,None,+++++,None
+"Wednesday, Sep 10",boxscore,CHC,None,BRO,L,1,3,None,76-58,3, 13.5,Rucker,Cheney,None,1:40,D,None,-,None
+"Thursday, Sep 11",boxscore,CHC,None,BRO,L,5,6,None,76-59,3, 14.5,Reulbach,Pierce,None,1:38,D,None,--,None
+"Saturday, Sep 13",boxscore,CHC,None,BRO,W,4,0,None,77-59,3, 14.0,Vaughn,Allen,None,1:48,D,None,+,None
+"Sunday, Sep 14",boxscore,CHC,None,NYG,W,7,0,None,78-59,3, 13.0,Cheney,Marquard,None,2:00,D,None,++,None
+"Monday, Sep 15",boxscore,CHC,None,NYG,L,3,4,13,78-60,3, 14.0,Tesreau,Lavender,None,2:30,D,None,-,None
+"Thursday, Sep 18",boxscore,CHC,None,BSN,W,3,0,None,79-60,3, 14.0,Pierce,Tyler,None,1:40,D,None,+,None
+"Thursday, Sep 18",boxscore,CHC,None,BSN,L,0,3,None,79-61,3, 14.0,Hess,Vaughn,None,1:30,D,None,-,1913-09-17 (Wet grounds)
+"Friday, Sep 19",boxscore,CHC,None,BSN,W,6,1,None,80-61,3, 13.5,Cheney,Perdue,None,1:55,D,None,+,None
+"Sunday, Sep 21",boxscore,CHC,None,PHI,W,8,7,11,81-61,3, 12.5,Lavender,Seaton,None,2:25,D,None,++,None
+"Sunday, Sep 21",boxscore,CHC,None,PHI,W,3,2,8,82-61,3, 12.5,Smith,Brennan,None,1:25,D,None,+++,1913-08-10 (Rain)
+"Monday, Sep 22",boxscore,CHC,None,PHI,L,0,2,None,82-62,3, 12.5,Alexander,Humphries,None,1:28,D,None,-,None
+"Monday, Sep 22",boxscore,CHC,None,PHI,W,5,1,None,83-62,3, 12.5,Pierce,Chalmers,None,1:40,D,None,+,1913-09-20 (Rain)
+"Wednesday, Sep 24",boxscore,CHC,@,PIT,L,2,3,None,83-63,3, 13.5,Hendrix,Cheney,None,1:36,D,None,-,None
+"Thursday, Sep 25",boxscore,CHC,@,PIT,W,7,1,None,84-63,3, 13.5,Humphries,McQuillan,None,1:45,D,None,+,None
+"Friday, Sep 26",boxscore,CHC,@,PIT,L,1,6,None,84-64,3, 14.5,Adams,Smith,None,1:40,D,None,-,1913-05-30 (Rain)
+"Saturday, Sep 27",boxscore,CHC,@,CIN,W,11,2,None,85-64,3, 13.5,Vaughn,Johnson,None,2:07,D,None,+,None
+"Sunday, Sep 28",boxscore,CHC,@,CIN,L,0,2,None,85-65,3, 13.5,Packard,Cheney,None,1:50,D,None,-,None
+"Sunday, Sep 28",boxscore,CHC,@,CIN,W,5,3,7,86-65,3, 13.5,Stack,Rowan,None,1:37,D,None,+,None
+"Saturday, Oct 4",boxscore,CHC,None,PIT,W,3,1,None,87-65,3, 14.0,Lavender,Hendrix,None,1:53,D,None,++,None
+"Sunday, Oct 5",boxscore,CHC,None,PIT,W,5,1,None,88-65,3, 13.5,Zabel,O'Toole,Stack,1:43,D,None,+++,None

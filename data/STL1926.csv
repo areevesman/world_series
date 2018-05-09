@@ -1,0 +1,156 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 14",boxscore,STL,None,PIT,L,3,10,None,1-1,2, 1.0,Kremer,Bell,None,2:17,D,None,-,None
+"Thursday, Apr 15",boxscore,STL,None,PIT,W,2,0,None,2-1,2, 1.0,Keen,Morrison,None,1:39,D,None,+,None
+"Friday, Apr 16",boxscore,STL,None,PIT,W,3,2,None,3-1,1, Tied,Sothoron,Sheehan,None,2:05,D,None,++,None
+"Saturday, Apr 17",boxscore,STL,None,CHC,W,3,2,None,4-1,1, Tied,Sherdel,Kaufmann,None,1:49,D,None,+++,None
+"Sunday, Apr 18",boxscore,STL,None,CHC,W,10,5,None,5-1,1,up 0.5,Rhem,Blake,None,2:04,D,None,++++,None
+"Monday, Apr 19",boxscore,STL,None,CHC,L,4,5,14,5-2,2, 0.5,Jones,Huntzinger,None,3:00,D,None,-,None
+"Tuesday, Apr 20",boxscore,STL,None,CHC,L,0,7,None,5-3,3, 1.0,Cooper,Reinhart,None,1:55,D,None,--,None
+"Thursday, Apr 22",boxscore,STL,@,PIT,W,5,3,10,6-3,2, 1.0,Keen,Morrison,None,2:03,D,None,+,None
+"Friday, Apr 23",boxscore,STL,@,PIT,L,2,3,None,6-4,2, 2.0,Aldridge,Johnson,None,1:47,D,None,-,None
+"Saturday, Apr 24",boxscore,STL,@,PIT,W,9,3,None,7-4,2, 1.0,Rhem,Kremer,None,1:48,D,None,+,None
+"Sunday, Apr 25",boxscore,STL,@,CIN,L,0,4,None,7-5,2, 1.0,Lucas,Sherdel,None,1:40,D,"5,385",-,None
+"Monday, Apr 26",boxscore,STL,@,CIN,L,2,3,10,7-6,4, 1.0,May,Huntzinger,None,1:47,D,"2,115",--,None
+"Wednesday, Apr 28",boxscore,STL,@,CIN,W,5,3,None,8-6,2, 1.5,Keen,May,None,2:12,D,"1,247",+,None
+"Thursday, Apr 29",boxscore,STL,@,CHC,L,5,6,None,8-7,4, 1.5,Root,Mails,None,2:05,D,None,-,None
+"Friday, Apr 30",boxscore,STL,@,CHC,L,9,10,11,8-8,5, 2.0,Jones,Reinhart,None,3:01,D,None,--,None
+"Saturday, May 1",boxscore,STL,@,CHC,L,8,11,None,8-9,5, 2.0,Piercy,Rhem,Bush,2:12,D,"20,000",---,None
+"Sunday, May 2",boxscore,STL,@,CHC,L,5,6,None,8-10,6, 3.0,Alexander,Sherdel,None,1:43,D,None,----,None
+"Monday, May 3",boxscore,STL,None,CIN,L,6,9,None,8-11,6, 4.0,Rixey,Keen,Mays,2:04,D,None,-----,None
+"Tuesday, May 4",boxscore,STL,None,CIN,W,3,2,None,9-11,6, 4.0,Bell,Luque,None,1:41,D,None,+,None
+"Wednesday, May 5",boxscore,STL,None,CIN,L,1,6,None,9-12,7, 4.5,Lucas,Johnson,None,1:56,D,None,-,None
+"Thursday, May 6",boxscore,STL,None,BRO,W,3,1,None,10-12,5, 3.5,Rhem,Vance,None,1:46,D,"3,000",+,None
+"Friday, May 7",boxscore,STL,None,BRO,L,1,7,None,10-13,6, 4.5,Grimes,Sherdel,None,1:38,D,None,-,None
+"Saturday, May 8",boxscore,STL,None,BRO,L,3,5,None,10-14,6, 5.5,McWeeny,Reinhart,None,None,D,None,--,None
+"Sunday, May 9",boxscore,STL,None,BRO,L,1,3,None,10-15,7, 6.5,McGraw,Hallahan,None,2:19,D,None,---,None
+"Monday, May 10",boxscore,STL,None,NYG,W,5,4,None,11-15,7, 5.5,Keen,Wisner,None,1:49,D,None,+,None
+"Tuesday, May 11",boxscore,STL,None,NYG,W,6,5,None,12-15,6, 5.5,Rhem,McQuillan,Haines,2:07,D,None,++,None
+"Wednesday, May 12",boxscore,STL,None,NYG,L,1,2,None,12-16,6, 6.5,Ring,Sherdel,None,None,D,None,-,None
+"Thursday, May 13",boxscore,STL,None,NYG,L,1,12,None,12-17,7, 7.0,Barnes,Bell,None,2:30,D,"1,500",--,None
+"Saturday, May 15",boxscore,STL,None,BSN,W,12,7,None,13-17,6, 7.0,Keen,Genewich,None,1:58,D,None,+,None
+"Sunday, May 16",boxscore,STL,None,BSN,W,13,2,None,14-17,5, 7.0,Rhem,Wertz,None,1:51,D,None,++,None
+"Monday, May 17",boxscore,STL,None,BSN,W,8,5,None,15-17,5, 6.0,Sherdel,Benton,None,1:49,D,None,+++,None
+"Wednesday, May 19",boxscore,STL,None,PHI,L,2,6,None,15-18,5, 7.0,Carlson,Haines,None,1:51,D,None,-,None
+"Thursday, May 20",boxscore,STL,None,PHI,W,4,1,None,16-18,5, 7.0,Keen,Knight,None,1:32,D,None,+,None
+"Friday, May 21",boxscore,STL,None,PHI,W,12,4,None,17-18,5, 7.0,Rhem,Willoughby,None,1:50,D,None,++,None
+"Saturday, May 22",boxscore,STL,None,PHI,W,9,2,None,18-18,5, 7.0,Sherdel,Maun,None,None,D,None,+++,None
+"Sunday, May 23",boxscore,STL,None,PHI,L,5,7,None,18-19,5, 7.0,Carlson,Huntzinger,None,2:12,D,"12,000",-,None
+"Monday, May 24",boxscore,STL,None,CIN,W,11,6,None,19-19,5, 6.0,Haines,Mays,Bell,2:22,D,None,+,None
+"Tuesday, May 25",boxscore,STL,None,CIN,W,9,7,None,20-19,5, 5.0,Keen,Luque,None,2:09,D,None,++,None
+"Wednesday, May 26",boxscore,STL,None,CIN,W,8,5,None,21-19,4, 4.0,Dyer,May,None,2:00,D,None,+++,None
+"Thursday, May 27",boxscore,STL,@,CIN,L,3,4,None,21-20,5, 6.0,Donohue,Sherdel,None,1:45,D,None,-,None
+"Thursday, May 27",boxscore,STL,@,CIN,L,1,2,None,21-21,5, 6.0,Mays,Johnson,None,2:05,D,"7,886",--,1926-04-27 (Rain)
+"Friday, May 28",boxscore,STL,@,CIN,L,4,12,None,21-22,5, 7.0,Rixey,Hallahan,None,2:41,D,"3,820",---,None
+"Saturday, May 29",boxscore,STL,@,CIN,L,1,3,None,21-23,5, 8.0,May,Keen,None,1:48,D,"6,660",----,None
+"Sunday, May 30",boxscore,STL,@,CHC,W,5,2,None,22-23,5, 7.0,Rhem,Cooper,None,1:43,D,None,+,None
+"Monday, May 31",boxscore,STL,@,CHC,W,5,3,None,23-23,5, 7.0,Bell,Bush,None,2:01,D,None,++,None
+"Monday, May 31",boxscore,STL,@,CHC,L,7,8,None,23-24,5, 7.0,Root,Hallahan,Blake,2:21,D,"35,000",-,None
+"Tuesday, Jun 1",boxscore,STL,@,CHC,L,9,10,None,23-25,6, 7.5,Piercy,Sothoron,None,2:11,D,None,--,None
+"Wednesday, Jun 2",boxscore,STL,@,CHC,W,14,6,None,24-25,5, 7.0,Haines,Milstead,None,2:11,D,None,+,None
+"Saturday, Jun 5",boxscore,STL,@,PHI,W,4,0,None,25-25,4, 4.5,Rhem,Knight,None,None,D,None,++,None
+"Saturday, Jun 5",boxscore,STL,@,PHI,W,7,4,None,26-25,4, 4.5,Bell,Mitchell,None,3:20,D,None,+++,1926-06-04 (Rain)
+"Wednesday, Jun 9",boxscore,STL,@,NYG,W,4,2,None,27-25,4, 3.0,Sherdel,Ring,None,1:41,D,None,++++,None
+"Thursday, Jun 10",boxscore,STL,@,NYG,W,3,2,None,28-25,3, 3.0,Rhem,McQuillan,None,1:26,D,None,+++++,None
+"Friday, Jun 11",boxscore,STL,@,NYG,W,10,2,None,29-25,3, 3.0,Keen,Fitzsimmons,None,2:00,D,None,++++++,None
+"Monday, Jun 14",boxscore,STL,@,BRO,L,5,8,None,29-26,3, 2.5,McGraw,Bell,None,2:00,D,None,-,None
+"Tuesday, Jun 15",boxscore,STL,@,BRO,W,4,0,None,30-26,3, 1.5,Sherdel,Vance,None,1:55,D,None,+,None
+"Thursday, Jun 17",boxscore,STL,@,BSN,W,4,2,None,31-26,2, 0.5,Rhem,Smith,None,2:01,D,None,++,None
+"Thursday, Jun 17",boxscore,STL,@,BSN,W,6,2,None,32-26,2, 0.5,Keen,Graham,None,1:52,D,"25,000",+++,None
+"Saturday, Jun 19",boxscore,STL,@,BSN,W,4,0,None,33-26,2, 1.0,Haines,Benton,None,1:45,D,None,++++,None
+"Saturday, Jun 19",boxscore,STL,@,BSN,W,3,2,None,34-26,2, 1.0,Bell,Genewich,None,None,D,None,+++++,1926-06-18 (Rain)
+"Sunday, Jun 20",boxscore,STL,@,BRO,W,9,0,None,35-26,2, 0.5,Sherdel,McGraw,None,1:35,D,None,++++++,None
+"Monday, Jun 21",boxscore,STL,@,PIT,L,11,13,None,35-27,3, 1.5,Oldham,Huntzinger,Kremer,2:28,D,None,-,1926-09-08 (Schedule change)
+"Tuesday, Jun 22",boxscore,STL,None,PIT,L,1,3,None,35-28,3, 2.5,Meadows,Keen,None,1:35,D,None,--,None
+"Wednesday, Jun 23",boxscore,STL,None,PIT,W,6,2,None,36-28,3, 1.5,Haines,Songer,None,1:48,D,None,+,None
+"Thursday, Jun 24",boxscore,STL,None,PIT,T,3,3,None,36-28,3, 1.5,None,None,None,1:38,D,None,+,None
+"Saturday, Jun 26",boxscore,STL,None,CHC,W,8,7,None,37-28,2, 2.0,Hallahan,Root,Haines,2:21,D,None,++,None
+"Sunday, Jun 27",boxscore,STL,None,CHC,W,3,2,10,38-28,2, 2.5,Alexander,Osborn,None,1:48,D,"37,000",+++,None
+"Sunday, Jun 27",boxscore,STL,None,CHC,L,0,5,None,38-29,2, 2.5,Blake,Bell,None,2:01,D,None,-,1926-06-25 (Rain)
+"Monday, Jun 28",boxscore,STL,None,CHC,L,3,11,None,38-30,2, 3.5,Root,Keen,None,1:55,D,None,--,None
+"Wednesday, Jun 30",boxscore,STL,@,PIT,W,6,2,None,39-30,2, 3.5,Haines,Meadows,None,1:36,D,None,+,None
+"Thursday, Jul 1",boxscore,STL,@,PIT,L,3,7,None,39-31,2, 3.5,Songer,Rhem,Adams,1:57,D,None,-,None
+"Friday, Jul 2",boxscore,STL,@,PIT,L,2,3,None,39-32,2, 4.5,Kremer,Alexander,None,1:46,D,None,--,None
+"Saturday, Jul 3",boxscore,STL,@,PIT,L,3,12,None,39-33,3, 4.0,Aldridge,Bell,None,1:49,D,"12,000",---,None
+"Sunday, Jul 4",boxscore,STL,None,CIN,L,2,7,None,39-34,3, 5.0,May,Sherdel,None,2:04,D,"18,000",----,None
+"Monday, Jul 5",boxscore,STL,None,CIN,L,0,4,None,39-35,3, 5.0,Donohue,Rhem,None,1:35,D,None,-----,None
+"Monday, Jul 5",boxscore,STL,None,CIN,W,7,5,None,40-35,3, 5.0,Haines,Lucas,None,2:02,D,None,+,None
+"Tuesday, Jul 6",boxscore,STL,None,CIN,L,2,5,11,40-36,3, 6.0,Mays,Alexander,None,1:42,D,None,-,None
+"Wednesday, Jul 7",boxscore,STL,None,CIN,W,11,2,None,41-36,3, 5.0,Reinhart,Luque,None,2:02,D,None,+,None
+"Friday, Jul 9",boxscore,STL,None,BSN,W,2,1,None,42-36,3, 3.5,Sherdel,Genewich,None,1:32,D,None,++,None
+"Saturday, Jul 10",boxscore,STL,None,BSN,W,18,6,None,43-36,3, 2.5,Haines,Smith,None,2:07,D,None,+++,None
+"Sunday, Jul 11",boxscore,STL,None,BSN,W,7,2,None,44-36,3, 2.0,Alexander,Hearn,None,1:33,D,None,++++,None
+"Sunday, Jul 11",boxscore,STL,None,BSN,L,5,19,None,44-37,3, 2.0,Goldsmith,Rhem,None,2:06,D,"25,000",-,1926-05-18 (Rain)
+"Monday, Jul 12",boxscore,STL,None,BSN,L,6,8,None,44-38,3, 3.0,Mogridge,Keen,Smith,1:52,D,None,--,None
+"Tuesday, Jul 13",boxscore,STL,None,BRO,W,12,10,None,45-38,3, 3.0,Sherdel,McGraw,None,1:55,D,"3,500",+,None
+"Wednesday, Jul 14",boxscore,STL,None,BRO,L,2,5,None,45-39,3, 4.0,McWeeny,Haines,None,1:52,D,"25,000",-,None
+"Thursday, Jul 15",boxscore,STL,None,BRO,W,11,5,None,46-39,3, 3.0,Reinhart,Petty,None,2:09,D,"3,000",+,None
+"Friday, Jul 16",boxscore,STL,None,BRO,L,7,8,None,46-40,3, 3.5,McWeeny,Bell,None,2:30,D,None,-,None
+"Saturday, Jul 17",boxscore,STL,None,PHI,W,13,5,None,47-40,3, 2.5,Rhem,Ulrich,None,None,D,None,+,None
+"Sunday, Jul 18",boxscore,STL,None,PHI,W,9,7,None,48-40,2, 1.5,Sothoron,Dean,None,2:10,D,None,++,None
+"Monday, Jul 19",boxscore,STL,None,PHI,L,3,4,10,48-41,3, 2.5,Willoughby,Keen,None,2:17,D,None,-,None
+"Thursday, Jul 22",boxscore,STL,None,NYG,L,3,5,None,48-42,3, 4.5,Barnes,Alexander,None,1:50,D,None,--,None
+"Friday, Jul 23",boxscore,STL,None,NYG,W,6,1,None,49-42,3, 3.5,Sherdel,McQuillan,None,1:32,D,None,+,None
+"Saturday, Jul 24",boxscore,STL,None,NYG,L,3,5,11,49-43,3, 3.5,Scott,Rhem,None,2:18,D,None,-,None
+"Sunday, Jul 25",boxscore,STL,None,NYG,W,6,5,11,50-43,3, 2.5,Reinhart,McQuillan,None,2:20,D,"25,000",+,None
+"Tuesday, Jul 27",boxscore,STL,@,PHI,W,9,5,None,51-43,3, 3.0,Alexander,Knight,None,None,D,None,++,None
+"Wednesday, Jul 28",boxscore,STL,@,PHI,L,3,6,None,51-44,3, 3.5,Dean,Sherdel,None,None,D,None,-,None
+"Wednesday, Jul 28",boxscore,STL,@,PHI,W,5,4,None,52-44,3, 3.5,Keen,Willoughby,None,2:33,D,None,+,1926-06-07 (Rain)
+"Friday, Jul 30",boxscore,STL,@,NYG,W,5,2,None,53-44,3, 2.5,Rhem,Fitzsimmons,None,1:55,D,None,++,None
+"Saturday, Jul 31",boxscore,STL,@,NYG,L,6,8,None,53-45,3, 4.0,Scott,Sothoron,None,2:17,D,None,-,None
+"Saturday, Jul 31",boxscore,STL,@,NYG,L,1,6,None,53-46,3, 4.0,Barnes,Reinhart,Davies,1:45,D,None,--,1926-09-23 (Boxing match (Dempsey-Tunney))
+"Sunday, Aug 1",boxscore,STL,@,NYG,L,2,7,None,53-47,3, 4.5,McQuillan,Alexander,None,1:30,D,"20,000",---,None
+"Monday, Aug 2",boxscore,STL,@,NYG,L,2,4,None,53-48,3, 4.5,Ring,Keen,Scott,2:05,D,"7,500",----,None
+"Wednesday, Aug 4",boxscore,STL,@,BRO,W,8,4,None,54-48,3, 4.5,Sherdel,Grimes,None,2:04,D,None,+,None
+"Thursday, Aug 5",boxscore,STL,@,BRO,W,11,9,10,55-48,3, 4.5,Bell,McGraw,Alexander,2:40,D,None,++,None
+"Friday, Aug 6",boxscore,STL,@,BRO,W,7,3,None,56-48,3, 4.5,Reinhart,McWeeny,None,2:12,D,None,+++,None
+"Saturday, Aug 7",boxscore,STL,@,BRO,W,6,3,None,57-48,3, 2.5,Bell,Vance,None,2:22,D,None,++++,None
+"Saturday, Aug 7",boxscore,STL,@,BRO,W,3,0,None,58-48,3, 2.5,Alexander,Grimes,None,1:27,D,None,+++++,1926-06-16 (Cold)
+"Sunday, Aug 8",boxscore,STL,@,BRO,W,3,2,10,59-48,2, 2.0,Sherdel,Barnes,None,2:15,D,None,++++++,None
+"Monday, Aug 9",boxscore,STL,@,BSN,L,0,5,None,59-49,2, 3.0,Benton,Keen,None,None,D,None,-,None
+"Tuesday, Aug 10",boxscore,STL,@,BSN,W,3,1,None,60-49,2, 3.0,Rhem,Goldsmith,None,None,D,None,+,None
+"Wednesday, Aug 11",boxscore,STL,@,BSN,W,2,0,None,61-49,2, 2.0,Haines,Wertz,None,None,D,None,++,None
+"Saturday, Aug 14",boxscore,STL,None,CHC,L,2,3,None,61-50,2, 2.5,Blake,Alexander,None,1:48,D,"17,000",-,None
+"Sunday, Aug 15",boxscore,STL,None,CHC,W,7,2,None,62-50,2, 2.0,Rhem,Root,None,1:37,D,None,+,None
+"Monday, Aug 16",boxscore,STL,None,CHC,W,5,4,None,63-50,2, 1.5,Haines,Piercy,None,None,D,None,++,None
+"Tuesday, Aug 17",boxscore,STL,None,BRO,W,8,7,None,64-50,2, 1.0,Alexander,McWeeny,None,2:19,D,"3,500",+++,None
+"Wednesday, Aug 18",boxscore,STL,None,BRO,W,6,2,None,65-50,2, 0.5,Reinhart,McGraw,None,1:52,D,None,++++,None
+"Thursday, Aug 19",boxscore,STL,None,BRO,W,6,2,None,66-50,1, Tied,Sherdel,Barnes,None,1:59,D,None,+++++,None
+"Friday, Aug 20",boxscore,STL,None,NYG,W,6,2,None,67-50,1,up 0.5,Rhem,Fitzsimmons,None,1:54,D,None,++++++,None
+"Saturday, Aug 21",boxscore,STL,None,NYG,W,3,1,None,68-50,1, Tied,Alexander,Ring,None,1:29,D,None,+++++++,None
+"Sunday, Aug 22",boxscore,STL,None,NYG,W,4,2,None,69-50,1,up 0.5,Haines,Barnes,None,1:33,D,None,++++++++,None
+"Tuesday, Aug 24",boxscore,STL,None,BSN,L,1,2,None,69-51,1, Tied,Benton,Sherdel,None,None,D,None,-,None
+"Tuesday, Aug 24",boxscore,STL,None,BSN,W,6,5,None,70-51,1, Tied,Reinhart,Smith,Alexander,1:56,D,None,+,1926-08-23 (Rain)
+"Wednesday, Aug 25",boxscore,STL,None,BSN,W,4,3,11,71-51,1,up 1.0,Alexander,Mogridge,None,2:15,D,None,++,None
+"Thursday, Aug 26",boxscore,STL,None,PHI,L,2,3,None,71-52,1, Tied,Dean,Haines,None,1:44,D,None,-,None
+"Friday, Aug 27",boxscore,STL,None,PHI,L,7,9,None,71-53,3, 1.0,Ulrich,Sherdel,None,2:16,D,None,--,None
+"Saturday, Aug 28",boxscore,STL,None,PHI,W,9,3,None,72-53,3, 1.0,Reinhart,Pierce,None,1:36,D,None,+,None
+"Sunday, Aug 29",boxscore,STL,None,PIT,T,2,2,10,72-53,3, 1.0,None,None,None,1:54,D,"40,000",+,None
+"Monday, Aug 30",boxscore,STL,None,PIT,L,0,3,None,72-54,3, 1.0,Kremer,Rhem,None,1:46,D,None,-,None
+"Monday, Aug 30",boxscore,STL,None,PIT,W,5,3,None,73-54,3, 1.0,Haines,Bush,None,2:05,D,None,+,None
+"Tuesday, Aug 31",boxscore,STL,None,PIT,W,6,1,None,74-54,1,up 0.5,Sherdel,Meadows,None,1:37,D,None,++,None
+"Tuesday, Aug 31",boxscore,STL,None,PIT,W,2,1,None,75-54,1,up 0.5,Sothoron,Morrison,None,1:40,D,"23,279",+++,None
+"Wednesday, Sep 1",boxscore,STL,None,PIT,W,5,2,None,76-54,1,up 1.0,Reinhart,Kremer,None,2:22,D,"20,000",++++,None
+"Thursday, Sep 2",boxscore,STL,@,CHC,W,2,0,None,77-54,1,up 2.0,Alexander,Root,None,1:30,D,None,+++++,None
+"Thursday, Sep 2",boxscore,STL,@,CHC,W,9,1,None,78-54,1,up 2.0,Rhem,Blake,None,1:50,D,"32,000",++++++,1926-06-29 (Rain)
+"Friday, Sep 3",boxscore,STL,@,CIN,L,2,4,None,78-55,1,up 1.0,Mays,Haines,None,1:48,D,"13,481",-,None
+"Saturday, Sep 4",boxscore,STL,@,CIN,L,0,5,None,78-56,1, Tied,Donohue,Sherdel,None,1:55,D,"18,253",--,None
+"Sunday, Sep 5",boxscore,STL,@,CIN,W,7,3,None,79-56,1,up 1.0,Alexander,Luque,None,1:45,D,"32,713",+,None
+"Monday, Sep 6",boxscore,STL,@,PIT,W,8,1,None,80-56,1,up 1.0,Rhem,Morrison,None,1:48,D,None,++,None
+"Monday, Sep 6",boxscore,STL,@,PIT,L,2,4,None,80-57,1,up 1.0,Kremer,Sothoron,None,1:45,D,None,-,None
+"Tuesday, Sep 7",boxscore,STL,@,PIT,W,8,0,None,81-57,1,up 2.0,Sherdel,Aldridge,None,1:50,D,None,+,None
+"Friday, Sep 10",boxscore,STL,@,BSN,L,3,11,None,81-58,1,up 2.5,Mogridge,Alexander,None,1:58,D,None,-,None
+"Saturday, Sep 11",boxscore,STL,@,BSN,W,2,0,None,82-58,1,up 2.0,Haines,Smith,None,1:37,D,None,+,None
+"Saturday, Sep 11",boxscore,STL,@,BSN,L,3,4,None,82-59,1,up 2.0,Cooney,Rhem,None,1:36,D,None,-,1926-09-14 (Schedule change)
+"Monday, Sep 13",boxscore,STL,@,BSN,L,4,5,14,82-60,1, Tied,Benton,Alexander,None,2:54,D,None,--,None
+"Wednesday, Sep 15",boxscore,STL,@,PHI,W,9,2,None,83-60,2, 0.5,Haines,Willoughby,None,2:00,D,None,+,None
+"Thursday, Sep 16",boxscore,STL,@,PHI,W,23,3,None,84-60,1, Tied,Rhem,Knight,Bell,2:15,D,None,++,None
+"Thursday, Sep 16",boxscore,STL,@,PHI,W,10,2,None,85-60,1, Tied,Reinhart,Mitchell,None,2:00,D,"10,000",+++,1926-06-08 (Rain)
+"Friday, Sep 17",boxscore,STL,@,PHI,W,10,1,None,86-60,1,up 1.0,Sherdel,Willoughby,None,1:35,D,None,++++,None
+"Saturday, Sep 18",boxscore,STL,@,PHI,W,7,3,None,87-60,1,up 1.5,Rhem,Dean,None,1:30,D,None,+++++,None
+"Saturday, Sep 18",boxscore,STL,@,PHI,L,2,3,None,87-61,1,up 1.5,Carlson,Reinhart,None,1:32,D,None,-,1926-07-29 (Rain)
+"Sunday, Sep 19",boxscore,STL,@,NYG,L,5,6,None,87-62,1,up 1.0,McQuillan,Sherdel,None,1:41,D,"35,000",--,None
+"Tuesday, Sep 21",boxscore,STL,@,BRO,L,3,4,None,87-63,1,up 2.0,Petty,Sherdel,None,1:25,D,None,---,None
+"Wednesday, Sep 22",boxscore,STL,@,BRO,W,15,7,None,88-63,1,up 2.5,Reinhart,Barnes,None,1:43,D,None,+,None
+"Friday, Sep 24",boxscore,STL,@,NYG,W,6,4,None,89-63,1,up 3.0,Sherdel,McQuillan,None,1:45,D,None,++,1926-06-12 (Rain)
+"Saturday, Sep 25",boxscore,STL,@,NYG,L,2,12,None,89-64,1,up 3.0,Scott,Keen,None,None,D,"8,000",-,None
+"Sunday, Sep 26",boxscore,STL,@,CIN,L,1,2,None,89-65,1,up 2.0,Donohue,Hallahan,None,1:36,D,"14,462",--,None

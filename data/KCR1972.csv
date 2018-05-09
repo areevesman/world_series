@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Sunday, Apr 16",boxscore,KCR,None,CHW,W,2,1,None,2-0,1,up 1.5,Splittorff,Bahnsen,Dal Canton,2:25,D,None,++,None
+"Sunday, Apr 16",boxscore,KCR,None,CHW,W-wo,4,3,10,3-0,1,up 1.5,Burgmeier,Johnson,None,2:59,D,"11,378",+++,None
+"Tuesday, Apr 18",boxscore,KCR,@,OAK,L,2,3,None,3-1,1,up 0.5,McLain,Hedlund,Fingers,2:18,N,"4,494",-,None
+"Wednesday, Apr 19",boxscore,KCR,@,OAK,L,0,4,None,3-2,2, 1.5,Holtzman,Drago,None,2:08,N,None,--,None
+"Wednesday, Apr 19",boxscore,KCR,@,OAK,L,1,3,None,3-3,2, 1.5,Locker,Dal Canton,Fingers,2:34,N,"5,671",---,None
+"Saturday, Apr 22",boxscore,KCR,@,CHW,L,0,1,None,3-4,5, 2.5,Wood,Splittorff,None,1:58,D,None,----,None
+"Saturday, Apr 22",boxscore,KCR,@,CHW,L,2,3,None,3-5,5, 2.5,Bradley,Nelson,Forster,2:32,D,"7,485",-----,1972-04-21 (Rain)
+"Sunday, Apr 23",boxscore,KCR,@,CHW,L,2,3,None,3-6,5, 2.5,Bahnsen,Hedlund,Johnson,2:30,D,"12,108",------,None
+"Tuesday, Apr 25",boxscore,KCR,None,BAL,W,3,0,None,4-6,5, 2.5,Drago,Dobson,None,2:16,N,"8,640",+,None
+"Wednesday, Apr 26",boxscore,KCR,None,BAL,W,5,3,6,5-6,5, 2.5,Dal Canton,McNally,None,1:46,N,"6,864",++,None
+"Friday, Apr 28",boxscore,KCR,None,CLE,W,4,0,None,6-6,5, 2.0,Splittorff,Perry,None,2:14,N,"7,647",+++,None
+"Saturday, Apr 29",boxscore,KCR,None,CLE,L,1,3,None,6-7,5, 3.0,Wilcox,Montgomery,None,2:06,D,"7,414",-,None
+"Sunday, Apr 30",boxscore,KCR,None,CLE,L,3,5,16,6-8,5, 3.5,Lamb,Fitzmorris,Perry,4:51,D,"17,556",--,None
+"Tuesday, May 2",boxscore,KCR,@,DET,W,6,3,None,7-8,5, 3.0,Rooker,Timmermann,None,2:21,N,"9,874",+,None
+"Wednesday, May 3",boxscore,KCR,@,DET,L,1,6,None,7-9,5, 4.0,Lolich,Splittorff,None,2:04,D,"9,380",-,None
+"Friday, May 5",boxscore,KCR,@,BAL,L,2,3,None,7-10,5, 5.0,Palmer,Burgmeier,Watt,1:49,N,"5,839",--,None
+"Saturday, May 6",boxscore,KCR,@,BAL,W,9,1,None,8-10,5, 5.0,Drago,Cuellar,None,2:21,N,"8,903",+,None
+"Sunday, May 7",boxscore,KCR,@,BAL,L,4,5,None,8-11,5, 6.0,Dobson,Dal Canton,Watt,2:11,D,"12,149",-,None
+"Tuesday, May 9",boxscore,KCR,@,CLE,L,1,2,None,8-12,5, 6.5,Tidrow,Splittorff,Mingori,2:07,N,"2,237",--,None
+"Wednesday, May 10",boxscore,KCR,@,CLE,L,2,7,None,8-13,6, 7.5,Perry,Hedlund,None,2:00,N,"4,596",---,None
+"Saturday, May 13",boxscore,KCR,None,DET,L,1,3,None,8-14,5, 8.0,Lolich,Drago,None,2:42,N,"11,599",----,None
+"Sunday, May 14",boxscore,KCR,None,DET,L,2,3,None,8-15,6, 8.5,Coleman,Fitzmorris,Scherman,2:35,D,"10,326",-----,None
+"Sunday, May 14",boxscore,KCR,None,DET,W,8,4,None,9-15,6, 8.5,Dal Canton,Seelbach,Burgmeier,2:52,D,"10,326",+,1972-05-12 (Rain)
+"Monday, May 15",boxscore,KCR,None,TEX,W,5,4,None,10-15,5, 7.5,Burgmeier,Pina,None,2:35,N,"6,670",++,None
+"Tuesday, May 16",boxscore,KCR,None,TEX,W,5,0,None,11-15,4, 6.5,Rooker,Hand,None,2:19,N,"6,872",+++,None
+"Wednesday, May 17",boxscore,KCR,None,TEX,L,3,4,18,11-16,5, 7.5,Panther,Abernathy,None,4:56,N,"7,114",-,None
+"Friday, May 19",boxscore,KCR,None,OAK,W,16,1,None,12-16,5, 6.5,Splittorff,Odom,None,2:41,N,"11,364",+,None
+"Saturday, May 20",boxscore,KCR,None,OAK,L,5,8,None,12-17,5, 6.5,Fingers,Fitzmorris,None,2:53,D,"9,559",-,None
+"Sunday, May 21",boxscore,KCR,None,OAK,L,2,5,None,12-18,5, 7.0,Holtzman,Hedlund,Locker,2:47,D,"20,625",--,None
+"Wednesday, May 24",boxscore,KCR,None,MIN,L,0,1,12,12-19,5, 9.0,Kaat,Drago,Granger,3:15,N,"8,381",---,None
+"Thursday, May 25",boxscore,KCR,@,CAL,W,5,2,None,13-19,5, 8.5,Splittorff,May,Nelson,2:24,N,"4,032",+,None
+"Friday, May 26",boxscore,KCR,@,CAL,L,5,10,None,13-20,5, 8.5,Ryan,Rooker,Messersmith,3:12,N,"6,325",-,None
+"Saturday, May 27",boxscore,KCR,@,CAL,L,2,4,None,13-21,5, 9.0,Clark,Murphy,None,2:05,N,"6,972",--,None
+"Sunday, May 28",boxscore,KCR,@,CAL,L,2,4,None,13-22,6, 10.0,Wright,Drago,Fisher,2:10,D,"8,115",---,None
+"Tuesday, May 30",boxscore,KCR,@,MIN,L,2,3,None,13-23,6, 11.0,Perry,Dal Canton,LaRoche,2:17,N,"6,164",----,None
+"Wednesday, May 31",boxscore,KCR,@,MIN,L,2,3,None,13-24,6, 12.0,Blyleven,Rooker,Granger,2:20,N,"7,686",-----,None
+"Thursday, Jun 1",boxscore,KCR,@,MIN,W,5,3,None,14-24,6, 11.5,Fitzmorris,LaRoche,None,2:16,D,"6,807",+,None
+"Friday, Jun 2",boxscore,KCR,None,BOS,W,9,1,None,15-24,6, 10.5,Drago,Krausse,None,2:25,N,"9,240",++,None
+"Saturday, Jun 3",boxscore,KCR,None,BOS,W,10,4,None,16-24,5, 10.5,Murphy,Pattin,Burgmeier,3:00,D,"7,441",+++,None
+"Sunday, Jun 4",boxscore,KCR,None,BOS,W,7,5,None,17-24,5, 11.5,Fitzmorris,Culp,Burgmeier,2:35,D,None,++++,None
+"Sunday, Jun 4",boxscore,KCR,None,BOS,L,0,4,None,17-25,5, 11.5,Curtis,Hedlund,None,1:55,D,"11,920",-,None
+"Tuesday, Jun 6",boxscore,KCR,None,MIL,W,4,2,None,18-25,5, 12.0,Murphy,Brett,Burgmeier,2:25,N,"7,415",+,None
+"Wednesday, Jun 7",boxscore,KCR,None,MIL,W,5,4,None,19-25,5, 12.0,Burgmeier,Sanders,None,2:25,N,"7,216",++,None
+"Thursday, Jun 8",boxscore,KCR,None,MIL,L,3,4,None,19-26,5, 12.5,Parsons,Splittorff,Sanders,2:23,N,"8,170",-,None
+"Friday, Jun 9",boxscore,KCR,None,NYY,W,1,0,None,20-26,5, 12.5,Rooker,Kekich,None,2:05,N,"9,772",+,None
+"Saturday, Jun 10",boxscore,KCR,None,NYY,L,4,8,None,20-27,5, 13.5,Peterson,Murphy,None,2:35,N,"11,282",-,None
+"Sunday, Jun 11",boxscore,KCR,None,NYY,W,1,0,None,21-27,5, 12.5,Drago,Kline,None,2:00,D,"14,417",+,None
+"Tuesday, Jun 13",boxscore,KCR,@,BOS,W,4,2,None,22-27,5, 11.0,Dal Canton,Lee,Burgmeier,2:41,N,"12,121",++,None
+"Wednesday, Jun 14",boxscore,KCR,@,BOS,L,3,11,None,22-28,5, 11.0,Curtis,Rooker,None,2:34,N,"10,696",-,None
+"Thursday, Jun 15",boxscore,KCR,@,BOS,W,13,9,None,23-28,5, 10.5,Murphy,Siebert,Dal Canton,2:50,D,"11,127",+,None
+"Friday, Jun 16",boxscore,KCR,@,MIL,W,3,2,None,24-28,4, 10.5,Drago,Sanders,Burgmeier,2:30,N,"5,471",++,None
+"Saturday, Jun 17",boxscore,KCR,@,MIL,W,6,3,None,25-28,4, 10.5,Splittorff,Parsons,None,2:17,D,"8,722",+++,None
+"Sunday, Jun 18",boxscore,KCR,@,MIL,L,0,3,None,25-29,4, 11.5,Lockwood,Rooker,None,2:07,D,"26,735",-,None
+"Tuesday, Jun 20",boxscore,KCR,@,NYY,L,2,4,None,25-30,4, 13.0,Kekich,Drago,Lyle,2:41,N,"7,806",--,None
+"Friday, Jun 23",boxscore,KCR,None,MIN,W,5,0,None,26-30,4, 11.5,Splittorff,Perry,None,2:10,N,"9,712",+,None
+"Saturday, Jun 24",boxscore,KCR,None,MIN,L,1,4,None,26-31,5, 11.5,Kaat,Rooker,None,2:25,D,"8,916",-,None
+"Sunday, Jun 25",boxscore,KCR,None,MIN,L,3,5,None,26-32,4, 12.5,Blyleven,Drago,Granger,2:25,D,None,--,None
+"Sunday, Jun 25",boxscore,KCR,None,MIN,W,8,3,None,27-32,4, 12.5,Nelson,Woodson,Burgmeier,2:30,D,"14,777",+,None
+"Monday, Jun 26",boxscore,KCR,None,CHW,W,4,1,None,28-32,4, 12.5,Dal Canton,Wood,None,2:10,N,"7,834",++,None
+"Tuesday, Jun 27",boxscore,KCR,None,CHW,W,6,4,None,29-32,4, 12.5,Splittorff,Bahnsen,Nelson,2:15,N,"8,623",+++,None
+"Thursday, Jun 29",boxscore,KCR,@,MIN,W,5,3,None,30-32,4, 11.0,Drago,Blyleven,None,2:20,N,None,++++,None
+"Thursday, Jun 29",boxscore,KCR,@,MIN,W,12,4,None,31-32,4, 11.0,Hedlund,Woodson,Fitzmorris,2:59,N,"12,668",+++++,1972-05-29 (Rain)
+"Friday, Jun 30",boxscore,KCR,@,MIN,L,0,2,None,31-33,4, 11.0,Corbin,Nelson,None,2:02,D,"5,099",-,None
+"Saturday, Jul 1",boxscore,KCR,None,TEX,W-wo,3,2,11,32-33,4, 10.0,Abernathy,Panther,None,3:05,D,"7,430",+,None
+"Sunday, Jul 2",boxscore,KCR,None,TEX,L,5,7,10,32-34,4, 10.5,Pina,Burgmeier,Cox,3:10,D,None,-,None
+"Sunday, Jul 2",boxscore,KCR,None,TEX,W,8,3,None,33-34,4, 10.5,Rooker,Broberg,None,2:05,D,"12,926",+,None
+"Monday, Jul 3",boxscore,KCR,None,TEX,L,1,2,None,33-35,4, 11.5,Paul,Drago,Shellenback,2:30,D,"7,528",-,None
+"Tuesday, Jul 4",boxscore,KCR,None,DET,W,1,0,None,34-35,4, 11.5,Nelson,Slayback,None,2:08,N,"10,762",+,None
+"Wednesday, Jul 5",boxscore,KCR,None,DET,W,8,2,None,35-35,4, 10.5,Splittorff,Lolich,None,2:46,N,"11,297",++,None
+"Thursday, Jul 6",boxscore,KCR,None,DET,L,0,7,None,35-36,4, 10.5,Coleman,Rooker,None,2:27,N,"11,201",-,None
+"Friday, Jul 7",boxscore,KCR,@,CLE,W,6,3,None,36-36,4, 9.5,Drago,Wilcox,None,2:25,N,"7,595",+,None
+"Saturday, Jul 8",boxscore,KCR,@,CLE,L,1,2,None,36-37,4, 10.5,Kilkenny,Nelson,Hennigan,2:29,D,"21,250",-,None
+"Sunday, Jul 9",boxscore,KCR,@,CLE,W,6,4,None,37-37,3, 10.0,Splittorff,Riddleberger,Burgmeier,2:31,D,None,+,None
+"Sunday, Jul 9",boxscore,KCR,@,CLE,W,8,5,None,38-37,3, 10.0,Hedlund,Farmer,Burgmeier,2:29,D,"15,327",++,None
+"Monday, Jul 10",boxscore,KCR,@,BAL,W,3,2,None,39-37,3, 9.0,Wright,Cuellar,None,1:51,N,"7,772",+++,None
+"Tuesday, Jul 11",boxscore,KCR,@,BAL,L-wo,1,2,10,39-38,3, 9.0,Palmer,Drago,None,2:58,N,"12,853",-,None
+"Wednesday, Jul 12",boxscore,KCR,@,BAL,W,11,4,10,40-38,3, 8.0,Abernathy,Jackson,Fitzmorris,3:00,N,"8,335",+,None
+"Thursday, Jul 13",boxscore,KCR,@,DET,L,4,6,None,40-39,4, 8.5,Lolich,Splittorff,None,2:34,N,"17,987",-,None
+"Friday, Jul 14",boxscore,KCR,@,DET,W,1,0,None,41-39,4, 9.0,Dal Canton,Coleman,Wright,2:35,N,"28,327",+,None
+"Saturday, Jul 15",boxscore,KCR,@,DET,L,3,5,None,41-40,4, 10.0,Timmermann,Drago,Scherman,2:25,D,"28,727",-,None
+"Sunday, Jul 16",boxscore,KCR,@,DET,L,0,2,None,41-41,4, 11.0,Slayback,Nelson,None,2:03,D,"38,514",--,None
+"Tuesday, Jul 18",boxscore,KCR,None,CLE,W,6,5,None,42-41,4, 10.0,Burgmeier,Riddleberger,Wright,2:45,N,"10,707",+,None
+"Tuesday, Jul 18",boxscore,KCR,None,CLE,W,11,8,None,43-41,4, 10.0,Rooker,Colbert,Wright,2:35,N,None,++,1972-04-30 (Rain)
+"Wednesday, Jul 19",boxscore,KCR,None,CLE,L,1,6,None,43-42,4, 11.0,Perry,Drago,None,2:18,N,"8,952",-,None
+"Thursday, Jul 20",boxscore,KCR,None,BAL,L,5,8,10,43-43,4, 10.5,Watt,Wright,Harrison,3:00,N,"11,075",--,None
+"Friday, Jul 21",boxscore,KCR,None,BAL,L,6,7,None,43-44,4, 10.5,Dobson,Dal Canton,Jackson,2:50,N,"12,383",---,None
+"Saturday, Jul 22",boxscore,KCR,None,BAL,W,8,5,None,44-44,4, 10.0,Angelini,Harrison,Wright,2:54,N,"16,485",+,None
+"Sunday, Jul 23",boxscore,KCR,None,BAL,L,4,8,None,44-45,4, 11.0,Cuellar,Drago,Jackson,2:32,D,"28,563",-,None
+"Thursday, Jul 27",boxscore,KCR,@,CHW,L,3,7,None,44-46,4, 11.5,Wood,Splittorff,Forster,2:36,D,None,--,None
+"Thursday, Jul 27",boxscore,KCR,@,CHW,W,3,0,None,45-46,4, 11.5,Nelson,Bahnsen,None,2:23,N,"23,079",+,None
+"Friday, Jul 28",boxscore,KCR,@,CHW,L,0,5,None,45-47,4, 11.5,Bradley,Drago,None,2:33,N,"18,902",-,None
+"Saturday, Jul 29",boxscore,KCR,@,CHW,L-wo,3,4,None,45-48,4, 12.5,Forster,Abernathy,None,2:55,D,"7,115",--,None
+"Sunday, Jul 30",boxscore,KCR,@,CAL,L-wo,3,4,11,45-49,4, 12.0,Allen,Fitzmorris,None,3:11,N,"13,966",---,None
+"Monday, Jul 31",boxscore,KCR,@,CAL,W,1,0,None,46-49,4, 12.0,Nelson,Ryan,None,2:16,N,"10,344",+,None
+"Tuesday, Aug 1",boxscore,KCR,@,OAK,L,0,4,None,46-50,4, 13.0,Holtzman,Splittorff,None,1:59,N,"4,216",-,None
+"Wednesday, Aug 2",boxscore,KCR,@,OAK,L,0,5,None,46-51,4, 14.0,Hunter,Drago,None,2:10,N,"4,664",--,None
+"Friday, Aug 4",boxscore,KCR,None,CAL,L,5,6,10,46-52,4, 14.0,Fisher,Abernathy,None,3:18,N,"9,044",---,None
+"Saturday, Aug 5",boxscore,KCR,None,CAL,W-wo,2,1,None,47-52,4, 13.0,Hedlund,Fisher,None,2:27,D,"7,974",+,None
+"Sunday, Aug 6",boxscore,KCR,None,CAL,L,3,4,None,47-53,4, 14.0,Sells,Wright,Messersmith,2:40,D,None,-,None
+"Sunday, Aug 6",boxscore,KCR,None,CAL,L,2,3,None,47-54,4, 14.0,Wright,Splittorff,None,2:31,D,"12,447",--,None
+"Monday, Aug 7",boxscore,KCR,None,OAK,W,4,2,None,48-54,4, 13.0,Drago,Hunter,None,2:23,N,"11,335",+,None
+"Tuesday, Aug 8",boxscore,KCR,None,OAK,W-wo,4,3,None,49-54,4, 12.0,Abernathy,Fingers,None,2:43,N,"13,386",++,None
+"Wednesday, Aug 9",boxscore,KCR,None,OAK,W,5,2,None,50-54,4, 11.0,Hedlund,Blue,Abernathy,2:30,N,"17,877",+++,None
+"Friday, Aug 11",boxscore,KCR,@,TEX,W,2,0,None,51-54,4, 10.5,Nelson,Hand,None,1:57,N,"10,440",++++,None
+"Saturday, Aug 12",boxscore,KCR,@,TEX,L,0,3,7,51-55,4, 10.5,Paul,Splittorff,None,1:35,N,"6,287",-,None
+"Sunday, Aug 13",boxscore,KCR,@,TEX,L,4,13,None,51-56,4, 11.5,Bosman,Drago,Pina,3:20,N,"5,598",--,None
+"Monday, Aug 14",boxscore,KCR,None,NYY,W,3,0,None,52-56,4, 11.5,Dal Canton,Kline,Angelini,2:05,N,"9,377",+,None
+"Tuesday, Aug 15",boxscore,KCR,None,NYY,W-wo,7,6,None,53-56,4, 11.0,Burgmeier,Gardner,None,2:55,N,"10,721",++,None
+"Wednesday, Aug 16",boxscore,KCR,None,NYY,W,3,2,None,54-56,4, 11.0,Nelson,Peterson,None,2:20,N,"11,579",+++,None
+"Friday, Aug 18",boxscore,KCR,None,MIL,L,2,7,None,54-57,4, 12.0,Lonborg,Splittorff,Linzy,2:50,N,"24,762",-,None
+"Saturday, Aug 19",boxscore,KCR,None,MIL,W,2,1,None,55-57,4, 11.0,Drago,Lockwood,Abernathy,2:15,D,"10,182",+,None
+"Sunday, Aug 20",boxscore,KCR,None,MIL,L,1,2,None,55-58,4, 11.0,Colborn,Dal Canton,Linzy,2:35,D,"8,908",-,None
+"Tuesday, Aug 22",boxscore,KCR,None,BOS,L,7,10,None,55-59,4, 12.5,Pattin,Hedlund,Newhauser,2:57,N,"9,058",--,None
+"Wednesday, Aug 23",boxscore,KCR,None,BOS,W,3,0,None,56-59,4, 12.0,Nelson,Siebert,None,2:14,N,"9,380",+,None
+"Friday, Aug 25",boxscore,KCR,@,NYY,L,1,4,None,56-60,4, 12.0,Lyle,Fitzmorris,None,2:27,N,None,-,None
+"Friday, Aug 25",boxscore,KCR,@,NYY,W,5,1,None,57-60,4, 12.0,Jackson,Kekich,Abernathy,2:41,N,"15,466",+,1972-06-21 (Rain)
+"Saturday, Aug 26",boxscore,KCR,@,NYY,W,6,3,None,58-60,4, 11.5,Drago,Gardner,Angelini,2:47,D,"10,670",++,None
+"Sunday, Aug 27",boxscore,KCR,@,NYY,L-wo,6,7,None,58-61,4, 12.0,Lyle,Angelini,None,2:38,D,None,-,None
+"Sunday, Aug 27",boxscore,KCR,@,NYY,L-wo,8,9,16,58-62,4, 12.0,McDaniel,Dal Canton,None,4:50,D,"25,801",--,None
+"Tuesday, Aug 29",boxscore,KCR,@,MIL,W,6,4,None,59-62,4, 12.0,Nelson,Ryerson,None,2:35,N,"5,358",+,None
+"Wednesday, Aug 30",boxscore,KCR,@,MIL,W,6,2,None,60-62,4, 12.0,Splittorff,Lonborg,None,2:22,N,"5,214",++,None
+"Thursday, Aug 31",boxscore,KCR,@,MIL,L,3,7,None,60-63,4, 12.5,Lockwood,Jackson,None,2:25,N,"4,040",-,None
+"Friday, Sep 1",boxscore,KCR,@,BOS,L,0,1,None,60-64,4, 13.5,Pattin,Drago,None,2:33,N,"18,990",--,None
+"Saturday, Sep 2",boxscore,KCR,@,BOS,L,3,5,None,60-65,4, 13.5,Siebert,Hedlund,Bolin,2:41,D,"11,495",---,None
+"Monday, Sep 4",boxscore,KCR,@,TEX,W,4,3,None,61-65,4, 13.5,Nelson,Stanhouse,Abernathy,2:27,N,"3,710",+,None
+"Tuesday, Sep 5",boxscore,KCR,@,TEX,W,7,2,None,62-65,4, 13.0,Splittorff,Hand,None,2:26,N,"3,011",++,None
+"Wednesday, Sep 6",boxscore,KCR,None,CAL,L,1,3,None,62-66,4, 14.0,May,Jackson,None,2:14,N,"5,833",-,None
+"Thursday, Sep 7",boxscore,KCR,None,CAL,W,6,0,None,63-66,4, 13.0,Montgomery,Messersmith,None,2:15,N,"5,561",+,None
+"Friday, Sep 8",boxscore,KCR,None,MIN,W,5,0,None,64-66,4, 12.5,Murphy,Blyleven,None,2:17,N,None,++,None
+"Friday, Sep 8",boxscore,KCR,None,MIN,W,3,2,None,65-66,4, 12.5,Busby,Corbin,None,2:00,N,"7,541",+++,1972-05-23 (Rain)
+"Saturday, Sep 9",boxscore,KCR,None,MIN,L,2,3,13,65-67,4, 12.5,LaRoche,Abernathy,None,3:37,N,"7,851",-,None
+"Sunday, Sep 10",boxscore,KCR,None,MIN,W,3,1,None,66-67,4, 12.5,Drago,Woodson,None,2:24,D,"8,785",+,None
+"Monday, Sep 11",boxscore,KCR,None,CHW,L,1,2,None,66-68,4, 12.0,Bradley,Splittorff,Forster,1:50,N,"6,602",-,None
+"Tuesday, Sep 12",boxscore,KCR,None,CHW,L,0,6,None,66-69,4, 13.0,Bahnsen,Montgomery,Gossage,2:39,N,"6,565",--,None
+"Wednesday, Sep 13",boxscore,KCR,None,CHW,W,6,4,None,67-69,4, 13.0,Hedlund,Forster,None,2:40,N,"6,860",+,None
+"Friday, Sep 15",boxscore,KCR,@,MIN,L,3,4,None,67-70,4, 14.0,Woodson,Nelson,LaRoche,3:01,N,"6,416",-,None
+"Saturday, Sep 16",boxscore,KCR,@,MIN,L,1,11,None,67-71,4, 15.0,Blyleven,Drago,None,2:27,D,"7,241",--,None
+"Sunday, Sep 17",boxscore,KCR,@,MIN,W,10,6,10,68-71,4, 15.0,Angelini,Gebhard,Fitzmorris,3:16,D,"7,275",+,None
+"Tuesday, Sep 19",boxscore,KCR,@,CAL,W,7,2,None,69-71,4, 14.0,Montgomery,Wright,Murphy,2:32,N,"4,046",++,None
+"Wednesday, Sep 20",boxscore,KCR,@,CAL,W,9,2,None,70-71,4, 14.0,Busby,May,None,2:25,N,"4,117",+++,None
+"Thursday, Sep 21",boxscore,KCR,@,CAL,L,2,4,None,70-72,4, 14.5,Ryan,Nelson,None,2:08,N,"4,227",-,None
+"Friday, Sep 22",boxscore,KCR,@,OAK,W,5,3,None,71-72,4, 13.5,Drago,Blue,None,3:02,N,"6,501",+,None
+"Saturday, Sep 23",boxscore,KCR,@,OAK,L-wo,1,2,None,71-73,4, 14.5,Fingers,Splittorff,None,2:15,D,"7,062",-,None
+"Sunday, Sep 24",boxscore,KCR,@,OAK,W,4,2,None,72-73,4, 14.5,Montgomery,Odom,Abernathy,2:33,D,None,+,None
+"Sunday, Sep 24",boxscore,KCR,@,OAK,L-wo,1,2,None,72-74,4, 14.5,Fingers,Murphy,None,2:12,D,"9,881",-,None
+"Tuesday, Sep 26",boxscore,KCR,@,CHW,W,2,1,None,73-74,4, 14.0,Busby,Bahnsen,None,2:24,N,"9,664",+,None
+"Wednesday, Sep 27",boxscore,KCR,@,CHW,W,4,2,None,74-74,4, 14.5,Nelson,Wood,None,2:10,D,"4,752",++,None
+"Thursday, Sep 28",boxscore,KCR,@,BOS,L,1,3,None,74-75,4, 15.5,Curtis,Drago,None,2:10,D,"10,196",-,1972-09-03 (Rain)
+"Friday, Sep 29",boxscore,KCR,None,OAK,W,9,2,None,75-75,4, 14.5,Splittorff,Blue,None,2:10,N,"6,882",+,None
+"Saturday, Sep 30",boxscore,KCR,None,OAK,L,5,10,None,75-76,4, 15.5,Horlen,Montgomery,Fingers,2:25,N,"9,314",-,None
+"Sunday, Oct 1",boxscore,KCR,None,OAK,L,2,4,None,75-77,4, 16.5,Holtzman,Murphy,Locker,2:05,D,"8,726",--,None
+"Tuesday, Oct 3",boxscore,KCR,None,TEX,L,0,3,None,75-78,4, 16.5,Paul,Busby,Gogolewski,2:31,N,"6,075",---,None
+"Wednesday, Oct 4",boxscore,KCR,None,TEX,W,4,0,None,76-78,4, 16.5,Nelson,Stanhouse,None,2:10,N,"7,329",+,None

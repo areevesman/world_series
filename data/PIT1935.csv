@@ -1,0 +1,153 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 17",boxscore,PIT,None,CIN,L,4,7,None,1-1,4, 0.5,Derringer,Bush,None,None,D,None,-,None
+"Thursday, Apr 18",boxscore,PIT,None,CIN,L,4,9,None,1-2,7, 1.0,Frey,Weaver,None,2:50,D,"1,560",--,None
+"Friday, Apr 19",boxscore,PIT,None,STL,W,3,0,None,2-2,4, 1.0,Blanton,Hallahan,None,1:59,D,None,+,None
+"Saturday, Apr 20",boxscore,PIT,None,STL,L,1,4,None,2-3,7, 1.0,Walker,Hoyt,None,1:58,D,None,-,None
+"Sunday, Apr 21",boxscore,PIT,None,STL,L,1,6,None,2-4,8, 2.0,Dean,Bush,None,2:00,D,"28,000",--,None
+"Tuesday, Apr 23",boxscore,PIT,@,CIN,W,4,3,None,3-4,5, 2.0,Weaver,Freitas,Swift,2:39,D,"8,836",+,None
+"Wednesday, Apr 24",boxscore,PIT,@,CIN,W,5,2,None,4-4,4, 2.0,Blanton,Hollingsworth,None,2:33,D,"4,036",++,None
+"Thursday, Apr 25",boxscore,PIT,@,CIN,L,0,6,None,4-5,6, 3.0,Frey,Hoyt,None,2:02,D,"2,590",-,None
+"Friday, Apr 26",boxscore,PIT,@,STL,L,2,3,11,4-6,6, 4.0,Heusser,Swift,None,2:39,D,None,--,None
+"Saturday, Apr 27",boxscore,PIT,@,STL,W,8,5,None,5-6,6, 3.0,Weaver,Hallahan,None,2:17,D,"10,000",+,None
+"Sunday, Apr 28",boxscore,PIT,@,STL,W,3,2,None,6-6,4, 2.5,Blanton,Dean,None,2:07,D,"12,000",++,None
+"Monday, Apr 29",boxscore,PIT,@,CHC,L,11,12,None,6-7,5, 3.0,Kowalik,Salveson,Bryant,2:41,D,None,-,None
+"Tuesday, Apr 30",boxscore,PIT,@,CHC,L,0,3,None,6-8,6, 3.5,Henshaw,Birkofer,None,None,D,None,--,None
+"Friday, May 3",boxscore,PIT,@,BRO,L,1,2,None,6-9,7, 4.5,Mungo,Weaver,None,None,D,None,---,None
+"Saturday, May 4",boxscore,PIT,@,BRO,W,1,0,None,7-9,5, 4.0,Blanton,Zachary,None,1:42,D,None,+,None
+"Sunday, May 5",boxscore,PIT,@,BRO,W,9,2,None,8-9,5, 3.5,Bush,Clark,None,2:00,D,"13,000",++,None
+"Monday, May 6",boxscore,PIT,@,BSN,W,8,6,None,9-9,5, 3.0,Hoyt,Benton,Blanton,None,D,None,+++,None
+"Wednesday, May 8",boxscore,PIT,@,BSN,L,3,12,None,9-10,5, 4.5,Frankhouse,Weaver,None,2:00,D,None,-,None
+"Thursday, May 9",boxscore,PIT,@,NYG,L,1,3,None,9-11,5, 5.5,Hubbell,Blanton,None,None,D,"6,000",--,None
+"Saturday, May 11",boxscore,PIT,@,NYG,W,4,1,None,10-11,5, 5.5,Bush,Schumacher,None,None,D,None,+,None
+"Saturday, May 11",boxscore,PIT,@,NYG,L,0,3,None,10-12,5, 5.5,Fitzsimmons,Hoyt,None,None,D,"40,000",-,1935-05-10 (Rain)
+"Sunday, May 12",boxscore,PIT,@,NYG,L,1,3,None,10-13,5, 6.5,Parmelee,Weaver,None,2:01,D,"20,000",--,None
+"Monday, May 13",boxscore,PIT,@,PHI,W,10,1,None,11-13,5, 5.5,Blanton,Bivin,None,1:56,D,None,+,None
+"Tuesday, May 14",boxscore,PIT,@,PHI,W,8,1,None,12-13,5, 5.0,Birkofer,Walters,None,None,D,"1,500",++,None
+"Wednesday, May 15",boxscore,PIT,@,PHI,W,20,5,None,13-13,5, 4.5,Swift,Jorgens,None,2:19,D,None,+++,None
+"Thursday, May 16",boxscore,PIT,None,BRO,L,0,2,13,13-14,5, 5.0,Zachary,Hoyt,None,None,D,"6,000",-,None
+"Friday, May 17",boxscore,PIT,None,BRO,L,1,7,None,13-15,5, 5.0,Benge,Weaver,None,None,D,None,--,None
+"Saturday, May 18",boxscore,PIT,None,BRO,W,8,2,None,14-15,5, 5.0,Blanton,Mungo,None,None,D,"8,000",+,None
+"Sunday, May 19",boxscore,PIT,None,BRO,W,9,6,None,15-15,5, 5.0,Swift,Eisenstat,Hoyt,2:31,D,"10,000",++,None
+"Monday, May 20",boxscore,PIT,None,NYG,W,11,4,None,16-15,5, 4.0,Lucas,Hubbell,None,None,D,None,+++,None
+"Tuesday, May 21",boxscore,PIT,None,NYG,L,4,9,None,16-16,5, 5.0,Castleman,Hoyt,Smith,None,D,None,-,None
+"Wednesday, May 22",boxscore,PIT,None,NYG,L,2,5,None,16-17,5, 6.0,Parmelee,Blanton,None,None,D,"6,000",--,None
+"Thursday, May 23",boxscore,PIT,None,BSN,W,7,1,None,17-17,5, 5.0,Swift,Cantwell,None,1:30,D,"10,000",+,None
+"Friday, May 24",boxscore,PIT,None,BSN,W,7,6,None,18-17,5, 5.0,Weaver,Brandt,None,2:13,D,None,++,None
+"Saturday, May 25",boxscore,PIT,None,BSN,W,11,7,None,19-17,5, 5.0,Hoyt,Cantwell,None,None,D,None,+++,None
+"Sunday, May 26",boxscore,PIT,None,PHI,W,3,1,None,20-17,4, 5.0,Blanton,Prim,None,2:07,D,"10,000",++++,None
+"Monday, May 27",boxscore,PIT,None,PHI,L,2,4,None,20-18,5, 5.5,Pezzullo,Swift,Moore,2:06,D,None,-,None
+"Tuesday, May 28",boxscore,PIT,None,PHI,W,3,1,None,21-18,4, 5.0,Weaver,Pezzullo,None,1:50,D,None,+,None
+"Thursday, May 30",boxscore,PIT,None,CHC,L,4,6,None,21-19,4, 6.0,Henshaw,Blanton,None,None,D,"40,430",-,None
+"Thursday, May 30",boxscore,PIT,None,CHC,W,4,1,None,22-19,4, 6.0,Lucas,French,None,1:53,D,"40,430",+,None
+"Friday, May 31",boxscore,PIT,@,CIN,W,4,1,None,23-19,3, 6.5,Swift,Hollingsworth,None,2:10,N,"19,429",++,1935-06-01 (Schedule change)
+"Sunday, Jun 2",boxscore,PIT,@,CIN,W,8,0,None,24-19,3, 5.5,Weaver,Derringer,None,1:53,D,"2,973",+++,None
+"Tuesday, Jun 4",boxscore,PIT,None,STL,W,9,5,None,25-19,3, 5.0,Blanton,Dean,None,None,D,"4,000",++++,None
+"Thursday, Jun 6",boxscore,PIT,None,STL,W,2,1,None,26-19,2, 4.5,Bush,Haines,None,1:49,D,None,+++++,None
+"Friday, Jun 7",boxscore,PIT,None,CIN,L,4,13,7,26-20,2, 5.5,Derringer,Weaver,None,2:00,D,"1,110",-,None
+"Saturday, Jun 8",boxscore,PIT,None,CIN,W,14,8,None,27-20,3, 5.0,Hoyt,Brennan,Bush,2:29,D,"5,800",+,None
+"Sunday, Jun 9",boxscore,PIT,None,CIN,W,7,4,None,28-20,3, 5.0,Blanton,Johnson,None,1:51,D,"5,046",++,None
+"Monday, Jun 10",boxscore,PIT,None,CIN,W,14,1,None,29-20,2, 4.5,Swift,Hollingsworth,None,2:12,D,"1,186",+++,None
+"Tuesday, Jun 11",boxscore,PIT,@,BRO,W,4,0,None,30-20,2, 3.0,Bush,Zachary,None,None,D,"3,000",++++,None
+"Wednesday, Jun 12",boxscore,PIT,@,BRO,W,7,3,None,31-20,2, 3.0,Birkofer,Leonard,None,None,D,None,+++++,None
+"Thursday, Jun 13",boxscore,PIT,@,BRO,L,0,3,None,31-21,2, 4.5,Mungo,Blanton,None,None,D,None,-,None
+"Friday, Jun 14",boxscore,PIT,@,BRO,W,1,0,None,32-21,2, 3.5,Swift,Clark,None,None,D,None,+,None
+"Saturday, Jun 15",boxscore,PIT,@,PHI,L,5,6,None,32-22,2, 4.5,Johnson,Blanton,None,2:01,D,None,-,None
+"Sunday, Jun 16",boxscore,PIT,@,PHI,L,4,12,None,32-23,2, 5.5,Pezzullo,Birkofer,None,2:07,D,None,--,None
+"Monday, Jun 17",boxscore,PIT,@,PHI,W,12,5,None,33-23,2, 5.5,Swift,Walters,None,2:00,D,None,+,None
+"Thursday, Jun 20",boxscore,PIT,@,NYG,L,2,6,None,33-24,2, 6.5,Smith,Bush,None,None,D,None,-,None
+"Friday, Jun 21",boxscore,PIT,@,NYG,L,4,11,None,33-25,2, 7.5,Castleman,Lucas,None,None,D,None,--,None
+"Saturday, Jun 22",boxscore,PIT,@,NYG,W,5,4,11,34-25,3, 7.5,Hoyt,Smith,None,None,D,None,+,None
+"Saturday, Jun 22",boxscore,PIT,@,NYG,L,3,7,None,34-26,3, 7.5,Schumacher,Weaver,None,None,D,"10,000",-,1935-06-19 (Rain)
+"Sunday, Jun 23",boxscore,PIT,@,BSN,W,4,3,None,35-26,2, 7.0,Weaver,MacFayden,None,2:20,D,None,+,None
+"Sunday, Jun 23",boxscore,PIT,@,BSN,W,7,4,None,36-26,2, 7.0,Bush,Smith,None,1:50,D,None,++,1935-05-07 (Rain)
+"Tuesday, Jun 25",boxscore,PIT,@,BSN,L,2,7,None,36-27,3, 7.0,MacFayden,Birkofer,None,1:36,D,None,-,None
+"Wednesday, Jun 26",boxscore,PIT,@,BSN,W,4,2,None,37-27,2, 6.5,Bush,Cantwell,None,1:40,D,None,+,None
+"Wednesday, Jun 26",boxscore,PIT,@,BSN,W,5,1,None,38-27,2, 6.5,Swift,Betts,None,1:28,D,None,++,1935-06-24 (Schedule change)
+"Friday, Jun 28",boxscore,PIT,@,CHC,L,0,8,None,38-28,2, 7.5,Henshaw,Weaver,None,1:47,D,None,-,None
+"Saturday, Jun 29",boxscore,PIT,@,CHC,L,0,1,12,38-29,3, 8.0,French,Hoyt,None,2:07,D,None,--,None
+"Saturday, Jun 29",boxscore,PIT,@,CHC,L,1,2,None,38-30,3, 8.0,Warneke,Lucas,None,1:40,D,"17,400",---,1935-05-01 (Cold)
+"Sunday, Jun 30",boxscore,PIT,@,CHC,W,9,7,None,39-30,2, 8.5,Blanton,Root,None,2:07,D,"10,400",+,None
+"Tuesday, Jul 2",boxscore,PIT,@,STL,L,0,7,None,39-31,3, 9.5,Hallahan,Bush,None,1:47,D,None,-,None
+"Thursday, Jul 4",boxscore,PIT,@,CIN,W,9,5,None,40-31,3, 10.0,Hoyt,Frey,None,2:10,D,None,+,None
+"Thursday, Jul 4",boxscore,PIT,@,CIN,L,4,5,None,40-32,3, 10.0,Brennan,Blanton,Freitas,2:04,D,"13,000",-,None
+"Friday, Jul 5",boxscore,PIT,None,CHC,W,4,0,None,41-32,3, 9.0,Lucas,Henshaw,None,None,D,"10,000",+,None
+"Saturday, Jul 6",boxscore,PIT,None,CHC,L,8,10,13,41-33,3, 9.0,Warneke,Swift,None,3:10,D,None,-,None
+"Sunday, Jul 7",boxscore,PIT,None,CHC,L,1,13,None,41-34,4, 10.0,Lee,Blanton,None,1:59,D,None,--,None
+"Wednesday, Jul 10",boxscore,PIT,None,NYG,L,3,10,None,41-35,4, 11.0,Schumacher,Hoyt,None,None,D,None,---,None
+"Thursday, Jul 11",boxscore,PIT,None,NYG,L,2,4,None,41-36,4, 12.0,Parmelee,Lucas,None,None,D,None,----,None
+"Saturday, Jul 13",boxscore,PIT,None,NYG,L,6,7,None,41-37,4, 13.0,Hubbell,Hoyt,None,None,D,None,-----,None
+"Sunday, Jul 14",boxscore,PIT,None,NYG,W,4,2,None,42-37,4, 12.0,Blanton,Smith,None,2:06,D,"12,000",+,None
+"Tuesday, Jul 16",boxscore,PIT,None,BRO,L,3,9,None,42-38,4, 11.5,Zachary,Swift,None,None,D,"2,000",-,None
+"Wednesday, Jul 17",boxscore,PIT,None,BRO,L,4,5,None,42-39,4, 13.0,Clark,Bush,Leonard,2:10,D,None,--,None
+"Wednesday, Jul 17",boxscore,PIT,None,BRO,L,0,5,None,42-40,4, 13.0,Earnshaw,Hoyt,None,None,D,None,---,1935-07-15 (Rain)
+"Thursday, Jul 18",boxscore,PIT,None,BRO,L,3,5,None,42-41,4, 14.0,Benge,Blanton,Leonard,None,D,None,----,None
+"Friday, Jul 19",boxscore,PIT,None,BSN,W,6,5,None,43-41,4, 13.0,Bush,Cantwell,None,1:55,D,None,+,None
+"Saturday, Jul 20",boxscore,PIT,None,BSN,W,14,2,None,44-41,4, 11.5,Brown,Frankhouse,None,2:08,D,None,++,None
+"Saturday, Jul 20",boxscore,PIT,None,BSN,W,6,3,None,45-41,4, 11.5,Weaver,MacFayden,None,2:03,D,None,+++,1935-07-19 (Rain)
+"Sunday, Jul 21",boxscore,PIT,None,BSN,W,7,0,None,46-41,4, 10.0,Swift,Brandt,None,1:40,D,None,++++,None
+"Monday, Jul 22",boxscore,PIT,None,PHI,W,5,4,None,47-41,4, 9.0,Bush,Pezzullo,None,None,D,None,+++++,None
+"Wednesday, Jul 24",boxscore,PIT,None,PHI,W,8,6,None,48-41,4, 8.5,Birkofer,Prim,Bush,2:24,D,None,++++++,None
+"Wednesday, Jul 24",boxscore,PIT,None,PHI,W,4,3,None,49-41,4, 8.5,Brown,Johnson,Hoyt,None,D,None,+++++++,1935-07-23 (Rain)
+"Thursday, Jul 25",boxscore,PIT,None,PHI,W,9,8,None,50-41,4, 9.0,Bush,Davis,None,2:25,D,None,++++++++,None
+"Saturday, Jul 27",boxscore,PIT,None,STL,W,10,4,None,51-41,4, 8.0,Blanton,Collins,None,2:05,D,None,+++++++++,None
+"Sunday, Jul 28",boxscore,PIT,None,STL,L,3,4,None,51-42,4, 9.0,Dean,Bush,None,3:01,D,"36,000",-,None
+"Sunday, Jul 28",boxscore,PIT,None,STL,W,5,4,None,52-42,4, 9.0,Swift,Walker,None,2:06,D,"36,000",+,1935-06-05 (Rain)
+"Monday, Jul 29",boxscore,PIT,None,STL,W,3,2,None,53-42,4, 8.5,Lucas,Hallahan,None,None,D,None,++,None
+"Tuesday, Jul 30",boxscore,PIT,None,CHC,L,6,9,None,53-43,4, 9.0,Lee,Brown,None,1:58,D,None,-,None
+"Wednesday, Jul 31",boxscore,PIT,None,CHC,L,2,4,None,53-44,4, 8.5,Henshaw,Blanton,French,2:04,D,None,--,None
+"Wednesday, Jul 31",boxscore,PIT,None,CHC,W,6,5,11,54-44,4, 8.5,Birkofer,Root,None,2:30,D,None,+,1935-05-29 (Rain)
+"Thursday, Aug 1",boxscore,PIT,None,CHC,W,6,5,None,55-44,4, 8.0,Swift,Warneke,Hoyt,None,D,None,++,None
+"Saturday, Aug 3",boxscore,PIT,@,STL,L,0,6,None,55-45,4, 9.5,Walker,Lucas,None,1:48,D,None,-,None
+"Sunday, Aug 4",boxscore,PIT,@,STL,L,3,4,10,55-46,4, 11.5,Dean,Hoyt,None,2:43,D,"17,000",--,None
+"Sunday, Aug 4",boxscore,PIT,@,STL,L,5,6,None,55-47,4, 11.5,Walker,Swift,None,2:02,D,"17,000",---,1935-07-03 (Schedule change)
+"Tuesday, Aug 6",boxscore,PIT,@,CHC,L,1,2,None,55-48,4, 12.0,Henshaw,Birkofer,None,None,D,"16,000",----,None
+"Wednesday, Aug 7",boxscore,PIT,@,CHC,W,6,0,None,56-48,4, 11.5,Blanton,French,None,2:04,D,None,+,None
+"Thursday, Aug 8",boxscore,PIT,@,CHC,L,5,9,None,56-49,4, 11.0,Carleton,Bush,None,2:23,D,None,-,None
+"Friday, Aug 9",boxscore,PIT,None,CIN,W,1,0,None,57-49,4, 11.0,Swift,Hollingsworth,None,1:52,D,None,+,None
+"Saturday, Aug 10",boxscore,PIT,None,CIN,L,0,2,None,57-50,4, 11.5,Derringer,Birkofer,None,1:39,D,None,-,None
+"Sunday, Aug 11",boxscore,PIT,None,CIN,W,5,4,None,58-50,4, 11.0,Blanton,Freitas,None,1:53,D,None,+,None
+"Sunday, Aug 11",boxscore,PIT,None,CIN,L,3,4,None,58-51,4, 11.0,Schott,Bush,Derringer,1:54,D,None,-,1935-09-20 (Schedule change)
+"Monday, Aug 12",boxscore,PIT,None,CIN,W,7,4,None,59-51,4, 10.5,Lucas,Hollingsworth,Birkofer,2:17,D,None,+,None
+"Wednesday, Aug 14",boxscore,PIT,@,PHI,W,8,1,None,60-51,4, 9.5,Swift,Davis,None,2:00,D,None,++,None
+"Wednesday, Aug 14",boxscore,PIT,@,PHI,W,7,4,None,61-51,4, 9.5,Weaver,Pezzullo,None,2:15,D,None,+++,1935-06-18 (Rain)
+"Thursday, Aug 15",boxscore,PIT,@,PHI,L,1,9,None,61-52,4, 10.5,Bowman,Bush,None,2:04,D,None,-,None
+"Saturday, Aug 17",boxscore,PIT,@,PHI,W,2,0,None,62-52,4, 8.5,Lucas,Jorgens,None,1:34,D,None,+,None
+"Saturday, Aug 17",boxscore,PIT,@,PHI,W,5,1,None,63-52,4, 8.5,Birkofer,Walters,None,2:08,D,None,++,1935-08-16 (Rain)
+"Sunday, Aug 18",boxscore,PIT,@,BRO,L,0,3,None,63-53,4, 10.0,Clark,Swift,None,None,D,None,-,None
+"Sunday, Aug 18",boxscore,PIT,@,BRO,L,3,9,None,63-54,4, 10.0,Benge,Bush,Reis,None,D,None,--,1935-08-19 (Schedule change)
+"Tuesday, Aug 20",boxscore,PIT,@,BRO,W,2,0,None,64-54,4, 10.5,Weaver,Zachary,None,None,D,None,+,None
+"Wednesday, Aug 21",boxscore,PIT,@,BRO,L,0,5,None,64-55,4, 11.5,Earnshaw,Birkofer,None,None,D,None,-,None
+"Friday, Aug 23",boxscore,PIT,@,BSN,W,7,5,None,65-55,4, 10.0,Swift,Cantwell,Hoyt,2:06,D,None,+,None
+"Saturday, Aug 24",boxscore,PIT,@,BSN,W,3,2,None,66-55,4, 10.0,Blanton,Frankhouse,None,1:46,D,"2,000",++,None
+"Sunday, Aug 25",boxscore,PIT,@,BSN,W,9,2,None,67-55,4, 9.0,Weaver,Smith,None,2:09,D,None,+++,None
+"Sunday, Aug 25",boxscore,PIT,@,BSN,W,6,5,11,68-55,4, 9.0,Lucas,Betts,None,2:20,D,None,++++,1935-08-22 (Schedule change)
+"Monday, Aug 26",boxscore,PIT,@,NYG,W,10,2,None,69-55,4, 8.0,Birkofer,Smith,None,None,D,None,+++++,None
+"Wednesday, Aug 28",boxscore,PIT,@,NYG,W,6,1,None,70-55,4, 8.0,Blanton,Hubbell,None,None,D,None,++++++,None
+"Wednesday, Aug 28",boxscore,PIT,@,NYG,W,9,5,None,71-55,4, 8.0,Swift,Parmelee,None,None,D,"15,000",+++++++,1935-08-27 (Rain)
+"Thursday, Aug 29",boxscore,PIT,None,STL,W,5,1,None,72-55,4, 7.0,Weaver,Dean,None,None,D,"7,000",++++++++,None
+"Friday, Aug 30",boxscore,PIT,None,STL,W,9,3,None,73-55,4, 6.0,Lucas,Hallahan,None,None,D,None,+++++++++,None
+"Saturday, Aug 31",boxscore,PIT,None,CHC,W,5,0,None,74-55,4, 6.0,Birkofer,French,None,1:36,D,None,++++++++++,None
+"Sunday, Sep 1",boxscore,PIT,None,CHC,L,2,8,None,74-56,4, 6.0,Henshaw,Blanton,None,1:55,D,None,-,None
+"Monday, Sep 2",boxscore,PIT,@,STL,L,3,4,16,74-57,4, 8.0,Dean,Hoyt,None,3:29,D,"31,000",--,None
+"Monday, Sep 2",boxscore,PIT,@,STL,L,1,4,5,74-58,4, 8.0,Dean,Swift,None,1:06,D,"31,000",---,None
+"Thursday, Sep 5",boxscore,PIT,None,BRO,W,5,4,None,75-58,4, 8.5,Birkofer,Leonard,Hoyt,None,D,"1,000",+,None
+"Friday, Sep 6",boxscore,PIT,None,BRO,W,13,0,None,76-58,4, 8.5,Blanton,Zachary,None,None,D,None,++,None
+"Saturday, Sep 7",boxscore,PIT,None,BRO,W,5,4,None,77-58,4, 8.5,Bush,Benge,None,None,D,None,+++,None
+"Sunday, Sep 8",boxscore,PIT,None,NYG,L,1,3,None,77-59,4, 9.0,Hubbell,Lucas,None,1:51,D,"18,000",-,None
+"Tuesday, Sep 10",boxscore,PIT,None,NYG,L,3,4,None,77-60,4, 10.0,Castleman,Blanton,Stout,None,D,None,--,None
+"Tuesday, Sep 10",boxscore,PIT,None,NYG,L,2,4,None,77-61,4, 10.0,Smith,Birkofer,None,None,D,"4,000",---,1935-09-09 (Rain)
+"Wednesday, Sep 11",boxscore,PIT,None,NYG,W,10,7,None,78-61,4, 10.0,Bush,Parmelee,None,None,D,None,+,None
+"Thursday, Sep 12",boxscore,PIT,None,PHI,W,11,0,None,79-61,4, 10.0,Weaver,Pezzullo,None,None,D,None,++,None
+"Friday, Sep 13",boxscore,PIT,None,PHI,L,1,5,None,79-62,4, 10.0,Davis,Swift,None,1:30,D,None,-,None
+"Saturday, Sep 14",boxscore,PIT,None,PHI,L,5,7,None,79-63,4, 11.0,Prim,Blanton,None,1:59,D,None,--,None
+"Sunday, Sep 15",boxscore,PIT,None,PHI,W,5,3,None,80-63,4, 11.0,Birkofer,Jorgens,None,1:37,D,None,+,None
+"Monday, Sep 16",boxscore,PIT,None,BSN,W,5,3,None,81-63,4, 11.0,Brown,Brown,None,1:48,D,None,++,None
+"Tuesday, Sep 17",boxscore,PIT,None,BSN,W,6,4,None,82-63,4, 11.0,Weaver,Brandt,Hoyt,None,D,None,+++,None
+"Wednesday, Sep 18",boxscore,PIT,None,BSN,W,5,2,None,83-63,4, 11.0,Blanton,Frankhouse,None,2:07,D,None,++++,None
+"Thursday, Sep 19",boxscore,PIT,None,BSN,W,7,6,None,84-63,4, 11.0,Hoyt,Cantwell,None,None,D,None,+++++,None
+"Saturday, Sep 21",boxscore,PIT,@,CHC,L,3,4,None,84-64,4, 12.0,Henshaw,Bush,Warneke,2:06,D,"39,000",-,None
+"Sunday, Sep 22",boxscore,PIT,@,CHC,L,0,2,None,84-65,4, 13.0,French,Blanton,None,None,D,"40,558",--,None
+"Monday, Sep 23",boxscore,PIT,@,STL,W,12,0,None,85-65,4, 12.5,Weaver,Heusser,None,2:05,D,"7,500",+,1935-07-01 (Rain)
+"Tuesday, Sep 24",boxscore,PIT,@,STL,L,2,11,None,85-66,4, 13.0,Hallahan,Lucas,None,1:43,D,None,-,1935-09-03 (Schedule change)
+"Sunday, Sep 29",boxscore,PIT,@,CIN,W,5,1,None,86-66,4, 13.5,Brown,Hollingsworth,None,1:48,D,None,+,None
+"Sunday, Sep 29",boxscore,PIT,@,CIN,L,6,9,None,86-67,4, 13.5,Derringer,Passeau,None,1:50,D,"8,021",-,1935-09-26 (Schedule change)

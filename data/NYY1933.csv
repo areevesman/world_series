@@ -1,0 +1,152 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Friday, Apr 14",boxscore,NYY,None,BOS,W,6,2,None,2-0,1, Tied,Ruffing,Weiland,None,None,D,None,++,None
+"Saturday, Apr 15",boxscore,NYY,None,PHA,W,7,3,None,3-0,1,up 0.5,Pipgras,Cain,None,None,D,"25,000",+++,None
+"Sunday, Apr 16",boxscore,NYY,None,PHA,W,5,4,None,4-0,1,up 0.5,Brennan,Walberg,Moore,1:45,D,"20,000",++++,None
+"Tuesday, Apr 18",boxscore,NYY,None,PHA,W,2,1,None,5-0,1,up 2.0,Gomez,Earnshaw,None,None,D,"10,000",+++++,None
+"Friday, Apr 21",boxscore,NYY,@,BOS,W,7,5,None,6-0,1,up 1.5,Ruffing,Weiland,None,None,D,None,++++++,None
+"Saturday, Apr 22",boxscore,NYY,@,BOS,W,2,1,None,7-0,1,up 2.0,Pipgras,Rhodes,None,None,D,None,+++++++,None
+"Sunday, Apr 23",boxscore,NYY,@,WSH,L,4,5,None,7-1,1,up 1.0,Whitehill,Moore,None,1:52,D,"25,000",-,None
+"Monday, Apr 24",boxscore,NYY,@,WSH,L,10,11,None,7-2,1, Tied,Crowder,Pennock,None,None,D,None,--,None
+"Tuesday, Apr 25",boxscore,NYY,@,WSH,W,16,0,None,8-2,1,up 0.5,Van Atta,Weaver,None,2:20,D,"6,000",+,None
+"Thursday, Apr 27",boxscore,NYY,@,PHA,W,5,2,None,9-2,1,up 1.0,Ruffing,Cain,None,None,D,None,++,None
+"Friday, Apr 28",boxscore,NYY,None,WSH,L,3,4,10,9-3,1,up 1.0,Stewart,Pipgras,None,None,D,"25,000",-,None
+"Saturday, Apr 29",boxscore,NYY,None,WSH,L,3,6,None,9-4,1,up 1.0,Weaver,Gomez,None,None,D,"35,455",--,None
+"Sunday, Apr 30",boxscore,NYY,None,BOS,W,11,2,None,10-4,1,up 1.5,Van Atta,Kline,None,1:53,D,"47,000",+,None
+"Sunday, Apr 30",boxscore,NYY,None,BOS,W,8,3,None,11-4,1,up 1.5,Brennan,Weiland,None,1:45,D,"47,000",++,1933-04-12 (Rain)
+"Tuesday, May 2",boxscore,NYY,@,DET,L,2,3,None,11-5,1,up 1.0,Marberry,Ruffing,Hogsett,None,D,"3,000",-,None
+"Thursday, May 4",boxscore,NYY,@,DET,W,5,2,None,12-5,1,up 1.5,Gomez,Bridges,None,2:19,D,None,+,None
+"Saturday, May 6",boxscore,NYY,@,CLE,L,6,7,None,12-6,1,up 0.5,Ferrell,Pipgras,Connally,None,D,"5,000",-,None
+"Sunday, May 7",boxscore,NYY,@,CLE,L,6,7,None,12-7,1,up 0.5,Harder,Brown,None,2:13,D,None,--,None
+"Sunday, May 7",boxscore,NYY,@,CLE,W,8,4,None,13-7,1,up 0.5,Ruffing,Brown,None,2:15,D,"55,000",+,1933-05-05 (Rain)
+"Monday, May 8",boxscore,NYY,@,CHW,W,7,3,None,14-7,1,up 1.0,Brennan,Lyons,None,None,D,"5,000",++,None
+"Wednesday, May 10",boxscore,NYY,@,CHW,L,2,10,None,14-8,1, Tied,Jones,Gomez,None,None,D,"22,000",-,None
+"Sunday, May 14",boxscore,NYY,@,SLB,L,1,5,None,14-9,2, 1.0,Wells,Ruffing,None,1:45,D,None,--,None
+"Sunday, May 14",boxscore,NYY,@,SLB,W,9,5,None,15-9,2, 1.0,Van Atta,Blaeholder,Brennan,2:04,D,"15,000",+,1933-05-12 (Schedule change)
+"Wednesday, May 17",boxscore,NYY,None,DET,W,4,1,None,16-9,1, Tied,Gomez,Fischer,None,None,D,None,++,None
+"Thursday, May 18",boxscore,NYY,None,DET,W,5,1,None,17-9,1,up 1.0,Allen,Sorrell,None,None,D,None,+++,None
+"Friday, May 19",boxscore,NYY,None,SLB,W,6,5,None,18-9,1,up 2.0,Brennan,Wells,Pennock,None,D,None,++++,None
+"Saturday, May 20",boxscore,NYY,None,SLB,L,2,4,None,18-10,1,up 1.0,Hebert,Ruffing,None,None,D,"25,000",-,None
+"Sunday, May 21",boxscore,NYY,None,SLB,L,4,8,None,18-11,1,up 1.0,Hadley,Van Atta,None,2:03,D,"30,000",--,None
+"Monday, May 22",boxscore,NYY,None,CLE,W,3,0,None,19-11,1,up 1.0,Gomez,Ferrell,None,None,D,None,+,None
+"Tuesday, May 23",boxscore,NYY,None,CLE,W,8,6,None,20-11,1,up 2.0,Allen,Hildebrand,Brennan,None,D,None,++,None
+"Friday, May 26",boxscore,NYY,None,CHW,L,6,8,None,20-12,1,up 1.0,Gregory,Ruffing,Faber,None,D,None,-,None
+"Saturday, May 27",boxscore,NYY,None,CHW,W,15,11,None,21-12,1,up 1.5,Brown,Miller,Pennock,None,D,None,+,None
+"Sunday, May 28",boxscore,NYY,None,CHW,W,2,1,None,22-12,1,up 2.0,Gomez,Jones,None,1:50,D,None,++,None
+"Sunday, May 28",boxscore,NYY,None,CHW,W,9,7,None,23-12,1,up 2.0,Allen,Gaston,Ruffing,2:25,D,"51,000",+++,1933-05-25 (Wet grounds)
+"Tuesday, May 30",boxscore,NYY,@,WSH,W,3,2,None,24-12,1,up 3.0,Van Atta,Whitehill,None,2:11,D,"15,000",++++,None
+"Wednesday, May 31",boxscore,NYY,@,WSH,L,7,12,None,24-13,1,up 3.0,Thomas,Gomez,McAfee,None,D,"18,000",-,None
+"Wednesday, May 31",boxscore,NYY,@,WSH,W,9,7,None,25-13,1,up 3.0,Pennock,Weaver,None,2:06,D,"12,000",+,1933-05-30 (Rain)
+"Friday, Jun 2",boxscore,NYY,None,PHA,W,5,4,None,26-13,1,up 3.5,Gomez,Mahaffey,Moore,None,D,None,++,None
+"Saturday, Jun 3",boxscore,NYY,None,PHA,W,17,11,None,27-13,1,up 3.5,Brown,Peterson,None,None,D,"25,000",+++,None
+"Sunday, Jun 4",boxscore,NYY,None,PHA,W,3,2,None,28-13,1,up 4.0,Van Atta,Cain,None,2:00,D,"65,000",++++,None
+"Sunday, Jun 4",boxscore,NYY,None,PHA,W,6,0,None,29-13,1,up 4.0,Allen,Walberg,None,1:55,D,"65,000",+++++,1933-04-19 (Rain)
+"Tuesday, Jun 6",boxscore,NYY,None,BOS,W,4,0,None,30-13,1,up 6.0,Pennock,Johnson,None,None,D,"12,000",++++++,None
+"Tuesday, Jun 6",boxscore,NYY,None,BOS,W,8,4,None,31-13,1,up 6.0,Brennan,Rhodes,None,None,D,None,+++++++,1933-06-07 (Schedule change)
+"Thursday, Jun 8",boxscore,NYY,@,PHA,L,10,14,None,31-14,1,up 5.5,Mahaffey,Moore,Coombs,None,D,None,-,None
+"Friday, Jun 9",boxscore,NYY,@,PHA,W,7,6,None,32-14,1,up 5.5,Pennock,Walberg,None,None,D,None,+,None
+"Saturday, Jun 10",boxscore,NYY,@,PHA,L,5,9,None,32-15,1,up 4.0,Grove,Van Atta,None,None,D,"30,000",-,None
+"Saturday, Jun 10",boxscore,NYY,@,PHA,L,7,8,None,32-16,1,up 4.0,Cain,Gomez,None,None,D,"38,000",--,1933-04-26 (Cold)
+"Sunday, Jun 11",boxscore,NYY,@,BOS,W,8,7,None,33-16,1,up 3.5,Pennock,Pipgras,Ruffing,2:46,D,"30,000",+,None
+"Sunday, Jun 11",boxscore,NYY,@,BOS,L,9,11,6,33-17,1,up 3.5,Pipgras,Moore,None,1:35,D,"30,000",-,1933-07-24 (Schedule change)
+"Tuesday, Jun 13",boxscore,NYY,@,BOS,L,5,6,None,33-18,1,up 2.5,Brown,MacFayden,None,None,D,None,--,None
+"Wednesday, Jun 14",boxscore,NYY,@,BOS,L,5,13,None,33-19,1,up 2.0,Andrews,Brown,None,None,D,None,---,None
+"Thursday, Jun 15",boxscore,NYY,@,BOS,L,5,8,None,33-20,1,up 1.5,Johnson,Allen,Weiland,None,D,None,----,None
+"Saturday, Jun 17",boxscore,NYY,@,CHW,W,8,3,None,34-20,1,up 1.5,Brown,Jones,None,None,D,"8,000",+,None
+"Sunday, Jun 18",boxscore,NYY,@,CHW,W,6,4,None,35-20,1,up 1.5,Ruffing,Lyons,None,2:10,D,None,++,None
+"Sunday, Jun 18",boxscore,NYY,@,CHW,L,4,5,10,35-21,1,up 1.5,Wyatt,Moore,None,2:21,D,"53,398",-,1933-05-09 (Cold)
+"Monday, Jun 19",boxscore,NYY,@,CHW,L,3,4,None,35-22,1,up 0.5,Durham,Gomez,Faber,None,D,"5,000",--,None
+"Tuesday, Jun 20",boxscore,NYY,@,CHW,W,15,8,None,36-22,1,up 1.0,Allen,Jones,Ruffing,2:45,D,None,+,None
+"Wednesday, Jun 21",boxscore,NYY,@,SLB,W,5,3,13,37-22,1,up 1.0,Moore,Wells,None,2:40,D,None,++,None
+"Thursday, Jun 22",boxscore,NYY,@,SLB,L,4,5,None,37-23,1, Tied,Blaeholder,MacFayden,None,None,D,None,-,None
+"Friday, Jun 23",boxscore,NYY,@,SLB,W,10,6,None,38-23,2, 0.5,Pennock,Blaeholder,Brennan,None,D,None,+,None
+"Friday, Jun 23",boxscore,NYY,@,SLB,L,4,5,None,38-24,2, 0.5,Gray,Ruffing,None,2:03,D,"6,000",-,1933-05-13 (Rain)
+"Saturday, Jun 24",boxscore,NYY,@,SLB,W,8,4,None,39-24,2, 0.5,Gomez,McDonald,None,None,D,None,+,None
+"Sunday, Jun 25",boxscore,NYY,@,DET,L,5,6,12,39-25,2, 1.5,Fischer,Brennan,None,3:09,D,"28,000",-,None
+"Sunday, Jun 25",boxscore,NYY,@,DET,W,3,0,6,40-25,2, 1.5,Van Atta,Sorrell,None,1:13,D,"28,000",+,1933-05-03 (Rain)
+"Tuesday, Jun 27",boxscore,NYY,@,DET,W,9,8,None,41-25,2, 1.0,Brown,Marberry,Gomez,None,D,"3,500",++,None
+"Wednesday, Jun 28",boxscore,NYY,@,DET,W,10,7,None,42-25,2, 1.0,Moore,Fischer,None,2:04,D,None,+++,None
+"Thursday, Jun 29",boxscore,NYY,@,CLE,W,9,3,None,43-25,1, Tied,Gomez,Hudlin,None,2:04,D,None,++++,None
+"Friday, Jun 30",boxscore,NYY,@,CLE,L,12,13,None,43-26,2, 1.0,Harder,Moore,None,3:00,D,None,-,None
+"Saturday, Jul 1",boxscore,NYY,@,CLE,W,4,2,None,44-26,2, 1.0,Allen,Ferrell,Pennock,None,D,None,+,None
+"Sunday, Jul 2",boxscore,NYY,@,CLE,W,7,3,None,45-26,2, 0.5,Brown,Harder,Moore,2:10,D,"6,000",++,None
+"Tuesday, Jul 4",boxscore,NYY,None,WSH,L,5,6,10,45-27,2, 2.5,Russell,Gomez,None,2:31,D,"77,365",-,None
+"Tuesday, Jul 4",boxscore,NYY,None,WSH,L,2,3,None,45-28,2, 2.5,Stewart,Van Atta,None,1:34,D,"77,365",--,None
+"Friday, Jul 7",boxscore,NYY,None,DET,L,4,9,None,45-29,2, 3.0,Frazier,Ruffing,Hogsett,None,D,None,---,None
+"Saturday, Jul 8",boxscore,NYY,None,DET,L,2,5,None,45-30,2, 4.5,Marberry,Allen,Sorrell,None,D,"12,000",----,None
+"Sunday, Jul 9",boxscore,NYY,None,DET,W,11,7,None,46-30,2, 4.0,Ruffing,Hogsett,None,2:29,D,"25,000",+,None
+"Sunday, Jul 9",boxscore,NYY,None,DET,W,7,6,None,47-30,2, 4.0,Van Atta,Bridges,Moore,2:07,D,"25,000",++,1933-05-16 (Rain)
+"Monday, Jul 10",boxscore,NYY,None,DET,W,10,6,None,48-30,2, 3.0,Brown,Fischer,Moore,None,D,None,+++,None
+"Tuesday, Jul 11",boxscore,NYY,None,SLB,W,5,4,None,49-30,2, 2.0,MacFayden,Hebert,Gomez,None,D,None,++++,None
+"Wednesday, Jul 12",boxscore,NYY,None,SLB,W,4,2,None,50-30,2, 2.0,Allen,Wells,None,None,D,"6,000",+++++,None
+"Thursday, Jul 13",boxscore,NYY,None,SLB,W,12,0,None,51-30,2, 1.0,Gomez,Hadley,None,None,D,None,++++++,None
+"Friday, Jul 14",boxscore,NYY,None,SLB,W,11,6,None,52-30,1, Tied,Brown,Blaeholder,None,None,D,None,+++++++,None
+"Saturday, Jul 15",boxscore,NYY,None,CHW,W,11,2,None,53-30,2, 0.5,Ruffing,Gaston,None,None,D,None,++++++++,None
+"Tuesday, Jul 18",boxscore,NYY,None,CHW,W,9,4,None,54-30,1,up 1.0,Allen,Lyons,Moore,None,D,None,+++++++++,None
+"Wednesday, Jul 19",boxscore,NYY,None,CHW,L,4,8,None,54-31,1, Tied,Jones,Brown,None,None,D,None,-,None
+"Thursday, Jul 20",boxscore,NYY,None,CLE,L,1,3,None,54-32,1, Tied,Harder,Gomez,None,None,D,None,--,None
+"Friday, Jul 21",boxscore,NYY,None,CLE,W,10,2,None,55-32,1, Tied,Van Atta,Hudlin,Moore,None,D,None,+,None
+"Saturday, Jul 22",boxscore,NYY,None,CLE,L,1,2,None,55-33,2, 1.0,Pearson,Ruffing,None,None,D,None,-,None
+"Sunday, Jul 23",boxscore,NYY,None,CLE,W,8,1,None,56-33,1,up 0.5,Allen,Ferrell,None,1:40,D,"35,000",+,None
+"Sunday, Jul 23",boxscore,NYY,None,CLE,W,8,1,None,57-33,1,up 0.5,MacFayden,Hildebrand,None,1:52,D,"35,000",++,1933-05-24 (Rain)
+"Wednesday, Jul 26",boxscore,NYY,@,BOS,W,2,0,None,58-33,2, 1.0,Gomez,Weiland,None,None,D,"25,000",+++,None
+"Wednesday, Jul 26",boxscore,NYY,@,BOS,L,4,9,None,58-34,2, 1.0,Brown,Brown,None,None,D,None,-,1933-07-25 (Rain)
+"Thursday, Jul 27",boxscore,NYY,@,WSH,L,2,3,10,58-35,2, 2.0,Russell,Ruffing,None,None,D,"15,000",--,None
+"Saturday, Jul 29",boxscore,NYY,@,WSH,L,5,11,None,58-36,2, 3.0,Crowder,Allen,None,None,D,"22,000",---,None
+"Sunday, Jul 30",boxscore,NYY,@,WSH,W,7,2,None,59-36,2, 2.0,Van Atta,Russell,None,2:03,D,"30,000",+,None
+"Monday, Jul 31",boxscore,NYY,@,WSH,W,13,9,None,60-36,2, 1.0,Gomez,Stewart,Moore,None,D,"15,000",++,1933-07-28 (Rain)
+"Wednesday, Aug 2",boxscore,NYY,None,PHA,L,3,16,None,60-37,2, 2.0,Earnshaw,Ruffing,Walberg,None,D,None,-,None
+"Thursday, Aug 3",boxscore,NYY,None,PHA,L,0,7,None,60-38,2, 3.0,Grove,Allen,None,None,D,None,--,None
+"Saturday, Aug 5",boxscore,NYY,None,PHA,L,3,8,None,60-39,2, 4.0,Mahaffey,Gomez,Walberg,None,D,None,---,None
+"Sunday, Aug 6",boxscore,NYY,None,BOS,W,5,4,None,61-39,2, 3.0,Uhle,Welch,None,None,D,None,+,None
+"Monday, Aug 7",boxscore,NYY,None,WSH,W,6,5,None,62-39,2, 1.0,Moore,Russell,None,None,D,None,++,None
+"Monday, Aug 7",boxscore,NYY,None,WSH,W,5,4,None,63-39,2, 1.0,Pennock,Crowder,None,None,D,"45,000",+++,1933-07-05 (Schedule change)
+"Tuesday, Aug 8",boxscore,NYY,None,WSH,L,1,5,None,63-40,2, 2.0,Whitehill,Allen,None,None,D,"15,000",-,None
+"Wednesday, Aug 9",boxscore,NYY,None,WSH,L,1,4,None,63-41,2, 3.0,Weaver,Gomez,None,None,D,None,--,None
+"Saturday, Aug 12",boxscore,NYY,@,PHA,L,9,11,10,63-42,2, 4.5,Walberg,Brown,None,None,D,None,---,None
+"Saturday, Aug 12",boxscore,NYY,@,PHA,W,8,6,None,64-42,2, 4.5,Devens,Earnshaw,None,None,D,"30,000",+,1933-08-10 (Rain)
+"Sunday, Aug 13",boxscore,NYY,@,WSH,L,3,4,None,64-43,2, 5.5,Stewart,Van Atta,Crowder,1:51,D,"27,000",-,None
+"Tuesday, Aug 15",boxscore,NYY,@,SLB,W,8,5,None,65-43,2, 5.5,Allen,Knott,Pennock,None,D,None,+,None
+"Wednesday, Aug 16",boxscore,NYY,@,SLB,L,3,13,None,65-44,2, 6.5,Wells,Devens,None,2:00,D,None,-,None
+"Thursday, Aug 17",boxscore,NYY,@,SLB,L,6,7,10,65-45,2, 7.5,Stiles,Pennock,None,None,D,None,--,None
+"Friday, Aug 18",boxscore,NYY,@,SLB,W,8,3,None,66-45,2, 7.5,Van Atta,Hebert,None,None,D,None,+,None
+"Saturday, Aug 19",boxscore,NYY,@,CHW,L,7,8,12,66-46,2, 8.5,Faber,Devens,None,None,D,None,-,None
+"Sunday, Aug 20",boxscore,NYY,@,CHW,W,14,3,None,67-46,2, 8.5,Allen,Jones,None,None,D,None,+,None
+"Sunday, Aug 20",boxscore,NYY,@,CHW,W,11,3,None,68-46,2, 8.5,Uhle,Lyons,None,1:58,D,"43,000",++,1933-05-11 (Wet grounds)
+"Monday, Aug 21",boxscore,NYY,@,CHW,T,3,3,18,68-46,2, 8.5,None,None,None,None,D,None,++,None
+"Tuesday, Aug 22",boxscore,NYY,@,CLE,W,4,3,None,69-46,2, 7.5,Gomez,Harder,None,1:52,D,None,+++,None
+"Wednesday, Aug 23",boxscore,NYY,@,CLE,L,1,2,None,69-47,2, 8.0,Brown,Ruffing,None,1:48,D,None,-,None
+"Thursday, Aug 24",boxscore,NYY,@,CLE,W,10,1,None,70-47,2, 8.0,Allen,Hildebrand,None,2:08,D,None,+,None
+"Friday, Aug 25",boxscore,NYY,@,CLE,L,4,6,None,70-48,2, 9.0,Pearson,Pennock,Harder,2:28,D,None,-,None
+"Saturday, Aug 26",boxscore,NYY,@,DET,W,9,5,None,71-48,2, 8.0,Uhle,Sorrell,None,None,D,None,+,None
+"Sunday, Aug 27",boxscore,NYY,@,DET,L,3,4,None,71-49,2, 8.0,Bridges,Moore,None,None,D,None,-,None
+"Sunday, Aug 27",boxscore,NYY,@,DET,W,12,2,None,72-49,2, 8.0,Ruffing,Fischer,None,None,D,None,+,1933-06-26 (Rain)
+"Monday, Aug 28",boxscore,NYY,@,DET,L,1,6,None,72-50,2, 8.5,Sorrell,Allen,None,None,D,"3,000",-,None
+"Tuesday, Aug 29",boxscore,NYY,@,DET,W,11,9,None,73-50,2, 8.0,Moore,Hogsett,None,None,D,"2,500",+,None
+"Thursday, Aug 31",boxscore,NYY,None,BOS,L,2,15,None,73-51,2, 8.5,Rhodes,Pennock,None,None,D,"4,000",-,None
+"Friday, Sep 1",boxscore,NYY,None,BOS,L,2,4,12,73-52,2, 8.5,Kline,Ruffing,None,None,D,None,--,None
+"Saturday, Sep 2",boxscore,NYY,None,BOS,W,2,1,None,74-52,2, 8.0,Allen,Weiland,None,None,D,"8,000",+,None
+"Tuesday, Sep 5",boxscore,NYY,@,PHA,L,1,6,None,74-53,2, 9.5,Mahaffey,Gomez,None,None,D,None,-,1933-09-04 (Rain)
+"Tuesday, Sep 5",boxscore,NYY,@,PHA,W,9,6,None,75-53,2, 9.5,Devens,Walberg,None,None,D,None,+,1933-09-04 (Rain)
+"Wednesday, Sep 6",boxscore,NYY,None,SLB,W,3,2,None,76-53,2, 9.5,Ruffing,Hadley,None,None,D,"5,000",++,None
+"Thursday, Sep 7",boxscore,NYY,None,SLB,W,12,8,None,77-53,2, 8.5,Uhle,Braxton,Allen,None,D,None,+++,None
+"Friday, Sep 8",boxscore,NYY,None,SLB,W,5,3,None,78-53,2, 8.5,Van Atta,Coffman,None,None,D,None,++++,None
+"Saturday, Sep 9",boxscore,NYY,None,SLB,T,6,6,None,78-53,2, 9.0,None,None,None,None,D,None,++++,None
+"Sunday, Sep 10",boxscore,NYY,None,DET,W,2,1,None,79-53,2, 8.5,Gomez,Fischer,None,1:39,D,"25,000",+++++,None
+"Sunday, Sep 10",boxscore,NYY,None,DET,W,9,1,None,80-53,2, 8.5,Allen,Lawson,None,1:34,D,"25,000",++++++,1933-09-13 (Schedule change)
+"Monday, Sep 11",boxscore,NYY,None,DET,L,1,5,None,80-54,2, 9.5,Marberry,Ruffing,None,None,D,"2,300",-,None
+"Tuesday, Sep 12",boxscore,NYY,None,DET,W,5,3,None,81-54,2, 8.5,Uhle,Bridges,None,None,D,None,+,None
+"Sunday, Sep 17",boxscore,NYY,None,CLE,W,3,2,None,82-54,2, 9.5,Van Atta,Pearson,None,1:41,D,None,++,None
+"Sunday, Sep 17",boxscore,NYY,None,CLE,W,6,1,None,83-54,2, 9.5,Gomez,Harder,None,1:42,D,"18,000",+++,1933-09-14 (Rain)
+"Monday, Sep 18",boxscore,NYY,None,CHW,W,6,1,None,84-54,2, 9.0,Allen,Gregory,None,None,D,None,++++,None
+"Monday, Sep 18",boxscore,NYY,None,CHW,L,3,4,None,84-55,2, 9.0,Tietje,Ruffing,Wyatt,None,D,None,-,1933-07-16 (Rain)
+"Tuesday, Sep 19",boxscore,NYY,None,CHW,W,10,1,None,85-55,2, 7.5,Uhle,Jones,None,None,D,None,+,None
+"Tuesday, Sep 19",boxscore,NYY,None,CHW,W,10,3,None,86-55,2, 7.5,Devens,Lyons,None,None,D,None,++,None
+"Wednesday, Sep 20",boxscore,NYY,None,CHW,W,5,3,None,87-55,2, 7.5,MacFayden,Faber,None,None,D,None,+++,None
+"Saturday, Sep 23",boxscore,NYY,@,BOS,W,16,12,None,88-55,2, 7.0,Pennock,Brown,Van Atta,None,D,None,++++,None
+"Sunday, Sep 24",boxscore,NYY,@,BOS,L,8,10,None,88-56,2, 7.0,Andrews,Devens,None,None,D,None,-,None
+"Wednesday, Sep 27",boxscore,NYY,@,PHA,W,7,0,None,89-56,2, 7.0,Gomez,Grove,None,1:44,D,"6,000",+,None
+"Wednesday, Sep 27",boxscore,NYY,@,PHA,L,1,10,7,89-57,2, 7.0,Marcum,Allen,None,None,D,None,-,1933-08-11 (Wet grounds)
+"Thursday, Sep 28",boxscore,NYY,None,WSH,W,11,9,None,90-57,2, 6.0,Moore,Crowder,None,None,D,None,+,None
+"Friday, Sep 29",boxscore,NYY,None,WSH,L,5,8,None,90-58,2, 7.0,Whitehill,Ruffing,Russell,None,D,None,-,None
+"Saturday, Sep 30",boxscore,NYY,None,WSH,L,2,7,None,90-59,2, 8.0,Weaver,Uhle,Thomas,1:30,D,None,--,None
+"Sunday, Oct 1",boxscore,NYY,None,BOS,W,6,5,None,91-59,2, 7.0,Ruth,Kline,None,None,D,None,+,None

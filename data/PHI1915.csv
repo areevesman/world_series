@@ -1,0 +1,153 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 15",boxscore,PHI,@,BSN,W,7,1,None,2-0,1, Tied,Mayer,Hughes,None,1:35,D,"1,000",++,1915-04-15 (Delayed opening of Braves Field; Played at BOS; BSN home team)
+"Saturday, Apr 17",boxscore,PHI,@,NYG,W,7,1,None,3-0,1,up 1.5,Alexander,Mathewson,None,1:49,D,None,+++,None
+"Monday, Apr 19",boxscore,PHI,@,NYG,W,3,0,None,4-0,1,up 1.0,Demaree,Tesreau,None,1:51,D,None,++++,None
+"Tuesday, Apr 20",boxscore,PHI,@,NYG,W,5,2,None,5-0,1,up 1.0,Mayer,Schauer,None,1:35,D,None,+++++,None
+"Wednesday, Apr 21",boxscore,PHI,@,NYG,W,6,1,None,6-0,1,up 1.0,Chalmers,Perritt,None,1:45,D,None,++++++,None
+"Thursday, Apr 22",boxscore,PHI,None,BSN,W,8,4,None,7-0,1,up 2.0,Alexander,Hess,None,1:40,D,"16,000",+++++++,None
+"Friday, Apr 23",boxscore,PHI,None,BSN,W,2,1,None,8-0,1,up 2.0,Rixey,Rudolph,None,1:40,D,"3,500",++++++++,None
+"Saturday, Apr 24",boxscore,PHI,None,BSN,L,2,10,None,8-1,1,up 1.5,Hughes,Mayer,None,1:50,D,"20,000",-,None
+"Monday, Apr 26",boxscore,PHI,None,BSN,W,7,4,None,9-1,1,up 1.5,Alexander,Strand,None,1:50,D,"5,000",+,None
+"Tuesday, Apr 27",boxscore,PHI,None,BRO,W,5,2,None,10-1,1,up 2.5,Chalmers,Rucker,None,1:32,D,"3,500",++,None
+"Wednesday, Apr 28",boxscore,PHI,None,BRO,W,3,0,None,11-1,1,up 3.5,Mayer,Appleton,None,1:38,D,None,+++,None
+"Thursday, Apr 29",boxscore,PHI,None,BRO,L,4,7,None,11-2,1,up 2.5,Dell,Demaree,None,1:57,D,"4,000",-,None
+"Friday, Apr 30",boxscore,PHI,None,BRO,L,1,2,None,11-3,1,up 2.5,Coombs,Rixey,None,2:02,D,None,--,None
+"Saturday, May 1",boxscore,PHI,None,NYG,W,4,2,None,12-3,1,up 3.0,Alexander,Mathewson,None,1:34,D,"12,000",+,None
+"Monday, May 3",boxscore,PHI,None,NYG,L,2,3,None,12-4,1,up 1.5,Ritter,Chalmers,None,1:56,D,"5,000",-,None
+"Wednesday, May 5",boxscore,PHI,None,NYG,L,2,4,None,12-5,1,up 0.5,Stroud,Alexander,None,2:00,D,"3,000",--,None
+"Thursday, May 6",boxscore,PHI,@,BRO,W,3,1,None,13-5,1,up 1.0,Mayer,Pfeffer,None,1:47,D,None,+,None
+"Saturday, May 8",boxscore,PHI,@,BRO,L,2,3,None,13-6,1,up 1.0,Coombs,Rixey,None,2:00,D,None,-,None
+"Monday, May 10",boxscore,PHI,@,BRO,L,0,5,None,13-7,1,up 0.5,Dell,Mayer,None,1:45,D,None,--,None
+"Tuesday, May 11",boxscore,PHI,None,PIT,W,4,2,None,14-7,1,up 0.5,Alexander,McQuillan,None,1:49,D,None,+,None
+"Thursday, May 13",boxscore,PHI,None,PIT,L,1,3,None,14-8,1,up 1.0,Harmon,Demaree,None,1:53,D,None,-,None
+"Friday, May 14",boxscore,PHI,None,PIT,W,5,3,None,15-8,1,up 1.0,Rixey,Adams,Mayer,1:57,D,None,+,None
+"Saturday, May 15",boxscore,PHI,None,STL,W,11,2,None,16-8,1,up 2.0,Alexander,Doak,None,2:00,D,"12,000",++,None
+"Monday, May 17",boxscore,PHI,None,STL,W,5,3,None,17-8,1,up 2.5,Mayer,Perdue,None,1:37,D,"1,000",+++,None
+"Tuesday, May 18",boxscore,PHI,None,STL,L,2,5,None,17-9,1,up 1.5,Doak,Demaree,None,1:58,D,"1,500",-,None
+"Wednesday, May 19",boxscore,PHI,None,STL,L,0,3,None,17-10,1,up 1.5,Griner,Chalmers,None,1:42,D,"4,000",--,None
+"Thursday, May 20",boxscore,PHI,None,CIN,L,2,6,None,17-11,1,up 0.5,Dale,Alexander,None,1:40,D,"2,000",---,None
+"Tuesday, May 25",boxscore,PHI,None,CHC,W,3,0,None,18-11,1, Tied,Alexander,Humphries,None,1:36,D,"10,000",+,None
+"Thursday, May 27",boxscore,PHI,None,CHC,W,8,5,None,19-11,1,up 1.0,Mayer,Vaughn,None,1:48,D,"9,000",++,None
+"Friday, May 28",boxscore,PHI,@,BSN,L,2,5,None,19-12,1, Tied,Tyler,Alexander,None,2:05,D,None,-,1915-05-28 (Delayed opening of Braves Field; Played at BOS; BSN home team)
+"Friday, May 28",boxscore,PHI,@,BSN,L,4,5,None,19-13,1, Tied,James,Chalmers,None,1:57,D,None,--,1915-04-16 (Rain; Delayed opening of Braves Field; Played at BOS; BSN home team)
+"Saturday, May 29",boxscore,PHI,@,BSN,L,4,9,None,19-14,2, 1.0,Rudolph,Demaree,Crutcher,2:05,D,"6,000",---,1915-05-29 (Delayed opening of Braves Field; Played at BOS; BSN home team)
+"Monday, May 31",boxscore,PHI,@,BSN,L,1,2,None,19-15,2, 0.5,Hughes,Chalmers,None,1:50,D,"8,000",----,1915-05-31 (Delayed opening of Braves Field; Played at BOS; BSN home team)
+"Monday, May 31",boxscore,PHI,@,BSN,W,5,2,None,20-15,2, 0.5,Mayer,Tyler,None,2:05,D,"17,000",+,1915-05-31 (Delayed opening of Braves Field; Played at BOS; BSN home team)
+"Tuesday, Jun 1",boxscore,PHI,@,BRO,L,4,5,11,20-16,2, 1.5,Dell,Demaree,None,2:23,D,None,-,None
+"Wednesday, Jun 2",boxscore,PHI,@,BRO,L,2,7,None,20-17,2, 2.5,Coombs,Rixey,None,1:48,D,"5,000",--,None
+"Wednesday, Jun 2",boxscore,PHI,@,BRO,L,3,4,None,20-18,2, 2.5,Smith,Baumgartner,None,1:31,D,"8,000",---,1915-05-07 (Wet grounds)
+"Thursday, Jun 3",boxscore,PHI,@,BRO,W,2,1,None,21-18,2, 2.0,Mayer,Appleton,None,1:45,D,"1,300",+,None
+"Saturday, Jun 5",boxscore,PHI,@,STL,W,3,0,None,22-18,2, 1.0,Alexander,Meadows,None,1:32,D,None,++,None
+"Sunday, Jun 6",boxscore,PHI,@,STL,L,1,3,None,22-19,2, 2.0,Doak,Chalmers,None,1:55,D,None,-,None
+"Monday, Jun 7",boxscore,PHI,@,STL,W,8,4,None,23-19,2, 1.5,Rixey,Robinson,None,2:45,D,None,+,None
+"Tuesday, Jun 8",boxscore,PHI,@,STL,W,5,4,None,24-19,2, 0.5,Mayer,Griner,None,2:10,D,None,++,None
+"Wednesday, Jun 9",boxscore,PHI,@,CHC,W,4,3,11,25-19,1,up 0.5,Alexander,Zabel,None,1:56,D,"2,000",+++,None
+"Friday, Jun 11",boxscore,PHI,@,CHC,L,0,2,None,25-20,2, 0.5,Humphries,Rixey,None,1:48,D,"3,600",-,None
+"Saturday, Jun 12",boxscore,PHI,@,CHC,W,13,0,None,26-20,1,up 0.5,Mayer,Pierce,None,1:47,D,"9,300",+,None
+"Monday, Jun 14",boxscore,PHI,@,PIT,W,4,1,11,27-20,1,up 0.5,Alexander,Mamaux,None,2:06,D,"3,500",++,None
+"Wednesday, Jun 16",boxscore,PHI,@,PIT,L,1,2,None,27-21,1, Tied,Harmon,Chalmers,None,1:25,D,None,-,None
+"Thursday, Jun 17",boxscore,PHI,@,CIN,L,1,2,None,27-22,2, 1.0,Toney,Mayer,None,1:36,D,"1,500",--,None
+"Saturday, Jun 19",boxscore,PHI,@,CIN,W,4,1,None,28-22,2, 1.0,Alexander,Schneider,None,1:31,D,"4,500",+,None
+"Sunday, Jun 20",boxscore,PHI,@,CIN,L,1,2,None,28-23,3, 2.0,Dale,Demaree,Benton,1:37,D,"8,000",-,None
+"Monday, Jun 21",boxscore,PHI,@,PIT,L,3,4,13,28-24,3, 2.5,Mamaux,Rixey,None,2:05,D,None,--,None
+"Tuesday, Jun 22",boxscore,PHI,@,NYG,T,1,1,None,28-24,3, 2.5,None,None,None,1:32,D,"3,000",--,None
+"Wednesday, Jun 23",boxscore,PHI,@,NYG,W,2,1,11,29-24,2, 2.5,Mayer,Perritt,None,1:55,D,"1,300",+,None
+"Thursday, Jun 24",boxscore,PHI,@,NYG,L,5,13,None,29-25,2, 3.5,Stroud,Demaree,None,2:00,D,None,-,None
+"Friday, Jun 25",boxscore,PHI,None,BRO,L,2,4,None,29-26,2, 4.5,Pfeffer,Mayer,None,1:40,D,"8,000",--,None
+"Saturday, Jun 26",boxscore,PHI,None,BRO,W,4,0,None,30-26,2, 3.5,Alexander,Coombs,None,1:09,D,"14,000",+,None
+"Monday, Jun 28",boxscore,PHI,None,BRO,L,0,4,None,30-27,3, 3.5,Smith,Rixey,None,1:55,D,"7,000",-,None
+"Tuesday, Jun 29",boxscore,PHI,None,BRO,W,5,4,None,31-27,2, 3.0,Chalmers,Appleton,None,1:32,D,"4,000",+,None
+"Wednesday, Jun 30",boxscore,PHI,None,BSN,W,8,5,None,32-27,2, 2.5,Alexander,Davis,None,1:47,D,"7,000",++,None
+"Thursday, Jul 1",boxscore,PHI,None,BSN,W,2,1,None,33-27,2, 1.5,Mayer,Ragan,None,1:40,D,"5,000",+++,None
+"Saturday, Jul 3",boxscore,PHI,None,BSN,W,4,1,None,34-27,2, 2.0,Rixey,Rudolph,None,1:49,D,None,++++,None
+"Saturday, Jul 3",boxscore,PHI,None,BSN,L,3,5,None,34-28,2, 2.0,Tyler,Chalmers,None,1:45,D,"18,000",-,1915-07-02 (Rain)
+"Monday, Jul 5",boxscore,PHI,None,NYG,W,2,0,None,35-28,2, 1.0,Alexander,Perritt,None,1:12,D,"16,000",+,None
+"Tuesday, Jul 6",boxscore,PHI,None,NYG,L,1,5,None,35-29,2, 2.0,Marquard,Mayer,Stroud,2:05,D,"6,000",-,None
+"Wednesday, Jul 7",boxscore,PHI,None,NYG,L,4,5,None,35-30,2, 2.5,Mathewson,Mayer,None,1:40,D,None,--,None
+"Wednesday, Jul 7",boxscore,PHI,None,NYG,W,1,0,10,36-30,2, 2.5,Demaree,Tesreau,None,1:43,D,"16,000",+,1915-05-04 (Rain)
+"Thursday, Jul 8",boxscore,PHI,None,PIT,L,0,2,None,36-31,2, 3.0,Mamaux,Rixey,None,1:40,D,None,-,None
+"Friday, Jul 9",boxscore,PHI,None,PIT,W,2,1,None,37-31,2, 2.0,Alexander,Harmon,None,1:18,D,None,+,None
+"Saturday, Jul 10",boxscore,PHI,None,PIT,W,6,3,None,38-31,2, 0.5,Demaree,Adams,None,1:42,D,"12,000",++,None
+"Monday, Jul 12",boxscore,PHI,None,PIT,L,1,2,None,38-32,2, 1.0,McQuillan,Mayer,Cooper,1:55,D,None,-,None
+"Monday, Jul 12",boxscore,PHI,None,PIT,L,2,4,None,38-33,2, 1.0,Mamaux,Chalmers,None,1:57,D,"13,000",--,1915-05-12 (Rain)
+"Tuesday, Jul 13",boxscore,PHI,None,STL,W,8,0,None,39-33,1, Tied,Alexander,Griner,None,1:42,D,"7,000",+,None
+"Wednesday, Jul 14",boxscore,PHI,None,STL,W,6,3,None,40-33,1,up 0.5,Demaree,Meadows,None,2:03,D,"5,000",++,None
+"Thursday, Jul 15",boxscore,PHI,None,STL,W,4,3,10,41-33,1,up 0.5,Rixey,Griner,None,2:21,D,"3,500",+++,None
+"Saturday, Jul 17",boxscore,PHI,None,CHC,L,0,4,None,41-34,1, Tied,Cheney,Alexander,None,1:35,D,"17,000",-,None
+"Monday, Jul 19",boxscore,PHI,None,CHC,W,5,4,None,42-34,1,up 1.0,Mayer,Humphries,Alexander,1:52,D,"18,000",+,None
+"Tuesday, Jul 20",boxscore,PHI,None,CHC,W,8,6,None,43-34,1,up 2.0,Rixey,Pierce,Demaree,1:52,D,"7,000",++,None
+"Wednesday, Jul 21",boxscore,PHI,None,CHC,W,1,0,6,44-34,1,up 2.5,Alexander,Adams,None,0:55,D,"6,000",+++,None
+"Thursday, Jul 22",boxscore,PHI,None,CIN,L,1,6,None,44-35,1,up 2.5,Schneider,Mayer,None,1:35,D,None,-,None
+"Thursday, Jul 22",boxscore,PHI,None,CIN,W,3,1,None,45-35,1,up 2.5,Demaree,Schneider,None,1:35,D,"9,000",+,1915-05-21 (Rain)
+"Friday, Jul 23",boxscore,PHI,None,CIN,L,2,3,10,45-36,1,up 1.5,Benton,Baumgartner,Dale,2:10,D,"4,000",-,None
+"Saturday, Jul 24",boxscore,PHI,None,CIN,W,4,0,None,46-36,1,up 1.5,Alexander,McKenry,None,1:40,D,None,+,None
+"Saturday, Jul 24",boxscore,PHI,None,CIN,W,13,1,None,47-36,1,up 1.5,Rixey,Lear,None,1:57,D,"20,000",++,1915-05-22 (Rain)
+"Sunday, Jul 25",boxscore,PHI,@,CIN,W,4,2,None,48-36,1,up 2.0,Mayer,Dale,None,1:45,D,"8,000",+++,None
+"Monday, Jul 26",boxscore,PHI,@,CIN,W,6,2,None,49-36,1,up 2.0,Demaree,Schneider,None,1:44,D,"1,500",++++,None
+"Tuesday, Jul 27",boxscore,PHI,@,CIN,L,3,4,None,49-37,1,up 2.0,Schneider,Rixey,None,1:50,D,700,-,1915-06-18 (Rain)
+"Wednesday, Jul 28",boxscore,PHI,@,STL,L,1,3,None,49-38,1,up 1.5,Doak,Alexander,None,1:58,D,None,--,None
+"Thursday, Jul 29",boxscore,PHI,@,STL,W,3,1,None,50-38,1,up 2.5,Mayer,Griner,None,1:43,D,None,+,None
+"Saturday, Jul 31",boxscore,PHI,@,STL,L,1,2,None,50-39,1,up 3.0,Robinson,Demaree,None,2:01,D,None,-,None
+"Saturday, Jul 31",boxscore,PHI,@,STL,W,8,0,None,51-39,1,up 3.0,Rixey,Perdue,None,1:47,D,None,+,1915-07-30 (Rain)
+"Sunday, Aug 1",boxscore,PHI,@,CHC,L,1,2,10,51-40,1,up 3.5,Adams,Alexander,None,1:35,D,"7,500",-,None
+"Monday, Aug 2",boxscore,PHI,@,CHC,L,1,4,None,51-41,1,up 2.5,Cheney,Mayer,Lavender,1:33,D,"4,100",--,None
+"Thursday, Aug 5",boxscore,PHI,@,PIT,L,0,1,None,51-42,1,up 3.0,Adams,Alexander,None,1:35,D,None,---,None
+"Friday, Aug 6",boxscore,PHI,@,PIT,W,5,4,None,52-42,1,up 3.0,Demaree,McQuillan,Mayer,1:53,D,None,+,None
+"Saturday, Aug 7",boxscore,PHI,@,PIT,L,0,9,None,52-43,1,up 1.5,Mamaux,Mayer,None,1:37,D,None,-,None
+"Saturday, Aug 7",boxscore,PHI,@,PIT,L,0,6,None,52-44,1,up 1.5,Harmon,Rixey,None,1:39,D,None,--,1915-06-15 (Rain)
+"Sunday, Aug 8",boxscore,PHI,@,CIN,W,14,6,None,53-44,1,up 2.0,Alexander,Dale,Chalmers,1:50,D,"3,000",+,None
+"Monday, Aug 9",boxscore,PHI,@,CIN,L,4,5,12,53-45,1,up 1.0,Schneider,Mayer,None,2:11,D,500,-,None
+"Friday, Aug 13",boxscore,PHI,None,BSN,W,5,3,None,54-45,1,up 1.0,Alexander,Rudolph,None,1:35,D,"12,000",+,None
+"Saturday, Aug 14",boxscore,PHI,None,BSN,W,9,0,None,55-45,1,up 1.0,Demaree,Hughes,None,2:15,D,"11,000",++,None
+"Monday, Aug 16",boxscore,PHI,None,BSN,W,5,0,None,56-45,1,up 2.0,Rixey,Ragan,None,1:40,D,"12,000",+++,None
+"Tuesday, Aug 17",boxscore,PHI,None,CIN,L,0,2,None,56-46,1,up 1.0,Toney,Alexander,None,1:15,D,"7,000",-,None
+"Wednesday, Aug 18",boxscore,PHI,None,PIT,L,4,8,None,56-47,1,up 1.0,Adams,Mayer,None,2:00,D,None,--,None
+"Thursday, Aug 19",boxscore,PHI,None,PIT,L,3,8,None,56-48,1, Tied,Harmon,Demaree,None,1:45,D,None,---,None
+"Friday, Aug 20",boxscore,PHI,None,PIT,W,4,3,11,57-48,1, Tied,Alexander,Cooper,None,1:52,D,None,+,None
+"Saturday, Aug 21",boxscore,PHI,None,CHC,W,7,5,None,58-48,1,up 1.0,Alexander,Humphries,None,1:50,D,None,++,None
+"Saturday, Aug 21",boxscore,PHI,None,CHC,W,3,2,None,59-48,1,up 1.0,Demaree,Adams,None,1:55,D,"21,000",+++,None
+"Monday, Aug 23",boxscore,PHI,None,CHC,L,3,4,None,59-49,1,up 1.5,Zabel,Alexander,None,1:38,D,None,-,None
+"Monday, Aug 23",boxscore,PHI,None,CHC,W,13,5,None,60-49,1,up 1.5,McQuillan,Humphries,None,1:55,D,"7,000",+,1915-05-26 (Wet grounds)
+"Tuesday, Aug 24",boxscore,PHI,None,CHC,L,1,6,None,60-50,1,up 1.5,Lavender,Rixey,None,1:52,D,"5,000",-,None
+"Wednesday, Aug 25",boxscore,PHI,None,CIN,W,8,0,None,61-50,1,up 2.5,Alexander,Schneider,None,1:35,D,None,+,None
+"Wednesday, Aug 25",boxscore,PHI,None,CIN,W,6,5,None,62-50,1,up 2.5,Demaree,Schneider,Rixey,1:50,D,"15,000",++,1915-05-24 (Rain)
+"Thursday, Aug 26",boxscore,PHI,None,CIN,W,4,1,None,63-50,1,up 2.5,Mayer,Dale,None,1:30,D,"6,000",+++,None
+"Friday, Aug 27",boxscore,PHI,None,CIN,W,4,2,None,64-50,1,up 3.5,McQuillan,McKenry,None,1:40,D,"8,000",++++,None
+"Monday, Aug 30",boxscore,PHI,None,STL,W,4,3,10,65-50,1,up 3.0,Mayer,Perdue,None,2:02,D,"10,000",+++++,None
+"Tuesday, Aug 31",boxscore,PHI,None,STL,W,3,2,None,66-50,1,up 3.0,Rixey,Doak,Alexander,2:03,D,None,++++++,None
+"Tuesday, Aug 31",boxscore,PHI,None,STL,L,2,7,None,66-51,1,up 3.0,Ames,Demaree,None,2:19,D,"15,000",-,1915-07-16 (Rain)
+"Wednesday, Sep 1",boxscore,PHI,@,NYG,L,5,6,None,66-52,1,up 2.5,Stroud,McQuillan,Ritter,1:55,D,None,--,None
+"Thursday, Sep 2",boxscore,PHI,@,NYG,W,3,1,None,67-52,1,up 3.0,Chalmers,Tesreau,None,1:55,D,None,+,None
+"Thursday, Sep 2",boxscore,PHI,@,NYG,W,2,0,None,68-52,1,up 3.0,Alexander,Mathewson,None,1:28,D,None,++,None
+"Friday, Sep 3",boxscore,PHI,@,NYG,L,0,2,None,68-53,1,up 3.0,Perritt,Mayer,None,1:11,D,None,-,None
+"Saturday, Sep 4",boxscore,PHI,@,NYG,W,3,2,10,69-53,1,up 4.0,Demaree,Schauer,Alexander,2:02,D,None,+,None
+"Monday, Sep 6",boxscore,PHI,@,BRO,L,3,6,None,69-54,1,up 2.0,Marquard,Alexander,None,2:10,D,None,-,None
+"Monday, Sep 6",boxscore,PHI,@,BRO,L,3,7,None,69-55,1,up 2.0,Pfeffer,Rixey,None,1:52,D,None,--,None
+"Tuesday, Sep 7",boxscore,PHI,@,BRO,L,1,7,None,69-56,1,up 1.0,Douglas,McQuillan,None,1:55,D,None,---,None
+"Wednesday, Sep 8",boxscore,PHI,None,NYG,W,9,3,None,70-56,1,up 2.5,Chalmers,Ritter,None,1:42,D,"8,000",+,None
+"Thursday, Sep 9",boxscore,PHI,None,NYG,W,3,0,None,71-56,1,up 3.0,Alexander,Benton,None,1:45,D,None,++,1915-07-05 (Wet grounds)
+"Thursday, Sep 9",boxscore,PHI,None,NYG,W,9,4,None,72-56,1,up 3.0,Demaree,Schauer,None,2:06,D,"21,000",+++,None
+"Friday, Sep 10",boxscore,PHI,None,NYG,W,7,3,None,73-56,1,up 3.5,McQuillan,Tesreau,None,1:38,D,"5,000",++++,None
+"Saturday, Sep 11",boxscore,PHI,@,PIT,W,3,2,None,74-56,1,up 4.5,Mayer,Harmon,None,1:52,D,None,+++++,None
+"Monday, Sep 13",boxscore,PHI,@,PIT,W,4,2,13,75-56,1,up 4.0,Alexander,Cooper,None,2:29,D,None,++++++,None
+"Tuesday, Sep 14",boxscore,PHI,@,PIT,W,4,3,None,76-56,1,up 5.0,Chalmers,Adams,None,1:51,D,None,+++++++,None
+"Wednesday, Sep 15",boxscore,PHI,@,PIT,L,0,1,None,76-57,1,up 4.5,Kantlehner,Mayer,None,1:28,D,None,-,None
+"Thursday, Sep 16",boxscore,PHI,@,CIN,W,10,3,None,77-57,1,up 5.5,Alexander,George,None,1:48,D,"3,500",+,None
+"Friday, Sep 17",boxscore,PHI,@,CIN,L,0,2,None,77-58,1,up 4.5,Toney,Demaree,None,1:11,D,"2,000",-,1915-08-10 (Rain)
+"Saturday, Sep 18",boxscore,PHI,@,CIN,W,4,2,None,78-58,1,up 4.5,Mayer,Dale,None,2:08,D,"4,000",+,None
+"Sunday, Sep 19",boxscore,PHI,@,STL,W,6,2,None,79-58,1,up 4.5,Alexander,Robinson,None,1:29,D,None,++,None
+"Sunday, Sep 19",boxscore,PHI,@,STL,L,0,1,10,79-59,1,up 4.5,Ames,Chalmers,None,2:10,D,None,-,1915-08-28 (Rain; Site change)
+"Tuesday, Sep 21",boxscore,PHI,@,STL,W,8,3,None,80-59,1,up 5.5,McQuillan,Doak,None,2:00,D,None,+,None
+"Tuesday, Sep 21",boxscore,PHI,@,STL,W,6,1,None,81-59,1,up 5.5,Demaree,Meadows,None,2:04,D,None,++,1915-09-20 (Rain)
+"Thursday, Sep 23",boxscore,PHI,@,CHC,W,5,1,None,82-59,1,up 6.5,Alexander,Adams,None,1:40,D,None,+++,None
+"Thursday, Sep 23",boxscore,PHI,@,CHC,W,3,2,None,83-59,1,up 6.5,Rixey,Douglas,None,1:40,D,"7,000",++++,1915-06-10 (Rain)
+"Friday, Sep 24",boxscore,PHI,@,CHC,L,0,6,None,83-60,1,up 6.5,Humphries,Mayer,None,1:35,D,None,-,1915-08-04 (Rain)
+"Friday, Sep 24",boxscore,PHI,@,CHC,W,6,0,8,84-60,1,up 6.5,Chalmers,Zabel,None,1:45,D,"5,000",+,1915-08-03 (Rain)
+"Saturday, Sep 25",boxscore,PHI,@,CHC,W,5,4,11,85-60,1,up 6.5,Demaree,Lavender,None,2:10,D,"4,500",++,None
+"Tuesday, Sep 28",boxscore,PHI,@,BRO,W,6,4,None,86-60,1,up 7.0,Chalmers,Cheney,None,1:42,D,None,+++,None
+"Wednesday, Sep 29",boxscore,PHI,@,BSN,W,5,0,None,87-60,1,up 8.0,Alexander,Rudolph,None,1:35,D,"14,000",++++,None
+"Thursday, Sep 30",boxscore,PHI,@,BSN,L,2,8,None,87-61,1,up 7.0,Hughes,Rixey,None,1:45,D,"3,000",-,None
+"Friday, Oct 1",boxscore,PHI,@,BSN,W,9,2,None,88-61,1,up 8.0,Mayer,Nehf,None,1:55,D,"1,500",+,None
+"Monday, Oct 4",boxscore,PHI,None,BRO,L,2,3,None,88-62,1,up 6.5,Pfeffer,McQuillan,None,1:03,D,"7,000",-,None
+"Wednesday, Oct 6",boxscore,PHI,None,BRO,W,9,6,None,89-62,1,up 6.5,Mayer,Mails,Alexander,1:30,D,None,+,1915-10-07 (Schedule change)
+"Wednesday, Oct 6",boxscore,PHI,None,BRO,W,3,2,None,90-62,1,up 6.5,Oeschger,Dell,None,1:25,D,"3,000",++,1915-10-05 (Rain)

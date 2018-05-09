@@ -1,0 +1,154 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Friday, Apr 15",boxscore,STL,@,CHC,L,4,11,None,0-2,7, 2.0,York,Kircher,None,2:09,D,500,--,None
+"Monday, Apr 18",boxscore,STL,@,CIN,L,0,4,None,0-3,7, 3.0,Luque,May,None,1:50,D,"1,500",---,None
+"Tuesday, Apr 19",boxscore,STL,@,CIN,W,6,1,None,1-3,6, 2.0,May,Marquard,None,1:40,D,"2,500",+,None
+"Wednesday, Apr 20",boxscore,STL,@,CIN,L,4,5,None,1-4,7, 3.0,Rixey,Haines,None,1:44,D,"2,000",-,None
+"Saturday, Apr 23",boxscore,STL,None,CHC,L,1,5,None,1-5,8, 4.0,York,May,None,1:58,D,"10,000",--,None
+"Sunday, Apr 24",boxscore,STL,None,CHC,L,7,8,None,1-6,8, 5.0,Vaughn,Sherdel,None,2:00,D,None,---,None
+"Monday, Apr 25",boxscore,STL,None,PIT,L,5,6,10,1-7,8, 6.0,Ponder,Pertica,None,1:55,D,None,----,None
+"Wednesday, Apr 27",boxscore,STL,None,PIT,L,4,7,None,1-8,8, 7.0,Hamilton,May,Zinn,1:59,D,None,-----,None
+"Friday, Apr 29",boxscore,STL,None,CIN,L,3,7,None,1-9,8, 8.0,Rixey,Sherdel,None,2:00,D,"3,000",------,None
+"Saturday, Apr 30",boxscore,STL,None,CIN,W,3,1,None,2-9,8, 7.5,Pertica,Luque,None,1:42,D,"5,000",+,None
+"Sunday, May 1",boxscore,STL,None,CIN,W,1,0,None,3-9,8, 7.5,Haines,Marquard,None,1:28,D,None,++,None
+"Thursday, May 5",boxscore,STL,@,PIT,L,3,8,None,3-10,8, 9.0,Cooper,Pertica,None,1:25,D,None,-,None
+"Friday, May 6",boxscore,STL,@,PIT,L,6,10,None,3-11,8, 10.0,Hamilton,Haines,Zinn,2:23,D,None,--,None
+"Saturday, May 7",boxscore,STL,@,PIT,L,1,2,None,3-12,8, 11.0,Glazner,Sherdel,None,2:10,D,None,---,None
+"Sunday, May 8",boxscore,STL,@,CHC,W,9,6,None,4-12,8, 10.0,Riviere,York,None,2:10,D,None,+,None
+"Tuesday, May 10",boxscore,STL,@,NYG,W,7,6,None,5-12,7, 10.0,North,Sallee,None,2:10,D,"12,000",++,None
+"Wednesday, May 11",boxscore,STL,@,NYG,L,1,4,None,5-13,7, 10.0,Toney,Doak,None,1:52,D,"10,000",-,None
+"Thursday, May 12",boxscore,STL,@,NYG,L,5,7,None,5-14,7, 11.0,Sallee,Sherdel,None,2:00,D,"12,000",--,None
+"Friday, May 13",boxscore,STL,@,NYG,L,1,5,6,5-15,7, 11.5,Ryan,Walker,None,1:35,D,"10,000",---,None
+"Saturday, May 14",boxscore,STL,@,BRO,W,4,3,None,6-15,7, 11.5,Pertica,Ruether,None,1:47,D,"15,000",+,None
+"Sunday, May 15",boxscore,STL,@,BRO,W,10,6,None,7-15,6, 11.0,Schupp,Smith,None,1:56,D,"27,000",++,None
+"Monday, May 16",boxscore,STL,@,BRO,W,4,3,None,8-15,6, 10.0,Doak,Mitchell,None,1:42,D,"4,000",+++,None
+"Tuesday, May 17",boxscore,STL,@,BRO,L,7,9,None,8-16,6, 11.0,Grimes,Haines,None,2:15,D,"4,000",-,None
+"Wednesday, May 18",boxscore,STL,@,PHI,L,6,7,None,8-17,6, 12.0,Betts,Pertica,None,None,D,None,--,None
+"Thursday, May 19",boxscore,STL,@,PHI,W,3,2,11,9-17,6, 12.0,Walker,Betts,None,2:35,D,None,+,None
+"Friday, May 20",boxscore,STL,@,PHI,L,3,4,None,9-18,6, 13.0,Ring,Doak,None,1:48,D,None,-,None
+"Saturday, May 21",boxscore,STL,@,PHI,W,13,3,None,10-18,6, 13.0,Haines,Baumgartner,None,1:58,D,None,+,None
+"Tuesday, May 24",boxscore,STL,@,BSN,L,3,7,None,10-19,6, 13.5,Watson,Sherdel,Scott,1:42,D,None,-,None
+"Friday, May 27",boxscore,STL,@,CHC,W,10,7,None,11-19,6, 13.0,Sherdel,Freeman,None,2:22,D,None,+,None
+"Saturday, May 28",boxscore,STL,@,CHC,W,8,7,None,12-19,6, 12.5,Walker,Vaughn,None,2:25,D,None,++,None
+"Saturday, May 28",boxscore,STL,@,CHC,W,9,2,None,13-19,6, 12.5,Haines,Cheeves,None,1:45,D,None,+++,1921-04-16 (Snow)
+"Sunday, May 29",boxscore,STL,@,CHC,W,6,1,None,14-19,6, 11.5,Goodwin,Martin,None,1:51,D,None,++++,None
+"Monday, May 30",boxscore,STL,@,CIN,W,9,4,None,15-19,5, 11.5,Schupp,Rogge,None,2:23,D,None,+++++,None
+"Monday, May 30",boxscore,STL,@,CIN,W,7,4,None,16-19,5, 11.5,Sherdel,Eller,North,2:02,D,None,++++++,None
+"Tuesday, May 31",boxscore,STL,@,CIN,L,5,6,10,16-20,5, 11.5,Luque,Walker,None,1:58,D,None,-,None
+"Wednesday, Jun 1",boxscore,STL,@,CIN,W,10,4,None,17-20,5, 11.5,Haines,Rixey,None,1:52,D,None,+,None
+"Thursday, Jun 2",boxscore,STL,@,CIN,L,5,8,None,17-21,5, 11.5,Rogge,Goodwin,Eller,1:54,D,None,-,1921-04-17 (Rain)
+"Friday, Jun 3",boxscore,STL,None,PHI,L,5,6,None,17-22,6, 11.5,Hubbell,Pertica,Smith,1:45,D,None,--,None
+"Saturday, Jun 4",boxscore,STL,None,PHI,W,11,9,None,18-22,5, 11.0,Walker,Meadows,North,2:17,D,None,+,None
+"Sunday, Jun 5",boxscore,STL,None,PHI,W,7,4,None,19-22,5, 10.5,Haines,Smith,Sherdel,1:47,D,None,++,None
+"Monday, Jun 6",boxscore,STL,None,PHI,W,11,0,None,20-22,5, 10.0,Doak,Keenan,Schupp,2:02,D,None,+++,None
+"Tuesday, Jun 7",boxscore,STL,None,BRO,W,14,5,None,21-22,5, 9.0,North,Cadore,None,1:52,D,"2,500",++++,None
+"Wednesday, Jun 8",boxscore,STL,None,BRO,W,4,2,None,22-22,4, 9.0,Pertica,Pfeffer,None,1:26,D,"1,500",+++++,None
+"Thursday, Jun 9",boxscore,STL,None,BRO,W,8,3,None,23-22,3, 9.0,Haines,Cadore,None,1:43,D,"4,000",++++++,None
+"Friday, Jun 10",boxscore,STL,None,BRO,W,8,3,None,24-22,3, 8.0,Walker,Ruether,None,1:47,D,"3,500",+++++++,None
+"Saturday, Jun 11",boxscore,STL,None,NYG,W,8,3,None,25-22,3, 8.0,Doak,Douglas,None,2:12,D,"15,000",++++++++,None
+"Sunday, Jun 12",boxscore,STL,None,NYG,W,4,3,None,26-22,3, 7.5,Pertica,Sallee,None,2:05,D,"20,000",+++++++++,None
+"Monday, Jun 13",boxscore,STL,None,NYG,W,10,1,None,27-22,3, 7.5,Haines,Nehf,None,1:50,D,"10,000",++++++++++,None
+"Tuesday, Jun 14",boxscore,STL,None,NYG,L,4,6,None,27-23,3, 8.5,Toney,Walker,None,2:05,D,"7,000",-,None
+"Wednesday, Jun 15",boxscore,STL,None,BSN,L,0,3,None,27-24,3, 8.5,Oeschger,Doak,None,1:50,D,None,--,None
+"Thursday, Jun 16",boxscore,STL,None,BSN,L,4,5,15,27-25,4, 9.5,McQuillan,North,None,2:52,D,None,---,None
+"Friday, Jun 17",boxscore,STL,None,BSN,L,0,10,None,27-26,4, 9.5,Fillingim,Haines,None,1:51,D,None,----,None
+"Saturday, Jun 18",boxscore,STL,None,BSN,L,4,13,None,27-27,4, 10.5,Scott,Walker,None,1:58,D,None,-----,None
+"Sunday, Jun 19",boxscore,STL,None,BSN,W,5,4,None,28-27,4, 10.0,Walker,Oeschger,None,1:43,D,None,+,None
+"Tuesday, Jun 21",boxscore,STL,None,CHC,W,17,5,None,29-27,4, 10.5,Pertica,Freeman,Goodwin,2:10,D,None,++,None
+"Tuesday, Jun 21",boxscore,STL,None,CHC,L,3,6,None,29-28,4, 10.5,Alexander,Goodwin,None,1:50,D,None,-,1921-04-21 (Rain)
+"Wednesday, Jun 22",boxscore,STL,None,CHC,L,3,5,None,29-29,4, 11.5,Vaughn,Haines,None,2:00,D,None,--,None
+"Thursday, Jun 23",boxscore,STL,None,PIT,W,3,2,12,30-29,4, 9.5,Walker,Carlson,None,2:50,D,None,+,None
+"Thursday, Jun 23",boxscore,STL,None,PIT,W,4,3,None,31-29,4, 9.5,Doak,Zinn,None,1:40,D,None,++,1921-04-26 (Wet grounds)
+"Friday, Jun 24",boxscore,STL,None,PIT,L,3,4,10,31-30,4, 10.5,Glazner,Bailey,None,2:13,D,None,-,None
+"Saturday, Jun 25",boxscore,STL,None,PIT,W,7,4,None,32-30,4, 10.5,Pfeffer,Yellow Horse,North,2:05,D,None,+,None
+"Saturday, Jun 25",boxscore,STL,None,PIT,L,2,5,None,32-31,4, 10.5,Cooper,Pertica,None,1:45,D,None,-,None
+"Sunday, Jun 26",boxscore,STL,None,CIN,W,5,2,None,33-31,4, 10.5,Haines,Brenton,None,1:35,D,None,+,None
+"Monday, Jun 27",boxscore,STL,None,CIN,L,2,5,None,33-32,4, 11.5,Rixey,Walker,None,1:55,D,None,-,None
+"Tuesday, Jun 28",boxscore,STL,None,CIN,W,7,3,None,34-32,4, 10.0,Doak,Marquard,None,1:47,D,None,+,None
+"Friday, Jul 1",boxscore,STL,@,CHC,L,6,8,None,34-33,4, 12.0,Alexander,North,None,2:35,D,None,-,1921-04-14 (Rain)
+"Saturday, Jul 2",boxscore,STL,@,CHC,W,3,2,None,35-33,4, 12.0,Doak,Vaughn,None,1:50,D,None,+,None
+"Sunday, Jul 3",boxscore,STL,@,CHC,W,8,3,None,36-33,4, 11.0,Pfeffer,York,None,2:05,D,None,++,None
+"Monday, Jul 4",boxscore,STL,@,PIT,L,2,5,None,36-34,4, 11.0,Glazner,Bailey,None,1:42,D,None,-,None
+"Monday, Jul 4",boxscore,STL,@,PIT,W,6,3,None,37-34,4, 11.0,Pertica,Cooper,None,1:50,D,None,+,None
+"Tuesday, Jul 5",boxscore,STL,@,PIT,W,8,2,None,38-34,4, 10.0,Walker,Yellow Horse,None,1:55,D,None,++,None
+"Wednesday, Jul 6",boxscore,STL,@,PIT,L,2,3,13,38-35,4, 11.0,Morrison,North,None,2:29,D,None,-,None
+"Thursday, Jul 7",boxscore,STL,@,PHI,W,15,2,None,39-35,4, 10.5,Haines,Smith,None,1:50,D,None,+,None
+"Friday, Jul 8",boxscore,STL,@,PHI,L,4,9,None,39-36,4, 11.5,Ring,Pfeffer,None,1:50,D,None,-,None
+"Saturday, Jul 9",boxscore,STL,@,PHI,W,7,1,None,40-36,4, 11.5,Walker,Hubbell,None,2:00,D,None,+,None
+"Monday, Jul 11",boxscore,STL,@,PHI,L,8,9,8,40-37,4, 11.0,Ring,Pertica,None,3:00,D,None,-,None
+"Tuesday, Jul 12",boxscore,STL,@,NYG,L,2,8,None,40-38,4, 12.0,Barnes,Haines,None,2:02,D,"10,000",--,None
+"Wednesday, Jul 13",boxscore,STL,@,NYG,L,4,9,None,40-39,5, 12.5,Nehf,Walker,Douglas,2:15,D,"8,000",---,None
+"Thursday, Jul 14",boxscore,STL,@,NYG,L,3,4,10,40-40,5, 13.5,Ryan,Bailey,None,2:05,D,"6,000",----,None
+"Saturday, Jul 16",boxscore,STL,@,BSN,W,4,3,10,41-40,4, 13.0,Pfeffer,McQuillan,None,1:55,D,None,+,None
+"Saturday, Jul 16",boxscore,STL,@,BSN,L,3,5,None,41-41,4, 13.0,Oeschger,Haines,Fillingim,1:55,D,None,-,None
+"Monday, Jul 18",boxscore,STL,@,BSN,L,8,14,None,41-42,5, 13.5,Fillingim,Bailey,None,2:04,D,None,--,None
+"Tuesday, Jul 19",boxscore,STL,@,BSN,L,2,3,None,41-43,5, 14.5,Watson,Walker,None,1:45,D,None,---,None
+"Wednesday, Jul 20",boxscore,STL,@,BRO,W,8,5,None,42-43,4, 14.5,Pfeffer,Grimes,None,1:58,D,"2,000",+,None
+"Thursday, Jul 21",boxscore,STL,@,BRO,L,1,2,11,42-44,5, 15.0,Grimes,Doak,None,2:15,D,"2,000",-,None
+"Friday, Jul 22",boxscore,STL,@,BRO,L,5,6,None,42-45,5, 15.5,Schupp,Pertica,Ruether,2:00,D,"2,500",--,None
+"Saturday, Jul 23",boxscore,STL,@,BRO,L,4,14,None,42-46,5, 16.0,Mitchell,Walker,None,1:50,D,"8,000",---,None
+"Tuesday, Jul 26",boxscore,STL,None,PHI,L,7,8,10,42-47,5, 16.5,Smith,Sherdel,None,2:15,D,None,----,None
+"Wednesday, Jul 27",boxscore,STL,None,PHI,W,5,1,None,43-47,5, 15.5,Pertica,Winters,None,1:45,D,None,+,None
+"Thursday, Jul 28",boxscore,STL,None,PHI,W,9,0,None,44-47,5, 14.5,Haines,Sedgwick,None,1:50,D,None,++,None
+"Friday, Jul 29",boxscore,STL,None,BRO,W,1,0,None,45-47,5, 14.0,Pfeffer,Mitchell,None,1:15,D,"4,000",+++,None
+"Saturday, Jul 30",boxscore,STL,None,BRO,W,8,6,None,46-47,5, 13.0,Doak,Grimes,Walker,2:10,D,None,++++,None
+"Sunday, Jul 31",boxscore,STL,None,BRO,W,4,2,None,47-47,4, 12.5,Pertica,Ruether,None,1:52,D,"12,000",+++++,None
+"Monday, Aug 1",boxscore,STL,None,BRO,L,7,8,None,47-48,5, 13.5,Smith,Haines,Mitchell,2:05,D,"5,000",-,None
+"Tuesday, Aug 2",boxscore,STL,None,NYG,W,6,4,None,48-48,5, 13.0,Bailey,Barnes,Walker,2:08,D,"3,500",+,None
+"Wednesday, Aug 3",boxscore,STL,None,NYG,W,3,2,None,49-48,5, 13.0,Doak,Douglas,None,1:58,D,None,++,None
+"Thursday, Aug 4",boxscore,STL,None,NYG,W,1,0,None,50-48,4, 13.0,Pertica,Nehf,None,1:45,D,"6,000",+++,None
+"Friday, Aug 5",boxscore,STL,None,NYG,L,1,2,None,50-49,5, 14.0,Toney,Walker,None,2:00,D,"5,000",-,None
+"Saturday, Aug 6",boxscore,STL,None,BSN,W,12,2,None,51-49,5, 13.0,Sherdel,Oeschger,None,2:15,D,None,+,None
+"Sunday, Aug 7",boxscore,STL,None,BSN,W,11,0,None,52-49,5, 12.5,Doak,Scott,None,1:55,D,None,++,None
+"Monday, Aug 8",boxscore,STL,None,BSN,W,7,6,10,53-49,5, 11.5,Haines,McQuillan,None,2:18,D,None,+++,None
+"Tuesday, Aug 9",boxscore,STL,None,BSN,L,3,4,None,53-50,5, 12.5,Oeschger,Walker,Watson,1:50,D,None,-,None
+"Wednesday, Aug 10",boxscore,STL,None,CIN,W,6,4,None,54-50,5, 12.0,Pfeffer,Luque,None,1:35,D,None,+,None
+"Wednesday, Aug 10",boxscore,STL,None,CIN,L,3,6,None,54-51,5, 12.0,Coumbe,Haines,None,1:55,D,None,-,1921-04-28 (Rain)
+"Thursday, Aug 11",boxscore,STL,None,CIN,L,1,6,None,54-52,5, 13.5,Rixey,Doak,None,1:40,D,None,--,None
+"Friday, Aug 12",boxscore,STL,None,CIN,L,2,4,None,54-53,5, 14.5,Marquard,Pertica,Luque,1:34,D,None,---,None
+"Saturday, Aug 13",boxscore,STL,None,CIN,W,8,1,None,55-53,5, 14.5,Doak,Donohue,None,1:48,D,None,+,None
+"Sunday, Aug 14",boxscore,STL,@,CIN,L,1,5,None,55-54,5, 15.5,Rixey,Walker,None,1:50,D,None,-,None
+"Thursday, Aug 18",boxscore,STL,@,BRO,L,5,11,None,55-55,5, 17.5,Mitchell,Pertica,None,2:11,D,"5,000",--,None
+"Thursday, Aug 18",boxscore,STL,@,BRO,L,1,4,None,55-56,5, 17.5,Cadore,Walker,None,1:25,D,"8,000",---,1921-08-17 (Rain)
+"Friday, Aug 19",boxscore,STL,@,BRO,W,9,4,None,56-56,5, 17.0,Pfeffer,Miljus,None,1:46,D,"5,000",+,None
+"Saturday, Aug 20",boxscore,STL,@,NYG,W,10,1,None,57-56,5, 17.0,Doak,Nehf,None,2:00,D,"25,000",++,None
+"Sunday, Aug 21",boxscore,STL,@,NYG,L,4,7,None,57-57,5, 17.5,Toney,Bailey,None,2:10,D,"25,000",-,None
+"Monday, Aug 22",boxscore,STL,@,NYG,W,6,0,None,58-57,5, 17.5,Pertica,Shea,None,2:03,D,"5,000",+,None
+"Tuesday, Aug 23",boxscore,STL,@,NYG,W,10,7,None,59-57,5, 16.5,Sherdel,Barnes,None,2:15,D,"5,000",++,1921-07-15 (Rain)
+"Wednesday, Aug 24",boxscore,STL,@,BSN,W,4,3,None,60-57,4, 14.5,Doak,Oeschger,None,1:47,D,None,+++,None
+"Wednesday, Aug 24",boxscore,STL,@,BSN,W,3,2,None,61-57,4, 14.5,Pfeffer,Fillingim,None,1:50,D,None,++++,1921-05-23 (Rain)
+"Thursday, Aug 25",boxscore,STL,@,BSN,W,4,2,None,62-57,4, 13.5,Walker,Scott,None,1:54,D,None,+++++,None
+"Friday, Aug 26",boxscore,STL,@,BSN,W,6,3,None,63-57,4, 12.5,Pertica,McQuillan,North,1:50,D,None,++++++,None
+"Saturday, Aug 27",boxscore,STL,@,BSN,W,7,3,None,64-57,4, 11.0,Haines,Watson,Walker,1:41,D,None,+++++++,None
+"Saturday, Aug 27",boxscore,STL,@,BSN,W,2,1,None,65-57,4, 11.0,Sherdel,Oeschger,None,1:47,D,None,++++++++,1921-05-25 (Rain)
+"Tuesday, Aug 30",boxscore,STL,@,PHI,L,1,2,None,65-58,4, 11.5,Hubbell,Doak,None,1:48,D,None,-,None
+"Tuesday, Aug 30",boxscore,STL,@,PHI,W,9,8,None,66-58,4, 11.5,Walker,Sedgwick,Pertica,2:10,D,None,+,1921-08-29 (Rain)
+"Wednesday, Aug 31",boxscore,STL,@,PHI,W,12,5,None,67-58,4, 11.0,Haines,Winters,North,1:50,D,None,++,None
+"Thursday, Sep 1",boxscore,STL,@,PIT,W,10,4,None,68-58,3, 9.0,Pertica,Hamilton,None,1:56,D,None,+++,None
+"Thursday, Sep 1",boxscore,STL,@,PIT,W,8,0,None,69-58,3, 9.0,Sherdel,Morrison,None,1:34,D,None,++++,1921-05-04 (Rain)
+"Friday, Sep 2",boxscore,STL,@,PIT,W,1,0,None,70-58,3, 8.0,Haines,Carlson,None,2:00,D,None,+++++,None
+"Sunday, Sep 4",boxscore,STL,None,CHC,L,0,2,None,70-59,3, 8.5,Martin,Pfeffer,None,1:49,D,None,-,None
+"Sunday, Sep 4",boxscore,STL,None,CHC,W,4,2,None,71-59,3, 8.5,Sherdel,Freeman,None,1:34,D,None,+,1921-04-22 (Wet grounds)
+"Monday, Sep 5",boxscore,STL,None,CHC,W,4,3,None,72-59,3, 7.5,Pertica,Ponder,North,1:33,D,None,++,None
+"Monday, Sep 5",boxscore,STL,None,CHC,W,4,3,5,73-59,3, 7.5,Doak,Cheeves,None,1:12,D,None,+++,None
+"Tuesday, Sep 6",boxscore,STL,None,CHC,W,1,0,None,74-59,3, 6.5,Bailey,Alexander,None,1:49,D,None,++++,None
+"Tuesday, Sep 6",boxscore,STL,None,CHC,W,3,2,None,75-59,3, 6.5,Haines,Jones,None,1:30,D,None,+++++,1921-06-20 (Rain)
+"Friday, Sep 9",boxscore,STL,@,CIN,L,3,10,None,75-60,3, 7.0,Luque,Pfeffer,None,1:51,D,None,-,None
+"Saturday, Sep 10",boxscore,STL,@,CIN,L,2,6,None,75-61,3, 8.0,Rixey,Haines,None,1:50,D,None,--,None
+"Sunday, Sep 11",boxscore,STL,@,CHC,W,10,5,None,76-61,3, 8.0,Sherdel,Cheeves,Doak,1:45,D,None,+,None
+"Wednesday, Sep 14",boxscore,STL,None,BRO,L,7,9,None,76-62,3, 9.0,Miljus,Sherdel,Smith,1:50,D,None,-,None
+"Wednesday, Sep 14",boxscore,STL,None,BRO,W,3,2,11,77-62,3, 9.0,Pertica,Mitchell,None,1:50,D,None,+,1921-09-13 (Rain)
+"Thursday, Sep 15",boxscore,STL,None,BRO,W,2,1,None,78-62,3, 9.0,Haines,Grimes,None,1:17,D,None,++,None
+"Friday, Sep 16",boxscore,STL,None,PHI,W,4,3,None,79-62,3, 9.0,Walker,Behan,None,1:54,D,None,+++,None
+"Saturday, Sep 17",boxscore,STL,None,PHI,W,9,5,None,80-62,3, 9.0,Doak,Meadows,North,2:00,D,None,++++,None
+"Sunday, Sep 18",boxscore,STL,None,PHI,W,6,4,None,81-62,3, 8.5,Pfeffer,Ring,None,1:49,D,None,+++++,None
+"Monday, Sep 19",boxscore,STL,None,PHI,W,5,3,None,82-62,3, 7.5,Haines,Hubbell,None,1:35,D,None,++++++,None
+"Tuesday, Sep 20",boxscore,STL,None,BSN,W,9,7,None,83-62,3, 6.5,North,Morgan,Pertica,1:55,D,None,+++++++,None
+"Wednesday, Sep 21",boxscore,STL,None,BSN,L,6,7,None,83-63,3, 7.5,Watson,Sherdel,None,1:58,D,None,-,None
+"Saturday, Sep 24",boxscore,STL,None,NYG,W,8,4,None,84-63,3, 6.5,Doak,Toney,None,1:46,D,"12,000",+,None
+"Sunday, Sep 25",boxscore,STL,None,NYG,L,2,5,None,84-64,3, 7.5,Douglas,Haines,None,2:05,D,"25,000",-,None
+"Monday, Sep 26",boxscore,STL,None,NYG,L,1,4,None,84-65,3, 8.5,Nehf,Pertica,None,1:51,D,"7,500",--,1921-09-23 (Rain)
+"Thursday, Sep 29",boxscore,STL,None,PIT,W,5,4,10,85-65,3, 7.5,North,Cooper,None,1:55,D,"5,000",+,None
+"Thursday, Sep 29",boxscore,STL,None,PIT,W,3,1,6,86-65,3, 7.5,Sherdel,Morrison,None,0:59,D,None,++,1921-09-03 (Rain; Site change)
+"Friday, Sep 30",boxscore,STL,None,PIT,W,12,4,None,87-65,3, 7.0,Haines,Carlson,None,1:50,D,None,+++,None
+"Saturday, Oct 1",boxscore,STL,None,PIT,T,4,4,None,87-65,3, 7.0,None,None,None,2:26,D,None,+++,None
+"Sunday, Oct 2",boxscore,STL,None,PIT,L,3,4,None,87-66,3, 7.0,Cooper,North,None,1:46,D,None,-,None

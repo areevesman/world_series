@@ -1,0 +1,162 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Sunday, Apr 7",boxscore,NYM,@,PHI,W,9,2,None,1-1,2, 1.0,Matlack,Lonborg,McGraw,2:40,D,"16,441",+,None
+"Wednesday, Apr 10",boxscore,NYM,None,STL,W,3,2,None,2-1,2, 0.5,Koosman,Curtis,Apodaca,2:03,D,"17,154",++,1974-04-09 (Rain)
+"Thursday, Apr 11",boxscore,NYM,None,STL,L,7,8,None,2-2,4, 2.0,Garman,Swan,None,2:28,D,None,-,None
+"Thursday, Apr 11",boxscore,NYM,None,STL,L,3,4,None,2-3,4, 2.0,Folkers,Apodaca,None,2:23,D,"34,382",--,None
+"Sunday, Apr 14",boxscore,NYM,None,PHI,L,1,2,11,2-4,5, 4.0,Wallace,McGraw,None,3:10,D,None,---,None
+"Sunday, Apr 14",boxscore,NYM,None,PHI,L,3,5,None,2-5,5, 4.0,Scarce,Miller,None,2:22,D,"14,201",----,1974-04-13 (Rain)
+"Tuesday, Apr 16",boxscore,NYM,@,MON,L,1,4,None,2-6,5, 3.5,Renko,Seaver,None,1:58,D,"18,425",-----,None
+"Wednesday, Apr 17",boxscore,NYM,@,MON,L,4,7,None,2-7,5, 4.5,Rogers,Stone,None,2:15,D,"10,007",------,None
+"Thursday, Apr 18",boxscore,NYM,@,MON,L,5,8,None,2-8,5, 5.5,Torrez,Sadecki,Taylor,2:29,D,"8,390",-------,None
+"Saturday, Apr 20",boxscore,NYM,None,PIT,W,5,2,None,3-8,5, 5.0,Koosman,Moose,None,1:56,D,"18,070",+,None
+"Sunday, Apr 21",boxscore,NYM,None,PIT,L,0,7,None,3-9,5, 6.0,Brett,Seaver,None,2:15,D,"23,375",-,None
+"Tuesday, Apr 23",boxscore,NYM,@,SDP,L,2,10,None,3-10,5, 7.0,Jones,Matlack,None,2:23,N,"7,819",--,None
+"Wednesday, Apr 24",boxscore,NYM,@,SDP,L-wo,3,4,None,3-11,6, 7.5,Corkins,Apodaca,None,2:20,N,"8,322",---,None
+"Thursday, Apr 25",boxscore,NYM,@,SDP,W,5,2,None,4-11,5, 6.5,Koosman,Greif,None,2:22,N,"8,307",+,None
+"Friday, Apr 26",boxscore,NYM,@,SFG,W,6,0,None,5-11,5, 5.5,Seaver,Bryant,None,2:12,N,"8,210",++,None
+"Saturday, Apr 27",boxscore,NYM,@,SFG,L,3,11,None,5-12,5, 5.5,Sosa,Swan,None,2:49,D,"9,727",-,None
+"Sunday, Apr 28",boxscore,NYM,@,SFG,W,6,0,None,6-12,5, 4.0,Matlack,Bradley,None,1:54,D,None,+,None
+"Sunday, Apr 28",boxscore,NYM,@,SFG,W,6,4,None,7-12,5, 4.0,Parker,Moffitt,Miller,2:41,D,"18,970",++,None
+"Monday, Apr 29",boxscore,NYM,@,LAD,L,7,8,None,7-13,5, 4.5,Brewer,Stone,Marshall,2:43,N,"21,934",-,None
+"Tuesday, Apr 30",boxscore,NYM,@,LAD,W,8,7,None,8-13,5, 4.5,Miller,Brewer,None,2:48,N,"24,049",+,None
+"Wednesday, May 1",boxscore,NYM,@,LAD,L-wo,1,2,14,8-14,5, 4.5,Brewer,Parker,None,3:05,N,"27,283",-,None
+"Saturday, May 4",boxscore,NYM,None,SDP,W,6,3,None,9-14,5, 3.5,Matlack,Jones,None,2:18,D,"46,195",+,None
+"Sunday, May 5",boxscore,NYM,None,SDP,L,4,5,None,9-15,5, 3.5,Hardy,McGraw,Romo,2:15,D,None,-,None
+"Sunday, May 5",boxscore,NYM,None,SDP,W-wo,6,4,10,10-15,5, 3.5,Sadecki,Hardy,None,2:36,D,"25,439",+,1974-05-03 (Rain)
+"Tuesday, May 7",boxscore,NYM,None,SFG,L,3,4,None,10-16,5, 5.0,Sosa,Seaver,None,2:17,N,None,-,None
+"Tuesday, May 7",boxscore,NYM,None,SFG,L,0,3,None,10-17,5, 5.0,Barr,Stone,Moffitt,2:02,N,"15,352",--,1974-05-06 (Rain)
+"Wednesday, May 8",boxscore,NYM,None,SFG,W,4,2,None,11-17,5, 5.0,Matlack,D'Acquisto,None,2:18,N,"13,421",+,None
+"Friday, May 10",boxscore,NYM,@,CHC,W,7,2,None,12-17,5, 4.0,Koosman,Hooton,None,2:31,D,"4,385",++,None
+"Saturday, May 11",boxscore,NYM,@,CHC,W,6,3,None,13-17,4, 3.0,Swan,Frailing,None,2:43,D,"9,481",+++,None
+"Sunday, May 12",boxscore,NYM,@,CHC,L-wo,3,4,None,13-18,5, 4.0,Bonham,Seaver,None,2:38,D,"9,581",-,None
+"Monday, May 13",boxscore,NYM,@,STL,W,5,3,None,14-18,5, 3.5,Apodaca,Gibson,Parker,2:07,N,"12,653",+,None
+"Wednesday, May 15",boxscore,NYM,@,STL,L,1,10,None,14-19,5, 4.0,McGlothen,Koosman,None,2:17,N,"12,096",-,None
+"Thursday, May 16",boxscore,NYM,@,STL,W,6,4,None,15-19,4, 3.0,Stone,Curtis,None,2:08,D,"14,307",+,None
+"Friday, May 17",boxscore,NYM,None,MON,W,5,0,None,16-19,4, 2.5,Seaver,Moore,None,2:10,N,"23,200",++,None
+"Saturday, May 18",boxscore,NYM,None,MON,W,6,0,None,17-19,4, 2.5,Matlack,Rogers,None,2:39,D,"48,736",+++,None
+"Sunday, May 19",boxscore,NYM,None,MON,L,4,7,None,17-20,4, 4.0,Renko,Swan,Taylor,2:38,D,None,-,None
+"Sunday, May 19",boxscore,NYM,None,MON,L,0,5,None,17-21,4, 4.0,McAnally,Koosman,None,2:03,D,"40,641",--,None
+"Monday, May 20",boxscore,NYM,None,CHC,L,1,2,None,17-22,4, 4.5,Hooton,Parker,None,2:10,N,"11,225",---,None
+"Tuesday, May 21",boxscore,NYM,None,CHC,W,10,5,None,18-22,4, 4.5,Stone,Frailing,None,2:35,N,"11,995",+,None
+"Wednesday, May 22",boxscore,NYM,None,CHC,L,6,9,None,18-23,4, 5.5,LaRoche,Apodaca,None,2:55,N,"16,196",-,None
+"Friday, May 24",boxscore,NYM,@,PIT,L,1,4,None,18-24,4, 5.5,Reuss,Matlack,None,2:01,N,"12,257",--,None
+"Saturday, May 25",boxscore,NYM,@,PIT,W,4,3,None,19-24,4, 6.0,Koosman,Ellis,None,2:20,N,"11,260",+,None
+"Sunday, May 26",boxscore,NYM,@,PIT,W,5,3,None,20-24,4, 5.0,Sadecki,Giusti,Parker,2:34,D,"15,573",++,None
+"Monday, May 27",boxscore,NYM,@,CIN,L,2,4,None,20-25,4, 5.0,Norman,Seaver,None,1:57,N,"20,057",-,None
+"Tuesday, May 28",boxscore,NYM,@,CIN,L,2,7,None,20-26,4, 5.0,Kirby,Stone,None,2:26,N,"14,017",--,None
+"Wednesday, May 29",boxscore,NYM,@,CIN,L-wo,2,3,10,20-27,4, 5.0,Carroll,Parker,None,2:35,N,"16,339",---,None
+"Friday, May 31",boxscore,NYM,None,HOU,L,1,7,None,20-28,5, 5.0,Wilson,Koosman,None,2:44,N,"20,736",----,None
+"Saturday, Jun 1",boxscore,NYM,None,HOU,W,3,1,None,21-28,4, 5.0,Seaver,Roberts,None,2:11,D,"18,994",+,None
+"Monday, Jun 3",boxscore,NYM,None,CIN,L,2,5,None,21-29,5, 6.5,Kirby,Matlack,None,2:35,N,"23,065",-,None
+"Tuesday, Jun 4",boxscore,NYM,None,CIN,L,3,6,10,21-30,5, 6.5,Borbon,Sadecki,None,2:52,N,"23,333",--,None
+"Thursday, Jun 6",boxscore,NYM,None,CIN,W,4,3,None,22-30,4, 6.5,Sadecki,Borbon,None,2:18,D,"19,502",+,None
+"Friday, Jun 7",boxscore,NYM,@,HOU,L,0,1,None,22-31,4, 6.5,Wilson,Parker,None,1:52,N,"15,406",-,None
+"Saturday, Jun 8",boxscore,NYM,@,HOU,W,6,5,14,23-31,4, 6.5,Sadecki,York,None,3:47,N,"18,984",+,None
+"Sunday, Jun 9",boxscore,NYM,@,HOU,L,1,11,None,23-32,4, 6.5,Griffin,Koosman,None,2:24,D,"16,880",-,None
+"Tuesday, Jun 11",boxscore,NYM,@,ATL,L-wo,3,4,11,23-33,5, 7.0,Frisella,Apodaca,None,3:04,N,"45,296",--,None
+"Wednesday, Jun 12",boxscore,NYM,@,ATL,L,0,1,None,23-34,5, 8.0,Morton,Parker,None,2:15,N,"10,166",---,None
+"Friday, Jun 14",boxscore,NYM,None,LAD,L,2,3,None,23-35,5, 8.0,John,Matlack,Marshall,2:15,N,"42,211",----,None
+"Saturday, Jun 15",boxscore,NYM,None,LAD,W,4,1,None,24-35,5, 8.0,Koosman,Rau,None,2:07,D,"37,092",+,None
+"Sunday, Jun 16",boxscore,NYM,None,LAD,L,1,7,None,24-36,6, 8.0,Messersmith,Seaver,None,2:17,D,"35,994",-,None
+"Monday, Jun 17",boxscore,NYM,None,ATL,L,1,8,None,24-37,6, 9.0,Niekro,Parker,None,2:17,N,"35,994",--,None
+"Tuesday, Jun 18",boxscore,NYM,None,ATL,L,1,6,None,24-38,6, 9.0,Harrison,Stone,None,2:18,N,"33,403",---,None
+"Wednesday, Jun 19",boxscore,NYM,None,ATL,L,0,5,None,24-39,6, 10.0,Capra,Matlack,House,2:35,D,"24,159",----,None
+"Thursday, Jun 20",boxscore,NYM,@,PHI,W,2,1,None,25-39,6, 9.0,Koosman,Ruthven,None,2:26,N,"22,210",+,None
+"Friday, Jun 21",boxscore,NYM,@,PHI,W,3,1,None,26-39,6, 8.0,Seaver,Carlton,McGraw,2:26,N,"28,262",++,None
+"Saturday, Jun 22",boxscore,NYM,@,PHI,L,2,5,None,26-40,6, 10.0,Schueler,Parker,None,1:58,D,None,-,None
+"Saturday, Jun 22",boxscore,NYM,@,PHI,L,5,8,None,26-41,6, 10.0,Twitchell,Stone,Hernaiz,2:41,N,"51,197",--,None
+"Monday, Jun 24",boxscore,NYM,@,CHC,W,4,2,None,27-41,6, 10.0,Miller,Zamora,None,2:32,D,"9,860",+,None
+"Tuesday, Jun 25",boxscore,NYM,@,CHC,W,5,1,None,28-41,6, 9.0,Koosman,Reuschel,None,2:05,D,"13,217",++,None
+"Wednesday, Jun 26",boxscore,NYM,@,CHC,W,5,4,12,29-41,6, 8.0,Aker,Hooton,None,3:10,D,"15,275",+++,None
+"Thursday, Jun 27",boxscore,NYM,None,STL,L,1,6,None,29-42,6, 9.0,McGlothen,Sadecki,None,2:12,N,"19,952",-,None
+"Saturday, Jun 29",boxscore,NYM,None,STL,W,4,0,None,30-42,6, 8.0,Matlack,Curtis,None,1:58,D,"37,317",+,None
+"Sunday, Jun 30",boxscore,NYM,None,STL,L,2,5,None,30-43,6, 10.0,Foster,Koosman,Hrabosky,2:16,D,None,-,None
+"Sunday, Jun 30",boxscore,NYM,None,STL,L,3,5,10,30-44,6, 10.0,Pena,McGraw,None,2:50,D,"40,009",--,1974-06-28 (Rain)
+"Tuesday, Jul 2",boxscore,NYM,None,PHI,W,4,2,None,31-44,6, 9.0,Seaver,Ruthven,Aker,2:20,N,"20,724",+,None
+"Wednesday, Jul 3",boxscore,NYM,None,PHI,W,6,2,None,32-44,6, 9.0,Parker,Lonborg,None,2:03,D,"15,758",++,None
+"Thursday, Jul 4",boxscore,NYM,None,PHI,W,5,3,None,33-44,6, 8.5,Matlack,Schueler,None,2:07,D,None,+++,None
+"Thursday, Jul 4",boxscore,NYM,None,PHI,L,2,6,None,33-45,6, 8.5,Twitchell,Sadecki,None,2:29,D,"26,811",-,None
+"Friday, Jul 5",boxscore,NYM,None,SFG,W,3,2,None,34-45,6, 8.5,Koosman,Barr,None,2:12,N,"19,343",+,None
+"Saturday, Jul 6",boxscore,NYM,None,SFG,L,2,5,None,34-46,6, 9.5,D'Acquisto,Stone,Moffitt,2:53,D,"23,763",-,None
+"Sunday, Jul 7",boxscore,NYM,None,SFG,W,6,0,None,35-46,6, 8.0,Seaver,Bryant,Apodaca,2:25,D,"27,190",+,None
+"Monday, Jul 8",boxscore,NYM,None,SDP,W,2,1,None,36-46,6, 7.0,Parker,Freisleben,Miller,2:48,N,"16,791",++,None
+"Tuesday, Jul 9",boxscore,NYM,None,SDP,L,4,5,None,36-47,6, 7.0,Spillner,Matlack,Romo,2:34,N,"19,264",-,None
+"Wednesday, Jul 10",boxscore,NYM,None,SDP,L,1,8,None,36-48,6, 7.0,Greif,Koosman,None,2:12,D,"16,962",--,None
+"Friday, Jul 12",boxscore,NYM,@,LAD,W,5,2,None,37-48,6, 6.5,Apodaca,John,Aker,2:24,N,"50,129",+,None
+"Saturday, Jul 13",boxscore,NYM,@,LAD,L,1,2,None,37-49,6, 6.5,Messersmith,Parker,None,1:55,N,"41,658",-,None
+"Sunday, Jul 14",boxscore,NYM,@,LAD,W,4,1,None,38-49,4, 7.0,Matlack,Rau,None,2:34,D,"33,389",+,None
+"Tuesday, Jul 16",boxscore,NYM,@,SFG,L,4,9,None,38-50,6, 7.0,Barr,Koosman,None,2:27,N,"3,976",-,None
+"Wednesday, Jul 17",boxscore,NYM,@,SFG,L,2,6,None,38-51,6, 7.0,D'Acquisto,Apodaca,None,2:38,D,"10,016",--,None
+"Friday, Jul 19",boxscore,NYM,@,SDP,W,4,2,None,39-51,6, 6.5,Matlack,Spillner,None,2:10,N,"11,480",+,None
+"Saturday, Jul 20",boxscore,NYM,@,SDP,W,10,2,None,40-51,6, 6.5,Koosman,Palmer,None,2:51,N,"31,342",++,None
+"Sunday, Jul 21",boxscore,NYM,@,SDP,L,3,7,None,40-52,6, 7.5,Greif,Parker,None,2:00,D,"7,481",-,None
+"Thursday, Jul 25",boxscore,NYM,@,STL,L-wo,3,4,10,40-53,6, 9.0,Folkers,Aker,None,2:47,N,None,--,None
+"Thursday, Jul 25",boxscore,NYM,@,STL,L,1,4,None,40-54,6, 9.0,Foster,Matlack,None,2:04,N,"27,992",---,1974-05-14 (Rain)
+"Friday, Jul 26",boxscore,NYM,@,STL,W,3,0,None,41-54,6, 8.0,Seaver,McGlothen,None,2:06,N,"20,783",+,None
+"Saturday, Jul 27",boxscore,NYM,None,MON,W,8,5,None,42-54,5, 8.5,Apodaca,Torrez,None,2:25,N,"32,565",++,None
+"Sunday, Jul 28",boxscore,NYM,None,MON,W,4,1,None,43-54,5, 7.5,McGraw,McAnally,None,2:24,D,"26,306",+++,None
+"Monday, Jul 29",boxscore,NYM,None,MON,W,4,3,None,44-54,5, 7.5,Aker,Rogers,None,2:13,D,"17,343",++++,None
+"Tuesday, Jul 30",boxscore,NYM,None,PIT,L,0,6,None,44-55,5, 7.0,Rooker,Matlack,None,2:25,N,None,-,None
+"Tuesday, Jul 30",boxscore,NYM,None,PIT,W,4,3,None,45-55,5, 7.0,Koosman,Kison,None,1:57,D,"39,246",+,1974-04-19 (Wet grounds)
+"Wednesday, Jul 31",boxscore,NYM,None,PIT,L,3,8,None,45-56,5, 7.0,Ellis,Seaver,None,3:26,D,"23,281",-,None
+"Thursday, Aug 1",boxscore,NYM,None,CHC,L,4,7,10,45-57,5, 8.5,Hooton,McGraw,None,3:07,N,None,--,None
+"Thursday, Aug 1",boxscore,NYM,None,CHC,L,1,3,None,45-58,5, 8.5,LaRoche,Sadecki,Zamora,2:18,N,"26,230",---,1974-05-23 (Rain)
+"Saturday, Aug 3",boxscore,NYM,@,MON,W,3,0,None,46-58,5, 8.0,Matlack,Renko,None,2:19,N,"21,089",+,None
+"Monday, Aug 5",boxscore,NYM,@,MON,W,10,4,None,47-58,5, 8.0,McGraw,Blair,None,2:39,N,"20,118",++,None
+"Tuesday, Aug 6",boxscore,NYM,@,PIT,L-wo,8,9,11,47-59,5, 9.5,Patterson,McGraw,None,3:14,N,"12,441",-,None
+"Wednesday, Aug 7",boxscore,NYM,@,PIT,L,1,10,None,47-60,5, 9.5,Demery,Parker,None,2:29,N,"13,360",--,None
+"Thursday, Aug 8",boxscore,NYM,@,PIT,L-wo,3,4,None,47-61,5, 9.5,Reuss,Matlack,None,2:28,N,"11,191",---,None
+"Friday, Aug 9",boxscore,NYM,None,CIN,W,4,1,None,48-61,5, 9.5,Apodaca,Norman,None,2:30,N,"27,391",+,None
+"Saturday, Aug 10",boxscore,NYM,None,CIN,L,3,5,None,48-62,5, 9.5,Carroll,Sadecki,None,3:11,D,"40,359",-,None
+"Sunday, Aug 11",boxscore,NYM,None,CIN,L,4,10,None,48-63,5, 9.5,Carroll,Koosman,Hall,2:36,D,"40,588",--,None
+"Monday, Aug 12",boxscore,NYM,None,LAD,W,3,1,None,49-63,5, 9.5,Parker,Messersmith,None,1:52,N,"33,431",+,None
+"Tuesday, Aug 13",boxscore,NYM,None,LAD,W,3,0,None,50-63,5, 8.5,Matlack,Downing,None,2:02,N,"35,870",++,None
+"Wednesday, Aug 14",boxscore,NYM,None,LAD,W-wo,3,2,None,51-63,5, 8.5,McGraw,Marshall,None,2:49,D,"33,125",+++,None
+"Friday, Aug 16",boxscore,NYM,@,CIN,W,2,1,12,52-63,5, 8.5,McGraw,McEnaney,None,3:25,N,"36,480",++++,None
+"Saturday, Aug 17",boxscore,NYM,@,CIN,L,2,6,None,52-64,5, 9.5,Billingham,Parker,None,2:11,N,"47,274",-,None
+"Sunday, Aug 18",boxscore,NYM,@,CIN,L,5,6,None,52-65,5, 10.5,Carroll,Matlack,McEnaney,2:58,D,"45,025",--,None
+"Monday, Aug 19",boxscore,NYM,@,HOU,L-wo,1,2,11,52-66,5, 10.5,Forsch,Seaver,None,2:37,N,"10,619",---,None
+"Tuesday, Aug 20",boxscore,NYM,@,HOU,L,2,6,None,52-67,5, 10.5,Richard,Sadecki,Cosgrove,2:24,N,"11,539",----,None
+"Wednesday, Aug 21",boxscore,NYM,@,HOU,W,10,2,None,53-67,5, 9.5,Koosman,Griffin,None,2:26,N,"9,663",+,None
+"Friday, Aug 23",boxscore,NYM,@,ATL,L-wo,3,4,10,53-68,5, 11.0,Leon,McGraw,None,2:52,N,None,-,None
+"Friday, Aug 23",boxscore,NYM,@,ATL,L,0,6,None,53-69,5, 11.0,Krausse,Parker,House,2:12,N,"12,860",--,1974-06-13 (Rain)
+"Saturday, Aug 24",boxscore,NYM,@,ATL,L-wo,3,4,10,53-70,5, 11.0,Morton,Miller,None,2:34,N,"34,060",---,None
+"Sunday, Aug 25",boxscore,NYM,@,ATL,W,1,0,None,54-70,5, 10.5,Sadecki,Niekro,None,1:56,D,"9,358",+,None
+"Monday, Aug 26",boxscore,NYM,None,HOU,W-wo,5,4,None,55-70,5, 10.0,Koosman,Cosgrove,None,2:24,N,"15,104",++,None
+"Tuesday, Aug 27",boxscore,NYM,None,HOU,W,4,2,None,56-70,5, 10.0,McGraw,Griffin,Parker,2:30,N,"20,934",+++,None
+"Wednesday, Aug 28",boxscore,NYM,None,HOU,L,2,3,10,56-71,5, 11.0,de los Santos,Cram,York,3:04,D,"13,987",-,None
+"Thursday, Aug 29",boxscore,NYM,None,HOU,W,7,0,None,57-71,5, 10.0,Seaver,Roberts,None,2:16,D,"42,814",+,1974-06-02 (Rain)
+"Friday, Aug 30",boxscore,NYM,None,ATL,W,4,2,None,58-71,5, 10.0,Sadecki,Capra,None,2:06,N,"32,482",++,None
+"Saturday, Aug 31",boxscore,NYM,None,ATL,W,6,5,None,59-71,5, 10.0,Apodaca,Leon,Parker,2:34,D,"31,211",+++,None
+"Sunday, Sep 1",boxscore,NYM,None,ATL,W,3,0,None,60-71,5, 9.0,McGraw,Morton,None,2:11,D,"33,879",++++,None
+"Tuesday, Sep 3",boxscore,NYM,@,CHC,W,2,0,None,61-71,4, 9.5,Matlack,Bonham,None,2:13,D,None,+++++,None
+"Tuesday, Sep 3",boxscore,NYM,@,CHC,W,11,4,None,62-71,4, 9.5,Seaver,Dettore,None,2:49,D,"3,731",++++++,1974-09-02 (Rain)
+"Wednesday, Sep 4",boxscore,NYM,@,CHC,W,4,2,None,63-71,4, 9.0,Sadecki,Stone,Apodaca,2:53,D,"1,953",+++++++,None
+"Friday, Sep 6",boxscore,NYM,@,STL,L,0,3,None,63-72,4, 10.0,Forsch,Koosman,None,1:58,N,"21,832",-,None
+"Saturday, Sep 7",boxscore,NYM,@,STL,L-wo,1,2,None,63-73,4, 11.0,Gibson,Matlack,None,2:17,N,"36,007",--,None
+"Sunday, Sep 8",boxscore,NYM,@,STL,W,5,3,None,64-73,4, 11.0,Seaver,McGlothen,None,2:14,D,"34,304",+,None
+"Monday, Sep 9",boxscore,NYM,None,MON,W,7,1,None,65-73,4, 10.0,Sadecki,Blair,None,2:10,N,"9,960",++,None
+"Tuesday, Sep 10",boxscore,NYM,None,MON,L,4,6,None,65-74,4, 11.0,Carrithers,McGraw,Murray,2:12,N,"9,951",-,None
+"Wednesday, Sep 11",boxscore,NYM,None,STL,L,3,4,25,65-75,4, 11.0,Siebert,Webb,None,7:04,N,"13,460",--,None
+"Thursday, Sep 12",boxscore,NYM,None,STL,L,5,12,None,65-76,4, 11.0,Gibson,Matlack,Hrabosky,2:57,N,"11,747",---,None
+"Friday, Sep 13",boxscore,NYM,None,CHC,W,6,0,None,66-76,4, 10.5,Seaver,Reuschel,None,2:20,N,None,+,None
+"Friday, Sep 13",boxscore,NYM,None,CHC,L,3,4,11,66-77,4, 10.5,Todd,Apodaca,None,2:57,N,"19,009",-,1974-08-02 (Rain)
+"Saturday, Sep 14",boxscore,NYM,None,CHC,L,0,12,None,66-78,5, 11.0,Hooton,Sadecki,None,2:37,D,"14,761",--,None
+"Sunday, Sep 15",boxscore,NYM,None,CHC,L,4,5,None,66-79,5, 12.0,LaRoche,McGraw,Zamora,3:14,D,"17,288",---,None
+"Monday, Sep 16",boxscore,NYM,@,MON,L,2,3,None,66-80,5, 12.0,Torrez,Koosman,Montague,2:18,N,None,----,None
+"Monday, Sep 16",boxscore,NYM,@,MON,W,3,2,None,67-80,5, 12.0,Sterling,Carrithers,McGraw,2:00,N,"9,166",+,1974-08-04 (Rain)
+"Wednesday, Sep 18",boxscore,NYM,@,MON,L,2,3,None,67-81,5, 13.0,Rogers,Matlack,Murray,2:29,N,None,-,None
+"Wednesday, Sep 18",boxscore,NYM,@,MON,L,0,4,None,67-82,5, 13.0,Blair,Seaver,Murray,2:07,N,"9,288",--,1974-09-17 (Rain)
+"Friday, Sep 20",boxscore,NYM,@,PIT,L-wo,3,4,None,67-83,5, 13.5,Hernandez,McGraw,None,2:29,N,"11,683",---,None
+"Saturday, Sep 21",boxscore,NYM,@,PIT,W,4,2,None,68-83,5, 12.5,Koosman,Pizarro,None,2:19,D,"7,160",+,None
+"Sunday, Sep 22",boxscore,NYM,@,PIT,W,4,0,None,69-83,5, 12.5,Matlack,Reuss,None,2:31,D,"27,915",++,None
+"Tuesday, Sep 24",boxscore,NYM,@,PHI,L,3,6,None,69-84,5, 12.5,Carlton,Webb,Garber,2:39,N,"11,165",-,None
+"Wednesday, Sep 25",boxscore,NYM,@,PHI,L,2,6,None,69-85,5, 13.5,Schueler,Seaver,Christenson,2:25,D,None,--,None
+"Wednesday, Sep 25",boxscore,NYM,@,PHI,L,3,6,None,69-86,5, 13.5,Underwood,Sterling,Garber,2:23,N,"16,221",---,1974-06-23 (Rain)
+"Thursday, Sep 26",boxscore,NYM,None,PIT,L,5,11,None,69-87,5, 14.0,Pizarro,Koosman,None,2:20,N,"9,250",----,None
+"Friday, Sep 27",boxscore,NYM,None,PIT,L,1,2,None,69-88,5, 15.0,Reuss,Matlack,None,2:21,N,"17,440",-----,None
+"Saturday, Sep 28",boxscore,NYM,None,PIT,L,3,7,None,69-89,5, 16.0,Rooker,McGraw,None,2:30,D,"13,059",------,None
+"Sunday, Sep 29",boxscore,NYM,None,PIT,W,7,2,None,70-89,5, 15.0,Apodaca,Brett,None,2:12,D,"50,653",+,None
+"Monday, Sep 30",boxscore,NYM,None,PHI,W,5,2,None,71-89,5, 15.0,Koosman,Christenson,None,2:08,N,"5,931",++,None
+"Tuesday, Oct 1",boxscore,NYM,None,PHI,L,1,2,None,71-90,5, 16.0,Lonborg,Seaver,None,2:05,N,"5,341",-,None
+"Wednesday, Oct 2",boxscore,NYM,None,PHI,L,2,3,10,71-91,5, 17.0,Garber,Matlack,None,2:26,N,"5,383",--,None

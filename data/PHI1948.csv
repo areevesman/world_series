@@ -1,0 +1,155 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Wednesday, Apr 21",boxscore,PHI,None,BSN,W-wo,4,3,13,2-0,1, Tied,Heusser,White,None,3:28,D,"4,720",++,None
+"Thursday, Apr 22",boxscore,PHI,None,BSN,L,4,10,None,2-1,1, Tied,Shoun,Simmons,None,2:49,D,"6,678",-,None
+"Friday, Apr 23",boxscore,PHI,@,BRO,W,10,2,None,3-1,1, Tied,Donnelly,Hatten,None,2:26,D,"25,103",+,None
+"Saturday, Apr 24",boxscore,PHI,@,BRO,L,4,11,None,3-2,1, Tied,Palica,Judd,None,2:50,D,"18,608",-,None
+"Sunday, Apr 25",boxscore,PHI,@,BRO,W,6,3,None,4-2,2, 0.5,Leonard,Branca,None,2:45,D,"28,231",+,None
+"Monday, Apr 26",boxscore,PHI,@,NYG,L,1,5,None,4-3,2, 1.5,Koslo,Rowe,None,2:01,D,"12,082",-,None
+"Tuesday, Apr 27",boxscore,PHI,@,NYG,L,1,7,None,4-4,3, 2.5,Jansen,Simmons,None,2:05,D,"10,697",--,None
+"Wednesday, Apr 28",boxscore,PHI,@,BSN,L,0,7,None,4-5,6, 3.0,Spahn,Donnelly,None,1:49,D,"3,681",---,None
+"Thursday, Apr 29",boxscore,PHI,@,BSN,W,4,2,None,5-5,4, 2.0,Rowe,Beazley,None,1:54,D,"3,558",+,None
+"Friday, Apr 30",boxscore,PHI,None,BRO,L,2,11,None,5-6,6, 2.0,Palica,Leonard,None,2:36,N,"25,834",-,None
+"Saturday, May 1",boxscore,PHI,None,BRO,L,1,2,None,5-7,7, 2.5,Hatten,Dubiel,None,1:57,D,"13,439",--,None
+"Sunday, May 2",boxscore,PHI,None,BRO,L,6,9,None,5-8,5, 3.0,Barney,Leonard,Branca,2:42,D,None,---,None
+"Sunday, May 2",boxscore,PHI,None,BRO,W,2,0,None,6-8,5, 3.0,Heintzelman,Roe,None,2:03,D,"37,861",+,None
+"Wednesday, May 5",boxscore,PHI,@,CHC,W,13,9,None,7-8,5, 3.0,Nahem,Wade,Heusser,3:05,D,"7,528",++,None
+"Friday, May 7",boxscore,PHI,@,STL,L,4,7,None,7-9,5, 3.0,Pollet,Judd,None,2:35,N,"11,329",-,None
+"Saturday, May 8",boxscore,PHI,@,STL,L,0,5,None,7-10,6, 4.0,Brecheen,Donnelly,None,1:49,N,"15,471",--,None
+"Sunday, May 9",boxscore,PHI,@,CIN,W,14,2,None,8-10,5, 3.0,Simmons,Fox,None,2:17,D,None,+,None
+"Sunday, May 9",boxscore,PHI,@,CIN,W,8,0,None,9-10,5, 3.0,Heintzelman,Peterson,None,2:10,D,"20,831",++,None
+"Tuesday, May 11",boxscore,PHI,@,CIN,W,4,3,None,10-10,4, 2.0,Heusser,Walters,None,2:16,D,None,+++,None
+"Wednesday, May 12",boxscore,PHI,@,PIT,W,5,0,None,11-10,4, 1.5,Donnelly,Bonham,None,2:02,D,"11,664",++++,None
+"Thursday, May 13",boxscore,PHI,@,PIT,L,1,5,None,11-11,5, 2.5,Chesnes,Leonard,Singleton,2:14,N,"29,789",-,None
+"Saturday, May 15",boxscore,PHI,None,NYG,W,7,0,None,12-11,4, 2.0,Dubiel,Jansen,None,2:03,D,"12,875",+,None
+"Monday, May 17",boxscore,PHI,None,NYG,W,7,1,None,13-11,3, 2.0,Donnelly,Newsom,None,2:14,N,"16,165",++,None
+"Tuesday, May 18",boxscore,PHI,None,CHC,L,2,3,None,13-12,4, 3.0,Schmitz,Simmons,None,1:49,D,"2,646",-,None
+"Wednesday, May 19",boxscore,PHI,None,CHC,W-wo,2,1,None,14-12,3, 3.0,Nahem,Chambers,None,1:56,N,"10,929",+,None
+"Thursday, May 20",boxscore,PHI,None,CHC,L,3,5,None,14-13,4, 4.0,Meyer,Dubiel,Chipman,2:19,D,"3,437",-,None
+"Saturday, May 22",boxscore,PHI,None,CIN,L,2,9,None,14-14,5, 4.5,Gumbert,Simmons,None,2:16,D,"6,623",--,None
+"Sunday, May 23",boxscore,PHI,None,STL,L,3,18,None,14-15,5, 6.5,Wilks,Donnelly,Burkhart,2:42,D,None,---,None
+"Sunday, May 23",boxscore,PHI,None,STL,L,1,4,None,14-16,5, 6.5,Hearn,Leonard,None,2:07,D,"35,152",----,None
+"Monday, May 24",boxscore,PHI,None,STL,W,6,2,None,15-16,5, 5.5,Dubiel,Brazle,None,1:47,N,"13,968",+,None
+"Tuesday, May 25",boxscore,PHI,None,PIT,W,4,1,None,16-16,5, 5.0,Erickson,Riddle,Rowe,2:28,N,"7,138",++,None
+"Thursday, May 27",boxscore,PHI,None,PIT,W,2,1,None,17-16,4, 4.5,Simmons,Higbe,None,1:59,N,"13,839",+++,None
+"Friday, May 28",boxscore,PHI,@,NYG,W,6,3,None,18-16,3, 4.0,Leonard,Jansen,Heintzelman,2:30,N,"30,875",++++,None
+"Saturday, May 29",boxscore,PHI,@,NYG,L,1,7,None,18-17,4, 4.0,Lee,Dubiel,None,2:01,D,"18,843",-,None
+"Sunday, May 30",boxscore,PHI,@,NYG,L,4,10,None,18-18,4, 3.5,Hartung,Nahem,None,2:09,D,"12,998",--,None
+"Monday, May 31",boxscore,PHI,@,BSN,W,6,3,None,19-18,4, 3.0,Heintzelman,Bickford,Donnelly,2:30,D,None,+,None
+"Monday, May 31",boxscore,PHI,@,BSN,L,4,10,None,19-19,4, 3.0,Spahn,Rowe,None,2:20,D,"17,400",-,None
+"Wednesday, Jun 2",boxscore,PHI,@,CHC,L-wo,1,2,12,19-20,5, 4.0,Dobernic,Leonard,None,2:52,D,"8,131",--,None
+"Thursday, Jun 3",boxscore,PHI,@,CHC,W,4,3,None,20-20,4, 3.0,Simmons,Rush,None,2:26,D,"8,018",+,None
+"Friday, Jun 4",boxscore,PHI,@,CHC,W,7,2,None,21-20,4, 3.0,Dubiel,Schmitz,None,2:08,D,"7,224",++,None
+"Saturday, Jun 5",boxscore,PHI,@,CHC,W,4,2,None,22-20,4, 1.5,Rowe,Chambers,None,2:03,D,None,+++,None
+"Saturday, Jun 5",boxscore,PHI,@,CHC,W,6,5,None,23-20,4, 1.5,Erickson,Hamner,Heusser,2:37,D,"18,619",++++,1948-05-04 (Rain)
+"Sunday, Jun 6",boxscore,PHI,@,STL,L,1,11,None,23-21,4, 3.0,Hearn,Heintzelman,None,2:06,D,None,-,None
+"Sunday, Jun 6",boxscore,PHI,@,STL,L,0,2,None,23-22,4, 3.0,Brazle,Strincevich,None,1:48,D,"22,450",--,1948-05-06 (Rain)
+"Monday, Jun 7",boxscore,PHI,@,STL,W,5,1,None,24-22,4, 2.5,Leonard,Munger,None,1:53,N,"10,091",+,None
+"Tuesday, Jun 8",boxscore,PHI,@,STL,L,5,7,None,24-23,5, 3.0,Brecheen,Nahem,Wilks,2:16,N,"12,484",-,None
+"Wednesday, Jun 9",boxscore,PHI,@,CIN,W,3,2,None,25-23,5, 2.5,Simmons,Blackwell,None,2:17,N,"23,423",+,None
+"Friday, Jun 11",boxscore,PHI,@,CIN,L,1,12,None,25-24,5, 2.5,Wehmeier,Heintzelman,None,2:06,D,"8,969",-,None
+"Sunday, Jun 13",boxscore,PHI,@,PIT,W,8,7,None,26-24,5, 2.5,Dubiel,Higbe,Heintzelman,2:31,D,None,+,None
+"Sunday, Jun 13",boxscore,PHI,@,PIT,L,2,9,None,26-25,5, 2.5,Riddle,Rowe,None,2:19,D,"30,385",-,None
+"Tuesday, Jun 15",boxscore,PHI,None,STL,L,1,2,None,26-26,5, 3.5,Wilks,Leonard,None,2:17,N,"23,013",--,None
+"Thursday, Jun 17",boxscore,PHI,None,STL,L,1,4,None,26-27,5, 4.5,Brecheen,Simmons,Wilks,2:28,N,"17,119",---,1948-06-16 (Rain)
+"Friday, Jun 18",boxscore,PHI,None,PIT,L,0,2,None,26-28,5, 5.5,Riddle,Roberts,None,2:09,N,"13,501",----,None
+"Saturday, Jun 19",boxscore,PHI,None,PIT,L,6,7,None,26-29,5, 6.5,Chesnes,Dubiel,Higbe,2:33,D,"7,555",-----,None
+"Sunday, Jun 20",boxscore,PHI,None,PIT,W,9,0,None,27-29,5, 7.5,Leonard,Sewell,None,2:14,D,None,+,None
+"Sunday, Jun 20",boxscore,PHI,None,PIT,L,5,7,None,27-30,5, 7.5,Gregg,Donnelly,Queen,2:42,D,"23,810",-,None
+"Monday, Jun 21",boxscore,PHI,None,CIN,L,3,4,None,27-31,5, 7.5,Fox,Heintzelman,Gumbert,2:15,N,"8,509",--,None
+"Tuesday, Jun 22",boxscore,PHI,None,CIN,L,4,6,10,27-32,5, 7.5,Raffensberger,Heusser,None,2:50,N,"9,091",---,None
+"Wednesday, Jun 23",boxscore,PHI,None,CIN,W,3,2,None,28-32,5, 7.0,Roberts,Hughes,None,2:17,N,"7,724",+,None
+"Friday, Jun 25",boxscore,PHI,None,CHC,W,2,1,None,29-32,6, 6.5,Leonard,Borowy,None,1:54,N,"6,720",++,None
+"Saturday, Jun 26",boxscore,PHI,None,CHC,W,3,2,None,30-32,5, 5.5,Rowe,Kush,None,2:16,D,"5,513",+++,None
+"Sunday, Jun 27",boxscore,PHI,None,CHC,L,2,6,None,30-33,5, 6.0,Meyer,Simmons,None,2:31,D,None,-,None
+"Sunday, Jun 27",boxscore,PHI,None,CHC,W,7,4,8,31-33,5, 6.0,Roberts,Chambers,None,2:13,D,"27,470",+,None
+"Tuesday, Jun 29",boxscore,PHI,@,BRO,W,2,1,None,32-33,5, 5.0,Donnelly,Branca,None,2:28,N,"22,811",++,None
+"Wednesday, Jun 30",boxscore,PHI,@,BRO,W,13,4,None,33-33,5, 5.0,Leonard,Taylor,Dubiel,2:47,D,"6,687",+++,None
+"Thursday, Jul 1",boxscore,PHI,@,BRO,W,4,2,None,34-33,4, 5.0,Rowe,Behrman,None,2:19,D,"5,602",++++,None
+"Friday, Jul 2",boxscore,PHI,None,BSN,L,3,7,None,34-34,5, 6.0,Hogue,Simmons,None,0:24,N,"18,195",-,None
+"Saturday, Jul 3",boxscore,PHI,None,BSN,L,6,11,None,34-35,5, 7.0,Spahn,Heintzelman,White,2:31,D,"9,548",--,None
+"Sunday, Jul 4",boxscore,PHI,None,BSN,W,7,2,None,35-35,4, 5.0,Donnelly,Voiselle,None,2:06,D,None,+,None
+"Sunday, Jul 4",boxscore,PHI,None,BSN,W,5,2,None,36-35,4, 5.0,Roberts,Barrett,None,2:28,D,"21,861",++,None
+"Monday, Jul 5",boxscore,PHI,None,BRO,L,3,4,10,36-36,5, 6.0,Ramsdell,Leonard,None,2:37,D,None,-,None
+"Monday, Jul 5",boxscore,PHI,None,BRO,L,1,10,None,36-37,5, 6.0,Barney,Rowe,None,2:37,D,"32,892",--,None
+"Tuesday, Jul 6",boxscore,PHI,None,BRO,L,0,5,None,36-38,5, 7.0,Behrman,Dubiel,None,2:28,N,"17,063",---,None
+"Wednesday, Jul 7",boxscore,PHI,None,NYG,L,0,7,None,36-39,6, 7.0,Jansen,Simmons,None,1:38,N,"13,198",----,None
+"Friday, Jul 9",boxscore,PHI,@,BSN,L,2,13,None,36-40,6, 8.5,Sain,Roberts,None,2:10,N,"27,050",-----,None
+"Saturday, Jul 10",boxscore,PHI,@,BSN,L,3,4,None,36-41,7, 9.5,Voiselle,Leonard,Shoun,2:18,N,"25,023",------,None
+"Sunday, Jul 11",boxscore,PHI,@,BSN,L,4,9,None,36-42,7, 10.5,Hogue,Rowe,Potter,2:18,D,"14,245",-------,None
+"Thursday, Jul 15",boxscore,PHI,@,STL,W,3,1,None,37-42,7, 10.5,Leonard,Brecheen,None,1:52,N,"11,550",+,None
+"Friday, Jul 16",boxscore,PHI,@,STL,L,2,8,None,37-43,7, 11.5,Munger,Simmons,Wilks,2:02,N,"11,000",-,None
+"Saturday, Jul 17",boxscore,PHI,@,STL,W,11,10,None,38-43,6, 10.5,Heintzelman,Staley,Dubiel,2:39,D,"6,498",+,None
+"Sunday, Jul 18",boxscore,PHI,@,CHC,L,2,3,None,38-44,6, 11.5,Schmitz,Roberts,None,2:08,D,None,-,None
+"Sunday, Jul 18",boxscore,PHI,@,CHC,W,6,4,None,39-44,6, 11.5,Rowe,Meyer,Donnelly,2:35,D,"39,623",+,None
+"Monday, Jul 19",boxscore,PHI,@,CHC,W,5,4,None,40-44,6, 10.5,Leonard,Lade,None,2:01,D,"8,289",++,None
+"Tuesday, Jul 20",boxscore,PHI,@,PIT,L,2,11,None,40-45,6, 10.5,Chesnes,Simmons,None,2:06,N,"26,019",-,None
+"Wednesday, Jul 21",boxscore,PHI,@,PIT,W,3,2,10,41-45,6, 10.5,Rowe,Singleton,None,2:20,D,"6,797",+,None
+"Thursday, Jul 22",boxscore,PHI,@,PIT,L,3,5,None,41-46,6, 11.0,Sewell,Bicknell,None,1:47,D,None,-,None
+"Thursday, Jul 22",boxscore,PHI,@,PIT,T,1,1,5,41-46,6, 11.0,None,None,None,0:59,D,"14,107",-,1948-06-12 (Rain)
+"Friday, Jul 23",boxscore,PHI,@,CIN,W,6,1,None,42-46,6, 10.0,Roberts,Fox,None,2:07,D,"2,675",+,None
+"Saturday, Jul 24",boxscore,PHI,@,CIN,W,7,5,None,43-46,6, 9.0,Simmons,Vander Meer,Heusser,2:21,D,"5,100",++,None
+"Sunday, Jul 25",boxscore,PHI,@,CIN,L,8,11,None,43-47,6, 10.0,Wehmeier,Dubiel,Peterson,2:43,D,None,-,None
+"Sunday, Jul 25",boxscore,PHI,@,CIN,L,2,9,None,43-48,6, 10.0,Blackwell,Rowe,None,1:57,D,"14,933",--,None
+"Tuesday, Jul 27",boxscore,PHI,None,CHC,L,2,3,11,43-49,6, 11.0,Borowy,Leonard,None,3:03,N,"8,356",---,None
+"Wednesday, Jul 28",boxscore,PHI,None,CHC,W,9,4,None,44-49,6, 11.0,Dubiel,Kush,None,2:25,D,"3,801",+,None
+"Thursday, Jul 29",boxscore,PHI,None,CHC,W,7,4,None,45-49,6, 11.0,Rowe,Lade,Dubiel,2:17,D,"3,939",++,None
+"Friday, Jul 30",boxscore,PHI,None,CIN,W,8,5,None,46-49,6, 10.0,Roberts,Gumbert,None,2:11,N,"12,020",+++,None
+"Saturday, Jul 31",boxscore,PHI,None,CIN,W,4,3,None,47-49,6, 9.5,Nahem,Fox,Rowe,2:02,D,None,++++,None
+"Saturday, Jul 31",boxscore,PHI,None,CIN,W,4,1,None,48-49,6, 9.5,Heintzelman,Walters,None,1:35,D,"8,527",+++++,1948-05-21 (Rain)
+"Friday, Aug 6",boxscore,PHI,None,STL,L,2,6,None,48-50,6, 8.0,Pollet,Leonard,None,2:20,D,"18,176",-,None
+"Saturday, Aug 7",boxscore,PHI,None,STL,W,6,2,None,49-50,6, 8.0,Roberts,Brazle,None,2:22,D,"2,871",+,None
+"Sunday, Aug 8",boxscore,PHI,None,STL,L,1,4,None,49-51,6, 9.5,Dickson,Simmons,None,2:05,D,None,-,None
+"Sunday, Aug 8",boxscore,PHI,None,STL,L,3,4,None,49-52,6, 9.5,Munger,Heintzelman,Wilks,1:52,D,"27,457",--,None
+"Monday, Aug 9",boxscore,PHI,@,BRO,L,1,2,None,49-53,6, 10.0,Erskine,Donnelly,None,2:01,N,"33,665",---,None
+"Tuesday, Aug 10",boxscore,PHI,@,BRO,L,2,5,None,49-54,6, 10.0,Barney,Rowe,None,2:13,D,"16,278",----,None
+"Wednesday, Aug 11",boxscore,PHI,@,BRO,L-wo,2,3,None,49-55,6, 11.0,Palica,Leonard,None,2:12,D,"21,527",-----,None
+"Friday, Aug 13",boxscore,PHI,None,NYG,W,12,7,None,50-55,6, 10.5,Simmons,Poat,Dubiel,2:26,N,"13,122",+,None
+"Saturday, Aug 14",boxscore,PHI,None,NYG,L,1,3,None,50-56,6, 11.5,Jones,Roberts,None,1:50,D,"15,195",-,None
+"Sunday, Aug 15",boxscore,PHI,None,NYG,W,8,1,None,51-56,6, 10.0,Heintzelman,Jansen,None,1:48,D,None,+,None
+"Sunday, Aug 15",boxscore,PHI,None,NYG,W,7,5,None,52-56,6, 10.0,Heusser,Hartung,None,2:18,D,"18,168",++,None
+"Tuesday, Aug 17",boxscore,PHI,None,BRO,L,1,10,None,52-57,6, 10.5,Erskine,Rowe,None,2:34,N,"20,632",-,None
+"Wednesday, Aug 18",boxscore,PHI,None,BRO,L,0,1,None,52-58,6, 10.5,Barney,Roberts,None,2:15,N,"20,720",--,None
+"Saturday, Aug 21",boxscore,PHI,@,NYG,&V,5,6,None,52-59,6, 11.0,Trinkle,Heintzelman,None,2:09,D,"13,228",---,None
+"Sunday, Aug 22",boxscore,PHI,@,NYG,L,4,9,None,52-60,6, 12.5,Jones,Dubiel,None,2:03,D,None,----,None
+"Sunday, Aug 22",boxscore,PHI,@,NYG,L,0,3,5,52-61,6, 12.5,Kennedy,Leonard,None,1:08,D,"28,365",-----,None
+"Monday, Aug 23",boxscore,PHI,@,CIN,L-wo,2,3,10,52-62,6, 13.5,Gumbert,Rowe,None,2:21,N,"10,880",------,None
+"Wednesday, Aug 25",boxscore,PHI,@,CIN,L,1,5,None,52-63,6, 15.0,Fox,Donnelly,None,1:54,D,"2,774",-------,None
+"Thursday, Aug 26",boxscore,PHI,@,PIT,L,4,11,None,52-64,6, 15.0,Sewell,Heintzelman,Higbe,2:15,D,None,--------,None
+"Thursday, Aug 26",boxscore,PHI,@,PIT,L,1,4,None,52-65,6, 15.0,Queen,Leonard,Higbe,2:06,D,"10,387",---------,None
+"Friday, Aug 27",boxscore,PHI,@,PIT,L,3,4,None,52-66,6, 15.0,Higbe,Leonard,None,2:20,N,"32,367",----------,None
+"Saturday, Aug 28",boxscore,PHI,@,PIT,W,9,2,None,53-66,6, 14.5,Rowe,Ostermueller,None,2:22,D,None,+,None
+"Saturday, Aug 28",boxscore,PHI,@,PIT,W,11,7,None,54-66,6, 14.5,Leonard,Bonham,None,2:23,D,"14,286",++,1948-08-05 (Rain; Site change)
+"Sunday, Aug 29",boxscore,PHI,@,CHC,W,1,0,None,55-66,6, 13.5,Dubiel,McCall,None,1:57,D,None,+++,None
+"Sunday, Aug 29",boxscore,PHI,@,CHC,L,4,10,None,55-67,6, 13.5,Rush,Simmons,None,2:29,D,"34,804",-,1948-08-30 (Schedule change)
+"Tuesday, Aug 31",boxscore,PHI,@,STL,L,0,5,None,55-68,6, 14.0,Munger,Heintzelman,None,1:47,N,"20,998",--,None
+"Wednesday, Sep 1",boxscore,PHI,@,STL,L,2,4,None,55-69,6, 14.5,Hearn,Roberts,Dickson,2:02,N,"14,071",---,None
+"Friday, Sep 3",boxscore,PHI,@,BSN,L,1,3,None,55-70,6, 15.5,Sain,Leonard,None,1:31,D,"7,915",----,None
+"Saturday, Sep 4",boxscore,PHI,@,BSN,W,4,3,None,56-70,6, 15.5,Rowe,Voiselle,None,1:53,D,"17,884",+,None
+"Saturday, Sep 4",boxscore,PHI,@,BSN,L,1,8,None,56-71,6, 15.5,Bickford,Dubiel,None,2:05,D,"17,844",-,1948-09-05 (Schedule change)
+"Sunday, Sep 5",boxscore,PHI,@,BSN,L,1,5,None,56-72,6, 16.5,Barrett,Heintzelman,None,1:38,D,"16,487",--,None
+"Monday, Sep 6",boxscore,PHI,None,NYG,L,3,4,13,56-73,6, 18.5,Trinkle,Heusser,None,3:03,D,None,---,None
+"Monday, Sep 6",boxscore,PHI,None,NYG,L,0,3,7,56-74,6, 18.5,Hartung,Simmons,None,2:00,D,"20,572",----,None
+"Tuesday, Sep 7",boxscore,PHI,None,NYG,L,1,6,None,56-75,8, 19.5,Hansen,Leonard,None,2:00,D,None,-----,1948-05-16 (Rain)
+"Tuesday, Sep 7",boxscore,PHI,None,NYG,L,6,8,11,56-76,8, 19.5,Hartung,Nahem,None,2:58,D,"4,026",------,1948-05-16 (Rain)
+"Wednesday, Sep 8",boxscore,PHI,@,NYG,W,5,4,None,57-76,7, 19.0,Dubiel,Poat,None,2:20,N,"15,116",+,1948-08-20 (Rain)
+"Saturday, Sep 11",boxscore,PHI,None,BSN,L,1,3,None,57-77,7, 21.0,Sain,Rowe,None,1:51,D,"4,719",-,None
+"Saturday, Sep 11",boxscore,PHI,None,BSN,L,2,13,None,57-78,7, 21.0,Spahn,Roberts,None,2:15,N,"13,785",--,1948-09-09 (Rain)
+"Sunday, Sep 12",boxscore,PHI,None,BSN,W,6,4,None,58-78,6, 21.0,Leonard,Barrett,None,2:10,D,None,+,None
+"Sunday, Sep 12",boxscore,PHI,None,BSN,L,1,2,13,58-79,6, 21.0,Potter,Dubiel,None,2:45,D,"10,170",-,1948-09-10 (Rain)
+"Tuesday, Sep 14",boxscore,PHI,None,STL,L,0,8,None,58-80,6, 22.0,Brecheen,Heintzelman,None,1:57,D,"10,345",--,None
+"Wednesday, Sep 15",boxscore,PHI,None,STL,L,0,2,None,58-81,7, 23.0,Munger,Roberts,None,1:46,D,"3,887",---,None
+"Friday, Sep 17",boxscore,PHI,None,CHC,W,6,3,None,59-81,6, 23.0,Dubiel,McCall,Konstanty,1:59,D,"2,922",+,None
+"Sunday, Sep 19",boxscore,PHI,None,PIT,W,9,6,None,60-81,6, 23.0,Leonard,Main,None,2:18,D,None,++,None
+"Sunday, Sep 19",boxscore,PHI,None,PIT,W,5,3,None,61-81,6, 23.0,Rowe,Higbe,None,2:02,D,"15,713",+++,1948-05-26 (Rain)
+"Monday, Sep 20",boxscore,PHI,None,PIT,W,5,2,None,62-81,6, 22.0,Roberts,Chesnes,None,1:47,D,"2,884",++++,1948-08-04 (Rain)
+"Monday, Sep 20",boxscore,PHI,None,PIT,W,7,4,None,63-81,6, 22.0,Possehl,Bonham,None,2:02,D,"3,513",+++++,1948-08-03 (Rain)
+"Tuesday, Sep 21",boxscore,PHI,None,CIN,L,5,6,None,63-82,6, 23.0,Gumbert,Leonard,None,2:10,D,None,-,None
+"Tuesday, Sep 21",boxscore,PHI,None,CIN,W,6,1,None,64-82,6, 23.0,Thompson,Peterson,None,2:20,N,"3,576",+,1948-06-24 (Rain)
+"Wednesday, Sep 22",boxscore,PHI,None,CIN,L,3,4,None,64-83,6, 23.0,Vander Meer,Heintzelman,None,2:15,N,"2,943",-,1948-08-01 (Rain)
+"Thursday, Sep 23",boxscore,PHI,None,CIN,L,2,3,None,64-84,6, 23.5,Raffensberger,Donnelly,Gumbert,2:28,D,"2,556",--,1948-08-01 (Rain)
+"Saturday, Sep 25",boxscore,PHI,None,BRO,L,0,3,None,64-85,6, 23.5,Barney,Dubiel,None,2:03,N,"10,551",---,None
+"Sunday, Sep 26",boxscore,PHI,None,BRO,L,1,5,None,64-86,6, 24.5,Branca,Roberts,None,2:02,D,"14,772",----,None
+"Tuesday, Sep 28",boxscore,PHI,@,NYG,L,5,6,None,64-87,6, 24.0,Webb,Possehl,Trinkle,1:54,D,None,-----,None
+"Tuesday, Sep 28",boxscore,PHI,@,NYG,W,6,3,6,65-87,6, 24.0,Konstanty,Kennedy,None,1:31,D,"3,201",+,1948-09-29 (Schedule change)
+"Saturday, Oct 2",boxscore,PHI,@,BRO,L,4,5,None,65-88,6, 25.5,Roe,Koecher,None,1:59,D,"10,345",-,None
+"Sunday, Oct 3",boxscore,PHI,@,BRO,W,4,2,None,66-88,6, 25.5,Simmons,Barney,Konstanty,2:26,D,"13,442",+,None

@@ -1,0 +1,158 @@
+date,boxscore,team,home_or_away,opponent,win_or_loss,runs,runs_allowed,innings,win_loss_record,rank,games_behind,win,loss,save,time,day_or_night,attendance,streak,originally_scheduled
+"Thursday, Apr 20",boxscore,PIT,@,STL,L,3,5,None,0-2,7, 2.5,Munger,Rescigno,None,1:58,D,"2,272",--,None
+"Friday, Apr 21",boxscore,PIT,None,CIN,L,2,4,None,0-3,7, 3.5,Beggs,Sewell,None,1:48,D,"10,877",---,None
+"Wednesday, Apr 26",boxscore,PIT,None,CHC,W,6,1,None,1-3,6, 3.0,Roe,Fleming,None,1:46,D,"3,463",+,None
+"Friday, Apr 28",boxscore,PIT,@,CIN,L,0,2,None,1-4,6, 4.0,Heusser,Butcher,None,1:34,D,"1,080",-,None
+"Saturday, Apr 29",boxscore,PIT,@,CIN,W,7,3,None,2-4,6, 3.5,Sewell,Ferguson,None,2:04,D,"2,695",+,None
+"Sunday, Apr 30",boxscore,PIT,@,CIN,W,7,1,None,3-4,6, 4.5,Strincevich,Riddle,None,1:45,D,None,++,None
+"Sunday, Apr 30",boxscore,PIT,@,CIN,L,1,4,None,3-5,6, 4.5,Walters,Rescigno,None,1:34,D,"16,060",-,None
+"Tuesday, May 2",boxscore,PIT,None,STL,W,3,1,None,4-5,6, 3.5,Roe,Jurisich,Cuccurullo,2:23,D,"4,895",+,None
+"Wednesday, May 3",boxscore,PIT,None,STL,L,1,5,None,4-6,6, 4.5,Gumbert,Sewell,None,1:37,D,"5,007",-,None
+"Thursday, May 4",boxscore,PIT,None,STL,W,6,3,None,5-6,6, 3.5,Butcher,Cooper,None,2:09,D,"3,877",+,None
+"Sunday, May 7",boxscore,PIT,@,CHC,W,6,5,14,6-6,4, 3.0,Sewell,Derringer,None,3:03,D,None,++,None
+"Sunday, May 7",boxscore,PIT,@,CHC,W,3,2,11,7-6,4, 3.0,Rescigno,Wyse,Butcher,2:14,D,"19,067",+++,None
+"Wednesday, May 10",boxscore,PIT,None,BSN,W,4,2,None,8-6,4, 3.0,Strincevich,Barrett,Cuccurullo,2:03,N,"23,011",++++,None
+"Thursday, May 11",boxscore,PIT,None,BSN,L,2,7,None,8-7,4, 3.0,Tobin,Butcher,None,2:09,D,"2,509",-,None
+"Friday, May 12",boxscore,PIT,None,BSN,L,3,10,None,8-8,4, 4.0,Andrews,Roe,None,1:50,D,"2,302",--,None
+"Saturday, May 13",boxscore,PIT,None,BSN,L,2,16,None,8-9,4, 5.0,Barrett,Rescigno,None,1:54,D,"4,037",---,None
+"Sunday, May 14",boxscore,PIT,None,NYG,W-wo,1,0,10,9-9,4, 5.0,Sewell,Voiselle,None,None,None,None,+,None
+"Sunday, May 14",boxscore,PIT,None,NYG,W,8,2,None,10-9,4, 5.0,Strincevich,Pyle,None,None,None,"23,771",++,None
+"Monday, May 15",boxscore,PIT,None,NYG,L,7,8,None,10-10,4, 6.0,Adams,Cuccurullo,Polli,None,None,"1,699",-,None
+"Wednesday, May 17",boxscore,PIT,None,BRO,W,8,5,6,11-10,4, 4.5,Roe,McLish,None,1:54,N,"18,748",+,None
+"Thursday, May 18",boxscore,PIT,None,BRO,W-wo,4,3,None,12-10,4, 4.5,Butcher,Melton,None,2:25,D,"3,361",++,None
+"Friday, May 19",boxscore,PIT,None,BRO,W,5,2,None,13-10,3, 3.5,Sewell,Webber,None,2:35,D,"2,520",+++,None
+"Saturday, May 20",boxscore,PIT,None,PHI,W,4,3,None,14-10,2, 3.5,Strincevich,Gerheauser,None,1:42,D,"4,096",++++,None
+"Sunday, May 21",boxscore,PIT,None,PHI,W,4,3,None,15-10,3, 3.5,Butcher,Schanz,None,2:00,D,None,+++++,None
+"Sunday, May 21",boxscore,PIT,None,PHI,L,4,9,None,15-11,3, 3.5,Barrett,Rescigno,None,2:18,D,"23,009",-,None
+"Wednesday, May 24",boxscore,PIT,@,BSN,W,8,1,None,16-11,2, 3.0,Sewell,Tobin,None,1:41,D,"1,706",+,None
+"Thursday, May 25",boxscore,PIT,@,BSN,L,0,1,None,16-12,3, 3.5,Javery,Strincevich,None,1:41,D,"1,318",-,None
+"Friday, May 26",boxscore,PIT,@,BSN,W,7,5,None,17-12,3, 3.5,Rescigno,Hutchinson,Sewell,2:12,None,"1,518",+,None
+"Sunday, May 28",boxscore,PIT,@,PHI,W,4,0,None,18-12,2, 4.0,Sewell,Schanz,None,None,None,None,++,None
+"Sunday, May 28",boxscore,PIT,@,PHI,L,2,8,None,18-13,2, 4.0,Barrett,Strincevich,None,None,None,None,-,None
+"Monday, May 29",boxscore,PIT,@,PHI,W,3,2,11,19-13,2, 3.0,Rescigno,Raffensberger,None,None,None,None,+,None
+"Tuesday, May 30",boxscore,PIT,@,BRO,L,3,9,None,19-14,3, 4.0,Flowers,Butcher,Ostermueller,None,D,None,-,None
+"Tuesday, May 30",boxscore,PIT,@,BRO,L,3,4,None,19-15,3, 4.0,Gregg,Rescigno,Davis,2:24,D,"25,845",--,None
+"Wednesday, May 31",boxscore,PIT,@,BRO,L,4,8,None,19-16,3, 4.0,McLish,Strincevich,None,1:59,N,"16,993",---,None
+"Thursday, Jun 1",boxscore,PIT,@,BRO,W,2,1,None,20-16,3, 4.0,Sewell,Davis,None,None,D,None,+,None
+"Friday, Jun 2",boxscore,PIT,@,NYG,L,4,6,None,20-17,3, 5.0,Fischer,Roe,Polli,None,None,"2,532",-,None
+"Saturday, Jun 3",boxscore,PIT,@,NYG,W,7,6,10,21-17,2, 5.0,Rescigno,Adams,None,2:34,D,"9,171",+,None
+"Sunday, Jun 4",boxscore,PIT,@,NYG,W,9,4,None,22-17,2, 4.0,Ostermueller,Voiselle,Rescigno,None,None,None,++,None
+"Sunday, Jun 4",boxscore,PIT,@,NYG,W,7,4,None,23-17,2, 4.0,Roe,Pyle,Rescigno,None,None,"30,659",+++,None
+"Wednesday, Jun 7",boxscore,PIT,None,CIN,W,4,2,None,24-17,2, 3.5,Sewell,de la Cruz,Rescigno,2:03,N,"17,161",++++,None
+"Thursday, Jun 8",boxscore,PIT,None,CHC,L,6,10,None,24-18,2, 3.5,Vandenberg,Roe,None,None,D,None,-,None
+"Friday, Jun 9",boxscore,PIT,None,CHC,T,3,3,11,24-18,2, 3.5,None,None,None,2:25,N,"13,119",-,None
+"Saturday, Jun 10",boxscore,PIT,None,CHC,W,9,4,None,25-18,2, 3.5,Roe,Fleming,None,2:10,D,"1,710",+,1944-04-25 (Cold)
+"Sunday, Jun 11",boxscore,PIT,None,CHC,L,0,5,None,25-19,2, 5.5,Erickson,Butcher,None,2:12,D,None,-,None
+"Sunday, Jun 11",boxscore,PIT,None,CHC,L,0,1,None,25-20,2, 5.5,Chipman,Strincevich,None,1:44,D,"23,016",--,1944-04-27 (Cold)
+"Tuesday, Jun 13",boxscore,PIT,@,CIN,W,3,2,5,26-20,2, 5.5,Starr,Heusser,None,1:02,D,"2,460",+,None
+"Wednesday, Jun 14",boxscore,PIT,@,CIN,L,2,3,11,26-21,2, 6.5,Walters,Rescigno,None,2:30,N,"6,455",-,None
+"Thursday, Jun 15",boxscore,PIT,@,CIN,W,1,0,None,27-21,2, 6.0,Butcher,de la Cruz,None,1:29,D,"1,101",+,None
+"Saturday, Jun 17",boxscore,PIT,@,STL,L,1,2,None,27-22,2, 7.0,Munger,Roe,None,1:57,N,"18,645",-,None
+"Sunday, Jun 18",boxscore,PIT,@,STL,L,2,12,None,27-23,2, 7.0,Cooper,Sewell,None,1:57,D,None,--,None
+"Sunday, Jun 18",boxscore,PIT,@,STL,W,3,1,None,28-23,2, 7.0,Ostermueller,Lanier,None,1:56,D,"16,292",+,None
+"Tuesday, Jun 20",boxscore,PIT,None,CIN,L,0,3,None,28-24,2, 8.0,Walters,Butcher,None,1:49,N,"7,369",-,None
+"Wednesday, Jun 21",boxscore,PIT,None,CIN,W-wo,2,1,None,29-24,2, 8.5,Starr,Heusser,None,1:47,D,"2,414",+,None
+"Thursday, Jun 22",boxscore,PIT,None,CIN,W,9,4,None,30-24,2, 7.5,Sewell,de la Cruz,None,2:22,D,None,++,1944-04-23 (Rain)
+"Thursday, Jun 22",boxscore,PIT,None,CIN,W,7,4,None,31-24,2, 7.5,Strincevich,Gumbert,None,1:49,D,"5,394",+++,None
+"Friday, Jun 23",boxscore,PIT,None,STL,T,5,5,14,31-24,2, 7.5,None,None,None,4:02,N,"12,086",+++,None
+"Saturday, Jun 24",boxscore,PIT,None,STL,L,0,16,None,31-25,2, 8.5,Cooper,Ostermueller,None,2:02,None,"4,899",-,None
+"Sunday, Jun 25",boxscore,PIT,None,STL,L,1,2,None,31-26,2, 9.5,Munger,Sewell,None,1:49,D,None,--,None
+"Sunday, Jun 25",boxscore,PIT,None,STL,T,5,5,None,31-26,2, 9.5,None,None,None,2:23,D,"33,111",--,None
+"Wednesday, Jun 28",boxscore,PIT,None,NYG,W,9,2,None,32-26,2, 8.5,Butcher,Fischer,None,None,None,"18,479",+,None
+"Thursday, Jun 29",boxscore,PIT,None,NYG,T,1,1,5,32-26,2, 8.0,None,None,None,None,None,"2,057",+,None
+"Friday, Jun 30",boxscore,PIT,None,NYG,L,5,7,None,32-27,2, 8.5,Adams,Sewell,None,None,None,None,-,None
+"Friday, Jun 30",boxscore,PIT,None,NYG,W-wo,9,8,None,33-27,2, 8.5,Cuccurullo,Adams,None,None,None,"5,378",+,1944-05-16 (Rain)
+"Saturday, Jul 1",boxscore,PIT,None,BSN,W,5,1,None,34-27,2, 8.5,Starr,Tobin,None,1:39,D,"2,940",++,None
+"Sunday, Jul 2",boxscore,PIT,None,BSN,L,1,4,None,34-28,2, 9.5,Andrews,Roe,None,2:05,D,None,-,None
+"Sunday, Jul 2",boxscore,PIT,None,BSN,W,7,6,12,35-28,2, 9.5,Sewell,Barrett,None,2:17,D,"16,076",+,None
+"Tuesday, Jul 4",boxscore,PIT,None,PHI,L,2,3,None,35-29,2, 10.5,Gerheauser,Sewell,Schanz,2:18,D,None,-,None
+"Tuesday, Jul 4",boxscore,PIT,None,PHI,W,4,0,None,36-29,2, 10.5,Butcher,Lee,None,1:38,D,"16,285",+,None
+"Wednesday, Jul 5",boxscore,PIT,None,PHI,L,2,12,None,36-30,3, 11.5,Barrett,Starr,None,1:59,D,"2,055",-,None
+"Thursday, Jul 6",boxscore,PIT,None,PHI,W,6,5,None,37-30,3, 10.5,Strincevich,Raffensberger,Rescigno,2:15,N,"9,136",+,None
+"Friday, Jul 7",boxscore,PIT,None,BRO,W,13,2,None,38-30,2, 9.5,Ostermueller,Melton,None,2:15,D,"2,356",++,None
+"Saturday, Jul 8",boxscore,PIT,None,BRO,W,8,5,None,39-30,2, 9.5,Sewell,McLish,None,2:05,D,"3,732",+++,None
+"Sunday, Jul 9",boxscore,PIT,None,BRO,W,10,1,None,40-30,2, 9.5,Roe,Head,None,1:58,D,None,++++,None
+"Sunday, Jul 9",boxscore,PIT,None,BRO,W,9,7,None,41-30,2, 9.5,Rescigno,Davis,Ostermueller,2:22,D,"18,706",+++++,None
+"Thursday, Jul 13",boxscore,PIT,@,CHC,W,3,2,None,42-30,2, 9.5,Ostermueller,Wyse,None,2:05,D,"7,160",++++++,None
+"Friday, Jul 14",boxscore,PIT,@,CHC,L,5,11,None,42-31,2, 9.5,Vandenberg,Starr,None,2:14,D,"5,630",-,1944-05-05 (Cold)
+"Saturday, Jul 15",boxscore,PIT,@,CHC,L,3,4,None,42-32,2, 10.5,Fleming,Roe,Derringer,2:07,D,"6,972",--,None
+"Sunday, Jul 16",boxscore,PIT,@,CHC,L,0,1,None,42-33,2, 10.5,Wyse,Sewell,None,1:36,D,None,---,None
+"Sunday, Jul 16",boxscore,PIT,@,CHC,W,1,0,None,43-33,2, 10.5,Butcher,Passeau,None,2:03,D,"40,920",+,None
+"Tuesday, Jul 18",boxscore,PIT,@,NYG,L,2,5,None,43-34,2, 11.5,Voiselle,Ostermueller,None,2:00,N,"18,000",-,None
+"Wednesday, Jul 19",boxscore,PIT,@,PHI,L,2,4,None,43-35,2, 12.0,Raffensberger,Strincevich,None,1:50,N,"7,784",--,None
+"Thursday, Jul 20",boxscore,PIT,@,PHI,W,4,1,None,44-35,2, 13.0,Starr,Lee,None,None,None,None,+,None
+"Thursday, Jul 20",boxscore,PIT,@,PHI,L-wo,2,3,11,44-36,2, 13.0,Schanz,Rescigno,None,None,None,None,-,1944-05-27 (Rain)
+"Friday, Jul 21",boxscore,PIT,@,PHI,W,5,3,None,45-36,2, 13.0,Butcher,Gerheauser,None,1:53,N,"8,527",+,None
+"Saturday, Jul 22",boxscore,PIT,@,BRO,W,11,0,None,46-36,2, 12.0,Ostermueller,Warren,None,2:30,D,"8,479",++,None
+"Sunday, Jul 23",boxscore,PIT,@,BRO,W,7,5,None,47-36,2, 12.0,Rescigno,Gregg,None,2:35,D,None,+++,None
+"Sunday, Jul 23",boxscore,PIT,@,BRO,W,9,4,11,48-36,2, 12.0,Strincevich,Webber,Rescigno,3:00,D,"16,571",++++,None
+"Monday, Jul 24",boxscore,PIT,@,BRO,L,7,12,None,48-37,2, 13.0,Fuchs,Sewell,Davis,2:27,N,"9,072",-,None
+"Tuesday, Jul 25",boxscore,PIT,@,NYG,W,15,0,None,49-37,2, 13.0,Butcher,Barthelson,None,1:56,D,"4,524",+,None
+"Wednesday, Jul 26",boxscore,PIT,@,NYG,W,6,5,None,50-37,2, 13.0,Ostermueller,Feldman,Strincevich,2:14,N,"12,909",++,None
+"Friday, Jul 28",boxscore,PIT,@,NYG,L,0,4,None,50-38,2, 14.5,Voiselle,Roe,None,1:55,N,"12,871",-,1944-07-27 (Rain)
+"Saturday, Jul 29",boxscore,PIT,@,BSN,W,3,0,None,51-38,2, 15.0,Sewell,Tobin,None,1:33,D,"2,065",+,None
+"Sunday, Jul 30",boxscore,PIT,@,BSN,L,4,6,None,51-39,3, 16.0,Klopp,Starr,Tobin,1:58,D,None,-,None
+"Sunday, Jul 30",boxscore,PIT,@,BSN,L,0,2,None,51-40,3, 16.0,Javery,Strincevich,None,1:38,D,"7,143",--,None
+"Monday, Jul 31",boxscore,PIT,@,BSN,W,9,2,None,52-40,2, 15.0,Ostermueller,Andrews,None,None,D,None,+,None
+"Tuesday, Aug 1",boxscore,PIT,@,BSN,W,13,8,None,53-40,2, 15.0,Starr,Tobin,Sewell,None,D,None,++,None
+"Wednesday, Aug 2",boxscore,PIT,None,STL,L,4,8,None,53-41,2, 16.0,Lanier,Sewell,None,2:17,N,"27,481",-,None
+"Thursday, Aug 3",boxscore,PIT,None,STL,L,2,15,None,53-42,3, 17.0,Wilks,Roe,None,2:18,D,"3,001",--,None
+"Friday, Aug 4",boxscore,PIT,None,CHC,L,3,4,None,53-43,3, 17.0,Derringer,Butcher,None,2:03,N,"10,022",---,None
+"Saturday, Aug 5",boxscore,PIT,None,CHC,L,2,7,None,53-44,3, 17.5,Fleming,Ostermueller,Passeau,2:25,D,"2,861",----,None
+"Sunday, Aug 6",boxscore,PIT,None,CHC,W,13,5,None,54-44,3, 17.0,Roe,Derringer,Starr,2:18,D,None,+,None
+"Sunday, Aug 6",boxscore,PIT,None,CHC,W,5,4,None,55-44,3, 17.0,Strincevich,Chipman,Roe,2:04,D,"13,362",++,None
+"Tuesday, Aug 8",boxscore,PIT,None,NYG,L,4,8,None,55-45,3, 17.5,Voiselle,Butcher,None,1:36,D,"2,277",-,None
+"Wednesday, Aug 9",boxscore,PIT,None,NYG,W,4,3,None,56-45,2, 17.5,Ostermueller,Fischer,None,2:28,N,"12,683",+,None
+"Thursday, Aug 10",boxscore,PIT,None,NYG,W,10,4,None,57-45,2, 17.5,Roe,Brewer,None,None,D,None,++,None
+"Friday, Aug 11",boxscore,PIT,None,NYG,W,12,8,None,58-45,2, 17.5,Cuccurullo,Pyle,None,2:24,N,"13,024",+++,None
+"Saturday, Aug 12",boxscore,PIT,None,NYG,W,8,0,None,59-45,2, 16.5,Butcher,Voiselle,None,2:00,D,"3,335",++++,None
+"Sunday, Aug 13",boxscore,PIT,None,BSN,W,8,1,None,60-45,2, 16.5,Sewell,Tobin,None,1:50,D,None,+++++,None
+"Sunday, Aug 13",boxscore,PIT,None,BSN,W,3,1,None,61-45,2, 16.5,Ostermueller,Hutchings,None,2:08,D,"15,079",++++++,None
+"Monday, Aug 14",boxscore,PIT,None,BSN,W,5,0,None,62-45,2, 16.5,Roe,Barrett,None,1:33,D,"2,409",+++++++,None
+"Tuesday, Aug 15",boxscore,PIT,None,BSN,W,7,5,None,63-45,2, 16.5,Rescigno,Hutchinson,Strincevich,2:01,N,"12,397",++++++++,None
+"Thursday, Aug 17",boxscore,PIT,None,PHI,W,7,6,None,64-45,2, 16.5,Rescigno,Karl,None,2:10,D,None,+++++++++,None
+"Thursday, Aug 17",boxscore,PIT,None,PHI,W,6,5,10,65-45,2, 16.5,Strincevich,Barrett,None,1:53,D,"3,262",++++++++++,1944-08-16 (Rain)
+"Friday, Aug 18",boxscore,PIT,None,PHI,L,2,3,None,65-46,2, 17.5,Raffensberger,Sewell,None,3:05,N,"14,566",-,None
+"Saturday, Aug 19",boxscore,PIT,None,PHI,W,5,3,None,66-46,2, 17.5,Roe,Gerheauser,None,1:52,D,"3,327",+,None
+"Sunday, Aug 20",boxscore,PIT,None,BRO,W,10,7,None,67-46,2, 16.5,Butcher,Chapman,Cuccurullo,2:20,D,None,++,None
+"Sunday, Aug 20",boxscore,PIT,None,BRO,W,7,1,None,68-46,2, 16.5,Strincevich,Wyatt,None,1:59,D,"20,953",+++,None
+"Monday, Aug 21",boxscore,PIT,None,BRO,W-wo,7,6,10,69-46,2, 16.0,Starr,Webber,None,2:43,D,"3,039",++++,None
+"Tuesday, Aug 22",boxscore,PIT,None,BRO,W,7,5,None,70-46,2, 16.5,Sewell,Sunkel,None,2:18,N,"19,444",+++++,None
+"Friday, Aug 25",boxscore,PIT,@,STL,L,0,4,None,70-47,2, 18.5,Schmidt,Roe,None,2:35,N,"11,000",-,None
+"Sunday, Aug 27",boxscore,PIT,@,STL,W,14,6,None,71-47,2, 17.5,Sewell,Lanier,None,2:38,D,None,+,None
+"Sunday, Aug 27",boxscore,PIT,@,STL,T,1,1,10,71-47,2, 17.5,None,None,None,2:04,D,"10,676",+,None
+"Tuesday, Aug 29",boxscore,PIT,@,CHC,L,4,15,None,71-48,2, 18.5,Derringer,Butcher,None,2:28,D,None,-,None
+"Tuesday, Aug 29",boxscore,PIT,@,CHC,W,5,4,None,72-48,2, 18.5,Roe,Passeau,None,2:19,D,"11,649",+,1944-05-06 (Rain)
+"Wednesday, Aug 30",boxscore,PIT,@,CHC,L,5,12,None,72-49,2, 19.5,Wyse,Sewell,Lynn,2:21,D,None,-,None
+"Wednesday, Aug 30",boxscore,PIT,@,CHC,L,3,6,None,72-50,2, 19.5,Passeau,Starr,Wyse,2:10,D,"17,438",--,1944-08-28 (Rain)
+"Friday, Sep 1",boxscore,PIT,None,STL,W,3,2,None,73-50,2, 18.5,Ostermueller,Lanier,None,2:16,D,"17,030",+,None
+"Saturday, Sep 2",boxscore,PIT,None,STL,W,5,4,None,74-50,2, 17.5,Butcher,Wilks,None,2:22,D,"5,864",++,None
+"Sunday, Sep 3",boxscore,PIT,None,STL,W,6,5,None,75-50,2, 15.5,Sewell,Cooper,None,1:55,D,None,+++,None
+"Sunday, Sep 3",boxscore,PIT,None,STL,W,8,2,None,76-50,2, 15.5,Strincevich,Brecheen,None,2:08,D,"34,395",++++,None
+"Monday, Sep 4",boxscore,PIT,None,CHC,L,3,6,None,76-51,2, 16.0,Erickson,Butcher,None,2:16,D,"18,175",-,None
+"Monday, Sep 4",boxscore,PIT,None,CHC,W,4,3,6,77-51,2, 16.0,Rescigno,Derringer,None,1:16,D,"18,175",+,None
+"Thursday, Sep 7",boxscore,PIT,@,CIN,L,1,2,None,77-52,2, 17.0,Heusser,Ostermueller,None,1:50,N,"4,702",-,None
+"Saturday, Sep 9",boxscore,PIT,@,CIN,L,2,3,None,77-53,2, 17.0,Shoun,Sewell,None,1:27,D,"1,818",--,None
+"Sunday, Sep 10",boxscore,PIT,@,CIN,W,7,5,None,78-53,2, 17.0,Strincevich,Walters,None,1:52,D,None,+,None
+"Sunday, Sep 10",boxscore,PIT,@,CIN,L,0,2,None,78-54,2, 17.0,Carter,Butcher,None,1:32,D,"17,343",-,None
+"Tuesday, Sep 12",boxscore,PIT,@,STL,W,5,3,None,79-54,2, 15.0,Ostermueller,Schmidt,None,2:20,N,None,+,None
+"Tuesday, Sep 12",boxscore,PIT,@,STL,W,6,5,None,80-54,2, 15.0,Roe,Byerly,Starr,2:41,N,"6,445",++,1944-08-26 (Rain)
+"Wednesday, Sep 13",boxscore,PIT,@,STL,W,7,3,None,81-54,2, 13.0,Sewell,Brecheen,None,2:15,N,None,+++,None
+"Wednesday, Sep 13",boxscore,PIT,@,STL,W,10,5,None,82-54,2, 13.0,Rescigno,Lanier,Starr,2:16,N,"6,495",++++,None
+"Friday, Sep 15",boxscore,PIT,None,CIN,L,3,5,10,82-55,2, 13.5,Walters,Rescigno,None,2:05,N,"12,198",-,None
+"Saturday, Sep 16",boxscore,PIT,None,CIN,L,1,2,None,82-56,2, 14.0,de la Cruz,Butcher,None,1:31,D,None,--,None
+"Saturday, Sep 16",boxscore,PIT,None,CIN,L,1,3,None,82-57,2, 14.0,Carter,Starr,None,1:34,D,"3,670",---,1944-04-23 (Rain)
+"Sunday, Sep 17",boxscore,PIT,None,CIN,W,7,1,None,83-57,2, 13.0,Sewell,Shoun,None,1:47,D,None,+,None
+"Sunday, Sep 17",boxscore,PIT,None,CIN,L,1,2,10,83-58,2, 13.0,Gumbert,Ostermueller,None,2:04,D,"19,823",-,1944-06-06 (D-Day)
+"Wednesday, Sep 20",boxscore,PIT,@,BRO,W,2,1,None,84-58,2, 12.5,Strincevich,Wells,None,None,None,"1,338",+,None
+"Thursday, Sep 21",boxscore,PIT,@,BRO,W,10,4,None,85-58,2, 12.5,Sewell,Gregg,None,None,None,None,++,None
+"Thursday, Sep 21",boxscore,PIT,@,BRO,W,14,6,None,86-58,2, 12.5,Roe,Zachary,None,None,None,"2,579",+++,1944-09-22 (Schedule change)
+"Saturday, Sep 23",boxscore,PIT,@,NYG,W,6,4,13,87-58,2, 12.0,Sewell,Adams,Cuccurullo,3:16,D,"3,749",++++,None
+"Sunday, Sep 24",boxscore,PIT,@,NYG,L,4,5,None,87-59,2, 13.0,Voiselle,Ostermueller,None,2:14,D,None,-,None
+"Sunday, Sep 24",boxscore,PIT,@,NYG,W,3,2,10,88-59,2, 13.0,Strincevich,Melton,None,1:53,D,"17,778",+,None
+"Monday, Sep 25",boxscore,PIT,@,BSN,L,4,5,13,88-60,2, 14.0,Barrett,Roe,None,2:28,D,463,-,None
+"Tuesday, Sep 26",boxscore,PIT,@,BSN,W,6,2,None,89-60,2, 14.0,Butcher,Andrews,None,1:51,D,"1,644",+,None
+"Wednesday, Sep 27",boxscore,PIT,@,BSN,L,3,4,None,89-61,2, 14.0,Javery,Strincevich,Hutchings,1:50,D,655,-,None
+"Friday, Sep 29",boxscore,PIT,@,PHI,L,0,3,None,89-62,2, 14.5,Raffensberger,Ostermueller,None,1:43,D,"1,000",--,None
+"Sunday, Oct 1",boxscore,PIT,@,PHI,W,9,1,None,90-62,2, 14.5,Sewell,Schanz,None,None,None,None,+,None
+"Sunday, Oct 1",boxscore,PIT,@,PHI,L,1,7,None,90-63,2, 14.5,Barrett,Gilmore,None,None,D,None,-,1944-09-28 (Schedule change)
