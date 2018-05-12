@@ -170,13 +170,73 @@ for (i in 1:I){
  
   graph_limits_data_list[[i]] <- data.frame(team = team_choices[i], 
                                             var = names(min_val), 
-                                            min_val, max_val)
+                                            min_val,
+                                            max_val)
+  
+  
+  for (j in 1:length(graph_limits_data_list[[i]]$min_val)){
+    
+    ifelse(graph_limits_data_list[[i]]$min_val[j] == 'Inf',
+           graph_limits_data_list[[i]]$min_val[j] <- 0, 
+           graph_limits_data_list[[i]]$min_val[j] <- graph_limits_data_list[[i]]$min_val[j])
+    ifelse(graph_limits_data_list[[i]]$min_val[j] == '-Inf',
+           graph_limits_data_list[[i]]$min_val[j] <- 0, 
+           graph_limits_data_list[[i]]$min_val[j] <- graph_limits_data_list[[i]]$min_val[j])
+    ifelse(graph_limits_data_list[[i]]$max_val[j] == 'Inf',
+           graph_limits_data_list[[i]]$max_val[j] <- 0, 
+           graph_limits_data_list[[i]]$max_val[j] <- graph_limits_data_list[[i]]$max_val[j])
+    ifelse(graph_limits_data_list[[i]]$max_val[j] == '-Inf',
+           graph_limits_data_list[[i]]$max_val[j] <- 0, 
+           graph_limits_data_list[[i]]$max_val[j] <- graph_limits_data_list[[i]]$max_val[j])
+    
+  }
+  
+  graph_limits_data_list[[i]]$min_val <- as.numeric(graph_limits_data_list[[i]]$min_val)
+  graph_limits_data_list[[i]]$max_val <- as.numeric(graph_limits_data_list[[i]]$min_val)
+   
+  # graph_limits_data_list[[i]]$min_val <- ifelse('-Inf', 0, graph_limits_data_list[[i]]$min_val)
+  # graph_limits_data_list[[i]]$max_val <- ifelse('Inf', 0, graph_limits_data_list[[i]]$max_val)
+  # graph_limits_data_list[[i]]$max_val <- ifelse('-Inf', 0, graph_limits_data_list[[i]]$max_val)
+  #  
+  write.csv(x = graph_limits_data_list[[i]],
+            file = file.path(data_directory, paste(team_choices[i],
+                                                   '_graph_limits.csv',
+                                                   sep = '')),
+            row.names = FALSE)
   
 }
+
+team_vec <- as.character(graph_limits_data_list[[1]]$team)
+var_vec <- as.character(graph_limits_data_list[[1]]$var)
+min_vec <- graph_limits_data_list[[1]]$min_val
+max_vec <- graph_limits_data_list[[1]]$max_val
+for (i in 2:length(graph_limits_data_list)){
+  
+  team_vec <- c(team_vec, as.character(graph_limits_data_list[[i]]$team))
+  var_vec <- c(var_vec, as.character(graph_limits_data_list[[i]]$var))
+  min_vec <- c(min_vec, graph_limits_data_list[[i]]$min)
+  max_vec <- c(max_vec, graph_limits_data_list[[i]]$max)
+  
+}
+
+min_vec <- unlist(min_vec)
+min_vec
+
+data.frame(team_vec,
+          var_vec,
+          min_vec,
+          max_vec,
+          stringsAsFactors = FALSE)
+
 
 graph_limits <- bind_rows(graph_limits_data_list)
 
 
+x <- full_join(graph_limits_data_list[[1]], graph_limits_data_list[[2]])
+for(i in 3:length(graph_limits_data_list)){
+  x <- full_join(x, graph_limits_data_list[[i]])
+}
+x
 
 
 
