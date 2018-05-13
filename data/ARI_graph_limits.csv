@@ -1,31 +1,30 @@
 "team","var","min_val","max_val"
-"ARI","date",Inf,-Inf
-"ARI","boxscore",Inf,-Inf
-"ARI","team",Inf,-Inf
-"ARI","home_or_away",0,0
-"ARI","opponent",Inf,-Inf
-"ARI","win_or_loss",Inf,-Inf
-"ARI","runs",0,18
-"ARI","runs_allowed",0,21
-"ARI","innings",0,18
-"ARI","win_loss_record",Inf,-Inf
-"ARI","rank",1,5
-"ARI","games_behind",0.5,43
-"ARI","win",Inf,-Inf
-"ARI","loss",Inf,-Inf
-"ARI","save",0,0
-"ARI","time",Inf,-Inf
-"ARI","day_or_night",Inf,-Inf
-"ARI","attendance",0,61674
-"ARI","streak",Inf,-Inf
-"ARI","originally_scheduled",0,0
-"ARI","year",1998,2017
-"ARI","games_ahead",-43,14
-"ARI","run_diff",-18,13
-"ARI","r_so_far",0,14627
-"ARI","ra_so_far",6,14816
-"ARI","rd_so_far",-362,481
-"ARI","wins_so_far",0,1585
-"ARI","losses_so_far",1,1635
-"ARI","record_so_far",0,0.546511627906977
-"ARI","attendance_so_far",43758,98706688
+"ARI","date","Friday, Apr 10","Wednesday, Sep 9"
+"ARI","boxscore","boxscore","boxscore"
+"ARI","team","ARI","ARI"
+"ARI","home_or_away","@","0"
+"ARI","opponent","ANA","WSN"
+"ARI","win_or_loss","L","W-wo"
+"ARI","runs"," 0","18"
+"ARI","runs_allowed"," 0","21"
+"ARI","innings","0","6"
+"ARI","win_loss_record","0-2","99-62"
+"ARI","rank","1","5"
+"ARI","win","Aardsma","Zito"
+"ARI","loss","Abbott","Zito"
+"ARI","save","0","Ziegler"
+"ARI","time","1:47","7:06"
+"ARI","day_or_night","D","N"
+"ARI","attendance"," 4340","61674"
+"ARI","streak","-","+++++++++++++"
+"ARI","originally_scheduled","0","2015-05-05 (Rain)"
+"ARI","year","1998","2017"
+"ARI","games_ahead","  0.0","-43.0"
+"ARI","run_diff","  1","-18"
+"ARI","r_so_far","  0","902"
+"ARI","ra_so_far","  0","893"
+"ARI","rd_so_far","   0","-284"
+"ARI","wins_so_far","  0","100"
+"ARI","losses_so_far","  0","110"
+"ARI","record_so_far","0.0000000","1.0000000"
+"ARI","attendance_so_far","  14016","5409333"

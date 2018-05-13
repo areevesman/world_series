@@ -1,31 +1,30 @@
 "team","var","min_val","max_val"
-"DET","date",Inf,-Inf
-"DET","boxscore",0,0
-"DET","team",Inf,-Inf
-"DET","home_or_away",0,0
-"DET","opponent",Inf,-Inf
-"DET","win_or_loss",Inf,-Inf
-"DET","runs",0,21
-"DET","runs_allowed",0,26
-"DET","innings",0,24
-"DET","win_loss_record",Inf,-Inf
-"DET","rank",1,10
-"DET","games_behind",0.5,49
-"DET","win",0,0
-"DET","loss",0,0
-"DET","save",0,0
-"DET","time",0,0
-"DET","day_or_night",0,0
-"DET","attendance",0,79000
-"DET","streak",Inf,-Inf
-"DET","originally_scheduled",0,0
-"DET","year",1901,2017
-"DET","games_ahead",-49,15.5
-"DET","run_diff",-22,21
-"DET","r_so_far",6,84227
-"DET","ra_so_far",5,83170
-"DET","rd_so_far",-319,2592
-"DET","wins_so_far",1,9276
-"DET","losses_so_far",0,9026
-"DET","record_so_far",0.450261780104712,1
-"DET","attendance_so_far",0,265261092
+"DET","date","Friday, Apr 10","Wednesday, Sep 9"
+"DET","boxscore","0","boxscore"
+"DET","team","DET","DET"
+"DET","home_or_away","@","0"
+"DET","opponent","ANA","WSN"
+"DET","win_or_loss","*H","W-wo"
+"DET","runs"," 0","21"
+"DET","runs_allowed"," 0","26"
+"DET","innings","0","9"
+"DET","win_loss_record","0-10","99-61"
+"DET","rank"," 1","10"
+"DET","win","0","Zych"
+"DET","loss","0","Zuverink"
+"DET","save","0","Zuverink"
+"DET","time","0","7:00"
+"DET","day_or_night","0","N"
+"DET","attendance","    9","79000"
+"DET","streak","-","++++++++++++++"
+"DET","originally_scheduled","0","2016-09-21 (Rain)"
+"DET","year","1901","2017"
+"DET","games_ahead","  0.0","-49.0"
+"DET","run_diff","  0","-22"
+"DET","r_so_far","  0","950"
+"DET","ra_so_far","   0","1095"
+"DET","rd_so_far","   0","-351"
+"DET","wins_so_far","  0","105"
+"DET","losses_so_far","  0","118"
+"DET","record_so_far","0.00000000","1.00000000"
+"DET","attendance_so_far","    800","5501648"

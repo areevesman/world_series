@@ -99,7 +99,7 @@ server <- function(input, output) {
                 sep = "",
                 round = TRUE,
                 step = 1,
-                animate = animationOptions(interval = 1200))
+                animate = animationOptions(interval = 900))
     
   })
   
@@ -146,10 +146,20 @@ server <- function(input, output) {
     
   })
   
+  limit_data <- reactive({
+    
+    get_data(paste(input$select_team,
+                   "_graph_limits",
+                   sep = ""))
+    
+  })
+  
   output$test_print <- renderPrint({
 
-    team_data()$attendance
-
+    #team_data()$attendance
+    # c(-1.1 * abs(limit_data()[which(limit_data()$var == input$select_stat), "min_val"][[1,1]]),
+    #   1.1 * limit_data()[which(limit_data()$var == input$select_stat), "max_val"][[1,1]])
+    
   })
   
   output$ts_plot <- renderPlot({
@@ -159,9 +169,9 @@ server <- function(input, output) {
                          y = team_data()[,input$select_stat])) +
       geom_point(size = 2) +
       geom_line(size = 1) +
-      # xlim(c(-5,165)) +
-      # ylim(c(min(team_data()[,input$select_stat]) -10, 
-      #        max(team_data()[,input$select_stat]) + 10)) +
+      xlim(c(-5,165)) +
+      ylim(c(-1.1 * abs(limit_data()[which(limit_data()$var == input$select_stat), "min_val"][[1,1]]),
+             1.1 * limit_data()[which(limit_data()$var == input$select_stat), "max_val"][[1,1]])) +
       xlab("Game Number in Season") +
       ylab("")
     

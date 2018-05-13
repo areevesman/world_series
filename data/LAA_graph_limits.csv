@@ -1,31 +1,30 @@
 "team","var","min_val","max_val"
-"LAA","date",Inf,-Inf
-"LAA","boxscore",Inf,-Inf
-"LAA","team",Inf,-Inf
-"LAA","home_or_away",0,0
-"LAA","opponent",Inf,-Inf
-"LAA","win_or_loss",Inf,-Inf
-"LAA","runs",0,21
-"LAA","runs_allowed",0,18
-"LAA","innings",0,19
-"LAA","win_loss_record",Inf,-Inf
-"LAA","rank",1,5
-"LAA","games_behind",0.5,24.5
-"LAA","win",Inf,-Inf
-"LAA","loss",Inf,-Inf
-"LAA","save",0,0
-"LAA","time",Inf,-Inf
-"LAA","day_or_night",Inf,-Inf
-"LAA","attendance",0,56000
-"LAA","streak",Inf,-Inf
-"LAA","originally_scheduled",0,0
-"LAA","year",2005,2017
-"LAA","games_ahead",-24.5,22
-"LAA","run_diff",-14,19
-"LAA","r_so_far",2,9665
-"LAA","ra_so_far",3,9033
-"LAA","rd_so_far",-4,705
-"LAA","wins_so_far",0,1139
-"LAA","losses_so_far",1,957
-"LAA","record_so_far",0,0.614457831325301
-"LAA","attendance_so_far",35077,71023118
+"LAA","date","Friday, Apr 1","Wednesday, Sep 9"
+"LAA","boxscore","boxscore","boxscore"
+"LAA","team","LAA","LAA"
+"LAA","home_or_away","@","0"
+"LAA","opponent","ARI","WSN"
+"LAA","win_or_loss","&V","W-wo"
+"LAA","runs"," 0","21"
+"LAA","runs_allowed"," 0","18"
+"LAA","innings","0","5"
+"LAA","win_loss_record","0-2","99-62"
+"LAA","rank","1","5"
+"LAA","win","Aceves","Zumaya"
+"LAA","loss","Aardsma","Zych"
+"LAA","save","0","Ziegler"
+"LAA","time","1:35","6:32"
+"LAA","day_or_night","D","N"
+"LAA","attendance"," 8947","56000"
+"LAA","streak","-","++++++++++"
+"LAA","originally_scheduled","0","2015-09-18 (Rain)"
+"LAA","year","2005","2017"
+"LAA","games_ahead","  0.0","-24.5"
+"LAA","run_diff","  1","-14"
+"LAA","r_so_far","  1","880"
+"LAA","ra_so_far","  0","761"
+"LAA","rd_so_far","  0","171"
+"LAA","wins_so_far","  0","100"
+"LAA","losses_so_far"," 0","87"
+"LAA","record_so_far","0.0000000","1.0000000"
+"LAA","attendance_so_far","  11225","5849616"

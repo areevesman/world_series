@@ -1,31 +1,30 @@
 "team","var","min_val","max_val"
-"NYY","date",Inf,-Inf
-"NYY","boxscore",0,0
-"NYY","team",Inf,-Inf
-"NYY","home_or_away",0,0
-"NYY","opponent",Inf,-Inf
-"NYY","win_or_loss",Inf,-Inf
-"NYY","runs",0,25
-"NYY","runs_allowed",0,24
-"NYY","innings",0,22
-"NYY","win_loss_record",Inf,-Inf
-"NYY","rank",1,10
-"NYY","games_behind",0.5,55
-"NYY","win",0,0
-"NYY","loss",0,0
-"NYY","save",0,0
-"NYY","time",0,0
-"NYY","day_or_night",0,0
-"NYY","attendance",0,86563
-"NYY","streak",Inf,-Inf
-"NYY","originally_scheduled",0,0
-"NYY","year",1903,2017
-"NYY","games_ahead",-55,22
-"NYY","run_diff",-22,23
-"NYY","r_so_far",7,86722
-"NYY","ra_so_far",2,74604
-"NYY","rd_so_far",-549,12119
-"NYY","wins_so_far",1,10218
-"NYY","losses_so_far",0,7773
-"NYY","record_so_far",0.4,1
-"NYY","attendance_so_far",0,366383990
+"NYY","date","Friday, Apr 10","Wednesday, Sep 9"
+"NYY","boxscore","0","boxscore"
+"NYY","team","NYY","NYY"
+"NYY","home_or_away","@","0"
+"NYY","opponent","ANA","WSN"
+"NYY","win_or_loss","*H","W-wo"
+"NYY","runs"," 0","25"
+"NYY","runs_allowed"," 0","24"
+"NYY","innings","0","9"
+"NYY","win_loss_record","0-1","99-63"
+"NYY","rank"," 1","10"
+"NYY","win","0","Zych"
+"NYY","loss","0","Zuverink"
+"NYY","save","0","Zuverink"
+"NYY","time","0","7:00"
+"NYY","day_or_night","0","N"
+"NYY","attendance","   14","86563"
+"NYY","streak","-","+++++++++++++++++++"
+"NYY","originally_scheduled","0","2017-05-13 (Rain)"
+"NYY","year","1903","2017"
+"NYY","games_ahead","  0.0","-55.0"
+"NYY","run_diff","  0","-22"
+"NYY","r_so_far","   0","1065"
+"NYY","ra_so_far","  0","892"
+"NYY","rd_so_far","   0","-254"
+"NYY","wins_so_far","  0","114"
+"NYY","losses_so_far","  0","104"
+"NYY","record_so_far","0.0000000","1.0000000"
+"NYY","attendance_so_far","   2500","7293193"

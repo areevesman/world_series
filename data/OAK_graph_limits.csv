@@ -1,31 +1,30 @@
 "team","var","min_val","max_val"
-"OAK","date",Inf,-Inf
-"OAK","boxscore",Inf,-Inf
-"OAK","team",Inf,-Inf
-"OAK","home_or_away",0,0
-"OAK","opponent",Inf,-Inf
-"OAK","win_or_loss",Inf,-Inf
-"OAK","runs",0,23
-"OAK","runs_allowed",0,22
-"OAK","innings",0,21
-"OAK","win_loss_record",Inf,-Inf
-"OAK","rank",1,8
-"OAK","games_behind",0.5,40
-"OAK","win",0,0
-"OAK","loss",0,0
-"OAK","save",0,0
-"OAK","time",Inf,-Inf
-"OAK","day_or_night",Inf,-Inf
-"OAK","attendance",0,61696
-"OAK","streak",Inf,-Inf
-"OAK","originally_scheduled",0,0
-"OAK","year",1968,2017
-"OAK","games_ahead",-40,17
-"OAK","run_diff",-16,21
-"OAK","r_so_far",9,35813
-"OAK","ra_so_far",6,34554
-"OAK","rd_so_far",-14,1543
-"OAK","wins_so_far",1,4101
-"OAK","losses_so_far",0,3830
-"OAK","record_so_far",0.363636363636364,1
-"OAK","attendance_so_far",5014,171846493
+"OAK","date","Friday, Apr 10","Wednesday, Sep 9"
+"OAK","boxscore","boxscore","boxscore"
+"OAK","team","OAK","OAK"
+"OAK","home_or_away","@","0"
+"OAK","opponent","ANA","WSN"
+"OAK","win_or_loss","&H","W-wo"
+"OAK","runs"," 0","23"
+"OAK","runs_allowed"," 0","22"
+"OAK","innings","0","8"
+"OAK","win_loss_record","0-2","99-63"
+"OAK","rank","1","8"
+"OAK","win","0","Zito"
+"OAK","loss","0","Zumaya"
+"OAK","save","0","Zych"
+"OAK","time","1:12","6:32"
+"OAK","day_or_night","D","N"
+"OAK","attendance","  653","61696"
+"OAK","streak","-","++++++++++++++++++++"
+"OAK","originally_scheduled","0","2016-05-06 (Rain)"
+"OAK","year","1968","2017"
+"OAK","games_ahead","  0.0","-40.0"
+"OAK","run_diff","  0","-16"
+"OAK","r_so_far","  0","943"
+"OAK","ra_so_far","  0","937"
+"OAK","rd_so_far","   0","-286"
+"OAK","wins_so_far","  0","103"
+"OAK","losses_so_far","  0","108"
+"OAK","record_so_far","0.0000000","1.0000000"
+"OAK","attendance_so_far","   2236","4888359"

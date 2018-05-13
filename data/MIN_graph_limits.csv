@@ -1,31 +1,30 @@
 "team","var","min_val","max_val"
-"MIN","date",Inf,-Inf
-"MIN","boxscore",Inf,-Inf
-"MIN","team",Inf,-Inf
-"MIN","home_or_away",0,0
-"MIN","opponent",Inf,-Inf
-"MIN","win_or_loss",Inf,-Inf
-"MIN","runs",0,24
-"MIN","runs_allowed",0,23
-"MIN","innings",0,22
-"MIN","win_loss_record",Inf,-Inf
-"MIN","rank",1,10
-"MIN","games_behind",0.5,44
-"MIN","win",0,0
-"MIN","loss",0,0
-"MIN","save",0,0
-"MIN","time",Inf,-Inf
-"MIN","day_or_night",Inf,-Inf
-"MIN","attendance",0,71245
-"MIN","streak",Inf,-Inf
-"MIN","originally_scheduled",0,0
-"MIN","year",1961,2017
-"MIN","games_ahead",-44,17
-"MIN","run_diff",-18,21
-"MIN","r_so_far",3,40807
-"MIN","ra_so_far",2,41113
-"MIN","rd_so_far",-408,1093
-"MIN","wins_so_far",1,4486
-"MIN","losses_so_far",0,4575
-"MIN","record_so_far",0.358490566037736,1
-"MIN","attendance_so_far",9185,187949282
+"MIN","date","Friday, Apr 10","Wednesday, Sep 9"
+"MIN","boxscore","boxscore","boxscore"
+"MIN","team","MIN","MIN"
+"MIN","home_or_away","@","0"
+"MIN","opponent","ANA","WSN"
+"MIN","win_or_loss","&H","W-wo"
+"MIN","runs"," 0","24"
+"MIN","runs_allowed"," 0","23"
+"MIN","innings","0","9"
+"MIN","win_loss_record","0-2","99-59"
+"MIN","rank"," 1","10"
+"MIN","win","0","Zumaya"
+"MIN","loss","0","Zumaya"
+"MIN","save","0","Zumaya"
+"MIN","time","1:10","6:36"
+"MIN","day_or_night","D","N"
+"MIN","attendance","  537","71245"
+"MIN","streak","-","+++++++++++++++"
+"MIN","originally_scheduled","0","2017-05-20 (Rain)"
+"MIN","year","1961","2017"
+"MIN","games_ahead","  0.0","-44.0"
+"MIN","run_diff","  0","-18"
+"MIN","r_so_far","  0","869"
+"MIN","ra_so_far","  0","894"
+"MIN","rd_so_far","   0","-183"
+"MIN","wins_so_far","  0","101"
+"MIN","losses_so_far","  0","102"
+"MIN","record_so_far","0.0000000","1.0000000"
+"MIN","attendance_so_far","   1086","5465055"

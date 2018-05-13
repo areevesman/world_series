@@ -1,31 +1,30 @@
 "team","var","min_val","max_val"
-"PIT","date",Inf,-Inf
-"PIT","boxscore",0,0
-"PIT","team",Inf,-Inf
-"PIT","home_or_away",0,0
-"PIT","opponent",Inf,-Inf
-"PIT","win_or_loss",Inf,-Inf
-"PIT","runs",0,27
-"PIT","runs_allowed",0,28
-"PIT","innings",0,22
-"PIT","win_loss_record",Inf,-Inf
-"PIT","rank",1,13
-"PIT","games_behind",0.5,66.5
-"PIT","win",0,0
-"PIT","loss",0,0
-"PIT","save",0,0
-"PIT","time",0,0
-"PIT","day_or_night",0,0
-"PIT","attendance",0,65681
-"PIT","streak",Inf,-Inf
-"PIT","originally_scheduled",0,0
-"PIT","year",1882,2017
-"PIT","games_ahead",-66.5,27.5
-"PIT","run_diff",-22,23
-"PIT","r_so_far",3,92231
-"PIT","ra_so_far",7,91576
-"PIT","rd_so_far",-1325,2531
-"PIT","wins_so_far",0,10482
-"PIT","losses_so_far",1,10335
-"PIT","record_so_far",0,0.545454545454545
-"PIT","attendance_so_far",0,245448316
+"PIT","date","Friday, Apr 10","Wednesday, Sep 9"
+"PIT","boxscore","0","boxscore"
+"PIT","team","PIT","PIT"
+"PIT","home_or_away","@","0"
+"PIT","opponent","ANA","WSN"
+"PIT","win_or_loss","*H","W-wo"
+"PIT","runs"," 0","27"
+"PIT","runs_allowed"," 0","28"
+"PIT","innings","0","9"
+"PIT","win_loss_record","0-2","99-36"
+"PIT","rank"," 1","13"
+"PIT","win","0","Zito"
+"PIT","loss","0","Zmich"
+"PIT","save","0","Zinn"
+"PIT","time","0","6:39"
+"PIT","day_or_night","0","N"
+"PIT","attendance","  100","65681"
+"PIT","streak","-","++++++++++++++++"
+"PIT","originally_scheduled","0","2016-06-06 (Rain)"
+"PIT","year","1882","2017"
+"PIT","games_ahead","  0.0","-66.5"
+"PIT","run_diff","  0","-22"
+"PIT","r_so_far","  0","965"
+"PIT","ra_so_far","   0","1230"
+"PIT","rd_so_far","   0","-634"
+"PIT","wins_so_far","  0","111"
+"PIT","losses_so_far","  0","115"
+"PIT","record_so_far","0.0000000","1.0000000"
+"PIT","attendance_so_far","   1467","5131940"

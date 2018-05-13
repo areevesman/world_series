@@ -1,31 +1,30 @@
 "team","var","min_val","max_val"
-"MIL","date",Inf,-Inf
-"MIL","boxscore",Inf,-Inf
-"MIL","team",Inf,-Inf
-"MIL","home_or_away",0,0
-"MIL","opponent",Inf,-Inf
-"MIL","win_or_loss",Inf,-Inf
-"MIL","runs",0,22
-"MIL","runs_allowed",0,20
-"MIL","innings",0,25
-"MIL","win_loss_record",Inf,-Inf
-"MIL","rank",1,7
-"MIL","games_behind",0.5,41
-"MIL","win",0,0
-"MIL","loss",0,0
-"MIL","save",0,0
-"MIL","time",Inf,-Inf
-"MIL","day_or_night",Inf,-Inf
-"MIL","attendance",0,63546
-"MIL","streak",Inf,-Inf
-"MIL","originally_scheduled",0,0
-"MIL","year",1970,2017
-"MIL","games_ahead",-41,10.5
-"MIL","run_diff",-17,20
-"MIL","r_so_far",1,33675
-"MIL","ra_so_far",6,34809
-"MIL","rd_so_far",-1196,15
-"MIL","wins_so_far",0,3644
-"MIL","losses_so_far",1,3961
-"MIL","record_so_far",0,0.6
-"MIL","attendance_so_far",7575,179587804
+"MIL","date","Friday, Apr 10","Wednesday, Sep 9"
+"MIL","boxscore","boxscore","boxscore"
+"MIL","team","MIL","MIL"
+"MIL","home_or_away","@","0"
+"MIL","opponent","ANA","WSN"
+"MIL","win_or_loss","&H","W-wo"
+"MIL","runs"," 0","22"
+"MIL","runs_allowed"," 0","20"
+"MIL","innings","0","8"
+"MIL","win_loss_record","0-2","96-66"
+"MIL","rank","1","7"
+"MIL","win","0","Zito"
+"MIL","loss","0","Zumaya"
+"MIL","save","0","Ziegler"
+"MIL","time","1:10","8:06"
+"MIL","day_or_night","D","N"
+"MIL","attendance"," 1009","63546"
+"MIL","streak","-","+++++++++++++"
+"MIL","originally_scheduled","0","2016-04-27 (Rain)"
+"MIL","year","1970","2017"
+"MIL","games_ahead","  0.0","-41.0"
+"MIL","run_diff","  0","-17"
+"MIL","r_so_far","  0","879"
+"MIL","ra_so_far","  0","890"
+"MIL","rd_so_far","   0","-200"
+"MIL","wins_so_far"," 0","96"
+"MIL","losses_so_far","  0","106"
+"MIL","record_so_far","0.0000000","1.0000000"
+"MIL","attendance_so_far","   4905","5719994"

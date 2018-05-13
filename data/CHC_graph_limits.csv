@@ -1,31 +1,30 @@
 "team","var","min_val","max_val"
-"CHC","date",Inf,-Inf
-"CHC","boxscore",0,0
-"CHC","team",Inf,-Inf
-"CHC","home_or_away",0,0
-"CHC","opponent",Inf,-Inf
-"CHC","win_or_loss",Inf,-Inf
-"CHC","runs",0,36
-"CHC","runs_allowed",0,25
-"CHC","innings",0,22
-"CHC","win_loss_record",Inf,-Inf
-"CHC","rank",1,12
-"CHC","games_behind",0.5,45.5
-"CHC","win",0,0
-"CHC","loss",0,0
-"CHC","save",0,0
-"CHC","time",0,0
-"CHC","day_or_night",0,0
-"CHC","attendance",0,99027
-"CHC","streak",Inf,-Inf
-"CHC","originally_scheduled",0,0
-"CHC","year",1876,2017
-"CHC","games_ahead",-45.5,20
-"CHC","run_diff",-22,31
-"CHC","r_so_far",10,97026
-"CHC","ra_so_far",0,93728
-"CHC","rd_so_far",10,6094
-"CHC","wins_so_far",1,10914
-"CHC","losses_so_far",0,10371
-"CHC","record_so_far",0.510578957491825,1
-"CHC","attendance_so_far",0,290458998
+"CHC","date","Friday, Apr 10","Wednesday, Sep 9"
+"CHC","boxscore","0","boxscore"
+"CHC","team","CHC","CHC"
+"CHC","home_or_away","@","0"
+"CHC","opponent","ANA","WSN"
+"CHC","win_or_loss","*H","W-wo"
+"CHC","runs"," 0","36"
+"CHC","runs_allowed"," 0","25"
+"CHC","innings","0","9"
+"CHC","win_loss_record","0-1","99-56"
+"CHC","rank"," 1","12"
+"CHC","win","0","Zito"
+"CHC","loss","0","Zito"
+"CHC","save","0","Ziegler"
+"CHC","time","0","6:27"
+"CHC","day_or_night","0","N"
+"CHC","attendance","   12","99027"
+"CHC","streak","-","+++++++++++++++++++++"
+"CHC","originally_scheduled","0","2016-05-09 (Rain)"
+"CHC","year","1876","2017"
+"CHC","games_ahead","  0.0","-45.5"
+"CHC","run_diff","  0","-22"
+"CHC","r_so_far","   0","1052"
+"CHC","ra_so_far","   0","1071"
+"CHC","rd_so_far","   0","-205"
+"CHC","wins_so_far","  0","118"
+"CHC","losses_so_far","  0","102"
+"CHC","record_so_far","0.00000000","1.00000000"
+"CHC","attendance_so_far","    500","6165020"

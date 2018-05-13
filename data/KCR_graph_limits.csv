@@ -1,31 +1,30 @@
 "team","var","min_val","max_val"
-"KCR","date",Inf,-Inf
-"KCR","boxscore",Inf,-Inf
-"KCR","team",Inf,-Inf
-"KCR","home_or_away",0,0
-"KCR","opponent",Inf,-Inf
-"KCR","win_or_loss",Inf,-Inf
-"KCR","runs",0,26
-"KCR","runs_allowed",0,22
-"KCR","innings",0,18
-"KCR","win_loss_record",Inf,-Inf
-"KCR","rank",1,7
-"KCR","games_behind",0.5,43
-"KCR","win",0,0
-"KCR","loss",0,0
-"KCR","save",0,0
-"KCR","time",Inf,-Inf
-"KCR","day_or_night",Inf,-Inf
-"KCR","attendance",0,73303
-"KCR","streak",Inf,-Inf
-"KCR","originally_scheduled",0,0
-"KCR","year",1969,2017
-"KCR","games_ahead",-43,20
-"KCR","run_diff",-18,21
-"KCR","r_so_far",4,34181
-"KCR","ra_so_far",3,35547
-"KCR","rd_so_far",-1410,679
-"KCR","wins_so_far",1,3774
-"KCR","losses_so_far",0,3994
-"KCR","record_so_far",0.385714285714286,1
-"KCR","attendance_so_far",13731,173715428
+"KCR","date","Friday, Apr 1","Wednesday, Sep 9"
+"KCR","boxscore","boxscore","boxscore"
+"KCR","team","KCR","KCR"
+"KCR","home_or_away","@","0"
+"KCR","opponent","ANA","WSN"
+"KCR","win_or_loss","&H","W-wo"
+"KCR","runs"," 0","26"
+"KCR","runs_allowed"," 0","22"
+"KCR","innings","0","9"
+"KCR","win_loss_record","0-2","99-59"
+"KCR","rank","1","7"
+"KCR","win","0","Zumaya"
+"KCR","loss","0","Zito"
+"KCR","save","0","Zepp"
+"KCR","time","0:48","6:28"
+"KCR","day_or_night","D","N"
+"KCR","attendance","  672","73303"
+"KCR","streak","-","++++++++++++++++"
+"KCR","originally_scheduled","0","2017-05-20 (Rain)"
+"KCR","year","1969","2017"
+"KCR","games_ahead","  0.0","-43.0"
+"KCR","run_diff","  0","-18"
+"KCR","r_so_far","  0","875"
+"KCR","ra_so_far","  0","968"
+"KCR","rd_so_far","   0","-225"
+"KCR","wins_so_far","  0","101"
+"KCR","losses_so_far","  0","106"
+"KCR","record_so_far","0.00000000","1.00000000"
+"KCR","attendance_so_far","   5315","4910688"
