@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"TBR","date","Friday, Apr 10","Wednesday, Sep 9"
-"TBR","boxscore","boxscore","boxscore"
-"TBR","team","TBR","TBR"
-"TBR","home_or_away","@","0"
-"TBR","opponent","ARI","WSN"
-"TBR","win_or_loss","&V","W-wo"
-"TBR","runs"," 0","16"
-"TBR","runs_allowed"," 0","17"
-"TBR","innings"," 0","18"
-"TBR","win_loss_record","0-2","97-65"
-"TBR","rank","1","5"
-"TBR","win","Accardo","Zimmermann"
-"TBR","loss","Accardo","Zimmermann"
-"TBR","save","0","Ziegler"
-"TBR","time","1:44","6:54"
-"TBR","day_or_night","D","N"
-"TBR","attendance"," 6509","54279"
-"TBR","streak","-","+++++++++"
-"TBR","originally_scheduled","0","2016-04-09 (Snow)"
-"TBR","year","2008","2017"
-"TBR","games_ahead","  0.0","-27.0"
-"TBR","run_diff","  1","-13"
-"TBR","r_so_far","  0","800"
-"TBR","ra_so_far","  2","749"
-"TBR","rd_so_far","  0","160"
-"TBR","wins_so_far"," 0","96"
-"TBR","losses_so_far"," 0","93"
-"TBR","record_so_far","0.0000000","1.0000000"
-"TBR","attendance_so_far","  10505","4168807"
+"TBR","runs",0,16
+"TBR","runs_allowed",0,17
+"TBR","rank",1,5
+"TBR","attendance",6509,54279
+"TBR","year",2008,2017
+"TBR","games_ahead",-27,6
+"TBR","run_diff",-13,15
+"TBR","r_so_far",0,800
+"TBR","ra_so_far",2,749
+"TBR","rd_so_far",-74,160
+"TBR","wins_so_far",0,96
+"TBR","losses_so_far",0,93
+"TBR","record_so_far",0,1
+"TBR","attendance_so_far",10505,4168807

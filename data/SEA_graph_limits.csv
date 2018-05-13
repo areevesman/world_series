@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"SEA","date","Friday, Apr 10","Wednesday, Sep 9"
-"SEA","boxscore","boxscore","boxscore"
-"SEA","team","SEA","SEA"
-"SEA","home_or_away","@","0"
-"SEA","opponent","ANA","WSN"
-"SEA","win_or_loss","&H","W-wo"
-"SEA","runs"," 0","22"
-"SEA","runs_allowed"," 0","22"
-"SEA","innings"," 0","20"
-"SEA","win_loss_record","0-2","99-40"
-"SEA","rank","1","7"
-"SEA","win","0","Zych"
-"SEA","loss","0","Zych"
-"SEA","save","0","Zych"
-"SEA","time","1:21","6:06"
-"SEA","day_or_night","D","N"
-"SEA","attendance","  653","61065"
-"SEA","streak","-","+++++++++++++++"
-"SEA","originally_scheduled","0","2014-04-30 (Rain)"
-"SEA","year","1977","2017"
-"SEA","games_ahead","  0.0","-41.0"
-"SEA","run_diff","  0","-17"
-"SEA","r_so_far","  0","990"
-"SEA","ra_so_far","  1","897"
-"SEA","rd_so_far","   0","-225"
-"SEA","wins_so_far","  0","115"
-"SEA","losses_so_far","  0","104"
-"SEA","record_so_far","0.0000000","1.0000000"
-"SEA","attendance_so_far","   5213","6039518"
+"SEA","runs",0,22
+"SEA","runs_allowed",0,22
+"SEA","rank",1,7
+"SEA","attendance",653,61065
+"SEA","year",1977,2017
+"SEA","games_ahead",-41,21
+"SEA","run_diff",-17,17
+"SEA","r_so_far",0,990
+"SEA","ra_so_far",1,897
+"SEA","rd_so_far",-225,300
+"SEA","wins_so_far",0,115
+"SEA","losses_so_far",0,104
+"SEA","record_so_far",0,1
+"SEA","attendance_so_far",5213,6039518

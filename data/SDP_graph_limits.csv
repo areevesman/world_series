@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"SDP","date","Friday, Apr 10","Wednesday, Sep 9"
-"SDP","boxscore","boxscore","boxscore"
-"SDP","team","SDP","SDP"
-"SDP","home_or_away","@","0"
-"SDP","opponent","ANA","WSN"
-"SDP","win_or_loss","&H","W-wo"
-"SDP","runs"," 0","20"
-"SDP","runs_allowed"," 0","23"
-"SDP","innings"," 0","22"
-"SDP","win_loss_record","0-2","98-64"
-"SDP","rank","1","7"
-"SDP","win","0","Zito"
-"SDP","loss","0","Zito"
-"SDP","save","0","Zimmerman"
-"SDP","time","1:16","6:17"
-"SDP","day_or_night","D","N"
-"SDP","attendance","  987","63661"
-"SDP","streak","-","++++++++++++++"
-"SDP","originally_scheduled","0","2016-07-19 (Inclement weather)"
-"SDP","year","1969","2017"
-"SDP","games_ahead","  0.0","-43.0"
-"SDP","run_diff","  0","-19"
-"SDP","r_so_far","  0","787"
-"SDP","ra_so_far","  0","886"
-"SDP","rd_so_far","   0","-285"
-"SDP","wins_so_far"," 0","97"
-"SDP","losses_so_far","  0","110"
-"SDP","record_so_far","0.0000000","1.0000000"
-"SDP","attendance_so_far","   4218","5550778"
+"SDP","runs",0,20
+"SDP","runs_allowed",0,23
+"SDP","rank",1,7
+"SDP","attendance",987,63661
+"SDP","year",1969,2017
+"SDP","games_ahead",-43,16
+"SDP","run_diff",-19,16
+"SDP","r_so_far",0,787
+"SDP","ra_so_far",0,886
+"SDP","rd_so_far",-285,137
+"SDP","wins_so_far",0,97
+"SDP","losses_so_far",0,110
+"SDP","record_so_far",0,1
+"SDP","attendance_so_far",4218,5550778

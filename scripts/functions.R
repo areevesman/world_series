@@ -152,8 +152,8 @@ for (i in 1:I){
   #change "None" to "0" to avoid issues with missing values
   x[x == "None"] <- "0"
   
-  # x <- x %>%
-  #   
+  x <- x %>%
+
   #   mutate(team = team_choices[i]) %>%
   #   
   #   mutate(games_ahead = gsub(x = games_behind,
@@ -189,7 +189,21 @@ for (i in 1:I){
   #   
   #   mutate(attendance_so_far = cumsum(attendance)) %>%
   # 
-  #   mutate_all(as.numeric, na.rm = TRUE)
+    mutate_at(c("runs",
+                "runs_allowed",
+                "innings",
+                "rank",
+                "attendance",
+                "year",
+                "games_ahead",
+                "run_diff",
+                "r_so_far",
+                "ra_so_far",
+                "rd_so_far",
+                "wins_so_far",
+                "losses_so_far",
+                "record_so_far",
+                "attendance_so_far"), as.numeric, na.rm = TRUE)
 
   #get min and max values for each stat
   min_val <- apply(x,2, min, na.rm = TRUE)

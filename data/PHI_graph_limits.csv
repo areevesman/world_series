@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"PHI","date","Friday, Apr 10","Wednesday, Sep 9"
-"PHI","boxscore","0","boxscore"
-"PHI","team","PHI","PHI"
-"PHI","home_or_away","@","0"
-"PHI","opponent","ANA","WSN"
-"PHI","win_or_loss","*H","W-wo"
-"PHI","runs"," 0","29"
-"PHI","runs_allowed"," 0","29"
-"PHI","innings"," 0","21"
-"PHI","win_loss_record","0-1","99-61"
-"PHI","rank"," 1","11"
-"PHI","win","0","Zych"
-"PHI","loss","0","Zito"
-"PHI","save","0","Zinn"
-"PHI","time","0","7:06"
-"PHI","day_or_night","0","N"
-"PHI","attendance","   10","63816"
-"PHI","streak","-","++++++++++++++++"
-"PHI","originally_scheduled","0","2017-08-29 (Rain)"
-"PHI","year","1883","2017"
-"PHI","games_ahead","  0.0","-62.5"
-"PHI","run_diff","  0","-28"
-"PHI","r_so_far","   0","1177"
-"PHI","ra_so_far","   0","1199"
-"PHI","rd_so_far","   0","-441"
-"PHI","wins_so_far","  0","102"
-"PHI","losses_so_far","  0","112"
-"PHI","record_so_far","0.0000000","1.0000000"
-"PHI","attendance_so_far","   1000","6308543"
+"PHI","runs",0,29
+"PHI","runs_allowed",0,29
+"PHI","rank",1,11
+"PHI","attendance",10,63816
+"PHI","year",1883,2017
+"PHI","games_ahead",-62.5,15.5
+"PHI","run_diff",-28,25
+"PHI","r_so_far",0,1177
+"PHI","ra_so_far",0,1199
+"PHI","rd_so_far",-441,235
+"PHI","wins_so_far",0,102
+"PHI","losses_so_far",0,112
+"PHI","record_so_far",0,1
+"PHI","attendance_so_far",1000,6308543

@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"SFG","date","Friday, Apr 1","Wednesday, Sep 9"
-"SFG","boxscore","boxscore","boxscore"
-"SFG","team","SFG","SFG"
-"SFG","home_or_away","@","0"
-"SFG","opponent","ANA","WSN"
-"SFG","win_or_loss","&H","W-wo"
-"SFG","runs"," 0","23"
-"SFG","runs_allowed"," 0","20"
-"SFG","innings"," 0","23"
-"SFG","win_loss_record","0-2","99-61"
-"SFG","rank"," 1","10"
-"SFG","win","0","Zito"
-"SFG","loss","0","Zito"
-"SFG","save","0","Zimmerman"
-"SFG","time","1:14","7:23"
-"SFG","day_or_night","D","N"
-"SFG","attendance","  748","78672"
-"SFG","streak","-","++++++++++++++"
-"SFG","originally_scheduled","0","2015-04-26 (Rain)"
-"SFG","year","1958","2017"
-"SFG","games_ahead","  0.0","-41.0"
-"SFG","run_diff","  0","-17"
-"SFG","r_so_far","  0","921"
-"SFG","ra_so_far","  0","852"
-"SFG","rd_so_far","   0","-150"
-"SFG","wins_so_far","  0","102"
-"SFG","losses_so_far","  0","100"
-"SFG","record_so_far","0.0000000","1.0000000"
-"SFG","attendance_so_far","   4399","6127290"
+"SFG","runs",0,23
+"SFG","runs_allowed",0,20
+"SFG","rank",1,10
+"SFG","attendance",748,78672
+"SFG","year",1958,2017
+"SFG","games_ahead",-41,15.5
+"SFG","run_diff",-17,19
+"SFG","r_so_far",0,921
+"SFG","ra_so_far",0,852
+"SFG","rd_so_far",-150,188
+"SFG","wins_so_far",0,102
+"SFG","losses_so_far",0,100
+"SFG","record_so_far",0,1
+"SFG","attendance_so_far",4399,6127290

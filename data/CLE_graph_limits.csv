@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"CLE","date","Friday, Apr 10","Wednesday, Sep 9"
-"CLE","boxscore","0","boxscore"
-"CLE","team","CLE","CLE"
-"CLE","home_or_away","@","0"
-"CLE","opponent","ANA","WSN"
-"CLE","win_or_loss","*H","W-wo"
-"CLE","runs"," 0","27"
-"CLE","runs_allowed"," 0","24"
-"CLE","innings"," 0","22"
-"CLE","win_loss_record","0-2","99-62"
-"CLE","rank"," 1","10"
-"CLE","win","0","Zych"
-"CLE","loss","0","Zuverink"
-"CLE","save","0","Zuverink"
-"CLE","time","0","6:36"
-"CLE","day_or_night","0","N"
-"CLE","attendance","  200","86563"
-"CLE","streak","-","++++++++++++++++++++++"
-"CLE","originally_scheduled","0","2016-04-10 (Rain)"
-"CLE","year","1901","2017"
-"CLE","games_ahead","  0.0","-49.0"
-"CLE","run_diff","  0","-21"
-"CLE","r_so_far","   0","1004"
-"CLE","ra_so_far","  0","950"
-"CLE","rd_so_far","   0","-215"
-"CLE","wins_so_far","  0","112"
-"CLE","losses_so_far","  0","105"
-"CLE","record_so_far","0.00000000","1.00000000"
-"CLE","attendance_so_far","   1500","5883761"
+"CLE","runs",0,27
+"CLE","runs_allowed",0,24
+"CLE","rank",1,10
+"CLE","attendance",200,86563
+"CLE","year",1901,2017
+"CLE","games_ahead",-49,30
+"CLE","run_diff",-21,24
+"CLE","r_so_far",0,1004
+"CLE","ra_so_far",0,950
+"CLE","rd_so_far",-215,269
+"CLE","wins_so_far",0,112
+"CLE","losses_so_far",0,105
+"CLE","record_so_far",0,1
+"CLE","attendance_so_far",1500,5883761
