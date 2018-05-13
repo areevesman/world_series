@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"COL","date","Friday, Apr 10","Wednesday, Sep 9"
-"COL","boxscore","boxscore","boxscore"
-"COL","team","COL","COL"
-"COL","home_or_away","@","0"
-"COL","opponent","ANA","WSN"
-"COL","win_or_loss","L","W-wo"
-"COL","runs"," 0","20"
-"COL","runs_allowed"," 0","26"
-"COL","innings"," 0","22"
-"COL","win_loss_record","0-2","92-70"
-"COL","rank","1","7"
-"COL","win","Aardsma","Zito"
-"COL","loss","Acevedo","Zito"
-"COL","save","0","Zumaya"
-"COL","time","1:41","6:27"
-"COL","day_or_night","D","N"
-"COL","attendance"," 3037","80227"
-"COL","streak","-","+++++++++++"
-"COL","originally_scheduled","0","2016-08-30 (Rain)"
-"COL","year","1993","2017"
-"COL","games_ahead","  0.0","-38.0"
-"COL","run_diff","  1","-19"
-"COL","r_so_far","  1","968"
-"COL","ra_so_far","   0","1026"
-"COL","rd_so_far","   0","-233"
-"COL","wins_so_far"," 0","92"
-"COL","losses_so_far"," 0","98"
-"COL","record_so_far","0.00000000","1.00000000"
-"COL","attendance_so_far","  15648","5726992"
+"COL","runs",0,20
+"COL","runs_allowed",0,26
+"COL","rank",1,7
+"COL","attendance",3037,80227
+"COL","year",1993,2017
+"COL","games_ahead",-38,5
+"COL","run_diff",-19,19
+"COL","r_so_far",1,968
+"COL","ra_so_far",0,1026
+"COL","rd_so_far",-233,104
+"COL","wins_so_far",0,92
+"COL","losses_so_far",0,98
+"COL","record_so_far",0,1
+"COL","attendance_so_far",15648,5726992

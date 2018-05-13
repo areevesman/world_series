@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"BOS","date","Friday, Apr 10","Wednesday, Sep 9"
-"BOS","boxscore","0","boxscore"
-"BOS","team","BOS","BOS"
-"BOS","home_or_away","@","0"
-"BOS","opponent","ANA","WSN"
-"BOS","win_or_loss","*T","W-wo"
-"BOS","runs"," 0","29"
-"BOS","runs_allowed"," 0","27"
-"BOS","innings"," 0","20"
-"BOS","win_loss_record","0-2","99-64"
-"BOS","rank"," 1","10"
-"BOS","win","0","Zych"
-"BOS","loss","0","Zuverink"
-"BOS","save","0","Zuverink"
-"BOS","time","0","6:49"
-"BOS","day_or_night","0","N"
-"BOS","attendance","    1","82437"
-"BOS","streak","-","+++++++++++++++"
-"BOS","originally_scheduled","0","2016-05-16 (Rain)"
-"BOS","year","1901","2017"
-"BOS","games_ahead","  0.0","-65.0"
-"BOS","run_diff","  0","-24"
-"BOS","r_so_far","   0","1017"
-"BOS","ra_so_far","  0","916"
-"BOS","rd_so_far","   0","-353"
-"BOS","wins_so_far","  0","106"
-"BOS","losses_so_far","  0","110"
-"BOS","record_so_far","0.0000000","1.0000000"
-"BOS","attendance_so_far","   1406","6111371"
+"BOS","runs",0,29
+"BOS","runs_allowed",0,27
+"BOS","rank",1,10
+"BOS","attendance",1,82437
+"BOS","year",1901,2017
+"BOS","games_ahead",-65,16.5
+"BOS","run_diff",-24,25
+"BOS","r_so_far",0,1017
+"BOS","ra_so_far",0,916
+"BOS","rd_so_far",-353,253
+"BOS","wins_so_far",0,106
+"BOS","losses_so_far",0,110
+"BOS","record_so_far",0,1
+"BOS","attendance_so_far",1406,6111371

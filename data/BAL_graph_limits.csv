@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"BAL","date","Friday, Apr 10","Wednesday, Sep 9"
-"BAL","boxscore","boxscore","boxscore"
-"BAL","team","BAL","BAL"
-"BAL","home_or_away","@","0"
-"BAL","opponent","ANA","WSN"
-"BAL","win_or_loss","*H","W-wo"
-"BAL","runs"," 0","23"
-"BAL","runs_allowed"," 0","30"
-"BAL","innings"," 0","19"
-"BAL","win_loss_record","0-10","99-62"
-"BAL","rank"," 1","10"
-"BAL","win","0","Zych"
-"BAL","loss","0","Zuverink"
-"BAL","save","0","Zuverink"
-"BAL","time","0:48","6:54"
-"BAL","day_or_night","D","N"
-"BAL","attendance","  476","64540"
-"BAL","streak","-","++++++++++++++"
-"BAL","originally_scheduled","0","2016-05-09 (Rain)"
-"BAL","year","1954","2017"
-"BAL","games_ahead","  0.0","-57.5"
-"BAL","run_diff","  0","-27"
-"BAL","r_so_far","  0","945"
-"BAL","ra_so_far","  0","909"
-"BAL","rd_so_far","   0","-231"
-"BAL","wins_so_far","  0","110"
-"BAL","losses_so_far","  0","106"
-"BAL","record_so_far","0.00000000","1.00000000"
-"BAL","attendance_so_far","   1955","5900563"
+"BAL","runs",0,23
+"BAL","runs_allowed",0,30
+"BAL","rank",1,10
+"BAL","attendance",476,64540
+"BAL","year",1954,2017
+"BAL","games_ahead",-57.5,22
+"BAL","run_diff",-27,22
+"BAL","r_so_far",0,945
+"BAL","ra_so_far",0,909
+"BAL","rd_so_far",-231,270
+"BAL","wins_so_far",0,110
+"BAL","losses_so_far",0,106
+"BAL","record_so_far",0,1
+"BAL","attendance_so_far",1955,5900563

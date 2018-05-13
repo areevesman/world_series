@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"ATL","date","Friday, Apr 10","Wednesday, Sep 9"
-"ATL","boxscore","boxscore","boxscore"
-"ATL","team","ATL","ATL"
-"ATL","home_or_away","@","0"
-"ATL","opponent","ARI","WSN"
-"ATL","win_or_loss","&H","W-wo"
-"ATL","runs"," 0","20"
-"ATL","runs_allowed"," 0","23"
-"ATL","innings"," 0","20"
-"ATL","win_loss_record","0-10","99-60"
-"ATL","rank"," 1","10"
-"ATL","win","0","Zito"
-"ATL","loss","0","Zumaya"
-"ATL","save","0","Ziegler"
-"ATL","time","0","6:39"
-"ATL","day_or_night","0","N"
-"ATL","attendance","  737","72123"
-"ATL","streak","-","+++++++++++++++"
-"ATL","originally_scheduled","0","2017-08-29 (Rain)"
-"ATL","year","1966","2017"
-"ATL","games_ahead","  0.0","-40.5"
-"ATL","run_diff","  0","-21"
-"ATL","r_so_far","  0","905"
-"ATL","ra_so_far","  0","892"
-"ATL","rd_so_far","   0","-219"
-"ATL","wins_so_far","  0","105"
-"ATL","losses_so_far","  0","105"
-"ATL","record_so_far","0.0000000","1.0000000"
-"ATL","attendance_so_far","   6122","6785519"
+"ATL","runs",0,20
+"ATL","runs_allowed",0,23
+"ATL","rank",1,10
+"ATL","attendance",737,72123
+"ATL","year",1966,2017
+"ATL","games_ahead",-40.5,22
+"ATL","run_diff",-21,18
+"ATL","r_so_far",0,905
+"ATL","ra_so_far",0,892
+"ATL","rd_so_far",-219,244
+"ATL","wins_so_far",0,105
+"ATL","losses_so_far",0,105
+"ATL","record_so_far",0,1
+"ATL","attendance_so_far",6122,6785519

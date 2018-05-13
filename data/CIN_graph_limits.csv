@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"CIN","date","Friday, Apr 10","Wednesday, Sep 9"
-"CIN","boxscore","0","boxscore"
-"CIN","team","CIN","CIN"
-"CIN","home_or_away","@","0"
-"CIN","opponent","ANA","WSN"
-"CIN","win_or_loss","*H","W-wo"
-"CIN","runs"," 0","30"
-"CIN","runs_allowed"," 0","26"
-"CIN","innings"," 0","21"
-"CIN","win_loss_record","0-1","99-63"
-"CIN","rank"," 1","12"
-"CIN","win","0","Zmich"
-"CIN","loss","0","Zito"
-"CIN","save","0","Ziegler"
-"CIN","time","0","6:11"
-"CIN","day_or_night","0","N"
-"CIN","attendance","   10","99027"
-"CIN","streak","-","++++++++++++++"
-"CIN","originally_scheduled","0","2016-05-10 (Rain)"
-"CIN","year","1882","2017"
-"CIN","games_ahead","  0.0","-51.5"
-"CIN","run_diff","  0","-21"
-"CIN","r_so_far","  0","925"
-"CIN","ra_so_far","   0","1102"
-"CIN","rd_so_far","   0","-255"
-"CIN","wins_so_far","  0","107"
-"CIN","losses_so_far","  0","100"
-"CIN","record_so_far","0.00000000","1.00000000"
-"CIN","attendance_so_far","   1216","5036936"
+"CIN","runs",0,30
+"CIN","runs_allowed",0,26
+"CIN","rank",1,12
+"CIN","attendance",10,99027
+"CIN","year",1882,2017
+"CIN","games_ahead",-51.5,20.5
+"CIN","run_diff",-21,23
+"CIN","r_so_far",0,925
+"CIN","ra_so_far",0,1102
+"CIN","rd_so_far",-255,253
+"CIN","wins_so_far",0,107
+"CIN","losses_so_far",0,100
+"CIN","record_so_far",0,1
+"CIN","attendance_so_far",1216,5036936

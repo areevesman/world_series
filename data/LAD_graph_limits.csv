@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"LAD","date","Friday, Apr 1","Wednesday, Sep 9"
-"LAD","boxscore","boxscore","boxscore"
-"LAD","team","LAD","LAD"
-"LAD","home_or_away","@","0"
-"LAD","opponent","ANA","WSN"
-"LAD","win_or_loss","&H","W-wo"
-"LAD","runs"," 0","22"
-"LAD","runs_allowed"," 0","20"
-"LAD","innings"," 0","22"
-"LAD","win_loss_record","0-2","99-63"
-"LAD","rank"," 1","10"
-"LAD","win","0","Zito"
-"LAD","loss","0","Zito"
-"LAD","save","0","Ziegler"
-"LAD","time","1:11","7:14"
-"LAD","day_or_night","D","N"
-"LAD","attendance","  550","78672"
-"LAD","streak","-","+++++++++++++"
-"LAD","originally_scheduled","0","2016-08-30 (Rain)"
-"LAD","year","1958","2017"
-"LAD","games_ahead","  0.0","-35.0"
-"LAD","run_diff","  0","-19"
-"LAD","r_so_far","  0","839"
-"LAD","ra_so_far","  0","781"
-"LAD","rd_so_far","  0","229"
-"LAD","wins_so_far","  0","103"
-"LAD","losses_so_far"," 0","99"
-"LAD","record_so_far","0.0000000","1.0000000"
-"LAD","attendance_so_far","   2673","6553638"
+"LAD","runs",0,22
+"LAD","runs_allowed",0,20
+"LAD","rank",1,10
+"LAD","attendance",550,78672
+"LAD","year",1958,2017
+"LAD","games_ahead",-35,21
+"LAD","run_diff",-19,19
+"LAD","r_so_far",0,839
+"LAD","ra_so_far",0,781
+"LAD","rd_so_far",-85,229
+"LAD","wins_so_far",0,103
+"LAD","losses_so_far",0,99
+"LAD","record_so_far",0,1
+"LAD","attendance_so_far",2673,6553638

@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"TOR","date","Friday, Apr 10","Wednesday, Sep 9"
-"TOR","boxscore","boxscore","boxscore"
-"TOR","team","TOR","TOR"
-"TOR","home_or_away","@","0"
-"TOR","opponent","ANA","WSN"
-"TOR","win_or_loss","*H","W-wo"
-"TOR","runs"," 0","24"
-"TOR","runs_allowed"," 0","24"
-"TOR","innings"," 0","19"
-"TOR","win_loss_record","0-2","99-62"
-"TOR","rank","1","7"
-"TOR","win","0","Zito"
-"TOR","loss","0","Zych"
-"TOR","save","0","Zumaya"
-"TOR","time","1:05","6:37"
-"TOR","day_or_night","D","N"
-"TOR","attendance","  746","61753"
-"TOR","streak","-","+++++++++++"
-"TOR","originally_scheduled","0","2015-09-29 (Rain)"
-"TOR","year","1977","2017"
-"TOR","games_ahead","  0.0","-51.0"
-"TOR","run_diff","  0","-22"
-"TOR","r_so_far","  1","890"
-"TOR","ra_so_far","  0","904"
-"TOR","rd_so_far","   0","-240"
-"TOR","wins_so_far"," 0","99"
-"TOR","losses_so_far","  0","109"
-"TOR","record_so_far","0.0000000","1.0000000"
-"TOR","attendance_so_far","   5399","6550165"
+"TOR","runs",0,24
+"TOR","runs_allowed",0,24
+"TOR","rank",1,7
+"TOR","attendance",746,61753
+"TOR","year",1977,2017
+"TOR","games_ahead",-51,9.5
+"TOR","run_diff",-22,17
+"TOR","r_so_far",1,890
+"TOR","ra_so_far",0,904
+"TOR","rd_so_far",-240,231
+"TOR","wins_so_far",0,99
+"TOR","losses_so_far",0,109
+"TOR","record_so_far",0,1
+"TOR","attendance_so_far",5399,6550165

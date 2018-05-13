@@ -1,30 +1,15 @@
 "team","var","min_val","max_val"
-"STL","date","Friday, Apr 10","Wednesday, Sep 9"
-"STL","boxscore","0","boxscore"
-"STL","team","STL","STL"
-"STL","home_or_away","@","0"
-"STL","opponent","ANA","WSN"
-"STL","win_or_loss","*H","W-wo"
-"STL","runs"," 0","28"
-"STL","runs_allowed"," 0","28"
-"STL","innings"," 0","25"
-"STL","win_loss_record","0-1","99-62"
-"STL","rank"," 1","12"
-"STL","win","0","Zumaya"
-"STL","loss","0","Zmich"
-"STL","save","0","Zinn"
-"STL","time","0","7:04"
-"STL","day_or_night","0","N"
-"STL","attendance","   12","71784"
-"STL","streak","-","+++++++++++++++++"
-"STL","originally_scheduled","0","2016-07-25 (Rain)"
-"STL","year","1882","2017"
-"STL","games_ahead","  0.0","-63.5"
-"STL","run_diff","  0","-23"
-"STL","r_so_far","   0","1128"
-"STL","ra_so_far","   0","1084"
-"STL","rd_so_far","   0","-493"
-"STL","wins_so_far","  0","109"
-"STL","losses_so_far","  0","114"
-"STL","record_so_far","0.00000000","1.00000000"
-"STL","attendance_so_far","    500","6183441"
+"STL","runs",0,28
+"STL","runs_allowed",0,28
+"STL","rank",1,12
+"STL","attendance",12,71784
+"STL","year",1882,2017
+"STL","games_ahead",-63.5,19.5
+"STL","run_diff",-23,22
+"STL","r_so_far",0,1128
+"STL","ra_so_far",0,1084
+"STL","rd_so_far",-493,387
+"STL","wins_so_far",0,109
+"STL","losses_so_far",0,114
+"STL","record_so_far",0,1
+"STL","attendance_so_far",500,6183441

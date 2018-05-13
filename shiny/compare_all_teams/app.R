@@ -23,13 +23,11 @@ library(ggplot2)
 
 
 teamIDs <- get_data(table_name = "teamIDs", year = NULL)
-teamIDs$Franchise_ID[1] <- 'LAA'
-teamIDs$Team_ID[1] <- 'LAA'
-teamIDs$First_Year[1] <- as.integer(2005)
+teamIDs[1,] <- c("LAA", "LAA", "Los Angeles Angels of Anaheim", 2005)
+teamIDs <- teamIDs[c(2:14,1,15:nrow(teamIDs)),]
 
 team_choices <- teamIDs$Team_ID
 team_num_years <- 2018 - as.integer(teamIDs$First_Year)
-
 names(team_choices) <- teamIDs$Full_Team_Name
 names(team_num_years) <- teamIDs$Full_Team_Name
 
@@ -49,7 +47,8 @@ ui <- fluidPage(
    verticalLayout(
      wellPanel(
        #make a select box 
-       selectInput("select_team", label = h3("Team"), 
+       selectInput("select_team", 
+                   label = h3("Team"), 
                    choices = team_choices, 
                    selected = team_choices[1]),
        uiOutput("team"),
@@ -91,11 +90,12 @@ server <- function(input, output) {
    
   output$team <- renderUI({
     
-    year <- teamIDs[which(teamIDs$Team_ID == input$select_team),"First_Year"][[1,1]]
-    sliderInput("slider", label = h3("Year"), 
-                min = year, 
+    start_year <- as.numeric(teamIDs[which(teamIDs$Team_ID == input$select_team),"First_Year"][[1,1]])
+    sliderInput("slider", 
+                label = h3("Year"), 
+                min = start_year, 
                 max = 2017, 
-                value = year,
+                value = start_year,
                 sep = "",
                 round = TRUE,
                 step = 1,
@@ -106,57 +106,41 @@ server <- function(input, output) {
   team_data <- reactive({
     
     get_data(input$select_team, 
-                          input$slider,
-                          extention = 'csv') %>%
+             input$slider,
+             extention = 'csv') %>%
       
-      mutate(year = input$slider) %>%
-      
-      mutate(games_ahead = gsub(x = games_behind,
-                                pattern = 'Tied',
-                                replacement = '0')) %>%
-      mutate(games_ahead = gsub(pattern = 'up',
-                                replacement = '-',
-                                x = games_ahead)) %>%
-      mutate(games_ahead = gsub(pattern = ' ',
-                                replacement = '',
-                                x = games_ahead)) %>%
-      mutate(games_ahead = -1*as.numeric(games_ahead)) %>%
-      
-      mutate(run_diff = runs - runs_allowed) %>%
-      
-      mutate(attendance = as.character(attendance)) %>%
-      
-      mutate(attendance = str_remove_all(attendance, ",")) %>%
-      
-      mutate(attendance = as.numeric(attendance)) %>%
-      
-      mutate(r_so_far = cumsum(runs)) %>%
-      
-      mutate(ra_so_far = cumsum(runs_allowed)) %>%
-      
-      mutate(rd_so_far = cumsum(run_diff)) %>%
-      
-      mutate(wins_so_far = cumsum(!grepl(x = win_or_loss, pattern='L'))) %>%
-      
-      mutate(losses_so_far = cumsum(!grepl(x = win_or_loss, pattern='W'))) %>%
-      
-      mutate(record_so_far =  wins_so_far / (wins_so_far + losses_so_far)) %>%
-      
-      mutate(attendance_so_far = cumsum(attendance))
+      add_columns(year = input$slider)
+    
+
     
   })
   
   limit_data <- reactive({
     
-    get_data(paste(input$select_team,
-                   "_graph_limits",
+    stat <- input$select_stat
+    team_all_years <- get_data(paste(input$select_team,
+                   "_all_years",
                    sep = ""))
+    
+    var <- team_all_years[,c("year", stat)] %>%
+
+      mutate_all(function(col){ 
+        col[is.na(col)] <- "0"
+        col <- as.numeric(col)
+        col}) %>%
+
+      summarise(minimum = min(as.numeric(eval(parse(text = input$select_stat))), na.rm = TRUE),
+                maximum = max(as.numeric(eval(parse(text = input$select_stat))), na.rm = TRUE)) 
+      
+      
+
+    c(var[[1,"minimum"]], var[[1,"maximum"]])
     
   })
   
   output$test_print <- renderPrint({
 
-    #team_data()$attendance
+    limit_data()
     # c(-1.1 * abs(limit_data()[which(limit_data()$var == input$select_stat), "min_val"][[1,1]]),
     #   1.1 * limit_data()[which(limit_data()$var == input$select_stat), "max_val"][[1,1]])
     
@@ -170,8 +154,7 @@ server <- function(input, output) {
       geom_point(size = 2) +
       geom_line(size = 1) +
       xlim(c(-5,165)) +
-      ylim(c(-2.5 * abs(as.numeric(limit_data()[which(limit_data()$var == input$select_stat), "min_val"][[1,1]])),
-             1.1 * as.numeric(limit_data()[which(limit_data()$var == input$select_stat), "max_val"][[1,1]]))) +
+      ylim(limit_data()) +
       xlab("Game Number in Season") +
       ylab("")
     
