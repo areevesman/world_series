@@ -170,8 +170,8 @@ server <- function(input, output) {
       geom_point(size = 2) +
       geom_line(size = 1) +
       xlim(c(-5,165)) +
-      ylim(c(-1.1 * abs(limit_data()[which(limit_data()$var == input$select_stat), "min_val"][[1,1]]),
-             1.1 * limit_data()[which(limit_data()$var == input$select_stat), "max_val"][[1,1]])) +
+      ylim(c(-2.5 * abs(as.numeric(limit_data()[which(limit_data()$var == input$select_stat), "min_val"][[1,1]])),
+             1.1 * as.numeric(limit_data()[which(limit_data()$var == input$select_stat), "max_val"][[1,1]]))) +
       xlab("Game Number in Season") +
       ylab("")
     
