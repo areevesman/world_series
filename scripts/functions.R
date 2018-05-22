@@ -285,6 +285,11 @@ for (i in 1:I){
               na.rm = TRUE)
   
   
+<<<<<<< HEAD
+=======
+  x <- x %>%
+
+>>>>>>> 1d1bf60d396c23bfb64e6af26d410625e79b1b24
   #   mutate(team = team_choices[i]) %>%
   #   
   #   mutate(games_ahead = gsub(x = games_behind,
@@ -320,9 +325,27 @@ for (i in 1:I){
   #   
   #   mutate(attendance_so_far = cumsum(attendance)) %>%
   # 
+<<<<<<< HEAD
     
   
   print(x)
+=======
+    mutate_at(c("runs",
+                "runs_allowed",
+                "innings",
+                "rank",
+                "attendance",
+                "year",
+                "games_ahead",
+                "run_diff",
+                "r_so_far",
+                "ra_so_far",
+                "rd_so_far",
+                "wins_so_far",
+                "losses_so_far",
+                "record_so_far",
+                "attendance_so_far"), as.numeric, na.rm = TRUE)
+>>>>>>> 1d1bf60d396c23bfb64e6af26d410625e79b1b24
 
   #get min and max values for each stat
   
