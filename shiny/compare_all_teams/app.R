@@ -9,7 +9,8 @@ library(plyr)
 library(dplyr)
 library(stringr)
 library(ggplot2)
-#source('~/Documents/github/world_series/scripts/functions.R')
+library(plotly)
+source('~/Documents/github/world_series/scripts/functions.R')
 
 
 ################
@@ -31,13 +32,40 @@ team_num_years <- 2018 - as.integer(teamIDs$First_Year)
 names(team_choices) <- teamIDs$Full_Team_Name
 names(team_num_years) <- teamIDs$Full_Team_Name
 
+divisions <- c('NLW', 'NLE', 'ALE', 'ALE', 'NLC', 'ALC', 'NLC', 'ALC', 'NLW',
+               'ALC', 'NLE', 'ALW', 'ALC', 'ALW', 'NLW', 'NLC', 'ALC', 'NLE',
+               'ALE', 'ALW', 'NLE', 'NLC', 'NLW', 'ALW', 'NLW', 'NLC', 'ALE',
+               'ALW', 'ALE', 'NLE')
+
+teamIDs$division <- divisions
+
+names(divisions) <- str_replace_all(divisions, 
+                                    c("ALW" = "American League West",
+                                      "ALC" = "American League Central",
+                                      "ALE" = "American League East",
+                                      "NLW" = "National League West", 
+                                      "NLC" = "National League Central", 
+                                      "NLE" = "National League East"))
+division_choices <- sort(unique(divisions))
+names(division_choices) <- sort(unique(names(divisions)))
 
 
 
+select_stat_choices <- list("Record" = "record_so_far",
+                            "Win-Loss Differential" = "win_loss_differential",
+                            "Games Ahead/Behind in Division" = "games_ahead",
+                            "Cumulative Wins" = "wins_so_far",
+                            "Runs" = "runs", 
+                            "Runs Allowed" = "runs_allowed",
+                            "Run Differential" = "run_diff",
+                            "Cumulative Runs" = "r_so_far", 
+                            "Cumulative Runs Allowed" = "ra_so_far",
+                            "Cumulative Run Differential" = "rd_so_far")
+  
 
 
 # Define UI for application that draws a histogram
-ui <- fluidPage(
+ui <- fluidPage(theme = shinytheme("yeti"),
   
   
    
@@ -45,7 +73,9 @@ ui <- fluidPage(
    titlePanel("A History of Major League Baseball's Active Franchises"),
    
    verticalLayout(
-     wellPanel(
+       
+      wellPanel(
+       
        #make a select box 
        selectInput("select_team", 
                    label = h3("Team"), 
@@ -54,40 +84,20 @@ ui <- fluidPage(
        uiOutput("team"),
        
        selectInput("select_stat", label = h3("Statistic"),
-                   choices = list("Record" = "record_so_far",
-                                  "Runs" = "runs", 
-                                  "Runs Allowed" = "runs_allowed", 
-                                  "Run Differential" = "run_diff",
-                                  "Attendance" = "attendance",
-                                  "Cumulative Runs" = "r_so_far", 
-                                  "Cumulative Runs Allowed" = "ra_so_far",
-                                  "Cumulative Run Differential" = "rd_so_far",
-                                  "Cumulative Wins" = "wins_so_far",
-                                  "Cumulative Attendance" = "attendance_so_far",
-                                  "Games Ahead/Behind in Division" = "games_ahead"),
+                   choices = select_stat_choices,
                    selected = "Runs"),
-       plotOutput("ts_plot"),
-       textOutput("test_print")
+       plotlyOutput("detailed_plot")
+       #,
+       #plotOutput("ts_plot"),
+       #textOutput("test_print")
      )
-       
-    #    # Copy the line below to make a slider range 
-    #    sliderInput("slider", label = h3("Years"), min = uiOutput("year"), 
-    #                max = 2017, value = c(2001, 2010)),
-    #    uiOutput("year")
-    #  )
-    # )
-   #    
-   #    # Show a plot of the generated distribution
-   #    mainPanel(
-   #       plotOutput("distPlot")
-   #    )
    )
 )
 
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {
-   
+
   output$team <- renderUI({
     
     start_year <- as.numeric(teamIDs[which(teamIDs$Team_ID == input$select_team),"First_Year"][[1,1]])
@@ -99,8 +109,8 @@ server <- function(input, output) {
                 sep = "",
                 round = TRUE,
                 step = 1,
-                animate = animationOptions(interval = 900))
-    
+                animate = animationOptions(interval = 900, playButton = "Play Animation"))
+                #animate = TRUE)
   })
   
   team_data <- reactive({
@@ -110,9 +120,6 @@ server <- function(input, output) {
              extention = 'csv') %>%
       
       add_columns(year = input$slider)
-    
-
-    
   })
   
   limit_data <- reactive({
@@ -134,39 +141,63 @@ server <- function(input, output) {
       
       
 
-    c(var[[1,"minimum"]], var[[1,"maximum"]])
+    c(var[[1,"minimum"]], 1.1*var[[1,"maximum"]])
     
   })
   
-  output$test_print <- renderPrint({
-
-    limit_data()
-    # c(-1.1 * abs(limit_data()[which(limit_data()$var == input$select_stat), "min_val"][[1,1]]),
-    #   1.1 * limit_data()[which(limit_data()$var == input$select_stat), "max_val"][[1,1]])
-    
+  mid_line <- reactive({
+    if (input$select_stat == "record_so_far"){
+      intercept <- 0.5
+    }
+    else {
+      intercept <- 0
+    }
+    intercept
   })
   
-  output$ts_plot <- renderPlot({
+  output$detailed_plot <- renderPlotly({
+    
+    x <- 1:nrow(team_data())
+    y <- team_data()[[input$select_stat]]
+    hover <- paste(team_data()[["date"]], "\n",
+                   team_data()[["who_and_where"]], "\n",
+                   "Score: ", team_data()[["runs"]], "-", team_data()[["runs_allowed"]],
+                   ", ", team_data()[["winner"]], "\n",
+                   sep = '')
     
     team_data() %>%
-    ggplot(mapping = aes(x = 1:nrow(team_data()),
-                         y = team_data()[,input$select_stat])) +
-      geom_point(size = 2) +
-      geom_line(size = 1) +
-      xlim(c(-5,165)) +
-      ylim(limit_data()) +
-      xlab("Game Number in Season") +
-      ylab("")
-    
-  })
-    
+      plot_ly(x = ~x,
+              y = ~y, 
+              hovertext = hover,
+              hoverinfo = "text",
+              type = 'scatter', 
+              mode = 'lines+markers') %>%
+      layout(xaxis = list(title = "Game Number in Season"),
+             yaxis = list(title = names(select_stat_choices[select_stat_choices==input$select_stat]),
+                          range = limit_data()))
 
-  # output$year <- reactive({
-  #   a <- as.integer(teamIDs$teamIDs[which(teamIDs$teamIDs$Team_ID == input$select),"First_Year"][[1,1]])
-  #   return(a)
+  })
+  
+  # output$ts_plot <- renderPlot({
+  #   
+  #   team_data() %>%
+  #   ggplot(mapping = aes(x = 1:nrow(team_data()),
+  #                        y = team_data()[,input$select_stat])) +
+  #     geom_point(size = 2) +
+  #     geom_line(size = 1) +
+  #     geom_hline(yintercept = mid_line(), color = "red", size = 1) +
+  #     xlim(c(-5,165)) +
+  #     ylim(limit_data()) +
+  #     xlab("Game Number in Season") +
+  #     ylab("")
+  #   
   # })
   
-  
+  output$test_print <- renderPrint({
+    
+    head(team_data(), 1)
+    
+  })
 
  }
 
@@ -174,28 +205,5 @@ server <- function(input, output) {
 shinyApp(ui = ui, server = server)
 
 
-#blah <- get_data("ATL", years = 2000:2005, extention = "txt")
-# lapply(team_data_list,
-#        mutate,
-#        year = names(team_data_list))
 
-#nrow(blah[[1]])
-
-
-
-
-# x[[1]] <- x[[1]] %>%
-#   mutate(year = str_sub(names(x)[[1]],-4,-1),
-#          attendance = ifelse("None",NA,as.integer(str_replace(attendance,",","")))) %>%
-#   mutate(games_ahead = gsub(x = games_behind,
-#                             pattern = 'Tied',
-#                             replacement = '0')) %>%
-#   mutate(games_ahead = gsub(pattern = 'up',
-#                             replacement = '-',
-#                             x = games_ahead)) %>%
-#   mutate(games_ahead = gsub(pattern = ' ',
-#                             replacement = '',
-#                             x = games_ahead)) %>%
-#   mutate(games_ahead = -1*as.numeric(games_ahead)) %>%
-#   mutate(run_diff = runs - runs_allowed)
 
