@@ -3,8 +3,6 @@ library(plyr)
 library(dplyr)
 library(stringr)
 
-data_directory <- "/Users/areevesman/Documents/github/world_series/data"
-
 get_data <- function(table_name, year = NULL, extention = "csv"){
   
   #get all urls to all table_name data on github
@@ -63,7 +61,7 @@ team_data <- original_team_data %>%
   
   mutate(attendance = as.character(attendance)) %>%
   
-  mutate(attendance = str_remove_all(attendance, ",")) %>%
+  mutate(attendance = str_replace_all(attendance, ",", "")) %>%
   
   mutate(attendance = as.numeric(attendance)) %>%
   
